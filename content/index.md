@@ -1,5 +1,5 @@
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
-# ¡Bienvenido/a a mi recopilatorio personal de escritos!
+# ¡Bienvenido/a a mi recopilación de escritos!
 
 Me llamo Jordi Iranzo Martínez, soy técnico de medio ambiente e intento trabajar de divulgador.
 
@@ -16,7 +16,7 @@ Además, cuento con un mercado de tarjetas de memoria de Remnote para preparar o
 
 ---
 
-# Welcome to my personal collection of writings!
+# Welcome to my collection of writings!
 
 My name is Jordi Iranzo Martínez, I'm an environmental technician and I try to work as a science communicator.
 
