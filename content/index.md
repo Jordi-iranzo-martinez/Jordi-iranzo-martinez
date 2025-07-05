@@ -1,4 +1,4 @@
-![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](jordi-iranzo-martinez)
+![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](Jordi-Iranzo-Martinez)
 # ¡Bienvenido/a a mi recopilatorio personal de escritos!
 
 Me llamo Jordi Iranzo Martínez, soy técnico de medio ambiente e intento trabajar de divulgador.
