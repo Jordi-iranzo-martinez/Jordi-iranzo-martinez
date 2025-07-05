@@ -63,7 +63,7 @@ Los pellets se transportan hasta granjas de demostración en la Universitat Poli
 
 Como actividades adicionales, se encuentran el seguimiento de su sostenibilidad, por Low Carbon Economy; la difusión y sensibilización a cargo del Ajuntament de València-Servicio Devesa-Albufera y el Ajuntament de La Vall d’Uixò, y la elaboración de un plan de replicación (en otros lugares geográficos) y transferencia (otros sectores económicos), por parte de Area Europa scarl.
 
-# **Presente y futuro de Low Carbon Feed**
+# Presente y futuro de Low Carbon Feed
 
 Con los primeros resultados provisionales, las cabras han aceptado el producto, mantenido la producción de leche, y reducido sus emisiones de metano en aproximadamente un 10%: de 5 kg/año a 4’5 Kg/año (Fernández et al., 2018).
 
