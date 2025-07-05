@@ -3,7 +3,7 @@
 
 LIFE Low Carbon Feed (LCFEED) es un proyecto de valorización de los residuos agrícolas del arroz y de cítricos mediante el reciclaje para la fabricación de piensos para ganado rumiante, en particular caprino. Sus objetivos son reducir la contaminación y contribuir a la mitigación del cambio climático, gracias a que se evita la quema de dichos productos y al efecto de los aceites esenciales en los microorganismos productores de metano (CH4) –el más peligroso gas de efecto invernadero– del rumen-retículo de los animales rumiantes.
 
-(attachments/lcfeed-recogida-poda-citricos.png)
+![Recogida de restos de poda de cítricos(attachments/lcfeed-recogida-poda-citricos.png)
 *Recogida de restos de poda de cítricos. / LIFE Low Carbon Feed (LCFEED).*
 
 # Contexto económico-ambiental: España y Comunitat Valenciana
