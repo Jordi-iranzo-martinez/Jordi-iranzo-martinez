@@ -13,7 +13,7 @@ Para cualquier consulta puedes contactarme a través del siguiente correo electr
 
 Además, cuento con un mercado de tarjetas de memoria de Remnote para preparar oposiciones de administrativo y técnico de medio ambiente en España y también vocabulario de idiomas. Me puedes preguntar sin compromiso. Su dirección web es: https://memlex.gumroad.com/
 
-
+<a href="/index.xml">📡 Suscríbete vía RSS</a>
 ---
 
 # Welcome to my collection of writings!
@@ -29,3 +29,5 @@ For any inquiry you can contact me through the following email: jordi.im@proton.
 ## Memlex
 
 I also have a marketplace of RemNote memory cards to prepare for administrative and environmental technician civil service exams in Spain, as well as language vocabulary. You can ask me about it without commitment. Its web address is: https://memlex.gumroad.com/
+
+<a href="/index.xml">📡 Suscríbete vía RSS</a>
