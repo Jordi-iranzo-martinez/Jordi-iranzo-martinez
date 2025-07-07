@@ -6,6 +6,4 @@ Dejo el libro y disfruto del paisaje. Permito que mi vaho repose sobre el vidrio
 
 Aún arrecia. Abro la ventana y me asomo. La lluvia aumenta su sonido. Percibo el frío, el aire despejado, las gotas que ahora caen sobre mi cara… Me siento feliz.
 
-Sonrío a un animal que no comprende. Celebro seguir vivo. 
-
-Escampa finalmente.
+Sonrío a un animal que no comprende. Celebro seguir vivo. Escampa finalmente.
