@@ -13,12 +13,6 @@ Para cualquier consulta puedes contactarme a través del siguiente correo electr
 
 Además, cuento con un mercado de tarjetas de memoria de Remnote para preparar oposiciones de administrativo y técnico de medio ambiente en España y también vocabulario de idiomas. Me puedes preguntar sin compromiso. Su dirección web es: https://memlex.gumroad.com/
 
-## 📡 Suscríbete a las actualizaciones</h3>
-<p>¿Quieres saber cuándo publico algo nuevo? 
-  <a href="/index.xml">Usa este enlace RSS</a> en tu lector 
-  (como <a href="https://feedly.com">Feedly</a> o tu lector favorito).</p>
----
-
 # Welcome to my collection of writings!
 
 My name is Jordi Iranzo Martínez, I'm an environmental technician and I try to work as a science communicator.
@@ -32,7 +26,3 @@ For any inquiry you can contact me through the following email: jordi.im@proton.
 ## Memlex
 
 I also have a marketplace of RemNote memory cards to prepare for administrative and environmental technician civil service exams in Spain, as well as language vocabulary. You can ask me about it without commitment. Its web address is: https://memlex.gumroad.com/
-
-
-
-<a href="/index.xml">📡 Suscríbete vía RSS</a>
