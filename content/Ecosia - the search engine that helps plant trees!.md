@@ -21,7 +21,7 @@ Their idea is to capture carbon from the atmosphere, restore ecosystems and prot
 
 They used to donate 80% of their revenues, but in 2018 they transitioned to a steward-ownership model and sold all shares to the non-profit [Purpose Foundation](https://purpose-economy.org), and now they donate 100%.
 
-![[Ecosia team.png]]
+![Ecosia team](ecosia-team-employees-office.jpg)
 Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 _Purpose Foundation is actually focused on enhancing this business model: where the control stays with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Other famous companies, like also German Bosch and Zeiss already work on it-_
@@ -30,7 +30,7 @@ _Purpose Foundation is actually focused on enhancing this business model: where 
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) are global, comprising more than 70 active ones in over 35 countries. They are expanding quickly! The projects are run by local organizations and people they finance (they have some [pictures over here](\(https://www.dropbox.com/scl/fo/lva66nkkvvu87rht9crm2/AGSSoYOUfGBiUQSJNmwb9SM/Project%20%26%20tree%20pictures%20-%20Photo%20Credit%3A%20Ecosia?rlkey=578ovw0tjw4f0oxgci32hnv7f&e=1&subfolder_nav_tracking=1&dl=0\)).
 
-![[Ethiopia.png]]
+![Ecosia reforestation project in Ethiopia](ecosia-tree-planting-ethiopia-reforestation.jpg)
 Ecosia reforestation project in Ethiopia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 But they have not just committed to trees. Related to the climate change crisis, they have built their own solar power plants, and now they are 200% carbon negative. It means they do produce twice as much energy as they need!
@@ -41,7 +41,7 @@ Besides, they have partnered with several companies and organizations, in both d
 
 On the deforestation issue, they have invested in companies like [Planet-A-Foods](https://planet-a-foods.com/), which sells a deforestation-free chocolate, and [Juicy Marbles](https://juicymarbles.com/), that develops a plant-based filet mignon. Perhaps the most important contribution is the 2020 partnership with [TreeCard](https://www.treecard.org/). This independent wooden debit card company dedicates 80% of its interchange fees to reforestation. It means approximately one tree for every $60 spent.
 
-!(attachments/ecosia-forest-restoration-burkina-faso.jpg)
+![Ecosia's supporting reforestation project in Burkina Faso](attachments/ecosia-forest-restoration-burkina-faso.jpg)
 Ecosia's supporting reforestation project in Burkina Faso. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 
