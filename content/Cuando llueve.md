@@ -7,3 +7,5 @@ Dejo el libro y disfruto del paisaje. Permito que mi vaho repose sobre el vidrio
 Aún arrecia. Abro la ventana y me asomo. La lluvia aumenta su sonido. Percibo el frío, el aire despejado, las gotas que ahora caen sobre mi cara… Me siento feliz.
 
 Sonrío a un animal que no comprende. Celebro seguir vivo. Escampa finalmente.
+
+[Gatito mirando a través de una ventana con la cabeza ladeada, en una tarde lluviosa](attachments/gato-lluvia.jpg)
