@@ -8,4 +8,4 @@ Aún arrecia. Abro la ventana y me asomo. La lluvia aumenta su sonido. Percibo e
 
 Sonrío a un animal que no comprende. Celebro seguir vivo. Escampa finalmente.
 
-[Gatito mirando a través de una ventana con la cabeza ladeada, en una tarde lluviosa](attachments/gato-lluvia.jpg)
+![Gatito mirando a través de una ventana con la cabeza ladeada, en una tarde lluviosa](attachments/gato-lluvia.jpg)
