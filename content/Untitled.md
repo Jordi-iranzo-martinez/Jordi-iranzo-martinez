@@ -1,0 +1,1 @@
+No lo sé, hijo; limítate tan sólo a respetarlas.
