@@ -12,7 +12,7 @@ Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
 
 It belongs to German company Ecosia GmbH, founded by German economist Christian Kroll in 2009 during the UN climate talks in Copenhagen (COP 15). He established two key commitments: never sell Ecosia and never take profits out of it.
 
-![Ecosia's CEO and founder Christian Kroll](attachments/christian-kroll-ecosia-ceo-founder-green-office.jpg)
+![*Ecosia's CEO and founder Christian Kroll*](attachments/christian-kroll-ecosia-ceo-founder-green-office.jpg)
 Ecosia's CEO Christian Kroll. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 # Business model
 
