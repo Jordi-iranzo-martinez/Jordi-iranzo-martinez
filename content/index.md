@@ -7,6 +7,8 @@ title: "Inicio / Homepage"
 
 Soy técnico de medio ambiente con formación en Ciencias Ambientales por la Universitat de València y experiencia práctica en gestión ambiental tanto en el sector público como privado. 
 
+Trabajo en español, valenciano e inglés, con conocimientos de italiano, portugués, francés y ruso.
+
 Mi trayectoria combina conocimiento técnico especializado con sólido dominio de la normativa de aplicación y capacidad de comunicación en múltiples idiomas.
 
 Mi enfoque profesional se centra en hacer accesible el conocimiento ambiental, transformando conceptos técnicos complejos en contenido comprensible para diferentes audiencias.
@@ -64,6 +66,9 @@ Para proyectos técnicos, colaboraciones en comunicación ambiental, o consultas
 # Environmental Technician • Environmental Law Specialist • Science Communicator
 
 I'm an environmental technician with a degree in Environmental Sciences from the University of València and practical experience in environmental management in both public and private sectors. 
+
+I work across multiple languages - Spanish, Valencian, and English fluently, with working knowledge of Italian, Portuguese, French, and a little bit of Russian.
+
 
 My career combines specialized technical knowledge with solid command of applicable regulations and multilingual communication skills.
 
