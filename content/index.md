@@ -3,11 +3,11 @@ title: "Inicio / Homepage"
 ---
 
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
-# Técnico de Medio Ambiente • Especialista en Normativa Ambiental • Divulgador
+# Técnico de Medio Ambiente • Especialista en Normativa Ambiental (España y Unión Europea) • Divulgador
 
-Soy técnico de medio ambiente con formación en Ciencias Ambientales por la Universitat de València y experiencia práctica en gestión ambiental tanto en el sector público como privado. 
+Soy técnico de medio ambiente con formación en Ciencias Ambientales por la Universitat de València y experiencia aplicada en gestión ambiental, principalmente en el sector público. 
 
-Trabajo en español, valenciano e inglés, con conocimientos de italiano, portugués, francés y ruso.
+Trabajo en español, valenciano e inglés, con conocimientos de italiano, portugués, francés y un poco de ruso.
 
 Mi trayectoria combina conocimiento técnico especializado con sólido dominio de la normativa de aplicación y capacidad de comunicación en múltiples idiomas.
 
@@ -27,11 +27,11 @@ Mi enfoque profesional se centra en hacer accesible el conocimiento ambiental, t
 - Redacción técnica: Informes, estudios y documentación técnica especializada
 - Comunicación multilingüe: Competencia avanzada en español, valenciano, inglés, y conocimientos de italiano, portugués, francés y ruso
 
-## Mi Propuesta de Valor
+## Servicios Profesionales Disponibles
 Para proyectos técnicos, aporto:
 
 - Conocimiento exhaustivo de la normativa aplicable
-- Capacidad para abordar cualquier desafío técnico ambiental
+- Capacidad para afrontar desafíos técnicos ambientales 
 - Experiencia práctica en diferentes contextos (público/privado, nacional/internacional)
 - Rigor metodológico y atención al detalle
 
@@ -42,20 +42,10 @@ Para comunicación y divulgación, ofrezco:
 - Capacidad de comunicación en múltiples idiomas
 - Comprensión profunda de los fundamentos científicos
 
-## Contenido Profesional
-Este espacio se desarrollará progresivamente con escritos especializados sobre:
-
-Análisis de normativa ambiental y sus implicaciones prácticas
-Casos de estudio en gestión ambiental
-Divulgación científica accesible
-Recursos para profesionales del sector
-
-Todo disponible en castellano, valenciano e inglés.
-
 ## Servicios Especializados
 Memlex - Recursos para memorización de normativa legal y vocabulario de idiomas
 Marketplace de materiales de estudio optimizados para oposiciones de técnico de medio ambiente y administrativo, desarrollados desde mi experiencia práctica en preparación de oposiciones.
-Consulta especializada: memlex.gumroad.com
+Dirección web: memlex.gumroad.com
 
 ## Contacto Profesional
 Email: jordi.im@proton.me
@@ -63,12 +53,11 @@ Para proyectos técnicos, colaboraciones en comunicación ambiental, o consultas
 
 ---
 
-# Environmental Technician • Environmental Law Specialist • Science Communicator
+# Environmental Technician • Environmental Law Specialist (Spain and European Union) • Science Communicator
 
-I'm an environmental technician with a degree in Environmental Sciences from the University of València and practical experience in environmental management in both public and private sectors. 
+I'm an environmental technician with a degree in Environmental Sciences from the University of València and applied experience in environmental management, mainly in the public sector. 
 
 I work across multiple languages - Spanish, Valencian, and English fluently, with working knowledge of Italian, Portuguese, French, and a little bit of Russian.
-
 
 My career combines specialized technical knowledge with solid command of applicable regulations and multilingual communication skills.
 
