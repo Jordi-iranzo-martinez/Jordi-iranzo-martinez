@@ -1,28 +1,104 @@
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
-# ¡Bienvenido/a a mi recopilación de escritos!
+# Técnico de Medio Ambiente • Especialista en Normativa Ambiental • Divulgador
 
-Me llamo Jordi Iranzo Martínez, soy técnico de medio ambiente e intento trabajar de divulgador.
+Soy técnico de medio ambiente con formación en Ciencias Ambientales por la Universitat de València y experiencia práctica en gestión ambiental tanto en el sector público como privado. 
 
-Aquí encontrarás textos sobre medio ambiente, educación y cultura, en castellano, valenciano e inglés. 
+Mi trayectoria combina conocimiento técnico especializado con sólido dominio de la normativa de aplicación y capacidad de comunicación en múltiples idiomas.
 
-## Contacto 
+Mi enfoque profesional se centra en hacer accesible el conocimiento ambiental, transformando conceptos técnicos complejos en contenido comprensible para diferentes audiencias.
 
-Para cualquier consulta puedes contactarme a través del siguiente correo electrónico: jordi.im@proton.me
+## Dominio Normativo Especializado
 
-## Memlex 
+- Normativa ambiental a nivel europeo, estatal y autonómico
+- Legislación de residuos, aguas, atmósfera y espacios naturales
+- Procedimientos administrativos y evaluación de impacto ambiental
+- Ordenanzas municipales y planificación territorial
 
-Además, cuento con un mercado de tarjetas de memoria de Remnote para preparar oposiciones de administrativo y técnico de medio ambiente en España y también vocabulario de idiomas. Me puedes preguntar sin compromiso. Su dirección web es: https://memlex.gumroad.com/
+## Capacidades Técnicas Avanzadas
 
-# Welcome to my collection of writings!
+- Cartografía y GIS: Elaboración de cartografía especializada con Q-GIS para ordenanzas municipales y estudios ambientales
+- Análisis de datos: Procesamiento y análisis de información ambiental compleja
+- Redacción técnica: Informes, estudios y documentación técnica especializada
+- Comunicación multilingüe: Competencia avanzada en español, valenciano, inglés, y conocimientos de italiano, portugués, francés y ruso
 
-My name is Jordi Iranzo Martínez, I'm an environmental technician and I try to work as a science communicator.
+## Mi Propuesta de Valor
+Para proyectos técnicos, aporto:
 
-Here you'll find texts about environment, education and culture, in Spanish, Valencian and English.
+- Conocimiento exhaustivo de la normativa aplicable
+- Capacidad para abordar cualquier desafío técnico ambiental
+- Experiencia práctica en diferentes contextos (público/privado, nacional/internacional)
+- Rigor metodológico y atención al detalle
 
-## Contact
+Para comunicación y divulgación, ofrezco:
 
-For any inquiry you can contact me through the following email: jordi.im@proton.me
+- Habilidad para traducir complejidad técnica en mensajes claros
+- Experiencia en redacción para diferentes audiencias
+- Capacidad de comunicación en múltiples idiomas
+- Comprensión profunda de los fundamentos científicos
 
-## Memlex
+## Contenido Profesional
+Este espacio se desarrollará progresivamente con escritos especializados sobre:
 
-I also have a marketplace of RemNote memory cards to prepare for administrative and environmental technician civil service exams in Spain, as well as language vocabulary. You can ask me about it without commitment. Its web address is: https://memlex.gumroad.com/
+Análisis de normativa ambiental y sus implicaciones prácticas
+Casos de estudio en gestión ambiental
+Divulgación científica accesible
+Recursos para profesionales del sector
+
+Todo disponible en castellano, valenciano e inglés.
+
+## Servicios Especializados
+Memlex - Recursos para memorización de normativa legal y vocabulario de idiomas
+Marketplace de materiales de estudio optimizados para oposiciones de técnico de medio ambiente y administrativo, desarrollados desde mi experiencia práctica en preparación de oposiciones.
+Consulta especializada: memlex.gumroad.com
+
+## Contacto Profesional
+Email: jordi.im@proton.me
+Para proyectos técnicos, colaboraciones en comunicación ambiental, o consultas sobre normativa y procedimientos ambientales.
+
+
+# Environmental Technician • Environmental Law Specialist • Science Communicator
+
+I'm an environmental technician with a degree in Environmental Sciences from the University of València and practical experience in environmental management in both public and private sectors. 
+
+My career combines specialized technical knowledge with solid command of applicable regulations and multilingual communication skills.
+
+My professional approach focuses on making environmental knowledge accessible, transforming complex technical concepts into understandable content for different audiences.
+
+## Specialized Regulatory Knowledge
+After years of civil service exam preparation, I possess deep knowledge of:
+
+- Environmental regulations at European, national, and regional levels
+- Waste, water, atmosphere, and natural areas legislation
+- Administrative procedures and environmental impact assessment
+- Municipal ordinances and territorial planning
+
+## Advanced Technical Capabilities
+
+Mapping and GIS: Creation of specialized cartography with Q-GIS for municipal ordinances and environmental studies
+Data analysis: Processing and analysis of complex environmental information
+Technical writing: Reports, studies, and specialized technical documentation
+Multilingual communication: Advanced competency in Spanish, Valencian, English, and knowledge of Italian, Portuguese, French, and Russian
+
+## My Value Proposition
+For technical projects, I provide:
+
+- Comprehensive knowledge of applicable regulations
+- Ability to tackle any environmental technical challenge
+- Practical experience in different contexts (public/private, national/international)
+- Methodological rigor and attention to detail
+
+For communication and outreach, I offer:
+
+- Ability to translate technical complexity into clear messages
+- Experience in writing for different audiences
+- Multilingual communication capabilities
+- Deep understanding of scientific foundations
+
+## Specialized Services
+Memlex - Environmental Civil Service Resources
+Marketplace of optimized study materials for environmental technician and administrative civil service exams, developed from my practical experience in exam preparation.
+Specialized consultation: memlex.gumroad.com
+
+## Professional Contact
+Email: jordi.im@proton.me
+For technical projects, doubts, environmental communication collaborations, or consultations on environmental regulations and procedures.
