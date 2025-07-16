@@ -55,6 +55,7 @@ Consulta especializada: memlex.gumroad.com
 Email: jordi.im@proton.me
 Para proyectos técnicos, colaboraciones en comunicación ambiental, o consultas sobre normativa y procedimientos ambientales.
 
+---
 
 # Environmental Technician • Environmental Law Specialist • Science Communicator
 
