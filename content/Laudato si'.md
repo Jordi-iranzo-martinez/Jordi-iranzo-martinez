@@ -1,6 +1,6 @@
 *Quien quiera ser grande que sirva, mas no oprima» Jesús, Mt 20,25-26 –paráfrasis–* 
 
-El Papa Francisco se ha dirigido a todos los cristianos en la encíclica [*Laudato si’, mi’ signore: sobre el cuidado de la casa común*](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (2015), exhortándoles a evitar la actual degradación social y ambiental mediante el uso de la razón, la ética, y la fe. 
+El Papa Francisco se dirigió a todos los cristianos con su encíclica [*Laudato si’, mi’ signore: sobre el cuidado de la casa común*](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (2015), exhortándoles a evitar la actual degradación social y ambiental mediante el uso de la razón, la ética, y la fe. 
 
 Su tesis se basa en el credo creacionista, añadiendo la consideración de la degradación natural como un pecado hacia la obra de Dios, y dando al antropocentrismo clásico un carácter biocéntrico: el ser humano tiene el mandato de dominar la Tierra, pero también el de labrarla y cuidarla. 
 
