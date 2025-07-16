@@ -21,7 +21,7 @@ Their idea is to capture carbon from the atmosphere, restore ecosystems and prot
 
 They used to donate 80% of their revenues, but in 2018 they transitioned to a steward-ownership model and sold all shares to the non-profit [Purpose Foundation](https://purpose-economy.org), and now they donate 100%.
 
-![Ecosia team](ecosia-team-employees-office.jpg)
+![Ecosia team](attachments/ecosia-team-employees-office.jpg)
 Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 _Purpose Foundation is actually focused on enhancing this business model: where the control stays with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Other famous companies, like also German Bosch and Zeiss already work on it-_
@@ -30,7 +30,7 @@ _Purpose Foundation is actually focused on enhancing this business model: where 
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) are global, comprising more than 70 active ones in over 35 countries. They are expanding quickly! The projects are run by local organizations and people they finance (they have some [pictures over here](\(https://www.dropbox.com/scl/fo/lva66nkkvvu87rht9crm2/AGSSoYOUfGBiUQSJNmwb9SM/Project%20%26%20tree%20pictures%20-%20Photo%20Credit%3A%20Ecosia?rlkey=578ovw0tjw4f0oxgci32hnv7f&e=1&subfolder_nav_tracking=1&dl=0\)).
 
-![Ecosia reforestation project in Ethiopia](ecosia-tree-planting-ethiopia-reforestation.jpg)
+![Ecosia reforestation project in Ethiopia](attachments/ecosia-tree-planting-ethiopia-reforestation.jpg)
 Ecosia reforestation project in Ethiopia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 But they have not just committed to trees. Related to the climate change crisis, they have built their own solar power plants, and now they are 200% carbon negative. It means they do produce twice as much energy as they need!
@@ -53,7 +53,7 @@ They publish their [financial reports](https://blog.ecosia.org/ecosia-financial-
 
 Besides, on the service, they have also added additional values. For example, they introduce a Green Search, which offers a green leaf or a fuel plant depending on the sustainability of the company searched for. It is based on the [Global Coal Exit List](https://www.coalexit.org/) by the NGO [Urgewald](https://www.urgewald.org/en/english), the [Climate Accountability Institute](https://climateaccountability.org/), and press information from [The Guardian](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions).
 
-![[ecosia-tree-planting-kenya-africa.jpg]]
+![Ecosia's supporting reforestation project in Kenya](attachments/ecosia-tree-planting-kenya-africa.jpg)
 Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 On personal privacy, they anonymize searches within seven days. They don't create personal profiles based on users' search history, and they don't sell any information to advertisers. For European Union citizens, they must comply with the General Data Protection Regulation, which is the world's most restrictive on the field!
@@ -62,14 +62,14 @@ On personal privacy, they anonymize searches within seven days. They don't creat
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
-![[ecosia-forest-restoration-senegal.jpg]]
+![Ecosia's supporting reforestation project in Senegal](attachments/ecosia-forest-restoration-senegal.jpg)
 Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).
 
 For all mentioned and more they have been awarded with the prestigious B Corporation distinctive in 2014 by -also non-profit- [B Lab Europe](https://bcorporation.eu/).
 
-![[ecosia-reforestation-project-brazil.jpg]]
+![Ecosia's supporting reforestation project in Brazil](attachments/ecosia-reforestation-project-brazil.jpg)
 Ecosia's supporting reforestation project in Brazil. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 
@@ -80,5 +80,5 @@ As the amount of its commissions Ecosia gets from the searches depends on how ma
 So, did you know about Ecosia? Would you like to try it or spread the word?
 
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
-![[ecosia-reforestation-project-indonesia.jpg]]
+![Ecosia's supporting reforestation project in Indonesia](attachments/ecosia-reforestation-project-indonesia.jpg)
 Ecosia's supporting reforestation project in Indonesia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
