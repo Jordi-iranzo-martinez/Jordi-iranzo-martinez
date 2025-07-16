@@ -5,9 +5,10 @@ What do you think if you could contribute to reforest the world easily while sea
 [Ecosia](https://www.ecosia.org/) is a search engine and a [browser](https://www.ecosia.org/browser) that donates all the revenues from its usage to finance tree-planting programmes all around the world. 
 
 ![*Ecosia logo*](attachments/ecosia-logo-green-search-engine.jpg)
+
 Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/9186269?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ecosia: The green search"></iframe></div>
+![<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/9186269?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ecosia: The green search"></iframe></div>]
 *This is an initial promotion of Ecosia, the conditions have already improved!*
 
 It belongs to German company Ecosia GmbH, founded by German economist Christian Kroll in 2009 during the UN climate talks in Copenhagen (COP 15). He established two key commitments: never sell Ecosia and never take profits out of it.
@@ -40,7 +41,7 @@ Besides, they have partnered with several companies and organizations, in both d
 
 On the deforestation issue, they have invested in companies like [Planet-A-Foods](https://planet-a-foods.com/), which sells a deforestation-free chocolate, and [Juicy Marbles](https://juicymarbles.com/), that develops a plant-based filet mignon. Perhaps the most important contribution is the 2020 partnership with [TreeCard](https://www.treecard.org/). This independent wooden debit card company dedicates 80% of its interchange fees to reforestation. It means approximately one tree for every $60 spent.
 
-![[Burkina faso.png]]
+!(attachments/ecosia-forest-restoration-burkina-faso.jpg)
 Ecosia's supporting reforestation project in Burkina Faso. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 
