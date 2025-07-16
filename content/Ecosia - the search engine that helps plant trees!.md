@@ -4,7 +4,7 @@ What do you think if you could contribute to reforest the world easily while sea
 
 [Ecosia](https://www.ecosia.org/) is a search engine and a [browser](https://www.ecosia.org/browser) that donates all the revenues from its usage to finance tree-planting programmes all around the world. 
 
-![[ecosia-logo-green-search-engine.jpg]]
+![](ecosia-logo-green-search-engine.jpg)
 Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/9186269?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ecosia: The green search"></iframe></div>
