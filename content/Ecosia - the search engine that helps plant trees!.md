@@ -1,6 +1,8 @@
 
 What do you think if you could contribute to reforest the world easily while searching the Internet?
 
+---
+
 # Introduction
 
 [Ecosia](https://www.ecosia.org/) is a search engine and a [browser](https://www.ecosia.org/browser) that donates all the revenues from its usage to finance tree-planting programmes all around the world. 
@@ -76,11 +78,11 @@ Ecosia's supporting reforestation project in Brazil. Source: [Ecosia.org](https:
 
 As the amount of its commissions Ecosia gets from the searches depends on how many people use it, you can help even if don't buy anything from the platform! For example by making it your default search engine or browsers, or spreading or incorporating it in your [company](https://ecosia.helpscoutdocs.com/article/160-ecosia-for-companies) or [Campus](https://ecosia.helpscoutdocs.com/article/19-campaign-at-your-university).
 
+![Ecosia's supporting reforestation project in Indonesia](attachments/ecosia-reforestation-project-indonesia.jpg)
+Ecosia's supporting reforestation project in Indonesia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
+
 ---
 
 So, did you know about Ecosia? Would you like to try it or spread the word?
 
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
-
-![Ecosia's supporting reforestation project in Indonesia](attachments/ecosia-reforestation-project-indonesia.jpg)
-Ecosia's supporting reforestation project in Indonesia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
