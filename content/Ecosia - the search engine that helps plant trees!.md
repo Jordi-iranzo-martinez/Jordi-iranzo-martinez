@@ -30,7 +30,7 @@ They used to donate 80% of their revenues, but in 2018 they transitioned to a st
 ![Ecosia team](attachments/ecosia-team-employees-office.jpg)
 *Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
-_Purpose Foundation is actually focused on enhancing this business model: where the control stays with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Other famous companies, like also German Bosch and Zeiss already work on it-_
+_Purpose Foundation is actually focused on enhancing this business model: where the control stays with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Other famous companies, like Bosch and Zeiss already work on it-_
 
 # Projects: reforestation and climate change
 
