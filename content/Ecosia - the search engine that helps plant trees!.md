@@ -36,8 +36,8 @@ _Purpose Foundation is actually focused on enhancing this business model: where 
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) are global, comprising more than 70 active ones in over 35 countries. They are expanding quickly! The projects are run by local organizations and people they finance (they have some [pictures over here](\(https://www.dropbox.com/scl/fo/lva66nkkvvu87rht9crm2/AGSSoYOUfGBiUQSJNmwb9SM/Project%20%26%20tree%20pictures%20-%20Photo%20Credit%3A%20Ecosia?rlkey=578ovw0tjw4f0oxgci32hnv7f&e=1&subfolder_nav_tracking=1&dl=0\)).
 
-![Ecosia reforestation project in Ethiopia](attachments/ecosia-tree-planting-ethiopia-reforestation.jpg)
-*Ecosia reforestation project in Ethiopia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)*
+![Ecosia's supporting reforestation project in Kenya](attachments/ecosia-tree-planting-kenya-africa.jpg)
+*Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
 But they have not just committed to trees. Related to the climate change crisis, they have built their own solar power plants, and now they are 200% carbon negative. It means they do produce twice as much energy as they need!
 
@@ -45,10 +45,7 @@ But they have not just committed to trees. Related to the climate change crisis,
 
 Besides, they have partnered with several companies and organizations, in both deforestation and climate change problems. 
 
-On the deforestation issue, they have invested in companies like [Planet-A-Foods](https://planet-a-foods.com/), which sells a deforestation-free chocolate, and [Juicy Marbles](https://juicymarbles.com/), that develops a plant-based filet mignon. Perhaps the most important contribution is the 2020 partnership with [TreeCard](https://www.treecard.org/). This independent wooden debit card company dedicates 80% of its interchange fees to reforestation. It means approximately one tree for every $60 spent.
-
-![Ecosia's supporting reforestation project in Burkina Faso](attachments/ecosia-forest-restoration-burkina-faso.jpg)
-*Ecosia's supporting reforestation project in Burkina Faso. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
+On the deforestation issue, they have invested in companies like [Planet-A-Foods](https://planet-a-foods.com/), which sells a deforestation-free chocolate, and [Juicy Marbles](https://juicymarbles.com/), that develops a plant-based filet mignon. Perhaps the most important contribution is the 2020 partnership with [TreeCard](https://www.treecard.org/). This independent wooden debit card company dedicates 80% of its interchange fees to reforestation. It means approximately one tree for every $60 spent. 
 
 On climate change, they make climate investments, supporting renewable solar companies like [Enviria](https://enviria.energy/), [Ecoligo](https://ecoligo.com/), [Naturstrom AG](https://www.naturstrom.de/), [Zolar](https://www.zolar.de/)... and also organic and/or regenerative agriculture projects, like [Ostmost](https://www.ostmost.berlin/) and [Wildfarmed](https://www.wildfarmed.co.uk/) , which also helps sequester CO2!
 
@@ -58,30 +55,21 @@ They publish their [financial reports](https://blog.ecosia.org/ecosia-financial-
 
 Besides, on the service, they have also added additional values. For example, they introduce a Green Search, which offers a green leaf or a fuel plant depending on the sustainability of the company searched for. It is based on the [Global Coal Exit List](https://www.coalexit.org/) by the NGO [Urgewald](https://www.urgewald.org/en/english), the [Climate Accountability Institute](https://climateaccountability.org/), and press information from [The Guardian](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions).
 
-![Ecosia's supporting reforestation project in Kenya](attachments/ecosia-tree-planting-kenya-africa.jpg)
-*Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
-
 On personal privacy, they anonymize searches within seven days. They don't create personal profiles based on users' search history, and they don't sell any information to advertisers. For European Union citizens, they must comply with the General Data Protection Regulation, which is the world's most restrictive on the field!
 
 # Achievements
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
-![Ecosia's supporting reforestation project in Senegal](attachments/ecosia-forest-restoration-senegal.jpg)
-*Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
-
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).
 
-For all mentioned and more they have been awarded with the prestigious B Corporation distinctive in 2014 by -also non-profit- [B Lab Europe](https://bcorporation.eu/).
-
-![Ecosia's supporting reforestation project in Brazil](attachments/ecosia-reforestation-project-brazil.jpg)
-*Ecosia's supporting reforestation project in Brazil. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
+For all mentioned and more they have been awarded with the prestigious B Corporation distinctive in 2014 by -also non-profit- [B Lab Europe](https://bcorporation.eu/). 
 
 As the amount of its commissions Ecosia gets from the searches depends on how many people use it, you can help even if don't buy anything from the platform! For example by making it your default search engine or browsers, or spreading or incorporating it in your [company](https://ecosia.helpscoutdocs.com/article/160-ecosia-for-companies) or [Campus](https://ecosia.helpscoutdocs.com/article/19-campaign-at-your-university).
 
 ---
 
-So, did you know about Ecosia? Would you like to try it or spread the word?
+So, did you know about Ecosia? Have you tried it? Would you like to test it and maybe spread the word?
 
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
 
