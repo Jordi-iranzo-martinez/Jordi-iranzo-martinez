@@ -61,6 +61,9 @@ On personal privacy, they anonymize searches within seven days. They don't creat
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
+![Ecosia's supporting reforestation project in Indonesia](attachments/ecosia-reforestation-project-indonesia.jpg)
+*Ecosia's supporting reforestation project in Indonesia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)*
+
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).
 
 For all mentioned and more they have been awarded with the prestigious B Corporation distinctive in 2014 by -also non-profit- [B Lab Europe](https://bcorporation.eu/). 
@@ -72,6 +75,3 @@ As the amount of its commissions Ecosia gets from the searches depends on how ma
 So, did you know about Ecosia? Have you tried it? Would you like to test it and maybe spread the word?
 
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
-
-![Ecosia's supporting reforestation project in Indonesia](attachments/ecosia-reforestation-project-indonesia.jpg)
-*Ecosia's supporting reforestation project in Indonesia. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)*
