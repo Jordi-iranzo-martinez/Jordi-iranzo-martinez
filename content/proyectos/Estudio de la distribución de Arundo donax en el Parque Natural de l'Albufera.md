@@ -1,6 +1,6 @@
 El ![Estudio sobre la caña común
 (Arundo donax) en el Parque
-Natural de l’Albufera](attachments/albufera-arundo-donax.pdf) (2019) fue un análisis para el Ayuntamiento de València. 
+Natural de l’Albufera](static/albufera-arundo-donax.pdf) (2019) fue un análisis para el Ayuntamiento de València. 
 
 - Estimación de la superficie de distribución: total en el Parque Natural y por municipios
 - Factores principales de distribución
@@ -20,4 +20,4 @@ Es urgente el control de la especie y la sustitución por vegetación autóctona
 
 Espero que esto sirva para el control de esta especie invasora y la conservación de uno de los humedales mediterráneos más importantes de Europa.
 
-![Acceso al estudio completo](attachments/albufera-arundo-donax.pdf)
+![Acceso al estudio completo](static/albufera-arundo-donax.pdf)
