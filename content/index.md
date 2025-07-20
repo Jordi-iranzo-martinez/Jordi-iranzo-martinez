@@ -24,15 +24,15 @@ _Technical projects: Environmental regulations, GIS mapping, data analysis, tech
 
 ---
 
-**Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
-
-_Communication: Science outreach, translation of complex technical concepts, and multilingual writing for different audiences._
-
----
-
 **Recursos especializados:** Asesoramiento técnico y en normativa ambiental y [Memlex](https://memlex.gumroad.com) - tarjetas de memoria y vocabulario especializado para oposiciones y aprendizaje de idiomas
 
 *Specialized resources: Technical consulting and on environmental regulations and [Memlex](https://memlex.gumroad.com) - memory cards and specialized vocabulary for civil service exams and language learning*
+
+---
+
+**Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
+
+_Communication: Science outreach, translation of complex technical concepts, and multilingual writing for different audiences._
 
 <!-- MailerLite Universal -->
 <script>
