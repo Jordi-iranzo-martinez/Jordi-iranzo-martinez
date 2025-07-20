@@ -4,4 +4,4 @@ Realizado con Q-GIS según cartografía oficial
 
 ---
 
-![Ver estudio completo](proyectos/attachments/lcfeed-replicabilidad.pdf)
+![Ver estudio completo](attachments/lcfeed-replicabilidad.pdf)
