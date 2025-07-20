@@ -78,5 +78,3 @@ Los resultados podrían ser más significativos si se aumentara la aplicación a
 Se puede hacer seguimiento en [la página oficial del proyecto](https://www.lifelowcarbonfeed.com/).
 
 ![Logo Life Low Carbon Feed](attachments/lcfeed-logo-proyecto.png)
-
-*Artículo publicado originalmente en la [Revista Espores](https://espores.org/es/es-agricultura/low-carbon-feed-el-valor-de-los-residuos-agricolas/?_gl=1*1269blf*_up*MQ..*_ga*MTY0NzA1NTk2LjE3NTE3MTQxMzA.*_ga_PLC8XYSGBW*czE3NTE3MTQxMjgkbzEkZzEkdDE3NTE3MTQxNDYkajQyJGwwJGgw).*
