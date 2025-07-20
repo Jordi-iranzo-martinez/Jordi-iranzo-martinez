@@ -41,8 +41,6 @@ _Communication: Science outreach, translation of complex technical concepts, and
 
 ---
 
-**Recursos especializados:** [Memlex](https://memlex.gumroad.com) - materiales de estudio optimizados para oposiciones de técnico de medio ambiente, normativa internacional y aprendizaje de idiomas
+**Recursos especializados:** Asesoramiento técnico y en normativa ambiental y [Memlex](https://memlex.gumroad.com) - tarjetas de memoria y vocabulario especializado para oposiciones y aprendizaje de idiomas
 
-_Specialized resources: [Memlex](https://memlex.gumroad.com) - Study materials optimized for environmental technician civil service exams in Spain, international agreements, and language learning._
-
-<div class="ml-embedded" data-form="3IXlpB"></div>
+*Specialized resources: Technical consulting and on environmental regulations and [Memlex](https://memlex.gumroad.com) - memory cards and specialized vocabulary for civil service exams and language learning*
