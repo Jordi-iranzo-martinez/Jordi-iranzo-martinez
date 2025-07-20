@@ -14,7 +14,7 @@ title: "Técnico de medio ambiente - Environmental Technician"
 </script>
 <!-- End MailerLite Universal -->
 
-**📧 Contact/o:** [jordi.im@proton.me](mailto:jordi.im@proton.me)
+📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
 Soy técnico de medio ambiente especializado en normativa ambiental española y europea, con experiencia en el sector público.
 
@@ -44,5 +44,3 @@ _Communication: Science outreach, translation of complex technical concepts, and
 *Specialized resources: Technical consulting and on environmental regulations and [Memlex](https://memlex.gumroad.com) - memory cards and specialized vocabulary for civil service exams and language learning*
 
 <div class="ml-embedded" data-form="pl2tKA"></div>
-
-📧 **[jordi.im@proton.me](mailto:jordi.im@proton.me)**
