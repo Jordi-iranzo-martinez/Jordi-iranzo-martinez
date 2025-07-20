@@ -1,6 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-
 /**
  * Quartz 4 Configuration
  *
@@ -37,7 +36,6 @@ const config: QuartzConfig = {
     lightMode: "light",
     darkMode: "dark",
     cdnCaching: true,
-    fontOrigin: "googleFonts"
   },
   plugins: {
     transformers: [
@@ -62,7 +60,9 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
+      Plugin.ComponentResources({
+        fontOrigin: "googleFonts"
+      }),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
