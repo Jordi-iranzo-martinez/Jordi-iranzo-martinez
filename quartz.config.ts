@@ -21,7 +21,9 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
 theme: {
   lightMode: "light",
-  darkMode: "dark"
+  darkMode: "dark",
+  cdnCaching: true
+  },
 },
     head: [
       {
