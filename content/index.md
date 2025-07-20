@@ -19,7 +19,7 @@ _I work fluently in Spanish, Valencian, and English, with knowledge of Italian, 
 
 **Proyectos técnicos:** Normativa ambiental, cartografía GIS, análisis de datos, informes técnicos, gestión de residuos, evaluaciones de impacto...
 
-_Technical projects: Environmental regulations, GIS mapping, data analysis, technical reports, waste managemnet, environmental impact assessments..._
+_Technical projects: Environmental regulations, GIS mapping, data analysis, technical reports, waste management, environmental impact assessments..._
 
 ---
 
