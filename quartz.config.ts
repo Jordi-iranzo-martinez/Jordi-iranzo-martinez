@@ -22,7 +22,7 @@ const config: QuartzConfig = {
 theme: {
   lightMode: "light",
   darkMode: "dark"
-}
+},
     head: [
       {
         tag: "script",
