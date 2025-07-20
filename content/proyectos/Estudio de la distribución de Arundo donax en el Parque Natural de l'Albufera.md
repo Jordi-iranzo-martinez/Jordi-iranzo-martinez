@@ -1,6 +1,4 @@
-El ![Estudio sobre la caña común
-(Arundo donax) en el Parque
-Natural de l’Albufera](static/albufera-arundo-donax.pdf) (2019) fue un análisis para el Ayuntamiento de València. 
+El ![Estudio sobre la caña común (Arundo donax) en el Parque Natural de l’Albufera](static/albufera-arundo-donax.pdf) (2019) fue un análisis para el Ayuntamiento de València. 
 
 - Estimación de la superficie de distribución: total en el Parque Natural y por municipios
 - Factores principales de distribución
