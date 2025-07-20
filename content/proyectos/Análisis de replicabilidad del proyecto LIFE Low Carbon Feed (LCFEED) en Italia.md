@@ -6,4 +6,4 @@ Realizado con Q-GIS según cartografía oficial
 
 ![Ver estudio completo](attachments/lcfeed-replicabilidad.pdf)
 
-[[Low Carbon Feed - El valor de los residuos agricolas.md]]
+[Low Carbon Feed - El valor de los residuos agricolas.md]
