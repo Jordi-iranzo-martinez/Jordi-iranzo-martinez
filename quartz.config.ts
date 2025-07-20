@@ -88,6 +88,6 @@ head: [
       Plugin.CustomOgImages(),
     ],
   },
-})
+});
 
 export default config
