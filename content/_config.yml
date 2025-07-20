@@ -1,0 +1,15 @@
+title: "Jordi Iranzo Martínez - Proyectos"
+description: "Estudios ambientales y proyectos de investigación"
+author: "Jordi Iranzo Martínez"
+
+# GitHub Pages configuración
+baseurl: ""
+url: "https://jordi-iranzo-martinez.github.io"
+
+# Tema
+theme: minima
+
+# Plugins automáticos
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
