@@ -10,4 +10,12 @@ La metodología se realizó mediante el análisis visual de imágenes por satél
 
 Los resultados revelan casi 30.000 metros de ribera ocupada, y unos 117.000 m2 de superficie (una anchura media de 4 m). Los municipios con mayor afección son Valencia (71.000 m2, 61%), Sueca (25.000 m2, 22%), Sollana (14.500 m2, 12%), y Massanassa (3850 m2, 3%). 
 
+Esto afecta a dos hábitats prioritarios de la Directiva Hábitats: 
+- **Hábitat 7210**: "Áreas pantanosas calcáreas con Cladium mariscus" (especial interés de protección)
+- **Hábitat 3150**: "Lagos y lagunas eutróficos naturales"
+
 Los factores principales de distribución deducidos incluyen principalemente la proximidad a los núcleos de población, y a la red de canalizaciones.
+
+Es urgente el control de la especie y la sustitución por vegetación autóctona. Se han identificado cinco zonas para su gestión de acuerdo a su prioridad.
+
+Espero que esto sirva para el control de esta especie invasora y la conservación de uno de los humedales mediterráneos más importantes de Europa.
