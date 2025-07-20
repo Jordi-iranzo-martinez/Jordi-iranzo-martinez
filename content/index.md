@@ -6,8 +6,6 @@ title: "Técnico de medio ambiente - Environmental Technician"
 
 <div class="ml-embedded" data-form="pl2tKA"></div>
 
-# Técnico de medio ambiente - Environmental Technician
-
 📧 **[jordi.im@proton.me](mailto:jordi.im@proton.me)**
 
 Soy técnico de medio ambiente especializado en normativa ambiental española y europea, con experiencia en el sector público.
