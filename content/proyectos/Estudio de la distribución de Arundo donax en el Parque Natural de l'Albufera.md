@@ -19,3 +19,5 @@ Los factores principales de distribución deducidos incluyen principalemente la 
 Es urgente el control de la especie y la sustitución por vegetación autóctona. Se han identificado cinco zonas para su gestión de acuerdo a su prioridad.
 
 Espero que esto sirva para el control de esta especie invasora y la conservación de uno de los humedales mediterráneos más importantes de Europa.
+
+![Acceso al estudio completo](attachments/albufera-arundo-donax.pdf)
