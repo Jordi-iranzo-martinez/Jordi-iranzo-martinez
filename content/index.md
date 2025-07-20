@@ -16,6 +16,18 @@ Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, po
 
 _I work fluently in Spanish, Valencian, and English, with knowledge of Italian, Portuguese, French, and a little bit of Russian. My professional approach focuses on making environmental knowledge accessible._
 
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '1647761');
+</script>
+<!-- End MailerLite Universal -->
+
+<div class="ml-embedded" data-form="pl2tKA"></div>
+
 ---
 
 **Proyectos técnicos:** Normativa ambiental, cartografía GIS, análisis de datos, informes técnicos, gestión de residuos, evaluaciones de impacto...
@@ -33,16 +45,3 @@ _Communication: Science outreach, translation of complex technical concepts, and
 **Recursos especializados:** Asesoramiento técnico y en normativa ambiental y [Memlex](https://memlex.gumroad.com) - tarjetas de memoria y vocabulario especializado para oposiciones y aprendizaje de idiomas
 
 *Specialized resources: Technical consulting and on environmental regulations and [Memlex](https://memlex.gumroad.com) - memory cards and specialized vocabulary for civil service exams and language learning*
-
-
-<!-- MailerLite Universal -->
-<script>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '1647761');
-</script>
-<!-- End MailerLite Universal -->
-
-<div class="ml-embedded" data-form="pl2tKA"></div>
