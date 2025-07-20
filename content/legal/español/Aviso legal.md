@@ -1,6 +1,4 @@
-# AVISO LEGAL
-
-## 1. DATOS IDENTIFICATIVOS
+# 1. DATOS IDENTIFICATIVOS
 
 En cumplimiento con el deber de información dispuesto en la Ley 34/2002 de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE), se facilitan a continuación los siguientes datos:
 
@@ -8,45 +6,45 @@ En cumplimiento con el deber de información dispuesto en la Ley 34/2002 de Serv
 **Email:** jordi.im@proton.me  
 **Sitio web:** [URL de tu sitio]
 
-## 2. OBJETO
+# 2. OBJETO
 
 El presente sitio web tiene por objeto la divulgación de contenidos relacionados con medio ambiente, normativa ambiental y conocimientos técnicos especializados.
 
-## 3. CONDICIONES DE USO
+# 3. CONDICIONES DE USO
 
-### 3.1 Condiciones Generales
+## 3.1 Condiciones Generales
 El acceso y uso de este sitio web atribuye la condición de usuario y supone la aceptación plena de todas las condiciones incluidas en este Aviso Legal.
 
-### 3.2 Uso Autorizado
+## 3.2 Uso Autorizado
 Los contenidos de este sitio web están destinados exclusivamente para uso informativo y educativo. Queda prohibido el uso comercial no autorizado de los contenidos.
 
-### 3.3 Responsabilidades del Usuario
+## 3.3 Responsabilidades del Usuario
 El usuario se compromete a hacer un uso adecuado de los contenidos y servicios que el sitio web ofrece y a no emplearlos para:
 - Incurrir en actividades ilícitas, ilegales o contrarias a la buena fe y al orden público
 - Difundir contenidos o propaganda de carácter racista, xenófobo, pornográfico-ilegal, de apología del terrorismo o atentatorio contra los derechos humanos
 - Provocar daños en los sistemas físicos y lógicos del sitio web, de sus proveedores o de terceras personas
 
-## 4. PROPIEDAD INTELECTUAL E INDUSTRIAL
+# 4. PROPIEDAD INTELECTUAL E INDUSTRIAL
 
 Todos los contenidos del sitio web (textos, imágenes, sonidos, bases de datos, software, etc.) son propiedad de Jordi Iranzo Martínez o de terceros que han autorizado su uso, y están protegidos por los derechos de propiedad intelectual e industrial.
 
 El usuario podrá visualizar todos los elementos, imprimirlos, copiarlos y almacenarlos en el disco duro de su ordenador o en cualquier otro soporte físico siempre y cuando sea, única y exclusivamente, para su uso personal y privado.
 
-## 5. EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD
+# 5. EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD
 
-### 5.1 Disponibilidad del Servicio
+## 5.1 Disponibilidad del Servicio
 No se garantiza la continuidad y disponibilidad de los contenidos, programas, informaciones, servicios y en general, cualesquiera elementos del sitio web.
 
-### 5.2 Veracidad de la Información
+## 5.2 Veracidad de la Información
 La información proporcionada tiene carácter meramente informativo. No se garantiza la veracidad, exactitud o actualidad de los contenidos y servicios ofrecidos.
 
-### 5.3 Enlaces Externos
+## 5.3 Enlaces Externos
 Los enlaces incluidos en el sitio web tienen finalidad meramente informativa y no suponen aprobación de los sitios enlazados.
 
-## 6. MODIFICACIONES
+# 6. MODIFICACIONES
 
 Jordi Iranzo Martínez se reserva el derecho a realizar modificaciones que considere oportunas, sin aviso previo, en el contenido del sitio web. Tanto en lo referente a los contenidos del sitio web como en las condiciones de uso del mismo.
 
-## 7. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+# 7. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
 
 Las presentes condiciones se rigen por la legislación española. Para cualquier controversia derivada del presente sitio web, las partes se someterán a los Juzgados y Tribunales de Valencia.
