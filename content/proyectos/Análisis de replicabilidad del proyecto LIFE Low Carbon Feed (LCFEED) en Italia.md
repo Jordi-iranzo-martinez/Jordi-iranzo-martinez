@@ -1,4 +1,4 @@
-[Estudio de replicación en Italia](static/lcfeed-replicabilidad.pdf) es un análisis preliminar de la replicabilidad del [proyecto LIFE Low Carbon Feed](https://www.lifelowcarbonfeed.com/) (LCFEED) tras su éxito en España, según la producción de ganado caprino y la disponibilidad de materias primas de arroz y de cítricos.
+![Estudio de replicación en Italia](static/lcfeed-replicabilidad.pdf) es un análisis preliminar de la replicabilidad del [proyecto LIFE Low Carbon Feed](https://www.lifelowcarbonfeed.com/) (LCFEED) tras su éxito en España, según la producción de ganado caprino y la disponibilidad de materias primas de arroz y de cítricos.
 
 Para ello se trataron datos oficiales del [*Instituto Nazionale di Statistica*](https://www.istat.it/), italiano, con el sistema de información geográfica QGIS para representarlo a nivel de región y posteriormente de provincia. 
 
@@ -6,6 +6,6 @@ Se concluye que las mejores zonas son las regiones de Cerdeña y Calabria, espec
 
 ---
 
-[Ver estudio completo](attachments/lcfeed-replicabilidad.pdf)
+![Ver estudio completo](attachments/lcfeed-replicabilidad.pdf)
 
 [Low Carbon Feed - El valor de los residuos agricolas.md]
