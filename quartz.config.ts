@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+
 /**
  * Quartz 4 Configuration
  *
@@ -7,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Jordi Iranzo Martínez",
+    pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -15,27 +16,42 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://jordi-iranzo-martinez.netlify.app",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    head: [
-      {
-        tag: "script",
-        props: {},
-        content: `
-          (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-          .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-          n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-          (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-          ml('account', '1647761');
-        `
-      }
-    ],
-  },
-  theme: {
-    lightMode: "light",
-    darkMode: "dark",
-    cdnCaching: true,
+    theme: {
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
+      typography: {
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
+      },
+      colors: {
+        lightMode: {
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
+        },
+        darkMode: {
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
+        },
+      },
+    },
   },
   plugins: {
     transformers: [
@@ -60,9 +76,7 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({
-        fontOrigin: "googleFonts"
-      }),
+      Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
@@ -74,9 +88,10 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
-};
+}
 
 export default config
