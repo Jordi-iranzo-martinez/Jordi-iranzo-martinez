@@ -19,10 +19,11 @@ const config: QuartzConfig = {
     baseUrl: "https://jordi-iranzo-martinez.netlify.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    theme: {
-      // ... toda tu configuración de tema
-    },
-    head: [ // <- MUEVE head AQUÍ DENTRO
+theme: {
+  lightMode: "light",
+  darkMode: "dark"
+}
+    head: [
       {
         tag: "script",
         props: {},
