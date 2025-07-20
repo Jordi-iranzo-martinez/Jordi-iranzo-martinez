@@ -4,8 +4,6 @@ title: "Técnico de medio ambiente - Environmental Technician"
 
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
 
-📧 **[jordi.im@proton.me](mailto:jordi.im@proton.me)**
-
 <!-- MailerLite Universal -->
 <script>
     (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
@@ -17,6 +15,8 @@ title: "Técnico de medio ambiente - Environmental Technician"
 <!-- End MailerLite Universal -->
 
 <div class="ml-embedded" data-form="pl2tKA"></div>
+
+📧 **[jordi.im@proton.me](mailto:jordi.im@proton.me)**
 
 Soy técnico de medio ambiente especializado en normativa ambiental española y europea, con experiencia en el sector público.
 
