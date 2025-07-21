@@ -2,13 +2,15 @@
 title: "De Cloris al floriment de la vida: flors, coevolució i prosperitat"
 ---
 
-_Article public originalment a la [Revista Espores](https://espores.org/jardineria/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/)_
+_Article publicat originalment a la [Revista Espores](https://espores.org/jardineria/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/)_
 
 **Les flors revelen secrets fascinants sobre reproducció vegetal, coevolució d'espècies i conservació ambiental. Acompanyeu-nos en un recorregut per la botànica, l'ecologia, la història i la cultura que ens convida a reflexionar sobre com ens relacionem amb elles i, a més, com afavorir la biodiversitat, la sostenibilitat i, perquè no, la bellesa.**
 
 Hui vull parlar de les flors, i com m'agraden les històries de la mitologia, especialment la grega, començaré amb una història que em ve perfecta per al tema: el mite de Cloris i Cèfir.
 
 Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. Cèfir, el déu-vent de l'oest, la va raptar, i li atorgà el poder de la floració. Així es transformà en la deessa de les flors i la vegetació primaveral. Tingueren dues filles: la Primavera, i Karpos, la deessa dels fruits i les collites.
+
+![](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores)
 
 Imatge 1: *Flora i Cèfir* (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [*Musée des Beaux Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
 
