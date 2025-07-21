@@ -2,9 +2,25 @@ Memlex es el nombre comercial para un mercado de tarjetas de memoria (*flashcard
 
 Las tarjetas están elaboradas para el programa [RemNote](https://www.remnote.com), gratuito (similar a Anki) —su nombre deriva de la palabra "nota" y las siglas del término "Elemento Recuperable de Memoria", ambas en inglés—. Se trata de un programa en el que puedes escribir, y cada información convertir en una unidad susceptible de recordar a través de la memorización activa y la repetición espaciada. Incluye funciones avanzadas, como jerarquía. Se puede utilizar en ordenador y móvil.
 
+# Normativa legal / Legislation (*lex*)
+
+Las tarjetas de normativa legal comprenden la literalidad de la norma, en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...) que facilita al visualización. Existe una tarjeta de memoria para cada artículo y adicionalmente para palabras y cifras clave. 
+
+Se aplica para Administración en España y medio ambiente. Incluye Leyes de Cortes Generales, Reales Decretos del Gobierno de la Nación y Reglamentos de la Unión Europea; así como Tratados Internacionales (estos últimos en inglés).
+
 Las tarjetas de normativa legal comprenden la literalidad de la norma, en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...) que facilita al visualización. Existe una tarjeta de memoria para cada artículo y adicionalmente para palabras y cifras clave. Se aplica para Administración en España y medio ambiente. Incluye Leyes de Cortes Generales, Reales Decretos del Gobierno de la Nación y Reglamentos de la Unión Europea; así como Tratados Internacionales (estos últimos en inglés)
 
+# Vocabulario / Lexicon
+
 Las tarjetas de vocabulario son bidireccionales y están elaboradas en inglés. Algunas corresponde a material elaborado por terceros —siempre con su consentimiento—, y otras a material propio. Las tarjetas sobre vocabulario de inglés incluyen la palabra y su definición, y las de otros idiomas solo su traducción. 
+
+# Personalización
+
+Las tarjetas de normativa están organizadas en paquetes temáticos. Puedes recibir la normativa que necesites escribiendo directamente a jordi.im@proton.me.
+
+Puedes suscribirte si quieres recibir noticias cuando existan algunas nuevas y recibir descuentos exclusivos. 
+
+**Por favor, ten en cuenta que al ser un producto digital no pueden aplicar devoluciones y por lo tanto no existen reembolsos.**
 
 <!-- MailerLite Universal -->
 <script>
