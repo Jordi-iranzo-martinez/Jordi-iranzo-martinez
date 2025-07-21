@@ -2,7 +2,7 @@
 title: "De Cloris al florecimiento de la vida: flores, coevolución y prosperidad"
 ---
 
-*Artículo publicado originalmente en valenciano en la [Revista Espores](https://espores.org/es/es-jardineria/de-cloris-al-florecimiento-de-la-vida-flores-coevolucion-y-prosperidad/).*
+*Artículo publicado originalmente en valenciano en la [Revista Espores](https://espores.org/es/es-jardineria/de-cloris-al-florecimiento-de-la-vida-flores-coevolucion-y-prosperidad/).*, del Jardín Botánico de la Universidad de Valencia.
 
 **Las flores revelan secretos fascinantes sobre reproducción vegetal, coevolución de especies y conservación ambiental. Acompañadnos en un recorrido por la botánica, la ecología, la historia y la cultura que nos invita a reflexionar sobre cómo nos relacionamos con ellas y, además, cómo favorecer la biodiversidad, la sostenibilidad y, por qué no, la belleza.**
 
