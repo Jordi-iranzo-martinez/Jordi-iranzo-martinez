@@ -1,5 +1,5 @@
 ---
-title: "Low Carbon Feed - El valor de los residuos agricolas.md"
+title: "Low Carbon Feed - El valor de los residuos agricolas"
 ---
 
 *Publicado originalmente en [Revista Espores](https://espores.org/es/es-agricultura/low-carbon-feed-el-valor-de-los-residuos-agricolas/)*, del Jardín Botánico de la Universidad de Valencia.
