@@ -1,3 +1,7 @@
+---
+title: "Laudato si'.md"
+---
+
 *Quien quiera ser grande que sirva, mas no oprima» Jesús, Mt 20,25-26 –paráfrasis–* 
 
 El Papa Francisco se dirigió a todos los cristianos en su encíclica [*Laudato si’, mi’ signore: sobre el cuidado de la casa común*](https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (2015), exhortándoles a evitar la actual degradación social y ambiental mediante el uso de la razón, la ética, y la fe. 
