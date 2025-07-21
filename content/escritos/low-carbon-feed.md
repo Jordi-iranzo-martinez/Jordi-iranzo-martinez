@@ -72,7 +72,7 @@ Como actividades adicionales, se encuentran el seguimiento de su sostenibilidad,
 
 Con los primeros resultados provisionales, las cabras han aceptado el producto, mantenido la producción de leche, y reducido sus emisiones de metano en aproximadamente un 10%: de 5 kg/año a 4’5 Kg/año (Fernández et al., 2018).
 
-![Cabras en la Universitat Politècnica de València (UPV)](attachments/lcfeed-cabras-upv.png)
+![Cabras en la Universitat Politècnica de València (UPV)](attachments/lcfeed/lcfeed-cabras-upv.png)
 *Cabras en la Universitat Politècnica de València (UPV). / LIFE Low Carbon Feed (LCFEED).*
 
 Se estima que de aplicarse el proyecto LIFE Low Carbon Feed (LCFEED) a toda la ganadería caprina de la Comunitat Valenciana, los residuos de la paja del arroz y de la poda de los cítricos se reduciría a la mitad en 5 y 10 años, respectivamente, y se eliminarían completamente en unos 7 y 23 años, respectivamente.
