@@ -88,4 +88,4 @@ Los resultados podrían ser más significativos si se aumentara la aplicación a
 
 Se puede hacer seguimiento en [la página oficial del proyecto](https://www.lifelowcarbonfeed.com/).
 
-![Logo Life Low Carbon Feed](attachments/lcfeed-logo-proyecto.png)
+![Logo Life Low Carbon Feed](attachments/lcfeed/lcfeed-logo-proyecto.png)
