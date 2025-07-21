@@ -72,7 +72,6 @@ Exemples són la poma, la taronja, el préssec, la pera..., però també l'oliva
 
 ![Cuadre *Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio](attachments/cloris/caravaggio-nino-cesta-frutas-1593-bodegon.jpg)
 
-
 Imatge 7: *Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio. Moltes vegades els bodegons eren un símbol de riquesa i de prosperitat. Font: [*Galeria Borghese*](https://galleriaborghese.beniculturali.it/), Roma
 
 # Les collites de les angiospermes
