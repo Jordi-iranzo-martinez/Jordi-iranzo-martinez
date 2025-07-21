@@ -162,7 +162,7 @@ Imatge 16: Ampolla de plàstic reutilitzada com a hivernacle per als esqueixos d
 
 La probabilitat d'arrelament és del 30 al 50 %, en unes tres setmanes. És més fàcil si les tiges són grosses perquè tenen més energia, i és important que el lloc siga fresc i que drene bé. Si brota, els rosers prefereixen després diverses hores de llum diàries, però millor no a migdia, perquè és quan el sol és més intens i pot cremar-les.
 
-Donar-li vida a un regal i cuidar d'ell canvia el missatge i l'emoció. Citant el secret que la guineu li confessà al Petit Príncep a la novel·la d'Exupéry: _"L'essencial és invisible als ulls; només s'hi veu bé amb el cor"_, _"És el temps que has perdut amb la teua rosa el que fa que siga tan important"_, i _"Ets responsable per sempre del que has domesticat"_.
+Donar-li vida a un regal i cuidar d'ell canvia el missatge i l'emoció. Citant el secret que la guineu li confessà al Petit Príncep a la novel·la d'Exupéry: _"L'essencial és invisible als ulls; només s'hi veu bé amb el cor"_, _"És el temps que has dedicat a la teua rosa el que fa que siga tan important"_, i _"Ets responsable per sempre del que has domesticat"_.
 
 ![El Petit Príncep amb la seua rosa](attachments/cloris/principito-rosa-saint-exupery-ilustracion.jpg)
 
