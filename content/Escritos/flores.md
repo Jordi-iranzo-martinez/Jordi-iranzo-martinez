@@ -10,7 +10,8 @@ Hoy quiero hablar de las flores, y como me gustan las historias de la mitología
 
 Cloris era una ninfa terrestre que vivía en las praderas y cuidaba las plantas. Céfiro, el dios-viento del oeste, la raptó, y le otorgó el poder de la floración. Así se transformó en la diosa de las flores y la vegetación primaveral. Tuvieron dos hijas: la Primavera, y Karpos, la diosa de los frutos y las cosechas.
 
-[Cuadro *Flora y Céfiro¿* (1875), de William-Adolphe Bouguereau](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg)
+![Cuadro *Flora y Céfiro* (1875), de William-Adolphe Bouguereau](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg)
+
 Imagen 1: *Flora y Céfiro* (1875), de William-Adolphe Bouguereau. El viento del oeste favorece la floración y fertiliza las plantas, creando más vida. Fuente: [*Musée des Beaux Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
 
 Aunque es discutible que la primavera sea hija de la diosa de las flores y no al revés, el mito refleja cómo los griegos entendían la conexión entre las estaciones, la meteorología, y la botánica, así como la relación de los frutos respecto a las flores. Para comprenderlo mejor, debemos entender cada componente desde un punto de vista científico.
