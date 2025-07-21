@@ -22,7 +22,7 @@ Las flores son los órganos sexuales donde se producen los gametos, células que
 
 No todas las plantas tienen flores; solo las espermatófitas (con semillas), que son de hecho la inmensa mayoría (cerca del 90%), salvo los helechos y los musgos, entre otros. Pueden ser de dos tipos: las gimnospermas ("semillas desnudas"), que solo comprenden el 0,3%, entre las que encontramos el pino, el ciprés, el cedro, el abeto y el ginkgo; y las angiospermas ("semillas en recipiente"), que las tienen en un fruto, son posteriores y comprenden la gran mayoría restante.
 
-# La polinización, la floración y la primavera
+# La polinización, la floración y la primavera - como una danza ecológica
 
 Ahora bien, todas las flores realizan la polinización: la llegada del polen al óvulo. Como tienen una movilidad muy reducida, emplean diversos mecanismos para hacerlo: el viento (anemofilia), los animales (zoofilia), el agua (hidrofilia) o medios propios (autogamia). El sufijo -filo significa "con afinidad por". Normalmente las gimnospermas son anemófilas y las angiospermas son zoófilas.
 
