@@ -4,11 +4,7 @@ Las tarjetas están elaboradas para el programa [RemNote](https://www.remnote.co
 
 Las tarjetas de normativa legal comprenden la literalidad de la norma, en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...) que facilita al visualización. Existe una tarjeta de memoria para cada artículo y adicionalmente para palabras y cifras clave. Se aplica para Administración en España y medio ambiente. Incluye Leyes de Cortes Generales, Reales Decretos del Gobierno de la Nación y Reglamentos de la Unión Europea; así como Tratados Internacionales (estos últimos en inglés)
 
-![[Pasted image 20250721093421.png]]
-
 Las tarjetas de vocabulario son bidireccionales y están elaboradas en inglés. Algunas corresponde a material elaborado por terceros —siempre con su consentimiento—, y otras a material propio. Las tarjetas sobre vocabulario de inglés incluyen la palabra y su definición, y las de otros idiomas solo su traducción. 
-
-![[Pasted image 20250721094244.png]]
 
 <!-- MailerLite Universal -->
 <script>
