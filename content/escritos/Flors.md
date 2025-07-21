@@ -2,7 +2,7 @@
 title: "De Cloris al floriment de la vida: flors, coevolució i prosperitat"
 ---
 
-Article public originalment a la [Revista Espores](https://espores.org/jardineria/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/)
+_Article public originalment a la [Revista Espores](https://espores.org/jardineria/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/)_
 
 **Les flors revelen secrets fascinants sobre reproducció vegetal, coevolució d'espècies i conservació ambiental. Acompanyeu-nos en un recorregut per la botànica, l'ecologia, la història i la cultura que ens convida a reflexionar sobre com ens relacionem amb elles i, a més, com afavorir la biodiversitat, la sostenibilitat i, perquè no, la bellesa.**
 
