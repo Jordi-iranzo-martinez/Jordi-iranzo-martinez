@@ -64,7 +64,7 @@ A les angiospermes, després de la fecundació l'ovari es desenvolupa i es conve
 
 ![Cuadre *Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem](attachments/cloris/bodegon-frutas-flores-jan-davidsz-heem-1660.jpg)
 
-Imatge 6: *Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [*Rijksmuseum*(https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam
+Imatge 6: *Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [*Rijksmuseum*](https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam
 
 En el cas de les endozoocores, el fruit és nutritiu per als animals. Quan el mengen, incorporen també les llavors i després les expulsen amb els excrements. Així la planta es dispersa i té matèria orgànica a prop que fertilitza el sòl. Ara bé, caldrà que la llavor siga resistent al seu estómac!
 
