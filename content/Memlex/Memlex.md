@@ -26,17 +26,9 @@ _The vocabulary flashcards are bidirectional and primarily written in English. S
 
 # Personalización / Personalization
 
-Las tarjetas de normativa están organizadas en paquetes temáticos. Puedes recibir la normativa que necesites escribiendo directamente a jordi.im@proton.me.
+Las tarjetas de normativa están organizadas en paquetes temáticos. Puedes recibir la normativa que necesites escribiendo directamente a jordi.im@proton.me. Puedes suscribirte si quieres recibir noticias cuando existan algunas nuevas y recibir descuentos exclusivos. **Por favor, ten en cuenta que al ser un producto digital no pueden aplicar devoluciones y por lo tanto no existen reembolsos.**
 
-_The legal flashcards are organized into thematic packs. You can request specific regulations by writing directly to jordi.im@proton.me._
-
-Puedes suscribirte si quieres recibir noticias cuando existan algunas nuevas y recibir descuentos exclusivos. 
-
-_You may also subscribe if you wish to receive updates when new cards are released and gain access to exclusive discounts._
-
-**Por favor, ten en cuenta que al ser un producto digital no pueden aplicar devoluciones y por lo tanto no existen reembolsos.**
-
-_Please note that as this is a digital product, returns are not applicable and therefore refunds are not available._
+_The legal flashcards are organized into thematic packs. You can request specific regulations by writing directly to jordi.im@proton.me. You may also subscribe if you wish to receive updates when new cards are released and gain access to exclusive discounts. Please note that as this is a digital product, returns are not applicable and therefore refunds are not available._
 
 <!-- MailerLite Universal -->
 <script>
