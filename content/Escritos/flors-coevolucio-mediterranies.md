@@ -116,7 +116,7 @@ El culte a Cloris es va magnificar al panteó romà amb la figura de Flora, el s
 
 ![Cuadre *Flora* (1517), de Tiziano Vecellio](attachments/cloris/flora-tiziano-1517-diosa-flores-primavera.jpg)
 
-Imatge 12: *Flora* (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [*Galeria degli Uffizi*](https://www.uffizi.it/opere/tiziano-flora), Florència (el nom de la ciutat no és casual, Julio César la refundà com a colònia romana Florentia, que vol dir "florir")
+Imatge 12: *Flora* (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [*Galeria degli Uffizi*](https://www.uffizi.it/opere/tiziano-flora), Florència (el nom de la ciutat no és casual, Julio Cèsar la refundà com la colònia romana _Florentia_, que vol dir "florir")
 
 El seu culte celebra el cicle de la vida —les estacions, les noves generacions—, l'amor, la sensualitat, i l'abundància de la natura en pau, front a la destrucció de la guerra i la violència. I és que l’economia romana era principalment rural i agrícola, el treball al camp era l’aspiració màxima del ciutadà i la propietat de la terra sustentava el seu estatus social.
 
