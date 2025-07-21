@@ -162,7 +162,7 @@ Imagen 16: Botella de plástico reutilizada como invernadero para los esquejes d
 
 La probabilidad de enraizamiento es del 30 al 50%, en unas tres semanas. Es más fácil si los tallos son gruesos porque tienen más energía, y es importante que el lugar sea fresco y que drene bien. Si brota, los rosales prefieren después varias horas de luz diarias, pero mejor no al mediodía, porque es cuando el sol es más intenso y puede quemarlas.
 
-Darle vida a un regalo y cuidar de él cambia el mensaje y la emoción. Citando el secreto que el zorro le confió al Principito en la novela de Exupéry: "Lo esencial es invisible a los ojos; solo se ve bien con el corazón", "Es el tiempo que has perdido con tu rosa lo que hace que sea tan importante", y "Eres responsable para siempre de lo que has domesticado".
+Darle vida a un regalo y cuidar de él cambia el mensaje y la emoción. Citando el secreto que el zorro le confió al Principito en la novela de Exupéry: "Lo esencial es invisible a los ojos; solo se ve bien con el corazón", "Es el tiempo que le has dedicado a tu rosa lo que hace que sea tan importante", y "Eres responsable para siempre de lo que has domesticado".
 
 ![El Principito con su rosa](attachments/cloris/principito-rosa-saint-exupery-ilustracion.jpg)
 
