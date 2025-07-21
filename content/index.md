@@ -17,19 +17,13 @@ Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, po
 
 _I work fluently in Spanish, Valencian, and English, with knowledge of Italian, Portuguese, French, and a little bit of Russian. My professional approach focuses on making environmental knowledge accessible._
 
----
-
 **Proyectos técnicos:** Normativa ambiental, cartografía GIS, análisis de datos, informes técnicos, gestión de residuos, evaluaciones de impacto...
 
 _Technical projects: Environmental regulations, GIS mapping, data analysis, technical reports, waste management, environmental impact assessments..._
 
----
-
 **Recursos especializados:** Asesoramiento técnico y en normativa ambiental y [Memlex](https://memlex.gumroad.com) - tarjetas de memoria y vocabulario especializado para oposiciones y aprendizaje de idiomas
 
 *Specialized resources: Technical consulting and on environmental regulations and [Memlex](https://memlex.gumroad.com) - memory cards and specialized vocabulary for civil service exams and language learning*
-
----
 
 **Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
 
