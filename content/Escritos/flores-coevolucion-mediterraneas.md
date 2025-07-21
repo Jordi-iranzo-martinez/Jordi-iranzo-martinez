@@ -12,13 +12,13 @@ Cloris era una ninfa terrestre que vivía en las praderas y cuidaba las plantas.
 
 ![Cuadro *Flora y Céfiro* (1875), de William-Adolphe Bouguereau](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg)
 
-Imagen 1: *Flora y Céfiro* (1875), de William-Adolphe Bouguereau. El viento del oeste favorece la floración y fertiliza las plantas, creando más vida. Fuente: [*Musée des Beaux Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
+Imagen 1: *Flora y Céfiro* (1875), de William-Adolphe Bouguereau. El viento del oeste favorece la floración y fertiliza las plantas, creando más vida. Fuente: [*Musée des Beaux-Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsacia)
 
 Aunque es discutible que la primavera sea hija de la diosa de las flores y no al revés, el mito refleja cómo los griegos entendían la conexión entre las estaciones, la meteorología, y la botánica, así como la relación de los frutos respecto a las flores. Para comprenderlo mejor, debemos entender cada componente desde un punto de vista científico.
 
 # ¿Qué es una flor?
 
-Las flores son los órganos sexuales donde se producen los gametos, células que al unirse forman un nuevo individuo, y pueden ser masculinos (polen) o femeninos (óvulos). La mayoría de plantas (70-90%) son hermafroditas, con los dos tipos de gametos en la misma flor. Las plantas monoicas (5-7%) producen un tipo en cada flor, y las dioicas (6-7%) solo un tipo cada individuo. Los términos monoico y dioico vienen del griego, _mono_ o _di_, uno y dos, y _oikos_, casa.
+Las flores son los órganos sexuales donde se producen los gametos, células que al unirse forman un nuevo individuo, y pueden ser masculinos (polen) o femeninos (óvulos). La mayoría de plantas (70-90%) son hermafroditas, con los dos tipos de gametos en la misma flor. Las plantas monoicas (5-7%) producen un tipo en cada flor, y las dioicas (6-7%) solo un tipo en cada individuo. Los términos monoico y dioico vienen del griego, _mono_ o _di_, uno y dos, y _oikos_, casa.
 
 No todas las plantas tienen flores; solo las espermatófitas (con semillas), que son de hecho la inmensa mayoría (cerca del 90%), salvo los helechos y los musgos, entre otros. Pueden ser de dos tipos: las gimnospermas ("semillas desnudas"), que solo comprenden el 0,3%, entre las que encontramos el pino, el ciprés, el cedro, el abeto y el ginkgo; y las angiospermas ("semillas en recipiente"), que las tienen en un fruto, son posteriores y comprenden la gran mayoría restante.
 
@@ -39,13 +39,13 @@ Es por eso que hay más alergias al polen en esta estación: las anemófilas lo 
 No obstante, la estrategia más usada por las plantas para la polinización es la zoófila. Por eso emplean flores atractivas, grandes, coloreadas, con buen olor, y casi siempre acompañadas de néctar, un alimento líquido dulce y muy rico en azúcares. En general las polinizan los insectos -abejas, moscas, escarabajos, mariposas...-, que son los animales más abundantes en la Tierra, pero también pueden hacerlo vertebrados, como el colibrí, los murciélagos, ¡e incluso salamanquesas!
 
 ![Abeja polinizando una flor espontánea de rabaniza blanca](attachments/cloris/abeja-polinizando-flor-lechuguilla-silvestre.jpg)
-Imagen 3: Abeja polinizando una flor espontánea de rabaniza blanca. Autor: Jordi Iranzo Martínez
+Imagen 3: Abeja polinizando una flor espontánea de rabaniza blanca. Fuente: elaboración propia
 
 Por esta razón la vegetación espontánea es tan importante: además de mejorar el suelo y prevenir la erosión, también suele aumentar la biodiversidad. Y es que crean microhábitats y corredores ecológicos, y nutren a los polinizadores locales que sirven a su vez de alimento a aves, otros insectos, murciélagos, lagartijas, arañas, ranas etc.
 
 ![Vegetación espontánea de rabaniza blanca](attachments/cloris/vegetacion-espontanea-rabaniza-blanca-biodiversidad.jpg)
 
-Imagen 4: Vegetación espontánea de rabaniza blanca (*Diplotaxis erucoides*). Autor: Jordi Iranzo Martínez
+Imagen 4: Vegetación espontánea de rabaniza blanca (*Diplotaxis erucoides*). Fuente: elaboración propia
 
 Como excepción tenemos las especies invasoras, que la disminuyen. Puedes identificar estas especies tan nocivas con la App gratuita [PlantNet](https://plantnet.org) y comprobar si aparecen en la [Base de Datos Global de Especies Invasoras de la UICN](https://www.iucngisd.org/gisd/) (GISD).
 
@@ -81,7 +81,8 @@ Y es que las plantas con flores han sido la base de la alimentación humana en g
 
 ![Pintura rupestre *Escena de cosecha de la Tumba de Sennedjem* (c. 1295-1213 a.C.)](attachments/cloris/tumba-sennedjem-escena-cosecha-egipto-antiguo.jpg)
 
-Imagen 8: *Escena de cosecha de la Tumba de Sennedjem* (c. 1295-1213 a.C.). Sennedjem era un artesano y jefe egipcio muy estimado en Deir el-Medina, el poblado de los constructores de tumbas para los faraones del Valle de los Reyes. Su tumba está decorada con motivos agrícolas que representan la abundancia en la otra vida. Comienza con la despedida del difunto, que debe atravesar el Duat (inframundo egipcio) en barca antes de llegar a la vida eterna. El Sol de Horus simboliza el ciclo de la muerte (poniente) y la resurrección, y las escenas agrícolas y los alimentos la abundancia en la otra vida. Aparece la cosecha de cereales, trigo o cebada, el uso de la ganadería, palmeras datileras, y frutales o especies acuáticas por la fertilidad del Nilo. Fuente: Tumba de Sennedjem en Deir el-Medina (Tebas)
+Imagen 8: *Escena de cosecha de la Tumba de Sennedjem* (c. 1295-1213 a.C.). Sennedjem era un artesano y jefe egipcio muy estimado en Deir el-Medina, el poblado de los constructores de tumbas para los faraones del Valle de los Reyes. Su tumba está decorada con motivos agrícolas que representan la abundancia en la otra vida. Comienza con la despedida del difunto, que debe atravesar el Duat (inframundo egipcio) en barca antes de llegar a la vida eterna. El Sol de Horus simboliza el ciclo de la muerte (poniente) y la resurrección, y las escenas agrícolas y los alimentos la abundancia en la otra vida. Aparece la cosecha de cereales, trigo o cebada, el uso de la ganadería, palmeras datileras, y frutales o especies acuáticas por la fertilidad del Nilo. Fuente: Tumba de Sennedjem en Deir el-Medina (Tebas).
+
 
 Pero también nosotros modificamos las especies domesticadas por selección artificial, la elección humana de los rasgos deseables, escogiendo el fenotipo (características) de los cultivos que queríamos, basándonos en su sabor, el tamaño, su aspecto, cómo se adaptaban al ambiente, la facilidad para comerlas, etc. Así, se cambia de manera indirecta el genotipo (conjunto de genes) responsable de estos rasgos, y por eso muchas especies que comemos ahora no se parecen casi nada a las originarias. Un ejercicio muy interesante es investigar cómo eran antes.
 
