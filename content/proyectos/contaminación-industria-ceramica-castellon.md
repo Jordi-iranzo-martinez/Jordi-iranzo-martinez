@@ -26,4 +26,4 @@ Además, se incluye un análisis de los vientos dominantes según los resultados
 
 Concluye con un reportaje fotográfico de los procesos productivos en Cerámicas Saloni, del cual estoy esperando autorización para publicarlo.
 
-![Acceso al documento](static/tfg-contaminacion-ceramica-castellon.pdf)
+[Acceso al documento](proyectos/static/tfg-contaminacion-ceramica-castellon.pdf)
