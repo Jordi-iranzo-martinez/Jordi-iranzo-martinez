@@ -11,7 +11,7 @@ Soy técnico de medio ambiente especializado en normativa ambiental española y 
 
 _Environmental technician specialized in Spanish and European environmental regulations, with public sector experience._
 
-**Formación continua:** Más de 100 certificaciones en política ambiental, desarrollo sostenible y herramientas digitales (ONU, UE, Google...). *Certificados disponibles bajo petición.*
+**Formación continua:** Más de 100 certificaciones en política ambiental, desarrollo sostenible y herramientas digitales (Naciones Unidas, Unión Europea, Google...). *Certificados disponibles bajo petición.*
 
 Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso. Mi enfoque profesional se centra en hacer accesible el conocimiento ambiental.
 
