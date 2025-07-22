@@ -6,7 +6,7 @@ title: "De Cloris al florecimiento de la vida: flores, coevolución y prosperida
 
 **Las flores revelan secretos fascinantes sobre reproducción vegetal, coevolución de especies y conservación ambiental. Acompañadnos en un recorrido por la botánica, la ecología, la historia y la cultura que nos invita a reflexionar sobre cómo nos relacionamos con ellas y, además, cómo favorecer la biodiversidad, la sostenibilidad y, por qué no, la belleza.**
 
-Quiero hablar de las flores, y como me gustan las historias de la mitología, especialmente la griega, comenzaré con una historia que me viene perfecta para el tema: el mito de Cloris y Céfiro.
+Hoy quiero hablar de las flores, y como me gustan las historias de la mitología, especialmente la griega, comenzaré con una historia que me viene perfecta para el tema: el mito de Cloris y Céfiro.
 
 Cloris era una ninfa terrestre que vivía en las praderas y cuidaba las plantas. Céfiro, el dios-viento del oeste, la raptó, y le otorgó el poder de la floración. Así se transformó en la diosa de las flores y la vegetación primaveral. Tuvieron dos hijas: la Primavera, y Karpos, la diosa de los frutos y las cosechas.
 
