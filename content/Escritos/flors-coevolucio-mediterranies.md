@@ -6,7 +6,7 @@ _Article publicat originalment a la [Revista Espores](https://espores.org/jardin
 
 **Les flors revelen secrets fascinants sobre reproducció vegetal, coevolució d'espècies i conservació ambiental. Acompanyeu-nos en un recorregut per la botànica, l'ecologia, la història i la cultura que ens convida a reflexionar sobre com ens relacionem amb elles i, a més, com afavorir la biodiversitat, la sostenibilitat i, perquè no, la bellesa.**
 
-Hui vull parlar de les flors, i com m'agraden les històries de la mitologia, especialment la grega, començaré amb una història que em ve perfecta per al tema: el mite de Cloris i Cèfir.
+Vull parlar de les flors, i com m'agraden les històries de la mitologia, especialment la grega, començaré amb una història que em ve perfecta per al tema: el mite de Cloris i Cèfir.
 
 Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. Cèfir, el déu-vent de l'oest, la va raptar, i li atorgà el poder de la floració. Així es transformà en la deessa de les flors i la vegetació primaveral. Tingueren dues filles: la Primavera, i Karpos, la deessa dels fruits i les collites.
 
@@ -18,17 +18,17 @@ Encara que és discutible que la primavera siga filla de la deessa de les flors 
 
 # Què és una flor?
 
-Les flors són els òrgans sexuals on es produeixen els gamets, cèl·lules que en unir-se formen un nou individu, i poden ser masculins (pol·len) o femenins (òvuls). La majoria de plantes (70-90%) són hermafrodites, amb els dos tipus de gamets a la mateixa flor. Les plantes monoiques (5-7%) produeixen un tipus per flor, i les dioiques (6-7%) només d'un tipus a tot l'individu. Els termes monoic i dioic venen del grec, _mono_ o _di_, un i dos, i _oikos_, casa.
+Les flors són els òrgans sexuals de les plantes, on es produeixen els gamets: cèl·lules que en unir-se formen un nou individu. Estos poden ser masculins (pol·len) o femenins (òvuls). La majoria de plantes (70-90%) són hermafrodites, amb els dos tipus de gamets a la mateixa flor. Les plantes monoiques (5-7%) produeixen un tipus per flor, i les dioiques (6-7%) només d'un tipus a tot l'individu. Els termes monoic i dioic venen del grec, _mono_ o _di_, un i dos, i _oikos_, casa.
 
-No totes les plantes en tenen, però, de flors; només les espermatòfites (amb llavors), que són, això sí, quasi totes (prop del 90%), llevat de les falagueres, les molses o les algues entre altres. Poden ser de dos tipus: les gimnospermes (“llavors nues”), que són només un 0.3%, entre les que trobem el pi, el xiprer, el cedre, l’avet i el ginkgo; i les angiospermes (“llavors en recipient”), que les tenen en un fruit, estan més evolucionades i són la gran majoria restant.
+No totes les plantes en tenen, però, de flors; només les espermatòfites (amb llavors), que són, això sí, la inmensa majoria (prop del 90%), llevat de les falagueres, les molses o les algues, entre altres. Poden ser de dos tipus: les gimnospermes (“llavors nues”), que són només un 0.3%, entre les que trobem el pi, el xiprer, el cedre, l’avet i el ginkgo; i les angiospermes (“llavors en recipient”), que les tenen en un fruit, estan més evolucionades i són la inmensa majoria restant.
 
-# La pol·linització, la floració i la primavera
+# La pol·linització, la floració i la primavera: una dança ecol·lògica
 
 Ara bé, totes les flors fan la pol·linització: l'arribada del pol·len a l'òvul. Com tenen una mobilitat molt reduïda, empren diversos mecanismes per a fer-ho: el vent (anemofília), els animals (zoofília), l'aigua (hidrofília) o medis propis (autogàmia). El sufix -filo significa "amb afinitat per". Normalment les gimnospermes són anemòfiles i les angiospermes són zoòfiles.
 
 D’altra banda, moltes angiospermes també es poden reproduir vegetativament, és a dir, de manera asexual, mitjançant estolons, bulbs o esqueixos, entre altres, sense involucrar les flors. Però en aquest cas la descendència és idèntica, limitant la variabilitat genètica.
 
-La majoria de plantes produeixen flors a la primavera perquè és quan les condicions són més òptimes per a la seua reproducció: temperatures més càlides però moderades, més hores de llum (fotoperiode), humitat, pluges, molta activitat biològica... És quan més bufa al Mediterrani el vent de l'oest, que és suau i favorable. 
+La majoria de plantes produeixen flors a la primavera perquè és quan es donen les condicions òptimes per a la seua reproducció: temperatures més càlides però moderades, més hores de llum (fotoperiode), humitat, pluges, molta activitat biològica... És quan més bufa al Mediterrani el vent de l'oest, que és suau i favorable. 
 
 ![Cuadre *La Primavera* (1480), de Sandro Botticelli](attachments/cloris/primavera-botticelli-1480-mitologia-flores.jpg)
 
