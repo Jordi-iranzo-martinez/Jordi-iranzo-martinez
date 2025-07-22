@@ -12,7 +12,7 @@ Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. 
 
 ![Cuadre *Flora i Cèfir* (1875), de William-Adolphe Bouguereau](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg)
 
-*Flora i Cèfir* (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [*Musée des Beaux Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
+*Flora i Cèfir* (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [*Musée des Beaux-Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
 
 Encara que és discutible que la primavera siga filla de la deessa de les flors i no a l’inrevés, el mite reflecteix com els grecs entenien la connexió entre les estacions, la meteorologia, i la botànica, així com la relació dels fruits respecte de les flors. Per a comprendre-ho millor, hem d'entendre cada component des d'un punt de vista científic.
 
@@ -97,7 +97,7 @@ En cuina, s’anomenen verdures a les parts comestibles de la planta que normalm
 
 ![Cuadre *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo](attachments/cloris/vertumnus-arcimboldo-1590-dios-cosechas.jpg)
 
-Imatge 10: *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el déu romà dels canvis estacionals i de les collites de la tardor. La composició està creada amb tot els elements d'aquesta estació. Font: [*Skoklosters slott*](https://skoklostersslott.se/utstallningar/tidigare-utstallningar/vertumnus/), Estocolm
+Imatge 10: *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el déu romà dels canvis estacionals i de les collites de la tardor. La composició està creada amb tots els elements d'aquesta estació. Font: [*Skoklosters slott*](https://skoklostersslott.se/utstallningar/tidigare-utstallningar/vertumnus/), Estocolm
 
 # Les zoòcores i la jardineria
 
@@ -109,7 +109,7 @@ Plantes autòctones mediterrànies que florisen a la primavera i poden servir b�
 
 *El naixement de Venus* (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), deessa de la bellesa i l'erotisme, naix al mar, Cèfir i Aura (la brisa) la impulsen cap a la costa, li porten més llum i li tiren flors, i Cloris a terra la vol cobrir amb un mantell floral. Representa l'arribada de l'impuls sexual al món, a la primavera, com a força universal que es manifestada com a bellesa i que provoca la floració de les plantes. Font: *[Galeria degli Uffizi](https://www.uffizi.it/opere/nascita-di-venere)*, Florència]
 
-Però compte a no triar una planta exòtica invasora, que les tenen en alguns llocs, tot i ser il·legal el seu comerç a Espanya si apareix al [Catàleg Espanyol](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565&p=20250512&tn=1#an) ([vore fitxes de flora](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce_eei_flora.html)) o a la Comunitat Autònoma si ho fa a l'autonòmic ([Decret 213/2009](https://dogv.gva.es/va/eli/es-vc/d/2009/11/20/213) a la Comunitat Valenciana)!
+Però compte de no triar una planta exòtica invasora, que les tenen en alguns llocs, tot i ser il·legal el seu comerç a Espanya si apareix al [Catàleg Espanyol](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565&p=20250512&tn=1#an) ([veure fitxes de flora](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce_eei_flora.html)) o a la Comunitat Autònoma si ho fa a l'autonòmic ([Decret 213/2009](https://dogv.gva.es/va/eli/es-vc/d/2009/11/20/213) a la Comunitat Valenciana)!
 
 # La figura de Flora
 
@@ -119,7 +119,7 @@ El culte a Cloris es va magnificar al panteó romà amb la figura de Flora, el s
 
 *Flora* (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [*Galeria degli Uffizi*](https://www.uffizi.it/opere/tiziano-flora), Florència (el nom de la ciutat no és casual, Julio Cèsar la refundà com la colònia romana _Florentia_, que vol dir "florir")
 
-El seu culte celebra el cicle de la vida —les estacions, les noves generacions—, l'amor, la sensualitat, i l'abundància de la natura en pau, front a la destrucció de la guerra i la violència. I és que l’economia romana era principalment rural i agrícola, el treball al camp era l’aspiració màxima del ciutadà i la propietat de la terra sustentava el seu estatus social.
+El seu culte celebra el cicle de la vida —les estacions, les noves generacions—, l'amor, la sensualitat, i l'abundància de la natura en pau, enfront a la destrucció de la guerra i la violència. I és que l’economia romana era principalment rural i agrícola, el treball al camp era l’aspiració màxima del ciutadà i la propietat de la terra sustentava el seu estatus social.
 
 ![Cuadre *El Triunfo de Flora* (1627-1628), de Nicolas Poussin](attachments/cloris/triunfo-flora-poussin-1627-mitologia-romana.jpg)
 
@@ -149,13 +149,13 @@ Em pareix molt més original i millor regalar la planta sencera, o donar-li llav
 
 ## Com convertir una rosa en un roser
 
-Però sempre hi ha solucions per a tot, i si et regalen roses i les vols més temps pots intentar reproduir un roser per esqueixos. Hi ha diferents formes, però et recomane reutilitza una ampolla de plàstic per a crear un hivernacle. Amb uns senzills passos s’aconsegueix fàcilment.
+Però sempre hi ha solucions per a tot, i si et regalen roses i les vols més temps pots intentar reproduir un roser per esqueixos. Hi ha diferents formes, però et recomane reutilitza una ampolla de plàstic per a crear un hivernacle. Amb uns senzills passos es pot aconseguir.
 
-Primer de tot cal tallar la flor i les fulles per a evitar l'evapotranspiració, i després preparar tiges d'uns 15-20 cm de longitud amb un tall horitzontal a la base, i a la part superior un altre en diagonal per aconseguir més superfície d'absorció i impedir que s'acumule massa aigua. I cal fer-ho sempre per sobre d'una gemma. 
+Primer de tot cal tallar la flor i les fulles per a evitar l'evapotranspiració. Després s'han de preparar tiges d'uns 15-20 cm de longitud amb un tall horitzontal a la base, i a la part superior un altre en diagonal per aconseguir més superfície d'absorció i impedir que s'acumule massa aigua. I cal fer-ho sempre per sobre d'una gemma. 
 
-Cal submergir la part inferior de les tiges, on apunten les espines, oposat a la direcció dels brots, unes 1-2 setmanes en aigua neta a temperatura ambient, canviant-la cada 48 hores. Després les plantarem a un sòl fèrtil i les deixarem a un lloc ombrejat.
+Posteriorment, es submergeix la part inferior de les tiges —on apunten les espines, oposat a la direcció dels brots—, unes 1-2 setmanes en aigua neta a temperatura ambient, canviant-la cada 48 hores. Després les plantarem a un sòl fèrtil i les deixarem a un lloc ombrejat. 
 
-Seguirem col·locant una ampolla de plàstic invertida que les cobreixe a l'interior i es mantenen la temperatura i la humitat. Finalment, pel que fa al reg, només caldrà mantenir la humitat del sòl sense que arribe a entollar-se.
+Seguirem col·locant-hi una ampolla de plàstic invertida que les cobreixe a l'interior i es mantenen la temperatura i la humitat. Finalment, pel que fa al reg, només caldrà mantenir la humitat del sòl sense que arribe a entollar-se.
 
 ![Ampolla de plàstic reutilitzada com a hivernacle per als esqueixos de rosa](attachments/cloris/invernadero-casero-botella-plastica-esquejes-rosa.jpg)
 
@@ -171,7 +171,7 @@ El Petit Príncep amb la seua rosa. *Segur que qualsevol caminant pensaria que l
 
 # Conclusió i tancament
 
-Així doncs, siga quin siga el teu tipus d'amor: familiar, amistós, eròtic, romàntic, desinteresat... pots contribuir a que la planta es reproduisca millor, done lloc a més flors i això millore també l'estètica i l'ecologia del teu entorn.
+Així doncs, siga quin siga el teu tipus d'amor: familiar, amistós, eròtic, romàntic, desinteresat... pots contribuir a que la planta es reproduïsca millor, done lloc a més flors i això millore també l'estètica i l'ecologia del teu entorn.
 
 ![Grabat *El pájaro y la flor del Cerezo* (1830s), de Utagawa Hiroshige](attachments/cloris/pajaro-flores-cerezo-hiroshige-1830-arte-japones.jpg)
 
