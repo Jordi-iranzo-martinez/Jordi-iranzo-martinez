@@ -28,7 +28,7 @@ Ara bé, totes les flors fan la pol·linització: l'arribada del pol·len a l'ò
 
 D’altra banda, moltes angiospermes també es poden reproduir vegetativament, és a dir, de manera asexual, mitjançant estolons, bulbs o esqueixos, entre altres, sense involucrar les flors. Però en aquest cas la descendència és idèntica, limitant la variabilitat genètica.
 
-La majoria de plantes produeixen flors a la primavera perquè és quan es donen les condicions òptimes per a la seua reproducció: temperatures més càlides però moderades, més hores de llum (fotoperiode), humitat, pluges, molta activitat biològica... És quan més bufa al Mediterrani el vent de l'oest, que és suau i favorable. 
+La majoria de plantes produeixen flors a la primavera perquè és quan es donen les condicions òptimes per a la seua reproducció: temperatures més càlides però moderades, més hores de llum (fotoperiode), humitat, pluges, molta activitat biològica... És quan més bufa al Mediterrani el vent de l'oest, que és suau i favorable.
 
 ![Cuadre *La Primavera* (1480), de Sandro Botticelli](attachments/cloris/primavera-botticelli-1480-mitologia-flores.jpg)
 
@@ -36,7 +36,7 @@ Imatge 2: *La Primavera* (1480), de Sandro Botticelli. Apareixen, de dreta a esq
 
 És per això que hi ha més al·lèrgies al pol·len a aquesta estació: les anemòfiles l’alliberen massivament a l'aire, entra pel sistema respiratori, l'immunitari el detecta com a estrany i tracta de protegir-se i expulsar-lo. I les conseqüències ja les sabem: congestió, esternuts, llàgrimes...
 
-Ara bé, l'estratègia més usada per les plantes per a la pol·linització és la zoòfila. Per això empren flors atractives, grans, acolorides, amb bona olor, i quasi sempre acompanyades de nèctar, un aliment líquid dolç i molt ric en sucres. En general les pol·linitzen els insectes com abelles, mosques, escarabats i papallones, entre altres, els més abundants a la Terra, però també poden fer-ho vertebrats, com el colibrí, els rats penats i, fins i tot, les sargantanes!
+Ara bé, l'estratègia més usada per les plantes per a la pol·linització és la zoòfila. Per això empren flors atractives, grans, acolorides, amb bona olor, i quasi sempre acompanyades de nèctar, un aliment líquid dolç i molt ric en sucres. En general les pol·linitzen els insectes, com abelles, mosques, escarabats i papallones, entre altres, que són els animals més abundants a la Terra. Però també poden fer-ho vertebrats, com el colibrí, els rats penats i, fins i tot, les sargantanes!
 
 ![Abella pol·linitzant una flor espontània de lletsó menut](attachments/cloris/abeja-polinizando-flor-lechuguilla-silvestre.jpg)
 
