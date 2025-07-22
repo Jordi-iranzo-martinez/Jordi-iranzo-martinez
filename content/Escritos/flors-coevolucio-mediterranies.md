@@ -127,7 +127,7 @@ El seu culte celebra el cicle de la vida —les estacions, les noves generacions
 
 En el seu honor, al 238 a.C., durant la República, s'establiren a Roma els _Ludi Florae_ (Jocs Florals), que consistien en activitats lúdico-festives del 28 d'abril al 3 de maig compostes d'espectacles, balls, carreres, i representacions teatrals. Eren de caràcter plebeu, amb un ambient llicenciós i epicuri que contrastava amb la severitat de la moral romana. Les prostitutes consideraven el dia com propi, i actuaven nues al teatre.
 
-[Cuadre *Cató a les festes florals de Roma* (1899), de Prospero Piatti](attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg)
+![Cuadre *Cató a les festes florals de Roma* (1899), de Prospero Piatti](attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg)
 
 *Cató a les festes florals de Roma* (1899), de Prospero Piatti. Marco Porcio Cató era un destacat Censor romà —una de les magistratures més important del Senat, encarregada del registre de la població (cens) i del seu control moral (censura)—, reconegut per la seua austeritat moral i els seus ideals republicans. Segons els historiadors antics acostumava a abandonar les Floralies per a no interferir amb el seu llibertinatge habitual (amb túnica marró a l'obra). Les tres dones nues del mig són les tres gràcies, envoltades de flors. El roig simbolitza la sensualitat i la passió, i els conills i els cérvols dels costats la fertilitat i la renovació primaveral. Font: [_Museo Nacional de Bellas Artes_](https://www.mnba.gob.cl/)_, Santiago de Xile]_
 
