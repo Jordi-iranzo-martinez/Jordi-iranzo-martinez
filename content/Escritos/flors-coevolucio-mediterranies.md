@@ -125,7 +125,7 @@ El seu culte celebra el cicle de la vida —les estacions, les noves generacions
 
 *El Triomf de Flora* (1627-1628), de Nicolas Poussin. Escena idílica i pacífica de prosperitat agrícola i social. Font: [*Musée du Louvre*](https://collections.louvre.fr/ark:/53355/cl010062523), París]
 
-En el seu honor, al 238 a.C., durant la República, s'establiren a Roma els _Ludi Florae_ (Jocs Florals), que consistien en activitats lúdico-festives del 28 d'abril al 3 de maig compostes d'espectacles, balls, carreres, i representacions teatrals. Eren de caràcter plebeu, amb un ambient llicenciós i epicuri que contrastava amb la severitat de la moral romana. Les prostitutes consideraven el dia com propi, i actuaven nues al teatre.
+En el seu honor, al 238 a.C., durant la República, s'establiren a Roma els _Ludi Florae_ (Jocs Florals), que consistien en activitats lúdico-festives del 28 d'abril al 3 de maig compostes d'espectacles, balls, carreres, i representacions teatrals. Eren de caràcter plebeu, amb un ambient eròtic llicenciós i epicuri que contrastava amb la severitat de la moral romana. Les prostitutes consideraven el dia com propi, i actuaven nues al teatre.
 
 ![Cuadre *Cató a les festes florals de Roma* (1899), de Prospero Piatti](attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg)
 
