@@ -40,7 +40,7 @@ Ara bé, l'estratègia més usada per les plantes per a la pol·linització és 
 
 ![Abella pol·linitzant una flor espontània de lletsó menut](attachments/cloris/abeja-polinizando-flor-lechuguilla-silvestre.jpg)
 
-Abella pol·linitzant una flor espontània de lletsó menut. Font: Jordi Iranzo Martínez
+Abella pol·linitzant una flor espontània de lletsó menut. Autor: Jordi Iranzo Martínez
 
 Per això la vegetació espontània és tan important: a banda de millorar el sòl i prevenir l'erosió, també sol augmentar la biodiversitat. I és que creen microhàbitats i corredors ecològics, i nodreixen els pol·linitzadors locals que serveixen al seu temps d'aliment a pardals, altres insectes, rates-penades, sargantanes, aranyes, granotes etc. Com a excepció tenim les espècies invasores, que en general la disminueixen. Pots identificar aquestes espècies tan nocives amb l'App gratuïta [PlantNet](https://plantnet.org/) i comprovar si apareixen a la [Base de Dades Global d'Espècies Invasores de l'UICN (GISD)](https://www.iucngisd.org/gisd/).
 
