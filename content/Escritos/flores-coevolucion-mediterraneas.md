@@ -141,9 +141,9 @@ Personalmente, no estoy de acuerdo con dejar de regalar flores, ni tampoco con l
 
 Imagen 15: *Amapolas cerca de Argenteuil* (1873), de Claude Monet. Las amapolas son plantas pioneras espontáneas de las praderas europeas. Eran especialmente abundantes en los campos de trigo europeos antes del uso masivo de herbicidas. La niña lleva algunas en la mano. Fuente: [*Musée d'Orsay*](https://www.musee-orsay.fr/fr/oeuvres/coquelicots-1010), París
 
-Hoy sabemos que cortar las flores es malo para la planta porque le impide reproducirse y perjudica el ecosistema. Además, como no tienen raíces, las flores cortadas comienzan a morir poco a poco. Si lo miramos así, no parece tan buena idea como símbolo de amor.
+Hoy sabemos que cortar las flores es malo para la planta porque le impide reproducirse y perjudica el ecosistema. Además, como no tienen raíces, las flores cortadas comienzan a morir poco a poco. Visto así, no parece tan buena idea como símbolo de amor.
 
-Me parece mucho más original y mejor regalar la planta entera, o darle semillas plantadas que supongan una sorpresa para quien las tenga que cuidar. Y seguramente pasará ese tiempo pensando en ti.
+Pienso que es mucho más original y mejor regalar la planta entera, o darle semillas plantadas que sean una sorpresa para quien las tenga que cuidar. ¡Y seguramente pasará ese tiempo pensando en ti!
 
 Es lo que pasa, por ejemplo, con las orquídeas, pero no producen néctar. Alternativas autóctonas que sí lo hacen son la rosa, la margarita y la violeta. Y otras exóticas (pero no invasoras) que lo producen poco son la begonia, el ciclamen, el pensamiento, y el geranio.
 
@@ -151,9 +151,9 @@ Es lo que pasa, por ejemplo, con las orquídeas, pero no producen néctar. Alter
 
 Pero siempre hay soluciones para todo, y si te regalan rosas y las quieres más tiempo puedes intentar reproducir un rosal por esquejes. Hay diferentes formas, pero te recomiendo reutilizar una botella de plástico para crear un invernadero. Con unas sencillas instrucciones puede lograrse.
 
-Primero de todo hay que cortar la flor y las hojas para evitar la evapotranspiración, y después preparar tallos de unos 15-20 cm de longitud con un corte horizontal en la base, y en la parte superior otro en diagonal para conseguir más superficie de absorción e impedir que se acumule demasiada agua. Y hay que hacerlo siempre por encima de una yema.
+Primero hay que cortar la flor y las hojas para evitar la evapotranspiración. Después preparar tallos de unos 15-20 cm de longitud con un corte horizontal en la base, y en la parte superior otro en diagonal para conseguir más superficie de absorción e impedir que se acumule demasiada agua. Y hay que hacerlo siempre por encima de una yema.
 
-Hay que sumergir la parte inferior de los tallos, donde apuntan las espinas, opuesto a la dirección de los brotes, unas 1-2 semanas en agua limpia a temperatura ambiente, cambiándola cada 48 horas. Después las plantaremos en un suelo fértil y las dejaremos en un lugar sombreado.
+Posteriormente, se sumerge la parte inferior de los tallos —donde apuntan las espinas, opuesto a la dirección de los brotes—, unas 1-2 semanas en agua limpia a temperatura ambiente, cambiándola cada 48 horas. Después las plantaremos en un suelo fértil y las dejaremos en un lugar sombreado.
 
 Seguiremos colocando una botella de plástico invertida que las cubra en el interior y se mantengan la temperatura y la humedad. Finalmente, en cuanto al riego, solo será necesario mantener la humedad del suelo sin que llegue a encharcarse.
 
@@ -163,7 +163,7 @@ Imagen 16: Botella de plástico reutilizada como invernadero para los esquejes d
 
 La probabilidad de enraizamiento es del 30 al 50%, en unas tres semanas. Es más fácil si los tallos son gruesos porque tienen más energía, y es importante que el lugar sea fresco y que drene bien. Si brota, los rosales prefieren después varias horas de luz diarias, pero mejor no al mediodía, porque es cuando el sol es más intenso y puede quemarlas.
 
-Darle vida a un regalo y cuidar de él cambia el mensaje y la emoción. Citando el secreto que el zorro le confió al Principito en la novela de Exupéry: "Lo esencial es invisible a los ojos; solo se ve bien con el corazón", "Es el tiempo que le has dedicado a tu rosa lo que hace que sea tan importante", y "Eres responsable para siempre de lo que has domesticado".
+Darle vida a un regalo y cuidar de él cambia el mensaje y la emoción. Citando el secreto que el zorro le confió al Principito en la novela de Exupéry: "Lo esencial es invisible a los ojos; solo se ve bien con el corazón", "Es el tiempo que has estado con tu rosa lo que hace que sea tan importante", y "Eres responsable para siempre de lo que has domesticado".
 
 ![El Principito con su rosa](attachments/cloris/principito-rosa-saint-exupery-ilustracion.jpg)
 
