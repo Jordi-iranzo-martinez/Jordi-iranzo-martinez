@@ -12,7 +12,7 @@ Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. 
 
 ![Cuadre *Flora i Cèfir* (1875), de William-Adolphe Bouguereau](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg)
 
-Imatge 1: *Flora i Cèfir* (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [*Musée des Beaux Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
+*Flora i Cèfir* (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [*Musée des Beaux Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
 
 Encara que és discutible que la primavera siga filla de la deessa de les flors i no a l’inrevés, el mite reflecteix com els grecs entenien la connexió entre les estacions, la meteorologia, i la botànica, així com la relació dels fruits respecte de les flors. Per a comprendre-ho millor, hem d'entendre cada component des d'un punt de vista científic.
 
@@ -32,7 +32,7 @@ La majoria de plantes produeixen flors a la primavera perquè és quan es donen 
 
 ![Cuadre *La Primavera* (1480), de Sandro Botticelli](attachments/cloris/primavera-botticelli-1480-mitologia-flores.jpg)
 
-Imatge 2: *La Primavera* (1480), de Sandro Botticelli. Apareixen, de dreta a esquerra: Céfir segrestant la ninfa Cloris, Cloris com a deesa amb vestit de flors, Venus que presideix l'escena amb Cupido damunt, les tres gràcies (bellesa, goig i prosperitat) dansant, i Mercuri com a protector. Font: [*Galeria degli Uffizi*](www.uffizi.it/opere/botticelli-primavera), Florència
+*La Primavera* (1480), de Sandro Botticelli. Apareixen, de dreta a esquerra: Céfir segrestant la ninfa Cloris, Cloris com a deesa amb vestit de flors, Venus que presideix l'escena amb Cupido damunt, les tres gràcies (bellesa, goig i prosperitat) dansant, i Mercuri com a protector. Font: [*Galeria degli Uffizi*](www.uffizi.it/opere/botticelli-primavera), Florència
 
 És per això que hi ha més al·lèrgies al pol·len a aquesta estació: les anemòfiles l’alliberen massivament a l'aire, entra pel sistema respiratori, l'immunitari el detecta com a estrany i tracta de protegir-se i expulsar-lo. I les conseqüències ja les sabem: congestió, esternuts, llàgrimes...
 
@@ -40,31 +40,31 @@ Ara bé, l'estratègia més usada per les plantes per a la pol·linització és 
 
 ![Abella pol·linitzant una flor espontània de lletsó menut](attachments/cloris/abeja-polinizando-flor-lechuguilla-silvestre.jpg)
 
-Imatge 3: Abella pol·linitzant una flor espontània de lletsó menut. Font: Jordi Iranzo Martínez
+Abella pol·linitzant una flor espontània de lletsó menut. Font: Jordi Iranzo Martínez
 
-Per això la vegetació espontània és tan important: a banda de millorar el sòl i prevenir l'erosió, també sol augmentar la biodiversitat. I és que creen microhàbitats i corredors ecològics, i nodreixen els pol·linitzadors locals que serveixen al seu temps d'aliment a pardals, altres insectes, rates-penades, sargantanes, aranyes, granotes etc. Com a excepció tenim les espècies invasores, que la disminueixen. Pots identificar aquestes espècies tan nocives amb l'App gratuïta [PlantNet](https://plantnet.org/) i comprovar si apareixen a la [Base de Dades Global d'Espècies Invasores de l'UICN (GISD)](https://www.iucngisd.org/gisd/).
+Per això la vegetació espontània és tan important: a banda de millorar el sòl i prevenir l'erosió, també sol augmentar la biodiversitat. I és que creen microhàbitats i corredors ecològics, i nodreixen els pol·linitzadors locals que serveixen al seu temps d'aliment a pardals, altres insectes, rates-penades, sargantanes, aranyes, granotes etc. Com a excepció tenim les espècies invasores, que en general la disminueixen. Pots identificar aquestes espècies tan nocives amb l'App gratuïta [PlantNet](https://plantnet.org/) i comprovar si apareixen a la [Base de Dades Global d'Espècies Invasores de l'UICN (GISD)](https://www.iucngisd.org/gisd/).
 
 ![Vegetació espontània de ravenissa blanca](attachments/cloris/vegetacion-espontanea-rabaniza-blanca-biodiversidad.jpg)
 
-Imatge 4: Vegetació espontània de ravenissa blanca (*Diplotaxis erucoides*). Autor: Jordi Iranzo Martínez
+Vegetació espontània de ravenissa blanca (*Diplotaxis erucoides*). Autor: Jordi Iranzo Martínez
 
 # Les llavors: els contenidors de l'embrió
 
-Quan es produeix la pol·linització, el pol·len fecunda l'òvul i es forma un zigot (cèl·lula nova formada per la mescla dels gamets), que es divideix en més i més cèl·lules fins que, en madurar, es converteix en una llavor (que conté l'embrió d'una planta nova).
+Quan es produeix la pol·linització, el pol·len fecunda l'òvul i es forma un zigot (cèl·lula nova formada per la mescla dels gamets), que es divideix en més i més cèl·lules fins que, en madurar, es converteix en una llavor, estructura que conté l'embrió d'una planta nova.
 
-Les llavors són diverses, en mida, color o pes, per exemple. Tenen molta energia perquè la necessita la planta quan comença,  ja que no té fulles per a fer la fotosíntesi. Moltes són comestibles i de fet en mengem moltes: els cereals (blat, arròs, sègol, dacsa, avena), les llegums (llentilles, cigrons, mongetes, fesols, pèsols), els fruits secs (nous, ametlles, pipes, avellanes, festucs), els pinyons o els glans.
+Les llavors són diverses, en mida, color, pes... Tenen molta energia perquè la necessita la planta en començar, ja que no al principi no té fulles per a fer la fotosíntesi. Moltes són comestibles i de fet en mengem moltes: els cereals (blat, arròs, sègol, dacsa, avena), les llegums (llentilles, cigrons, mongetes, fesols, pèsols), els fruits secs (nous, ametlles, pipes, avellanes, festucs), els pinyons, els glans...
 
 ![Exemples de llavors](attachments/cloris/tipos-semillas-cereales-legumbres-frutos-secos.jpg)
 
-Imatge 5: Exemples de llavors. Font: ChatGPT
+Exemples de llavors. Font: ChatGPT
 
 # Els fruits: la protecció de la llavor
 
-A les angiospermes, després de la fecundació l'ovari es desenvolupa i es converteix en un fruit que protegeix la llavor, com succeeix amb la nou, el coco o el pistatxo. Com les llavors tampoc es mouen, les plantes utilitzen diferents recursos per dispersar-les: així tenim les plantes anemocores, zoocores, hidrocores i autocores (aquestes sovint exploten, es torcen, o es propulsen com una catapulta). El sufix -còria significa moure's o dispersar-se.
+A les angiospermes, després de la fecundació l'ovari es desenvolupa i es converteix en un fruit que protegeix la llavor, com succeeix amb la nou, el coco o el pistatxo. Com les llavors tampoc es mouen, les plantes utilitzen diferents recursos per dispersar-les: així tenim les plantes anemocores, zoocores, hidrocores i autocores (aquestes sovint exploten, es torcen, o es disparen com una catapulta). El sufix *-còria* significa "moure's" o "dispersar-se".
 
 ![Cuadre *Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem](attachments/cloris/bodegon-frutas-flores-jan-davidsz-heem-1660.jpg)
 
-Imatge 6: *Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [*Rijksmuseum*](https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam
+*Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [*Rijksmuseum*](https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam
 
 En el cas de les endozoocores, el fruit és nutritiu per als animals. Quan el mengen, incorporen també les llavors i després les expulsen amb els excrements. Així la planta es dispersa i té matèria orgànica a prop que fertilitza el sòl. Ara bé, caldrà que la llavor siga resistent al seu estómac!
 
@@ -72,7 +72,7 @@ Exemples són la poma, la taronja, el préssec, la pera..., però també l'oliva
 
 ![Cuadre *Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio](attachments/cloris/caravaggio-nino-cesta-frutas-1593-bodegon.jpg)
 
-Imatge 7: *Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio. Moltes vegades els bodegons eren un símbol de riquesa i de prosperitat. Font: [*Galeria Borghese*](https://galleriaborghese.beniculturali.it/), Roma
+*Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio. Moltes vegades els bodegons eren un símbol de riquesa i de prosperitat. Font: [*Galeria Borghese*](https://galleriaborghese.beniculturali.it/), Roma
 
 # Les collites de les angiospermes
 
@@ -80,7 +80,8 @@ I és que les plantes amb flors han sigut la base de l'alimentació humana en ge
 
 ![Pintura *Escena de collita de la Tumba de Sennedjem* (c. 1295-1213 a.C.)](attachments/cloris/tumba-sennedjem-escena-cosecha-egipto-antiguo.jpg)
 
-Imatge 8: *Escena de collita de la Tomba de Sennedjem* (c. 1295-1213 a.C.).  Sennedjem era un artesà i cap egipci molt estimat a Deir el-Medina, el poblat dels constructors de tombes per als faraons de la Vall dels Reis. La seua tomba està decorada amb motius agrícoles que representen l'abundància després de la mort. Comença amb el comiat del difunt, que ha de travessar el Duat (inframón egipci) en barca abans d'aplegar a la vida eterna. El Sol d'Horus simbolitza el cicle de la mort (ponent) i la resurrecció. Es representa la collita de cereals, blat o civada, l’ús de la ramaderia, palmeres datileres, i fruiters o espècies aquàtiques per la fertilitat del Nil. Font: Tomba de Sennedjem a Deir el-Medina (Tebas)
+*Escena de collita de la Tomba de Sennedjem* (c. 1295-1213 a.C.). Sennedjem era un artesà i cap egipci molt estimat a Deir el-Medina, el poblat dels constructors de tombes per als faraons de la Vall dels Reis. La seua tomba està decorada amb motius agrícoles que representen l'abundància després de la mort. Comença amb el comiat del difunt, que ha de travessar el Duat (inframón egipci) en barca abans d'aplegar a la vida eterna. El Sol d'Horus simbolitza el cicle de la mort (ponent) i la resurrecció. Es representa la collita de cereals, blat o civada, l’ús de la ramaderia, palmeres datileres, i fruiters o espècies aquàtiques per la fertilitat del Nil. Font: Tomba de Sennedjem a Deir el-Medina (Tebas)
+
 
 Però també nosaltres modificàrem les espècies domesticades per selecció artificial, l’elecció humana dels trets desitjables, escollint el fenotip (característiques) dels cultius que volíem, basant-nos en el seu sabor, la mida, el seu aspecte, com s’adaptaven a l’ambient, la facilitat per a menjar-les, etc. Així, es canvia de manera indirecta el genotip (conjunt de gens) responsable d'aquests trets, i per això moltes espècies que mengem ara no s'assemblen quasi gens a les originàries. Un exercici molt interessant és investigar com eren abans.
 
@@ -90,7 +91,7 @@ D'acord amb la [FAO](https://www.fao.org/pollination/about/es), aproximadament t
 
 ![Cuadre *La collita* (1569), de Pieter Brueghel el Viejo](attachments/cloris/cosecha-trigo-pieter-brueghel-1569-agricultura.jpg)
 
-Imatge 9: *La collita* (1569), de Pieter Brueghel el Vell. Escena de la vida cultural flamenca de la sega i la collita del blat madur tal i com es feia al segle XVI. Tenia lloc típicament en juliol o en agost, perquè la pol·linització es feia en primavera i després havia de formar la llavor. Es representa la cooperació en l'esforç, el descans i el menjar dels camperols, que depenen de les estacions de forma cíclica. Font: [*Kunsthistorisches Museum](https://www.khm.at/digital/kuenstler/pieter-bruegel-der-aeltere)*, Viena
+*La collita* (1569), de Pieter Brueghel el Vell. Escena de la vida cultural flamenca de la sega i la collita del blat madur tal i com es feia al segle XVI. Tenia lloc típicament en juliol o en agost, perquè la pol·linització es feia en primavera i després havia de formar la llavor. Es representa la cooperació en l'esforç, el descans i el menjar dels camperols, que depenen de les estacions de forma cíclica. Font: [*Kunsthistorisches Museum](https://www.khm.at/digital/kuenstler/pieter-bruegel-der-aeltere)*, Viena
 
 En cuina, s’anomenen verdures a les parts comestibles de la planta que normalment no són fruits dolços: com les fulles (espinacs, bleda, enciam), les tiges (espàrrecs, api), les arrels (safanòria, remolatxa, mandioca, nap), els bulbs (ceba, all), i fins i tot flors (coliflor, carxofa, bròquil). Els tubercles són parts engruixudes de tiges subterrànies per a emmagatzenar energia (creïlla, xufa, nyam), i les hortalisses són les verdures que es cultiven a l'hort.
 
@@ -100,35 +101,35 @@ Imatge 10: *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el 
 
 # Les zoòcores i la jardineria
 
-L’interès per l'agricultura és raonable, estem dissenyats per a sobreviure i l’aliment és indispensable. Però és curiós des d'un punt de vista evolutiu que ens agraden les flors de les zoòfiles si no les pol·linitzem.
+L’interès per l'agricultura és raonable, ja que estem dissenyats per a sobreviure i l’aliment és indispensable per a fer-ho. Però és curiós des d'un punt de vista evolutiu que ens agraden les flors de les zoòfiles si no les pol·linitzem.
 
-Plantes autòctones mediterrànies que poden servir bé per a jardineria són l'atzavara, el romaní, la ginesta, l'estepa, el timó i la sajolida. Altres que floreixen en estacions diferents per a beneficiar més els pol·linitzadors són la sempreviva, la margarida borda i l'herba de Sant Joan, a l'estiu, i l'àster, el ciclamen bord i la bruguera, a la tardor.
+Plantes autòctones mediterrànies que florisen a la primavera i poden servir bé per a jardineria són el romaní, la ginesta, l'estepa, el timó i la sajolida. Altres que floreixen en estacions diferents per a beneficiar més els pol·linitzadors són la sempreviva, la margarida borda i l'herba de Sant Joan, a l'estiu; i l'àster, el ciclamen bord i la bruguera, a la tardor.
 
 ![Cuadre *El naixement de Venus* (c. 1484–1486), de Sandro Botticelli](attachments/cloris/nacimiento-venus-botticelli-1484-flores-mitologia.jpg)
 
-Imatge 11: *El naixement de Venus* (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), deessa de la bellesa i l'erotisme, naix al mar, Cèfir i Aura (la brisa) la impulsen cap a la costa, li porten més llum i li tiren flors, i Cloris a terra la vol cobrir amb un mantell floral. Representa l'arribada de l'impuls sexual al món, a la primavera, com a força universal que es manifestada com a bellesa i que provoca la floració de les plantes. Font: *[Galeria degli Uffizi](https://www.uffizi.it/opere/nascita-di-venere)*, Florència]
+*El naixement de Venus* (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), deessa de la bellesa i l'erotisme, naix al mar, Cèfir i Aura (la brisa) la impulsen cap a la costa, li porten més llum i li tiren flors, i Cloris a terra la vol cobrir amb un mantell floral. Representa l'arribada de l'impuls sexual al món, a la primavera, com a força universal que es manifestada com a bellesa i que provoca la floració de les plantes. Font: *[Galeria degli Uffizi](https://www.uffizi.it/opere/nascita-di-venere)*, Florència]
 
 Però compte a no triar una planta exòtica invasora, que les tenen en alguns llocs, tot i ser il·legal el seu comerç a Espanya si apareix al [Catàleg Espanyol](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565&p=20250512&tn=1#an) ([vore fitxes de flora](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-exoticas-invasoras/ce_eei_flora.html)) o a la Comunitat Autònoma si ho fa a l'autonòmic ([Decret 213/2009](https://dogv.gva.es/va/eli/es-vc/d/2009/11/20/213) a la Comunitat Valenciana)!
 
 # La figura de Flora
 
-El culte a Cloris es va magnificar al panteó romà amb la figura de Flora, el seu equivalent. La veneraren com a deessa ancestral de les flors, la primavera, i la fertilitat dels camps, probablement des de l'època monàrquica (segles VIII-VI a.C.), i comptava amb un _flamen floralis_ (sacerdot específic), menor, responsable dels seus ritus i festivitats.
+El culte a Cloris es va magnificar al panteó romà amb la figura de Flora, el seu equivalent. La veneraren com a deessa ancestral de les flors, la primavera, i la fertilitat dels camps, probablement des de l'època monàrquica (segles VIII-VI a.C.). Comptava amb un _flamen floralis_ (sacerdot específic), menor, responsable dels seus ritus i festivitats.
 
 ![Cuadre *Flora* (1517), de Tiziano Vecellio](attachments/cloris/flora-tiziano-1517-diosa-flores-primavera.jpg)
 
-Imatge 12: *Flora* (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [*Galeria degli Uffizi*](https://www.uffizi.it/opere/tiziano-flora), Florència (el nom de la ciutat no és casual, Julio Cèsar la refundà com la colònia romana _Florentia_, que vol dir "florir")
+*Flora* (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [*Galeria degli Uffizi*](https://www.uffizi.it/opere/tiziano-flora), Florència (el nom de la ciutat no és casual, Julio Cèsar la refundà com la colònia romana _Florentia_, que vol dir "florir")
 
 El seu culte celebra el cicle de la vida —les estacions, les noves generacions—, l'amor, la sensualitat, i l'abundància de la natura en pau, front a la destrucció de la guerra i la violència. I és que l’economia romana era principalment rural i agrícola, el treball al camp era l’aspiració màxima del ciutadà i la propietat de la terra sustentava el seu estatus social.
 
 ![Cuadre *El Triunfo de Flora* (1627-1628), de Nicolas Poussin](attachments/cloris/triunfo-flora-poussin-1627-mitologia-romana.jpg)
 
-Imatge 13: *El Triomf de Flora* (1627-1628), de Nicolas Poussin. Escena idílica i pacífica de prosperitat agrícola i social. Font: [*Musée du Louvre*](https://collections.louvre.fr/ark:/53355/cl010062523), París]
+*El Triomf de Flora* (1627-1628), de Nicolas Poussin. Escena idílica i pacífica de prosperitat agrícola i social. Font: [*Musée du Louvre*](https://collections.louvre.fr/ark:/53355/cl010062523), París]
 
-En el seu honor, al 238 a.C., durant la República, s'establiren a Roma els _Ludi Florae_ (Jocs Florals), que consistien en activitats festives i lúdiques del 28 d'abril al 3 de maig compostes d'espectacles, balls, carreres, i representacions teatrals. L'ambient era de caràcter plebeu, i amb un ambient llicenciós i epicuri que contrastava amb la severitat de la moral romana. Les prostitutes consideraven el dia com propi, i actuaven nues al teatre.
+En el seu honor, al 238 a.C., durant la República, s'establiren a Roma els _Ludi Florae_ (Jocs Florals), que consistien en activitats lúdico-festives del 28 d'abril al 3 de maig compostes d'espectacles, balls, carreres, i representacions teatrals. Eren de caràcter plebeu, amb un ambient llicenciós i epicuri que contrastava amb la severitat de la moral romana. Les prostitutes consideraven el dia com propi, i actuaven nues al teatre.
 
 [Cuadre *Cató a les festes florals de Roma* (1899), de Prospero Piatti](attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg)
 
-Imatge 14: *Cató a les festes florals de Roma* (1899), de Prospero Piatti. Marco Porcio Cató era un destacat Censor romà —una de les magistratures més important del Senat, encarregada del registre de la població (cens) i del seu control moral (censura)—, reconegut per la seua austeritat moral i els seus ideals republicans. Segons els historiadors antics acostumava a abandonar les Floralies per a no interferir amb el seu llibertinatge habitual (amb túnica marró a l'obra). Les tres dones nues del mig són les tres gràcies, envoltades de flors. El roig simbolitza la sensualitat i la passió, i els conills i els cérvols dels costats la fertilitat i la renovació primaveral. Font: [_Museo Nacional de Bellas Artes_](https://www.mnba.gob.cl/)_, Santiago de Xile]_
+*Cató a les festes florals de Roma* (1899), de Prospero Piatti. Marco Porcio Cató era un destacat Censor romà —una de les magistratures més important del Senat, encarregada del registre de la població (cens) i del seu control moral (censura)—, reconegut per la seua austeritat moral i els seus ideals republicans. Segons els historiadors antics acostumava a abandonar les Floralies per a no interferir amb el seu llibertinatge habitual (amb túnica marró a l'obra). Les tres dones nues del mig són les tres gràcies, envoltades de flors. El roig simbolitza la sensualitat i la passió, i els conills i els cérvols dels costats la fertilitat i la renovació primaveral. Font: [_Museo Nacional de Bellas Artes_](https://www.mnba.gob.cl/)_, Santiago de Xile]_
 
 A finals de l'Edat Mitjana, els Jocs Florals es repreneren a Toulouse (1324-1484), però com a certàmens literaris per a recuperar la poesia trobadoresca en llengua occitana. Els guanyadors rebien flors com a reconeiximent simbòlics. Durant la Renaixença se celebraren a Barcelona (1859) i a València (1879), amb els temes "Patria, fides, amor" (_Fides_ era de religió). Els premis respectius eren l’englantina d'or (rosa silvestre), la viola d'or i argent (violeta) i la flor natural, d'elecció lliure. A l'actualitat encara es mantenen en molts llocs de parla catalana i occitana, però els reconeixements són diplomes o premis en metàl·lic.
 
@@ -138,7 +139,7 @@ Personalment, no estic d'acord amb deixar de regalar flors, ni tampoc amb l'asso
 
 ![Cuadre *Roselles prop d'Argenteuil* (1873), de Claude Monet](attachments/cloris/amapolas-argenteuil-monet-1873-flores-silvestres.jpg)
 
-Imatge 15: *Roselles prop d'Argenteuil* (1873), de Claude Monet. Les roselles són plantes pioneres espontànies de les praderies europees. Eren especialment abundants als camps de blat europeus abans de l'ús massiu d'herbicides. La xiqueta porta algunes a la mà. Font: [_Musée d'Orsay_](https://www.musee-orsay.fr/fr/oeuvres/coquelicots-1010)_, París
+*Roselles prop d'Argenteuil* (1873), de Claude Monet. Les roselles són plantes pioneres espontànies de les praderies europees. Eren especialment abundants als camps de blat europeus abans de l'ús massiu d'herbicides. La xiqueta porta algunes a la mà. Font: [_Musée d'Orsay_](https://www.musee-orsay.fr/fr/oeuvres/coquelicots-1010)_, París
 
 Hui sabem que tallar les flors és dolent per a la planta perquè li impedeix reproduir-se i perjudica l'ecosistema. A més a més, com que no tenen arrels, les flors tallades comencen a morir poc a poc. Si ho mirem així, no sembla tan bona idea com a símbol d'amor.
 
@@ -158,7 +159,7 @@ Seguirem col·locant una ampolla de plàstic invertida que les cobreixe a l'inte
 
 ![Ampolla de plàstic reutilitzada com a hivernacle per als esqueixos de rosa](attachments/cloris/invernadero-casero-botella-plastica-esquejes-rosa.jpg)
 
-Imatge 16: Ampolla de plàstic reutilitzada com a hivernacle per als esqueixos de rosa. Font: ChatGPT
+Ampolla de plàstic reutilitzada com a hivernacle per als esqueixos de rosa. Font: ChatGPT
 
 La probabilitat d'arrelament és del 30 al 50 %, en unes tres setmanes. És més fàcil si les tiges són grosses perquè tenen més energia, i és important que el lloc siga fresc i que drene bé. Si brota, els rosers prefereixen després diverses hores de llum diàries, però millor no a migdia, perquè és quan el sol és més intens i pot cremar-les.
 
@@ -166,7 +167,7 @@ Donar-li vida a un regal i cuidar d'ell canvia el missatge i l'emoció. Citant e
 
 ![El Petit Príncep amb la seua rosa](attachments/cloris/principito-rosa-saint-exupery-ilustracion.jpg)
 
-Imatge 17: El Petit Príncep amb la seua rosa. *Segur que qualsevol caminant pensaria que la meua rosa és igual que vosaltres. Però ella sola és més important que totes vosaltres juntes, perquè és la rosa que he regat. (...). Perquè és la meua rosa*. Font: *El Petit Príncep* (1943), d'Antoine de Saint-Exupéry
+El Petit Príncep amb la seua rosa. *Segur que qualsevol caminant pensaria que la meua rosa és igual que vosaltres. Però ella sola és més important que totes vosaltres juntes, perquè és la rosa que he regat. (...). Perquè és la meua rosa*. Font: *El Petit Príncep* (1943), d'Antoine de Saint-Exupéry
 
 # Conclusió i tancament
 
@@ -174,7 +175,7 @@ Així doncs, siga quin siga el teu tipus d'amor: familiar, amistós, eròtic, ro
 
 ![Grabat *El pájaro y la flor del Cerezo* (1830s), de Utagawa Hiroshige](attachments/cloris/pajaro-flores-cerezo-hiroshige-1830-arte-japones.jpg)
 
-Imatge 18: *El pardal i la flor del Cirerer* (1830s), d'Utagawa Hiroshige. Els pardals s'alimenten del fruit del cirerer a la primavera i principi de l'estiu, i contribueixen a dispersar-ne les llavors (zoocòria). Font: [*Museum of Fine Arts*](https://collections.mfa.org/search/objects/*/Bird%20and%20Cherry%20Blossom), Boston
+*El pardal i la flor del Cirerer* (1830s), d'Utagawa Hiroshige. Els pardals s'alimenten del fruit del cirerer a la primavera i principi de l'estiu, i contribueixen a dispersar-ne les llavors (zoocòria). Font: [*Museum of Fine Arts*](https://collections.mfa.org/search/objects/*/Bird%20and%20Cherry%20Blossom), Boston
 
 I tu, a quines flors t’animes a ajudar? Començaries amb alguna al teu balcó?
 
