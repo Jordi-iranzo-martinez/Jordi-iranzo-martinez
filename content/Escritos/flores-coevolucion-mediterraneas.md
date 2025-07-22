@@ -6,7 +6,7 @@ title: "De Cloris al florecimiento de la vida: flores, coevolución y prosperida
 
 **Las flores revelan secretos fascinantes sobre reproducción vegetal, coevolución de especies y conservación ambiental. Acompañadnos en un recorrido por la botánica, la ecología, la historia y la cultura que nos invita a reflexionar sobre cómo nos relacionamos con ellas y, además, cómo favorecer la biodiversidad, la sostenibilidad y, por qué no, la belleza.**
 
-Hoy quiero hablar de las flores, y como me gustan las historias de la mitología, especialmente la griega, comenzaré con una historia que me viene perfecta para el tema: el mito de Cloris y Céfiro.
+Quiero hablar de las flores, y como me gustan las historias de la mitología, especialmente la griega, comenzaré con una historia que me viene perfecta para el tema: el mito de Cloris y Céfiro.
 
 Cloris era una ninfa terrestre que vivía en las praderas y cuidaba las plantas. Céfiro, el dios-viento del oeste, la raptó, y le otorgó el poder de la floración. Así se transformó en la diosa de las flores y la vegetación primaveral. Tuvieron dos hijas: la Primavera, y Karpos, la diosa de los frutos y las cosechas.
 
@@ -14,13 +14,13 @@ Cloris era una ninfa terrestre que vivía en las praderas y cuidaba las plantas.
 
 Imagen 1: *Flora y Céfiro* (1875), de William-Adolphe Bouguereau. El viento del oeste favorece la floración y fertiliza las plantas, creando más vida. Fuente: [*Musée des Beaux-Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsacia)
 
-Aunque es discutible que la primavera sea hija de la diosa de las flores y no al revés, el mito refleja cómo los griegos entendían la conexión entre las estaciones, la meteorología, y la botánica, así como la relación de los frutos respecto a las flores. Para comprenderlo mejor, debemos entender cada componente desde un punto de vista científico.
+Aunque es discutible que la primavera sea hija de la diosa de las flores y no al revés, el mito refleja cómo los griegos entendían la conexión entre las estaciones, la meteorología, y la botánica, así como la relación de los frutos respecto a las flores y la importancia de todo ello en la agricultura. Para comprenderlo mejor, debemos entender cada componente desde un punto de vista científico.
 
 # ¿Qué es una flor?
 
-Las flores son los órganos sexuales donde se producen los gametos, células que al unirse forman un nuevo individuo, y pueden ser masculinos (polen) o femeninos (óvulos). La mayoría de plantas (70-90%) son hermafroditas, con los dos tipos de gametos en la misma flor. Las plantas monoicas (5-7%) producen un tipo en cada flor, y las dioicas (6-7%) solo un tipo en cada individuo. Los términos monoico y dioico vienen del griego, _mono_ o _di_, uno y dos, y _oikos_, casa.
+Las flores son los órganos sexuales de las plantas, donde se producen los gametos: células que al unirse forman un nuevo individuo. Estos pueden ser masculinos (polen) o femeninos (óvulos). La mayoría de plantas (70-90%) son hermafroditas, con los dos tipos de gametos en la misma flor. Las plantas monoicas (5-7%) producen un tipo en cada flor, y las dioicas (6-7%) solo un tipo en cada individuo. Los términos monoico y dioico vienen del griego, _mono_ o _di_, uno y dos, y _oikos_, casa.
 
-No todas las plantas tienen flores; solo las espermatófitas (con semillas), que son de hecho la inmensa mayoría (cerca del 90%), salvo los helechos y los musgos, entre otros. Pueden ser de dos tipos: las gimnospermas ("semillas desnudas"), que solo comprenden el 0,3%, entre las que encontramos el pino, el ciprés, el cedro, el abeto y el ginkgo; y las angiospermas ("semillas en recipiente"), que las tienen en un fruto, son posteriores y comprenden la gran mayoría restante.
+No todas las plantas tienen flores, sin embargo; solo las espermatófitas ("con semillas"), que son de hecho casi todas —cerca del 90%—, salvo los helechos y los musgos, entre otros. Pueden ser de dos tipos: las gimnospermas ("semillas desnudas"), que solo comprenden el 0,3%, entre las que encontramos el pino, el ciprés, el cedro, el abeto y el ginkgo; y las angiospermas ("semillas en recipiente"), que las tienen en un fruto, son posteriores y comprenden la gran mayoría restante.
 
 # La polinización, la floración y la primavera - una danza ecológica
 
@@ -125,9 +125,9 @@ Su culto celebra el ciclo de la vida —las estaciones, las nuevas generaciones�
 
 Imagen 13: *El Triunfo de Flora* (1627-1628), de Nicolas Poussin. Escena idílica y pacífica de prosperidad agrícola y social. Fuente: *[Musée du Louvre](https://collections.louvre.fr/ark:/53355/cl010062523)*, París
 
-En su honor, en el 238 a.C., durante la República, se establecieron en Roma  los *Ludi Florae* (Juegos Florales), que consistían en actividades festivas y lúdicas del 28 de abril al 3 de mayo compuestas de espectáculos, bailes, carreras, y representaciones teatrales. Eran de carácter plebeyo, con un ambiente licencioso y epicúreo que contrastaba con la severidad de la moral romana. Las prostitutas consideraban el día como propio, y actuaban desnudas en el teatro.
+En su honor, en el 238 a.C., durante la República, se establecieron en Roma  los *Ludi Florae* (Juegos Florales), que consistían en actividades lúdico-festivas del 28 de abril al 3 de mayo, compuestas de espectáculos, bailes, carreras, y representaciones teatrales. Eran de carácter plebeyo, con un ambiente erótico licencioso y epicúreo que contrastaba con la severidad de la moral romana. Las prostitutas consideraban el día como propio, y actuaban desnudas en el teatro.
 
-[Cuadro *Catón en las fiestas florales de Roma* (1899), de Prospero Piatti[(attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg)
+![Cuadro *Catón en las fiestas florales de Roma* (1899), de Prospero Piatti[(attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg)
 
 Imagen 14: *Catón en las fiestas florales de Roma* (1899), de Prospero Piatti. Marco Porcio Catón era un destacado Censor romano —una de las magistraturas más importantes del Senado, encargada del registro de la población (censo) y de su control moral (censura)—, reconocido por su austeridad moral y sus ideales republicanos. Según los historiadores antiguos acostumbraba a abandonar las Floralias para no interferir con su libertinaje habitual (con túnica marrón en la obra). Las tres mujeres desnudas del centro son las tres gracias, rodeadas de flores. El rojo simboliza la sensualidad y la pasión, y los conejos y los ciervos de los lados la fertilidad y la renovación primaveral. Fuente: [Museo Nacional de Bellas Artes](https://www.mnba.gob.cl/), Santiago de Chile
 
