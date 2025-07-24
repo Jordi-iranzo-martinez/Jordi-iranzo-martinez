@@ -53,3 +53,7 @@ _**Communication**: Science outreach, translation of complex technical concepts,
 <!-- End MailerLite Universal -->
 
 <div class="ml-embedded" data-form="pl2tKA"></div>
+
+
+<meta name="google-site-verification" content="Kn1yBWni3uqIop5DE21_kQjxSTz6HTcatka1vyO2ANg" />
+<meta name="msvalidate.01" content="23777A0C6DFAED4F041720EDA6C71AC1" />
