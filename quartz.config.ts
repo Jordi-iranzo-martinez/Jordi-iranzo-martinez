@@ -51,12 +51,26 @@ const config: QuartzConfig = {
         },
       },
     },
-    head: [
-      {
-        tag: "script",
-        content: `(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '1647761');`
-      }
-    ]
+    head:[
+  {
+    tag: "meta",
+    attributes: {
+      name: "google-site-verification",
+      content: "Kn1yBWni3uqIop5DE21_kQjxSTz6HTcatka1vyO2ANg"
+    }
+  },
+  {
+    tag: "meta",
+    attributes: {
+      name: "msvalidate.01",
+      content: "23777A0C6DFAED4F041720EDA6C71AC1"
+    }
+  },
+  {
+    tag: "script",
+    content: `(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '1647761');`
+  }
+]
   },
   plugins: {
     transformers: [
