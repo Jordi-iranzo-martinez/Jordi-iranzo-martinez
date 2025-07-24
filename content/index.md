@@ -41,7 +41,6 @@ _**Technical projects**: Environmental regulations, GIS mapping, data analysis, 
 
 _**Communication**: Science outreach, translation of complex technical concepts, and multilingual writing for different audiences._
 
----
 
 <!-- MailerLite Universal -->
 <script>
