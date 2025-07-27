@@ -68,7 +68,7 @@ A les angiospermes, després de la fecundació l'ovari es desenvolupa i es conve
 
 En el cas de les endozoocores, el fruit és nutritiu per als animals. Quan el mengen, incorporen també les llavors i després les expulsen amb els excrements. Així la planta es dispersa i té matèria orgànica a prop que fertilitza el sòl. Ara bé, caldrà que la llavor siga resistent al seu estómac!
 
-Exemples són la poma, la taronja, el préssec, la pera..., però també l'oliva, la tomaca, el cogombre, el carbassó, l'albergínia o el pebre. De fet, hem coevolucionat tant amb elles que els nutricionistes recomanen menjar vàries peces de fruita al dia!
+Exemples són la poma, la taronja, el préssec, la pera..., però també l'oliva, el dàtil, la tomaca, el cogombre, el carbassó, l'albergínia o el pebre. De fet, hem coevolucionat tant amb elles que els nutricionistes recomanen menjar vàries peces de fruita al dia!
 
 ![Cuadre *Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio](attachments/cloris/caravaggio-nino-cesta-frutas-1593-bodegon.jpg)
 
