@@ -13,9 +13,9 @@ _Environmental technician specialized in Spanish and European environmental regu
 
 ---
 
-**Formación continua:** Unos 160 certificados en política ambiental, desarrollo sostenible y herramientas digitales (Naciones Unidas, Unión Europea, Google...). *Certificados disponibles [aquí](https://www.dropbox.com/home/Certificates).*
+**Formación continua:** Más de 160 certificados en política ambiental, desarrollo sostenible y herramientas digitales (Naciones Unidas, Unión Europea, Google...). *Certificados disponibles [aquí](https://www.dropbox.com/home/Certificates).*
 
-_**Continuous training**: Over 160 certifications in environmental policy, sustainable development, and digital tools (United Nations, European Union, Google, etc.). Certificates available [here](https://www.dropbox.com/home/Certificates)._
+_**Continuous training**: More than 160 certifications in environmental policy, sustainable development, and digital tools (United Nations, European Union, Google, etc.). Certificates available [here](https://www.dropbox.com/home/Certificates)._
 
 ---
 
