@@ -69,7 +69,7 @@ Imagen 6: *Festón de frutas y flores* (c. 1660), de Jan Davidsz de Heem. Hay ta
 
 En el caso de las endozoócoras, el fruto es nutritivo para los animales. Cuando lo comen, incorporan también las semillas y después las expulsan con los excrementos. Así la planta se dispersa y tiene materia orgánica cerca que fertiliza el suelo. ¡Pero debe de ser resistente a su estómago!
 
-Ejemplos son la manzana, la naranja, el melocotón, la pera..., pero también la oliva, el tomate, el pepino, el calabacín, la berenjena o el pimiento. De hecho, ¡hemos coevolucionado tanto con ellas que los nutricionistas recomiendan comer varias piezas de fruta al día!
+Ejemplos son la manzana, la naranja, el melocotón, la pera..., pero también la oliva, el tomate, el pepino, el calabacín, la berenjena, el dátil, o el pimiento. De hecho, ¡hemos coevolucionado tanto con ellas que los nutricionistas recomiendan comer varias piezas de fruta al día!
 
 ![Cuadro *Niño con cesto de frutas* (1593), de Michelangelo Caravaggio](attachments/cloris/caravaggio-nino-cesta-frutas-1593-bodegon.jpg)
 
