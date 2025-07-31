@@ -16,7 +16,7 @@ Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
 
 The German company Ecosia GmbH was founded by economist Christian Kroll in 2009 during the UN climate talks in Copenhagen (COP 15). From the beginning, Kroll established two fundamental commitments: never sell Ecosia and never take profits out of it.
 
-![attachments/christian-kroll-ecosia-ceo-founder.jpg]
+![[attachments/christian-kroll-ecosia-ceo-founder.jpg]]
 Ecosia's CEO Christian Kroll. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 # A unique business model
 
@@ -24,7 +24,7 @@ Their mission goes beyond planting trees: capturing carbon from the atmosphere, 
 
 Initially they donated 80% of their revenue, but in 2018 they took a revolutionary step: they adopted a steward-ownership model and sold all shares to the non-profit [Purpose Foundation](https://purpose-economy.org). They now donate 100% of their profits.
 
-![ecosia-team-employees.jpg]
+![[ecosia-team-employees.jpg]]
 Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 _The Purpose Foundation promotes this innovative business model where control remains with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Renowned German companies like Bosch and Zeiss already operate under this model._
@@ -33,7 +33,7 @@ _The Purpose Foundation promotes this innovative business model where control re
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) span over 70 active initiatives across more than 35 countries, implemented by local organizations and people they finance.
 
-![attachments/ecosia-tree-planting-kenya-africa.jpg]
+![[attachments/ecosia-tree-planting-kenya-africa.jpg]]
 Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 But their commitment goes beyond trees. To address the climate crisis, they've built their own solar power plants, achieving 200% carbon negative status: they produce twice the energy they need!
@@ -58,7 +58,7 @@ On personal privacy, they anonymize searches within seven days. They don't creat
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
-![attachments/ecosia-forest-restoration-senegal.jpg]
+![[attachments/ecosia-forest-restoration-senegal.jpg]]
 Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
 
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).
