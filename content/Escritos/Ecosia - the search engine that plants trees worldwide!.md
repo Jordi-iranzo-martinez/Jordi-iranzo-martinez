@@ -2,7 +2,6 @@
 title: "Ecosia - the search engine that plants trees worldwide"
 description: "How Ecosia has planted 230 million trees through web searches, their unique business model, and why 20 million people are reforesting the world one search at a time."
 date: 2025-07-31
-tags: land-life, health, water, climate-change, communities, energy, peace
 author: Jordi Iranzo Martínez
 ---
 
