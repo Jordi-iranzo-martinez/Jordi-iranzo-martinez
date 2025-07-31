@@ -8,7 +8,7 @@ What if you could contribute to reforesting the world easily while searching the
 
 [Ecosia](https://www.ecosia.org/) is a search engine and a [browser](https://www.ecosia.org/browser) that donates all the revenue from its usage to finance tree-planting programmes all around the world. 
 
-![[ecosia-logo-green-search-engine.jpg]]
+![attachments/ecosia-logo-green-search-engine.jpg]
 Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/9186269?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ecosia: The green search"></iframe></div>
@@ -16,7 +16,7 @@ Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
 
 The German company Ecosia GmbH was founded by economist Christian Kroll in 2009 during the UN climate talks in Copenhagen (COP 15). From the beginning, Kroll established two fundamental commitments: never sell Ecosia and never take profits out of it.
 
-![[iMZMNigQ.jpeg]]
+![attachments/christian-kroll-ecosia-ceo-founder.jpg]
 Ecosia's CEO Christian Kroll. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 # A unique business model
 
@@ -24,7 +24,7 @@ Their mission goes beyond planting trees: capturing carbon from the atmosphere, 
 
 Initially they donated 80% of their revenue, but in 2018 they took a revolutionary step: they adopted a steward-ownership model and sold all shares to the non-profit [Purpose Foundation](https://purpose-economy.org). They now donate 100% of their profits.
 
-![[Ecosia-team-pic.jpg]]
+![ecosia-team-employees.jpg]
 Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 _The Purpose Foundation promotes this innovative business model where control remains with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Renowned German companies like Bosch and Zeiss already operate under this model._
@@ -33,7 +33,7 @@ _The Purpose Foundation promotes this innovative business model where control re
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) span over 70 active initiatives across more than 35 countries, implemented by local organizations and people they finance.
 
-![[ecosia-tree-planting-kenya-africa.jpg]]
+![attachments/ecosia-tree-planting-kenya-africa.jpg]
 Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 But their commitment goes beyond trees. To address the climate crisis, they've built their own solar power plants, achieving 200% carbon negative status: they produce twice the energy they need!
@@ -58,7 +58,7 @@ On personal privacy, they anonymize searches within seven days. They don't creat
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
-![[ecosia-forest-restoration-senegal.jpg]]
+![attachments/ecosia-forest-restoration-senegal.jpg]
 Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
 
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).
