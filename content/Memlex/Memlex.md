@@ -4,6 +4,7 @@ Memlex es el nombre comercial para un mercado de tarjetas de memoria (*flashcard
 
 _Memlex is the trade name for a flashcard marketplace focused on legal regulations and language vocabulary, available in both Spanish and English. The name comes from the combination of "memorization" with lex (Latin for "law") and lexicon (English for "vocabulary")._
 
+
 Las tarjetas están elaboradas para el programa [RemNote](https://www.remnote.com), gratuito (similar a Anki) —su nombre deriva de la palabra "nota" y las siglas del término "Elemento Recuperable de Memoria", ambas en inglés—. Se trata de un programa en el que puedes escribir, y cada información convertir en una unidad susceptible de recordar a través de la memorización activa y la repetición espaciada. Incluye funciones avanzadas, como jerarquía. Se puede utilizar en ordenador y móvil.
 
 _The flashcards are designed for use with RemNote, a free program (similar to Anki). Its name derives from the word "note" and the acronym for “Retrievable Element of Memory.” RemNote allows you to write notes and turn each piece of information into a unit suitable for active recall and spaced repetition. It includes advanced features such as hierarchical organization and is available for both desktop and mobile._
@@ -13,6 +14,7 @@ _The flashcards are designed for use with RemNote, a free program (similar to An
 Las tarjetas de normativa legal comprenden la literalidad de la norma, en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...) que facilita al visualización. Existe una tarjeta de memoria para cada artículo y adicionalmente para palabras y cifras clave. 
 
 _The legal regulation flashcards contain the exact wording of the law, presented in an enriched format (bold, italics, underline, hyperlinks...) that enhances readability. There is one flashcard per article, as well as additional cards for key terms and figures._
+
 
 Se aplica para Administración en España y medio ambiente. Incluye Leyes de Cortes Generales, Reales Decretos del Gobierno de la Nación y Reglamentos de la Unión Europea; así como Tratados Internacionales (estos últimos en inglés).
 
