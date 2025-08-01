@@ -3,6 +3,7 @@ title: "🌍 2,500+ RemNote Flashcards - Multilateral Environmental Agreements"
 description: "Memory flashcards for international environmental law. Complete treaties: CBD, CITES, Paris Agreement, UNFCCC, Montreal Protocol, Stockholm Convention. Professional study material for environmental lawyers and consultants. RemNote format."
 ---
 
+[Available product - 79.95 €](https://checkout.mailerlite.com/checkout/3343)
 The list comes next. If you can't find the legislation you want, please write directly to jordi.im@proton.me to consult disponbility. Also, to ask for a price based on your work necessities and/or the basis of the competitive exams your are preparing for.
 
 # Biodiversity
