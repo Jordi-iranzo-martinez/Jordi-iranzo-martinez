@@ -5,6 +5,8 @@ description: "Tarjetas de memoria para oposiciones de medio ambiente. 21000 flas
 
 Más de 21.000 tarjetas de memoria sobre medio ambiente. 
 
+[Producto disponible](https://checkout.mailerlite.com/checkout/3342)
+
 A continuación el listado. Si no encuentras la norma que quieres puedes escribir directamente a jordi.im@proton.me para consultar disponibilidad. También, puedes pedir presupuesto de acuerdo con tus necesidades laborales o las bases de la oposición.
 
 # Medio natural
