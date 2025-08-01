@@ -1,9 +1,9 @@
 ---
-title: "🌿 21000 Tarjetas de Memoria - Normativa Ambiental Española"
+title: "🌿 18000 Tarjetas de Memoria - Normativa Ambiental Española"
 description: "Tarjetas de memoria para oposiciones de medio ambiente. 21000 flashcards con normativa ambiental completa: Ley 42/2007 Patrimonio Natural, REACH, residuos, cambio climático, evaluación ambiental. Incluye nombres científicos de especies. Formato RemNote."
 ---
 
-Más de 21.000 tarjetas de memoria sobre medio ambiente. 
+Más de 18.000 tarjetas de memoria sobre medio ambiente. 
 
 [Producto disponible - €119,95](https://checkout.mailerlite.com/checkout/3342)
 
