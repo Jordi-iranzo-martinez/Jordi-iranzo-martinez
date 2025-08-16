@@ -103,7 +103,7 @@ Imatge 10: *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el 
 
 L’interès per l'agricultura és raonable, ja que estem dissenyats per a sobreviure i l’aliment és indispensable per a fer-ho. Però és curiós des d'un punt de vista evolutiu que ens agraden les flors de les zoòfiles si no les pol·linitzem.
 
-Plantes autòctones mediterrànies que florisen a la primavera i poden servir bé per a jardineria són el romaní, la ginesta, l'estepa, el timó i la sajolida. Altres que floreixen en estacions diferents per a beneficiar més els pol·linitzadors són la sempreviva, la margarida borda i l'herba de Sant Joan, a l'estiu; i l'àster, el ciclamen bord i la bruguera, a la tardor.
+Plantes autòctones mediterrànies que florisen a la primavera i poden servir bé per a jardineria són el romaní, la ginesta, l'estepa, el timó i la sajolida. Altres que floreixen en estacions diferents per a beneficiar més els pol·linitzadors són la bleda, la sempreviva, la margarida borda i l'herba de Sant Joan, a l'estiu; i l'àster, el ciclamen bord i la bruguera, a la tardor.
 
 ![Cuadre *El naixement de Venus* (c. 1484–1486), de Sandro Botticelli](attachments/cloris/nacimiento-venus-botticelli-1484-flores-mitologia.jpg)
 
