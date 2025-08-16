@@ -104,7 +104,7 @@ Imagen 10: *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el 
 
 El interés por la agricultura es razonable, estamos diseñados para sobrevivir y el alimento es indispensable. Pero es curioso desde un punto de vista evolutivo que nos gusten las flores de las zoófilas si no las polinizamos.
 
-Plantas autóctonas mediterráneas que pueden servir bien para jardinería son el romero, la retama, la estepa, el tomillo y la ajedrea. Otras que florecen en estaciones diferentes para beneficiar más a los polinizadores son la siempreviva, la margarita silvestre y la hierba de San Juan, en verano, y el áster, el ciclamen silvestre y el brezo, en otoño.
+Plantas autóctonas mediterráneas que pueden servir bien para jardinería son el romero, la retama, la estepa, el tomillo y la ajedrea. Otras que florecen en estaciones diferentes para beneficiar más a los polinizadores son la adelfa, siempreviva, la margarita silvestre y la hierba de San Juan, en verano, y el áster, el ciclamen silvestre y el brezo, en otoño.
 
 ![Cuadro *El nacimiento de Venus* (c. 1484–1486), de Sandro Botticelli](attachments/cloris/nacimiento-venus-botticelli-1484-flores-mitologia.jpg)
 Imagen 11: *El nacimiento de Venus* (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), diosa de la belleza y el erotismo, nace en el mar, Céfiro y Aura (la brisa) la impulsan hacia la costa, le traen más luz y le arrojan flores, y Cloris en tierra la quiere cubrir con un manto floral. Representa la llegada del impulso sexual al mundo, en primavera, como fuerza universal que se manifiesta como belleza y provoca la floración de las plantas. Fuente: [*Galeria degli Uffizi*](https://www.uffizi.it/opere/nascita-di-venere), Florencia
