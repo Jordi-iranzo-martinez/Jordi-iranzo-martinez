@@ -9,9 +9,9 @@ Soy técnico de medio ambiente especializado en normativa ambiental española y 
 
 ¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...).
 
-_Environmental technician specialized in Spanish and European environmental legislation, biodiversity, environmental quality, and climate change, with public sector experience. 
+_Environmental technician specialized in Spanish and European environmental legislation, biodiversity, environmental quality, and climate change, with public sector experience._ 
 
-You can write to me anytime! I’d love to contribute to improvements (consulting, collaborations, questions, opinions...) and to see environmental actions being carried out, even small ones (projects, volunteering, new personal lifestyles, gardening…)._
+_You can write to me anytime! I’d love to contribute to improvements (consulting, collaborations, questions, opinions...) and to see environmental actions being carried out, even small ones (projects, volunteering, new personal lifestyles, gardening…)._
 
 📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
