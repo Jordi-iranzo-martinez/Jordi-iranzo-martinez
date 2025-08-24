@@ -5,16 +5,11 @@ title: "Técnico de medio ambiente - Environmental Technician"
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
 
 
-Soy técnico de medio ambiente especializado en normativa ambiental española y europea, con experiencia en el sector público.
+Soy técnico de medio ambiente especializado en normativa ambiental española y europea, con experiencia en el sector público. ¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, aclaraciones, dudas) y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, cambios personales...).
 
-_Environmental technician specialized in Spanish and European environmental regulations, with public sector experience._
-
-¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, aclaraciones, dudas) y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, cambios personales...).
-
-_You can write to me anytime! I’d love to contribute to improvements (consulting, collaborations, clarifications, questions) and to see environmental actions being carried out, even small ones (projects, volunteering, personal changes…)._
+_Environmental technician specialized in Spanish and European environmental regulations, with public sector experience. You can write to me anytime! I’d love to contribute to improvements (consulting, collaborations, clarifications, questions) and to see environmental actions being carried out, even small ones (projects, volunteering, personal changes…)._
 
 📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
-
 
 ---
 
