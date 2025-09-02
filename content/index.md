@@ -9,23 +9,26 @@ Soy técnico de medio ambiente especializado en normativa ambiental española y 
 
 ¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...).
 
-_Environmental technician specialized in Spanish and European environmental legislation, biodiversity, environmental quality, and climate change, with public sector experience._ 
+📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
-_You can write to me anytime! I’d love to contribute to improvements (consulting, collaborations, questions, opinions...) and to see environmental actions being carried out, even small ones (projects, volunteering, new personal lifestyles, gardening…)._
+
+_I'm an environmental technician specialized in Spanish and European environmental legislation, biodiversity, environmental quality, and climate change, with experience in the public sector._ 
+
+_You can write to me anytime! I’d love to contribute to improve (consulting, collaborations, questions, opinions...) and to see environmental actions, even if they are small (projects, volunteering, personal lifestyles, gardening…)._
 
 📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
 ---
 
-**Formación continua:** Más de 160 certificados en política ambiental, desarrollo sostenible y herramientas digitales (Naciones Unidas, Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
+**Formación continua:** Más de 160 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
 
-_**Continuous training**: More than 160 certifications on environmental policy, sustainable development, and digital tools (United Nations, European Union, Google, etc.). [View all certifications](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0))._
+_**Continuous training**: More than 160 certifications on environmental policy, climate change, sustainable development, and digital tools (by the United Nations, the European Union, Google, etc.). [View all certifications](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0))._
 
 ---
 
-Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso. Mi enfoque profesional se centra en hacer accesible el conocimiento ambiental.
+Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso. Me gustaría hacer accesible el conocimiento ambiental.
 
-_I work fluently in Spanish, Valencian, and English, with knowledge of Italian, Portuguese, French, and a little bit of Russian. My professional approach focuses on making environmental knowledge accessible._
+_I work fluently in Spanish, Valencian, and English, with knowledge of Italian, Portuguese, French, and a little bit of Russian. I'f like to make environmental knowledge accesible._
 
 ---
 
