@@ -61,6 +61,6 @@ Aunque sintiera amor, ya ha decidido. Y después seguramente no volverán a vers
 Sigamos pretendiendo que no sucede nada. Que no hay tensión. Que no conmueves ni desarmas. Que no me he descubierto al conocerte. Que no quiero quedarme aunque me vaya.
 
 
-## Madurez
+### Madurez
 
 Y al fin la nitidez: la distancia tranquila, el silencio presente, y el cariño. Sin una despedida, ni más testigos que sí mismos.
