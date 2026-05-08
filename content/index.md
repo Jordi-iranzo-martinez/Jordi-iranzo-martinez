@@ -1,5 +1,5 @@
 ---
-title: "Jordi Iranzo Martínez — Medio ambiente, literatura, oposiciones"
+title: "Técnico medioambiental, escritura, oposiciones"
 ---
 
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
