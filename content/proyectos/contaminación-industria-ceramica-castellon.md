@@ -1,7 +1,8 @@
 ---
-title: "TFG contaminación de la industria cerámica en Castellón"
+title: "TFG sobre contaminación industrial"
 ---
 
+# Estudio de la contaminación de la industria del sector de fabricación de baldosas cerámicas en España
 
 El [Estudio de la contaminación de la industria del sector de fabricación de baldosas cerámicas en España](proyectos/static/tfg-contaminacion-ceramica-castellon.pdf) (2017), fue mi Trabajo Final del Grado en Ciencias Ambientales, en la Universidad de Valencia (UV), tutorizado por la Doctora ingeniera química [Marta Izquierdo Sanchís](https://www.researchgate.net/profile/Marta-Izquierdo-2).
 
