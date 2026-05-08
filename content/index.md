@@ -7,14 +7,14 @@ title: "Técnico de medio ambiente - Environmental Technician"
 
 Soy técnico de medio ambiente especializado en normativa ambiental española y europea, biodiversidad, calidad ambiental, y cambio climático, con experiencia en el sector público. 
 
-¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...).
+¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...). Y tambiñén puedo ofrecer apoyo con oposiciones.
 
 📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
 
 _I'm an environmental technician specialized in Spanish and European environmental legislation, biodiversity, environmental quality, and climate change, with experience in the public sector._ 
 
-_You can write to me anytime! I’d love to contribute to improve (consulting, collaborations, questions, opinions...) and to see environmental actions, even if they are small (projects, volunteering, personal lifestyles, gardening…)._
+_You can write to me anytime! I’d love to contribute to improve (consulting, collaborations, questions, opinions...) and to see environmental actions, even if they are small (projects, volunteering, personal lifestyles, gardening…). I can also offer support with competitive exams_
 
 📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
@@ -26,9 +26,9 @@ _**Continuous training**: More than 160 certifications on environmental policy, 
 
 ---
 
-Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso. Me gustaría hacer accesible el conocimiento ambiental.
+Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso. Me gustaría hacer accesible el conocimiento ambiental e inspirar cambios reales.
 
-_I work fluently in Spanish, Valencian, and English, with knowledge of Italian, Portuguese, French, and a little bit of Russian. I'f like to make environmental knowledge accesible._
+_I work fluently in Spanish, Valencian, and English, with knowledge of Italian, Portuguese, French, and a little bit of Russian. I'f like to make environmental knowledge accesible and inspire real changes._
 
 ---
 
@@ -58,9 +58,3 @@ _**Communication**: Science outreach, translation of complex technical concepts,
     ml('account', '1647761');
 </script>
 <!-- End MailerLite Universal -->
-
-<div class="ml-embedded" data-form="pl2tKA"></div>
-
-
-<meta name="google-site-verification" content="Kn1yBWni3uqIop5DE21_kQjxSTz6HTcatka1vyO2ANg" />
-<meta name="msvalidate.01" content="23777A0C6DFAED4F041720EDA6C71AC1" />
