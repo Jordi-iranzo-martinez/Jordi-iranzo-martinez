@@ -26,7 +26,7 @@ Y continuaron respetando.
 
 ### Voluptas
 
-Sostuvo el amor como un fin en sí mismo. Sintió su levedad pero también su peso. Le inspiró a ser mejor mientras se hundía. Decidió no soltarlo -aunque no lo abarcase-. Y hay quienes dicen que al fin se sonreía.
+Sostuvo el amor como un fin en sí mismo. Sintió su levedad pero también su peso. Le inspiró a ser mejor mientras se hundía. Decidió no soltarlo —aunque no lo abarcase—. Y hay quienes dicen que al fin se sonreía.
 
 ### Paz
 
