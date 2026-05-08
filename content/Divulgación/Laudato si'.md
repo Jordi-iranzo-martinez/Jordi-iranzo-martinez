@@ -1,5 +1,5 @@
 ---
-title: "Laudato si'.md"
+title: "Laudato si'"
 ---
 
 *Quien quiera ser grande que sirva, mas no oprima» Jesús, Mt 20,25-26 –paráfrasis–* 
