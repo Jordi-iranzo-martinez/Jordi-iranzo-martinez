@@ -1,5 +1,5 @@
 ---
-title: "Técnico de medio ambiente - Environmental Technician"
+title: "Medio ambiente, literatura, oposiciones"
 ---
 
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
