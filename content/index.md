@@ -13,11 +13,13 @@ Soy técnico de medio ambiente especializado en normativa ambiental española y 
 
 - **Especialización técnica y legal** normativa ambiental y administrativa, cartografía, análisis de datos, informes, gestoría, evaluaciones de impacto...
 
-Me encantaría contribuir a mejorar, y también quiero ayudar.
+Me encantaría contribuir a mejorar el medio ambiente en general.
 
-Dimd, ¿qué necesitas? 
+Dime, ¿qué necesitas? ¿En qué puedo ayudarte?
 
 Puedes escribirme a [jordi.im@proton.me](mailto:jordi.im@proton.me)
+
+También estoy abierto a colaboraciones y propuestas.
 
 Además, me gusta escribir. Puedes suscribirte para recibir novedades.
 
