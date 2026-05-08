@@ -6,7 +6,9 @@ _Article publicat originalment a la [Revista Espores](https://espores.org/jardin
 
 **La flor va ser una revolució biològica sorgida al final de l'Època dels Dinosauris que facilità la predominància ecològica de les plantes que les tenen. La coevolució d'estes amb els animals va provocar ecosistemes molt més rics i complexos, i finalment donà lloc a la revolució agrícola, que permetè la civilització humana. Encara estem en un període revolucionari de sostenibilitat. Vegem-ho tot en un recorregut interdisciplinar des de la mitologia clàssica!**
 
+
 "*S'il est vrai, Chloris, que tu m'aimes / Mais j'entends, que tu m'aimes bien / (...) / Tout ce qu'on dit de l'ambroisie / Ne touche point ma fantaisie / Au prix des grâces de tes yeux*".  *À Chloris*, poema de Théophile de Viau, musicalizat por Reynaldo Hahn
+
 
 Hui vull parlar de les flors i de l'amor, i com m'agraden les històries de la mitologia, especialment la grega, començaré per ahi, amb el mite de Cloris i Cèfir.
 
@@ -15,6 +17,7 @@ Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. 
 ![Cuadre *Flora i Cèfir* (1875), de William-Adolphe Bouguereau](attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg)
 
 *Flora i Cèfir* (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [*Musée des Beaux-Arts de Mulhouse*](beaux-arts.musees-mulhouse.fr/collections/) (Alsàcia)
+
 
 Encara que és discutible que la primavera siga filla de la deessa de les flors i no a l’inrevés, el mite reflecteix com els grecs entenien la connexió entre les estacions, la sexualitat, i la botànica, i la relació dels fruits respecte de les flors —a banda de temes masclistes que no entrarè a debatir ara—. 
 
@@ -35,6 +38,7 @@ Les angiospermes són les úniques plantes amb flors. Però el tret va ser tan e
 ![Cuadre *El naixement de Venus* (c. 1484–1486), de Sandro Botticelli](attachments/cloris/nacimiento-venus-botticelli-1484-flores-mitologia.jpg)
 
 _El naixement de Venus_ (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), deessa de la bellesa i l'erotisme, naix al mar dels genitals d'Urà. Cèfir i Aura (la brisa) la impulsen cap a la costa —on hi ha angiospermes—, li porten més llum i li tiren flors, i Cloris a terra la vol cobrir amb un mantell floral. El quadre representa l'arribada de la bellesa, l'amor, i el desig al món, una força civilitzadora que transforma el caos del món en ordre i fertilitat. Font: _[Galeria degli Uffizi](https://www.uffizi.it/opere/nascita-di-venere)_, Florència
+
 
 La producció de gamets depèn de cada planta. La majoria són hermafrodites (estimades en un 70-90%), i produeixen els dos tipus a la mateixa flor. Però també hi ha de monoiques (5-7%) (del grec *mono*, "un"; i *oikos* "casa"), on hi ha flors "mascles" i "femelles" al mateix individu (casa); i dioiques (6-7%) (del grec *di*, dos, i *oikos*), on cada individu produeix només d'un tipus a totes les seues flors —i per tant estàn separats en dos tipus diferentes, femelles i mascles; com la majoria dels animals, vaja!—
 
@@ -65,6 +69,7 @@ Les angiospermes, però, que sí en tenen, solen emprenar una estratègia més p
 
 Abella pol·linitzant una flor espontània de lletsó menut. Autor: Jordi Iranzo Martínez
 
+
 Estos animals reben el nom de "pol·linitzadors". Els principals són insectes (que són el 80% del total de la fauna del planeta), com abelles, mosques, papallones, escarabats, sírfids... però també poden fer-ho vertebrats, com el colibrí, els rats penats i, fins i tot, les sargantanes, com succedeix a l'illa de Mallorca!
 
 L'explosió de diversitat de les angiospermes en el Cretàcic per les flors facilità la diversificació d'insectes, aus i mamífers, tots coevolucionant alhora. Sense elles, els ecosistemes terrestres serien més pobres, pareguts als boscos de gimnospermes com a la taiga siberiana: densos però més uniformes.
@@ -74,6 +79,7 @@ Això dona un motiu per a respectar la vegetació espontània (mal anomenades "m
 ![Vegetació espontània de ravenissa blanca](attachments/cloris/vegetacion-espontanea-rabaniza-blanca-biodiversidad.jpg)
 
 Vegetació espontània de ravenissa blanca (*Diplotaxis erucoides*). Autor: Jordi Iranzo Martínez
+
 
 En contraposició, tenim les espècies exòtiques invasores, que són aquelles introduïdes artificialment d'un altre lloc geogràfic (exòtica) i que desplaçen la biodiversitat nativa de la regió on s'asenten (invasora). Pots comprobar si una planta ho és identificant-la amb l'App gratuïta [PlantNet](https://plantnet.org/), buscant la regió geogràica de procedència, i si apareix a la [Base de Dades Global d'Espècies Invasores de l'UICN (GISD)](https://www.iucngisd.org/gisd/).
 
@@ -102,11 +108,13 @@ Exemples són la poma, la taronja, el préssec, la pera..., però també l'oliva
 
 *Festó de frutes i flors* (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [*Rijksmuseum*](https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam
 
+
 Açò no és fàcil d'aconseguir: es necessita que siga nutritiu per a l'animal i que resistisca els seus jucs gàstrics —sovint amb pHs molt àcids, precisament per a descomposar els aliments i incorporarlos al sistema circulatori per a alimentar a cada cèl·lula!—, però és una estratègia prou emprenada. De fet, nosaltres hem co-evol·lucionat tant amb elles que els nutricionistes recomanen menjar vàries peçes de fruita al dia!
 
 ![Cuadre *Nen amb cistell de fruites* (1593), de Michelangelo Caravaggio](attachments/cloris/caravaggio-nino-cesta-frutas-1593-bodegon.jpg)
 
 _Nen amb cistell de fruites_ (1593), de Michelangelo Caravaggio. Moltes vegades els bodegons eren un símbol de riquesa i de prosperitat. Font: [_Galeria Borghese_](https://galleriaborghese.beniculturali.it/), Roma
+
 
 Però l'evolució de les espermatòfites no és un procès completament al·leatori: els èssers humans interviniren en la seua reproducció afavorint la d'aquelles amb caràcters (fenotips) ùtils, en un procès anoment sel·lecció artificial —en contraposició a la de natural teoritzada per Charles Darwin o Theodore Wallace— o domesticació (del llatí *domus*, casa).
 
@@ -123,11 +131,13 @@ Això va suposar una revolució històrica que originà la civilització tal i c
 
 _Escena de collita de la Tomba de Sennedjem_ (c. 1295-1213 a.C.). Sennedjem era un artesà i cap egipci molt estimat a Deir el-Medina, el poblat dels constructors de tombes per als faraons de la Vall dels Reis. La seua tomba està decorada amb motius agrícoles que representen l'abundància després de la mort, com a varietats agrícoles: la collita de cereals, l’ús de la ramaderia, les palmeres datileres, i fruiters o espècies aquàtiques per la fertilitat del Nil. L'escena comença amb el comiat del difunt, que ha de travessar el Duat (inframón egipci) en barca abans d'aplegar a la vida eterna. El Sol d'Horus simbolitza el cicle de la mort (ponent) i la resurrecció. Font: Tomba de Sennedjem a Deir el-Medina (Tebas)
 
+
 De fet, mengem quasi totes les parts de les angiospermes. En cuina, s’anomenen verdures a les parts comestibles de la planta que normalment no són fruits dolços: com les fulles (espinacs, bleda, enciam), les tiges (espàrrecs, api), les arrels (safanòria, remolatxa, mandioca, nap), els bulbs (ceba, all), i fins i tot flors (coliflor, carxofa, bròquil). Els tubercles són parts engruixudes de tiges subterrànies per a emmagatzenar energia (creïlla, xufa, nyam), i les hortalisses són les verdures que es cultiven a l'hort.
 
 ![Cuadre *Vertumnus* (c. 1590-1591), de Giuseppe Arcimboldo](attachments/cloris/vertumnus-arcimboldo-1590-dios-cosechas.jpg)
 
 _Vertumnus_ (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el déu romà dels canvis estacionals i de les collites de la tardor. La composició està creada amb tots els elements d'aquesta estació. Font: [_Skoklosters slott_](https://skoklostersslott.se/utstallningar/tidigare-utstallningar/vertumnus/), Estocolm
+
 
 Però també nosaltres modificàrem les espècies domesticades per selecció artificial, l’elecció humana dels trets desitjables, escollint el fenotip (característiques) dels cultius que volíem, basant-nos en el seu sabor, la mida, el seu aspecte, com s’adaptaven a l’ambient, la facilitat per a menjar-les, etc. Així, es canvia de manera indirecta el genotip (conjunt de gens) responsable d'aquests trets, i per això moltes espècies que mengem ara no s'assemblen quasi gens a les originàries. Un exercici molt interessant és investigar com eren abans.
 
@@ -147,7 +157,6 @@ Però compte de no triar una planta exòtica invasora, que les tenen en alguns l
 
 Però, tornem amb el mite de Cloris. No és casualitat que els romans, hereus de la cultura grega, i tan dependents de l'agricultura i la jardineria, la veneraren com a Flora, deessa ancestral de les flors, la primavera i la fertilitat dels camps.
 
-
 # La deesa Flora - signe de vitalitat i prosperitat
 
 El culte a Flora data probablement des de l'època monàrquica (segles VIII-VI a.C.), i comptava amb un _flamen floralis_ (sacerdot específic) menor, responsable dels seus ritus i festivitats.
@@ -155,6 +164,7 @@ El culte a Flora data probablement des de l'època monàrquica (segles VIII-VI a
 ![Cuadre *Flora* (1517), de Tiziano Vecellio](attachments/cloris/flora-tiziano-1517-diosa-flores-primavera.jpg)
 
 _Flora_ (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [_Galeria degli Uffizi_](https://www.uffizi.it/opere/tiziano-flora), Florència (Julio Cèsar refundà un antic assentament etrusc com la colònia romana _Florentia_, que vol dir "florir")
+
 
 I és que l’economia romana era principalment rural i agrícola, el treball al camp era l’aspiració màxima del ciutadà i la propietat de la terra sustentava l'estatus social de l'individu i la família. 
 
@@ -207,7 +217,6 @@ Així doncs, per què no fer florir la vida d'una manera tan senzilla?
 I el que és més important, com són les teues flors? 
 
 Com va dir el poeta, fa més de 2000 anys: _Omnia vincit amor, et nos cedamus amori!_
-
 
 ![Grabat *El pájaro y la flor del Cerezo* (1830s), de Utagawa Hiroshige](attachments/cloris/pajaro-flores-cerezo-hiroshige-1830-arte-japones.jpg)
 
