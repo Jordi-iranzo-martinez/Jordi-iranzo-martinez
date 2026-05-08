@@ -10,6 +10,6 @@ Se concluye que las mejores zonas son las regiones de Cerdeña y Calabria, espec
 
 ---
 
-[Ver estudio completo](attachments/lcfeed-replicabilidad.pdf)
+[[Ver estudio completo]](attachments/lcfeed-replicabilidad.pdf)
 
 [[divulgación/low-carbon-feed]]
