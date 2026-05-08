@@ -7,10 +7,6 @@ title: "Medio ambiente, literatura, oposiciones"
 
 Soy técnico de medio ambiente especializado en normativa ambiental española y europea, biodiversidad, calidad ambiental, y cambio climático, con experiencia en el sector público. 
 
-¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...). Y tambiñén puedo ofrecer apoyo con oposiciones.
-
-📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
-
 
 **Formación continua:** Más de 160 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
 
@@ -22,6 +18,11 @@ Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, po
 
 **Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
 
+¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...). Y tambiñén puedo ofrecer apoyo con oposiciones.
+
+📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
+
+Y para recibir noticias puedes suscribirte.
 
 <!-- MailerLite Universal -->
 <script>
