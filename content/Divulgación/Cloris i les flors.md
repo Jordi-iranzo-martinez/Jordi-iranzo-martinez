@@ -1,6 +1,7 @@
 ---
 title: "De Cloris al floriment de la vida"
 subtitle: "Flors, correlació, i prosperitat"
+description: Una aproximació a les flors des de la botànica, l'ecologia, la història i la cultura per a afavorir la biodiversitat, la sostenibilitat i la bellesa.
 ---
 
 _Article publicat originalment a la [Revista Espores](https://espores.org/jardineria/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/)_, del Jardín Botánico de la Universidad de Valencia.
