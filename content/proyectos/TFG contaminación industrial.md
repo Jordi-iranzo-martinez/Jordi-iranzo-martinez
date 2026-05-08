@@ -1,5 +1,5 @@
 ---
-title: "TFG sobre la contaminación cerámica en Castellón"
+title: "TFG sobre la contaminación industrial"
 ---
 
 ## Estudio de la contaminación de la industria del sector de fabricación de baldosas cerámicas en España
