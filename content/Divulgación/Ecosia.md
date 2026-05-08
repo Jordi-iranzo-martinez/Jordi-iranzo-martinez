@@ -1,5 +1,6 @@
 ---
-title: "Ecosia - the search engine that plants trees worldwide"
+title: "Ecosia"
+subtitle: "The search engine that plants trees worldwide"
 description: "How Ecosia has planted 230 million trees through web searches, their unique business model, and why 20 million people are reforesting the world one search at a time."
 ---
 
