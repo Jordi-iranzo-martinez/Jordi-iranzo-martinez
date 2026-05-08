@@ -2,6 +2,11 @@
 title: "Técnico medioambiental, escritura, oposiciones"
 ---
 
+<img src="attachments/Jordi-Iranzo-Martinez.jpg" 
+     alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
+     width="240" 
+     style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;">
+
 ![Jordi-Iranzo-Martinez, técnico de medio ambiente y divulgador](attachments/Jordi-Iranzo-Martinez.jpg)
 
 Soy técnico ambiental especializado en normativa ambiental española y europea, biodiversidad, calidad ambiental, y cambio climático, con experiencia en el sector público. 
@@ -11,9 +16,9 @@ Soy técnico ambiental especializado en normativa ambiental española y europea,
 - **Oposiciones**: he preparado varias, de medio ambiente y administrativos, a nivel estatal, autonómico (*Generalitat Valenciana*), y local.
 - **Idiomas**: fluidez en **español, valenciano e inglés**, con competencia en italiano, portugués, francés, y un poco de ruso.
 
-Me encantaría contribuir a mejorar el medio ambiente en general. También estoy abierto a colaboraciones y propuestas.
+Me encantaría contribuir a mejorar el medio ambiente en general. Estoy abierto a colaboraciones y propuestas.
 
-Dime, ¿qué necesitas? ¿En qué puedo ayudarte? Puedes escribirme a [jordi.im@proton.me](mailto:jordi.im@proton.me)
+Dime, ¿en qué puedo ayudarte? Puedes escribirme a [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
 Además, me gusta escribir. Puedes suscribirte para recibir novedades.
 
