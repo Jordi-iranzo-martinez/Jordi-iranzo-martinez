@@ -15,7 +15,7 @@ Concluyó resignado que estaba enamorado, como si fuera una enfermedad grave o u
 Ya no se hablan, pero le sigue alegrando saber que existe.
 
 
-## Liminal
+### Liminal
 
 Cuando ella cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
 
@@ -24,16 +24,16 @@ Cuando ella cruzaba para regresar a casa con su pareja mantuvo su mirada, levant
 Y continuaron respetando.
 
 
-## Voluptas
+### Voluptas
 
 Sostuvo el amor como un fin en sí mismo. Sintió su levedad pero también su peso. Le inspiró a ser mejor mientras se hundía. Decidió no soltarlo -aunque no lo abarcase-. Y hay quienes dicen que al fin se sonreía.
 
-## Paz
+### Paz
 
 No tienes que hacer ni decir nada. Es tu forma de ser lo que me reconcilia.
 
 
-## Lumen
+### Lumen
 
 La gente ve, y ella intuye. Nos miramos.
 
@@ -42,7 +42,7 @@ La contemplo admirado: distingo, observo, interpreto, leo... mas no capto.
 No puedo descifrarla -o no me atrevo-.
 
 
-## La elegancia
+### La elegancia
 
 No necesitaba más que gestos para inspirar positividad, calidez, y calma.
 
@@ -51,12 +51,12 @@ Podía expresar "te veo", o "me importas", de una forma más profunda, honesta, 
 Hace falta muchísima sensibilidad e inteligencia para aparentar sencillez aún siendo extraordinaria.
 
 
-## Sí
+### Sí
 
 Aunque sintiera amor, ya ha decidido. Y después seguramente no volverán a verse. Pero no se excluyen, y prefieren haberse conocido. Díganme una forma más bonita de sufrir.
 
 
-## Vale
+### Vale
 
 Sigamos pretendiendo que no sucede nada. Que no hay tensión. Que no conmueves ni desarmas. Que no me he descubierto al conocerte. Que no quiero quedarme aunque me vaya.
 
