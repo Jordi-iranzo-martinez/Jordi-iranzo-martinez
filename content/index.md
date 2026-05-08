@@ -9,19 +9,17 @@ Soy técnico de medio ambiente especializado en normativa ambiental española y 
 
 - **Formación continua:** Más de 160 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
 
-- **Idiomas**: trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso.
+- **Idiomas**: fluidez en **español, valenciano e inglés**, con competencia en italiano, portugués, francés, y un poco de ruso.
 
-- **Proyectos técnicos:** Normativa ambiental, cartografía GIS, análisis de datos, informes técnicos, gestión de residuos, evaluaciones de impacto...
+- **Especialización técnica y legal** normativa ambiental y administrativa, cartografía, análisis de datos, informes, gestoría, evaluaciones de impacto...
 
-- **Asesoramiento legal** normativa ambiental
+Me encantaría contribuir a mejorar, y también quiero ayudar.
 
-- **Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
+Dimd, ¿qué necesitas? 
 
-¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...). Y tambiñén puedo ofrecer apoyo con oposiciones.
+Puedes escribirme a [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
-📧 [jordi.im@proton.me](mailto:jordi.im@proton.me)
-
-Me gusta escribir. Puedes suscribirte para recibir novedades.
+Además, me gusta escribir. Puedes suscribirte para recibir novedades.
 
 <!-- MailerLite Universal -->
 <script>
