@@ -1,6 +1,8 @@
 ---
-title: "Análisis de replicabilidad del proyecto LIFE Low Carbon Feed (LCFEED) en Italia"
+title: "Replicabilidad LCFEED"
 ---
+
+# Análisis de replicabilidad del proyecto LIFE Low Carbon Feed (LCFEED) en Italia
 
 ![Estudio de replicación en Italia](proyectos/static/lcfeed-replicabilidad.pdf) es un análisis preliminar de la replicabilidad del [proyecto LIFE Low Carbon Feed](https://www.lifelowcarbonfeed.com/) (LCFEED) tras su éxito en España, según la producción de ganado caprino y la disponibilidad de materias primas de arroz y de cítricos.
 
