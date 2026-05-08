@@ -2,7 +2,7 @@
 title: "Amor callado"
 ---
 
-## Discreción
+### Discreción
 
 Su cerebro insistía en evocarla. Le daban ganas de aplaudirla discretamente.
 
