@@ -7,15 +7,15 @@ title: "Medio ambiente, literatura, oposiciones"
 
 Soy técnico de medio ambiente especializado en normativa ambiental española y europea, biodiversidad, calidad ambiental, y cambio climático, con experiencia en el sector público. 
 
-**Formación continua:** Más de 160 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
+- **Formación continua:** Más de 160 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
 
-Trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso. Me gustaría hacer accesible el conocimiento ambiental e inspirar cambios reales.
+- **Idiomas**: trabajo en **español, valenciano e inglés**, con conocimientos de italiano, portugués, francés y un poco de ruso.
 
-**Proyectos técnicos:** Normativa ambiental, cartografía GIS, análisis de datos, informes técnicos, gestión de residuos, evaluaciones de impacto...
+- **Proyectos técnicos:** Normativa ambiental, cartografía GIS, análisis de datos, informes técnicos, gestión de residuos, evaluaciones de impacto...
 
-**Recursos especializados:** Asesoramiento técnico y en normativa ambiental y [Memlex](https://memlex.gumroad.com) - tarjetas de memoria y vocabulario especializado para oposiciones y aprendizaje de idiomas
+- **Asesoramiento legal** normativa ambiental
 
-**Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
+- **Comunicación:** Divulgación científica, traducción de conceptos técnicos complejos y redacción multilingüe para diferentes audiencias.
 
 ¡Puedes escribirme siempre que quieras! Me encantaría contribuir a mejorar (consultoría, colaboraciones, dudas, opiniones...), y ver acciones ambientales realizadas, aunque sean pequeñas (proyectos, voluntariado, nuevos hábitos personales, jardinería...). Y tambiñén puedo ofrecer apoyo con oposiciones.
 
