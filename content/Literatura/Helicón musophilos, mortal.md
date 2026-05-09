@@ -2,7 +2,8 @@
 title: "Helicón musophilos, mortal"
 ---
 
-_ἴδμεν ψεύδεα πολλὰ λέγειν ἐτύμοισιν ὁμοῖα,_ _ἴδμεν δ' εὖτ' ἐθέλωμεν ἀληθέα γηρύσασθαι._ ("Sabemos decir muchas mentiras que parecen ciertas. Pero también sabemos, cuando queremos, proclamar verdades").
+_ἴδμεν ψεύδεα πολλὰ λέγειν ἐτύμοισιν ὁμοῖα,_ _ἴδμεν δ' εὖτ' ἐθέλωμεν ἀληθέα γηρύσασθαι._ 
+("Sabemos decir muchas mentiras que parecen ciertas. Pero también sabemos, cuando queremos, proclamar verdades").
 
 "La Teogonía" (versos 27-28), Hesíodo
 
@@ -26,7 +27,7 @@ Un momento después, estaba solo. La tierra enmudeció y ellas lo observaron. He
 
 Así pasaron nueve días. Al amanecer del décimo, tomó su manto y descendió. Entonces la música seguía dentro de él.
 
-Helicón regresó varias veces, en especial cuando Apolo partía hacia los hiperbóreos. Pero un día su padre le preguntó dónde pasaba las oscuras noches, y él, que no tenía la astucia de Odiseo ni la lengua de Hermes, respondió, y la música dentro de él se fue alejando.
+Helicón regresó varias veces, en especial cuando Apolo partía hacia los hiperbóreos. Pero un día su padre le preguntó dónde pasaba las oscuras noches, y él, que no tenía la astucia de Odiseo ni la lengua de Hermes, respondió, y la música se fue alejando.
 
 La siguiente vez que acudió, el sonido y el baile le resultaron ajenos. Las mujeres lo notaron, le negaron la mirada y se marcharon, y enmudeció la música. 
 
