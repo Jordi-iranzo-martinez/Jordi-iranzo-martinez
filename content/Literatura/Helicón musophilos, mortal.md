@@ -8,7 +8,7 @@ _ἴδμεν ψεύδεα πολλὰ λέγειν ἐτύμοισιν ὁμο�
 
 ---
 
-Oh Musa, permitidme recordar a quien antaño fue vuestro amigo y compañero, de quien portáis con orgullo el propio nombre, para que no se pierda su memoria entre los hombres, pues es también honorable aquel que avanza sin lanza, ni grebas ni coraza.
+Oh Musa, permitidme recordar a quien antaño fue vuestro amigo y compañero, de quien portáis con orgullo el propio nombre, para que no se pierda su memoria entre los hombres, pues es también honorable aquel que avanza por fricción sin lanza, ni grebas ni coraza.
 
 Helicón de Tespias, hijo de Éupomo el de la palabra sin dolo, se dirigía al cauce del Permeso que alimenta a los pálidos alisos, cuando encontró una figura inmensa y femenina, coronada de pétreas torres.
 
