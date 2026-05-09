@@ -97,6 +97,8 @@ export default (() => {
             return resource
           }
         })}
+        {/* follow.it verification */}
+        <meta name="follow.it-verification-code" content="44HGHCWjsubsl8GUYhW3" />
       </head>
     )
   }
