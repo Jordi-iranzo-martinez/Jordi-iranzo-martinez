@@ -143,11 +143,7 @@ _Vertumnus_ (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el déu romà
 
 Però també nosaltres modificàrem les espècies domesticades per selecció artificial, l’elecció humana dels trets desitjables, escollint el fenotip (característiques) dels cultius que volíem, basant-nos en el seu sabor, la mida, el seu aspecte, com s’adaptaven a l’ambient, la facilitat per a menjar-les, etc. Així, es canvia de manera indirecta el genotip (conjunt de gens) responsable d'aquests trets, i per això moltes espècies que mengem ara no s'assemblen quasi gens a les originàries. Un exercici molt interessant és investigar com eren abans.
 
-Com a curiositat, el plàtan comercial és una excepció entre les fruites en aquest tipus de selecció, perquè en aquest cas triaren individus sexualment estèrils que no tenen llavors per tal que foren més fàcils de menjar. Només es reprodueixen de manera vegetativa. Els plàtans salvatges (_Musa acuminata_, _M. balbisiana_) sí tenen llavors, i fan la pol·linització, però això els fa més difícils de consumir.
-
 D'acord amb la [FAO](https://www.fao.org/pollination/about/es), aproximadament tres de cada quatre plantes agrícoles requereixen pol·linització animal, principalment les hortalisses, les verdures i els arbres fruiters. Això representa només un terç del volum de producció final, perquè molts dels principals cultius, com el blat, l'arròs, i la dacsa, són autògams i/o anemòfils. Per això les sues flors son menys cridaneres.
-
-D'acord amb la [FAO](https://www.fao.org/pollination/about/es), aproximadament tres de cada quatre plantes agrícoles requereixen pol·linització animal, principalment les hortalisses, les verdures i els arbres fruiters. Això representa només un terç del volum de producció final, perquè molts dels principals cultius, com el blat, l'arròs, i la dacsa, són autògams i/o anemòfils.
 
 *Com a curiositat, el plàtan comercial és una excepció entre les fruites en aquest tipus de selecció, perquè en aquest cas triaren individus sexualment estèrils que no tenen llavors per tal que foren més fàcils de menjar. Només es reprodueixen de manera vegetativa. Els plàtans salvatges (Musa acuminata, M. balbisiana) sí tenen llavors, i fan la pol·linització, però això els fa més difícils de consumir.*
 
