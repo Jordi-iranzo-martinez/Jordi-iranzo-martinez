@@ -6,4 +6,4 @@ title: "Cartografía CV-500"
 
 ![Cartografía sobre la propuesta de construcción de una variante oeste de la CV-500](proyectos/static/CV-500)
 
-[Ver la cartogafía](proyectos/static/mapa-cv500-saler.pdf)
+[Ver la cartogafía](proyectos/static/CV-500.pdf)
