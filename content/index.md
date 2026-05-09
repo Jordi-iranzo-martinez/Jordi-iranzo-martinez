@@ -21,14 +21,6 @@ Dime, ¿en qué puedo ayudarte? Puedes escribirme a [jordi.im@proton.me](mailto:
 
 Además, me gusta escribir. Puedes suscribirte para recibir novedades.
 
-<div style="float: right; width: 200px; margin-left: 24px; margin-bottom: 16px;">
-
-  <img src="tu-foto.jpg" style="width: 100%; border-radius: 4px;" />
-
-  <div style="margin-top: 12px; font-size: 13px; color: #666;">
-    Novedades por email:
-  </div>
-  
 <style>
     .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
   display: flex !important;
