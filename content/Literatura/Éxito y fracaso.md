@@ -6,9 +6,9 @@ Acabo de suspender el último examen de la oposición al Ministerio después de 
 
 Partamos de la base evidente de que lo que hacemos dice más de nosotros que lo que logramos. El mérito (del latín *merere*: ser digno de una recompensa), entonces, es superior a un resultado.
 
-En mi caso, esto era mi éxito (del latín "*exitus*": salida): mi oportunidad para cambiar de vida. Sin embargo, entiendo que el mayor de ellos es saber lo que quieres -tu propósito (del latín '*propositum*': "lo que se ha puesto delante")-, y después, tener actitud (del latín *aptus*: apto, adecuado) para avanzar, y voluntad (del latín *voluntas*: lo que se quiere) para mantener la dirección.
+En mi caso, esto era mi éxito (del latín "*exitus*": salida): mi oportunidad para cambiar de vida. Sin embargo, entiendo que el mayor de ellos es saber lo que quieres —tu propósito (del latín '*propositum*': "lo que se ha puesto delante")—, y después, tener actitud (del latín *aptus*: apto, adecuado) para avanzar, y voluntad (del latín *voluntas*: lo que se quiere) para mantener la dirección.
 
-Y para todo esto es muy aconsejable la humildad (del latín *humus*: tierra): poder conocer el suelo real, para moverte bien. El error (del latín errare: vagar sin rumbo, desviarse) sucede al movimiento.
+Y para todo esto es muy aconsejable la humildad (del latín *humus*: tierra): poder conocer el suelo real, para moverte bien. El error (del latín *errare*: vagar sin rumbo, desviarse) sucede al movimiento.
 
 Cada revés (del latín *reversus*: lo que te da la vuelta) supone una reorientación, y en ocasiones es beneficioso. Yo, por ejemplo, ahora me conozco mejor a mí mismo.
 
