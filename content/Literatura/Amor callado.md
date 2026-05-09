@@ -39,7 +39,7 @@ La gente ve, y ella intuye. Nos miramos.
 
 La contemplo admirado: distingo, observo, interpreto, leo... mas no capto.
 
-No puedo descifrarla -o no me atrevo-.
+No puedo descifrarla —o no me atrevo—.
 
 
 ### La elegancia
