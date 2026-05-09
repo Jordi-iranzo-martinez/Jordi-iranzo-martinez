@@ -21,6 +21,8 @@ Dime, ¿en qué puedo ayudarte? Puedes escribirme a [jordi.im@proton.me](mailto:
 
 Además, me gusta escribir. Puedes suscribirte para recibir novedades.
 
+<meta name="follow.it-verification-code" content="44HGHCWjsubsl8GUYhW3"/>
+
 <style>
     .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
   display: flex !important;
