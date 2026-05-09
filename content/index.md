@@ -21,6 +21,14 @@ Dime, ¿en qué puedo ayudarte? Puedes escribirme a [jordi.im@proton.me](mailto:
 
 Además, me gusta escribir. Puedes suscribirte para recibir novedades.
 
+<div style="float: right; width: 200px; margin-left: 24px; margin-bottom: 16px;">
+
+  <img src="tu-foto.jpg" style="width: 100%; border-radius: 4px;" />
+
+  <div style="margin-top: 12px; font-size: 13px; color: #666;">
+    Novedades por email:
+  </div>
+  
 <style>
     .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
   display: flex !important;
@@ -113,3 +121,4 @@ Además, me gusta escribir. Puedes suscribirte para recibir novedades.
   <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
     <form data-v-5d9bed7e="" action="https://api.follow.it/subscription-form/WHZHaW0xenV2V1RielJTOUZMSTdGVXJQdGM0OU1Obi9vTDZLK2t0dWNsSUJraGVIK0pkZ2htbWVsQ01MZGRqQXBPQnBBNnZmVWE0MU9pZjNGNmhYNWdTUWg2Mm1QcFIycDJxZkZ4Qy80T1RNV2tOWjQ0T2trK1pSckhYZzhZd3F8MkZCUWJ4WmNjZGZzdmE5YTJJVGt1L3VJaEg1QWhwMGcybmFpWmV0am55az0=/8" method="post"><div data-v-5d9bed7e="" style="background-color: rgb(255, 255, 255); position: relative; border-style: solid; border-width: 1px; border-color: rgb(204, 204, 204);" class="form-preview"><div data-v-5d9bed7e="" class="preview-heading"><h5 data-v-5d9bed7e="" style="font-family: Arial; font-weight: bold; color: rgb(0, 0, 0); font-size: 1px; text-align: center; text-transform: none !important;"></h5></div><div data-v-5d9bed7e="" class="preview-input-field"><input data-v-5d9bed7e="" type="email" name="email" required="" placeholder="Correo electrónico" spellcheck="false" style="font-family: Arial; font-weight: normal; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); text-transform: none !important;"></div><div data-v-5d9bed7e="" class="preview-submit-button"><button data-v-5d9bed7e="" type="submit" style="font-family: Arial; font-weight: bold; color: rgb(255, 255, 255); font-size: 14px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;">Suscribirse</button></div></div></form><a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17px"/></a>
   </div>
+</div>
