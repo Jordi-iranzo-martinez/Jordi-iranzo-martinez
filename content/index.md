@@ -30,3 +30,5 @@ Además, me gusta escribir. Puedes suscribirte para recibir novedades.
     ml('account', '1647761');
 </script>
 <!-- End MailerLite Universal -->
+
+<div class="ml-embedded" data-form="N26omP"></div>
