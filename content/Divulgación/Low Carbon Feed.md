@@ -9,7 +9,7 @@ subtitle: "El valor de los residuos agricolas"
 
 LIFE Low Carbon Feed (LCFEED) es un proyecto de valorización de los residuos agrícolas del arroz y de cítricos mediante el reciclaje para la fabricación de piensos para ganado rumiante, en particular caprino. Sus objetivos son reducir la contaminación y contribuir a la mitigación del cambio climático, gracias a que se evita la quema de dichos productos y al efecto de los aceites esenciales en los microorganismos productores de metano (CH4) –el más peligroso gas de efecto invernadero– del rumen-retículo de los animales rumiantes.
 
-![Recogida de restos de poda de cítricos](attachments/lcfeed/lcfeed-recogida-poda-citricos.png)
+![Recogida de restos de poda de cítricos](Escritos/attachments/lcfeed/lcfeed-recogida-poda-citricos.png)
 
 *Recogida de restos de poda de cítricos. / LIFE Low Carbon Feed (LCFEED).*
 
@@ -21,7 +21,7 @@ Los principales cultivos españoles son cereales como la cebada (_Hordeum vulgar
 
 En la Comunitat Valenciana, debido a su orografía plana, su clima suave y su tradición histórica de regadío, también son relevantes los cultivos de regadío, principalmente el naranjo (_Citrus x sinensis_), el mandarino (_Citrus reticulata_), el algarrobo (_Ceratonia siliqua_), el caqui (_Dyopsiros_) y el arroz (_Oryza sativa_).
 
-![Campos agrícolas](attachments/lcfeed/lcfeed-campos-agricolas.png)
+![Campos agrícolas](Escritos/attachments/lcfeed/lcfeed-campos-agricolas.png)
 
 *Campos agrícolas. / [Douglas Williams](https://unsplash.com/@dwphoto) (Unsplash).*
 
@@ -31,7 +31,7 @@ En España se produce la mayor cantidad de cítricos y la segunda mayor cantidad
 
 La agricultura de cítricos y arroz genera materiales con escaso valor en el mercado: la paja de la cáscara del arroz, tras la cosecha, y las hojas de los cítricos, tras la poda. El minifundismo de la agricultura valenciana dificulta la rentabilidad de la recogida de estos materiales, por lo que se consideran residuos que se eliminan mediante quemas controladas. Se estima que se destinan a la quema aproximadamente unas 88.000 toneladas de hojas de cítricos ([LIFE Ecocitric](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=5071)) y 12.000 toneladas de paja de arroz ([LIFE Ecorice](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=2699)). La combustión genera una considerable contaminación atmosférica en forma de gases de efecto invernadero (GEI) –fundamentalmente, dióxido de carbono (CO2)–, partículas finas (PM2,5), hidrocarburos aromáticos poli-cíclicos (HAP) y dioxinas, entre otros.
 
-![Paja de arroz en el Parque Natural de l’Albufera](attachments/lcfeed/lcfeed-paja-arroz-albufera.png)
+![Paja de arroz en el Parque Natural de l’Albufera](Escritos/attachments/lcfeed/lcfeed-paja-arroz-albufera.png)
 
 *Paja de arroz en el Parque Natural de l’Albufera. /  LIFE Low Carbon Feed (LCFEED).*
 
@@ -43,7 +43,7 @@ De acuerdo a la Organización para la Alimentación y la Agricultura (FAO), el s
 
 Delante de la situación y el contexto que acabamos de explicar, José Castro, director de proyectos en La Unió de Llauradors i Ramaders del País Valencià (La Unió), y Carlos Fernández, catedrático del Departamento de Ciencia Animal en la Universitat Politècnica de València (UPV), decidieron cooperar juntos. A mediados de 2017 nace el pionero proyecto [Low Carbon Feed](https://www.lifelowcarbonfeed.com/) (LCFEED), cofinanciado en un 60% por la Unión Europea mediante el Programme for the Environment and Climate Action (fondos LIFE): [16/CCM/ES/000088](http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=6236#AD).
 
-![Miembros del proyecto LIFE Low Carbon Feed (LCFEED)](attachments/lcfeed/lcfeed-equipo-proyecto.png)
+![Miembros del proyecto LIFE Low Carbon Feed (LCFEED)](Escritos/attachments/lcfeed/lcfeed-equipo-proyecto.png)
 
 *Miembros del proyecto LIFE Low Carbon Feed (LCFEED). / LIFE Low Carbon Feed (LCFEED).*
 
@@ -61,13 +61,13 @@ Debido a las diferencias entre los cítricos y el arroz, ambos productos se gest
 
 La paja del arroz se recoge entre septiembre y octubre, se empaca directamente en los campos, y se carga, transporta y almacena en silos para su posterior molienda.
 
-![Recogida y empacado de la paja del arroz](attachments/lcfeed/lcfeed-empacado-paja-arroz.png)
+![Recogida y empacado de la paja del arroz](Escritos/attachments/lcfeed/lcfeed-empacado-paja-arroz.png)
 
 *Recogida y empacado de la paja del arroz. / LIFE Low Carbon Feed (LCFEED).**
 
 De los restos de cítricos se separan mecánicamente las astillas de las hojas, se deshidratan las hojas en un _trommel_ de secado y se muelen. A la mezcla molida de ambos residuos se le añaden ingredientes adicionales: cebada, cascarilla de soja, habas, guisantes, entre otros, y, posteriormente, aceite vegetal y melaza de caña de azúcar. Finalmente, se pelletiza.
 
-![Detalle de la planta de pelletización del pienso LCFEED. A la derecha, ganado caprino de una de las granjas colaboradoras con el proyecto.](attachments/lcfeed/lcfeed-planta-pelletizacion-ganado.png)
+![Detalle de la planta de pelletización del pienso LCFEED. A la derecha, ganado caprino de una de las granjas colaboradoras con el proyecto.](Escritos/attachments/lcfeed/lcfeed-planta-pelletizacion-ganado.png)
 
 *Detalle de la planta de pelletización del pienso LCFEED. A la derecha, ganado caprino de una de las granjas colaboradoras con el proyecto.  / LIFE Low Carbon Feed (LCFEED).*
 
@@ -79,7 +79,7 @@ Como actividades adicionales, se encuentran el seguimiento de su sostenibilidad,
 
 Con los primeros resultados provisionales, las cabras han aceptado el producto, mantenido la producción de leche, y reducido sus emisiones de metano en aproximadamente un 10%: de 5 kg/año a 4’5 Kg/año (Fernández et al., 2018).
 
-![Cabras en la Universitat Politècnica de València (UPV)](attachments/lcfeed/lcfeed-cabras-upv.png)
+![Cabras en la Universitat Politècnica de València (UPV)](Escritos/attachments/lcfeed/lcfeed-cabras-upv.png)
 
 *Cabras en la Universitat Politècnica de València (UPV). / LIFE Low Carbon Feed (LCFEED).*
 
@@ -89,4 +89,4 @@ Los resultados podrían ser más significativos si se aumentara la aplicación a
 
 Se puede hacer seguimiento en [la página oficial del proyecto](https://www.lifelowcarbonfeed.com/).
 
-![Logo Life Low Carbon Feed](attachments/lcfeed/lcfeed-logo-proyecto.png)
+![Logo Life Low Carbon Feed](Escritos/attachments/lcfeed/lcfeed-logo-proyecto.png)
