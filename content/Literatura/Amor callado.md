@@ -44,16 +44,16 @@ No puedo descifrarla —o no me atrevo—.
 
 ### La elegancia
 
-No necesitaba más que gestos para inspirar positividad, calidez, y calma.
-
-Podía expresar "te veo", o "me importas", de una forma más profunda, honesta, y rica, que con cualquier palabra. Y al mismo tiempo mantener su integridad intacta.
+Expresaba con gestos lo que su voz callaba, de forma más profunda que con cualquier palabra, al tiempo que mantenía su integridad intacta.
 
 Hace falta muchísima sensibilidad e inteligencia para aparentar sencillez aún siendo extraordinaria.
 
 
-### Sí
+### Adiós
 
-Aunque sintiera amor, ya ha decidido. Y después seguramente no volverán a verse. Pero no se excluyen, y prefieren haberse conocido. Díganme una forma más bonita de sufrir.
+Honraron el amor; ya han decidido. Seguramente no volverían a verse. Pero no se excluyen, y prefieren haberse conocido.
+
+Díganme una forma más bonita de sufrir que el estar vivo.
 
 
 ### Vale
