@@ -19,7 +19,7 @@ Me encantaría contribuir a mejorar el medio ambiente en general. Y estoy abiert
 
 Dime, ¿en qué puedo ayudarte? Puedes escribirme a [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
-Además, me gusta escribir. Puedes suscribirte para recibir novedades.
+Además, me gusta escribir. Espero conseguir que puedas suscribirte para recibir novedades.
 
 <meta name="follow.it-verification-code" content="44HGHCWjsubsl8GUYhW3"/>
 
