@@ -58,7 +58,11 @@ Díganme una forma más bonita de sufrir que el estar vivo.
 
 ### Vale
 
-Sigamos pretendiendo que no sucede nada. Que no hay tensión. Que no conmueves ni desarmas. Que no me he descubierto al conocerte. Que no quiero quedarme aunque me vaya.
+Sigamos pretendiendo que no sucede nada.
+Que no hay tensión.
+Que no conmueves ni desarmas.
+Que no me he descubierto al conocerte.
+Que no quiero quedarme aunque me vaya.
 
 
 ### Madurez
