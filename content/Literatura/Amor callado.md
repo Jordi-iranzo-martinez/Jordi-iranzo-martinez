@@ -46,7 +46,7 @@ No puedo descifrarla —o no me atrevo—.
 
 Expresaba con gestos lo que su voz callaba, de forma más profunda que con cualquier palabra, al tiempo que mantenía su integridad intacta.
 
-Hace falta muchísima sensibilidad e inteligencia para aparentar sencillez aún siendo extraordinaria.
+Hace falta muchísima sensibilidad e inteligencia para aparentar sencillez aun siendo extraordinaria.
 
 
 ### Adiós
@@ -67,4 +67,4 @@ Que no quiero quedarme aunque me vaya.
 
 ### Madurez
 
-Y al fin la nitidez: la distancia tranquila, el silencio presente, y el cariño. Sin una despedida, ni más testigos que sí mismos.
+Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariño. Sin una despedida, ni más testigos que sí mismos.
