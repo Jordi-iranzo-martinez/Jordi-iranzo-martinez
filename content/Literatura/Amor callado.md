@@ -68,3 +68,10 @@ Que no quiero quedarme aunque me vaya.
 ### Madurez
 
 Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariño. Sin una despedida, ni más testigos que sí mismos.
+
+
+### Silencio
+
+Sabían que si lo necesitaban iban a estar ahí.
+
+Esa era la certeza que nunca se dieron.
