@@ -17,7 +17,7 @@ Ya no se hablan, pero le sigue alegrando saber que existe.
 
 ### Liminal
 
-Cuando ella cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
+Cuando cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
 
 Él le sonrió. "Adiós", le dijo.
 
@@ -58,11 +58,9 @@ Díganme una forma más bonita de sufrir que el estar vivo.
 
 ### Vale
 
-Sigamos pretendiendo que no sucede nada.
-Que no hay tensión.
-Que no conmueves ni desarmas.
-Que no me he descubierto al conocerte.
-Que no quiero quedarme aunque me vaya.
+Sigamos pretendiendo que no sucede nada. Que no hay tensión. Que no conmueves ni desarmas.
+
+Aunque me haya descubierto al conocerte. Y aunque quiera quedarme... aunque me vaya.
 
 
 ### Madurez
@@ -75,3 +73,7 @@ Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariñ
 Sabían que si lo necesitaban iban a estar ahí.
 
 Esa era la certeza que nunca se dieron.
+
+### Conexión
+
+Porque conocían se ignoraban.
