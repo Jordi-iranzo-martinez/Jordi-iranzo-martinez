@@ -37,7 +37,9 @@ No tienes que hacer ni decir nada. Es tu forma de ser lo que me reconcilia.
 
 La gente ve, y ella intuye. Nos miramos.
 
-La contemplo admirado: distingo, observo, interpreto, leo... mas no capto.
+La contemplo admirado: distingo, observo, interpreto, leo...
+
+Vislumbro, mas no capto.
 
 No puedo descifrarla —o no me atrevo—.
 
