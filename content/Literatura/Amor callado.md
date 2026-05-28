@@ -28,6 +28,7 @@ Y continuaron respetando.
 
 Sostuvo el amor como un fin en sí mismo. Sintió su levedad pero también su peso. Le inspiró a ser mejor mientras se hundía. Decidió no soltarlo —aunque no lo abarcase—. Y hay quienes dicen que al fin se sonreía.
 
+
 ### Paz
 
 No tienes que hacer ni decir nada. Es tu forma de ser lo que me reconcilia.
@@ -68,14 +69,15 @@ Aunque me haya descubierto al conocerte. Y aunque quiera quedarme... aunque me v
 Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariño. Sin una despedida, ni más testigos que sí mismos.
 
 
-### Silencio
+### Quietud
 
-Sabían que si lo necesitaban iban a estar ahí.
+Si lo necesitaban iban a estar ahí.
 
 Esa era la certeza que nunca se dieron.
 
+
 ### Conexión
 
-Porque conocían se ignoraban. 
+Porque sabían se ignoraban. 
 
 Para no desbordarse.
