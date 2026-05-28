@@ -6,7 +6,7 @@ title: "Amor callado"
 
 Su cerebro insistía en evocarla. Le daban ganas de aplaudirla discretamente.
 
-Llegó a pensar que si tuviera una hija quisiera que tuviera sus virtudes. Él, que siempre había querido no ser padre...
+Llegó a pensar en una hija que tuviera sus virtudes. Él, que siempre había querido no ser padre...
 
 Concluyó resignado que estaba enamorado, como si fuera una enfermedad grave o un embarazo no deseado.
 
