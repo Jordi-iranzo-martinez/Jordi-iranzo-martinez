@@ -10,9 +10,12 @@ title: "Técnico medioambiental, escritura, oposiciones"
 
 Soy técnico ambiental especializado en normativa ambiental española y europea, biodiversidad, calidad ambiental, y cambio climático, con experiencia en el sector público. 
 
-- **Formación continua:** Más de 170 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). [Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
-- **Especialización técnica y legal** normativa ambiental y administrativa, cartografía, análisis de datos, informes, gestoría, evaluaciones de impacto...
-- **Oposiciones**: he preparado varias, de medio ambiente y administrativos, a nivel estatal, autonómico (*Generalitat Valenciana*), y local.
+- **Formación continua:** Más de 170 certificados en política ambiental, cambio climático, desarrollo sostenible y herramientas digitales (de Naciones Unidas, la Unión Europea, Google...). ([Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
+
+- **Especialización legal**: he preparado varias oposicioines, de medio ambiente y administrativos, a nivel estatal, autonómico (*Generalitat Valenciana*), y local.
+
+- **Técnico**: normativa ambiental y administrativa, cartografía, análisis de datos, informes, gestoría, evaluaciones de impacto...
+
 - **Idiomas**: fluidez en **español, valenciano e inglés**, con competencia en italiano, portugués, francés, y un poco de ruso.
 
 Me encantaría contribuir a mejorar el medio ambiente en general. Y estoy abierto a colaboraciones y propuestas.
