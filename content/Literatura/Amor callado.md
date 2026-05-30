@@ -71,7 +71,7 @@ Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariñ
 
 ### Conexión
 
-Porque sabían se ignoraban. Para que no desborde.
+Porque sabían se ignoraban. Para que no se desborde.
 
 Pero se tenían muy presentes. Y cuando lo necesitaban se cuidaban.
 
