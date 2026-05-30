@@ -6,7 +6,7 @@ title: "Amor callado"
 
 Su cerebro insistía en evocarla. Le daban ganas de aplaudirla discretamente.
 
-Llegó a pensar que si tuviera una hija la desearía con sus virtudes. Él, que siempre había querido no ser padre...
+Llegó a pensar en una hija que tuviera sus virtudes. Él, que siempre había querido no ser padre...
 
 Concluyó resignado que estaba enamorado, como si fuera una enfermedad grave o un embarazo no deseado.
 
@@ -69,15 +69,10 @@ Aunque me haya descubierto al conocerte. Y aunque quiera quedarme... aunque me v
 Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariño. Sin una despedida, ni más testigos que sí mismos.
 
 
-### Quietud
-
-Si lo necesitaban iban a estar ahí.
-
-Esa era la certeza que nunca se dieron.
-
-
 ### Conexión
 
-Porque sabían se ignoraban. 
+Porque sabían se ignoraban. Para que no desborde.
 
-Para no desbordarse.
+Pero se tenían muy presentes. Y cuando lo necesitaban se cuidaban.
+
+Esa era la certeza que nunca se dieron.
