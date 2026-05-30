@@ -76,3 +76,12 @@ Porque sabían se ignoraban. Para que no desborde.
 Pero se tenían muy presentes. Y cuando lo necesitaban se cuidaban.
 
 Esa era la certeza que nunca se dieron.
+
+
+### Espacio
+
+Cuando fue derrotado, ella se acercó y le dijo que eso no era ningún fracaso.
+
+Poco después se alejó súbitamente al contacto con su piel, manteniendo la conversación.
+
+Y él no se aproximó ni se lo contó de vuelta.
