@@ -18,11 +18,11 @@ Me llamo Jordi. Soy técnico ambiental especializado en derecho administrativo, 
 
 - **Divulgación**: me gusta escribir. Hablo castellano, valenciano, inglés, y tengo competencia en italiano, portugués y francés. 
 
-¿Tienes un proyecto medioambiental? ¿Oposiciones? ¿Gestiones administrativas?
-
 Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar.
 
-Puedes escribirme sin problema a: [jordi.im@proton.me](mailto:jordi.im@proton.me)
+¿Tienes un proyecto medioambiental? ¿Oposiciones? ¿Gestiones administrativas?
+
+Puedes contarme directamente a: [jordi.im@proton.me](mailto:jordi.im@proton.me)
 
 También estoy abierto a colaboraciones y propuestas.
 
