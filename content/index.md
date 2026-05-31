@@ -1,5 +1,5 @@
 ---
-title: Medio ambiente, oposiciones y escritura
+title: Medio ambiente: proyectos, gestiones, oposiciones y escritura
 description: Técnico ambiental con formación en normativa legal y experiencia en el sector público.
 ---
 
