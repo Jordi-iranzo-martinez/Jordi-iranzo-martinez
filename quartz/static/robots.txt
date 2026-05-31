@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jordiiranzomartinez.com
+Sitemap: https://jordiiranzomartinez.com/sitemap.xml
