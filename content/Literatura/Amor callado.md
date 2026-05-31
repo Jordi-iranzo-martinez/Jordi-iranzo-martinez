@@ -84,4 +84,4 @@ Cuando fue derrotado, ella se acercó y le dijo que eso no era ningún fracaso.
 
 Poco después se retiró súbitamente al contacto de su piel, manteniendo la conversación.
 
-Y él prefirió no aproximarse, ni devolvió el consuelo.
+Y él prefirió no aproximarse, ni repitió esas palabras de consuelo.
