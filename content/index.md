@@ -10,7 +10,7 @@ description: Técnico ambiental con formación en normativa y experiencia en el 
      
 Hola:
 
-Me llamo Jordi. Soy técnico ambiental especializado en derecho administrativo, medio natural, calidad ambiental, y cambio climático.
+Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y biodiversidad, calidad ambiental, cambio climático, y derecho administrativo.
 
 - **Formación continua**: más de 170 certificaciones de organismos oficiales en materias científicas, de derecho internacional... por organismos oficiales  (Naciones Unidas, UE, Google...). ([Verlas todas](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
 
