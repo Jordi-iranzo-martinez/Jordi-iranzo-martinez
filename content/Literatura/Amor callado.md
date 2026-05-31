@@ -82,6 +82,6 @@ Esa era la certeza que nunca se dieron.
 
 Cuando fue derrotado, ella se acercó y le dijo que eso no era ningún fracaso.
 
-Poco después se alejó súbitamente al contacto con su piel, manteniendo la conversación.
+Poco después se retiró súbitamente al contacto de su piel, manteniendo la conversación.
 
-Y él no se aproximó ni se lo contó de vuelta.
+Y él prefirió no aproximarse, ni devolvió el consuelo.
