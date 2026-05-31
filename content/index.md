@@ -1,6 +1,6 @@
 ---
-title: Medio ambiente: proyectos, gestiones, oposiciones y escritura
-description: Técnico ambiental con formación en normativa legal y experiencia en el sector público.
+title: Jordi Iranzo Martínez - medio ambiente, oposiciones y escritura
+description: Técnico ambiental especializado en patrimonio natural, biodiversidad, calidad ambiental y normativa administrativa. Experiencia en el sector público y más de 170 certificaciones oficiales.
 ---
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg" 
