@@ -1,6 +1,6 @@
 ---
 title: Medio ambiente, oposiciones y escritura
-description: Técnico ambiental con formación en normativa y experiencia en el sector público.
+description: Técnico ambiental con formación en normativa legal y experiencia en el sector público.
 ---
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg" 
