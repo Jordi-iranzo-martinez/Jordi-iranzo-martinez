@@ -22,9 +22,9 @@ Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar �
 
 ¿Tienes un proyecto? ¿Una consulta? ¿Gestiones administrativas? ¿Algo que te gustaría divulgar...?
 
-También estoy abierto a colaboraciones y propuestas.
+Me parece que puede ser interesante. También estoy abierto a colaboraciones y propuestas.
 
-Para contactarme: [jordi.im@proton.me](mailto:jordi.im@proton.me).
+Puedes contactarme directamente: [jordi.im@proton.me](mailto:jordi.im@proton.me).
 
 Un saludo,
 
