@@ -89,7 +89,7 @@ Y él prefirió no aproximarse, ni repitió esas palabras de consuelo.
 
 ### Control
 
-Esquivar, huir, sobrevivir, esconderse. Sin amenaza ni peligro, de la verdad y el miedo. Aparentando calma.
+Esquivar, huir, sobrevivir, esconderse. Sin amenaza ni peligro. De la verdad y el miedo. Aparentando calma.
 
 
 ### Gracias
