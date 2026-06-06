@@ -1,5 +1,5 @@
 ---
-title: Asesoría ambiental, oposiciones, tramitación administrativa y escritura
+title: Asesoría ambiental, oposiciones, gestiones administrativas y escritura
 description: Técnico ambiental con más de 170 certificaciones oficiales y experiencia en el sector público ofrece asesoría en materia medioambiental y de oposiciones, y ayuda con gestiones administrativas.
 ---
 
@@ -20,11 +20,11 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar -incluso en ámbitos distintos-.
 
-¿Tienes un proyecto medioambiental? ¿Oposiciones? ¿Gestiones administrativas? ¿Algo más?
+¿Tienes un proyecto? ¿Una consulta? ¿Gestiones administrativas...? ¿Algo más?
 
 También estoy abierto a colaboraciones y propuestas.
 
-Puedes contactarme directamente: [jordi.im@proton.me](mailto:jordi.im@proton.me).
+Para contactarme: [jordi.im@proton.me](mailto:jordi.im@proton.me).
 
 Un saludo,
 
