@@ -1,5 +1,5 @@
 ---
-title: Asesoría ambiental, oposiciones, gestiones administrativas y escritura
+title: Asesoría medioambiental, oposiciones, tramitaciones administrativas y escritura
 description: Técnico ambiental con más de 170 certificaciones oficiales y experiencia en el sector público ofrece asesoría en materia medioambiental y de oposiciones, y ayuda con gestiones administrativas.
 ---
 
