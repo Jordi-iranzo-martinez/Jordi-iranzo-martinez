@@ -85,3 +85,20 @@ Cuando fue derrotado, ella se acercó y le dijo que eso no era ningún fracaso.
 Poco después se retiró súbitamente al contacto de su piel, manteniendo la conversación.
 
 Y él prefirió no aproximarse, ni repitió esas palabras de consuelo.
+
+
+### Control
+
+Esquivar, huir, sobrevivir, esconderse. Sin amenaza ni peligro, de la verdad y el miedo. Aparentando calma.
+
+
+### Gracias
+
+Dejaron de verse. A veces las cosas no salen... o mueren —o se matan (quizás por su poder)—.
+
+Pero no puede quitarse lo bailado. Aun con lo incómodo, de lejos, y a destiempo.
+
+Solo escuchar la música es ya un pequeño milagro.
+
+
+**FIN**
