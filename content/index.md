@@ -1,6 +1,6 @@
 ---
-title: Medio ambiente, oposiciones y escritura
-description: Técnico ambiental especializado en patrimonio natural, biodiversidad, calidad ambiental y normativa administrativa. Experiencia en el sector público y más de 170 certificaciones oficiales.
+title: Asesoría ambiental, oposiciones, tramitación administrativa y escritura
+description: Técnico ambiental con más de 170 certificaciones oficiales y experiencia en el sector público ofrece asesoría en materia medioambiental y de oposiciones, y ayuda con gestiones administrativas.
 ---
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg" 
@@ -18,13 +18,13 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 - **Divulgación**: me gusta escribir y los idiomas. Puedo comunicarme en varios. 
 
-Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar, incluso en ámbitos distintos.
+Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar -incluso en ámbitos distintos-.
 
 ¿Tienes un proyecto medioambiental? ¿Oposiciones? ¿Gestiones administrativas? ¿Algo más?
 
-Puedes contarme directamente a: [jordi.im@proton.me](mailto:jordi.im@proton.me).
-
 También estoy abierto a colaboraciones y propuestas.
+
+Puedes contactarme directamente: [jordi.im@proton.me](mailto:jordi.im@proton.me).
 
 Un saludo,
 
