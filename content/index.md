@@ -1,5 +1,5 @@
 ---
-title: Asesoría medioambiental, oposiciones, tramitaciones administrativas y escritura
+title: Asesoría medioambiental, oposiciones, tramitación administrativa y escritura
 description: Técnico ambiental con más de 170 certificaciones oficiales y experiencia en el sector público ofrece asesoría en materia medioambiental y de oposiciones, y ayuda con gestiones administrativas.
 ---
 
@@ -12,15 +12,15 @@ Hola:
 
 Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y biodiversidad, calidad ambiental, cambio climático, y derecho administrativo. Con experiencia en el sector público.
 
-- **Formación continua**: más de 170 certificaciones en materias científicas, de derecho internacional... emitidos por organismos oficiales (Naciones Unidas, UE, Google...). ([Verlas todas](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
+- **Formación continua**: más de 170 certificaciones en materias científicas, de derecho internacional... emitidas por organismos oficiales (Naciones Unidas, UE, Google...). ([Verlas todas](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)).
 
 - **Conocimiento legal y oposiciones**: He preparado procesos selectivos de medio ambiente y administrativos a nivel estatal, autonómico y local.
 
 - **Divulgación**: me gusta escribir y los idiomas. Puedo comunicarme en varios. 
 
-Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar -incluso en ámbitos distintos-.
+Me encantaría contribuir a mejorar el medio ambiente y también quiero ayudar —incluso en ámbitos distintos—.
 
-¿Tienes un proyecto? ¿Una consulta? ¿Gestiones administrativas...? ¿Algo más?
+¿Tienes un proyecto? ¿Una consulta? ¿Gestiones administrativas? ¿Algo que te gustaría divulgar...?
 
 También estoy abierto a colaboraciones y propuestas.
 
