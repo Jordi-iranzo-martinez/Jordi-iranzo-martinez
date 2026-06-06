@@ -1,6 +1,6 @@
 ---
 title: Medio ambiente, oposiciones, gestiones administrativas y escritura
-description: Técnico ambiental con más de 170 certificaciones oficiales y experiencia en el sector público ofrece asesoría en materia medioambiental y de oposiciones, y ayuda con gestiones administrativas.
+description: Técnico ambiental ofrece ayuda en temas medioambientales, preparación y realización de oposiciones, y gestiones administrativas.
 ---
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg" 
