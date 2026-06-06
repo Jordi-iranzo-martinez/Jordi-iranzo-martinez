@@ -1,5 +1,5 @@
 ---
-title: Medio ambiente, oposiciones, gestiones administrativas y escritura
+title: Medio ambiente, oposiciones, gestiones y escritura
 description: Técnico ambiental ofrece ayuda en temas medioambientales, preparación y realización de oposiciones, y gestiones administrativas.
 ---
 
