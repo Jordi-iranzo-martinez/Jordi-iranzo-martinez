@@ -17,7 +17,7 @@ Ya no se hablan, pero le sigue alegrando saber que existe.
 
 ### Liminal
 
-Cuando ella cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
+Cuando cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
 
 Él le sonrió. "Adiós", le dijo.
 
