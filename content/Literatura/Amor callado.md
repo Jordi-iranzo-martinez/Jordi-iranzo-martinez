@@ -17,7 +17,7 @@ Ya no se hablan, pero le sigue alegrando saber que existe.
 
 ### Liminal
 
-Cuando cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
+Cuando ella cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
 
 Él le sonrió. "Adiós", le dijo.
 
@@ -26,7 +26,15 @@ Y continuaron respetando.
 
 ### Voluptas
 
-Sostuvo el amor como un fin en sí mismo. Sintió su levedad pero también su peso. Le inspiró a ser mejor mientras se hundía. Decidió no soltarlo —aunque no lo abarcase—. Y hay quienes dicen que al fin se sonreía.
+Sostuvo el amor como un fin en sí mismo.
+
+Sintió su levedad pero también su peso.
+
+Le inspiró a ser mejor mientras se hundía.
+
+Decidió no soltarlo —aunque no lo abarcase—.
+
+Y al llegar el final se sonreía.
 
 
 ### Paz
@@ -71,9 +79,9 @@ Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariñ
 
 ### Conexión
 
-Porque sabían se ignoraban. Para que no se desborde.
+Porque sabían, se ignoraban: para que no se desborde.
 
-Pero se tenían muy presentes. Y cuando lo necesitaban se cuidaban.
+Pero se tenían muy presentes, y cuando lo necesitaban se cuidaban.
 
 Esa era la certeza que nunca se dieron.
 
@@ -89,15 +97,19 @@ Y él prefirió no aproximarse, ni repitió esas palabras de consuelo.
 
 ### Control
 
-Esquivar, huir, sobrevivir, esconderse. Sin amenaza ni peligro. De la verdad y el miedo. Aparentando calma.
+Esquivarle, huir, sobrevivir, esconderse... Sin amenaza ni peligro. De la verdad y el miedo. Aparentando calma.
+
+Delatarse en pequeños momentos de ternura.
 
 
 ### Gracias
 
-Dejaron de verse. A veces las cosas no salen... o mueren —o se matan (quizás por su poder)—.
+Se desencontraron. A veces las cosas no salen... (aunque algo quede).
 
 Pero no puede quitarse lo bailado. Aun con lo incómodo, de lejos, y a destiempo.
 
 Solo escuchar la música es ya un pequeño milagro.
+
+Y también se puede bailar en solitario.
 
 **FIN**
