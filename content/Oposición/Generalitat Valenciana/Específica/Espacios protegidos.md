@@ -39,6 +39,9 @@ El patrimonio natural
 
 
 
+#### Flora
+
+
 
 Comunidades vegetales, unidades y series de vegetación principales
 
@@ -61,7 +64,7 @@ Finalizó diagrama e integró contenido en documento completo
 Es un temario extenso — voy a organizarlo en un documento completo, pero antes va un esquema rápido de la idea que articula casi todo lo demás: cómo se ordena la vegetación valenciana según la altitud (los "pisos bioclimáticos").
 
 
-Cada piso alberga una o varias **series de vegetación** (la comunidad clímax y sus etapas de sustitución), a las que se suman las **series edafófilas** —saladares, marjales, riberas, dunas— que dependen más del sustrato que del clima. Te preparo el desarrollo completo del tema, con el marco legal, la biogeografía, las series principales y la red de espacios protegidos, en un documento que puedas guardar y estudiar.
+Cada piso alberga una o varias series de vegetación (la comunidad clímax y sus etapas de sustitución), a las que se suman las series edafófilas —saladares, marjales, riberas, dunas— que dependen más del sustrato que del clima. Te preparo el desarrollo completo del tema, con el marco legal, la biogeografía, las series principales y la red de espacios protegidos, en un documento que puedas guardar y estudiar.
 
 
 ![[Pasted image 20260701091529.png]]
@@ -73,6 +76,62 @@ COMPLETAR
 | ----------------------------- | --- |
 | Comunidades                   |     |
 | Unidades y series principales |     |
+
+
+#### Fauna
+
+La fauna de la Comunidad Valenciana destaca por su elevada diversidad en un territorio relativamente pequeño, consecuencia directa de varios factores:
+
+- **Posición biogeográfica de transición**: la región se sitúa en el límite entre el dominio eurosiberiano (residual, en las zonas más húmedas de montaña) y el mediterráneo, con influencias puntuales norteafricanas. Esto genera un mosaico de comunidades animales muy variado para su extensión.
+
+- **Gran diversidad de hábitats en poco espacio**: humedales costeros (albuferas, marjales, salinas), litoral y medio marino, sierras prelitorales e interiores (Sistema Ibérico al norte, estribaciones del Sistema Bético al sur), zonas esteparias de interior, huerta y secano tradicional.
+
+- **Papel clave en las rutas migratorias**: la costa valenciana forma parte de una de las vías de paso más importantes del Mediterráneo occidental entre Europa y África, lo que multiplica la relevancia de sus humedales para aves migratorias e invernantes.
+
+- **Alto grado de endemicidad**, sobre todo en la fauna acuática continental (peces, algunos anfibios) y en la fauna cavernícola de los sistemas kársticos interiores.
+
+- **Fuerte presión antrópica**: es una de las regiones españolas con mayor densidad de población y presión turística, con un litoral muy urbanizado y una huerta históricamente muy transformada; esto ha reducido y fragmentado hábitats, motivando buena parte de la política de espacios protegidos.
+
+- **Contraste litoral-interior**: mientras la franja costera concentra los humedales y su rica avifauna acuática, el interior (Los Serranos, El Racó d'Ademús, Alto Palancia, Alto Vinalopó) conserva fauna más forestal y esteparia, con menor presión humana.
+
+Los elementos de interés incluyen los siguientes
+
+| Grupo                         | Elementos de interés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Aves**                      | **Aves acuáticas de humedal**: flamenco rosa, focha común, calamón común, garcilla bueyera, garza real, somormujo lavanco, aguilucho lagunero. Especial mención a dos especies en peligro crítico que dependen de los humedales valencianos: la **cerceta pardilla** y la **malvasía cabeciblanca**.<br>- **Aves esteparias de interior**: sisón común, alcaraván, ganga ortega, en las parameras y campiñas cerealistas del interior.<br>- **Rapaces rupícolas**: águila perdicera, águila real, halcón peregrino, buitre leonado (con núcleos reintroducidos), en las sierras prelitorales.<br>- **Aves marinas**: pardela cenicienta y paíño europeo, con colonias destacadas en las Islas Columbretes. |
+| Mamíferos                     | - Jabalí (muy extendido), cabra montés (en sierras como el Montgó o zonas del interior), gato montés, tejón, garduña, gineta.<br>- Quirópteros (murciélagos): numerosas especies, con cuevas del interior como refugios de cría importantes.<br>- Cetáceos en aguas litorales (delfín mular, delfín listado), favorecidos por la proximidad del Corredor de Cetáceos del Mediterráneo.                                                                                                                                                                                                                                                                                                                     |
+| Peces continentales endémicos | - _**Samaruc**_ (_Valencia hispanica_): endemismo valenciano en peligro crítico de extinción, ligado a marjales y acequias.<br>- **Fartet** (_Aphanius iberus_): endémico ibérico, en regresión, presente en humedales salobres costeros.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Anfibios y reptiles           | - Gallipato (_Pleurodeles waltl_), sapo partero bético, sapo corredor.<br>- Lagarto ocelado, lagartija ibérica.<br>- Tortuga mora (_Testudo graeca_), con poblaciones relictas en el sur de Alicante.<br>- Tortugas marinas (tortuga boba) de presencia ocasional en el litoral.                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Invertebrados                 | - Fauna cavernícola endémica muy singular en los sistemas kársticos del interior (troglobios).<br>- Comunidades de mariposas e insectos ligados a los matorrales y bosques mediterráneos mejor conservados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+La protección de la fauna se articula sobre todo mediante la red de parques naturales de la Generalitat Valenciana, complementada por la Red Natura 2000 (LIC y ZEPA) y el Catálogo de Zonas Húmedas, con varios humedales reconocidos como sitios Ramsar. Pueden agruparse en tres grandes tipos de espacio:
+
+La Comunidad Valenciana cuenta con más de veinte espacios naturales protegidos, pero estos diez concentran el mayor interés faunístico y representan bien los tres grandes tipos de hábitat de la región: humedales, litoral-marino y sierras.
+
+| Provincia                                | Descripción                                                                           | Especies                                                   |
+| ---------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ***Desert de les Palmes***:              | Sierra litoral con matorral mediterráneo                                              | - Águila perdicera<br>- Otras rapaces rupícolas            |
+| ***Parc Natural de la Serra d'Espadà***: | Sierra silícea con alcornocales                                                       | - Jabalí<br>- Gato montés<br>- Rapaces forestales          |
+| Parc Natural de l'Albufera               | Humedal emblemático junto a Valencia. Punto clave de paso migratorio                  | - Flamencos<br>- Fochas<br>- Garzas<br>- Calamón           |
+| Marjal de Pego-Oliva                     | Marjal costero                                                                        | - Samaruc<br>- Fartet                                      |
+| Parc Natural del Montgó                  | Macizo costero entre Dénia y Xàbia, junto a la reserva marina del Cap de Sant Antoni. | - Cabra montés<br>- Aves marinas                           |
+| Penyal d'Ifac                            | Roquedo costero emblemático                                                           | - Halcón peregrino (colonia nidificante)<br>- Aves marinas |
+| Salinas de Santa Pola                    | Salinas activas                                                                       | - Flamencos                                                |
+| Parque Natural de El Hondo               |                                                                                       | - Cerceta pardilla<br>- Malvasía cabeciblanca              |
+| Lagunas de La Mata y Torrevieja          | Lagunas hipersalinas (una rosada por microorganismos)                                 | - Flamencos<br>- Limícolas                                 |
+| Islas Columbretes                        | Archipiélago volcánico y reserva marina                                               | - Pardela cenicienta<br>- Paíño<br>- Lagartija endémica    |
+
+La riqueza faunística valenciana se explica por el contraste entre litoral y interior: los humedales costeros (con figuras Ramsar y ZEPA) sostienen la avifauna acuática y los endemismos ícticos más amenazados de España, mientras que las sierras prelitorales y de interior mantienen poblaciones más estables de fauna forestal y rupícola, con menor presión humana directa.
+
+La protección de la fauna se articula sobre todo mediante la red de parques naturales de la Generalitat Valenciana, complementada por la Red Natura 2000 (LIC y ZEPA) y el Catálogo de Zonas Húmedas, con varios humedales reconocidos como sitios Ramsar. 
+
+Pueden agruparse en tres grandes tipos de hábitat de la región: humedales, litoral-marino y sierras.
+
+- **Humedales costeros** (Albufera, El Hondo, Santa Pola, La Mata-Torrevieja, Pego-Oliva), hábitat prioritario para la avifauna acuática y los peces endémicos
+- **Relieves costeros e islas** (Columbretes, Montgó, Ifach): componente marino y rupícola
+- **Sierras prelitorales** (Espadán, Desierto de las Palmas): conservan la fauna forestal mediterránea.
+
+*Otros relevantes de interior incluyen Sierra Calderona, Font Roja y Sierra de Mariola (bosques y rapaces rupícolas) y la Tinença de Benifassà, en el extremo norte de Castellón.*
 
 
 
