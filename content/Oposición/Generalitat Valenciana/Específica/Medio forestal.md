@@ -57,17 +57,40 @@ La caza es competencia exclusiva autonómica
 
 Se ha regulado mediante la [Ley 13/2004](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2004/L_2004_13_ca_L_2023_07.pdf),
 
-| Títulos                        | Contenido                                                                                                                                                |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Disposiciones generales        |                                                                                                                                                          |
-| Ejercicio                      | - Requisitos<br>- Ejercicio y técnicas<br>- Especies y piezas                                                                                            |
-| Espacios                       | - Espacios cinegéticos: disposiciones generales, cotos, otros, obligaciones de los titulares<br>- Espacios no cinegéticos<br>- Responsabilidad por daños |
-| Planificación de la ordenación |                                                                                                                                                          |
-| Aprovechamiento comercial      |                                                                                                                                                          |
-| Régimen jurídico               | - Inspección<br>- Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                             |
+| Títulos                        | Contenido                                                                                                                                                    |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Disposiciones generales**    |                                                                                                                                                              |
+| Ejercicio                      | - Requisitos<br>- **Ejercicio** y técnicas<br>- Especies y piezas                                                                                            |
+| Espacios                       | - **Espacios cinegéticos**: disposiciones generales, cotos, otros, obligaciones de los titulares<br>- Espacios no cinegéticos<br>- Responsabilidad por daños |
+| Planificación de la ordenación |                                                                                                                                                              |
+| Aprovechamiento comercial      |                                                                                                                                                              |
+| Régimen jurídico               | - Inspección<br>- Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                                 |
+
+En el ejercicio de la caza se diferencian las modalidades deportivas y tradicionales de caza de aquellas técnicas de caza que obedezcan a razones de gestión, control, científicas o educativas 
+
+
+Los espacios de caza comprenden cinegéticos, 
+
+- **Reservas valencianas de caza**: creadas por Ley de les Corts (a iniciativa de la Conselleria competente) en los terrenos con posibilidades excepcionales para la caza mayor, y se precise de una ordenación que prime la conservación de los procesos ecológicos naturales y la biodiversidad, gestionadas por Conselleria, con un reglamento específico para cada una (administración, gestión, ejercicio).
+
+- **Cotos de caza**: 
+
+- **Zonas de caza controlada**: 
+
+- **Zonas comunes de caza**: 
+
+
+Además, existen espacios no cinegéticos, como zonas de seguridad, y refugios de fauna (limitaciones temporales, declarados por Decreto del Consell, basado en un reglamento
+
+- **Zonas de seguridad**: 
+
+- **Refugios de fauna**: limitaciones temporales, declarados por Decreto del Consell, de acuerdo a reglamento (requisitos, condiciones y procedimiento).
 
 
 La [Orden 30/2016](https://dogv.gva.es/es/eli/es-vc/o/2016/10/31/30/con) fija los periodos hábiles y las normas generales relacionadas con pesca recreativa en aguas continentales
+
+
+
 
 
 La pesca es competenicia autonómica en aguas interiores

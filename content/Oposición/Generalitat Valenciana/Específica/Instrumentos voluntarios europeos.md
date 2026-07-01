@@ -28,5 +28,5 @@ En España se gestiona mediante el [Real Decreto 234/2013](https://www.boe.es/bu
 
 
 
-El Eco-Management Audit Scheme (EMAS) se regula mediante el Reglamento 1221/2009
+El Esquema de Gestión y Auditoría Medioambientales (EMAS por sus siglas en inglés) se regula mediante el [Reglamento 1221/2009](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02009R1221-20230712)
 

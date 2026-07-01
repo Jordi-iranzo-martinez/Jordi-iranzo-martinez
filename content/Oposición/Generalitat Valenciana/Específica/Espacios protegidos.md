@@ -8,19 +8,21 @@
 12. ***Ley 42/2007: Capítulo III “Espacios protegidos Red Natura 2000” del Título II “Catalogación, conservación y restauración de hábitats y espacios del patrimonio natural”. Ley 11/1994: Título I Disposiciones generales: Capítulo II BIS del Régimen general de los Espacios Protegidos Red Natura 2000, Capítulo V “Efectos de la declaración de Espacios Protegidos Red Natura 2000”; Título II Declaración de Espacios Naturales Protegidos y de Espacios Protegidos Red Natura 2000: Capítulo III “Procedimiento de selección y declaración de Espacios Protegidos Red Natura 2000”; Título III Ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000: Capítulo VI “Normas de gestión de zonas de la Red Natura 2000”. El Régimen especial de evaluación y autorizaciones de afección a la red Natura 2000 (Decreto 60/2012, de 5 de abril, del Consell)****
 
 
+### Patrimonio natural valenciano
+
 La Comunidad Valenciana
 
 
-El medio físico
+El medio físico de la Comunidad Valenciana es (GENERAL)
 
+Las principales características son las siguientes: 
 
+- **Relieve**: resultado del Sistema ibérico (desde el interior de Castellón: Maestrazgo, Els Ports... alcanzando el punto máximo autonómico en el Peñagolosa, de 1.813 m), y el bético (interior y sur de Alicante: Aitana de 1.558 m, Mariola o Bèrnia); con un corredor central de relieve suave, y numerosas llanuras litorales en la costa (Plana de Castellón, la Huerta de Valencia, la Vega Baja del Segura), fértiles, tradicionalmente dedicadas al regadío.
 
-TABLA
+- **Hidrografía**: ríos de tipo mediterráneo, cortos, con una fuerte pendiente y caudal muy irregular, con estiajes severos en verano y crecidas repentinas en otoño. Esta irregularidad —agravada por la "gota fría"— explica tanto sequías como inundaciones históricas, por lo que los acuíferos subterráneos son claves para el regadío. 
 
-aspectos generales como
+	De norte a sur: el *Millars*, el *Túria* (que atravesaba la ciudad de Valencia), el Júcar (el más caudaloso), el *Vinalopó* (casi seco en su tramo bajo) y el Segura, en el extremo sur. L'*Albufera de Valencia* es la mayor laguna litoral de España.
 
-
-Clima geológicas, geomorfológicas, hidrográficas y edafológicas
 
 | Características principales | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -40,6 +42,29 @@ El patrimonio natural
 
 Comunidades vegetales, unidades y series de vegetación principales
 
+|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+se ordena en pisos bioclimáticos, de acuerdo a la altitud:
+
+- **Oromediterráneo** (>1.800 m): matorral de alta cumbre
+- **Supramediterráneo** (1000-1.200 a 1.800 m): quejigares, sabinares, pinares
+- **Mesomediterráneo** (500-1200 m): 
+- **Termomediterráneo** (0-500 m): coscojares, palmito, y pinares.
+
+El patrimonio natural valenciano y sus series de vegetación es un tema amplio que combina biogeografía, bioclimatología y marco normativo. Voy a verificar algunos datos actualizados (marco legal vigente, espacios protegidos, nomenclatura de series) antes de estructurar el contenido completo.
+
+Finalizó diagrama e integró contenido en documento completo
+
+Finalizó diagrama e integró contenido en documento completo
+
+Es un temario extenso — voy a organizarlo en un documento completo, pero antes va un esquema rápido de la idea que articula casi todo lo demás: cómo se ordena la vegetación valenciana según la altitud (los "pisos bioclimáticos").
+
+
+Cada piso alberga una o varias **series de vegetación** (la comunidad clímax y sus etapas de sustitución), a las que se suman las **series edafófilas** —saladares, marjales, riberas, dunas— que dependen más del sustrato que del clima. Te preparo el desarrollo completo del tema, con el marco legal, la biogeografía, las series principales y la red de espacios protegidos, en un documento que puedas guardar y estudiar.
+
+
+![[Pasted image 20260701091529.png]]
 
 
 COMPLETAR
@@ -49,6 +74,9 @@ COMPLETAR
 | Comunidades                   |     |
 | Unidades y series principales |     |
 
+
+
+### Normativa estatal
 
 La norma básica estatal es la [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490)
 
@@ -69,68 +97,285 @@ De acuerdo a las
 
 COMPETENCIAS
 
+### Normativa autonómica
 
 En la Comunidad Valenciana, se regula mediante la [Ley 11/1994](https://dogv.gva.es/auto/dogv/docvpub/rlgv/1994/L_1994_11_ca_L_2016_07.pdf)
 
 
-| Títulos                                                | Contenido                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Disposiciones generales                                | - Principios generales<br>- Régimen de los espacios naturales protegidos<br>- Régimen general de los Espacios Protegidos Red Natura 2000<br>- Protección de otras áreas<br>- Efectos de la declaración de espacio natural protegido<br>- Efectos de la declaración de espacios protegidos Red Natura 2000 |
-| Declaración de espacios protegidos                     | - Procedimiento<br>- Protección preventiva y perimetral<br>- Selección y declaración de espacios Red Natura 2000                                                                                                                                                                                          |
-| Ordenación de recursos naturales y espacios protegidos | - Instrumentos<br>- Planes de ordenación<br>- Planes rectores de uso y gestión<br>- Planes especiales (derogado)<br>- Normas de protección (derogado)<br>- Normas de gestión de zonas Red Natura 2000                                                                                                     |
-| Gestión de espacios naturales protegidos               |                                                                                                                                                                                                                                                                                                           |
-| Infracciones y sanciones                               | - Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                                                                                                                                                                                              |
-| Anexos                                                 | - I. Delimitación del Parque Natural del Marjal de Pego-Oliva                                                                                                                                                                                                                                             |
+2. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: Objeto y finalidad de la ley. Clases de espacios naturales protegidos. Régimen general de los diferentes Espacios Naturales Protegidos. Disposiciones de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, sobre espacios naturales protegidos: Áreas protegidas por instrumentos internacionales.***
+3. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: declaración de Espacios Naturales protegidos y su procedimiento. Efectos de la declaración de espacio natural protegido. Protección preventiva y perimetral.***
+4. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: los parajes naturales municipales. Decreto 15/2016, de regulación de los Parajes Naturales Municipales de la Comunitat Valenciana. Las Zonas Húmedas de la Comunitat Valenciana. El Catálogo de las Zonas Húmedas de la Comunitat Valenciana. Protección de cuevas: el Catálogo de Cuevas de la Comunitat Valenciana.*** 
+5. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000. Instrumentos de ordenación de los recursos naturales y de gestión de Espacios Naturales Protegidos y de los Espacios Protegidos Natura 2000. Órganos de gestión y participación de los espacios naturales protegidos.***
 
 
-Las categorías son las siguientes (artículo 3):
+| Títulos                                                | Contenido                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Disposiciones generales                                | - Principios generales: objeto, finalidad<br>- **Clases de espacios naturales protegidos**<br>- **Régimen general de los espacios naturales protegidos**<br>- **Régimen general de los Espacios Protegidos Red Natura 2000**<br>- **Protección de otras áreas**<br>- **Efectos de la declaración de espacio natural protegido**<br>- **Efectos de la declaración de espacios protegidos Red Natura 2000** |
+| Declaración de espacios protegidos                     | - Procedimiento<br>- **Protección preventiva y perimetral**<br>- Selección y declaración de espacios Red Natura 2000                                                                                                                                                                                                                                                                                      |
+| Ordenación de recursos naturales y espacios protegidos | - Instrumentos<br>- Planes de ordenación<br>- Planes rectores de uso y gestión<br>- Planes especiales (derogado)<br>- Normas de protección (derogado)<br>- Normas de gestión de zonas Red Natura 2000                                                                                                                                                                                                     |
+| Gestión de espacios naturales protegidos               |                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Infracciones y sanciones                               | - Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                                                                                                                                                                                                                                                                                              |
+| Anexos                                                 | - I. Delimitación del Parque Natural del Marjal de Pego-Oliva                                                                                                                                                                                                                                                                                                                                             |
 
-- **Parques naturales**: 
+El objeto (artículo 1) es el establecimiento del régimen de los espacios naturales protegidos (incluida la Red Natura 2000): áreas o hitos geográficos que se consideren merecedores de protección especial por contener elementos o sistemas naturales de particular valor, interés o singularidad (naturales y antrópicos). (*Los espacios naturales declarados por ley de les Corts se regirán por su norma específica.*)
 
-- **Reservas naturales**: 
+Esto se realiza para una finalidad (artículo 2) de protección, conservación, restauración, mejora, y uso sostenible: ecosistemas, procesos, recursos naturales, biodiversidad, paisajes, valores científicos y culturales, uso social (estudio, enseñanza, disfrute).
 
-- **Monumentos naturales**: 
+Las clases de espacios naturales protegidos son las siguientes (artículo 3):
 
-- **Paisajes protegidos**: 
+| Ámbito                           | Clasificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Autonómico                       | - Parques naturales<br>- Reservas naturales<br>- Monumentos naturales<br>- Paisajes protegidos<br>- Parajes naturales municipales<br>- Zonas húmedas catalogadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Comunitario<br>(Red Natura 2000) | - Lugares de Importancia Comunitaria (LIC)<br>- Zonas Especiales de Conservación (ZEC)<br>- Zonas de Especial Protección para las Aves (ZEPA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Otras áreas                      | - Zonas Húmedas<br>- Cuevas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Internacional                    | - Humedales de Importancia Internacional (Convenio de Ramsar)<br><br>- Sitios naturales de la Lista del Patrimonio Mundial (Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural)<br><br>- Áreas protegidas del Convenio OSPAR (Convenio para la protección del medio ambiente marino del Atlántico del nordeste)<br><br>- Zonas Especialmente Protegidas de Importancia para el Mediterráneo (ZEPIM) (Protocolo de Barcelona del Convenio para la protección del medio marino y de la región costera del Mediterráneo)<br><br>- Geoparques (declarados por la UNESCO)<br>- Reservas de la Biosfera (declaradas por la UNESCO)<br>- Reservas biogenéticas (del Consejo de Europa) |
 
-- **Parajes naturales municipales**: 
+*Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría. Las áreas protegidas por instrumentos internacionales aparecen en el [artículo 50 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a50).
 
-- **Zonas húmedas catalogadas**: 
 
+- **Parques Naturales**: representatividad ecológica, singularidad biológica o geomorfológica, paisajes... con valores extraordinarios (ecología, ciencia, educación, cultura, estética) que ameritan su integración en redes supraautonómicas (nacionales, internacionales). Las actividades se orientarán a los usos tradicionales (agricultura, ganadería, silvicultura), el aprovechamiento sostenible de los recursos, y el uso ordenado.
+
+- **Parajes naturales municipales**: valores naturales de interés local
+
+- **Reservas naturales**: preservación íntegra de ecosistemas, comunidades o elementos (biológicos o geomorfológicos) de la influencia humana, por su rareza, fragilidad, importancia o singularidad
+
+- **Monumentos naturales**: espacios o elementos de la naturaleza (incluidas las formaciones geomorfológicas y yacimientos paleontológicos), de notoria singularidad, rareza o belleza, con valores científicos, culturales o paisajísticos. No se admitirá ningún uso o actividad (ni las tradicionales que supongan un riesgo a la conservación de sus valores declarados).
+
+- **Paisajes protegidos**: por una relación armoniosa de las actividades humanas y el medio natural, o por sus valores estéticos o culturales. La protección se realizará a la conservación de las relaciones y procesos (naturales, socioeconómicos), que han contribuido a su mantenimiento y formación. Se contabilizará el desarrollo de actividades rurales tradicionales con el uso social (estudio, enseñanza, y disfrute ordenado de sus valores).
+
+- **Zonas de especial protección para las aves** (ZEPA): para la conservación de las especies de aves (Anexo IV de la Ley 42/2007), y de las migratorias regulares. 
+
+- **Lugares de Importancia Comunitaria** (LIC): contribuyen al mantenimiento o restablecimiento del estado de conservación favorable de los tipos de hábitats naturales y los hábitat de las especies de interés comunitario (Anexos I y II de la Ley 42/2007, respectivamente).
+
+- **Zonas de Especial Conservación** (ZEC): lugares de importancia comunitaria que han sido ordenados mediante un instrumento de gestión específico.
+
+
+
+El régimen jurídico (capítulo II y II bis) incluye el siguiente: 
+
+| Clase                         | Regulaciones de actividades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Parques Naturales             | - Usos tradicionales (agricultura, ganadería, silvicultura) , <br>- Aprovechamiento sostenible de recursos<br>- Uso ordenado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Parajes naturales municipales | - Usos y actividades compatibles (no uso urbanístico)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Reservas naturales            | - Restricción de usos y aprovechamientos (posible)<br>- Limitación de la explotación de recursos (salvo los considerados compatibles con la conservación)<br>- Prohibición general de la recolección de materiales (biológico, geológico) (salvo autorización expresa por educación o investigación)                                                                                                                                                                                                                                                                                                                           |
+| Monumentos naturales          | - Usos o actividades que amenacen los valores (ni tradicionales)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Paisajes protegidos           | - Actividades rurales tradicionales y uso social (estudio, enseñanza, y disfrute ordenado de sus valores)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Sitios de la Red Natura 2000  | - Medidas de conservación (ZEC, ZEPA): reglamentarias, administrativas, contractuales (capítulo VI del título III de la Ley 11/1994), normas de gestión (objetivos de conservación, mantenimiento o restablecimiento en un estado de conservación favorable...)<br><br>- Medidas para evitar el deterioro (LIC, ZEC, ZEPA): para los hábitats y las especies, en especial en las normas de gestión.<br><br>- Evaluación ambiental y compensatorias (LIC, ZEC, ZEPA): evaluación y autorización de planes, programas y proyectos, y medidas compensatorias<br><br>- Protección preventiva (LIC) (hasta su declaración como ZEC) |
+
+*La orientación a los usos tradicionales agrícolas en los espacios protegidos y su determinación se realizarán en colaboración con la administración agraria y se recogerán en el correspondiente instrumento de ordenación ambiental.*
+
+La Generalitat favorecerá la conservación de corredores ecológicos y la gestión de los elementos del paisaje y áreas territoriales que resulten esenciales o revistan importancia para la migración, distribución geográfica, y el intercambio genético entre poblaciones (en especial a través de las normas de gestión de cada espacio).
+
+Los declaración de un espacio protegido conllevará de manera general los siguientes efectos (capítulo IV de la Ley 11/1994) 
+
+| Tipo            | Efectos                                                                                                                                                                                                                     |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General         | - Utilidad pública e interés social (incluida para expropiación)<br>- Derechos de tanteo y retracto (artículo 19)<br>- Servidumbre de instalación de señales<br>- Uso de bienes (Ley 11/1994, e instrumentos de ordenación) |
+| Red Natura 2000 | - Servidumbre de instalación de señales (artículo 23)<br>- Utilización de bienes comprendidos (artículo 20; capítulo VI del título III...)                                                                                  |
+
+Los derechos de tanteo y retracto (artículo 19) supone la preferencia de adquisición para la Administración en las transmisiones entre personas de bienes inmuebles (salvo en uso urbano) ("tanteo") (plazo de 3 meses), y también la sustitución a la persona compradora después de la venta ("retracto") -normalmente si no se le ha realizado la notificación previa para el tanteo-, en ambos casos con las mismas condiciones que para la persona privada.
+
+La servidumbre de instalación de señales (artículo 23) será forzosa, realizada por la Conselleria de medio ambiente (previa audiencia a las personas interesadas), incluyendo para el paso (instalación), y acceso (conservación, mantenimiento, reposición), con indemnizaciones ([Ley de Expropiación Forzosa](https://www.boe.es/buscar/act.php?id=BOE-A-1954-15431)).
+
+El Consell podrá declarar áreas de influencia socioeconómica para los términos municipales a los que afecte un espacio natural protegido, para contribuir a su protección. La Generalitat prestará 
+
+
+Para los sitios de la Red Natura 2000 comprenderán además los siguientes (capítulo V de la Ley 11/1994):
+
+El procedimiento de declaración de espacios protegidos es el siguiente: 
+
+1. **Iniciativa**: Conselleria de medio ambiente (de oficio o a solicitud de personas o entidades)
+
+	*En los parajes naturales municipales, elevará al Consell las propuestas de los municipios junto con su informe (plazo de 3 meses)*
+
+2. **Tramitación**: proyecto de declaración por la Conselleria de medio ambiente, incluyendo delimitación (área de protección perimetral, en su caso), categoría, régimen de protección preventiva, y otras determinaciones.
+
+3. **Participación**: información pública (1 mes) y audiencia a las corporaciones locales, entidades y asociaciones que representen los intereses afectados...
+
+4. **Propuesta de declaración**: por la Conselleria de medio ambiente, para el Consell
+
+5. **Declaración**: por Decreto del Consell, incluyendo las normas de protección, y de ordenación de usos y actividades con aplicación inmediata.
+
+La protección preventiva y perimetral 
+
+
+
+CAPÍTULO II. Protección preventiva y perimetral
+Artículo 28. Régimen de protección preventiva
+13. La iniciación del expediente de declaración de un espacio natural protegido y la iniciación
+del procedimiento para la elaboración de alguno de los instrumentos de ordenación de espacios
+naturales previstos en esta ley, determinará la aplicación, por ministerio de la ley, de todas o
+alguna de las siguientes medidas cautelares:
+9 Añadido por el artículo 61 de la Ley 16/2010, de 27 de diciembre.
+10 Nueva redacción al enunciado dada por el artículo 62 de la Ley 16/2010, de 27 de diciembre.
+11 Redacción dada por el artículo 70 de la Ley 16/2010, de 27 de diciembre.Ley 11/199410 de 25
+a) Prohibición de realizar actos que supongan una transformación sensible de la realidad
+física y biológica o hayan de dificultar o imposibilitar la consecución de los objetivos de la decla-
+ración de espacio natural protegido.
+b) Suspensión del otorgamiento de licencias municipales para las clases de actos que se
+especifiquen por entenderlos incluidos en el párrafo a) anterior.
+c) Suspensión del otorgamiento de autorizaciones de aprovechamientos forestales y cinegé-
+ticos, así como de roturación y puesta en cultivo o transformación del mismo.
+d) Suspensión del otorgamiento de permisos y concesiones mineras.
+e) Paralización de explotaciones de recursos naturales en curso, de acuerdo con la legisla-
+ción específica aplicable en cada caso.
+f) Suspensión de la tramitación del planeamiento urbanístico con incidencia sobre los valo-
+res naturales objeto de protección.
+14. La determinación de la forma en que las medidas cautelares previstas en el párrafo ante-
+rior deben aplicarse en cada caso se realizará mediante acuerdo del Gobierno valenciano, a
+propuesta de la Conselleria de Medio Ambiente. En cualquier caso, la prohibición establecida
+en el apartado a) del párrafo 1 de este artículo tendrá carácter automático con la iniciación del
+expediente de declaración de espacio o aprobación de instrumentos de ordenación ambiental.
+15. El establecimiento de medidas cautelares podrá realizarse en cualquier momento a partir
+de la iniciación del expediente de declaración de espacio natural protegido o durante el proce-
+dimiento de elaboración de los instrumentos de ordenación previstos en esta ley.
+16. Las medidas cautelares previstas en este artículo tendrán una vigencia máxima de tres
+años.
+17. La iniciación del expediente de aprobación de un plan de ordenación de los recursos na-
+turales determinará automáticamente la exigencia de informe favorable de la Conselleria de
+Medio Ambiente para el otorgamiento de cualquier autorización, licencia o concesión que habili-
+te para realizar actos de transformación de la realidad física o biológica en el ámbito del plan.
+Reglamentariamente podrán establecerse los casos en que dicho informe deba sustituirse por
+una evaluación del impacto ambiental.
+Artículo 29. Áreas de amortiguación de impactos
+18. La declaración de espacio natural protegido podrá incluir la delimitación de áreas de
+amortiguación de impactos en las que se aplicarán medidas específicas destinadas a evitar
+impactos negativos sobre los espacios protegidos.
+19. El establecimiento o alteración de la delimitación de áreas de amortiguación de impactos
+y el régimen de protección aplicable en las mismas podrá asimismo llevarse a cabo en los ins-
+trumentos de ordenación del espacio protegido sin que tenga la consideración de modificación
+de la declaración de espacio natural protegido.
+20. El régimen de protección aplicable en estas áreas estará constituido por la regulación de
+usos y actividades que se establezca o la exigencia de evaluación de impacto ambiental o in-
+forme vinculante del órgano gestor del espacio protegido.
+21. La delimitación de las areas de amortiguación de impactos se basará en criterios geográ-
+ficos, fisiográficos, ecológicos o funcionales y podrá tener carácter discontinuo.
+
+
+Respecto a los espacios Red Natura 2000 (capítulo III),  
+
+| Sitio   | Procedimiento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LIC/ZEC | 1. **Propuesta inicial de LIC**: por la Conselleria de medio ambiente, de acuerdo a los criterios concretos (Anexo III de la Ley 42/2007), y a la información científica pertinente, indicando tipos de hábitats naturales y especies de interés comunitario objeto de conseración<br><br>2. **Información pública**<br><br>3. **Aprobación**: por el Consell<br><br>4. **Remisión estatal**: al titular del Ministerio de medio ambiente<br>5. **Proposición comunitaria**: a la Comisión Europea<br>6. **Publicación** (de la propuesta enviada): en el Diari Oficial de la Comunitat Valenciana, <br>en el plazo máximo de seis meses, incluyendo sus límites geográficos, los hábitats y especies (también los prioritarios), y el régimen preventivo).<br><br>7. **Aceptación**: por la Comisión Europea<br>8. **Conversión a ZEC**: por la Generalitat Valenciana, lo antes posible y como máximo antes de 6 años (junto con el instrumento de gestión) |
+| ZEPA    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+
+
+por los que se declara, los hábitats y especies prioritarios en él presentes y el régimen preventivo que se les aplicará.
+4. Una vez incluido el lugar en la lista oficial de lugares de importancia comunitaria por la
+Comisión Europea, será declarado por la Generalitat, lo antes posible y como máximo en un
+plazo de seis años, zona especial de conservación, junto con la aprobación del correspondiente
+instrumento de gestión, siguiendo el procedimiento establecido en el artículo siguiente.
+Artículo 29 ter. Declaración de zonas especiales de conservación y zonas de especial
+protección para las aves
+5. La declaración de zonas especiales de conservación y de zonas de especial protección
+para las aves se realizará mediante decreto del Consell.
+6. El procedimiento para la declaración de las mencionadas zonas se iniciará mediante or-
+den de la conselleria competente en materia de medio ambiente.
+7. Iniciado el procedimiento, dicha consellería elaborará un proyecto de decreto de declara-
+ción, en el que se incluirá la delimitación gráfica del espacio protegido Red Natura 2000, una
+ficha descriptiva del espacio y los hábitats y especies que motivan su declaración, y una pro-
+puesta de normas de gestión, las cuales se redactarán de conformidad con lo establecido en el
+artículo 47 ter de la presente ley.
+8. El proyecto de declaración del espacio y de aprobación de sus normas de gestión será
+sometido, por el plazo mínimo de cuarenta y cinco días, a los trámites de información pública y
+de audiencia a las corporaciones locales, entidades y asociaciones que ejerzan la representa-
+ción de los intereses afectados por la declaración, sin perjuicio de otras formas y medios de
+participación ciudadana que puedan plantearse.
+9. A la vista de las observaciones y alegaciones recibidas durante el período de información
+pública y audiencia, la conselleria competente en materia de medio ambiente elevará al Consell
+la correspondiente propuesta de declaración mediante decreto, previo dictamen del Consejo
+Asesor y de Participación de Medio Ambiente de la Comunitat Valenciana.
+10. La publicación del decreto en el Diari Oficial de la Comunitat Valenciana expresará la in-
+formación mencionada en el apartado 3 de este artículo.
+Artículo 29 quáter. Zonas periféricas
+Podrán establecerse zonas periféricas en la totalidad o en parte del entorno territorial inme-
+diato de las zonas especiales de conservación y de las zonas de especial protección para las
+aves al objeto de evitar o minimizar los impactos ambientales negativos, procedentes del exte-
+rior, sobre los hábitats y especies que han motivado su declaración. La concreción de la delimi-
+tación y el régimen jurídico aplicable a estas zonas, que consistirá cómo mínimo en la aplica-
+ción del régimen de evaluación y autorización previsto en el artículo 14 quinquies, podrá esta-
+blecerse en las normas de declaración de las mismas o en las normas de gestión reguladas en
+el capítulo VI del título III de esta ley
+- 
+
+
+1. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: declaración de Espacios Naturales protegidos y su procedimiento. Efectos de la declaración de espacio natural protegido. Protección preventiva y perimetral.***
+2. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: los parajes naturales municipales. Decreto 15/2016, de regulación de los Parajes Naturales Municipales de la Comunitat Valenciana. Las Zonas Húmedas de la Comunitat Valenciana. El Catálogo de las Zonas Húmedas de la Comunitat Valenciana. Protección de cuevas: el Catálogo de Cuevas de la Comunitat Valenciana.*** 
+3. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000. Instrumentos de ordenación de los recursos naturales y de gestión de Espacios Naturales Protegidos y de los Espacios Protegidos Natura 2000. Órganos de gestión y participación de los espacios naturales protegidos.
+
+
+
+### Parajes Naturales Municipales
 
 
 El [Decreto 15/2016](https://mediambient.gva.es/documents/92720197/93837455/Decreto15-2016_+de_Regulacion_de_los_PNM_de_la_CV.pdf/0163a513-e51a-48dd-a956-cc341107d5ae) regula los Parajes Naturales Municipales de la Comunitat Valenciana, pertenecientes a uno o varios municipios, declarados por el Consell por sus valores (ecología, geología, paisaje, cultura...), entidad, y transcendencia local, o potencialidades para uso público.
 
+Se realizan para conservar y potenciar los valores, así como gestionarlos de manera sostenible y hacer un uso público del entorno. 
 
-Las Zonas Húmedas de la Comunitat Valenciana
+La iniciativa es de los Ayuntamientos interesados, dirigiendo a la Conselleria competente la siguiente documentación: 
+
+- **Acuerdo plenario**: solicitud expresa de declaración, manifestación de gestionarlo (Ley 11/1994, Decreto 15/2016), denominación, extensión (hectáreas), cartografía, exposición de motivos.
+
+- **Memoria justificativa** (documento técnico): denominación, localización geográfica, delimitación y plano parcelario (en papel y formato digital, con referencia catastral), méritos y potencialidades de uso, descripción general (medio físico, territorio, estructura administrativa, socioeconomía), impactos o factores de riesgo (actuales o potenciales), tratamiento en el planeamiento urbanístico, régimen de titularidad, y mecanismos de gestión y de financiación.
+
+*Si afecta a varios municipios, todos los Ayuntamientos deberán presentar simultáneamente sus acuerdos plenarios (donde designarán cada uno de ellos como representantes y el mecanismo de coordinación interadministrativa), y una única memoria justificativa (elaborada conjuntamente), donde se describan los valores e indiquen los mecanismos de coordinación.*
+
+La conselleria competente en materia de medio ambiente prestará soporte técnico a los ayuntamientos para la elaboración de la memoria justificativa del paraje natural municipal. En caso necesario, si los ayuntamientos no disponen de medios materiales suficientes, dicha Conselleria podrá asumir la elaboración técnica del citado documento en colaboración con aquellos.
 
 
-El [Catálogo de las Zonas Húmedas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-zonas-humedas), aprobado por el [Acuerdo de 10 de septiembre de 2002](https://dogv.gva.es/datos/2002/09/16/pdf/2002_A9833.pdf), comprenden 55 espacios, 48 originales y 7 ampliados:
+### Humedales
+
+Las Zonas Húmedas de la Comunitat Valenciana corresponden a marismas, marjales, turberas, o aguas rasas (permanentes o temporales, estancadas o corrientes, naturales o artificiales, dulces, salobres o salinas) y equivalentes (artículo 15 de la Ley 11/1994) ([ver en visor](https://visor.gva.es/visor/index.html?extension=422554,4148174,1017267,4564725&capasids=Orto_Actual;,Espacios_Protegidos;14,Espacios_Protegidos;13&tcapas=1.0,1.0,1.0&idioma=es)). 
+
+Deberán ser protegidas de actividades que puedan reducirlas o degradarlas, por lo que los terrenos se incluirán como suelo no urbanizable de especial protección ([Decreto Legislativo 1/2021](https://www.boe.es/buscar/act.php?id=DOGV-r-2021-90283): LOTUP), aún tras su desecación. Las instalaciones de actividades consolidadas con influencia en la calidad de las aguas adecuarán sus vertidos a criterios de calidad de la Conselleria de medio ambiente.
+
+El Consell (a propuesta de la Conselleria de medio ambiente) aprobará el [Catálogo de las Zonas Húmedas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-zonas-humedas) por Acuerdo ([Acuerdo de 10 de septiembre de 2002](https://dogv.gva.es/datos/2002/09/16/pdf/2002_A9833.pdf)), en el que se incluya su delimitación (zonas, cuencas con precauciones especiales), para su conservación, y regulación de la planificación hidrológica necesidades y requisitos de restauración y conservación).
+
+En la actualidad comprenden 55 espacios, 48 originales ([Acuerdo de 10 de septiembre de 2002](http://www.docv.gva.es/datos/2002/09/16/pdf/2002_A9833.pdf)) y 7 ampliados ([Acuerdo de 20 de mayo de 2022](https://dogv.gva.es/datos/2022/06/02/pdf/2022_5079.pdf)):
 
 |            | Humedales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Inicial    | 1. Marjal de Peñíscola<br>2. Parque Natural del Prat de Cabanes<br>3. Marjal de Nules-Burriana<br>4. Marjal i Estany d’Almenara<br>5. Marjal dels Moros<br>6. Marjal de Rafalell y Vistabella<br>7. Parque Natural de l’Albufera de València<br>8. Marjal i Estany de la Ribera Sud del Xúquer<br>9. Marjal de la Safor<br>10. Parque Natural de la Marjal de Pego-Oliva<br>11. Els Bassars-Clot de Galvany<br>12. Parque Natural del Fondo d’Elx<br>13. Els Carrissars d’Elx<br>14. El Hondo de Amorós<br>15. Desembocadura del Riu de la Sénia<br>16. Desembocadura del Riu de les Coves<br>17. Desembocadura del Millars<br>18. Clot de la Mare de Déu<br>19. Desembocadura y Frente Litoral del Xúquer<br>20. Desembocadura del Riu Xeraco<br>21. Desembocadura del Riu Bullents<br>22. Desembocadura y Frente Litoral del Riu Racons<br>23. Desembocadura del Riu de l’Algar<br>24. Desembocadura y Frente Litoral del Segura<br>25. Meandros Abandonados del Río Segura Meandro La Noria (Algorfa, La Jacarilla)<br>26. El Barchell<br>27. Nacimiento del Riu Verd<br>28. Ullal de l’Estany del Duc<br>29. Font dels Sants<br>30. Fonts de l’Algar<br>31. Dehesa de Soneja<br>32. Lagunas de Segorbe<br>33. Lavajos de Sinarcas<br>34. Laguna de San Benito<br>35. Laguna y Saleros de Villena<br>36. Laguna de Salinas<br>37. Salines de Calp<br>38. Saladar d’Aigua Amarga<br>39. Parque Natural de Las Salinas de Santa Pola<br>40. Parque Natural de Las Lagunas de La Mata-Torrevieja<br>41. Balsa de Chóvar<br>42. Embalse de Embarcaderos<br>43. Embalse de la Vallessa<br>44. Embalse del Bosquet de Moixent<br>45. Embalse de Relleu<br>46. Embalse de Tibi<br>47. Embalse de Elda<br>48. Embalse d’Elx |
 | Ampliación | 49. Albufera de Gaianes, en los términos municipales de Gaianes y Alcocer de Planes (Alicante).<br>50. Embalse de la Pedrera<br>51. Conjunto de El Prado-Rodriguillo<br>52. Laguna de Sant Mateu<br>53. El Quadre de Santiago<br>54. Laguna temporal del Rebalsado<br>55. Desembocadura del Rio Monnegre o Rio Seco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-Los 48 iniciales fueron incluidos en el Inventario Español de Zonas Húmedas (IEZH) ([resolución de 9 de marzo de 2011](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5372)).
-
-También se han incluido en la Lista Ramsar Ría los humedales de Villaviciosa, Lagunas de Campotejar, Lagunas de las Moreras, Saladas de Sástago-Bujaraloz y Tremedales de Orihuela ([resolución de 25 de enero de 2011](http://www.boe.es/boe/dias/2011/02/04/pdfs/BOE-A-2011-2102.pdf))
+Los 48 iniciales fueron incluidos en el Inventario Español de Zonas Húmedas (IEZH) ([resolución de 9 de marzo de 2011](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5372)). De los 76 humedales españoles en la Lista Ramsar ([ver la ficha de España en la Convención](https://rsis.ramsar.org/?__goaway_challenge=meta-refresh&__goaway_id=b3950cd2625d89514d4df8e003feaf00&__goaway_referer=https%3A%2F%2Fwww.ecosia.org%2F&f[0]=country_en_s%3ASpain&language=en)), XXXX se encuentran en la Comunidad Valenciana:  *L'Albufera de Valencia*, las [Salinas de Santa Pola](https://rsis.ramsar.org/ris/457), [El Hondo](https://rsis.ramsar.org/ris/455), Prat de Cabanes-Torreblanca, y la Marjal de Pego-Oliva.
 
 
-Las protección de las cuevas se ha regulado por el artículo 16 de la Ley 11/1994, desarrollado por el [Decreto 65/2006](https://dogv.gva.es/datos/2006/05/18/pdf/2006_X5697.pdf)
+También se han incluido en la Lista Ramsar algunos de ellos, como Ría los humedales de Villaviciosa, Lagunas de Campotejar, Lagunas de las Moreras, Saladas de Sástago-Bujaraloz y Tremedales de Orihuela ([Resolución de 25 de enero de 2011](http://www.boe.es/boe/dias/2011/02/04/pdfs/BOE-A-2011-2102.pdf)):  (en la Lista Ramsar aparecen más: ver ficha del Convenio)
 
-| Capítulos               | Contenido                                                                                                                                               |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Disposiciones generales | - Objeto y fines<br>- Regímenes de protecci                                                                                                             |
-| Régimen general         | - Protección general<br>- Autorizaciones<br>- Descubrimientos fortuitos<br>- Régimen de Evaluación de Impacto Ambiental<br>- Glosario de térmi          |
-| Régimen especial        | - Catálogo de Cuevas de la Comunitat Valenciana<br>- Zonas perimetrales de protección<br>- Afección a la Red Natura                                     |
-| Régimen sancionador                                                                                                                                                               |
-| Anexos              - I. Cuevas del Catálogo<br>- II. Cartografía<br>- III. Criterios de selección de las cuevas del Catálogo<br>- IV. Ficha de cavidades<br>- V. Glosario - VI.  |
+València es la única ciudad de España con el certificado Ciudad Humedal del Convenio de Ramsar, por la gestión de *l'Albufera de València*.
 
-El [Catálogo de Cuevas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-cuevas) incluye 133 con el [visor](https://visor.gva.es/visor/?extension=266612,4141882,1164192,4594245&capasids=Orto_Actual;,Espacios_Protegidos;1&tcapas=1.0,1.0).
 
-GRÁFICA
+### Cuevas
 
-Los criterios de selección incluyen los siguientes (Anexo III): 
+De manera general, se protegen las cuevas, simas, y cavidades subterráneas de la Comunidad Valenciana (artículo 16 de la Ley 11/1994). Se prohíbe toda alteración o destrucción de sus características físicas, la extracción no autorizada de cualquier clase de materiales naturales o artificiales de su interior y la introducción de desechos y objetos que pudieran alterar sus condiciones ecológicas.
+
+La autorización para la realización de actividades en cuevas corresponderá a los organismos que en cada caso resulten competentes en función de los valores a proteger.
+
+El Consell aprobará un catálogo, en el que se identificarán y localizarán las existentes, así como el régimen aplicable a cada una de ellas. Esto se ha realizado por el [Decreto 65/2006](https://dogv.gva.es/datos/2006/05/18/pdf/2006_X5697.pdf):
+
+| Capítulos               | Contenido                                                                                                                                                          |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Disposiciones generales | - Objeto y fines<br>- Regímenes de protecci                                                                                                                        |
+| Régimen general         | - Protección general<br>- Autorizaciones<br>- Descubrimientos fortuitos<br>- Régimen de Evaluación de Impacto Ambiental<br>- Glosario de términos                  |
+| Régimen especial        | - Catálogo de Cuevas de la Comunitat Valenciana<br>- Zonas perimetrales de protección<br>- Afección a la Red Natura                                                |
+| Régimen sancionador     |                                                                                                                                                                    |
+| Anexos                  | - I. Cuevas del Catálogo<br>- II. Cartografía<br>- III. Criterios de selección de las cuevas del Catálogo<br>- IV. Ficha de cavidades<br>- V. Glosario de términos |
+
+El [Catálogo de Cuevas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-cuevas) (Anexo I) incluye 133 (ver con el [visor](https://visor.gva.es/visor/?extension=266612,4141882,1164192,4594245&capasids=Orto_Actual;,Espacios_Protegidos;1&tcapas=1.0,1.0)):
+
+| Provincias | Cuevas catalogadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Castellón  | 1. Cova de la Balma (Zorita del Maestrazgo)<br>2. Cova de la Puntassa (la Pobla de Benifassà)<br>3. Cova de la Mestra (la Pobla de Benifassà)<br>4. Cova dels Encenalls (Sant Mateu)<br>5. Cova de Cantallops (Ares del Maestre)<br>6. Cova del Molinar (Xert)<br>7. Avenc del Pla de Litrago (Càlig)<br>8. Sistema del Tossal de la Font (Vilafamés)<br>9. Cova Obscura (Atzeneta del Maestrat)<br>10. Cova del Mas d’Abat (les Coves de Vinromà)<br>11. Forat d’en Ferràs (Orpesa)<br>12. Avenc de l’Indi (Orpesa)<br>13. Avenc de Bellver (Orpesa)<br>14. Avenc d’en Serengue (Cabanes)<br>15. Avenc d’en Sòria (Cabanes)<br>16. Ullal de Miravet (Cabanes)<br>17. Cova Santa (Sierra Engarcerán)<br>18. Cova de l’Ocre (Lucena del Cid)<br>19. Cova de les Meravelles (Castelló de la Plana)<br>20. Cueva Cerdaña (Pina de Montalgrao)<br>21. Cueva Negra (Montanejos)<br>22. Cueva de Cirat (Montán)<br>23. Avenc del Turio (Fanzara)<br>24. Sima de la Higuera (Caudiel)<br>25. Sima de la Pinosa (Fuente la Reina)<br>26. Cova del Toro (Alcudia de Veo)<br>27. La Covatilla (Aín)<br>28. Cova de l’Ereta (Aín)<br>29. Cova de l’Ondera (Aín)<br>30. Cova Matilde (Eslida)<br>31. Mina Virgen del Amparo (Artana)<br>32. Los Ojos del Prao (Viver)<br>33. Cova Santa (Altura)<br>34. Coves de Sant Josep (la Vall d’Uixó)<br>35. Forat del Falcó (Xodos)<br>36. Sima Posos (Azuébar)<br>37. Molí de la Font (Castelló de la Plana)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Valencia   | 38. Cueva del Nacimiento (Castielfabib)<br>39. Cueva de la Fuente de la Plata (Castielfabib)<br>40. Sima de la Loma / Cueva del Frontón (Castielfabib)<br>41. Túnel d’Arguines (Alfara de Algimia)<br>42. Cova del Cavall (Olocau)<br>43. Cova del Sardiner (Sagunt)<br>44. Cova Soterranya (Serra)<br>45. Sima del Puntal de Mateu (Nàquera)<br>46. Cova del Gall (Godella)<br>47. Pozo del Moro (Camporrobles)<br>48. Sima del Higueral (Gestalgar)<br>49. Sima Colomera (Bugarra)<br>50. Conjunt de cavitats de Las Pedrizas (Vilamarxant)<br>51. Sima de las Palomas (Chiva)<br>52. Cueva del Barranco Hondo (Cheste)<br>53. Túnel de Carcalín (Buñol)<br>54. Sima del Alto de Don Pedro (Macastre)<br>55. Cueva de la Pedriza (Requena)<br>56. Cueva del Crisuel (Requena)<br>57. Sima de l’Àguila (Picassent)<br>58. Cova de les Meravelles (Llombai)<br>59. Cueva de las Maravillas (Dos Aguas)<br>60. Cueva Dones (Millares)<br>61. Cueva de los Arroces (Quesa)<br>62. Cova de la Moneda (Cotes)<br>63. Cova de les Graelles (Tous)<br>64. Sima del Campillo (Tous)<br>65. Sima de la Llenca del Serrano (Tous)<br>66. Cueva del Tortero (Tous)<br>67. Cova del Dragut (Cullera)<br>68. Cova de les Meravelles (Alzira)<br>69. Cova Blanca (Corbera)<br>70. Cova de les Ratetes (Corbera)<br>71. Cova de l’Aigua (Carcaixent-Simat de la Valldigna)<br>72. Sima del Toro (Simat de la Valldigna)<br>73. Cova de Planxa (Simat de la Valldigna)<br>74. Cova del Bolomor (Tavernes de la Valldigna)<br>75. Cova dels Orgues (Gandia)<br>76. Cova Xurra (Gandia)<br>77. Cova de l’Autopista (Real de Gandia)<br>78. Avenc de la Donzella (Barx)<br>79. Sima Pilar (Barx)<br>80. Sima Pablo Puchol (Barx)<br>81. Sima Aldaia (Barx)<br>82. Avenc del Simarró (Barx)<br>83. Cova de les Rates Penades (Rótova)<br>84. Avenc de Quatretonda (Quatretonda)<br>85. Cova de l’Aigua (Quatretonda)<br>86. Sima Sancho (Pinet)<br>87. Avenc Llengua de Cérvol (Villalonga)<br>88. Sima Blanca (la Font d’en Carròs)<br>89. Túnel dels Sumidors (Vallada)<br>90. Cova dels Mosseguellos (Vallada)<br>91. Sima del Castell-Sima Torres (Moixent)<br>92. Cova Pates (Moixent)<br>93. Sima de la Caseta de Damiano (Moixent)<br>94. Cova Santa (la Font de la Figuera)<br>95. Túnel de Canals (Canals)<br>96. Cavidades de la Hoya de Agrás (Cofrentes)<br>97. Cueva Hermosa y Cueva del Alba (Cortes de Pallás)<br>98. Cueva de Don Juan (Jalance)<br>99. Cueva del Lago (Ayora)<br>100. Cueva Negra (Ayora)<br>101. Cova de la Sarsa (Bocairent)<br>102. Cova de l’Alt del Pi (Serra)<br>103. Sima del Palmeral (Pedralba)<br>104. Pla de Simes (Ontinyent)<br>105. Cova del Forat (Barx) |
+| Alicante   | 106. Avenc Ample (Vall de Ebo)<br>107. Avenc del Mig (Vall de Ebo)<br>108. Avenc Estret (Vall de Ebo)<br>109. Cova del Rull (Vall de Ebo)<br>110. Cova de la Punta de Benimàquia (Dénia)<br>111. Cova Tallada (Xàbia)<br>112. Cova del Llop Marí (Xàbia)<br>113. Cova de les Rates Penades (Teulada)<br>114. Cova del Moraig (el Poble Nou de Benitatxell)<br>115. Cova de les Meravelles (Xaló)<br>116. Cova del Bolumini (Beniarbeig)<br>117. Cova de les Calaveres (Benidoleig)<br>118. El Forat (Pedreguer)<br>119. Cova Fosca-Corb-Pedrera (el Verger)<br>120. Cova de les Meravelles (Cocentaina)<br>121. Cova Juliana (Alcoi)<br>122. Avencs de Partagat (Benifato)<br>123. Avenc del Morro de l’Estepar (Facheca)<br>124. Cova del Somo (Castell de Castells)<br>125. Cova dels Vells (Tàrbena)<br>126. Cova dels Morets (Tàrbena)<br>127. Sima de Borreguillos (Salinas)<br>128. Cova del Canelobre (Busot)<br>129. Cueva del Perro (Cox)<br>130. Cova Sant Joan (Pego)<br>131. Cova de l’Andorial (Dénia)<br>132. Cova del Tio Melcior (Castalla)<br>133. Simes del Roset (Xixona)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| ![[Pasted image 20260701181237.png]]       | ![[Pasted image 20260701181241.png]]                |
+| ------------------------------------------ | --------------------------------------------------- |
+| Número de cuevas catalogadas por provincia | Distribución porcentual de las cuevas por provincia |
+
+Los criterios de selección para su inclusión son los siguientes (Anexo III): 
 
 | Tipología     | Criterios                                                                                |
 | ------------- | ---------------------------------------------------------------------------------------- |
@@ -140,6 +385,7 @@ Los criterios de selección incluyen los siguientes (Anexo III):
 | Antrópicos    | Cavidades habilitadas                                                                    |
 
 
+### Red Natura 2000
 
 La Red Natura 2000
 
@@ -149,10 +395,11 @@ Los espacios son los [siguientes](https://www.miteco.gob.es/es/biodiversidad/tem
 
 El [Decreto 60/2012](https://dogv.gva.es/datos/2012/04/10/pdf/2012_3481.pdf) establece el régimen especial de evaluación y autorizaciones de afección a la Red Natura 2000.
 
-| Capítulos                                                                     | Contenido                           |
-| ----------------------------------------------------------------------------- | ----------------------------------- |
-| Disposiciones generales                                                       |                                     |
-| Régimen general                                                               |                                     |
-| Incardinación en otros procedimientos de evaluación                           | - Planes y programas<br>- Proyectos |
-| Procedimiento cuando otros procedimientos de evaluacion no sean<br>aplicables |                                     |
+| Capítulos                                                                                              | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Disposiciones generales                                                                                | - Objeto<br>- Definiciones<br>- Ámbito territorial de aplicación<br>- Ámbito material de aplicación<br>- Órgano competente para realizar la evaluación Red Natura 2000                                                                                                                                                                                                                                                                                                        |
+| Régimen general                                                                                        | - Evaluación de repercusiones: obligación, valoración preliminar, valoraciones preliminares y normas de gestión, estudio de afecciones, declaración de repercusiones, deber de información<br><br>- Aprobación, autorización o conformidad: obligación, excepciones, inexistencia de soluciones alternativas, razones imperiosas de interés público de primer orden, medidas compensatorias, comunicación al órgano gestor sobre la aprobación del plan, programa o proyecto. |
+| Incardinación en otros procedimientos de evaluación                                                    | - Planes y programas: evaluación ambiental (ordinaria y simplificada)<br>- Proyectos: evaluación, impacto, estimación, sólo sometidos por decisión del órgano ambiental                                                                                                                                                                                                                                                                                                       |
+| Procedimiento cuando otros procedimientos de evaluacion no sean<br>aplicables                          | - Planes, programas y proyectos previstos<br>- Procedimiento                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Constatación de la evaluación de repercusiones en grandes proyectos cofinanciados por la Unión Europea | - Constatación del cumplimiento de la obligación de evaluar sus repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la Unión Europea                                                                                                                                                                                                                                                                                                     |
 
