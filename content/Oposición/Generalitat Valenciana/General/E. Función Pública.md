@@ -7,27 +7,67 @@
 
 La Función pública se refiere 
 
+### Estatuto Básico
 
-A escala general el régimen jurídico se basa en la Ley del Estatuto Público del Empleado Público
+A escala general el régimen jurídico se basa en la [Ley del Estatuto Público del Empleado Público](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
 
-| Títulos                                | Contenido                                                                                                                                                                                                                         |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objeto y ámbito de aplicación**      |                                                                                                                                                                                                                                   |
-| **Personal al servicio**               | - Clases de personal<br>- Personal directivo                                                                                                                                                                                      |
-| **Derechos y deberes**                 | - Derechos<br>- Carrera profesional y promoción interna<br>- Retribuciones<br>- Negociación colectiva, representación, participación, reunión<br>- Jornada de trabajo, permisos y vacaciones<br>- Deberes. **Código de conducta** |
-| Adquisición y pérdida                  | - Acceso y adquisición<br>- Pérdida                                                                                                                                                                                               |
-| Ordenación de la actividad profesional | - Planificación de recursos humanos<br>- Estructuración<br>- Puestos de trabajo y movilidad                                                                                                                                       |
-| **Situaciones administrativas**        | - Servicio activo<br>- Servicios especiales<br>- Servicio en otras Administraciones Públicas<br>- Excedencia<br>- Suspensión de funciones                                                                                         |
-| **Régimen disciplinario**              |                                                                                                                                                                                                                                   |
-| Cooperación administrativa             |                                                                                                                                                                                                                                   |
+| Títulos                                | Contenido                                                                                                                                                                                                                                                                                               |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Objeto y ámbito de aplicación**      | - **Objeto**<br>- **Ámbito de aplicación**<br>**- Personal funcionario de las Entidades Locales**<br>**- Personal con legislación específica propia**<br>**- Personal de la Sociedad Estatal Correos y Telégrafos**<br>**- Leyes de Función Pública**<br>**- Normativa aplicable al personal laboral.** |
+| **Personal al servicio**               | **- Clases de personal**<br>**- Personal directivo**                                                                                                                                                                                                                                                    |
+| **Derechos y deberes**                 | **- Derechos**<br>**- Carrera profesional y promoción interna**<br>**- Retribuciones**<br>**- Negociación colectiva, representación, participación, reunión**<br>**- Jornada de trabajo, permisos y vacaciones**<br>**- Deberes. Código de conducta**                                                   |
+| Adquisición y pérdida                  | - Acceso y adquisición<br>- Pérdida                                                                                                                                                                                                                                                                     |
+| Ordenación de la actividad profesional | - Planificación de recursos humanos<br>- Estructuración<br>- Puestos de trabajo y movilidad                                                                                                                                                                                                             |
+| **Situaciones administrativas**        | - Servicio activo<br>- Servicios especiales<br>- Servicio en otras Administraciones Públicas<br>- Excedencia<br>- Suspensión de funciones                                                                                                                                                               |
+| **Régimen disciplinario**              |                                                                                                                                                                                                                                                                                                         |
+| Cooperación administrativa             |                                                                                                                                                                                                                                                                                                         |
 
+
+Los derechos y deberes incluyen los siguientes:
+
+| Tipología                             | Derechos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Individuales                          | - Inmovilidad (funcionarios de carrera)<br>- Desempeño efectivo<br>- Progresión (carrera profesional y promoción interna, según evaluación objetiva)<br>- Retribuciones e indemnizaciones<br>- Participación en objetivos<br>- Defensa jurídica (procedimientos por el ejercicio legítimo de sus funciones o cargos)<br>- Formación continua y actualización permanente<br>- Respeto<br>- No discriminación<br>- Medidas de conciliación<br>- Intimidad digital<br>- Libertad de expresión<br>- Protección laboral<br>- Vacaciones, descansos, permisos y licencias<br>- Jubilación<br>- Prestaciones de la Seguridad Social<br>- Libre asociación profesional<br>- Otros |
+| Individuales ejercidos colectivamente | - Libertad sindical<br>- Negociación colectiva<br>- Huelga<br>- Planteamiento de conflictos colectivos de trabajo<br>- Reunión                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+Y respecto a los deberes:
+
+Los deberes son desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales de acuerdo a la legalidad, y actuar siguiendo a los siguientes principios: objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno (cultural y medioambiental), y respeto a la igualdad (hombres y mujeres).
+
+| Principios éticos                                                                                                                                                                                                                                                                                                                                                                      | Principios de conducta                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Respeto a la legalidad<br>- Intereses generales<br>- Lealtad y buena fe<br>- Derechos fundamentales, sin discriminación<br>- No intereses personales<br>- No conflictos de interés<br>- No tratos de favor o privilegios<br>- Eficacia, economía y eficiencia<br>- No agilización o resolución de trámites o procedimientos<br>- Diligencia<br>- Dedicación<br>- Secreto profesional | - Atención y respeto<br>- Diligencia, cumplimiento jornada y horarios<br>- Obediencia (salvo que sea ilícita)<br>- Información y apoyo a ciudadanos (derechos, obligaciones...)<br>- Austeridad y conservación de recursos y bienes públicos<br>- Rechazo de regalos, favores, servicios...<br>- Conservación documental<br>- Actualización formativa<br>- Seguridad y salud laboral<br>- Consideraciones y propuestas<br>- Comunicación en lenguas oficiales |
+
+
+
+Las situaciones administrativas de los funcionarios de carrera (título VI) incluyen las siguientes: 
+
+- **Servicio activo**: 
+
+- **Servicios especiales**: 
+
+- **Servicio en otras Administraciones Públicas**:
+
+- **Excedencia**:
+
+	Las causas incluyen interés particular, familia (agrupación, cuidado), y violencia de género o sexual, y violencia terrorista.
+	- Voluntaria por interés particular
+	- Voluntaria por agrupación familiar
+	- Por cuidado de familiares: 
+	- Por razón de violencia de género o sexual
+	- Por violencia terrorista: 
+
+
+- **Suspensión de funciones**: 
+
+
+### Función Pública Valenciana
 
 En la Comunidad Valenciana se ha desarrollado a través de la [Ley 4/2021](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2021/L_2021_04_ca_DL_2024_04.pdf)
 
-
 | Títulos                                                                 | Contenido                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Objeto, principios, y ámbito de aplicación**                          |                                                                                                                                                                                                                                                                                            |
+| **Objeto, principios, y ámbito de aplicación**                          | - Objeto<br>- Principios informadores<br>- Ámbito subjetivo de aplicación<br>- Personal con legislación específica<br>- Especificaciones relativas a las previsiones para la aplicación de la presente ley y a la gestión de personas y puestos                                            |
 | Organización                                                            | - Órganos ejecutivos<br>- Otros órganos                                                                                                                                                                                                                                                    |
 | **Personal**                                                            | - Concepto y clases<br>- Dirección Pública Profesional                                                                                                                                                                                                                                     |
 | Estructura y ordenación                                                 | - Estructuración<br>- Ordenación de puestos de trabajo: puestos, relaciones<br>- Instrumentos de planificación y ordenación<br>- Registros de personal                                                                                                                                     |
@@ -39,6 +79,14 @@ En la Comunidad Valenciana se ha desarrollado a través de la [Ley 4/2021](https
 | **Régimen disciplinario**                                               | - Disposiciones generales<br>- Infracciones y sanciones<br>- Procedimiento                                                                                                                                                                                                                 |
 | **Representación, negociación colectiva y participación institucional** | - Representación<br>- Negociación colectiva<br>- Participación institucional y diálogo social                                                                                                                                                                                              |
 | Anexos                                                                  | - I. Cuerpos y escalas<br>- II. Tabla de correspondencias (con la norma anterior)<br>- III. Agrupaciones de puestos de trabajo<br>- IV. Cuerpos, escalas y agrupaciones profesionales funcionariales de la Conselleria de Sanidad<br>- V. Tabla de correspondencias (con la norma anterior |
+
+
+Los órganos incluyen los siguientes:
+
+| Tipología     | Órganos                                                                                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ejecutivos    | - Consell<br>- Conseller/a competente (función pública)<br>- Consell Interdepartamental de Retribucions (CIR)                                                                   |
+| Otros órganos | - Comissió Intersectorial de l’Ocupació Pública de la Generalitat<br>- L’Escola Valenciana d’Administració Pública (EVAP)<br>- Consell Assessor de la Funció Pública Valenciana |
 
 
 | Cuerpos       | Cuerpos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
