@@ -33,9 +33,6 @@ La siguiente vez que acudió, el sonido y el baile le resultaron ajenos. Las muj
 
 Helicón llamó a cada una de ellas tres veces por su nombre, pero las Musas de gloriosa voz no respondieron. Entonces esperó, hasta que Ananké la inexorable apretó su pecho, y el frío entró en su cuerpo. Sus rodillas se doblaron, y se recostó en silencio sobre la blanda hierba, de donde no pudo volver a levantarse.
 
-Cuando la oscuridad comenzó a cubrirle los ojos, las Musas entonaron su lamento, y lágrimas cálidas corrieron por sus bellas mejillas. Conmovida, Gaia, la madre universal, aceptó el cuerpo caído en su amplio seno, antes de que Hermes condujera su alma al tenebroso Hades, que a tantos acoge.
-
-Y es por eso que el monte lleva el nombre de Helicón, y Éupomo no lo visita en vano.
-Cuando la oscuridad comenzó a cubrirle los ojos, las Musas entonaron su lamento, y lágrimas cálidas corrieron por sus bellas mejillas. Conmovida, Gaia la madre universal, acogió el cuerpo caído en su amplio seno, antes de que Hermes condujera su alma al tenebroso Hades, que a tantos acoge.
+Cuando la oscuridad comenzó a cubrirle los ojos, las Musas entonaron su lamento, y lágrimas cálidas corrieron por sus bellas mejillas. Conmovida, Gaia, la madre universal, acogió el cuerpo caído en su amplio seno, antes de que Hermes condujera su alma al tenebroso Hades, que a tantos contiene.
 
 Y es por eso que el monte lleva el nombre de Helicón, y Éupomo no lo visita en vano.
