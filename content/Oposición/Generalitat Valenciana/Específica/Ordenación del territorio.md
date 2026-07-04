@@ -293,6 +293,76 @@ La [Estrategia Territorial de Comunitat Valenciana](https://mediambient.gva.es/e
 | Litoral                           | - Disposiciones generales<br>- Criterios de índole social<br>- Sistema de asentamientos                                                                                                                                                                                                                        |
 
 
+| Objetivos | Propuestas estratégicas |
+| --------- | ----------------------- |
+|           |                         |
+
+
+TIENE OBJETIVOS, QUE SE PUEDEN PONER EN TABLA
+
+La **Estrategia Territorial de la Comunitat Valenciana (ETCV)** es el instrumento marco de ordenación del territorio autonómico. Fue aprobada por el Decreto 1/2011, de 13 de enero, del Consell, y modificada poco después por el Decreto 166/2011, de 4 de noviembre, al amparo de la Ley 4/2004 de Ordenación del Territorio y Protección del Paisaje. Entró en vigor al día siguiente de su publicación en el DOGV, con vigencia indefinida, aunque el horizonte final de sus determinaciones es el año 2030 (de ahí que también se la conozca como "Comunitat Valenciana 2010-2030"). [Generalitat Valenciana](https://mediambient.gva.es/es/web/planificacion-territorial-e-infraestructura-verde/estrategia-territorial-de-la-comunitat-valenciana-77496)
+
+**Visión y finalidad**  
+Su visión estratégica es convertir a la Comunitat Valenciana en el territorio con mayor calidad de vida del arco mediterráneo europeo. Busca un territorio más competitivo económicamente, más respetuoso ambientalmente y más integrador socialmente, y sus objetivos y directrices son vinculantes para el conjunto de administraciones públicas con competencia territorial en la Comunitat.
+
+**Cómo se estructura**  
+El documento se compone de dos textos iniciales (visión estratégica y resultados de la participación pública) más veinticinco documentos, uno por cada objetivo, que desarrollan metas y propuestas a razón de cuatro metas por objetivo y más de 1.500 propuestas concretas, además de un informe de sostenibilidad ambiental. Cada documento de objetivo incluye diagnóstico DAFO, indicadores y propuestas estratégicas.
+
+**Los 25 objetivos generales** (agrupados por bloques temáticos):
+
+_Sistema de ciudades y mundo rural_
+
+- Mantener la diversidad y buena vertebración del sistema urbano
+- Consolidar el área de Valencia como gran metrópoli europea
+- Convertir el eje Alicante-Elche en nodo del sudeste peninsular
+- Desarrollar el potencial metropolitano de Castellón
+- Mejorar las condiciones de vida del sistema rural
+
+_Medio ambiente, paisaje y riesgos_
+
+- Gestión integrada del patrimonio ambiental
+- Máxima eficiencia europea en la gestión del agua
+- Minimizar riesgos naturales e inducidos (inundaciones, etc.)
+- Recuperar el litoral como activo territorial
+- Reorientar el turismo hacia pautas sostenibles
+- Proteger y poner en valor el paisaje
+- Aplicar instrumentos de equidad territorial
+- Gestión activa del patrimonio cultural
+- Adaptar el territorio al cambio climático
+- Aprovechar el potencial energético del territorio
+
+_Competitividad, infraestructuras y movilidad_
+
+- Ser la gran plataforma logística del Mediterráneo
+- Crear un entorno favorable a la innovación
+- Mejorar la conectividad externa e interna
+- Garantizar una movilidad eficiente e integradora
+- Compatibilizar infraestructuras con la protección del territorio
+
+_Cohesión social, suelo y gobernanza_
+
+- Reforzar la cohesión social
+- Facilitar el acceso a la vivienda mediante planificación
+- Definir pautas racionales de ocupación del suelo
+- Reservar suelo suficiente para actividad económica
+- Impulsar fórmulas innovadoras de gobernanza territorial
+
+**El modelo territorial que propone**  
+La ETCV define un modelo de 15 áreas funcionales basado en la accesibilidad a las cabeceras que prestan bienes y servicios, una escala intermedia entre el municipio y la provincia en la que en torno al 90% de los desplazamientos laborales se resuelven dentro de la propia área. Distingue el sistema de ciudades (con peso especial de las ciudades medias) del sistema rural, y otorga un papel central a la Infraestructura Verde como red de espacios de mayor valor ambiental, paisajístico y cultural, priorizando corredores ya consolidados para garantizar la conectividad del territorio. [Patsecova](https://www.patsecova.es/wp-content/uploads/2022/02/II_-_DI_-_02_-_El_marco_para_el_ana%CC%81lisis_territorial.pdf)
+
+**Un nuevo modelo de gobernanza**  
+Propone que la acción pública no se limite a garantizar seguridad jurídica, sino que adopte un papel proactivo y facilitador, desarrollando fórmulas de colaboración público-privada para proyectos de gran impacto, y apostando por entes territoriales flexibles a escala supramunicipal.
+
+**Cómo se desarrolla**  
+La ETCV se despliega después mediante Planes de Acción Territorial sectoriales —como el PATFOR, centrado en el modelo forestal y su integración con el desarrollo rural, o el PATRICOVA, sobre prevención del riesgo de inundación— y a través del planeamiento urbanístico municipal, que debe tener en cuenta sus criterios orientadores. [Masqueingenieros](https://masqueingenieros.com/todo-sobre-planes-de-accion-territorial-en-la-comunidad-valenciana/)[Masqueingenieros](https://masqueingenieros.com/todo-sobre-planes-de-accion-territorial-en-la-comunidad-valenciana/)
+
+**Situación actual**  
+La estrategia de 2011 sigue formalmente vigente, pero desde octubre de 2024 la Conselleria de Medio Ambiente, Infraestructuras y Territorio, dirigida por Vicente Martínez Mus, ha planteado una actualización integral de la ETCV al considerarla desfasada tras trece años, dentro de un paquete más amplio de reformas urbanísticas (nueva Ley de Costas, nueva Ley del Suelo). A principios de 2026 ese proceso seguía en fase de anteproyecto y consulta pública, sin que se haya aprobado todavía una nueva estrategia territorial que sustituya a la actual. [Valencia Plaza](https://valenciaplaza.com/valenciaplaza/elconsellrevisaralaestrategiaterritorialparadesbloquearnuevosueloycaptarinversion)
+
+
+
+### Plan de acción de prevención del riesgo de inundación
+
 El [Plan de acción territorial sobre prevención del riesgo de inundación en la Comunitat Valenciana](https://mediambient.gva.es/documents/20551069/167206402/Gu%C3%ADa+PATRICOVA+%28castellano%29/e1a0b83a-8846-45fa-aff7-0d98b5b4fcc0) (PATRICOVA).
 
 | Capítulos                            | Contenido                                                                                                                                                                                                                                                                                                                         |
@@ -303,6 +373,44 @@ El [Plan de acción territorial sobre prevención del riesgo de inundación en l
 | Defensa                              | - Gestión<br>- Medidas en los Planes Generales<br>- Actuaciones estructurales<br>- Otros tipos de actuaciones<br>- Supervisión y coordinación de las actuaciones                                                                                                                                                                  |
 | Anexos                               | - I. Condiciones de adecuación de las edificaciones y la urbanización<br>- II. Criterios para la cartografía de peligrosidad                                                                                                                                                                                                      |
 
+Puntos principales del Plan Especial frente al riesgo de inundaciones de la Generalitat Valenciana, aprobado por el Decreto 81/2010 (solo texto, por favor)
+
+Sintetizó estructura normativa, operativa y contextual del plan de inundaciones
+
+Antes de nada, una aclaración que evita confusiones frecuentes: el Decreto 81/2010 **no es el PATRICOVA** (el plan territorial que delimita zonas inundables y condiciona los usos del suelo, aprobado en 2003 y revisado por el Decreto 201/2015, de 29 de octubre, tras su revisión). El Decreto 81/2010 aprueba el **Plan Especial ante el Riesgo de Inundaciones en la Comunitat Valenciana**, que es un plan de protección civil: regula cómo se organiza la respuesta operativa cuando hay riesgo de inundación o esta ya se ha producido, no qué se puede construir dónde. [Chiva](https://www.chiva.es/sites/www.chiva.es/files/PAM%20INU%2023%20V23%2009%202025%20\(Sin%20Anexo%20II\)_2.pdf)
+
+**Contexto y aprobación.** Sustituye al plan que llevaba vigente desde el Decreto 156/1999, tras más de diez años de aplicación, revisado y actualizado para adaptarlo a los cambios producidos en la gestión de este riesgo. Se elaboró siguiendo la Norma Básica de Protección Civil (Real Decreto 407/1992) y la Directriz Básica de Planificación de Protección Civil ante el Riesgo de Inundaciones (Acuerdo del Consejo de Ministros de 1994), así como la entonces vigente Ley 9/2002 de Protección Civil y Gestión de Emergencias de la Generalitat. Fue aprobado por el Consell el 7 de mayo de 2010, firmado por el presidente Francisco Camps Ortiz y el conseller de Gobernación, Serafín Castellano Gómez, y homologado por la Comisión Nacional de Protección Civil mediante resolución publicada en febrero de 2011. [Noticias Jurídicas + 2](https://noticias.juridicas.com/base_datos/CCAA/va-d81-2010.html)
+
+**Objeto y ámbito.** Su finalidad es garantizar una actuación rápida, eficaz y coordinada de los recursos públicos y privados en cualquier situación de preemergencia o emergencia por inundaciones en el territorio de la Comunitat Valenciana.
+
+**Función de "Plan Director".** Actúa como plan director de la planificación de rango inferior: fija el contenido mínimo y el marco organizativo de los Planes de Actuación Municipal (PAM) frente a inundaciones —obligatorios en los municipios con riesgo alto o medio— y regula la integración de los Planes de Emergencia de Presas y balsas, clasificadas en categorías A, B o C según la gravedad potencial de una rotura.
+
+**Estructura del documento.** Se organiza en seis volúmenes:
+
+- I. Fundamentos (marco legal y competencial)
+- II. Análisis del Riesgo
+- III. Estructura y Organización
+- IV. Operatividad
+- V. Implantación y Mantenimiento
+- VI. Anexos (municipios con riesgo, catálogo de presas y balsas, red hidrográfica, puntos de control, directorio, consejos a la población)
+
+**Análisis del riesgo.** Se basa en un estudio de la Universidad Politécnica de Valencia a escala 1:50.000, con seis niveles de peligrosidad resultantes de combinar tres frecuencias (periodos de retorno inferiores a 50 años, entre 50-100 y entre 100-500 años) y dos calados de agua, según sean mayores o menores de 80 cm. El estudio original identificó 299 municipios con algún grado de riesgo, concentrado sobre todo en el litoral y en las llanuras de inundación del Júcar y el Segura.
+
+**Clasificación de las emergencias** (el núcleo operativo del Plan):
+
+- _Preemergencia_: se activa por un aviso meteorológico de la AEMET o por un escenario de riesgo declarado en una presa, y se estructura en una fase de alerta y otra de seguimiento pluviohidrológico.
+- _Emergencia_, con cuatro situaciones según gravedad: Situación 0 (inundación inminente, alerta hidrológica), Situación 1 (inundaciones localizadas, atendibles con medios de la zona afectada), Situación 2 (la emergencia desborda los medios locales o se prevé que se agrave, lo que obliga a constituir el CECOPI) y Situación 3 (emergencia de interés nacional, declarada por el Ministerio del Interior, que asume entonces la dirección).
+- _Normalización_: fase posterior dedicada a inspeccionar edificios, limpiar viviendas y vías, y restablecer los servicios básicos esenciales.
+
+**Estructura organizativa.** Cada provincia cuenta con un Centro Coordinador de Emergencias (CCE) que actúa como CECOP. Al declararse la situación 2 (o la 3) se constituye el CECOPI —Centro de Coordinación Operativa Integrada—, formado por el Comité de Dirección, el Comité Asesor, el Gabinete de Información y el propio CECOP. La dirección del Plan corresponde al conseller competente en Protección Civil y Emergencias, delegada en el director general para las situaciones 0 y 1, y pasa al representante del Estado si se declara interés nacional (situación 3). Cuando hay CECOPI, el Comité de Dirección reúne a un representante de la Generalitat y otro de la Administración del Estado, mientras que el Comité Asesor se divide en un Grupo de Seguimiento del Riesgo (con representación de AEMET y las confederaciones hidrográficas) y un Grupo de Gestión de Medios y Recursos. Sobre el terreno actúan cinco Unidades Básicas de Intervención: Intervención Directa, Seguridad, Sanitaria, Albergue y Asistencia, y Apoyo Logístico. A escala municipal, el ayuntamiento activa su propio CECOPAL y, si lo tiene aprobado, su Plan de Actuación Municipal.
+
+**Implantación y mantenimiento.** Prevé la verificación periódica de las infraestructuras del Plan, la formación del personal de los servicios implicados y campañas continuas de información a la población.
+
+**Sobre su vigencia hoy:** este es el contenido tal como se aprobó en 2010, pero no es estático. Hacia 2020 se tramitó una actualización que, tras revisar la cartografía del PATRICOVA y del Sistema Nacional de Cartografía de Zonas Inundables, elevó a 505 el número de municipios con riesgo declarado, frente a los 299 iniciales. Dado el peso de este Plan en episodios como la DANA de octubre de 2024, si necesitas el detalle operativo exactamente vigente ahora, conviene contrastarlo en la web de Emergencias de la Generalitat (112cv.gva.es).
+
+
+
+### Guía de aplicación del Patricova
 
 La [Guía de aplicación del Plan de acción territorial sobre prevención del riesgo de inundación en la Comunitat Valenciana](https://mediambient.gva.es/documents/20551069/167206402/Gu%C3%ADa+PATRICOVA+%28castellano%29/e1a0b83a-8846-45fa-aff7-0d98b5b4fcc0)
 
@@ -321,6 +429,70 @@ La [Guía de aplicación del Plan de acción territorial sobre prevención del r
 | Anexo                              | - I. Preguntas frecuentes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 
+## Guía de aplicación del PATRICOVA — puntos principales
+
+Esta Guía fue elaborada por la Dirección General de Política Territorial y Paisaje de la Generalitat, con un equipo técnico de la Universitat Politècnica de València, y se aprobó en octubre de 2019 con el objetivo de acercar la norma a técnicos y ciudadanos, ayudando a aclarar y aplicar los requisitos que condicionan el planeamiento municipal, la planificación de infraestructuras y la instalación de nuevas actividades. Interpreta el PATRICOVA, aprobado inicialmente por Acuerdo del Consell de 28 de enero de 2003 y revisado por el Decreto 201/2015, de 29 de octubre, actualmente en vigor. [Generalitat Valenciana](https://mediambient.gva.es/es/web/planificacion-territorial-e-infraestructura-verde/guies-d-inundabilitat)
+
+**1. Principios generales**
+
+- Los nuevos usos urbanos deben orientarse hacia zonas no inundables o, si no es posible, hacia zonas de menor afección, situando en estas los usos menos vulnerables.
+- Se asume que el riesgo cero no existe: el planteamiento es convivir con el riesgo aplicando medidas con buena relación coste-beneficio, incorporando el concepto de resiliencia.
+- Las medidas no estructurales (reubicación de usos, zonas verdes de sacrificio, orientación de edificios respecto al flujo) se consideran más eficientes que las estructurales (obras hidráulicas).
+- Se aplica el principio de precaución del Tratado de la UE en los territorios de alto riesgo.
+- Se diferencia entre inundación externa o fluvial (desbordamiento de cauces) e interna o pluvial (escorrentía en cuencas urbanas).
+
+**2. Conceptos básicos**
+
+- Define peligrosidad (probabilidad de que ocurra una inundación en un periodo y área dados), vulnerabilidad (magnitud de los daños posibles) y riesgo (combinación de ambas), siguiendo el Real Decreto 903/2010 que traspone la Directiva europea 2007/60/CE.
+- La peligrosidad se clasifica en seis niveles combinando el periodo de retorno (25, 100 y 500 años) y el calado (mayor o menor de 0,80 m).
+- Explica el periodo de retorno como concepto estadístico y aclara que un evento de "10 años de retorno" no ocurre exactamente cada 10 años, sino que esa es su frecuencia media a largo plazo.
+
+**3. Reglas de aplicación**
+
+- Distingue cuatro periodos históricos según la normativa vigente en cada momento: antes de 1999 (documento de 1997 sin eficacia normativa), 1999-2003 (con eficacia normativa), 2003-2015 (PATRICOVA 2003) y desde 2015 (PATRICOVA 2015, vigente).
+- Regla general: un plan urbanístico ya aprobado se aplica según su propia normativa, salvo los artículos del PATRICOVA de "aplicación directa" (por ejemplo, las limitaciones en suelo no urbanizable).
+- Si se modifica un plan ya aprobado, sí resulta exigible la normativa de inundación vigente en el momento de tramitar esa modificación.
+- Detalla qué administración aprueba y cuál informa en cada procedimiento (planes urbanísticos, declaraciones de interés comunitario, licencias, estudios de inundabilidad), repartiendo el papel entre la Conselleria de Ordenación del Territorio, las Confederaciones Hidrográficas, la Comisión Territorial de Urbanismo y los ayuntamientos.
+
+**4. Cartografías de inundabilidad**
+
+- Existen dos cartografías oficiales de carácter complementario: la del PATRICOVA (Generalitat) y la del SNCZI, el Sistema Nacional de Cartografía de Zonas Inundables de las Confederaciones Hidrográficas.
+- El PATRICOVA cubre toda la red de cauces con cuenca superior a 0,5 km², mientras que el SNCZI solo cubre las zonas de riesgo potencial significativo (ARPSI), en torno al 10% del territorio.
+- Ante contradicciones, prevalece el SNCZI donde ambas cartografías coinciden, por su mayor precisión, y el PATRICOVA en el resto de su ámbito.
+- La cartografía regional, a escala 1:25.000, puede concretarse o corregirse mediante estudios de inundabilidad más detallados.
+
+**5. Peligrosidad de inundación**
+
+- Los seis niveles van de mayor (1) a menor (6) peligrosidad, combinando calado y periodo de retorno.
+- Se añade un nivel de peligrosidad geomorfológica, ligado a formas del terreno (barrancos, abanicos aluviales y torrenciales, llanuras de inundación, humedales, dolinas...) que delatan inundaciones históricas no siempre recogidas por cálculos hidráulicos; en conjunto la peligrosidad afecta al 12,3% del territorio valenciano, y casi la mitad de esa superficie corresponde al tipo geomorfológico.
+- Los calados inferiores a 15 cm normalmente no se consideran, salvo en pendientes superiores al 5%, donde la velocidad del agua puede causar daños pese al escaso calado.
+
+**6. Vulnerabilidad frente a la inundación**
+
+- Se valora con criterios económicos, sociales y ambientales.
+- Establece un orden de usos de mayor a menor vulnerabilidad —de sanitario y residencias de mayores en un extremo, hasta aparcamientos en el otro— que sirve para decidir si un cambio de uso es admisible.
+- Ninguna modificación de planeamiento puede aumentar significativamente el riesgo, ya sea por incremento de la peligrosidad o de la vulnerabilidad.
+
+**7. Aplicación según clase de suelo**
+
+- La intensidad de las restricciones depende de si el suelo es urbano, urbanizable o no urbanizable, siendo el no urbanizable el más restrictivo.
+- El suelo no urbanizable afectado por peligrosidad de inundación no puede reclasificarse como urbano o urbanizable, salvo el régimen especial de municipios de elevada peligrosidad.
+- En suelo urbanizable y urbano ya consolidado, la exigencia se traduce en condicionar la ordenación y, cuando proceda, la edificación mediante medidas correctoras.
+
+**8. Estudios de inundabilidad**  
+Herramienta técnica para concretar la peligrosidad de un ámbito concreto; define su función, escala, tres tipologías según alcance (Tipo I, II y III) y la exigencia de que la actuación no perjudique a terceros.
+
+**9. Municipios de elevada peligrosidad de inundación**  
+Régimen específico para municipios que cumplen ciertos requisitos de afección, con procedimiento propio de declaración y tramitación, que flexibiliza puntualmente algunas restricciones generales.
+
+**10. Medidas correctoras**  
+Se agrupan en tres bloques: reducción de la peligrosidad en la zona inundable (encauzamientos, diques, estructuras de laminación, mejora del drenaje pluvial y SUDS), reducción de la peligrosidad en la cuenca (restauración hidrológico-forestal, zonas de sacrificio, presas de laminación) y reducción de la vulnerabilidad o exposición (infraestructura verde, adecuación de edificaciones, planes de autoprotección, sistemas de alerta, vías de evacuación, señalización y seguros específicos frente a inundaciones).
+
+El documento cierra con un anexo de preguntas frecuentes sobre casos prácticos de aplicación.
+
+
+
+### Plan Especial de riesgo de inundaciones 
 
 El [Plan Especial frente al riesgo de inundaciones de la Generalitat Valenciana](https://www.112cv.gva.es/documents/163565706/163566523/2Informaci%C3%B3nGeneralInundaciones%202019.pdf/afb83f8d-2830-4a04-9c36-4dbda0370de8), aprobado por el [Decreto 81/2010](https://dogv.gva.es/datos/2010/05/12/pdf/2010_5363.pdf):
 
@@ -335,3 +507,23 @@ El [Plan Especial frente al riesgo de inundaciones de la Generalitat Valenciana]
 
 
 
+El documento es el **Plan Especial ante el Riesgo de Inundaciones en la Comunitat Valenciana** (la propia Generalitat lo nombra indistintamente "ante" o "frente al" riesgo). Conviene no confundirlo con PATRICOVA, que es el plan territorial que limita qué se puede construir en zonas inundables: este es el plan de **protección civil**, es decir, el que organiza la respuesta cuando la inundación ya está ocurriendo o es inminente. Se aprobó mediante el Decreto 156/1999, de 17 de septiembre, del Gobierno Valenciano, y fue homologado por la Comisión Nacional de Protección Civil ese mismo año, y desde entonces se ha ido revisando periódicamente. [vLex](https://vlex.es/vid/valenciano-especial-riesgo-inundaciones-16024488)
+
+**Objetivo:** garantizar una respuesta rápida, eficaz y coordinada de todos los medios públicos y privados de la Comunitat ante episodios de inundación.
+
+**Contenido:** el plan incluye un análisis del riesgo —qué tipos de inundación se dan en el territorio valenciano (desbordamientos fluviales como los de los ríos Júcar y Segura, conos aluviales, ramblas y barrancos, zonas endorreicas y marjales costeras— con el catálogo de zonas y municipios afectados), la organización de la respuesta, y la "operatividad", que fija fases y protocolos. [Protección Civil](https://www.proteccioncivil.es/catalogo/naturales/plan-estatal-riesgo-inundaciones/planesccaa/valenciana/Plan%20Especial.pdf)
+
+**Fases de activación:**
+
+- **Preemergencia**, cuando AEMET prevé fenómenos adversos que superan ciertos umbrales de lluvia; incluye seguimiento de caudales y puede derivar en alerta hidrológica.
+- **Situación 0**: la inundación es inminente o ya ha empezado.
+- **Situación 1**: inundaciones localizadas, gestionables con los medios de la propia zona.
+- **Situación 2**: la inundación supera la capacidad de los medios locales o se prevé que se agrave; se moviliza apoyo autonómico y, si hace falta, estatal.
+
+**Quién interviene:** dirige el Centro de Coordinación de Emergencias (CCE) de la Generalitat, con un Comité Asesor y un Gabinete de Información, y sobre el terreno actúan los Grupos de Acción (Intervención, Seguridad, Sanitario, Albergue y Asistencia, Apoyo Logístico). A nivel local, cada municipio con riesgo debe tener su propio Plan de Actuación Municipal, homologado por la Comisión de Protección Civil, y puede activar su CECOPAL. Las grandes presas y balsas cuentan además con sus propios planes de emergencia, con escenarios de seguridad graduados, integrados en el plan especial.
+
+**Información a la población:** avisos y consejos traducidos a varios idiomas, protocolos de evacuación preventiva y, tras el episodio, una oficina única de postemergencia para gestionar la vuelta a la normalidad. [Miteco](https://www.miteco.gob.es/content/dam/miteco/es/agua/formacion/planes-emergencia-y-ayudas-generalitat-valenciana_tcm30-379145.pdf)[Miteco](https://www.miteco.gob.es/content/dam/miteco/es/agua/formacion/planes-emergencia-y-ayudas-generalitat-valenciana_tcm30-379145.pdf)
+
+**La actualización más importante** llegó tras la DANA de octubre de 2024: la revisión fue necesaria al actualizarse los estudios de PATRICOVA y los Planes de Gestión del Riesgo de Inundación, que alimentan la cartografía de zonas inundables del sistema estatal (SNCZI), y se incorporaron criterios de vulnerabilidad poblacional según el uso del suelo para priorizar el impacto en zonas habitadas, además de cambios en la actuación ante emergencias de presas y balsas. El resultado más visible: los municipios con riesgo de inundación pasaron de 299 (plan de 2019) a 505. Desde entonces se ha seguido ampliando: a comienzos de 2026 se homologaron 16 planes municipales más frente a inundaciones y se sumaron 14 planes de emergencia de presas y balsas, y desde 2023 la preemergencia también se declara ante fenómenos de aviso amarillo, no solo naranja o rojo. [112 Comunitat Valenciana + 4](https://www.112cv.gva.es/es/notas-de-prensa/-/asset_publisher/OriTjHiopH9w/content/id/172597936)
+
+El documento completo (texto principal, análisis del riesgo y anexo de presas/balsas) está disponible para descarga en la web de Emergencias 112 CV de la Generalitat.

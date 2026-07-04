@@ -1,10 +1,10 @@
 
 1. ***El medio físico en la Comunitat Valenciana: aspectos generales y principales características climáticas, geológicas, geomorfológicas, hidrográficas y edafológicas. El medio marino y litoral, rasgos generales. El patrimonio natural de la Comunitat Valenciana. Comunidades vegetales, unidades y series de vegetación principales. Formaciones forestales, características y gestión. La fauna valenciana, rasgos generales y elementos de interés. Áreas de interés faunístico.***
 
-### Patrimonio natural valenciano
 
 La Comunidad Valenciana
 
+### Medio físico
 
 El medio físico de la Comunidad Valenciana es (GENERAL)
 
@@ -25,14 +25,84 @@ Las principales características son las siguientes:
 | Hidrografía                 | - **Régimen fluvial**: ríos cortos y de régimen mediterráneo, con fuerte estiaje en verano y crecidas súbitas en otoño.<br>- **Ríos principales**: Mijares/Millars, Túria, Júcar/Xúquer, Serpis, Vinalopó y el tramo bajo del Segura.<br>- **Dirección de drenaje**: predominantemente de oeste a este (interior hacia el mar).<br>- **Predominio de ramblas**: especialmente en el sur (Alicante), cauces secos la mayor parte del año.<br>- **Humedales destacados**: l'Albufera de València (la laguna costera más relevante), marjales (Pego-Oliva, Almenara) y salinas (Santa Pola, Torrevieja).<br>- **Acuíferos kársticos**: muy relevantes, sobre todo en el sur, dada la naturaleza caliza del sustrato.                                                                                                                    |
 | Edafología                  | - **Sustrato dominante**: suelos desarrollados mayoritariamente sobre roca caliza.<br>- **Tipos más comunes**: leptosoles (suelos delgados de montaña), cambisoles, luvisoles y calcisoles (con costras calizas en zonas más áridas).<br>- **Fluvisoles**: suelos profundos y fértiles en las vegas y llanuras aluviales, base histórica de la huerta valenciana y su regadío tradicional (gestionado, por ejemplo, por el Tribunal de las Aguas de Valencia).<br>- **Terra rossa**: suelos rojos característicos sobre superficies calizas bajo clima mediterráneo.<br>- **Solonchaks**: suelos salinos en entornos de marjal, albuferas y salinas costeras.<br>- **Erosión**: proceso significativo en zonas de pendiente, sustrato margoso y deforestación histórica, dando lugar a cárcavas y badlands.                          |
 
-El medio marino y litoral
+### Medio marino y litoral
+
+**Situación y extensión**
+
+El litoral valenciano se sitúa en el este y sureste de la península ibérica, bañado por el mar Mediterráneo. Se extiende entre el río Cenia, en Vinaroz, y Pilar de la Horadada, algo al sur del río Segura, con una longitud de costa de 518 km, repartidos entre las tres provincias costeras: Castellón, Valencia y Alicante. [Wikipedia](https://es.wikipedia.org/wiki/Llanura_litoral_valenciana)
+
+**Relieve costero**
+
+El trazado de la costa se organiza en torno a dos grandes golfos separados por un accidente clave: el golfo que ocupan las provincias de Castellón y Valencia se cierra en el cabo de la Nao; al sur de este cabo las costas son muy irregulares y con numerosos cabos menores, dando paso al golfo de Alicante, conocido turísticamente como Costa Blanca (el tramo norte se identifica turísticamente como Costa del Azahar). [Wikipedia](https://es.wikipedia.org/wiki/Comunidad_Valenciana)
+
+Conviven dos morfologías principales:
+
+- **Costas bajas y arenosas**, en los tramos de llanura litoral, con largas playas o cordones de gravas, interrumpidas a menudo por espigones artificiales. [Enciclopedia](http://enciclopedia.us.es/index.php/Geograf%C3%ADa_f%C3%ADsica_de_la_Comunidad_Valenciana)
+- **Costas acantiladas**, allí donde las sierras litorales llegan hasta el mar, como la sierra de Irta o los acantilados de Villajoyosa, además del cabo de la Nao y el cabo de San Antonio. [Wikipedia](https://es.wikipedia.org/wiki/Comunidad_Valenciana)
+
+**Humedales, marjales y sistemas dunares**
+
+Es uno de los rasgos más característicos del litoral valenciano: zonas húmedas, marjales y albuferas como el Prat de Cabanes-Torreblanca, las albuferas de Valencia y Elche, las lagunas de La Mata y Torrevieja (hoy salinas) o los marjales de Pego y Sagunto, además de grandes restingas de arena o grava como las de la marjal de Almenara, la dehesa del Saler o Guardamar del Segura. Estos sistemas dunares muestran una zonación desde las dunas más móviles hasta dunas fijas interiores con suelos estabilizados y vegetación densa, con una fauna rica en insectos y aves de medios húmedos como la garza real. [Wikipedia](https://es.wikipedia.org/wiki/Comunidad_Valenciana)[Ecosistema litoral](https://ecosistemalitoral.dival.es/index.php/es/inicio/)
+
+**Islas e islotes**
+
+El litoral valenciano suma 29 islas e islotes —once en Alicante y dieciocho en Castellón—, de los que solo uno está habitado de forma permanente: [El Debate](https://www.eldebate.com/espana/comunidad-valenciana/20260422/entre-tabarca-columbretes-estas-son-29-islas-valencianas-no-salen-guias-turisticas_409252.html)
+
+- **Isla de Tabarca** (Alicante, frente a Santa Pola): la única isla habitada de la Comunidad Valenciana.
+- **Islas Columbretes** (Castellón): un archipiélago volcánico formado por cuatro grupos de islas, hoy Parque Natural con acceso muy regulado. [Wikipedia](https://es.wikipedia.org/wiki/Comunidad_Valenciana)
+
+**Clima y régimen fluvial**
+
+El clima es mediterráneo: inviernos suaves y veranos calurosos, con temperaturas costeras en torno a 16-18 °C de media gracias al efecto termorregulador del mar, y brisas marinas que marcan un ritmo diario muy regular entre mayo y octubre. Los ríos valencianos son en general cortos, de caudal irregular y escaso, cuencas pequeñas y fuerte desnivel, con grandes estiajes y crecidas bruscas, agravadas por episodios de lluvias torrenciales otoñales. [Enciclopedia](http://enciclopedia.us.es/index.php/Geograf%C3%ADa_f%C3%ADsica_de_la_Comunidad_Valenciana)[Wikipedia](https://es.wikipedia.org/wiki/Comunidad_Valenciana)
+
+**Rasgos oceanográficos**
+
+El Mediterráneo es un mar casi cerrado que evapora más agua de la que reciben sus ríos, por lo que su salinidad es más alta que la atlántica, mar del que recibe un aporte compensatorio. Frente a Valencia esto se traduce en una salinidad en torno al 38 ‰, por encima de la media oceánica mundial del 35 ‰, mareas de muy poca amplitud (típicas del Mediterráneo) y una temperatura del agua que oscila estacionalmente entre los 14-15 °C en invierno y los 24-25 °C en verano. El seguimiento oceanográfico de largo plazo confirma además una tendencia de aumento de la temperatura y la salinidad en todo el rango de profundidad del Mediterráneo en las últimas décadas. [EcuRed + 2](https://www.ecured.cu/Mar_Mediterr%C3%A1neo)
+
+**Biodiversidad marina**
+
+El ecosistema más relevante son las **praderas de Posidonia oceanica**, una planta marina que fija los fondos arenosos y sostiene buena parte de la cadena trófica: mientras retrocede en otras zonas del Mediterráneo, en torno a Tabarca presenta un estado óptimo de conservación, con praderas extensas y densas, acompañadas en ocasiones de otra fanerógama, la Cymodocea. A esto se suman fondos rocosos, cuevas submarinas y bosques de gorgonias que albergan cigarra de mar, langosta, nacra, serranos, meros, congrios y morenas (la nacra es hoy una especie en fuerte declive por una enfermedad que afecta a la especie en todo el Mediterráneo desde 2016). En los humedales destaca la avifauna, con especies como el chorlitejo patinegro. [Ministry of Agriculture, Food and Environment of Spain](https://www.mapa.gob.es/es/pesca/temas/proteccion-recursos-pesqueros/reservas-marinas-de-espana/isla-de-tabarca/caracteristicas)[Garantiadefuturo](http://www.garantiadefuturo.es/reservas/isla-de-tabarca/)
+
+**Espacios naturales protegidos**
+
+- **Reserva marina de la Isla de Tabarca**: declarada en 1986, fue la primera reserva marina de España; ocupa una superficie total de 1.754 ha entre aguas interiores (40 %, competencia de la Generalitat) y exteriores (60 %, competencia estatal), con fondos de entre 0 y 40 m. [Marinos.](https://marinos.es/reservas-marinas-de-interes-pesquero-y-la-pesca-recreativa/)[Ministry of Agriculture, Food and Environment of Spain](https://www.mapa.gob.es/es/pesca/temas/proteccion-recursos-pesqueros/reservas-marinas-de-espana/isla-de-tabarca/caracteristicas)
+- **Reserva marina de las Islas Columbretes**, asociada al parque natural homónimo.
+- Otros espacios costeros protegidos: L'Albufera, el Marjal de Pego-Oliva, el Prat de Cabanes-Torreblanca o las Salinas de Santa Pola, entre otros.
+
+**La huella humana en el litoral**
+
+Es una de las costas más pobladas, urbanizadas y turísticas de España, sobre todo en la Costa Blanca. Los puertos y espigones (Castellón, Valencia, Gandía, Dénia, Alicante) han alterado la dinámica sedimentaria: el tramo entre el cabo de San Antonio y Peñíscola está en regresión por la disminución de sedimentos fluviales y la interrupción de la dinámica litoral debida a infraestructuras portuarias, en una zona además muy transformada por la actividad agraria de los marjales colindantes. En cambio, el norte de Alicante conserva un paisaje de calas y acantiladas con cierto grado de valor natural pese a la presión turística. A todo ello se suma la presión del cambio climático: calentamiento y salinización del agua, subida del nivel del mar y temporales más intensos. [Ministerio para la Transición Ecológica y el Reto Demográfico](https://www.miteco.gob.es/es/costas/temas/proteccion-costa/conociendo-litoral/zonas-litorales-espanolas/clasificacion-geografica/costa-mediterranea-murcia-valencia-cataluna.html)[Ministerio para la Transición Ecológica y el Reto Demográfico](https://www.miteco.gob.es/es/costas/temas/proteccion-costa/conociendo-litoral/zonas-litorales-espanolas/clasificacion-geografica/costa-mediterranea-murcia-valencia-cataluna.html)
 
 
-El patrimonio natural
+### Patrimonio natural
 
 
 
-#### Flora
+
+
+### Flora
+
+
+#### Comunidades vegetales
+
+
+#### Unidades y series de vegetación principales
+
+
+
+
+
+### Medio forestal
+
+
+#### Formaciones forestales
+
+
+
+
+#### Características y gestión
+
+
 
 
 
@@ -71,7 +141,9 @@ COMPLETAR
 | Unidades y series principales |     |
 
 
-#### Fauna
+### Fauna
+
+#### Rasgos generales
 
 La fauna de la Comunidad Valenciana destaca por su elevada diversidad en un territorio relativamente pequeño, consecuencia directa de varios factores:
 
@@ -87,6 +159,8 @@ La fauna de la Comunidad Valenciana destaca por su elevada diversidad en un terr
 
 - **Contraste litoral-interior**: mientras la franja costera concentra los humedales y su rica avifauna acuática, el interior (Los Serranos, El Racó d'Ademús, Alto Palancia, Alto Vinalopó) conserva fauna más forestal y esteparia, con menor presión humana.
 
+#### Elementos de interés
+
 Los elementos de interés incluyen los siguientes
 
 | Grupo                         | Elementos de interés                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -96,6 +170,8 @@ Los elementos de interés incluyen los siguientes
 | Peces continentales endémicos | - _**Samaruc**_ (_Valencia hispanica_): endemismo valenciano en peligro crítico de extinción, ligado a marjales y acequias.<br>- **Fartet** (_Aphanius iberus_): endémico ibérico, en regresión, presente en humedales salobres costeros.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Anfibios y reptiles           | - Gallipato (_Pleurodeles waltl_), sapo partero bético, sapo corredor.<br>- Lagarto ocelado, lagartija ibérica.<br>- Tortuga mora (_Testudo graeca_), con poblaciones relictas en el sur de Alicante.<br>- Tortugas marinas (tortuga boba) de presencia ocasional en el litoral.                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Invertebrados                 | - Fauna cavernícola endémica muy singular en los sistemas kársticos del interior (troglobios).<br>- Comunidades de mariposas e insectos ligados a los matorrales y bosques mediterráneos mejor conservados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+
+#### Áreas de interés
 
 La protección de la fauna se articula sobre todo mediante la red de parques naturales de la Generalitat Valenciana, complementada por la Red Natura 2000 (LIC y ZEPA) y el Catálogo de Zonas Húmedas, con varios humedales reconocidos como sitios Ramsar. Pueden agruparse en tres grandes tipos de espacio:
 
