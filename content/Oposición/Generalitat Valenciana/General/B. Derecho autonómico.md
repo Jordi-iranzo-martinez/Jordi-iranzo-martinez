@@ -5,7 +5,7 @@
 9. ***La Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones: Título I, Del ámbito de aplicación y de la Hacienda Pública de la Generalitat: Capítulo I, Ámbito de aplicación y organización del sector público de la Generalitat; Título II, De los presupuestos de la Generalitat: Capítulo III, Contenido, elaboración y estructura; Título IX, Sector público instrumental de la Generalitat; Título X: Subvenciones***
 
 
-
+### Estatuto de Autonomía
 
 La [Ley Orgánica 5/1982](https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235), de
 
@@ -20,6 +20,8 @@ La [Ley Orgánica 5/1982](https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235)
 | Administración Local                                   |                                                                                                                                                                                                     |
 | Economía y Hacienda                                    |                                                                                                                                                                                                     |
 | Reforma                                                |                                                                                                                                                                                                     |
+
+#### La Comunidad Valenciana
 
 La Comunidad Valenciana (título I) 
 
@@ -50,6 +52,7 @@ La Comunidad Valenciana (título I)
 - **Disposiciones autonómicas**: el desarrollo legislativo de las competencias de la Generalitat procurará la recuperación de los contenidos de los Fueros del histórico Reino de Valencia (entramado institucional del histórico Reino de Valencia, onomástica...), teniendo eficacia territorial (salvo para normas con carácter de extraterritorialidad: estatuto personal...)
 
 
+#### Derechos
 
 Los derechos (título II) incluyen los siguientes (artículos 8 a 19):
 
@@ -82,6 +85,25 @@ Los derechos (título II) incluyen los siguientes (artículos 8 a 19):
 19. **Desarrollo**: equitativo, territorialmente equilibrado y sostenible, basado en la incorporación de procesos de innovación, la plena integración en la sociedad de la información, la formación permanente, la producción sostenible y una ocupación estable y de calidad en la que se garantice la seguridad y la salud en el trabajo. Políticas de equilibrio territorial entre las zonas costeras y las del interior. Acceso a las nuevas tecnologías (formación, infraestructuras, utilización).
 
 
+#### Generalitat
+
+La Generalitat es el conjunto de instituciones de autogobierno de la Comunitat Valenciana:
+
+- Corts Valencianes: potestad legislativa.
+- President: dirección del Consell
+- Consell: órgano colegiado, poder ejecutivo y potestad reglamentaria.
+- Tribunal Superior de Justicia de la Comunitat Valenciana: 
+- Otras instituciones
+
+
+
+| Tipología                    | Instituciones                                                                                                                                                                                                                                     |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comisionadas por *Les Corts* | - *[Síndic de Greuges](https://www.elsindic.com/)*<br>- *[Sindicatura de Comptes](https://www.sindicom.es)*                                                                                                                                       |
+| Consultivas y normativas     | - *[Consell Valenciá de Cultura](https://cvcultura.es/)*<br>- *[Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/)*<br>- *[Comité Econòmic i Social](https://www.ces.gva.es/)*<br>- *[Consell Jurídic Consultiu](https://www.cjccv.es/)* |
+
+#### Competencias
+
 Las competencias incluyen las siguientes:
 
 | Régimen                | Competencias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -95,10 +117,7 @@ La Generalitat promoverá políticas de equilibrio territorial entre las zonas c
 
 2. Queda garantizado el derecho de acceso de los valencianos a las nuevas tecnologías y a que la Generalitat desarrolle políticas activas que impulsen la formación, las infraestructuras y su utilización.
 
-| Tipología                    | Instituciones                                                                                                                                                                                                                                     |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comisionadas por *Les Corts* | - *[Síndic de Greuges](https://www.elsindic.com/)*<br>- *[Sindicatura de Comptes](https://www.sindicom.es)*                                                                                                                                       |
-| Consultivas y normativas     | - *[Consell Valenciá de Cultura](https://cvcultura.es/)*<br>- *[Acadèmia Valenciana de la Llengua](https://www.avl.gva.es/)*<br>- *[Comité Econòmic i Social](https://www.ces.gva.es/)*<br>- *[Consell Jurídic Consultiu](https://www.cjccv.es/)* |
+
 
 
 Esto fue desarrollada por normativa de las Cortes Generales, entre las que destacan la Ley 5/1983 y la Ley 1/2015.
@@ -120,29 +139,485 @@ La [Ley 5/1983](https://dogv.gva.es/auto/docvpub/rlgv/1983/L_1983_05_ca_L_2005_1
 | **Administración Pública**                                               | - Principios generales<br>- Organización, competencias, estructura<br>- Organización territorial                                                                                                                                         |
 | **Responsabilidad de los miembros del Consell y Generalidad Valenciana** |                                                                                                                                                                                                                                          |
 
+#### President
 
-El Consell está formado por 
+El Presidente de la Generalidad Valenciana (que también lo es del Consell), dirige la acción del Gobierno, coordina funciones y ostenta la más alta representación de la Comunidad Autónoma Valenciana, y la ordinaria del Estado en la misma.
 
-|           | Funciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| President | a) La representación legal de la Comunidad, sin perjuicio de las facultades conferidas por<br>las normas a otros órganos de la Generalidad.<br>b) Mantener las relaciones con las otras Instituciones del Estado, sin perjuicio de las<br>facultades atribuidas al respecto a los Consellers.<br>c) Firmar los convenios y acuerdos de cooperación con la Administración del Estado y las<br>demás Comunidades<br>Autónomas.<br>d) Nombrar los altos cargos de la Comunidad Autónoma que las leyes determinen.<br>e) Solicitar de las Cortes Generales, previo acuerdo de las Cortes Valencianas, la facultad<br>de dictar normas legislativas en materias de competencia estatal, de conformidad con el<br>artículo 150.1 de la Constitución y el artículo 43. 1 del Estatuto de Autonomía.<br>8 Artículo 12, b) rectificado por la Corrección de errores del texto de la Ley 5/1983, de 30 de diciembre,<br>de la Generalidad Valenciana, de Gobierno Valenciano, publicada en el DOGV núm. 138 de 30 de<br>diciembre de 1983. (DOGV núm. 142 de 19.01.1984)Ley 5/19834 de 21<br>f) Solicitar de la Administración del Estado, previo acuerdo del Consell, la transferencia o<br>delegación de competencias previstas en los puntos 2 y 3 del artículo 43 del Estatuto de<br>Autonomía.<br>g) Fomentar las peculiaridades del pueblo valenciano y solicitar la participación de los<br>valencianos en la vida política, económica, cultural y social.<br>h) Designar representante de la Comunidad Valenciana en el Patronato del Archivo de la<br>Corona de Aragón. 9<br>Artículo 15<br>Corresponde al Presidente de la Generalidad, en su condición de representante ordinario<br>del Estado en la Comunidad Autónoma, promulgar, en nombre del Rey, las leyes de la<br>Generalidad Valenciana y disponer lo necesario para su publicación en el Diario Oficial de la<br>Generalidad Valenciana, en el plazo de quince días de su aprobación, y en el «Boletín Oficial<br>del Estado»<br><br>a) Establecer las directrices generales de la acción de Gobierno.<br>b) Nombrar y separar a los Consellers de la titularidad de las distintas Consellerías, dando<br>cuenta a las Cortes Valencianas y asignar competencias a cada Consellería.<br>c) Nombrar y cesar a los Consellers sin cartera.<br>d) Convocar al Consell, fijar el Orden del Día, presidir sus reuniones, dirigir sus<br>deliberaciones y levantar sus sesiones.<br>e) Nombrar representantes del Consell en las instituciones y entidades que legalmente<br>corresponda.<br>f) Coordinar el programa legislativo del Consell.<br>g) Firmar los Decretos del Consell.<br>h) Coordinar la ejecución de los acuerdos del Consell.<br>i) Resolver la sustitución de los miembros del Consell en los casos de ausencia o<br>enfermedad.<br>j) Resolver los conflictos de atribuciones entre las distintas Consellerías.<br>k) Plantear ante las Cortes Valencianas en escrito motivado del Consell la cuestión de<br>confianza sobre su programa, una decisión política o un proyecto de ley, conforme se establece<br>en el artículo 18 del Estatuto de Autonomía. 11<br>I) Disolver las Cortes Valencianas, previa deliberación del Gobierno Valenciano, mediante<br>Decreto con los requisitos que se establezcan por la Ley Electoral para la convocatoria de las<br>elecciones, las cuales se celebrarán el cuarto domingo de mayo del año que expire la<br>legislatura.<br>m) Ejercer cuantas otras facultades y atribuciones le correspondan con arreglo a las<br>disposiciones vigentes, así como aquellas que no vengan expresamente atribuidas a otros<br>órganos o instituciones, sin perjuicio de lo dispuesto en el artículo 25.<br>2. El presidente podrá asignarse aquellas materias que considere oportuno, pudiendo<br>disponer de la estructura orgánica adecuada para el desarrollo de sus funciones.<br>En el supuesto en que el presidente nombre vicepresidente o vicepresidentes del gobierno<br>sin conselleria asignada, éstos se integrarán en la estructura de la Presidencia, pudiéndoles ser<br>adscritas las secretarías autonómicas y centros directivos que se consideren oportunos para<br>llevar a cabo sus funcione                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Consell   | a) Determinar las directrices de la acción de gobierno, de acuerdo con lo que establezca al<br>respecto el presidente de la Generalitat. 15<br>b) La planificación y desarrollo de la política Valenciana.<br>c) El ejercicio de las facultades que el Estatuto de Autonomía o Ley de las Cortes<br>Valencianas le atribuya en lo que se refiere a la actividad de las Diputaciones Provinciales y<br>demás entes locales.<br>13 Artículo 18 modificado por la Ley 1/2002, de 26 de febrero.<br>14 Artículo 19 modificado por la Ley 1/2002, de 26 de febrero.<br>15 Apartado a) del artículo 20 modificado por la Ley 1/2002, de 26 de febrero.Ley 5/19836 de 21<br>Artículo 21<br>En uso de sus funciones ejecutivas y administrativas, compete al Consell:<br>a) Nombrar y separar a los altos cargos de la Administración de la Generalidad Valenciana,<br>a propuesta del Conseller correspondiente.<br>b) Designar o proponer, en su caso, al Gobierno del Estado, las personas que han de formar<br>parte de los órganos de la Administración de las Empresas Públicas u otras instituciones de<br>carácter económico o financiero de titularidad estatal implantadas en el ámbito territorial de la<br>Generalidad Valenciana, así como designar a dichos representantes en este tipo de empresas<br>o instituciones dependientes de la Comunidad Autónoma, salvo que por la Ley se atribuya la<br>designación a otro órgano.<br>c) Reglamentar e inspeccionar el funcionamiento de las Diputaciones Provinciales,<br>organismos e instituciones y demás entes locales, en cuanto que ejecuten competencias<br>delegadas de la Generalidad Valenciana.<br>d) Aprobar las directrices de coordinación que habrán de aplicar las Diputaciones<br>Provinciales en las materias declaradas de interés general para la Comunidad Valenciana, así<br>como atribuir a los distintos órganos de la Administración de la Generalidad el ejercicio de las<br>competencias de información, comprobación y control que de aquéllas se deriven.<br>e) Proponer a las Cortes Valencianas, para su debate y aprobación, los convenios y<br>acuerdos de colaboración con el estado y las demás comunidades autónomas en materia de<br>competencia exclusiva de la Generalitat Valenciana, de acuerdo con lo establecido en el<br>Reglamento de las Cortes Valencianas. 16<br>f) Subscribir convenios y acuerdos de cooperación con el estado, otras comunidades<br>autónomas e instituciones públicas sin perjuicio de su debate y previa aprobación por las<br>Cortes Valencianas y autorización de las Cortes Generales en los casos en que ésta<br>procediera. 17<br>g) Proponer a las Cortes Valencianas la creación de personas jurídicas públicas y privadas,<br>o en su caso crearlas, para el ejercicio de competencias de la Generalidad Valenciana.<br>h) Proponer ante el órgano competente la convocatoria de concursos y oposiciones para<br>cubrir plazas vacantes de Magistrados, Jueces, Secretarios Judiciales y demás personal al<br>servicio de la Administración de Justicia.<br>i) Nombrar a los Notarios y Registradores de la Propiedad y Mercantiles, de conformidad<br>con las leyes del Estado. Nombrar a los Agentes de Cambio y Bolsa y a los Corredores de<br>Comercio.<br>Artículo 22<br>Las funciones del Consell en materia normativa se concretan en las siguientes<br>competencias:<br>a) Proponer a las Cortes Valencianas la reforma del Estatuto de Autonomía de la<br>Comunidad Valenciana.<br>b) La iniciativa legislativa, mediante la aprobación de los proyectos de ley para su remisión a<br>las Cortes Valencianas acompañados de una exposición de motivos y de los antecedentes<br>necesarios para poder pronunciarse sobre ellos. El Consell podrá retirar el proyecto de ley en<br>cualquier momento de su tramitación ante las Cortes Valencianas, siempre que no hubiere<br>recaído acuerdo final de éstas. 18<br>c) La facultad de dictar decretos legislativos en los términos y con las formalidades previstas<br>en la presente ley. Para el control de esta legislación delegada por las Cortes Valencianas, se<br>estará a lo dispuesto en su reglamento. 19<br>d) La elaboración de los proyectos de ley de presupuestos de la Generalitat Valenciana para<br>ser presentados a las Cortes Valencianas al menos con dos meses de antelación al comienzo<br>del correspondiente ejercicio. A esta competencia se añaden las demás facultades estatutarias<br>en materia presupuestaria. 20<br>e) Ejercer la potestad reglamentaria de la Comunidad Autónoma, de acuerdo con la<br>Constitución, el Estatuto de Autonomía y las Leyes.<br>16 Apartado e) del artículo 21 modificado por el artículo único de la Ley 6/1995, de 3 de abril.<br>17 Apartado f) del artículo 21 modificado por el artículo único de la Ley 6/1995, de 3 de abril.<br>18 Apartado b) del artículo 22 modificado por el artículo único de la Ley 6/1995, de 3 de abril.<br>19 Apartado c) del artículo 22 modificado por el artículo único de la Ley 6/1995, de 3 de abril.<br>20 Apartado d) del artículo 22 modificado por el artículo único de la Ley 6/1995, de 3 de abril.Ley 5/19837 de 21<br>f) Emitir Deuda Pública para gastos de inversión, previo acuerdo de las Cortes Valencianas.<br>Artículo 23<br>En relación con la actividad parlamentaria, el Gobierno Valenciano tiene las siguientes<br>atribuciones:<br>a) Proponer a la Cortes Valencianas, a través de su presidente, la celebración de sesiones<br>extraordinarias. En esta petición deberá figurar el orden del día que se propone para la sesión<br>extraordinaria solicitada. 21<br>b) Deliberar sobre la cuestión de confianza que pueda plantear el Presidente de la<br>Generalidad a las Cortes Valencianas sobre su programa, una decisión política o un proyecto<br>de ley.<br>Artículo 24<br>En relación con las competencias del Estado y otras Comunidades Autónomas el Consell<br>podrá:<br>a) Acordar la interposición de recursos de inconstitucionalidad.<br>b) Plantear conflictos de competencia en oposición al Estado o a otra Comunidad Autónoma<br>ante el Tribunal Constitucional.<br>c) Acordar la comparecencia y personación en los recursos y en las cuestiones de<br>inconstitucionalidad que afecten a la Comunidad Autónoma.<br>d) Comparecer en los conflictos de competencias a que se refiere el apartado c) del artículo<br>161 de la Constitución cuando así lo determinen, por mayoría absoluta, las Cortes<br>Valencianas. 22<br>Artículo 25<br>Corresponde al Consell o Gobierno Valenciano el ejercicio de las competencias estatutarias<br>y legales de carácter ejecutivo y reglamentario que vengan atribuidas a la Generalidad o a la<br>Comunidad Valenciana y no estén expresamente atribuidas a otros órganos o instituciones de<br>las mismas.<br>CAPITULO III. Del fu |
+- **Elección**: por el Presidente de Les Corts (de acuerdo al Reglamento de Les Corts), en primera instancia por mayoría absoluta en primera votación (de no obtenerse por mayoría simple respecto de la segunda candidatura con más votos, y en caso de empate la lista más votada en elecciones.
 
-El Consell se compone del Presidente, los vicepresidentes (en su caso: opcionales), y los Consellers (no más de 10).
+	El presidente de las Cortes lo comunicará al Rey, y el nombramiento se publicará en el Boletín Oficial del Estado y en el Diari Oficial de la Generalitat Valenciana en el plazo de diez días. Comenzará a ejercer sus funciones a partir del día siguiente al de la publicación en el Boletín estatal. 
 
-
-
-
-La [Ley 1/2015](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2015/L_2015_01_ca_L_2016_13.pdf) regula el régimen económico-financiero del sector público de la Generalitat: hacienda pública, presupuesto, contabilidad, tesorería y endeudamiento, y control financiero.
+Deberá prometer o jurar acatar la Constitución y el Estatuto de Autonomía de la Comunidad Valenciana en las primeras Cortes a celebrar en Valencia tras
+su nombramiento por el Rey. En las mismas efectuará una «Proposición» de su programa de gobierno sin que el mismo sea objeto de debate
 
 
 
+El cargo de Presidente de la Generalidad es incompatible con el ejercicio de cualquier función pública no derivada de su cargo (excepto la de Diputado de les Corts) y cualquier actividad profesional o mercantil. Es responsable políticamente ante les Corts.
 
-Esta ley tiene por objeto regular 
+Cesa por renovación de les Corts, moción de censura, denegación de cuestión de confianza, dimisión o renuncia, pérdida de la condición de Diputado (a les Corts), incompatibilidad declarada (por les Corts) no subsanada en 10 día, incapacidad permanente (por les Corts) y fallecimiento.
+
+Continuará sus funciones hasta que, producida la nueva elección estatutaria del Presidente, se publique su nombramiento por el Rey en el «Boletín Oficial del Estado».
+En los supuestos de incapacidad y fallecimiento asumirá las funciones del Presidente de la Generalidad, en cuanto más alto representante de la Comunidad Autónoma y ordinaria del Estado, el Presidente de las Cortes, y en cuanto Presidente del Consell, los Vicepresidentes según su orden o, en su defecto, según su antigüedad ininterrumpida en el cargo. Si no hubiera
+Vicepresidentes, asumirá las funciones de Presidente del Consell el Conseller más antiguo.
+Artículo 13
 
 
-9. ***La Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones: Título I, Del ámbito de aplicación y de la Hacienda Pública de la Generalitat: Capítulo I, Ámbito de aplicación y organización del sector público de la Generalitat; Título II, De los presupuestos de la Generalitat: Capítulo III, Contenido, elaboración y estructura; Título IX, Sector público instrumental de la Generalitat; Título X: Subvenciones***
+El Presidente de la Generalidad Valenciana gozará de las siguientes prerrogativas:
+a) Tratamiento de Molt Honorable.
+b) Que le sean rendidos los honores que, en razón a la dignidad de su cargo, le
+corresponda, con arreglo a lo que establezcan las normas siguientes en la materia.
+c) Presidir todos los actos celebrados en el territorio de la Comunidad a los que concurra,
+salvo lo dispuesto en la legislación del Estado.
+d) Utilizar la bandera de la Comunidad como guión.
 
+Sus funciones son las siguientes:
+
+| Clasificación                      | Funciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Generales                          | a) La representación legal de la Comunidad, sin perjuicio de las facultades conferidas por<br>las normas a otros órganos de la Generalidad.<br>b) Mantener las relaciones con las otras Instituciones del Estado, sin perjuicio de las<br>facultades atribuidas al respecto a los Consellers.<br>c) Firmar los convenios y acuerdos de cooperación con la Administración del Estado y las<br>demás Comunidades<br>Autónomas.<br>d) Nombrar los altos cargos de la Comunidad Autónoma que las leyes determinen.<br>e) Solicitar de las Cortes Generales, previo acuerdo de las Cortes Valencianas, la facultad<br>de dictar normas legislativas en materias de competencia estatal, de conformidad con el<br>artículo 150.1 de la Constitución y el artículo 43. 1 del Estatuto de Autonomía<br>f) Solicitar de la Administración del Estado, previo acuerdo del Consell, la transferencia o<br>delegación de competencias previstas en los puntos 2 y 3 del artículo 43 del Estatuto de<br>Autonomía.<br>g) Fomentar las peculiaridades del pueblo valenciano y solicitar la participación de los<br>valencianos en la vida política, económica, cultural y social.<br>h) Designar representante de la Comunidad Valenciana en el Patronato del Archivo de la<br>Corona de Aragón                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Representante ordinario del Estado | promulgar, en nombre del Rey, las leyes de la<br>Generalidad Valenciana y disponer lo necesario para su publicación en el Diario Oficial de la<br>Generalidad Valenciana, en el plazo de quince días de su aprobación, y en el «Boletín Oficial<br>del Estado».                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Presidente del Gobierno Valenciano | El Presidente de la Generalidad, en sus funciones de Presidente del Gobierno Valenciano,<br>dirige y coordina sus acciones, sin perjuicio de las atribuciones y responsabilidad de cada<br>Conseller en su gestión; a tal efecto le corresponde:<br>a) Establecer las directrices generales de la acción de Gobierno.<br>b) Nombrar y separar a los Consellers de la titularidad de las distintas Consellerías, dando<br>cuenta a las Cortes Valencianas y asignar competencias a cada Consellería.<br>c) Nombrar y cesar a los Consellers sin cartera.<br>d) Convocar al Consell, fijar el Orden del Día, presidir sus reuniones, dirigir sus<br>deliberaciones y levantar sus sesiones.<br>e) Nombrar representantes del Consell en las instituciones y entidades que legalmente<br>corresponda.<br>f) Coordinar el programa legislativo del Consell.<br>g) Firmar los Decretos del Consell.<br>h) Coordinar la ejecución de los acuerdos del Consell.<br>i) Resolver la sustitución de los miembros del Consell en los casos de ausencia o<br>enfermedad.<br>j) Resolver los conflictos de atribuciones entre las distintas Consellerías.<br>k) Plantear ante las Cortes Valencianas en escrito motivado del Consell la cuestión de<br>confianza sobre su programa, una decisión política o un proyecto de ley, conforme se establece<br>en el artículo 18 del Estatuto de Autonomía. 11<br>I) Disolver las Cortes Valencianas, previa deliberación del Gobierno Valenciano, mediante<br>Decreto con los requisitos que se establezcan por la Ley Electoral para la convocatoria de las<br>elecciones, las cuales se celebrarán el cuarto domingo de mayo del año que expire la<br>legislatura.<br>m) Ejercer cuantas otras facultades y atribuciones le correspondan con arreglo a las<br>disposiciones vigentes, así como aquellas que no vengan expresamente atribuidas a otros<br>órganos o instituciones, sin perjuicio de lo dispuesto en el artículo 25.<br>2. El presidente podrá asignarse aquellas materias que considere oportuno, pudiendo<br>disponer de la estructura orgánica adecuada para el desarrollo de sus funciones.<br>En el supuesto en que el presidente nombre vicepresidente o vicepresidentes del gobierno<br>sin conselleria asignada, éstos se integrarán en la estructura de la Presidencia, pudiéndoles ser<br>adscritas las secretarías autonómicas y centros directivos que se consideren oportunos para<br>llevar a cabo sus funciones. |
+
+#### Consell
+
+El Consell es el órgano colegiado que ostenta la potestad ejecutiva y reglamentaria y dirige la administración de la Generalidad Valenciana. Se compone del Presidente, los vicepresidentes (en su caso: opcionales), y los Consellers (no más de 10). Son nombrados por el President:
+
+- **Vicepresidentes**:
+- **Consellers**: 
+
+El presidente de la Generalitat podrá nombrar o cesar uno o varios vicepresidentes del
+Consell, que llevarán a cabo las funciones de máximo apoyo y asesoramiento en las tareas
+desempeñadas por el presidente.
+Los vicepresidentes podrán ser titulares de uno de los departamentos en los que se divida la
+administración autonómica, en cuyo caso ostentarán, además, la condición de conseller, o bien
+no tener ningún departamento asignado, en cuyo caso no tendrán funciones ejecutivas propias.
+Los vicepresidentes, como miembros del Gobierno Valenciano, asumirán las funciones de la
+Presidencia del Consell en caso de ausencia, vacante o enfermedad del presidente, según su
+orden.
+Cuando no existan vicepresidentes, será sustituido por el conseller que el presidente
+designe expresamente, y en su defecto, por el conseller que más tiempo lleve
+ininterrumpidamente en el cargo, y en caso de igualdad, según el orden de precedencia de las
+consellerias establecido en el decreto de creación de las mismas.
+Los vicepresidentes, como órganos de apoyo y asesoramiento del presidente, ejercerán las
+funciones que les encomiende o delegue el presidente.
+Asimismo, el presidente podrá asignarles las funciones de dirección, impulso y coordinación
+política de aquellas materias que considere oportunas.
+Las ausencias temporales del presidente de la Generalitat, superiores a un mes, se
+comunicarán a las Cortes.
+El presidente podrá nombrar uno o varios consellers sin cartera.
+El presidente de la Generalitat nombrará, entre los vicepresidentes o los consellers, un
+secretario del Consell, para que ejerza las funciones establecidas en esta ley.
+El presidente podrá designar de entre los miembros del Consell un portavoz.
+
+Las competencias del Consell son las siguientes:
+
+|                                                       | Funciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Política general                                      | a) Determinar las directrices de la acción de gobierno, de acuerdo con lo que establezca al<br>respecto el presidente de la Generalitat. 15<br>b) La planificación y desarrollo de la política Valenciana.<br>c) El ejercicio de las facultades que el Estatuto de Autonomía o Ley de las Cortes<br>Valencianas le atribuya en lo que se refiere a la actividad de las Diputaciones Provinciales y<br>demás entes locales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Funciones ejecutivas y administrativas                | a) Nombrar y separar a los altos cargos de la Administración de la Generalidad Valenciana,<br>a propuesta del Conseller correspondiente.<br>b) Designar o proponer, en su caso, al Gobierno del Estado, las personas que han de formar<br>parte de los órganos de la Administración de las Empresas Públicas u otras instituciones de<br>carácter económico o financiero de titularidad estatal implantadas en el ámbito territorial de la<br>Generalidad Valenciana, así como designar a dichos representantes en este tipo de empresas<br>o instituciones dependientes de la Comunidad Autónoma, salvo que por la Ley se atribuya la<br>designación a otro órgano.<br>c) Reglamentar e inspeccionar el funcionamiento de las Diputaciones Provinciales,<br>organismos e instituciones y demás entes locales, en cuanto que ejecuten competencias<br>delegadas de la Generalidad Valenciana.<br>d) Aprobar las directrices de coordinación que habrán de aplicar las Diputaciones<br>Provinciales en las materias declaradas de interés general para la Comunidad Valenciana, así<br>como atribuir a los distintos órganos de la Administración de la Generalidad el ejercicio de las<br>competencias de información, comprobación y control que de aquéllas se deriven.<br>e) Proponer a las Cortes Valencianas, para su debate y aprobación, los convenios y<br>acuerdos de colaboración con el estado y las demás comunidades autónomas en materia de<br>competencia exclusiva de la Generalitat Valenciana, de acuerdo con lo establecido en el<br>Reglamento de las Cortes Valencianas. 16<br>f) Subscribir convenios y acuerdos de cooperación con el estado, otras comunidades<br>autónomas e instituciones públicas sin perjuicio de su debate y previa aprobación por las<br>Cortes Valencianas y autorización de las Cortes Generales en los casos en que ésta<br>procediera. 17<br>g) Proponer a las Cortes Valencianas la creación de personas jurídicas públicas y privadas,<br>o en su caso crearlas, para el ejercicio de competencias de la Generalidad Valenciana.<br>h) Proponer ante el órgano competente la convocatoria de concursos y oposiciones para<br>cubrir plazas vacantes de Magistrados, Jueces, Secretarios Judiciales y demás personal al<br>servicio de la Administración de Justicia.<br>i) Nombrar a los Notarios y Registradores de la Propiedad y Mercantiles, de conformidad<br>con las leyes del Estado. Nombrar a los Agentes de Cambio y Bolsa y a los Corredores de<br>Comercio. |
+| Normativa                                             | Proponer a las Cortes Valencianas la reforma del Estatuto de Autonomía de la<br>Comunidad Valenciana.<br>b) La iniciativa legislativa, mediante la aprobación de los proyectos de ley para su remisión a<br>las Cortes Valencianas acompañados de una exposición de motivos y de los antecedentes<br>necesarios para poder pronunciarse sobre ellos. El Consell podrá retirar el proyecto de ley en<br>cualquier momento de su tramitación ante las Cortes Valencianas, siempre que no hubiere<br>recaído acuerdo final de éstas. 18<br>c) La facultad de dictar decretos legislativos en los términos y con las formalidades previstas<br>en la presente ley. Para el control de esta legislación delegada por las Cortes Valencianas, se<br>estará a lo dispuesto en su reglamento. 19<br>d) La elaboración de los proyectos de ley de presupuestos de la Generalitat Valenciana para<br>ser presentados a las Cortes Valencianas al menos con dos meses de antelación al comienzo<br>del correspondiente ejercicio. A esta competencia se añaden las demás facultades estatutarias<br>en materia presupuestaria. 20<br>e) Ejercer la potestad reglamentaria de la Comunidad Autónoma, de acuerdo con la<br>Constitución, el Estatuto de Autonomía y las Leyes.<br>f) Emitir Deuda Pública para gastos de inversión, previo acuerdo de las Cortes Valencianas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Actividad parlamentaria                               | a) Proponer a la Cortes Valencianas, a través de su presidente, la celebración de sesiones<br>extraordinarias. En esta petición deberá figurar el orden del día que se propone para la sesión<br>extraordinaria solicitada. 21<br>b) Deliberar sobre la cuestión de confianza que pueda plantear el Presidente de la<br>Generalidad a las Cortes Valencianas sobre su programa, una decisión política o un proyecto<br>de ley.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Competencias del Estado y otras Comunidades Autónomas | a) Acordar la interposición de recursos de inconstitucionalidad.<br>b) Plantear conflictos de competencia en oposición al Estado o a otra Comunidad Autónoma<br>ante el Tribunal Constitucional.<br>c) Acordar la comparecencia y personación en los recursos y en las cuestiones de<br>inconstitucionalidad que afecten a la Comunidad Autónoma.<br>d) Comparecer en los conflictos de competencias a que se refiere el apartado c) del artículo<br>161 de la Constitución cuando así lo determinen, por mayoría absoluta, las Cortes<br>Valencianas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Otras                                                 | - Competencias estatutarias y legales de carácter ejecutivo y reglamentario que vengan atribuidas a la Generalidad o a la Comunidad Valenciana y no estén expresamente atribuidas a otros órganos o instituciones de las mismas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+### Funcionamiento
+
+El Consell establecerá las normas internas que se precisen para el buen orden de sus
+trabajos. El Consell se reúne convocado por el Presidente. La convocatoria deberá ir acompañada del Orden del Día de la reunión.
+
+Las reuniones del Consell requerirán para su validez la asistencia del Presidente y del
+Secretario, o de quienes les sustituyen y, al menos, la mitad de los miembros de hecho del
+Consell.
+A tal efecto, al Presidente le sustituirán los Vicepresidentes según su orden o, en defecto de
+orden, según su antigüedad ininterrumpida en el cargo o el Conseller titular de la
+correspondiente cartera por el orden de creación de las Consellerías. Al Secretario le sustituirá
+el Conseller más joven.
+Si no existiera quórum de constitución, las sesiones quedarán convocadas para el siguiente
+día hábil al señalado para la primera convocatoria, en el mismo lugar y horas, sin necesidad de
+nueva citación para ello. En este supuesto, será suficiente para la válida constitución de la
+reunión la asistencia de la tercera parte de los miembros de hecho del Consell, sin que en
+ningún caso pueda ser un número inferior a tres y, en este caso, con la asistencia del
+Presidente.
+Artículo 28
+
+Los acuerdos se adoptarán con el voto favorable de la mayoría absoluta ***de los miembros presentes***, dirimiéndose los empates con el voto de calidad del presidente
+
+2. El Secretario levantará acta de los acuerdos del Gobierno Valenciano.
+Artículo 29
+Las sesiones del Gobierno tendrán carácter reservado; sólo se hará público el contenido de
+los acuerdos. Los documentos que se elevan a la consideración del Gobierno tendrán carácter
+reservado hasta que se adopte acuerdo sobre los mismos.
+Artículo 30 24
+3. El Gobierno Valenciano podrá constituir comisiones delegadas, de carácter permanente o
+temporal, que estudiarán y resolverán materias de interés común a algunos departamentos.
+4. La composición, funciones y materias sobre las que versará se determinarán en sus
+decretos de creación. Su régimen de funcionamiento se ajustará, en todo caso, a los criterios
+que rigen para el Consell en cuanto a la convocatoria y carácter de las sesiones.
+5. Podrán formar parte de las comisiones delegadas del gobierno el presidente, los
+vicepresidentes y los consellers. Asimismo, los secretarios autonómicos podrán integrarse en
+estas comisiones en aquellos supuestos en los que, por razón de la materia objeto de estudio,
+se considere oportuno.
+Artículo 31
+El Gobierno Valenciano podrá crear Comisiones Interdepartamentales integradas por altos
+cargos de la Administración Valenciana para el estudio, coordinación, programación y, en su
+caso, propuestas de resolución de la actividad interdepartamental en materias sectoriales
+comunes. Estas comisiones tendrán las facultades que les atribuya su Decreto de creación. Su
+funcionamiento se regulará también por Decreto.
+Artículo 32 25
+6. El Consell podrá crear la Comisión de Secretarios Autonómicos y Subsecretarios para
+preparar las reuniones del Gobierno Valenciano y tratar otras cuestiones de interés común que
+no sean competencia de las comisiones delegadas o de las comisiones interdepartamentales.
+7. Dicha comisión estará integrada, en todo caso, por los subsecretarios y por los
+secretarios autonómicos que, por sus funciones o asuntos a tratar, así se requiera, en los
+términos que se establezca en la norma de creación.
+8. La comisión será presidida por el miembro del Gobierno Valenciano que ostente la
+condición de secretario del Consell.
+
+
+#### Conselleria y Consellers
+
+La administración de la Generalitat Valenciana se organiza en consellerias o departamentos,
+al frente de los cuales habrá un conseller, miembro del gobierno con funciones ejecutivas, sin
+perjuicio de lo dispuesto en el artículo 16.2.
+Artículo 34
+El número y denominación de las Consellerías se establecerán por Decreto dentro de los
+límites de esta Ley dando cuenta a las Cortes.
+Artículo 35
+Los Consellers, como miembros del Gobierno y jefes de Departamento, tienen las siguientes
+funciones:
+
+Las funciones de los Consellers son las siguientes:
+
+a) Asistir a las reuniones del Consell y votar sus acuerdos.
+b) Proponer al Consell el nombramiento y cese de altos cargos de su departamento.
+c) Preparar y presentar al Gobierno los anteproyectos de Ley, propuestas de acuerdo y
+proyectos de Decreto relativos a las cuestiones propias de su Departamento, y refrendar estos
+últimos una vez aprobados.
+23 Apartado 1 del artículo 28 modificado por la Ley 1/2002, de 26 de febrero.
+24 Artículo 30 modificado por la Ley 1/2002, de 26 de febrero.
+25 Artículo 32 modificado por la Ley 1/2002, de 26 de febrero.
+26 Artículo 33 modificado por la Ley 1/2002, de 26 de febrero.Ley 5/19839 de 21
+d) Formular motivadamente el anteproyecto de Presupuesto de la Consellería.
+e) Ejercer la potestad reglamentaria en las materias propias de su Consellería, en forma de
+Ordenes de la Consellería.
+f) Proponer al Consell, para su aprobación, la estructura y organización de sus respectivas
+Consellerías.
+g) Ejecutar los acuerdos del Gobierno en el marco de sus competencias.
+h) Resolver en vía administrativa los recursos que se interpongan contra las resoluciones de
+los organismos o autoridades de su conselleria que no estén adscritos a una secretaría
+autonómica, o los de ésta cuando no agoten la vía administrativa, salvo las excepciones que
+establezcan otras leyes. 27
+i) Resolver los conflictos de atribuciones que surjan entre distintos órganos y autoridades de
+su Consellería.
+j) Ejercer la dirección, iniciativa e inspección de todos los servicios del Departamento y la
+alta inspección y demás funciones que les correspondan respecto a los organismos autónomos
+adscritos al mismo.
+k) Disponer los gastos propios de los servicios de su Consellería dentro de los límites
+legales y presupuestarios y la ordenación de pagos correspondientes.
+l) Ejercer las facultades ordinarias en materia de contratación administrativa dentro de los
+límites legales presupuestarios.
+ll) Y cuales otras facultades que les atribuyeren las leyes, los reglamentos, el Consell o el
+Presidente de la Generalidad.
+
+
+#### Estatuto personal de los Consellers
+
+1. Los Consellers son nombrados y separados por el Presidente de la Generalidad.
+2. Los Consellers cesan en sus funciones:
+a) Por cese del Presidente de la Generalidad, si bien continuarán en sus funciones hasta la
+toma de posesión del nuevo Gobierno.
+b) Por dimisión aceptada por el Presidente.
+c) Por separación de su cargo, decidida libremente por el Presidente.
+d) Por incompatibilidad sobrevenida.
+e) Por fallecimiento.
+Artículo 37
+3. Los Consellers están sometidos al régimen de incompatibilidades que el artículo 10
+establece para el Presidente de la Generalidad. 28
+4. Los Consellers tienen tratamiento de Honorable Señor.
+
+
+#### Iniciativa legislativa y potestad reglamentaria
+
+El Consell ejerce la potestad reglamentaria de acuerdo con la Constitución, el Estatuto de
+Autonomía y las leyes. Las normas derivadas tienen la siguiente jerarquía: 
+
+1. **Decretos del Gobierno**: disposiciones de carácter general y actos singulares (en este último caso, cuando lo exija una norma legal o reglamentaria, o lo disponga el propio Consell). Deben estar firmados por el Presidente y refrendados por el Conseller o Consellers correspondientes. Publicación en el Diario Oficial de la Generalitat Valenciana (DOGV).
+
+2. **Decretos del Presidente**: disposiciones de carácter general y actos singulares (en este último caso, cuando lo exija una norma legal o reglamentaria, o lo disponga el propio Presidente: en especial sobre ceses y nombramientos y asignación de funciones a los Consellers).
+
+3. **Órdenes de las Comisiones Delegadas del Gobierno**: 
+
+4. **Órdenes de Consellerías**: por sus titulares, sobre materias de su departamento
+
+5. **Disposiciones de órganos inferiores por el orden de su jerarquía**: instrucciones y órdenes de servicio de los secretarios autonómicos y los órganos directivos de la administración valenciana, acerca de la organización interna de sus propios servicios.
+
+| Tipo                   | Aplicación                                                                                                                                                                                                        | Requisitos                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Decretos del Gobierno  | - Disposiciones de carácter general<br>- Actos singulares (cuando lo exija una norma legal o<br>reglamentaria, o lo disponga el propio Consell)                                                                   | - Firma del Presidente<br>- Reprendo del Conseller o Consellers correspondientes<br>- Publicación en el DOGV |
+| Decreto del Presidente | - Disposiciones de carácter general<br>- Actos singulares (cuando lo exija una norma legal o<br>reglamentaria, o lo disponga el propio Presidente: nombramientos, ceses, asignación de funciones a Consellers...) | - Publicación en el DOGV                                                                                     |
+
+Los límites de la potestad reglamentaria incluyen los siguientes (siendo nulos de pleno derecho): 
+
+- Penas, exacciones, tasas parafiscales y otras cargas similares.
+- Sanciones o multas (salvo autorización expresa por la Ley)
+- Restricción de derechos individuales (salvo en las Leyes)
+- Contravenir una norma de rango superior: Constitución, Estatuto de Autonomía, Leyes..., regulación de materias reservadas a una Ley (salvo autorización expresa)
+
+Además, las as resoluciones administrativas de carácter singular no podrán vulnerar lo establecido en una disposición de carácter general, aunque su grado sea igual o superior (principio de inderogabilidad singular: artículo ) tengan grado igual o superior a éstas.
+
+La iniciativa legislativa corresponde al *Consell* (artículo 14.5 del Estatuto de Autonomía), mediante la elaboración, aprobación y posterior remisión de los proyectos de ley a *Les Corts*. El procedimiento es el siguiente: 
+
+1. **Anteprotecto de Ley**: elaborado por la *Conselleria* competente (en caso de afectar a varias, el *Consell* podrá designar un de éste que asuma la coordinación), con informe preceptivo del subsecretario o subsecretarios competentes.
+
+2. **Elevación al Consell**: por la persona titular de la *Conselleria* correspondiente, para su deliberación
+
+3. **Consultas y dictámenes**: determinadas por el Consell
+
+4. **Proyecto de Ley**: aprobación por el Consell, tras su elevación de nuevo por la persona titular de la Conselleria competente (o quien haya asumido la coordinación), acompañándolo de la documentación prevista.
+
+El Consell podrá prescindir de los trámites previstos por razones de urgencia (salvo aquellos de carácter preceptivo), y en ese caso, se aprobará directamente, y se remitirá a Les Corts.
+
+| Tipología | Etapas                                                                                                              |
+| --------- | ------------------------------------------------------------------------------------------------------------------- |
+| Ordinario | 1. Anteprotecto de Ley<br>2. Elevación al Consell<br>3. Consultas y dictámenes<br>4. Aprobación del Proyecto de Ley |
+| Urgente   | 1. Aprobación del Proyecto de Ley                                                                                   |
+
+*Los proyectos de decreto legislativo seguirán los mismos trámites, debiendo respetarse en todo caso las directrices y límites dispuestos por les Corts en la correspondiente ley de bases (para la elaboración de textos articulados), o ley ordinaria (para la creación de textos refundidos).*
+
+
+
+
+Artículo 49 bis 34
+7. En la elaboración de los reglamentos se seguirán los trámites siguientes:
+a) El órgano competente formulará el proyecto de disposición, debiéndose incorporar al
+expediente un informe sobre la necesidad y oportunidad del proyecto, así como una memoria
+económica sobre la estimación del coste previsto que pueda incidir en la administración.
+b) Una copia del expediente se remitirá, en su caso, a la Presidencia y consellerias en cuyo
+ámbito pudiera incidir, con el fin de que, en el plazo máximo de diez días, emitan informe.
+c) Cuando el proyecto normativo afecte a la esfera de derechos e intereses legítimos de los
+ciudadanos, se dará audiencia al objeto de que en el plazo de quince días puedan presentar
+cuantas alegaciones consideren oportunas. No obstante, cuando el grupo de personas a las
+que pueda afectar el contenido de la disposición esté representada por organizaciones o
+asociaciones legalmente constituidas que tengan encomendada la defensa de sus intereses, se
+entenderá cumplido el presente trámite con la consulta a dichas entidades.
+Los plazos indicados en el apartado precedente podrán ser reducidos a siete días por
+razones de urgencia.
+No obstante, en los supuestos en que hayan participado en el proceso de elaboración del
+reglamento las organizaciones o asociaciones que ostenten la representación de colectivos o
+intereses sociales que puedan verse afectados por la disposición, así como en aquéllos en que
+graves razones de interés público, apreciadas por el órgano competente para la tramitación, así
+lo aconsejen, se podrá omitir el trámite de audiencia regulado en el presente apartado, dejando
+constancia de todo ello debidamente en el expediente.
+d) Durante la tramitación del procedimiento, se recabarán todos aquellos informes que se
+consideren necesarios, así como las autorizaciones y dictámenes previos que sean preceptivos
+en relación con el objeto del reglamento.
+e) Con anterioridad a la aprobación definitiva del proyecto, éste deberá ser remitido a la
+subsecretaría del departamento, la cual solicitará el informe de la Abogacía General de la
+Generalitat en el departamento cuando no fuera preceptivo el dictamen del Consejo Jurídico
+Consultivo de la Comunidad Valenciana.
+f) Emitido el informe al que se refiere el párrafo anterior, el expediente será remitido al
+Consejo Jurídico Consultivo de la Comunidad Valenciana para que evacue el pertinente
+dictamen en aquellos supuestos previstos legalmente.
+g) Concluida la tramitación del expediente, éste será remitido al conseller para su
+aprobación, o bien para su elevación al pleno del Consell cuando sea éste el órgano
+competente.
+8. En aquellos reglamentos que versen exclusivamente sobre materias organizativas de la
+Presidencia y las consellerias, no serán preceptivos los trámites previstos en los apartados c),
+e) y f) del epígrafe anterior.
+9. Las disposiciones de carácter general entrarán en vigor el día siguiente al de su
+publicación en el Diari Oficial de la Generalitat Valenciana, salvo que en las mismas se
+disponga otra cosa.
+
+
+### Relaciones del Consell con Les Corts
+
+Las relaciones del Consell con Les Corts se basa en cinco puntos principales: 
+
+- Impulso y control al Gobierno: por les Corts
+- Moción de censura
+- Cuestión de confianza
+- Legislación delegada
+- Expiración de mandato
+
+HAY MÁS (no es difícil)
+
+
+#### Administración Pública de la Generalitat
+
+La Administración Pública de la Generalidad Valenciana se organiza y actúa con
+personalidad jurídica única, conforme a criterios de eficacia, publicidad, jerarquía,
+descentralización, desconcentración y coordinación, con sometimiento pleno a la Ley y al
+Derecho, dentro de la mayor economía de medios que permita la obtención de los fines que tiene encomendados.
+
+- Disposiciones generales
+- Organización interna
+- Organización territorial (desconcentración)
+
+
+
+De acuerdo con lo establecido en los artículos 26 al 30 del Estatuto de Autonomía, el
+Consell reglamentará lo necesario para adaptar las normas de la Administración del Estado a la
+organización peculiar de la Generalidad Valenciana.
+
+La creación de todo órgano administrativo que suponga un incremento del gasto público irá
+precedido por un estudio económico del coste de su funcionamiento y del rendimiento o utilidad
+de sus servicios, así como de la posibilidad de aprovechamiento de los medios de otras
+administraciones, en evitación de un incremento injustificado de gasto público.
+
+
+1. El ejercicio de las competencias propias de cada órgano podrá ser delegado por éste en el órgano jerárquico inmediato inferior, salvo que por la aplicación del principio de eficacia sea aconsejable atribuirlo a otro órgano, sin que quepa la delegación de competencias delegadas.
+2. Las competencias propias del Gobierno Valenciano son delegables en cualquier caso en las Comisiones Delegadas del Gobierno.
+3. No son delegables las siguientes competencias:
+
+a) Las que procedan de una atribución expresa del Estatuto de Autonomía.
+b) Las que correspondan a los Consellers en su condición de miembros del Gobierno.
+c) Las que correspondan a relaciones con órganos del Estado, de otras Comunidades
+Autónomas o las Cortes Valencianas.
+4. Las delegaciones realizadas por órganos del nivel administrativo requerirán autorización
+previa del Conseller.
+5. Las delegaciones podrán ser revocadas en cualquier momento por el órgano delegante.
+6. Las delegaciones y sus renovaciones deberán ser publicadas en el Diario Oficial de la
+Generalidad Valenciana, y en las resoluciones adoptadas por la delegación deberá hacerse
+constar este extremo
+
+
+---
+
+La organización interna
+
+Se atribuye al Consell la regulación reglamentaria de la organización o estructura de la
+Administración de la Generalidad Valenciana, y en todo caso, la determinación del número y
+denominación de las Consellerías
+
+Se aprobará por el Consell un Reglamento orgánico de cada Consellería a propuesta del
+Conseller respectivo.
+Artículo 71 49
+La Presidencia de la Generalitat y los consellers desarrollarán orgánicamente su propia
+conselleria o departamento en los términos de su reglamento orgánico y demás normas
+reglamentarias que apruebe el Consell.
+Artículo 72 50
+La organización de las consellerias se estructura en tres niveles: órganos superiores, nivel
+directivo y nivel administrativo.
+Artículo 73 51
+Los órganos superiores del departamento son el conseller y los secretarios autonómicos.
+El nivel directivo lo integran los subsecretarios, directores generales y demás altos cargos
+que ostenten el rango de director general.
+Artículo 74 52
+1. Bajo la dependencia del presidente, vicepresidentes y consellers, se podrán crear
+secretarías autonómicas.
+2. Los secretarios autonómicos dirigen y coordinan los centros directivos que se adscriben
+bajo su dependencia y responden, ante el titular del que dependan, de la gestión de aquellas
+materias que les sean atribuidas.
+3. Los secretarios autonómicos llevan a cabo las siguientes funciones ejecutivas:
+a) Ejercer las facultades inherentes al sector o actividad de la competencia material que
+tengan atribuida por la norma de creación del órgano.
+b) Impulsar y coordinar la consecución de los programas y la ejecución de los proyectos que
+desempeñen los centros directivos que estén bajo su dependencia, controlando y supervisando
+el cumplimiento de los objetivos que fijen el presidente, vicepresidentes o conseller
+competente.
+c) Resolver los recursos que se interpongan contra las resoluciones de los centros directivos
+que estén bajo su dependencia y cuyos actos no agoten la vía administrativa.
+d) Cualesquiera otras que les atribuya la vigente legislación, o se les asigne
+reglamentariamente.
+Artículo 75 53
+4. Bajo la directa dependencia del presidente y de cada conseller, se creará la
+subsecretaría, que llevará a cabo la inspección de todos los servicios de su ámbito, ostentando
+la jefatura de todo el personal de la misma.
+5. Asimismo, los subsecretarios tienen competencia respecto a los servicios comunes, la
+supervisión y recopilación de documentos, y asistencia en las materias propias de cada
+conselleria, especialmente en orden a:
+a) Elaborar proyectos o planes de actuación y programas de necesidades de la conselleria.
+b) Prestar asistencia técnica al conseller, secretario autonómico y directores generales en
+todo lo que se requiera.
+c) Informar al personal directivo de cada conselleria de la procedencia legal y viabilidad
+económica de sus programas de actuaciones.
+d) Informar los asuntos que cada conseller deba someter al pleno del Consell o al
+presidente.
+
+
+e) Proponer la reforma que se encamine a mejorar y perfeccionar los servicios de los
+distintos centros de la conselleria, y preparar lo relativo a su organización y método de trabajo,
+atendiendo principalmente a sus costos y rendimientos.
+f) Proponer normas generales sobre adquisición de material y cuantas disposiciones afecten
+al funcionamiento de los servicios.
+g) Preparar compilaciones de las disposiciones vigentes que afecten al Consell, proponer
+las refundiciones y revisiones de textos legales que se consideren oportunas y cuidar de las
+publicaciones técnicas, periódicas o no, de cada conselleria.
+h) Dirigir y facilitar la formación de estadísticas acerca de las materias de competencia del
+Consell, en lo que afecte a cada conselleria, en colaboración con el Instituto Valenciano de
+Estadística y el Instituto Nacional de Estadística u otros organismos que se consideren
+convenientes.
+i) Dirigir y supervisar la gestión de la secretaría general administrativa.
+j) Cualquier otra competencia que sea inherente a los servicios comunes de la conselleria o
+Presidencia, según los casos, y las que le sean atribuidas por la normativa vigente.
+3. No obstante lo dispuesto en el apartado 1 del presente artículo, en aquellas consellerias
+que tengan asignadas competencias en materia sanitaria y educativa, podrán crearse
+reglamentariamente centros directivos cuyos titulares ostentarán la jefatura del personal
+sanitario y docente, llevando a cabo además la inspección de las respectivas unidades.
+Asimismo, en la conselleria que tenga asignada la materia de Justicia, se podrá crear
+reglamentariamente un centro directivo cuyo titular ostentará las competencias en materia del
+personal al servicio de la administración de justicia que correspondan a la Generalitat
+Valenciana.
+Artículo 76 54
+Son funciones de los Directores Generales:
+4. Disponer cuanto concierne al régimen interno de los servicios de su dirección y resolver
+los respectivos expedientes, cuando no sea facultad privativa del conseller, secretario
+autonómico o subsecretario.
+5. Dirigir y gestionar los servicios y resolver los asuntos que le asigne el reglamento
+orgánico de la conselleria o que el conseller o el secretario autonómico encomiende a su
+incumbencia.
+6. Vigilar, fiscalizar y supervisar el funcionamiento de todas las dependencias a su cargo.
+7. Proponer a sus órganos superiores la resolución que estime procedente en asuntos que
+sean de su competencia y cuya tramitación corresponde a la dirección general.
+8. Establecer el régimen interno de las oficinas de ellos dependientes. ,
+9. Elevar anualmente a sus órganos superiores un informe acerca del funcionamiento, coste
+y rendimiento de los servicios a su cargo, proponiendo las modificaciones que le asignen las
+leyes, reglamentos u órganos superiores.
+Artículo 77
+El nivel administrativo está integrado por el resto de unidades bajo la dependencia de las
+anteriores o directamente del Conseller con carácter excepcional.
+Artículo 78 55
+El nivel administrativo se organizará normalmente en áreas, servicios, secciones y
+negociados, pudiendo establecerse otras unidades cuando así fuese necesario.
+Artículo 79 56
+10. En todas las consellerias, y en la Presidencia, en su caso, como máximo órgano de nivel
+administrativo de cada una de ellas, existirá una única secretaría general administrativa,
+dependiente de la subsecretaría.
+11. Son funciones de la secretaría general administrativa prestar apoyo directo al titular de la
+subsecretaría, y bajo su autoridad atender todos los servicios generales del departamento.
+
+
+La organización territorial incluyen los siguientes: 
+
+- **Servicios centrales**: competencia sobre todo el territorio de la Comunidad
+- **Servicios periféricos** (desconcentración territorial): competencias en ámbito territorial determinado (artículo 46 y 47 del Estatuto de Autonomía)
+
+
+#### Responsabilidad
+
+Incluyen varias: 
+
+- **Penal del President y los miembros del Consell**: ante el Tribunal Superior de Justicia Valenciano, a propuesta de *les Corts*.
+
+- **Penal y civil de las autoridades y funcionarios de la Generalidad**: de acuerdo con lo previsto en las disposiciones generales del Estado en la materia (salvo las referidas al Tribunal Supremo, que se harán al Tribunal Superior de Justicia Valenciano).
+
+- **Patrimonial de la Generalitat**: exigible por toda lesión que como consecuencia del funcionamiento de los servicios públicos sufran los ciudadanos en cualquiera de sus bienes y derechos (salvo casos de fuerza mayor).
+
+
+### Ley 1/2015
+
+
+La [Ley 1/2015](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2015/L_2015_01_ca_L_2016_13.pdf) regula el régimen económico-financiero del sector público de la Generalitat, en torno a las materias siguientes:
+
+- **Régimen económico-financiero del sector público** de la Generalitat
+	- Hacienda pública
+	- Presupuesto
+	- Contabilidad, tesorería y endeudamiento
+	- Control financiero
+	- Subvenciones
+
+- **Sector público instrumental** de la Generalitat
+- **Subvenciones**
 
 | Títulos                                     | Contenido                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -167,19 +642,59 @@ Se aplica a los siguientes:
 
 - **Universidades públicas, otras** (sociedades no financieras públicas...): seguimiento de los principios de estabilidad presupuestaria y sostenibilidad financiera (capítulo II de la Ley Orgánica 2/2012)
 
+#### Ámbito de aplicación
+
+El ámbito de aplicación incluye el siguiente: 
+
+- **Sector público**
 
 
+
+- **Fondos carentes de personalidad jurídica** (cuando su dotación mayoritaria sea desde los presupuestos de la Generalitat): régimen presupuestario, económico-financiero, contable y de control
+
+- **Universidades públicas**: 
+
+
+
+
+- **Administración** de la Generalitat
+- **Sector público instrumental** 
+	- Organismos públicos:
+		- Autónomos
+		- Entidades públicas empresariales
+	- Sociedades mercantiles
+	- Fundaciones
+	- Consorcios (si sus actos dependen de la decisión de Generalitat: directa o indirectamente).
+
+- **Instituciones** de la Generalitat (artículo 20.3 del Estatuto de Autonomía) (incluso si no tienen personalidad jurídica) (régimen de contabilidad y control según sus normas de creación, organización y funcionamiento)
+
+*No se aplica a Les Corts (autonomía presupuestaria: artículo 21 del Estatuto), pero se mantendrá la coordinación para la elaboración del Proyecto de Ley de Presupuestos de la Generalitat.*
+
+Se regula también el régimen presupuestario, económico-financiero, contable y de
+control de los fondos carentes de personalidad jurídica cuya dotación se efectúe mayoritariamente desde los presupuestos de la Generalitat.
+
+Y se aplica a su vez a las Universidades Públicas, a efectos de seguimiento de los principios 
+5. La presente ley se aplicará también, a los efectos del seguimiento de los principios reco-
+gidos en el capítulo II de la Ley Orgánica 2/2012, de 27 de abril, a las universidades públicas
 dependientes de la Generalitat y al resto de entes adscritos que, sin formar parte del sector
 público de la Generalitat a los efectos de esta ley, estén incluidos en el sector administraciones
 públicas, subsector comunidades autónomas o en el subsector sociedades no financieras
 públicas, de acuerdo con la definición y delimitación del Sistema Europeo de Cuentas Naciona-
 les y Regionales.
-Dicha aplicación alcanzará, en todo caso, tanto al seguimiento de los principios y obligacio-
-nes contables regulados en el título VII de la presente ley, como a la sujeción, en materia de
+Dicha aplicación alcanzará, en todo caso, tanto al seguimiento de los principios y obligaciones contables regulados en el título VII de la presente ley, como a la sujeción, en materia de
 endeudamiento, a lo previsto en el artículo 88 de la presente ley.
+
+El sector público de la Generalitat se clasifica en el siguiente: 
+
+|                           |                                                                                                                                                                                                     |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Administrativo            | - Administración de la Generalitat<br>- Organismos autónomos<br>- Instituciones<br>- Consorcios<br>- Entidades de derecho público                                                                   |
+| Empresarial y fundacional | - Entidades públicas empresariales<br>- Sociedades mercantiles<br>- Fundaciones públicas<br>- Consorcios y otras entidades de derecho público no administrativo (letra c del apartado uno anterior) |
+
+
 Artículo 3. De la estructura del sector público de la Generalitat
 El sector público de la Generalitat, a los efectos de esta ley, se ordena en:
-5. Sector público administrativo, integrado por:
+6. Sector público administrativo, integrado por:
 a) La Administración de la Generalitat y los organismos autónomos de la Generalitat.
 b) Las Instituciones a que se refiere el apartado 1.c del artículo anterior.
 c) Los consorcios a los que se refiere el artículo 2.3.d de esta ley y las entidades de derecho
@@ -191,71 +706,299 @@ tribución de renta y de la riqueza nacional, en todo caso sin ánimo de lucro.
 - Que no se financien mayoritariamente con ingresos comerciales, entendiéndose como ta-
 les a los efectos de esta ley, los ingresos, cualquiera que sea su naturaleza obtenidos como
 contrapartida de las entregas de bienes o prestaciones de servicios.
-2. Sector público empresarial y fundacional, integrado por:
-a) Las entidades públicas empresariales de la Generalitat.
-b) Las sociedades mercantiles de la Generalitat.
-c) Las fundaciones del sector público de la Generalitat.
-d) Los consorcios y otras entidades de derecho público a que se refiere la letra c del aparta-
-do uno anterior siempre que no estén incluidas en el sector público administrativo.Ley 1/20157 de 70
-Artículo 4. Del régimen económico-presupuestario básico del sector público de la Ge-
-neralitat
-3. El presupuesto de gastos de los sujetos que conforman el sector público administrativo
-tendrá carácter limitativo y vinculante.
-A los efectos de lo dispuesto en el párrafo anterior, el presupuesto de gastos de las entida-
-des de derecho público integradas en el sector público administrativo, tendrá carácter limitativo
-por el importe global y carácter estimativo para la distribución de los créditos de acuerdo con su
-naturaleza económica, con excepción de los correspondientes a gastos de personal y de sub-
-venciones nominativas que, en todo caso, tendrán carácter limitativo y vinculante.
-4. El presupuesto de gastos de las entidades integradas en el sector público empresarial y
-fundacional tendrá carácter estimativo y no vinculante, salvo las dotaciones consignadas en el
-capítulo destinado a gastos de personal que tendrán carácter limitativo y vinculante por su
-cuantía total.
-Artículo 5. Normativa reguladora
-5. La actividad económico-financiera del sector público de la Generalitat se sujetará a la
-normativa comunitaria, a la legislación básica del Estado en la materia, y, en concreto, la misma
-se adecuará a los principios rectores en materia de estabilidad presupuestaria y sostenibilidad
-financiera.
-Sin perjuicio de lo anterior, dicha actividad se regirá por la presente ley y su normativa de
-desarrollo, por las leyes especiales que sobre la materia puedan aprobarse por Les Corts, y por
-los preceptos que contengan las leyes anuales de Presupuestos. Serán de aplicación supleto-
-ria las normas de derecho administrativo y, en su defecto, las de derecho común.
-6. A tal efecto, se someterán a su normativa específica:
-a) El régimen jurídico de las relaciones tributarias, y en concreto el establecimiento, modifi-
-cación y supresión de los tributos propios, recargos sobre tributos estatales y otras prestacio-
-nes patrimoniales de carácter público de la Generalitat.
-b) El régimen jurídico del patrimonio de los sujetos que conforman el sector público de la
-Generalitat
-c) El régimen de contratación de los sujetos que conforman el sector público de la Generali-
-tat.
-d) Las ayudas o subvenciones concedidas por los sujetos integrantes del sector público de
-la Generalitat, sin perjuicio de las especialidades recogidas en la presente ley.
-e) El régimen de realización de gastos en aquellas materias que por su especialidad no se
-hallan reguladas en esta ley.
-CAPÍTULO II. Del Régimen de la Hacienda Pública de la Generalitat
-Sección 1.ª. Derechos de la Hacienda Pública de la Generalitat
-Artículo 6. De la Hacienda Pública de la Generalitat
-7. La Hacienda Pública de la Generalitat comprende el conjunto de derechos y obligaciones
-de contenido económico cuya titularidad corresponde a la Administración de la Generalitat y al
-resto de sujetos que conforman el sector público administrativo de la Generalitat.
-8. La Administración de la Gener
 
 
-Los Presupuestos de la Generalitat constituyen la expresión cifrada, conjunta y sistemática
-de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los sujetos que
-forman parte del sector público de la Generalitat. Se adecuarán a los principios que rigen la programación presupuestaria, a los escenarios presupuestarios plurianuales y a la consecución de los objetivos de los programas de gasto.
 
-- Sector público administrativo
-- Explotación y capital de las entidades del sector público empresarial y fundacional.
-- Fondos sin personalidad jurídica??? (artículo 2.4 de esta ley)
+El carácter de los presupuestos cambia según el tipo: 
 
-Determinarán lo siguiente: 
-- Obligaciones económicas que, como máximo, pueden reconocer y los derechos que
-prevén liquidar durante el correspondiente ejercicio los sujetos referidos en la letra a del apar-
-tado anterior.
-- Gastos e ingresos y las operaciones de inversión y financieras a realizar por las entidades contempladas en la letra b del apartado anterior.
-- Objetivos a alcanzar en el ejercicio por cada uno de los gestores responsables de los
-programas con los recursos que el respectivo presupuesto les asigna.
-d) La estimación de los beneficios fiscales que afecten a los tributos de la Generalitat y a
-aquellos cuyo rendimiento se cede por el Estado a la Generalitat, detallando para cada tipo de
-impuesto el importe de los beneficios fiscales correspondientes a normativa estatal y a normati-
-va de la Comunitat Valenciana.
+- Administrativo: limitativo y vinculante.
+- Entidades de derecho público integradas en el sector público administrativo:  limitativo por el importe global y carácter estimativo para la distribución de los créditos de acuerdo con su naturaleza económica (con excepción de los correspondientes a gastos de personal y de subvenciones: en todo caso, tendrán carácter limitativo y vinculante)
+- Entidades del sector público empresarial y fundacional: estimativo y no vinculante (salvo las dotaciones consignadas en el capítulo destinado a gastos de personal: limitativo y vinculante por su cuantía total.
+
+La normativa reguladora incluye la siguiente (en cursiva aquellas aplicadas de manera supletoria): 
+
+| Tipología | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General   | - Normativa de la Unión Europea<br>- Legislación básica del Estado<br>- Principios rectores en materia de estabilidad presupuestaria y sostenibilidad financiera ([capítulo II de la Ley 2/2012](https://boe.es/buscar/act.php?id=BOE-A-2012-5730&p=20251203&tn=1#cii))<br>- Normativa autonómica: la presente Ley, su normativa de desarrollo, las leyes especiales sectoriales de Les Corts<br>- Preceptos de las leyes anuales de Presupuestos<br>*- Derecho administrativo (y en su defecto, derecho común)* |
+| Especial  | - **Relaciones tributarias**: prestaciones patrimoniales públicas (tributos propios, recargos sobre tributos estatales... establecimiento, modificación y supresión)<br>- **Patrimonio**: de los sujetos que conforman el sector público de la Generalitat<br>- **Contratación** (sujetos del sector público)<br>- **Ayudas o subvenciones** (sujetos del sector público)<br>- **Gastos** (en materias no reguladas por esta Ley)                                                                                |
+
+
+### Presupuestos
+
+Los presupuestos de la Generalitat son la expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio por cada uno de los sujetos que forman parte del ***sector público*** de la Generalitat.
+
+Se adecuarán a los principios que de la programación presupuestaria, a los escenarios presupuestarios plurianuales y a la consecución de los objetivos de los programas de gasto.
+
+El alcance y contenido es el siguiente:
+
+- **Sujetos del sector público administrativo**: obligaciones económicas máximas a reconocer y derechos a liquidar
+
+- **Sector público empresarial**: de explotación y capital
+
+- **Presupuestos de fondos sin personalidad jurídica** (artículo 2.4)
+
+|           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alcance   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Contenido | <br>b) Los gastos e ingresos y las operaciones de inversión y financieras a realizar por las enti-<br>dades contempladas en la letra b del apartado anterior.<br>c) Los objetivos a alcanzar en el ejercicio por cada uno de los gestores responsables de los<br>programas con los recursos que el respectivo presupuesto les asigna.<br>d) La estimación de los beneficios fiscales que afecten a los tributos de la Generalitat y a<br>aquellos cuyo rendimiento se cede por el Estado a la Generalitat, detallando para cada tipo de<br>impuesto el importe de los beneficios fiscales correspondientes a normativa estatal y a normati-<br>va de la Comunitat Valenciana. |
+
+Los créditos presupuestarios son cada una de las asignaciones individualizadas de gasto,
+que figuran en los presupuestos de los sujetos del sector público administrativo, para cubrir las necesidades aprobadas. Se especificarán por agrupación orgánica, por programas, y en su caso, de manera territorial (artículo 37) (además de otros para su contabilización).
+
+Los programas de gasto agregan el conjunto de créditos que se consideran necesarios
+para el desarrollo de actividades orientadas a la consecución de determinados objetivos preestablecidos: producción de bienes y servicios, cumplimiento de obligaciones, y realización de otras actividades asignadas. Establecerán su contenido referido a los  siguientes extremos:
+
+- **Objetivos**: expresados de forma objetiva, clara y mensurable a alcanzar en el periodo.
+- **Actividades** a realizar: para la consecución de los objetivos.
+- **Medios** (dispuestos a los responsables de los programas): económicos, materiales y personales, con especificación de los créditos asignados.
+- **Financiación**: líneas de subvención, proyectos de inversión y financieros a realizar
+- **Ingresos afectados** (en su caso)
+- **Indicadores de ejecución** (mensurables, identificables, para de cada objetivo): sobre su eficacia, eficiencia, economía y calidad (medición, seguimiento y evaluación). Determina el grado de cumplimiento.
+
+Los programas de gasto se definirán en términos anuales (pero deberán referenciar los programas plurianuales en que se enmarcan)
+
+
+
+
+Sección 2.ª. Elaboración del presupuesto
+Artículo 33. Procedimiento de elaboración
+8. Aprobados los objetivos de estabilidad y deuda pública, así como la regla de gasto, el
+Consell, a propuesta de la persona titular de la conselleria con competencias en materia de
+hacienda, acordará el límite máximo de gasto no financiero de los Presupuestos de la Generali-
+tat para el siguiente ejercicio, con la extensión y de la forma prevista en la normativa en materia
+de estabilidad presupuestaria y sostenibilidad financiera.
+9. La persona titular de la conselleria con competencias en materia de hacienda fijará por
+orden el procedimiento y los plazos para la elaboración de los Presupuestos de la Generalitat.
+A tal efecto, por la citada conselleria se establecerán los criterios de elaboración de las pro-
+puestas de presupuestos y sus límites cuantitativos con las prioridades y limitaciones que de-
+ban respetarse.
+Para una mejor ordenación del proceso de elaboración podrán constituirse, mediante la
+mencionada orden, las comisiones que se consideren necesarias.
+Las instituciones de la Generalitat y las consellerias remitirán a la conselleria con competen-
+cias en materia de hacienda sus propuestas de presupuesto, así como las propuestas de pre-
+supuesto de los distintos sujetos que conforman el sector público instrumental a ellas adscritos.
+Las propuestas se ajustarán a las directrices fijadas y se acompañarán de la documentación
+que se especifique en la mencionada orden de elaboración.
+10. La conselleria con competencias en materia de hacienda elaborará el anteproyecto del
+presupuesto de ingresos de la Administración de la Generalitat.
+11. La conselleria con competencias en materia de hacienda, examinará la anterior documen-
+tación y, de acuerdo con el límite de gasto no financiero, los escenarios plurianuales y los pla-
+nes económicos vigentes, elaborará el Anteproyecto de Ley de Presupuestos atendiendo a las
+directrices y el procedimiento fijado en la orden de elaboración.
+12. La persona titular de la conselleria con competencias en materia de hacienda elevará al
+Consell el Anteproyecto de la Ley de Presupuestos de la Generalitat, que deberá ir acompaña-
+do por la documentación complementaria que se determine en esta ley.
+Artículo 34. Remisión a Les Corts
+13. El Proyecto de Ley de Presupuestos de la Generalitat, integrado por el articulado con sus
+anexos y los estados de gastos y de ingresos, con el nivel de especificación establecido en los
+artículos 37 y 38 de esta ley se remitirá a Les Corts antes del 1 de noviembre de cada año, pa-
+ra su examen y aprobación o, en su caso, enmienda o devolución al Consell.
+
+El Proyecto de Ley de Presupuestos de la Generalitat, irá acompañado de la siguientedocumentación:
+- Estados consolidados de los presupuestos
+- Memoria explicativa (articulado del proyecto de ley).
+- Detalle de las plantillas de la Administración de la Generalitat y organismos autónomos, adecuada a la estructura orgánica.
+- Distribución de los gastos en programas por objetivos.
+- Detalle, con alcance plurianual, de los proyectos de inversión que incluirá, en su caso, la clasificación territorial.
+- La liquidación de los presupuestos del año anterior y un estado de ejecución del presupuesto de la Administración de la Generalitat del ejercicio corriente.
+- Informe Económico-financiero que incluirá entre su contenido necesariamente:
+	- Supuestos y previsiones macroeconómicas que sustentan el Presupuesto de la Generalitat.
+	- Informe justificativo del cumplimiento de los objetivos de estabilidad presupuestaria, deuda pública y conformidad con la regla de gasto de los presupuestos de la Generalitat, así como de su coherencia con la programación presupuestaria.
+- Memoria de los beneficios fiscales que afecten a los tributos de la Generalitat
+- Informe de impacto de género.
+
+
+Si Les Corts no aprobaran el presupuesto de la Generalitat antes del primer día del ejercicio económico correspondiente, se entenderá prorrogado el del ejercicio anterior hasta la aprobación y publicación del nuevo en el Diari Oficial de la Comunitat Valenciana.
+
+La prórroga no afectará a los créditos para gastos correspondientes a programas o actuaciones que terminen en el ejercicio cuyos presupuestos se prorrogan o para obligaciones que se extingan en el mismo.
+
+
+3. La estructura orgánica del presupuesto prorrogado se adaptará, sin alteración de la
+cuantía total, a la organización administrativa en vigor en el ejercicio en que el presupuesto de-
+ba ejecutarse.
+4. El Consell, a propuesta de la persona titular de la conselleria con competencias en mate-
+ria de hacienda, podrá establecer las condiciones específicas de la prórroga.
+Sección 3.ª. Estructura de los Presupuestos
+Artículo 36. Estructura de los Presupuestos de la Generalitat
+La estructura de los Presupuestos de la Generalitat y de sus anexos se determinará, de
+acuerdo con lo establecido en esta ley, por la conselleria con competencias en materia de
+hacienda, teniendo en cuenta la organización del sector público de la Generalitat, la naturaleza
+económica de los ingresos y de los gastos y las finalidades y objetivos que se pretenda conse-
+guir.
+Artículo 37. Estructura de los estados de gastos de los Presupuestos de la Generalitat
+Los estados de gastos de los presupuestos de los sujetos con presupuesto limitativo se estructurarán de acuerdo con las siguientes clasificaciones:
+
+- **Orgánica**: por secciones y servicios presupuestarios los créditos asignados.
+
+- **Por programas**: permitirá la agrupación de los créditos conforme a lo establecido en el artículo 32 de esta ley. Al objeto de disponer de una clasificación funcional del gasto, los créditos se identificarán funcionalmente de acuerdo a su finalidad.
+
+- **Económica**: por capítulos, separando las operaciones corrientes, las de capital, las financieras y el Fondo de Contingencia de ejecución presupuestaria.
+
+	*Los capítulos se desglosarán en artículos y estos, a su vez, en conceptos que podrán dividirse en subconceptos.
+
+	*El Fondo de Contingencia recogerá la dotación para atender necesidades de carácter no discrecional y no previstas (artículo 43 de esta ley).*
+
+- **Territorial**: por provincias, comarcas o municipios.
+
+La estructura de los ingresos es la siguiente: 
+
+- **Orgánica**: Administración de la Generalitat y resto de sujetos (según proceda)
+
+- **Económica**: separando los corrientes, los de capital, y las operaciones financieras.
+
+*Los capítulos también se desglosarán en artículos y estos, a su vez, en conceptos que podrán dividirse en subconceptos.*
+
+| Gastos                                                            | Ingresos                      |
+| ----------------------------------------------------------------- | ----------------------------- |
+| - Orgánica<br>- Por programas<br>- **Económica**<br>- Territorial | - Orgánica<br>- **Económica** |
+
+
+| Tipo de operaciones | Gastos                                                                                             | Ingresos                                                                                                                                                |
+| ------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Corrientes          | - De personal<br>- Corrientes (bienes y servicios)<br>- Financieros<br>- Transferencias corrientes | - Impuestos directos<br>- Impuestos indirectos<br>- Tasas, precios públicos y otros ingresos<br>- Transferencias corrientes<br>- Ingresos patrimoniales |
+| De capital          | - Inversiones reales<br>- Transferencias de capital                                                | - Enajenación de inversiones reales<br>- Transferencias de capital                                                                                      |
+| Financieras         | - Activos<br>- Pasivos                                                                             | - Activos<br>- Pasivos                                                                                                                                  |
+
+
+### Sector público instrumental
+
+El sector público instrumental de la Generalitat está formado por lo organismos siguientes: 
+
+- **Organismos públicos** (descentralización funcional): creados por Ley de Les Corts, con personalidad jurídica, patrimonio y tesorería propios, autonomía de gestión, y libertad de actuación  para fines de interés público, actividades de ejecución o gestión administrativa, prestacionales o de fomento o contenido económico. Prerrogativas y beneficios fiscales de acuerdo a la legislación.
+
+	- **Organismos autónomos**: se rigen por el derecho administrativo y se les encomienda programas específicos de la actividad de una Conselleria en régimen de descentralización funcional y en ejecución de programas específicos de la actividad de una Conselleria, la realización de actividades administrativas, de fomento, prestacionales o de gestión de servicios públicos. Ingresos propios (y de la Generalittat, en su caso). Personal funcionario y/o laboral.
+
+		*Pueden depender funcionalmente de una o varias Consellerias, pero solo pueden estar adscritas a la principal, de acuerdo a los fines y objetivos asignados.*
+
+	- **Entidades de derecho público**: se rigen por el derecho privado (salvo en la formación de la voluntad de sus órganos, ejercicio de potestades administrativas atribuidas, y otros regulados en esta Ley, sus estatutos, y la legislación presupuestaria) 
+
+		*Aquellas cuyas funciones sean susceptibles de contraprestación se denominan entidades públicas empresariales ([VAERSA](https://www.vaersa.com/cas/), [EPSAR](https://www.epsar.gva.es/)...)*
+
+|                              |                                                                                                                                                                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Organismos autónomos         | - Ingresos: propios y de la Generalitat<br>- Personal: funcionario o laboral                                                                                                                                    |
+| Entidades de derecho público | - Derecho privado (salvo en la formación de la voluntad de sus órganos, ejercicio de potestades administrativas atribuidas, y otros regulados en esta Ley, sus estatutos, y la legislación presupuestaria)<br>- |
+
+CREO QUE HAY ALGO MÁS DE LOS AUTÓNOMOS
+
+
+5. Las entidades de derecho público no incluidas en el apartado anterior desarrollarán sus
+actividades con arreglo a un plan de acción anual, bajo la vigencia y en el marco de un contrato
+plurianual de gestión, que será aprobado por el Consell a propuesta de la conselleria de ads-
+cripción, con informe favorable de la conselleria con competencia en las materias de hacienda
+y de sector público. El citado contrato contendrá, al menos:
+a) Los objetivos a alcanzar, los resultados a obtener y, en general, la gestión a desarrollar
+así como los indicadores para evaluar los resultados obtenidos.
+b) Los recursos personales, materiales y económicos para la consecución de los objetivos.
+c) El procedimiento a seguir para la cobertura de los déficit anuales que, en su caso, se pu-
+dieran producir por insuficiencia de los ingresos reales respecto de los estimados y las conse-
+cuencias de responsabilidad en la gestión que, en su caso, procedan.
+d) El régimen de control de su cumplimiento por parte de la conselleria competente en mate-
+ria de hacienda, así como el procedimiento para los ajustes y adaptaciones anuales que, en su
+caso, procedan.
+6. El personal de las entidades públicas empresariales se rige por el derecho laboral, con
+las especificaciones dispuestas por la legislación sobre función pública que les resulten de apli-
+cación.
+Sin perjuicio de lo anterior, podrán adscribirse funcionarios públicos a las entidades públicas
+empresariales en los términos y condiciones previstos en la normativa en vigor.
+7. La selección del personal laboral de estas entidades se realizará mediante convocatoria
+pública basada en los principios de igualdad, mérito y capacidad.
+
+- **Sociedades mercantiles**: tienen personalidad jurídica privada, se rigen por derecho privado (y normativa específica), y no podrán realizar facultades que impliquen potestades administrativas, derechos y obligaciones económicas privadas.
+
+- **Fundaciones**: personalidad jurídica privada, y en ningún caso dispondrán de facultades que impliquen el ejercicio de potestades administrativas, ordenamiento jurídico privado
+
+- **Consorcios**: cuando se adscriban a la Generalitat por aplicación de la normativa estatal básica, y sus actos estén sujetos al poder de decisión de la administración autonómica (directa o indirectamente)
+
+| Organismo                    | Características                                                  |
+| ---------------------------- | ---------------------------------------------------------------- |
+| Organismos autónomos         |                                                                  |
+| Entidades de derecho público |                                                                  |
+| Sociedades mercantiles       |                                                                  |
+| Fundaciones                  |                                                                  |
+| Consorcios                   | *Sólo si están suscritos a y son dependientes de la Generalitat* |
+
+#### Subvenciones
+
+
+
+
+Los órganos competentes son los siguientes: 
+
+| Órgano                                                                                           | Competencias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Consell                                                                                          | a) La aprobación de las bases reguladoras y, en su caso, la concesión de aquellas subven-<br>ciones en que se acrediten razones de interés público, social, económico o humanitario, u otras<br>debidamente justificadas que dificulten su convocatoria pública.<br>b) La autorización del correspondiente convenio, cuando las subvenciones de concesión di-<br>recta se instrumenten a través de esta fórmula jurídica.<br>c) La autorización previa para la concesión de las subvenciones de concurrencia competiti-<br>va de cuantía superior a un millón de euros. Esta autorización no implicará la aprobación del<br>gasto que, en todo caso, corresponderá al órgano competente para la concesión. |
+| Titulares de Conselleria                                                                         | a) Aprobar el plan estratégico de subvenciones de la conselleria, que abarcará tanto las<br>propias del departamento como las de los organismos públicos vinculados o dependientes.<br>15 Artículo 157 redactado por el artículo 61 de la Ley 13/2016, de 29 de diciembre.Ley 1/201556 de 70<br>b) Aprobar mediante orden las oportunas bases reguladoras de la concesión de las subven-<br>ciones.<br>c) Acordar e imponer las sanciones que corresponda en materia de subvenciones, salvo lo<br>dispuesto en el apartado 3 siguiente                                                                                                                                                                     |
+| Titular de Conselleria de Hacienda                                                               | acordar e imponer la sanción de pérdida de la posibilidad de obtener subven-<br>ciones, ayudas públicas y avales de la Comunitat Valenciana, de prohibición para celebrar con-<br>tratos con su Administración o con los organismos y entidades de ella dependientes o de pérdi-<br>da de la posibilidad de actuar como entidad colaboradora en relación con las subvenciones a<br>que se refiere la presente ley                                                                                                                                                                                                                                                                                          |
+| Titulares de Conselleria y presidencia o dirección de entidades del sector público institucional | a) La aprobación del gasto correspondiente a las subvenciones.<br>b) La convocatoria de las subvenciones.<br>c) La concesión de las subvenciones de concurrencia competitiva, sin perjuicio de lo dis-<br>puesto en el apartado 1.c de este mismo artículo.<br>d) La concesión de las subvenciones nominativas, sin perjuicio de lo establecido anterior-<br>mente en el apartado 1.b de este mismo artículo.<br>e) La resolución del procedimiento de revocación y reintegro<br>- Otra otra competencia sobre el procedimiento que le puedan atribuir las bases regu-<br>ladoras de las subvenciones, siempre que no se oponga a lo establecido en este artículo.                                         |
+5. Las competencias para conceder subvenciones podrán ser desconcentradas o delegadas
+de acuerdo con las normas que regulan la atribución y el ejercicio de las competencias. En las
+normas en que se dispongan la delegación o la desconcentración se especificarán expresa-
+mente las facultades y funciones que tales decisiones llevan implícitas en relación con el pro-
+cedimiento de concesión.
+De conformidad con lo previsto en la legislación básica estatal, no cabrá la delegación de
+las competencias de las personas titulares de las consellerias en relación con la aprobación de
+las bases reguladoras de las subvenciones.
+
+- Entidades colaboradoras
+- Ayudas en especie
+
+
+El procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva. Excepcionalmente, se podrá conceder de forma directa (de acuerdo a la legislación básica del Estado y a la presente norma)
+
+- **Concurrencia competitiva**:
+
+|                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bases reguladoras                     | a) Definición del objeto de la subvención.<br>b) Requisitos que deberán cumplir las personas beneficiarias para la obtención de la sub-<br>vención y forma de acreditarlos.<br>c) Órganos competentes para la tramitación y resolución del procedimiento. En las subven-<br>ciones sujetas a concurrencia competitiva, se concretará la composición del órgano colegiado<br>que formule la oportuna propuesta de concesión.<br>d) Requisitos que deben reunir las entidades colaboradoras.<br>e) Procedimiento de concesión de subvenciones y plazo máximo para notificar la resolución<br>correspondiente. En aquellos casos en los que, de acuerdo con la normativa estatal básica, no<br>resulte necesaria la publicidad de las subvenciones concedidas se deberán prever los procedi-<br>mientos que aseguren la difusión de las personas beneficiarias de las mismas.<br>f) Criterios objetivos de otorgamiento de la subvención y, en su caso, ponderación de los<br>mismos. En aquellos supuestos excepcionales en los que el único criterio sea el del momento<br>de presentación de las correspondientes solicitudes se deberá hacer constar expresamente<br>esta circunstancia.<br>g) Cuantía individualizada de la subvención o criterios para su determinación.<br>h) Circunstancias que podrán dar lugar a la modificación de la resolución si se produce una<br>variación de las condiciones tenidas en cuenta para la concesión de la subvención.<br>i) Plazo y forma de justificación por parte de la persona beneficiaria o, en su caso, de la en-<br>tidad colaboradora, del cumplimiento de la finalidad para la que se concedió la subvención y de<br>la aplicación de los fondos percibidos.<br>j) Método de comprobación de la realización de la actividad a través del correspondiente<br>plan de control.<br>k) En el supuesto de contemplarse la posibilidad de efectuar abonos a cuenta o pagos anti-<br>cipados de la subvención concedida, la forma y cuantía de las garantías que, en su caso, de-<br>berán aportar las personas beneficiarias.<br>l) Medidas de garantía que, en su caso, se considere preciso constituir a favor del órgano<br>concedente, medios de constitución y procedimientos de cancelación.<br>16 Apartado 1, del artículo 165, redactado por el artículo 62 de la Ley 13/2016, de 29 de diciembre.Ley 1/201559 de 70<br>m) Compatibilidad o incompatibilidad con otras subvenciones, ayudas, ingresos o recursos,<br>para la misma finalidad procedentes de cualquier administración o entidad, pública o privada;<br>nacionales, de la Unión Europea o de organismos internacionales.<br>n) En su caso, posibilidad de subcontratar total o parcialmente la actividad subvencionada,<br>así como su porcentaje máximo y régimen de autorización.<br>o) Los condicionantes requeridos por la normativa de la Generalitat relativos a la notifica-<br>ción, autorización y comunicación de ayudas públicas a la Comisión Europea.<br>p) Siempre que el objeto de la subvención y la naturaleza del beneficiario así lo permitan, se<br>incorpora la exigencia de un compromiso de no incurrir en deslocalización empresarial. La in-<br>clusión del compromiso a que se refiere la presente letra exigirá el previo desarrollo normativo,<br>donde queden definidos tanto los supuestos de hecho en que el beneficiario incurre en deslo-<br>calización, como el procedimiento para su declaración y los concretos efectos de la misma.<br>q) Cualquier otra previsión exigida por la normativa o que se considere procedente incluir. |
+| Contenido de la convocatoria (mínimo) | a) Indicación de la disposición que establezca, en su caso, las bases reguladoras y del dia-<br>rio oficial en que está publicada, salvo que en atención a su especificidad éstas se incluyan en<br>la propia convocatoria.<br>b) Línea o líneas a las que se imputa la subvención, así como el importe global máximo des-<br>tinado a la misma. En los supuestos de tramitación anticipada, se hará constar la línea o líneas<br>que figuren en el Proyecto de Ley de Presupuestos de la Generalitat, así como su importe<br>máximo estimado.<br>c) Objeto y condiciones de la concesión de la subvención.<br>d) Forma y plazo en que deben presentarse las solicitudes.<br>e) Plazo de resolución y notificación.<br>f) Documentos e informaciones que deben acompañarse a la petición.<br>g) Indicación de si la resolución pone fin a la vía administrativa o no, señalando el órgano y<br>plazo para interponer el recurso que proceda.<br>h) Criterios de valoración de las solicitudes.<br>i) Medio de notificación o publicación de los distintos trámites a cumplimentar en el procedi-<br>miento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+En la tramitación anticipada de otorgamiento de subvenciones (artículo 41), podrá llegarse al momento procedimental inmediatamente anterior al de la resolución de la concesión, debiendo constar en todos los trámites que tal otorgamiento estará condicionado a la existencia, en los presupuestos del ejercicio económico siguiente, de crédito adecuado y suficiente para ello
+
+- **Forma directa**: 
+	- Previstas nominativamente en la Ley de Presupuestos del Estado
+	- Otorgamiento o cuantía impuesto por una norma de rango legal
+	- Justificación extraordinaria (interés general: público, social, económico, humanitario...)
+
+|                                                                                            |     |
+| ------------------------------------------------------------------------------------------ | --- |
+| Previstas nominativamente en la Ley de Presupuestos del Estado                             |     |
+| Otorgamiento o cuantía venga impuesto por una norma de rango legal                         |     |
+| Justificación extraordinaria (interés general: público, social, económico, humanitario...) |     |
+
+
+Las subvenciones son objeto de gestión
+
+- Comprobación
+
+- 
+
+Finalmente, las infracciones administrativas contempladas en la normativa básica estatal a aquellos sujetos que se-
+an responsables de las mismas
+
+La gradación es la siguiente (en cursiva aquellas potestativas adicionales por acuerdo de la autoridad sancionadora competente): 
+
+| Infracción | Sanciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Muy graves | - Multa: del doble al triple de la cantidad indebidamente obtenida, aplicada o no justificada o (para las entidades colaboradoras) de los fondos indebidamente aplicados o justificados.<br><br>*- Pérdida del derecho a obtener ayudas, subvenciones o avales (Generalitat y sector público institucional): de 3 a 5 años*<br>*- Pérdida del derecho a ser designado como entidad colaboradora: de 3 a 5 años**<br>*- Prohibición de contratar (Generalitat y sector público institucional): de 3 a 5 años* |
+| Graves     | - Multa: del tanto al doble de la cantidad indebidamente obtenida, aplicada o no justificada o (para las entidades colaboradoras) de los fondos indebidamente aplicados o justificados.<br><br>*- Pérdida del derecho a obtener ayudas, subvenciones o avales (Generalitat y sector público institucional): de 1 a 3 años*<br>*- Pérdida del derecho a ser designado como entidad colaboradora: de 1 a 3 años*<br>*- Prohibición de contratar (Generalitat y sector público institucional): de 1 a 3 años*   |
+| Leves      | - Multa: de 75 a 6.000 euros                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+La graduación de las sanciones considerarán las siguientes características:
+
+- **Intencionalidad**
+- **Beneficio obtenido** (ilícitamente)
+- **Repercusión social**
+- **Naturaleza** de los perjuicios
+- **Reincidencia**: resolución firme en vía administrativa de sanción grave o muy grave por una infracción de la misma naturaleza en los 3 años anteriores
+
+*Las sanciones reguladas en el presente capítulo se entienden sin perjuicio de la obligación de reintegro de las cantidades percibidas (artículo 172), y las indemnizaciones exigibles de daños y perjuicios.*
+
+El procedimiento administrativo sancionador se tramitará siempre de oficio, por comprobación del órgano concedente, la entidad colaboradora, o por actuaciones de los órganos de control. La normativa aplicable es la estatal básica ([capítulo III del título preliminar de la Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#ciii)). 
+
+Los acuerdos de imposición de sanciones pondrán fin a la vía administrativa. Los órganos competentes del procedimiento sancionador son el Consell, y las personas titulares de las Consellerias (artículo 160).
+
+ESTO ULTIMO NO ESTOY SEGURO 100%.
+
+
+
+
