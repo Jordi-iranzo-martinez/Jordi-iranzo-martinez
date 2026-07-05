@@ -8,7 +8,9 @@
 El Dominio Público Hidráulico es 
 
 
-A escala estatal la norma básica es la Ley de Aguas (Real Decreto Legislativo 1/2001): 
+### Ley de Aguas
+
+A escala estatal la norma básica es la Ley de Aguas ([Real Decreto Legislativo 1/2001](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276)): 
 
 | Títulos                                                        | Capítulos                                                                                                                                            |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +25,122 @@ A escala estatal la norma básica es la Ley de Aguas (Real Decreto Legislativo 1
 | Obras hidráulicas                                              | - Concepto y naturaleza jurídica de las obras hidráulicas<br>- Sociedades estatales<br>- Contratos de concesión de obras hidráulicas                 |
 
 
+#### Competencias administrativas
+
+
+
+#### Bienes del dominio público hidráulico
+
+
+
+Constituyen el dominio público hidráulico del Estado, con las salvedades expresamente establecidas en esta Ley:
+
+a) Las aguas continentales, tanto las superficiales como las subterráneas renovables con independencia del tiempo de renovación.
+
+b) Los cauces de corrientes naturales, continuas o discontinuas.
+
+c) Los lechos de los lagos y lagunas y los de los embalses superficiales en cauces públicos.
+
+d) Los acuíferos, a los efectos de los actos de disposición o de afección de los recursos hidráulicos.
+
+e) Las aguas procedentes de la desalación de agua de mar.
+
+
+*La fase atmosférica del ciclo hidrológico sólo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes ésta autorice.*
+
+
+#### Planificación hidrológica: objetivos, definiciones
+
+
+
+##### Artículo 40. Objetivos y criterios de la planificación hidrológica:
+
+1. La planificación hidrológica tendrá por objetivos generales conseguir el buen estado y la adecuada protección del dominio público hidráulico y de las aguas objeto de esta ley, la satisfacción de las demandas de agua, el equilibrio y armonización del desarrollo regional y sectorial, incrementando las disponibilidades del recurso, protegiendo su calidad, economizando su empleo y racionalizando sus usos en armonía con el medio ambiente y los demás recursos naturales.
+
+2. La política del agua está al servicio de las estrategias y planes sectoriales que sobre los distintos usos establezcan las Administraciones públicas, sin perjuicio de la gestión racional y sostenible del recurso que debe ser aplicada por el Ministerio de Medio Ambiente, o por las Administraciones hidráulicas competentes, que condicionará toda autorización, concesión o infraestructura futura que se solicite.
+
+3. La planificación se realizará mediante los planes hidrológicos de cuenca y el Plan Hidrológico Nacional. El ámbito territorial de cada plan hidrológico de cuenca será coincidente con el de la demarcación hidrográfica correspondiente.
+
+4. Los planes hidrológicos serán públicos y vinculantes, sin perjuicio de su actualización periódica y revisión justificada, y no crearán por sí solos derechos en favor de particulares o entidades, por lo que su modificación no dará lugar a indemnización, sin perjuicio de lo dispuesto en el artículo 65.
+
+5. El Gobierno, mediante real decreto, aprobará los planes hidrológicos de cuenca en los términos que estime procedentes en función del interés general, sin perjuicio de lo dispuesto en el apartado siguiente.
+
+6. Los planes hidrológicos de cuenca que hayan sido elaborados o revisados al amparo de lo dispuesto en el artículo 18 serán aprobados si se ajustan a las prescripciones de los artículos 40.1, 3 y 4 y 42, no afectan a los recursos de otras cuencas y, en su caso, se acomodan a las determinaciones del Plan Hidrológico Nacional.
+
+> Se modifica el contenido y denominación por el art. 129.18 de la Ley 62/2003, de 30 de diciembre. [Ref. BOE-A-2003-23936](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23936 "Abre nueva ventana").
+
+Seleccionar redacción:
+
+[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#top)
+
+---
+
+[Bloque 66: #a40bis]
+
+##### Artículo 40 bis. Definiciones.
+
+A los efectos de la planificación hidrológica y de la protección de las aguas objeto de esta Ley, se entenderá por:
+
+a) aguas continentales: todas las aguas en la superficie del suelo y todas las aguas subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
+
+b) aguas superficiales: las aguas continentales, excepto las aguas subterráneas ; las aguas de transición y las aguas costeras, y, en lo que se refiere al estado químico, también las aguas territoriales.
+
+c) aguas subterráneas: todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+
+d) acuífero: una o más capas subterráneas de roca o de otros estratos geológicos que tienen la suficiente porosidad y permeabilidad para permitir ya sea un flujo significativo de aguas subterráneas o la extracción de cantidades significativas de aguas subterráneas.
+
+e) masa de agua superficial: una parte diferenciada y significativa de agua superficial, como un lago, un embalse, una corriente, río o canal, parte de una corriente, río o canal, unas aguas de transición o un tramo de aguas costeras.
+
+f) masa de agua subterránea: un volumen claramente diferenciado de aguas subterráneas en un acuífero o acuíferos.
+
+g) masa de agua artificial: una masa de agua superficial creada por la actividad humana.
+
+h) masa de agua muy modificada: una masa de agua superficial que, como consecuencia de alteraciones físicas producidas por la actividad humana, ha experimentado un cambio sustancial en su naturaleza.
+
+i) servicios relacionados con el agua: todas las actividades relacionadas con la gestión de las aguas que posibilitan su utilización, tales como la extracción, el almacenamiento, la conducción, el tratamiento y la distribución de aguas superficiales o subterráneas, así como la recogida y depuración de aguas residuales, que vierten posteriormente en las aguas superficiales. Asimismo, se entenderán como servicios las actividades derivadas de la protección de personas y bienes frente a las inundaciones.
+
+j) usos del agua: las distintas clases de utilización del recurso, así como cualquier otra actividad que tenga repercusiones significativas en el estado de las aguas. A efectos de la aplicación del principio de recuperación de costes, los usos del agua deberán considerar, al menos, el abastecimiento de poblaciones, los usos industriales y los usos agrarios.
+
+
+#### Zonas protegidas
+
+##### Artículo 99 bis. Registro de Zonas Protegidas
+
+1. Para cada demarcación hidrográfica existirá al menos un registro de las zonas que hayan sido declaradas objeto de protección especial en virtud de norma específica sobre protección de aguas superficiales o subterráneas, o sobre conservación de hábitats y especies directamente dependientes del agua.
+
+2. En el registro se incluirán necesariamente:
+
+a) Las zonas en las que se realiza una captación de agua destinada a consumo humano, siempre que proporcione un volumen medio de al menos 10 metros cúbicos diarios o abastezca a más de cincuenta personas, así como, en su caso, los perímetros de protección delimitados.
+
+b) Las zonas que, de acuerdo con el respectivo plan hidrológico, se vayan a destinar en un futuro a la captación de aguas para consumo humano.
+
+c) Las zonas que hayan sido declaradas de protección de especies acuáticas significativas desde el punto de vista económico.
+
+d) Las masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño.
+
+e) Las zonas que hayan sido declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias.
+
+f) Las zonas que hayan sido declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas.
+
+g) Las zonas declaradas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección.
+
+h) Los perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica.
+
+3. Las Administraciones competentes por razón de la materia facilitarán, al organismo de cuenca correspondiente, la información precisa para mantener actualizado el Registro de Zonas Protegidas de cada demarcación hidrográfica bajo la supervisión del Comité de Autoridades Competentes de la demarcación.
+
+El registro deberá revisarse y actualizarse, junto con la actualización del plan hidrológico correspondiente, en la forma que reglamentariamente se determine.
+
+4. Un resumen del registro formará parte del plan hidrológico de cuenca.
+
+5. Los instrumentos de ordenación urbanística contendrán las previsiones adecuadas para garantizar la no afección de los recursos hídricos de las zonas incluidas en las letras a), b) y d) del apartado 2 y los perímetros de protección que al efecto se establezcan por la Administración Hidráulica.
+
+
+
+
 En materia medioambiental ha sido desarrollada numerosas veces en vía reglamentaria
+
+
+### Real Decreto 817/2015
 
 El [Real Decreto 817/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-9806) establece los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental: ámbito de aplicación, definiciones, masas de agua categoría aguas de transición, costeras y muy modificadas por la presencia de puertos: caracterización, el estado cuantitativo, el estado ecológico y el estado químico de las aguas, estado trófico.
 
@@ -36,6 +153,216 @@ El [Real Decreto 817/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-9806)
 | Obligaciones de intercambio de información |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Anexos                                     | - I. Criterios básicos de los programas de seguimiento (diseño e implantación)<br>- II. Condiciones de referencia, máximo potencial ecológico y límites de clases de estado<br>- III. Estado de las aguas (criterios y especificaciones técnicas para el seguimiento y clasificación)<br>- IV. Normas de calidad ambiental (sustancias prioritarias y otros contaminantes)<br>- V. Normas de calidad ambiental para sustancias preferentes<br>- VI. Relación de sustancias contaminantes<br>- VII. Procedimiento para el establecimiento de la norma de calidad ambiental |
 
+#### Disposiciones generales
+
+Al objeto de la protección de las aguas el presente real decreto establece:
+
+1. Los criterios básicos y homogéneos para el diseño y la implantación de los programas de seguimiento del estado de las masas de agua superficiales y para el control adicional de las zonas protegidas.
+
+2. Las normas de calidad ambiental (NCA) para las sustancias prioritarias y para otros contaminantes con objeto de conseguir un buen estado químico de las aguas superficiales. Establecer las NCA para las sustancias preferentes y fijar el procedimiento para calcular las NCA de los contaminantes específicos con objeto de conseguir un buen estado ecológico de las aguas superficiales o un buen potencial ecológico de dichas aguas, cuando proceda.
+
+3. Las condiciones de referencia y los límites de clases de estado de los indicadores de los elementos de calidad biológicos, fisicoquímicos e hidromorfológicos para clasificar el estado o potencial ecológico de las masas de agua superficiales.
+
+4. Las disposiciones mínimas para el intercambio de información sobre estado y calidad de las aguas entre la Administración General del Estado y las administraciones con competencias en materia de aguas, en aras del cumplimiento de legislación que regula los derechos de acceso a la información y de participación pública.
+
+##### Ámbito de aplicación
+
+Los criterios establecidos en este real decreto se entienden como requisitos mínimos y serán de aplicación a todas las aguas superficiales definidas en el artículo 3, y en lo referente al intercambio de información, además, a las aguas subterráneas.
+
+##### Definiciones
+
+1. Aguas continentales: Todas las aguas en la superficie del suelo, y todas las aguas subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
+
+2. Aguas costeras: Las aguas superficiales situadas hacia tierra desde una línea cuya totalidad de puntos se encuentren a una distancia de una milla náutica mar adentro desde el punto más próximo de la línea de base que sirve para medir la anchura de las aguas territoriales y que se extienden, en su caso, hasta el límite exterior de las aguas de transición.
+
+3. Aguas de transición: Masas de agua superficiales próximas a las desembocaduras de los ríos y que son parcialmente salinas como consecuencia de su proximidad a las aguas costeras, pero que reciben una notable influencia de flujos de agua dulce.
+
+4. Aguas subterráneas: Todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+
+5. Aguas superficiales: Las aguas continentales, excepto las aguas subterráneas; las aguas de transición y las aguas costeras, y, en lo que se refiere al estado químico, también las aguas territoriales.
+
+6. Aguas superficiales continentales: Todas las aguas quietas o corrientes en la superficie de la tierra que no entran en las categorías de aguas costeras ni de aguas de transición. Incluyen ríos y lagos y las masas de agua artificiales o muy modificadas asimilables a estas categorías.
+
+7. Biota: Conjunto de seres vivos coexistente en un determinado ecosistema acuático.
+
+8. Buen estado ecológico: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos correspondientes al tipo de masa de agua superficial muestran valores bajos de distorsión causada por la actividad humana, desviándose ligeramente de los valores normalmente asociados con el tipo de masa de agua superficial en condiciones inalteradas. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos cumplen con los rangos o límites que garantizan el funcionamiento del ecosistema específico del tipo y la consecución de los valores de los indicadores biológicos. Las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
+
+9. Buen estado químico de las aguas superficiales: El estado de una masa de agua superficial que cumple las NCA establecidas en el anexo IV, así como otras normas comunitarias pertinentes que fijen NCA.
+
+10. Buen potencial ecológico: Estado de una masa de agua muy modificada o artificial cuyos indicadores de los elementos de calidad biológicos muestran leves cambios en comparación con los valores correspondientes al tipo de masa más estrechamente comparable. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos se encuentran dentro de los rangos de valores que garantizan el funcionamiento del ecosistema y la consecución de los valores de los indicadores biológicos especificados anteriormente. Además las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
+
+11. Condición de referencia: Valor del indicador correspondiente a niveles de presión antropogénicas nulas o muy bajas.
+
+12. Contaminación: La introducción directa o indirecta, como consecuencia de la actividad humana, de sustancias o energía en la atmósfera, el agua o el suelo, que puedan ser perjudiciales para la salud humana o para la calidad de los ecosistemas acuáticos, o de los ecosistemas terrestres que dependen directamente de ecosistemas acuáticos, y que causen daños a los bienes materiales o deterioren o dificulten el disfrute y otros usos legítimos del medio ambiente.
+
+13. Contaminante: Cualquier sustancia que pueda causar contaminación.
+
+14. Contaminante específico: Contaminante vertido en cantidades significativas en una cuenca y no incluido en el anexo IV. Las NCA de estos contaminantes se calcularán conforme al procedimiento descrito en el anexo VII, cuando se trate de una sustancia preferente la NCA será, al menos, la prevista en el anexo V.
+
+15. Elemento de calidad: Componente del ecosistema acuático cuya medida determina el estado de las aguas, se agrupan en elementos biológicos, hidromorfológicos, químicos y fisicoquímicos.
+
+16. Estación de muestreo: Conjunto de puntos de muestreo utilizados para la evaluación del estado de una masa de agua.
+
+17. Estado de las aguas superficiales: La expresión general del estado de una masa de agua superficial determinado por el peor valor de su estado ecológico y de su estado químico.
+
+18. Estado ecológico: Una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a las aguas superficiales clasificado con arreglo a este real decreto.
+
+19. Estado ecológico deficiente: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos muestran indicios de alteraciones importantes respecto a los correspondientes al tipo de masa de agua superficial y en que las comunidades biológicas pertinentes se desvíen considerablemente de las comunidades normalmente asociadas con el tipo de masa de agua superficial en condiciones inalteradas.
+
+20. Estado ecológico malo: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos muestran indicios de alteraciones graves respecto a los correspondientes al tipo de masa de agua superficial y en que las comunidades biológicas pertinentes normalmente asociadas con el tipo de masa de agua superficial en condiciones inalteradas estén ausentes en amplias proporciones.
+
+21. Estado ecológico moderado: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos correspondientes al tipo de masa de agua superficial se desvían moderadamente de los valores normalmente asociados con el tipo de masa de agua superficial en condiciones inalteradas. Los valores muestran signos moderados de distorsión causada por la actividad humana y se encuentran significativamente más perturbados que en las condiciones correspondientes al buen estado.
+
+22. Estado químico: Una expresión de la calidad de las aguas superficiales que refleja el grado de cumplimiento de las NCA de las sustancias prioritarias y otros contaminantes del anexo IV de este real decreto.
+
+22 bis. Eutrofización: Enriquecimiento excesivo de la concentración de nutrientes en las aguas. Se manifiesta por la proliferación masiva de algas planctónicas cuyo crecimiento y descomposición puede provocar alteraciones extremas en el contenido de oxígeno, limitación de la transparencia de las aguas y el incremento del consumo de oxígeno en las aguas profundas. De ello pueden derivarse trastornos en el equilibrio de las poblaciones biológicas presentes en el medio acuático y la degradación de la calidad del agua. La eutrofización puede ser natural o de origen antrópico.
+
+23. Incertidumbre de medida: Parámetro no negativo asociado a un resultado analítico que caracteriza la dispersión de los valores cuantitativos atribuidos a un mensurando basándose en la información utilizada.
+
+24. Indicador: Medida de un elemento de calidad que permite evaluar la calidad y el estado de las aguas.
+
+25. Límite de cuantificación: En una determinación analítica, múltiplo constante del límite de detección que se puede determinar con un grado aceptable de exactitud y precisión. El límite de cuantificación se puede calcular utilizando un patrón o muestra adecuada y se puede obtener del punto de calibración más bajo en la curva de calibración, excluido el valor del blanco.
+
+26. Límite de detección: En una determinación analítica, valor de concentración o señal de salida por encima del cual se puede afirmar, con un nivel declarado de confianza, que una muestra es diferente de una muestra en blanco, entendiéndose por blanco aquella disolución que no contiene el analito de interés.
+
+27. Lista de observación: Conjunto de sustancias seleccionadas entre aquellas de las que la información disponible indique que pueden suponer un riesgo significativo para el medio acuático o a través de él y para las que los datos de seguimiento son insuficientes, por lo que deben recabarse datos a nivel de la Unión Europea. La Comisión Europea adoptará actos de ejecución para elaborar y actualizar esta lista, siendo el primero la [Decisión de Ejecución (UE) 2015/495 de la Comisión, de 20 de marzo de 2015](https://www.boe.es/buscar/doc.php?id=DOUE-L-2015-80539 "Abre nueva ventana"), por la que se establece una lista de observación de sustancias a efectos de seguimiento a nivel de la Unión en el ámbito de la política de aguas, de conformidad con la [Directiva 2008/105/CE del Parlamento Europeo y del Consejo](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana").
+
+28. Masa de agua artificial: Una masa de agua superficial creada por la actividad humana.
+
+29. Masa de agua muy modificada: Una masa de agua superficial que, como consecuencia de alteraciones físicas producidas por la actividad humana, ha experimentado un cambio sustancial en su naturaleza.
+
+30. Masa de agua superficial: Una parte diferenciada y significativa de agua superficial, como un lago, un embalse, una corriente, río o canal, parte de una corriente, río o canal, unas aguas de transición o un tramo de aguas costeras.
+
+31. Matriz: un compartimento del medio acuático, que puede ser el agua, los sedimentos o la biota.
+
+32. Muy buen estado ecológico: Estado de una masa de agua superficial en la que no existen alteraciones antropogénicas de los valores de los indicadores de los elementos de calidad químicos o fisicoquímicos e hidromorfológicos correspondientes al tipo de masa de agua superficial, o existen alteraciones de muy escasa importancia, en comparación con los normalmente asociados con ese tipo en condiciones inalteradas. Los valores de los indicadores de los elementos de calidad biológicos correspondientes a la masa de agua superficial reflejan los valores normalmente asociados con dicho tipo en condiciones inalteradas, y no muestran indicios de distorsión, o muestran indicios de escasa importancia. Éstas son las condiciones y comunidades específicas del tipo.
+
+33. Nivel de confianza: Estimación cualitativa relativa a la evaluación del estado o potencial ecológico; o bien, estimación cuantitativa o probabilidad de que la clasificación de los elementos de calidad y la clasificación del estado o potencial ecológico, obtenida a partir de los indicadores o índices, se corresponda realmente con la clase asignada.
+
+34. Norma de calidad ambiental (NCA): Concentración de un determinado contaminante o grupo de contaminantes en el agua, los sedimentos o la biota, que no debe superarse en aras de la protección de la salud humana y el medio ambiente. Este umbral puede expresarse como Concentración Máxima Admisible (NCA-CMA) o como Media Anual (NCA-MA).
+
+35. Órgano competente: Cada uno de los organismos de cuenca, para las aguas superficiales continentales comprendidas en las demarcaciones hidrográficas que excedan del ámbito territorial de una comunidad autónoma, y las comunidades autónomas, para las aguas superficiales continentales de demarcaciones hidrográficas comprendidas íntegramente dentro del ámbito territorial respectivo, así como para las aguas costeras y de transición, sin perjuicio de las competencias del Estado en los puertos de interés general.
+
+36. Otros contaminantes: Sustancias incluidas en el anexo IV que no son prioritarias ni peligrosas prioritarias, sino contaminantes para los cuales las NCA son idénticas a las establecidas en la legislación sobre sustancias peligrosas aplicable antes de la aprobación de la [Directiva 2008/105/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana"), relativa a las normas de calidad ambiental en el ámbito de la política de aguas.
+
+37. Potencial ecológico: Una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a una masa de agua artificial o muy modificada.
+
+38. Programa de seguimiento de las aguas: conjunto de actividades encaminadas a obtener una visión general coherente y completa del estado y calidad de las aguas. Puede comprender un conjunto de subprogramas de seguimiento o control.
+
+39. Punto de muestreo: lugar geográfico de toma de muestra o datos.
+
+40. Ratio de calidad ecológica (RCE): Relación entre los valores observados en la masa de agua y los correspondientes a las condiciones de referencia del tipo al que pertenece dicha masa de agua, expresado mediante un valor numérico comprendido entre 0 y 1.
+
+41. Sedimento: Material sólido orgánico o mineral en forma de partículas, granos o pequeños bloques, depositado en el lecho de una masa de agua superficial.
+
+42. Sustancia peligrosa: Las sustancias o grupos de sustancias que son tóxicas, persistentes y bioacumulables, así como otras sustancias o grupos de sustancias que entrañan un nivel de riesgo análogo.
+
+43. Sustancia preferente: Sustancia que presenta un riesgo significativo para las aguas superficiales españolas debido a su especial toxicidad, persistencia y bioacumulación o por la importancia de su presencia en el medio acuático. La relación de sustancias preferentes figura en el anexo V de este real decreto.
+
+44. Sustancia prioritaria: Sustancia que presenta un riesgo significativo para el medio acuático comunitario, o a través de él, incluidos los riesgos de esta índole para las aguas utilizadas para la captación de agua potable, y reguladas a través del artículo 16 de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana"), por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas (Directiva Marco del Agua, DMA). Entre estas sustancias se encuentran las sustancias peligrosas prioritarias. La relación de sustancias prioritarias figura en el anexo IV de este real decreto.
+
+45. Taxón de la biota: Un taxón acuático particular dentro del rango taxonómico subfilum, «clase» o equivalente.
+
+46. Zona de mezcla: Zona adyacente a un punto de vertido donde las concentraciones de los diferentes constituyentes del mismo pueden no corresponder al régimen de mezcla completa del efluente y el medio receptor.
+
+
+
+#### Masas de agua
+
+##### Transición
+##### Artículo 12. Elementos de calidad para la clasificación del estado o potencial ecológico para las masas de agua de la categoría aguas de transición.
+
+1. Elementos de calidad biológicos:
+
+a) Composición, abundancia y biomasa del fitoplancton.
+
+b) Composición y abundancia de otro tipo de flora acuática.
+
+c) Composición y abundancia de la fauna bentónica de invertebrados.
+
+d) Composición y abundancia de la fauna ictiológica.
+
+2. Elementos de calidad químicos y fisicoquímicos de soporte a los elementos de calidad biológicos:
+
+a) Generales: transparencia, condiciones térmicas y de oxigenación, salinidad y nutrientes.
+
+b) Contaminantes específicos vertidos en cantidades significativas.
+
+3. Elementos de calidad hidromorfológicos de soporte a los elementos de calidad biológicos:
+
+a) Condiciones morfológicas: variación de la profundidad; cantidad, estructura y sustrato del lecho y estructura de la zona de oscilación de la marea.
+
+b) Régimen de mareas: flujo de agua dulce y exposición al oleaje.
+
+4. Los indicadores correspondientes a los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de soporte aplicables a cada tipo de masa de agua se definen en el anexo II. Los contaminantes específicos quedan definidos en los anexos V y VI.
+
+
+
+#### Costeras
+
+
+1. Elementos de calidad biológicos:
+
+a) Composición, abundancia y biomasa del fitoplancton.
+
+b) Composición y abundancia de otro tipo de flora acuática.
+
+c) Composición y abundancia de la fauna bentónica de invertebrados.
+
+2. Elementos de calidad químicos y fisicoquímicos de soporte a los elementos de calidad biológicos:
+
+a) Generales: transparencia, condiciones térmicas y de oxigenación, salinidad y nutrientes.
+
+b) Contaminantes específicos vertidos en cantidades significativas.
+
+3. Elementos de calidad hidromorfológicos de soporte a los elementos de calidad biológicos:
+
+a) Condiciones morfológicas: variación de la profundidad; estructura y sustrato del lecho costero y estructura de la zona ribereña intermareal.
+
+b) Régimen de mareas: dirección de las corrientes dominantes y exposición al oleaje.
+
+4. Los indicadores correspondientes a los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de soporte aplicables a cada tipo de masa de agua se definen en el anexo II. Los contaminantes específicos quedan definidos en los anexos V y VI.
+
+
+
+
+
+
+
+
+Agua de transición y costeras muy modificadas por la presencia de puertos
+
+
+![[Pasted image 20260705152306.png]]
+
+![[{2859F72A-8628-4BC0-B3BC-C47D6295F00C}.png]]
+
+
+
+Tipos de puertos:
+
+AMP-T01 Aguas de transición atlánticas de renovación baja.
+
+AMP-T02 Aguas de transición atlánticas de renovación alta.
+
+AMP-T03 Aguas costeras atlánticas de renovación baja.
+
+AMP-T04 Aguas costeras atlánticas de renovación alta.
+
+AMP-T05 Aguas costeras mediterráneas de renovación baja.
+
+AMP-T06 Aguas costeras mediterráneas de renovación alta.
+
+
+
+
+
+
+5. ***Real Decreto 817/2015, de 11 de septiembre, por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental: ámbito de aplicación, definiciones, masas de agua categoría aguas de transición, costeras y muy modificadas por la presencia de puertos: caracterización, el estado cuantitativo, el estado ecológico y el estado químico de las aguas, estado trófico.***
+
+
+
+### Aguas de baño
 
 
 El [Real Decreto 1341/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18581) regula los criterios sanitarios de las aguas de baño en medio natural (aguas superficiales y subterráneas, continentales, de transición, artificiales, cuencas y demarcaciones hidrográficas...), para proteger la salud humana, y la calidad del medio ambiente, incluyendo el control, la clasificación, las medidas de gestión y el suministro de información al público.
@@ -309,21 +636,86 @@ Los parámetros obligatorios son los enterococos intestinales y la *Escherichia 
 
 
 
-
+### Aguas contaminadas por nitratos agrarios
 
 El [Real Decreto 47/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-860) establece las medidas para reducir y prevenir la contaminación a las aguas (superficiales continentales, de transición, costeras y subterráneas) por nitratos de origen agrario.
 
+#### Aguas afectadas
+
+1. El Ministerio para la Transición Ecológica y el Reto Demográfico, partiendo de la información recogida en el informe de situación a que se refiere el artículo 10, hará públicos cada cuatro años tras la notificación del citado informe a la Comisión Europea, mapas con la localización de las aguas afectadas por la contaminación ocasionada por los nitratos, y en especial por los de origen agrario, así como de las aguas que podrían verse afectadas por dicha contaminación si no se toman las medidas oportunas. Dichos mapas plasmarán, sin modificación alguna, la información sobre calidad de las aguas que haya sido proporcionada a la Secretaría de Estado de Medio Ambiente por las autoridades competentes que corresponda, conforme a lo previsto en el artículo 10.2, y remitida a la Comisión Europea con el informe de situación.
+
+Los citados mapas, que a todos los efectos materializan la determinación de las aguas afectadas, se publicarán conforme a lo establecido en la [Ley 14/2010, de 5 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2010-10707 "Abre nueva ventana"), sobre las infraestructuras y los servicios de información geográfica a través del portal web del departamento y contendrán, al menos, la localización de las estaciones de la red de seguimiento, los valores de concentración, las masas de agua asociadas y otros datos oficiales relacionados con la designación y delimitación de las zonas vulnerables declaradas por las comunidades autónomas, detalladas en el mismo informe de situación.
+
+2. Dicha determinación se efectuará a partir de los datos de las estaciones de control de los programas de seguimiento a que se refiere el artículo 9, utilizando los siguientes criterios:
+
+a) Aguas superficiales continentales que presenten, o puedan llegar a presentar si no se actúa de conformidad con lo establecido en el artículo 6, una concentración de nitratos superior a 25 mg/l o, cuando resulte más exigente, la que se haya establecido para alcanzar el buen estado o el buen potencial en el [anexo II del Real Decreto 817/2015, de 11 de septiembre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-9806#anii "Abre nueva ventana"), por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental.
+
+b) Aguas subterráneas cuya concentración de nitratos sea superior a 37,5 mg/l.
+
+c) Embalses, lagos naturales, charcas, estuarios y aguas de transición y costeras, que se encuentren en estado eutrófico o puedan eutrofizarse en un futuro próximo si no se actúa de conformidad al artículo 6. A tal efecto se entenderá que las aguas se encuentran eutrofizadas a partir de la evaluación realizada conforme al [Real Decreto 817/2015, de 11 de septiembre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-9806 "Abre nueva ventana"), y los protocolos y guías técnicas de desarrollo del mismo.
+
+3. Al valorar las situaciones indicadas en el apartado anterior también deberán tenerse en cuenta los siguientes aspectos:
+
+a) Características limnológicas de los ecosistemas acuáticos y factores ambientales de las cuencas alimentadoras y, en especial, las emisiones puntuales de nitrógeno, tales como vertidos de aguas residuales y su contribución al contenido de nitratos en las aguas.
+
+b) Conocimiento científico actual sobre el comportamiento de los compuestos nitrogenados en los medios atmosférico, acuático, edáfico y litológico.
+
+c) Conocimientos actuales sobre las posibles repercusiones de las medidas previstas en el artículo 6 de este real decreto.
+
+La Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico, en coordinación con las comunidades autónomas, realizará cuatrienalmente un estudio de las presiones agropecuarias, urbanas y otras que puedan considerarse significativas y de los impactos registrados sobre las aguas, dirigido a determinar la contribución de cada sector de actividad a la contaminación de las aguas en las zonas sensibles y vulnerables. Para ello se usarán, entre otras que sean procedentes, técnicas hidroquímicas, isotópicas y microbiológicas. Los resultados de este estudio servirán de apoyo para determinar el ámbito de las aguas afectadas.
+
+4. La publicación de los mapas con la localización de las aguas afectadas y de las que pueden verse afectadas si no se adoptan las medidas pertinentes, así como de los datos analíticos sobre los que se basan, se anunciará en el «Boletín Oficial del Estado». Todo ello, a efectos de la pertinente actualización de las declaraciones de zonas vulnerables, de acuerdo con lo establecido en los artículos 4 y 6.
+
+5. Los organismos de cuenca y las administraciones hidráulicas competentes, a quienes se refiere el [artículo 41.1 del texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276#a41 "Abre nueva ventana"), tomarán en consideración los mapas citados en el apartado anterior a efectos de actualizar los estudios de las repercusiones de la actividad humana sobre el estado de las aguas, requeridos en la planificación hidrológica. A su vez, los citados estudios serán tenidos en cuenta para la mejor valoración de la contaminación conforme a los aspectos señalados en el apartado 3.
 
 
-- Zonas vulnerables
-- Códigos de buenas prácticas agrarias: 
-- Programas de actuación
+
+#### Zonas vulnerables
 
 
-- Anexos: códigos de buenas prácticas (I), medidas a incorporar en los programas de actuación (II), cantidades máximas de estiércol aplicadas al terreno (III), y contenido del informe de situación (IV)
+1. Las comunidades autónomas designarán como zonas vulnerables todas las superficies conocidas de su territorio cuya escorrentía fluya hacia las aguas contempladas en el artículo 3 y que contribuyan, aunque sea mínimamente, a su contaminación. El plazo para la nueva designación o para la ampliación o revisión de las zonas vulnerables previamente designadas será como máximo de tres años, contados a partir de la publicación en el «Boletín Oficial del Estado» del anuncio que se señala en el artículo 3.4.
+
+Con la nueva designación se podrán descatalogar como vulnerables aquellas zonas, o parte de las mismas, que hayan registrado una reducción en su nivel de contaminación lo suficientemente favorable y significativa como para no identificar la existencia de aguas afectadas en su interior. La hipotética descatalogación requerirá justificar que se ha producido un cambio relevante en las presiones que recibe la zona vulnerable que ha conducido a la reversión de los impactos registrados.
+
+2. Los órganos competentes de las comunidades autónomas pondrán en conocimiento de la Secretaría de Estado de Medio Ambiente la relación de las zonas vulnerables designadas, que irá acompañada de una referencia a la publicación oficial de la disposición por la que se declaran y de su cartografía en un formato digital que permita su integración conforme a lo establecido en la [Ley 14/2010, de 5 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2010-10707 "Abre nueva ventana"), sobre las infraestructuras y los servicios de información geográfica en España. El plazo para realizar dicha comunicación será como máximo de un mes, contado a partir de la fecha de la publicación oficial realizada por la comunidad autónoma.
+
+Asimismo, las comunidades autónomas notificarán de igual forma la decisión de no modificar las zonas vulnerables cuando transcurrido el plazo a que se refiere el apartado 1 entiendan que su actualización no resulta necesaria.
+
+3. La Secretaría de Estado de Medio Ambiente, a través de la Dirección General del Agua, se ocupará de integrar la información comunicada por las comunidades autónomas en el sistema nacional, de su publicación a través del Geoportal del departamento, y de su posterior comunicación a la Comisión Europea por los cauces formalmente establecidos.
+
+4. Cuando las aguas indicadas en el artículo 3 estén afectadas por la contaminación por nitratos de origen agrario procedente de otro Estado miembro, el Ministerio para la Transición Ecológica y el Reto Demográfico, previa notificación efectuada por los órganos competentes de las comunidades autónomas, lo pondrá en conocimiento de dicho Estado y de la Comisión Europea a través del cauce correspondiente, a fin de facilitar la actuación concertada entre los Estados miembros afectados y, en su caso, con la Comisión Europea, para determinar las fuentes causantes de la contaminación y las medidas que deban tomarse para proteger las aguas afectadas.
+
+En el caso de que las aguas indicadas en el artículo 3 estén afectadas por la contaminación por nitratos procedente de otra comunidad autónoma vecina a la que localiza el problema, el Ministerio para la Transición Ecológica y el Reto Demográfico, previa notificación efectuada por los órganos competentes de las comunidades autónomas afectadas por la contaminación, pondrá el hecho en conocimiento de las comunidades autónomas de las que supuestamente procede el problema, a fin de facilitar su actuación concertada.
+
+5. Las comunidades autónomas no estarán obligadas a designar zonas vulnerables específicas en caso de que elaboren y apliquen en todo su territorio un programa de actuación establecido conforme al artículo 6.
+
+[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2022-860&p=20220120&tn=1#top)
+
+---
+
+[Bloque 6: #a5]
 
 
 
+
+
+
+#### Códigos de buenas prácticas
+
+
+##### Artículo 5. Códigos de buenas prácticas agrarias.
+
+1. Los órganos competentes de las comunidades autónomas elaborarán, de acuerdo con las determinaciones que se especifican en el anexo 1, uno o varios códigos de buenas prácticas agrarias que los agricultores aplicarán obligatoriamente sobre las zonas vulnerables en los términos previstos en el artículo 6 y podrán poner en práctica sobre el resto del territorio, con la finalidad de reducir la contaminación producida por los nitratos de origen agrario. Asimismo, establecerán programas de fomento de la puesta en práctica de los códigos de buenas prácticas agrarias, que incluirán la formación e información a los agricultores.
+
+2. En el plazo de dos años desde la entrada en vigor de este real decreto, el Ministerio de Agricultura, Pesca y Alimentación publicará un estudio de los códigos de buenas prácticas vigentes y de su eficacia. Para la preparación de este estudio se contará con la colaboración de las comunidades autónomas y las autoridades de cuenca involucradas en el seguimiento de la calidad de las aguas a que se refiere el artículo 9. A la vista de los resultados del citado estudio, el Ministerio de Agricultura, Pesca y Alimentación dirigirá recomendaciones a las comunidades autónomas para la revisión de los citados códigos de buenas prácticas agrarias. Asimismo, el Ministerio de Agricultura, Pesca y Alimentación, en coordinación con las comunidades autónomas, desarrollará un plan de apoyo a la puesta en práctica de los códigos de buenas prácticas incluyendo la mejor formación e información de agricultores y ganaderos.
+
+3. Las comunidades autónomas remitirán los códigos de buenas prácticas agrarias que hayan elaborado o actualizado a la Secretaría de Estado de Medio Ambiente, a los efectos de su comunicación a la Comisión Europea a través del cauce correspondiente y al Ministerio de Agricultura, Pesca y Alimentación a los efectos del apartado 2 de este artículo.
+
+
+- **Anexos**: códigos de buenas prácticas (I), medidas a incorporar en los programas de actuación (II), cantidades máximas de estiércol aplicadas al terreno (III), y contenido del informe de situación (IV)
+
+
+### Vertidos
 
 El [Real Decreto 509/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-7159) establece las normas aplicables al tratamiento de las aguas residuales, con los siguientes puntos principales:
 
@@ -338,6 +730,13 @@ El [Real Decreto 509/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-7159)
 
 Requisitos de los vertidos procedentes de instalaciones de tratamiento de aguas residuales urbanas realizados en zonas sensibles cuyas aguas sean eutróficas o tengan tendencia a serlo en un futuro próximo. Según la situación local, se podrá aplicar uno o los dos parámetros. Se aplicarán el valor de concentración o el porcentaje de reducción.
 
+
+
+#### Requisitos de vertidos
+
+
+
+45. ***Real Decreto 509/1996, de 15 de marzo, de desarrollo del Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales: requisitos de los vertidos de aguas residuales, zonas sensibles y menos sensibles. Real Decreto 876/2014, de 10 de octubre, por el que se aprueba el Reglamento General de Costas: Vertidos. Orden de 13 de julio de 1993. Instrucción para el proyecto de conducciones de vertido desde tierra al mar.***
 
 
 - Requisitos de los vertidos procedentes de las instalaciones de tratamiento secundario
@@ -356,6 +755,7 @@ No obstante, las autorizaciones de vertidos podrán imponer requisitos más rigu
 
 
 - Declaración de «zona sensible» y «zona menos sensible»
+
 
 
 Desarrolla el [Real-Decreto-ley 11/1995](https://www.boe.es/buscar/act.php?id=BOE-A-1995-27963&p=19951230&tn=1) (que no entra en las bases), para la protección de la calidad de las aguas continentales y marinas de los vertidos de las aguas residuales urbanas.
@@ -383,10 +783,15 @@ Queda prohibido el vertido de fangos de las instalaciones de tratamiento de agua
 Las Comunidades Autónomas elaborarán un plan o programa que deberá notificarse a la Administración General del Estado, para comunicar a la Comisión Europea el cumplimiento de estas medidas en todo el territorio nacional.
 
 
+### Reglamento de Costas
+
 El [Real Decreto 876/2014](https://www.boe.es/buscar/act.php?id=BOE-A-2014-10345) aprueba el Reglamento General de Costas. Los vertidos se regulan en la [sección 3ª del capítulo IV del título III](https://www.boe.es/buscar/act.php?id=BOE-A-2014-10345&p=20240420&tn=1#s3-4), incluyendo líquidos y sólidos (los realizados al mar desde buques y aeronaves, que se regularán por legislación específica) (se prohibe el vertido de sólidos y escombros a dominio público marítimo-terrestre, excepto si se usan como rellenos y están autorizados: artículo 56 de la Ley 22/1988, de 28 de julio).
+
+#### Vertidos
 
 - Artículo 116. Autorización y limitación de vertidos
 - Artículo 117. Condiciones de las autorizaciones de vertido.
+
 
 
 Las condiciones de las autorizaciones de vertido incluyen las siguientes: 
@@ -423,6 +828,9 @@ Además se regulan las características siguientes:
 
 - **Prohibición de procesos industriales con riesgo de contaminación superior a la admisible**: la Administración competente podrá prohibir, en zonas concretas, aquellos procesos industriales cuyos efluentes, a pesar del tratamiento a que sean sometidos, puedan constituir riesgo de contaminación superior a la admisible, según la normativa vigente, para el dominio público marítimo-terrestre, tanto en su funcionamiento como en situaciones excepcionales previsibles ([artículo 62 de la Ley 22/1988, de 28 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1988-18762#a62 "Abre nueva ventana")).
 
+
+
+### Vertidos al mar por conducciones
 
 La [Orden de 13 de julio de 1993](https://www.boe.es/buscar/doc.php?id=BOE-A-1993-19593), aprueba la instrucción para el proyecto de conducciones de vertido desde tierra al mar mediante conducciones, estableciendo las condiciones técnicas mínimas (proyecto, cálculo), definiendo ls requisitos de los aliviaderos, y determinando los procedimientos de vigilancia y control para el buen funcionamiento estructural, y el mantenimiento de los objetivos de calidad.
 
