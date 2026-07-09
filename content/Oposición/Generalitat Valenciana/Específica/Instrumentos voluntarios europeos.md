@@ -34,31 +34,23 @@ La etiqueta ecológica europea se basa en el [Reglamento 66/2010](https://eur-le
 #### Competencias administrativas
 
 
-El 
-
-
-Artículo 4
-
 Organismos competentes
 
-1.  Cada Estado miembro designará el organismo u organismos encargados, dentro o fuera de los ministerios gubernamentales, de desempeñar los cometidos contemplados en el presente Reglamento («organismo competente» u «organismos competentes») y garantizará su operatividad. Cuando se designe más de un organismo competente, el Estado miembro determinará sus respectivas competencias y los requisitos de coordinación que les sean aplicables.
+Cada Estado miembro designará el organismo u organismos encargados, dentro o fuera de los ministerios gubernamentales, de desempeñar los cometidos contemplados en el presente Reglamento («organismo competente» u «organismos competentes») y garantizará su operatividad. Cuando se designe más de un organismo competente, el Estado miembro determinará sus respectivas competencias y los requisitos de coordinación que les sean aplicables.
 
-2.  La composición de los organismos competentes será la adecuada para garantizar su independencia y neutralidad, y su reglamento interno velará por la transparencia en el ejercicio de sus actividades y la participación de todas las partes interesadas.
+La composición de los organismos competentes será la adecuada para garantizar su independencia y neutralidad, y su reglamento interno velará por la transparencia en el ejercicio de sus actividades y la participación de todas las partes interesadas.
 
-3.  Los Estados miembros garantizarán que los organismos competentes cumplan los requisitos establecidos en el anexo V.
+Los Estados miembros garantizarán que los organismos competentes cumplan los requisitos establecidos en el anexo V.
 
-4.  Los organismos competentes garantizarán que el proceso de verificación se realice de manera coherente, neutra y fiable por un agente independiente del operador que se evalúa, y se base en las normas y los procedimientos nacionales, europeos e internacionales reguladores de los organismos que aplican sistemas de certificación de productos.
-
-
-
+Los organismos competentes garantizarán que el proceso de verificación se realice de manera coherente, neutra y fiable por un agente independiente del operador que se evalúa, y se base en las normas y los procedimientos nacionales, europeos e internacionales reguladores de los organismos que aplican sistemas de certificación de productos.
 
 
 
 ##### Artículo 2. Organismos competentes.
 
-1. Corresponde a las comunidades autónomas y a las ciudades de Ceuta y Melilla designar los organismos competentes para otorgar en España el uso de la etiqueta ecológica de la Unión Europea y efectuar las demás funciones que les asigna el [Reglamento (CE) n.º 66/2010, del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009](https://www.boe.es/buscar/doc.php?id=DOUE-L-2010-80073 "Abre nueva ventana").
+Corresponde a las Comunidades ciudades Autónomas designar los organismos competentes para otorgar en España el uso de la etiqueta ecológica de la Unión Europea y efectuar las demás funciones que les asigna el [Reglamento (CE) n.º 66/2010, del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009](https://www.boe.es/buscar/doc.php?id=DOUE-L-2010-80073 "Abre nueva ventana").
 
-2. Las comunidades autónomas y las ciudades de Ceuta y Melilla notificarán al Ministerio de Agricultura, Alimentación y Medio Ambiente la designación de los organismos competentes y los cambios que se produzcan en esta designación, en la denominación o ubicación del organismo competente. El Ministerio de Agricultura, Alimentación y Medio Ambiente comunicará a la Comisión Europea todos los organismos competentes designados.
+Las comunidades autónomas y las ciudades de Ceuta y Melilla notificarán al Ministerio de Agricultura, Alimentación y Medio Ambiente la designación de los organismos competentes y los cambios que se produzcan en esta designación, en la denominación o ubicación del organismo competente. El Ministerio de Agricultura, Alimentación y Medio Ambiente comunicará a la Comisión Europea todos los organismos competentes designados.
 
 3. En la designación de los organismos competentes, se garantizará que se cumplen los requisitos establecidos en el anexo V del Reglamento comunitario. La designación será retirada, previa audiencia del propio organismo, cuando éste incumpla las condiciones, requisitos, funciones u obligaciones que tiene atribuidas por el Reglamento.
 

@@ -39,73 +39,81 @@ A escala nacional la norma básica es la [Ley 42/2007](https://www.boe.es/buscar
 
 ##### Artículo 54. Garantía de conservación de especies autóctonas silvestres.
 
-1. La Administración General del Estado y las comunidades autónomas, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar la conservación de la biodiversidad que vive en estado silvestre, atendiendo preferentemente a la preservación de sus hábitats y estableciendo regímenes específicos de protección para aquellas especies silvestres cuya situación así lo requiera, incluyéndolas en alguna de las categorías mencionadas en los artículos 56 y 58 de esta ley.
+La Administración General del Estado y las Comunidades Autónomas adoptarán medidas para garantizar la conservación de la biodiversidad silvestre, atendiendo preferentemente a la preservación de sus hábitats y estableciendo regímenes específicos de protección para aquellas especies silvestres cuya situación así lo requiera, incluyéndolas en alguna de las categorías mencionadas en los artículos 56 y 58 de esta ley.
 
 Igualmente, deberán adoptar las medidas que sean pertinentes para que la recogida en la naturaleza de especímenes de las especies de fauna y flora silvestres de interés comunitario, que se enumeran en el anexo VI, así como la gestión de su explotación, sea compatible con el mantenimiento de las mismas en un estado de conservación favorable.
 
-2. La Administración General del Estado prohibirá la importación o introducción en todo el territorio nacional de especies o subespecies alóctonas cuando éstas sean susceptibles de competir con las especies silvestres autóctonas, alterar su pureza genética o los equilibrios ecológicos.
+La Administración General del Estado prohibirá la importación o introducción en todo el territorio nacional de especies o subespecies alóctonas cuando éstas sean susceptibles de competir con las especies silvestres autóctonas, alterar su pureza genética o los equilibrios ecológicos.
 
-3. La importación o introducción en el territorio nacional de una especie alóctona que podría concurrir potencialmente en las circunstancias descritas en el apartado anterior estará supeditada a la obtención de una autorización administrativa por parte del Ministerio de Agricultura, Alimentación y Medio Ambiente, sin perjuicio de los demás requisitos contemplados en la normativa sectorial correspondiente.
+La importación o introducción en el territorio nacional de una especie alóctona que podría concurrir potencialmente en las circunstancias descritas en el apartado anterior estará supeditada a la obtención de una autorización administrativa por parte del Ministerio de Agricultura, Alimentación y Medio Ambiente, sin perjuicio de los demás requisitos contemplados en la normativa sectorial correspondiente.
 
-El Ministerio de Agricultura, Alimentación y Medio Ambiente elaborará, en el plazo máximo de un año, un listado en el que, con base en la información técnica y científica existente, se incluirán los taxones alóctonos susceptibles de competir con las especies silvestres autóctonas, alterar su pureza genética o los equilibrios ecológicos.
+El Ministerio de Medio Ambiente elaborará, en el plazo máximo de un año, un listado en el que, con base en la información técnica y científica existente, se incluirán los taxones alóctonos susceptibles de competir con las especies silvestres autóctonas, alterar su pureza genética o los equilibrios ecológicos.
 
 Este listado será publicado y actualizado en la sede electrónica del Ministerio de Agricultura, Alimentación y Medio Ambiente.
 
-4. Tras la publicación del listado previsto en el apartado anterior, el Ministerio de Agricultura, Alimentación y Medio Ambiente sólo autorizará la importación en el territorio nacional de una especie incluida en dicho listado cuando, en la primera importación solicitada, compruebe mediante la evaluación de un análisis de riesgo presentado por el operador, que la especie no es susceptible de incurrir en las circunstancias descritas en el apartado 2. Cuando el análisis de riesgo de esa primera solicitud sea favorable a la importación, no será necesario solicitar autorizaciones de esta índole para importaciones posteriores, salvo que nuevas razones de índole científica debidamente fundadas aconsejen someterlo de nuevo a un análisis de riesgo.
+Tras la publicación del listado previsto en el apartado anterior, el Ministerio de Agricultura, Alimentación y Medio Ambiente sólo autorizará la importación en el territorio nacional de una especie incluida en dicho listado cuando, en la primera importación solicitada, compruebe mediante la evaluación de un análisis de riesgo presentado por el operador, que la especie no es susceptible de incurrir en las circunstancias descritas en el apartado 2. Cuando el análisis de riesgo de esa primera solicitud sea favorable a la importación, no será necesario solicitar autorizaciones de esta índole para importaciones posteriores, salvo que nuevas razones de índole científica debidamente fundadas aconsejen someterlo de nuevo a un análisis de riesgo.
 
 El Ministerio de Agricultura, Alimentación y Medio Ambiente mantendrá actualizado en su sede electrónica un registro de las especies que hayan sido objeto de estos análisis de riesgos y del resultado de los mismos.
 
-5. Queda prohibido dar muerte, dañar, molestar o inquietar intencionadamente a los animales silvestres, sea cual fuere el método empleado o la fase de su ciclo biológico.
+Queda prohibido dar muerte, dañar, molestar o inquietar intencionadamente a los animales silvestres, sea cual fuere el método empleado o la fase de su ciclo biológico.
 
 Esta prohibición incluye su retención y captura en vivo, la destrucción, daño, recolección y retención de sus nidos, de sus crías o de sus huevos, estos últimos aun estando vacíos, así como la posesión, transporte, tráfico y comercio de ejemplares vivos o muertos o de sus restos, incluyendo el comercio exterior.
 
 Para las especies de animales no comprendidos en alguna de las categorías definidas en los artículos 56 y 58, estas prohibiciones no se aplicarán en los supuestos con regulación específica, en especial en la legislación de montes, caza, agricultura, sanidad y salud públicas, pesca continental y pesca marítima, o en los supuestos regulados por la Administración General del Estado o las comunidades autónomas, en el ámbito de sus competencias, para su explotación, de manera compatible con la conservación de esas especies.
 
-5 bis. Queda prohibida la suelta no autorizada de ejemplares de especies alóctonas y autóctonas de fauna, o de animales domésticos, en el medio natural.
+Queda prohibida la suelta no autorizada en el medio natural de ejemplares de especies alóctonas, autóctonas de fauna, o animales domésticos.
 
-6. Sin perjuicio de los pagos compensatorios que en su caso pudieren establecerse por razones de conservación, con carácter general, las Administraciones públicas no son responsables de los daños ocasionados por las especies de fauna silvestre, excepto en los supuestos establecidos en la normativa sectorial específica.
+Sin perjuicio de los pagos compensatorios que en su caso pudieren establecerse por razones de conservación, con carácter general, las Administraciones públicas no son responsables de los daños ocasionados por las especies de fauna silvestre, excepto en los supuestos establecidos en la normativa sectorial específica.
 
 ##### Artículo 55. Reintroducción de especies silvestres autóctonas extinguidas.
 
-1. Las Administraciones públicas promoverán la reintroducción de las especies de la fauna y flora silvestres autóctonas extinguidas, incluyendo aquéllas desaparecidas de todo el medio natural español en tiempos históricos, sobre las que existan referencias escritas fidedignas, y de las que aún existan poblaciones en otros lugares o en cautividad, especialmente cuando estas reintroducciones contribuyan al restablecimiento del estado de conservación favorable de especies o hábitats de interés comunitario.
+Las Administraciones públicas promoverán la reintroducción de las especies de la fauna y flora silvestres autóctonas extinguidas, incluyendo aquéllas desaparecidas de todo el medio natural español en tiempos históricos, sobre las que existan referencias escritas fidedignas, y de las que aún existan poblaciones en otros lugares o en cautividad, especialmente cuando estas reintroducciones contribuyan al restablecimiento del estado de conservación favorable de especies o hábitats de interés comunitario.
 
 La Comisión Estatal para el Patrimonio Natural y la Biodiversidad elevará, antes del 31 de diciembre de 2017, a la Conferencia Sectorial de Medio Ambiente, previa consulta al Consejo Estatal para el Patrimonio Natural y la Biodiversidad y, en su caso, al comité científico del Listado y Catálogo Español de Especies Amenazadas, un Listado de especies extinguidas en todo el medio natural español. Dicho Listado será publicado en el "Boletín Oficial del Estado". No podrán autorizarse proyectos de reintroducción de especies no presentes en estado silvestre en el territorio español, que no estén incluidas en el citado listado.
 
-2. Cualquier Administración pública, o cualquier persona física o jurídica de derecho privado podrá solicitar a la Dirección General competente en medio natural del Ministerio de Agricultura, Alimentación y Medio Ambiente la iniciación del procedimiento de inclusión de una especie en este Listado, acompañando a la correspondiente solicitud, una argumentación científica justificativa de su carácter autóctono y de su presencia estable en estado silvestre en el territorio español de forma previa a su extinción.
+ Cualquier Administración pública o persona de derecho privado (física o jurídica) podrá solicitar a la Dirección General competente en medio natural del Ministerio de Agricultura, Alimentación y Medio Ambiente la iniciación del procedimiento de inclusión de una especie en este Listado, acompañando a la correspondiente solicitud, una argumentación científica justificativa de su carácter autóctono y de su presencia estable en estado silvestre en el territorio español de forma previa a su extinción.
 
-3. Los proyectos de reintroducción de especies silvestres autóctonas extinguidas podrán ser ejecutados por las Administraciones públicas, o por cualquier persona física o jurídica de derecho privado, previo informe favorable al proyecto emitido por la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y la autorización preceptiva de la Administración General del Estado o de la comunidad autónoma, en sus respectivos ámbitos competenciales, teniendo en cuenta las condiciones técnicas establecidas en las directrices técnicas sobre la materia aprobadas por la Conferencia Sectorial de Medio Ambiente, y tras contar con una adecuada participación y audiencia públicas en los términos de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+Los proyectos de reintroducción de especies silvestres autóctonas extinguidas podrán ser ejecutados por las Administraciones públicas, o por cualquier persona física o jurídica de derecho privado, previo informe favorable al proyecto emitido por la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y la autorización preceptiva de la Administración General del Estado o de la comunidad autónoma, en sus respectivos ámbitos competenciales, teniendo en cuenta las condiciones técnicas establecidas en las directrices técnicas sobre la materia aprobadas por la Conferencia Sectorial de Medio Ambiente, y tras contar con una adecuada participación y audiencia públicas en los términos de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
 
 4. En el caso de la reintroducción de especies silvestres autóctonas extinguidas del medio natural español, incluidas en el Listado previsto en el apartado 1, o aún presentes en España en estado silvestre pero extinguidas en un determinado ámbito territorial y que sean susceptibles de extenderse por otra u otras comunidades autónomas en las que la especie objetivo no está presente en la actualidad, deberá elaborarse un proyecto de reintroducción, que deberá recibir el informe favorable de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y en todo caso, autorización preceptiva de la Administración General del Estado o de la comunidad autónoma, en sus respectivos ámbitos competenciales.
 
 En el caso de proyectos de reintroducción de especies silvestres autóctonas extinguidas aún presentes en España en estado silvestre pero extinguidas en un determinado ámbito territorial y que no sean susceptibles de extenderse por otra u otras comunidades autónomas en las que la especie objetivo no está presente en la actualidad, los proyectos únicamente deberán comunicarse, para conocimiento, a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, debiendo contar en todo caso con autorización preceptiva de la Administración General del Estado o de la comunidad autónoma, en sus respectivos ámbitos competenciales.
 
-5. Se podrá contemplar la realización de reintroducciones experimentales de especies silvestres autóctonas extinguidas que no sean esenciales para la conservación de tal especie, para comprobar que dicha especie reintroducida se integra en el ecosistema y queda demostrada su compatibilidad con las especies silvestres presentes y las actividades humanas existentes en la zona. Si no se produjera dicha integración, y previa justificación suficientemente documentada y comunicación a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, las poblaciones experimentales no esenciales podrán ser parciales o totalmente retiradas o eliminadas del medio natural.
+Se podrá contemplar la realización de reintroducciones experimentales de especies silvestres autóctonas extinguidas que no sean esenciales para la conservación de tal especie, para comprobar que dicha especie reintroducida se integra en el ecosistema y queda demostrada su compatibilidad con las especies silvestres presentes y las actividades humanas existentes en la zona. Si no se produjera dicha integración, y previa justificación suficientemente documentada y comunicación a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, las poblaciones experimentales no esenciales podrán ser parciales o totalmente retiradas o eliminadas del medio natural.
 
-6. En el supuesto de reintroducciones ilegales, la Administración General del Estado y las comunidades autónomas, en el marco de sus competencias, impulsarán las acciones necesarias para revertir la situación a la existente con anterioridad a la de la reintroducción ilegal, con la erradicación de los ejemplares liberados y sus descendientes.
+En el supuesto de reintroducciones ilegales, la Administración General del Estado y las comunidades autónomas, en el marco de sus competencias, impulsarán las acciones necesarias para revertir la situación a la existente con anterioridad a la de la reintroducción ilegal, con la erradicación de los ejemplares liberados y sus descendientes.
 
 ##### Artículo 56. Listado de Especies Silvestres en Régimen de Protección Especial.
 
-1. Se crea el Listado de Especies Silvestres en Régimen de Protección Especial, que se instrumentará reglamentariamente, previa consulta a las comunidades autónomas y que incluirá especies, subespecies y poblaciones que sean merecedoras de una atención y protección particular en función de su valor científico, ecológico, cultural, por su singularidad, rareza, o grado de amenaza, así como aquellas que figuren como protegidas en los anexos de las Directivas y los convenios internacionales ratificados por España.
+Se crea el Listado de Especies Silvestres en Régimen de Protección Especial, que se instrumentará reglamentariamente, previa consulta a las comunidades autónomas y que incluirá especies, subespecies y poblaciones que sean merecedoras de una atención y protección particular en función de su valor científico, ecológico, cultural, por su singularidad, rareza, o grado de amenaza, así como aquellas que figuren como protegidas en los anexos de las Directivas y los convenios internacionales ratificados por España.
 
 El Listado tendrá carácter administrativo y ámbito estatal, y dependerá del Ministerio de Agricultura, Alimentación y Medio Ambiente.
 
-2. El Ministerio de Agricultura, Alimentación y Medio Ambiente llevará a cabo la inclusión, cambio de categoría o exclusión de un taxón o población en este Listado cuando exista información técnica o científica que así lo aconseje:
+El Ministerio de Medio Ambiente llevará a cabo la inclusión, cambio de categoría o exclusión de un taxón o población en este Listado cuando exista información técnica o científica que así lo aconseje:
 
-a) A propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, previa iniciativa de las comunidades autónomas o
+- **A propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad** (previa iniciativa de las Comunidades Autónomas)
+- **De oficio**.
 
-b) de oficio.
+	*Cuando se trate de taxones o poblaciones protegidas en los anexos de las normas o decisiones de la Unión Europea, como los que se enumeran en el anexo V, o en los instrumentos internacionales ratificados por España, la inclusión en el Listado se producirá de oficio por el Ministerio de Agricultura, Alimentación y Medio Ambiente, notificando previamente tal inclusión a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.*
 
-Cuando se trate de taxones o poblaciones protegidas en los anexos de las normas o decisiones de la Unión Europea, como los que se enumeran en el anexo V, o en los instrumentos internacionales ratificados por España, la inclusión en el Listado se producirá de oficio por el Ministerio de Agricultura, Alimentación y Medio Ambiente, notificando previamente tal inclusión a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.
+- **A solicitud de ciudadano u organización**: acompañando a la correspondiente solicitud una argumentación científica de la medida propuesta.
 
-Cualquier ciudadano u organización podrá solicitar la iniciación del procedimiento de inclusión, cambio de categoría o exclusión acompañando a la correspondiente solicitud una argumentación científica de la medida propuesta.
+La inclusión de un taxón o población en el Listado de Especies Silvestres en Régimen de Protección Especial conllevará la evaluación periódica de su estado de conservación.
 
-3. La inclusión de un taxón o población en el Listado de Especies Silvestres en Régimen de Protección Especial conllevará la evaluación periódica de su estado de conservación.
-
-4. Las comunidades autónomas, en sus respectivos ámbitos territoriales, podrán establecer listados de especies silvestres en régimen de protección especial, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su preservación o con el fin de establecer un mayor grado de protección.
+Las Comunidades Autónomas podrán establecer listados de especies silvestres en régimen de protección especial, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su preservación o con el fin de establecer un mayor grado de protección.
 
 ##### Artículo 57. Prohibiciones y garantía de conservación para las especies incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial.
 
-1. La inclusión en el Listado de Especies Silvestres en Régimen de Protección Especial de una especie, subespecie o población conlleva las siguientes prohibiciones genéricas:
+La inclusión en el Listado de Especies Silvestres en Régimen de Protección Especial de una especie, subespecie o población conlleva las siguientes prohibiciones genéricas:
+
+
+|                        |                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Plantas, hongos, algas | - Recolección<br>- Mutilación<br>- Arranque<br>- Destrucción intencional                                                                                                                                                                                                                                                                                                                                          |
+| Animales               | - Muerte<br>- Captura<br>- Persecución<br>- Molestias<br>- Destrucción o deterioro de nidos, vivares y lugares de reproducción, invernada o reposo                                                                                                                                                                                                                                                                |
+| Todos                  | - poseer, naturalizar, transportar, vender, comerciar o intercambiar, ofertar con fines de venta o intercambio, importar o exportar ejemplares vivos o muertos, así como sus propágulos o restos, salvo en los casos en los que estas actividades, de una forma controlada por la Administración, puedan resultar claramente beneficiosas para su conservación, en los casos que reglamentariamente se determinen |
+
+En los animales, es incluye también sus larvas, crías o huevos
 
 a) Tratándose de plantas, hongos o algas, la de recogerlas, cortarlas, mutilarlas, arrancarlas o destruirlas intencionadamente en la naturaleza.
 
@@ -115,97 +123,85 @@ c) En ambos casos, la de poseer, naturalizar, transportar, vender, comerciar o i
 
 Estas prohibiciones se aplicarán a todas las fases del ciclo biológico de estas especies, subespecies o poblaciones.
 
-2. La Administración General del Estado y las comunidades autónomas, en el ámbito de sus respectivas competencias, establecerán un sistema de control de capturas o muertes accidentales y, a partir de la información recogida en el mismo, adoptarán las medidas necesarias para que éstas no tengan repercusiones negativas importantes en las especies incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial, y se minimicen en el futuro.
+La Administración General del Estado y las Comunidades Autónoma establecerán un sistema de control de capturas o muertes accidentales y, a partir de la información recogida en el mismo, adoptarán las medidas necesarias para que éstas no tengan repercusiones negativas importantes en las especies incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial, y se minimicen en el futuro.
 
 ##### Artículo 58. Catálogo Español de Especies Amenazadas.
 
-1. En el seno del Listado de Especies Silvestres en Régimen de Protección Especial, se establece el Catálogo Español de Especies Amenazadas que incluirá, cuando exista información técnica o científica que así lo aconseje, los taxones o poblaciones de la biodiversidad amenazada, incluyéndolos en algunas de las categorías siguientes:
+Dentro del Listado de Especies Silvestres en Régimen de Protección Especial, se establece el Catálogo Español de Especies Amenazadas que incluirá los taxones o poblaciones de la biodiversidad amenazada (cuando exista información técnica o científica que así lo aconseje):
 
-a) En peligro de extinción: taxones o poblaciones cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
+- **En peligro de extinción**: supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
+- **Vulnerable**: corren el riesgo de pasar a la categoría anterior en un futuro inmediato si los factores adversos que actúan sobre ellos no son corregidos.
 
-b) Vulnerable: taxones o poblaciones que corren el riesgo de pasar a la categoría anterior en un futuro inmediato si los factores adversos que actúan sobre ellos no son corregidos.
-
-2. La catalogación, descatalogación o cambio de categoría de un taxón o población en el Catálogo Español de Especies Amenazadas se realizará por el Ministerio de Medio Ambiente a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, a iniciativa de las Comunidades autónomas o del propio Ministerio, cuando exista información técnica o científica que así lo aconseje.
+La catalogación, descatalogación o cambio de categoría de un taxón o población en el Catálogo Español de Especies Amenazadas se realizará por el Ministerio de Medio Ambiente a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, a iniciativa de las Comunidades autónomas o del propio Ministerio, cuando exista información técnica o científica que así lo aconseje.
 
 Cualquier ciudadano u organización podrá solicitar la iniciación del procedimiento de inclusión, cambio de categoría o exclusión acompañando a la correspondiente solicitud una argumentación científica de la medida propuesta.
 
-3. Las Comunidades autónomas, en sus respectivos ámbitos territoriales, podrán establecer catálogos de especies amenazadas, estableciendo, además de las categorías relacionadas en este artículo, otras específicas, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su preservación.
+Las Comunidades Autónomas podrán establecer catálogos de especies amenazadas, estableciendo, además de las categorías relacionadas en este artículo, otras específicas, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su preservación.
 
-4. Las Comunidades autónomas podrán, en su caso, incrementar el grado de protección de las especies del Catálogo Español de Especies Amenazadas en sus catálogos autonómicos, incluyéndolas en una categoría superior de amenaza.
+Las Comunidades Autónomas podrán, en su caso, incrementar el grado de protección de las especies del Catálogo Español de Especies Amenazadas en sus catálogos autonómicos, incluyéndolas en una categoría superior de amenaza.
 
 ##### Artículo 59. Efectos de la inclusión en el Catálogo Español de Especies Amenazadas.
 
-1. En lo que se refiere al Catálogo Español de Especies Amenazadas:
-
-a) La inclusión de un taxón o población en la categoría de "en peligro de extinción" conllevará, en un plazo máximo de tres años, la adopción de un plan de recuperación, que incluya las medidas más adecuadas para el cumplimiento de los objetivos buscados, y, en su caso, la designación de áreas críticas.
+La inclusión de un taxón o población en la categoría de "en peligro de extinción" conllevará, en un plazo máximo de tres años, la adopción de un plan de recuperación, que incluya las medidas más adecuadas para el cumplimiento de los objetivos buscados, y, en su caso, la designación de áreas críticas.
 
 En las áreas críticas, y en las áreas de potencial reintroducción o expansión de estos taxones o poblaciones definidas como tales en los planes de recuperación, se fijarán medidas de conservación e instrumentos de gestión, específicos para estas áreas o integrados en otros planes, que eviten las afecciones negativas para las especies que hayan motivado la designación de esas áreas.
 
-b) La inclusión de un taxón o población en la categoría de "vulnerable" conllevará la adopción, en un plazo máximo de cinco años, de un plan de conservación que incluya las medidas más adecuadas para el cumplimiento de los objetivos buscados.
+La inclusión de un taxón o población en la categoría de "vulnerable" conllevará la adopción, en un plazo máximo de cinco años, de un plan de conservación que incluya las medidas más adecuadas para el cumplimiento de los objetivos buscados.
 
-c) Para aquellos taxones o poblaciones que comparten los mismos problemas de conservación o ámbitos geográficos similares, se podrán elaborar planes que abarquen varios taxones o poblaciones simultáneamente.
+Para aquellos taxones o poblaciones que comparten los mismos problemas de conservación o ámbitos geográficos similares, se podrán elaborar planes que abarquen varios taxones o poblaciones simultáneamente.
 
-d) Para las especies o poblaciones que vivan exclusivamente o en alta proporción en espacios naturales protegidos, Red Natura 2000 o áreas protegidas por instrumentos internacionales, los planes se podrán integrar en las correspondientes figuras de planificación y gestión de dichos espacios.
+Para las especies o poblaciones que vivan exclusivamente o en alta proporción en espacios naturales protegidos, Red Natura 2000 o áreas protegidas por instrumentos internacionales, los planes se podrán integrar en las correspondientes figuras de planificación y gestión de dichos espacios.
 
-2. Las comunidades autónomas elaborarán y aprobarán los planes de conservación y de recuperación para las especies amenazadas terrestres.
+Las Comunidades Autónomas elaborarán y aprobarán los planes de conservación y de recuperación para las especies amenazadas terrestres.
 
-3. En el caso de las especies marinas, el Ministerio de Agricultura, Alimentación y Medio Ambiente elaborará y aprobará los planes de recuperación y conservación, mediante orden ministerial, que serán coherentes con los instrumentos de protección previstos en la Ley 41/2010, de 29 de diciembre, de protección del medio marino, excepto para las especies amenazadas no altamente migratorias cuyos hábitats se sitúen exclusivamente en espacios con continuidad ecológica del ecosistema marino respecto del espacio natural terrestre objeto de protección, avalada por la mejor evidencia científica existente.
+En el caso de las especies marinas, el Ministerio de Medio Ambiente elaborará y aprobará los planes de recuperación y conservación, mediante orden ministerial (que serán coherentes con las estrategias marinas: Ley 41/2010), excepto para las especies amenazadas no altamente migratorias cuyos hábitats se sitúen exclusivamente en espacios con continuidad ecológica del ecosistema marino respecto del espacio natural terrestre objeto de protección, avalada por la mejor evidencia científica existente.
 
-4. Sin perjuicio de la normativa sanitaria vigente, el traslado o movimiento internacional de ejemplares vivos de especies incluidas en el Catálogo Español de Especies Amenazadas deberá contar con una autorización previa de la comunidad autónoma, previo informe de la Dirección General competente del Ministerio de Agricultura, Alimentación y Medio Ambiente. En el caso de las especies marinas de competencia estatal, dicha autorización será emitida por el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+Sin perjuicio de la normativa sanitaria vigente,
+
+El traslado o movimiento internacional de ejemplares vivos de especies incluidas en el Catálogo Español de Especies Amenazadas deberá contar con una autorización previa de la Comunidad Autónoma (sin perjuicio de la normativa sanitaria) (previo informe de la Dirección General competente del Ministerio), salvo que se trate de especies marinas de competencia estatal, que la emitirá directamente el Ministerio.
 
 ##### Artículo 60. Estrategias de conservación de especies amenazadas y de lucha contra amenazas para la biodiversidad. Situación crítica de una especie.
 
-1. La Conferencia Sectorial de Medio Ambiente, a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y previo informe del Consejo Estatal para el Patrimonio Natural y la Biodiversidad, aprobará las estrategias de conservación de especies amenazadas presentes en más de una comunidad autónoma, o aquellas otras que resultan clave para el funcionamiento de los ecosistemas presentes en más de una comunidad autónoma, y las estrategias de lucha contra las principales amenazas para la biodiversidad, dando prioridad a las que afecten a mayor número de especies incluidas en el Catálogo Español de Especies Amenazadas. Estas estrategias o, al menos una reseña de que han sido aprobadas, se publicarán en el “Boletín Oficial del Estado”, con remisión a la sede electrónica en la que se halle publicado su contenido completo.
+La Conferencia Sectorial de Medio Ambiente (a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y previo informe del Consejo Estatal para el Patrimonio Natural y la Biodiversidad), aprobará las estrategias de conservación de especies amenazadas presentes en más de una Comunidad Autónoma, o aquellas otras que resultan clave para el funcionamiento de los ecosistemas presentes en más de una comunidad autónoma, y las estrategias de lucha contra las principales amenazas para la biodiversidad, dando prioridad a las que afecten a mayor número de especies incluidas en el Catálogo Español de Especies Amenazadas. Estas estrategias o, al menos una reseña de que han sido aprobadas, se publicarán en el “Boletín Oficial del Estado”, con remisión a la sede electrónica en la que se halle publicado su contenido completo.
 
 Estas estrategias, que constituirán el marco orientativo de los Planes de Recuperación y Conservación, incluirán, al menos, un diagnóstico de la situación y de las principales amenazas para las especies, y las acciones a emprender para su recuperación.
 
-2. Cuando del seguimiento o evaluación del estado de conservación de una especie en peligro de extinción se dedujera que existe un riesgo inminente de extinción, el Ministro de Agricultura, Alimentación y Medio Ambiente, previo informe de la Conferencia Sectorial de Medio Ambiente, podrá declarar la situación crítica de esa especie. Esta declaración tendrá como consecuencia que las obras y proyectos encaminados a la recuperación de estas especies tendrán la consideración de interés general y su tramitación tendrá carácter de urgencia.
+Cuando del seguimiento o evaluación del estado de conservación de una especie en peligro de extinción se dedujera que existe un riesgo inminente de extinción, el Ministro de Agricultura, Alimentación y Medio Ambiente, previo informe de la Conferencia Sectorial de Medio Ambiente, podrá declarar la situación crítica de esa especie. Esta declaración tendrá como consecuencia que las obras y proyectos encaminados a la recuperación de estas especies tendrán la consideración de interés general y su tramitación tendrá carácter de urgencia.
 
 En estos casos, el Ministerio de Agricultura, Alimentación y Medio Ambiente coordinará, en el seno de un grupo de trabajo constituido por al menos un representante de dicho Ministerio y de cada una de las comunidades autónomas y ciudades con estatuto de autonomía del área de distribución de la especie, las actuaciones a realizar por cada Administración, en el ámbito de sus competencias.
 
-3. El Ministerio de Agricultura, Alimentación y Medio Ambiente aprobará las estrategias de conservación de especies amenazadas marinas y las de lucha contra las amenazas para la biodiversidad marina, dando prioridad a las que afecten a mayor número de especies incluidas en el Catálogo Español de Especies Amenazadas, como la captura accidental por artes de pesca, la colisión con embarcaciones o el ruido submarino.
+El Ministerio de Agricultura, Alimentación y Medio Ambiente aprobará las estrategias de conservación de especies amenazadas marinas y las de lucha contra las amenazas para la biodiversidad marina, dando prioridad a las que afecten a mayor número de especies incluidas en el Catálogo Español de Especies Amenazadas, como la captura accidental por artes de pesca, la colisión con embarcaciones o el ruido submarino.
 
 ##### Artículo 61. Excepciones.
 
-1. Las prohibiciones establecidas en este capítulo podrán quedar sin efecto, previa autorización administrativa de la comunidad autónoma o de la Administración General del Estado, en el ámbito de sus competencias, si no hubiere otra solución satisfactoria, y sin que ello suponga perjudicar el mantenimiento en un estado de conservación favorable de las poblaciones de que se trate, en su área de distribución natural, cuando concurra alguna de las circunstancias siguientes:
+Las prohibiciones establecidas en este capítulo podrán quedar sin efecto, previa autorización administrativa de la comunidad autónoma o de la Administración General del Estado, en el ámbito de sus competencias, si no hubiere otra solución satisfactoria, y sin que ello suponga perjudicar el mantenimiento en un estado de conservación favorable de las poblaciones de que se trate, en su área de distribución natural, cuando concurra alguna de las circunstancias siguientes:
 
-a) Si de su aplicación se derivaran efectos perjudiciales para la salud y seguridad de las personas.
+- a) Si de su aplicación se derivaran efectos perjudiciales para la salud y seguridad de las personas.
+- b) Para prevenir perjuicios importantes a los cultivos, el ganado, los bosques, la pesca y la calidad de las aguas. Salvo en el caso de las aves, también se podrá aplicar esta excepción en caso de perjuicio importante a otras formas de propiedad.
+- c) Por razones imperiosas de interés público de primer orden, incluidas las de carácter socioeconómico y consecuencias beneficiosas de importancia primordial para el medio ambiente. Esta excepción no será de aplicación en el caso de las aves.
+- d) Cuando sea necesario por razón de investigación, educación, repoblación o reintroducción, o cuando se precise para la cría en cautividad orientada a dichos fines.
+- e) En el caso de las aves, para prevenir accidentes en relación con la seguridad aérea.
+- f) Para permitir, en condiciones estrictamente controladas y mediante métodos selectivos, la captura, retención o cualquier otra explotación prudente de determinadas especies no incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial, en pequeñas cantidades y con las limitaciones precisas para garantizar su conservación.
+- g) Para proteger la flora y la fauna silvestres y los hábitats naturales.
 
-b) Para prevenir perjuicios importantes a los cultivos, el ganado, los bosques, la pesca y la calidad de las aguas. Salvo en el caso de las aves, también se podrá aplicar esta excepción en caso de perjuicio importante a otras formas de propiedad.
+En los supuestos de aplicación del último inciso del apartado 1 letra b) y del apartado 1 letra c), las Administraciones competentes especificarán las medidas mediante las cuales quedará garantizado el principio de no pérdida neta de biodiversidad, previsto en el artículo 2.c), ya sea mediante la figura de los bancos de conservación, ya sea mediante la adopción de otros instrumentos.
 
-c) Por razones imperiosas de interés público de primer orden, incluidas las de carácter socioeconómico y consecuencias beneficiosas de importancia primordial para el medio ambiente. Esta excepción no será de aplicación en el caso de las aves.
+En los supuestos previstos en el apartado 1 letra d), se estará a lo dispuesto en el Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos.
 
-d) Cuando sea necesario por razón de investigación, educación, repoblación o reintroducción, o cuando se precise para la cría en cautividad orientada a dichos fines.
+En el caso de autorizaciones excepcionales en las que concurran las circunstancias contempladas en el apartado 1, letra f), la Comisión Estatal para el Patrimonio Natural y la Biodiversidad establecerá los mecanismos necesarios para garantizar, basándose en datos científicos rigurosos, que no existen otras alternativas viables y que el nivel máximo nacional de capturas se ajusta al concepto de "pequeñas cantidades". Igualmente, se establecerán los cupos máximos de captura que podrán concederse, así como los sistemas de control del cumplimiento de dichas medidas que deberán ser ejercidas antes y durante el período autorizado para efectuar la captura, retención o explotación prudente, sin perjuicio de los controles adicionales que deben también establecerse una vez transcurrido dicho período.
 
-e) En el caso de las aves, para prevenir accidentes en relación con la seguridad aérea.
+La autorización administrativa a que se refieren los apartados anteriores deberá ser pública, motivada y especificar:
+- El objetivo y la justificación de la acción.
+- Las especies a que se refiera.
+- Los medios, las instalaciones, los sistemas o métodos a emplear y sus límites, así como las razones y el personal cualificado para su empleo.
+- La naturaleza y condiciones de riesgo, las circunstancias de tiempo y lugar y si procede, las soluciones alternativas no adoptadas y los datos científicos utilizados.
+- Las medidas de control que se aplicarán.
 
-f) Para permitir, en condiciones estrictamente controladas y mediante métodos selectivos, la captura, retención o cualquier otra explotación prudente de determinadas especies no incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial, en pequeñas cantidades y con las limitaciones precisas para garantizar su conservación.
+Las comunidades autónomas comunicarán al Ministerio de Agricultura, Alimentación y Medio Ambiente las autorizaciones acordadas según lo previsto en este artículo, a efectos de su posterior notificación a la Comisión Europea y a los Organismos internacionales pertinentes, señalando, en cada caso, los controles ejercidos y los resultados obtenidos de los mismos.
 
-g) Para proteger la flora y la fauna silvestres y los hábitats naturales.
+En el caso de captura en vivo de ejemplares, los métodos de captura o marcaje deben adoptar la alternativa con menor probabilidad de producir lesiones o provocar mortalidad de los ejemplares capturados.
 
-2. En los supuestos de aplicación del último inciso del apartado 1 letra b) y del apartado 1 letra c), las Administraciones competentes especificarán las medidas mediante las cuales quedará garantizado el principio de no pérdida neta de biodiversidad, previsto en el artículo 2.c), ya sea mediante la figura de los bancos de conservación, ya sea mediante la adopción de otros instrumentos.
-
-3. En los supuestos previstos en el apartado 1 letra d), se estará a lo dispuesto en el Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos.
-
-4. En el caso de autorizaciones excepcionales en las que concurran las circunstancias contempladas en el apartado 1, letra f), la Comisión Estatal para el Patrimonio Natural y la Biodiversidad establecerá los mecanismos necesarios para garantizar, basándose en datos científicos rigurosos, que no existen otras alternativas viables y que el nivel máximo nacional de capturas se ajusta al concepto de "pequeñas cantidades". Igualmente, se establecerán los cupos máximos de captura que podrán concederse, así como los sistemas de control del cumplimiento de dichas medidas que deberán ser ejercidas antes y durante el período autorizado para efectuar la captura, retención o explotación prudente, sin perjuicio de los controles adicionales que deben también establecerse una vez transcurrido dicho período.
-
-5. La autorización administrativa a que se refieren los apartados anteriores deberá ser pública, motivada y especificar:
-
-a) El objetivo y la justificación de la acción.
-
-b) Las especies a que se refiera.
-
-c) Los medios, las instalaciones, los sistemas o métodos a emplear y sus límites, así como las razones y el personal cualificado para su empleo.
-
-d) La naturaleza y condiciones de riesgo, las circunstancias de tiempo y lugar y si procede, las soluciones alternativas no adoptadas y los datos científicos utilizados.
-
-e) Las medidas de control que se aplicarán.
-
-6. Las comunidades autónomas comunicarán al Ministerio de Agricultura, Alimentación y Medio Ambiente las autorizaciones acordadas según lo previsto en este artículo, a efectos de su posterior notificación a la Comisión Europea y a los Organismos internacionales pertinentes, señalando, en cada caso, los controles ejercidos y los resultados obtenidos de los mismos.
-
-7. En el caso de captura en vivo de ejemplares, los métodos de captura o marcaje deben adoptar la alternativa con menor probabilidad de producir lesiones o provocar mortalidad de los ejemplares capturados.
-
-8. La concesión por parte de las Administraciones competentes de autorizaciones para la práctica del marcaje de ejemplares de fauna silvestre, en especial a través del anillamiento científico, quedará supeditada a que el solicitante demuestre su aptitud para el desarrollo de la actividad, sobre una base mínima de conocimientos comunes que se establezcan por la Conferencia Sectorial de Medio Ambiente, con la colaboración de las entidades y sociedades científicas relacionadas con el marcaje.
+La concesión por parte de las Administraciones competentes de autorizaciones para la práctica del marcaje de ejemplares de fauna silvestre, en especial a través del anillamiento científico, quedará supeditada a que el solicitante demuestre su aptitud para el desarrollo de la actividad, sobre una base mínima de conocimientos comunes que se establezcan por la Conferencia Sectorial de Medio Ambiente, con la colaboración de las entidades y sociedades científicas relacionadas con el marcaje.
 
 #### CAPÍTULO II
 
@@ -213,25 +209,25 @@ e) Las medidas de control que se aplicarán.
 
 ##### Artículo 62. Propagación de Especies Silvestres Amenazadas.
 
-1. Como complemento a las acciones de conservación in situ, para las especies incluidas en el Catálogo Estatal de Especies Amenazadas, la Comisión Estatal de Patrimonio Natural y la Biodiversidad impulsará el desarrollo de programas de cría o propagación fuera de su hábitat natural, en especial cuando tales programas hayan sido previstos en las estrategias de conservación, o planes de recuperación o conservación.
+Como complemento a las acciones de conservación in situ, para las especies incluidas en el Catálogo Estatal de Especies Amenazadas, la Comisión Estatal de Patrimonio Natural y la Biodiversidad impulsará el desarrollo de programas de cría o propagación fuera de su hábitat natural, en especial cuando tales programas hayan sido previstos en las estrategias de conservación, o planes de recuperación o conservación.
 
 Estos programas estarán dirigidos a la constitución de reservas genéticas y/o a la obtención de ejemplares aptos para su reintroducción al medio natural.
 
-2. A tal efecto, en el marco de la citada Comisión, las Administraciones implicadas acordarán la designación y condiciones de los centros de referencia a nivel nacional, que ejercerán la coordinación de los respectivos programas de conservación ex situ.
+A tal efecto, en el marco de la citada Comisión, las Administraciones implicadas acordarán la designación y condiciones de los centros de referencia a nivel nacional, que ejercerán la coordinación de los respectivos programas de conservación ex situ.
 
-3. Las organizaciones sin ánimo de lucro, los parques zoológicos, los acuarios, los jardines botánicos y los centros públicos y privados de investigación o conservación podrán participar en los programas de cría en cautividad y propagación de especies amenazadas.
+Las organizaciones sin ánimo de lucro, los parques zoológicos, los acuarios, los jardines botánicos y los centros públicos y privados de investigación o conservación podrán participar en los programas de cría en cautividad y propagación de especies amenazadas.
 
 ##### Artículo 63. Conservación ex situ de material biológico y genético de especies silvestres.
 
-1. Con objeto de preservar la diversidad genética de las especies silvestres y de complementar las actuaciones de conservación in situ, las Administraciones públicas promoverán la existencia de bancos de material genético y biológico de especies silvestres.
+Con objeto de preservar la diversidad genética de las especies silvestres y de complementar las actuaciones de conservación in situ, las Administraciones públicas promoverán la existencia de bancos de material genético y biológico de especies silvestres.
 
-2. La Comisión Estatal para el Patrimonio Natural y la Biodiversidad elaborará unas directrices para impulsar el trabajo coordinado entre los bancos de material genético y biológico y las Administraciones públicas. Estas directrices incluirán, entre otras cuestiones, los mecanismos para el impulso del trabajo en red de los bancos, los procedimientos de intercambio de información sobre las colecciones, los taxones prioritarios para ser conservados ex situ y los mecanismos de coordinación entre todos los implicados. Las directrices serán aprobadas, previo informe del Consejo Estatal para el Patrimonio Natural y la Biodiversidad, por la Conferencia Sectorial de Medio Ambiente. Estas estrategias o, al menos una reseña de que han sido aprobadas, se publicarán en el "Boletín Oficial del Estado", con remisión a la sede electrónica en la que se halle publicado su contenido completo.
+La Comisión Estatal para el Patrimonio Natural y la Biodiversidad elaborará unas directrices para impulsar el trabajo coordinado entre los bancos de material genético y biológico y las Administraciones públicas. Estas directrices incluirán, entre otras cuestiones, los mecanismos para el impulso del trabajo en red de los bancos, los procedimientos de intercambio de información sobre las colecciones, los taxones prioritarios para ser conservados ex situ y los mecanismos de coordinación entre todos los implicados. Las directrices serán aprobadas, previo informe del Consejo Estatal para el Patrimonio Natural y la Biodiversidad, por la Conferencia Sectorial de Medio Ambiente. Estas estrategias o, al menos una reseña de que han sido aprobadas, se publicarán en el "Boletín Oficial del Estado", con remisión a la sede electrónica en la que se halle publicado su contenido completo.
 
-3. Se dará prioridad, entre otros, a la conservación de material biológico y genético de taxones del Listado de Especies Silvestres en Régimen de Protección Especial, con especial atención a las especies endémicas o catalogadas.
+Se dará prioridad, entre otros, a la conservación de material biológico y genético de taxones del Listado de Especies Silvestres en Régimen de Protección Especial, con especial atención a las especies endémicas o catalogadas.
 
-4. Las comunidades autónomas mantendrán un registro de los bancos de material biológico y genético de especies silvestres sitos en su territorio, con información actualizada sobre las colecciones conservadas. A tal efecto, los bancos deberán proporcionar, al menos anualmente, dicha información a la Administración competente de su comunidad autónoma.
+Las Comunidades Autónomas mantendrán un registro de los bancos de material biológico y genético de especies silvestres sitos en su territorio, con información actualizada sobre las colecciones conservadas. A tal efecto, los bancos deberán proporcionar, al menos anualmente, dicha información a la Administración competente de su comunidad autónoma.
 
-5. Se crea el Inventario Español de Bancos de Material Biológico y Genético de especies silvestres, dependiente del Ministerio de Agricultura, Alimentación y Medio Ambiente, que tendrá carácter informativo y en el que se incluirán los datos que vuelquen las comunidades autónomas.
+Se crea el Inventario Español de Bancos de Material Biológico y Genético de especies silvestres, dependiente del Ministerio de Agricultura, Alimentación y Medio Ambiente, que tendrá carácter informativo y en el que se incluirán los datos que vuelquen las comunidades autónomas.
 
 #### CAPÍTULO III
 
@@ -239,52 +235,48 @@ Estos programas estarán dirigidos a la constitución de reservas genéticas y/o
 
 ##### Artículo 64. Catálogo Español de Especies Exóticas Invasoras.
 
-1. Se crea el Catálogo Español de Especies Exóticas Invasoras, cuya estructura y funcionamiento se regulará reglamentariamente y en el que se incluirán, cuando exista información técnica o científica que así lo aconseje, todas aquellas especies y subespecies exóticas invasoras que constituyan una amenaza grave para las especies autóctonas, los hábitats o los ecosistemas, la agronomía o para los recursos económicos asociados al uso del patrimonio natural.
+Se crea el Catálogo Español de Especies Exóticas Invasoras, cuya estructura y funcionamiento se regulará reglamentariamente y en el que se incluirán, cuando exista información técnica o científica que así lo aconseje, todas aquellas especies y subespecies exóticas invasoras que constituyan una amenaza grave para las especies autóctonas, los hábitats o los ecosistemas, la agronomía o para los recursos económicos asociados al uso del patrimonio natural.
 
 Dicho catálogo dependerá del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, con carácter administrativo y ámbito estatal.
 
-2. La inclusión o exclusión de una especie en el Catálogo Español de Especies Exóticas Invasoras se llevará a cabo por el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, previa iniciativa de las comunidades autónomas o del propio Ministerio, cuando exista información técnica o científica que así lo aconseje.
+La inclusión o exclusión de una especie en el Catálogo Español de Especies Exóticas Invasoras se llevará a cabo por el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, previa iniciativa de las comunidades autónomas o del propio Ministerio, cuando exista información técnica o científica que así lo aconseje.
 
 Cualquier ciudadano u organización podrá solicitar la iniciación del procedimiento de inclusión o exclusión de una especie o subespecie, acompañando a la correspondiente solicitud una argumentación científica de la medida propuesta.
 
-3. En los supuestos con regulación específica, en especial en la legislación de montes, caza, agricultura, sanidad y salud pública, pesca continental y pesca marítima, en casos excepcionales, por motivos imperiosos de interés público, incluidos los de naturaleza social y económica, la Comisión Estatal para el Patrimonio Natural y la Biodiversidad podrá acordar, de oficio, a instancia de las comunidades autónomas o de parte interesada, mediante decisión motivada y pública, la suspensión del procedimiento de catalogación de una especie o promover la descatalogación de una especie previamente catalogada. Esta suspensión o descatalogación podrá realizarse mediante su declaración como especie naturalizada.
+En los supuestos con regulación específica, en especial en la legislación de montes, caza, agricultura, sanidad y salud pública, pesca continental y pesca marítima, en casos excepcionales, por motivos imperiosos de interés público, incluidos los de naturaleza social y económica, la Comisión Estatal para el Patrimonio Natural y la Biodiversidad podrá acordar, de oficio, a instancia de las comunidades autónomas o de parte interesada, mediante decisión motivada y pública, la suspensión del procedimiento de catalogación de una especie o promover la descatalogación de una especie previamente catalogada. Esta suspensión o descatalogación podrá realizarse mediante su declaración como especie naturalizada.
 
-4. La Comisión Estatal para el Patrimonio Natural y la Biodiversidad aprobará, a propuesta de las comunidades autónomas, y previa audiencia a los colectivos y entidades con interés legítimo, el listado de las especies naturalizadas y los ámbitos concretos de estas, para la suspensión de la catalogación o descatalogación de la especie incluida en el Catálogo de Especies Exóticas Invasoras, debidamente justificado por razones de índole social y económica. Asimismo, deberá quedar probada fehacientemente la presencia de dichas especies en los ámbitos seleccionados, antes de la entrada en vigor de la presente Ley.
+La Comisión Estatal para el Patrimonio Natural y la Biodiversidad aprobará, a propuesta de las comunidades autónomas, y previa audiencia a los colectivos y entidades con interés legítimo, el listado de las especies naturalizadas y los ámbitos concretos de estas, para la suspensión de la catalogación o descatalogación de la especie incluida en el Catálogo de Especies Exóticas Invasoras, debidamente justificado por razones de índole social y económica. Asimismo, deberá quedar probada fehacientemente la presencia de dichas especies en los ámbitos seleccionados, antes de la entrada en vigor de la presente Ley.
 
-5. La inclusión en el Catálogo Español de Especies Exóticas Invasoras conlleva la prohibición genérica de posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior. Esta prohibición podrá quedar sin efecto, previa autorización administrativa de la autoridad competente cuando sea necesario por razones de investigación, salud o seguridad de las personas, o con fines de control o erradicación, en el marco de estrategias, planes y campañas que, a tal efecto, se aprueben y teniendo en cuenta la relevancia de los aspectos sociales y/o económicos de la actividad a la que afecten.
+La inclusión en el Catálogo Español de Especies Exóticas Invasoras conlleva la prohibición genérica de posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior. Esta prohibición podrá quedar sin efecto, previa autorización administrativa de la autoridad competente cuando sea necesario por razones de investigación, salud o seguridad de las personas, o con fines de control o erradicación, en el marco de estrategias, planes y campañas que, a tal efecto, se aprueben y teniendo en cuenta la relevancia de los aspectos sociales y/o económicos de la actividad a la que afecten.
 
 En casos excepcionales debidamente justificados, por otros motivos imperiosos de interés público incluidos los de naturaleza social o económica, la Comisión Estatal para el Patrimonio Natural y de la Biodiversidad podrá dejar sin efecto, mediante acuerdo, algunas prohibiciones del párrafo anterior para una determinada especie catalogada. El acuerdo incorporará las garantías necesarias para asegurar que no producirán efectos negativos sobre la biodiversidad autóctona.
 
 Las estrategias, planes y campañas de control o erradicación de las especies deberán contar con acciones indicadores y un programa de seguimiento que permita evaluar su eficacia.
 
-6. Por parte de las administraciones competentes, se llevará a cabo un seguimiento de las especies exóticas con potencial invasor, en especial de aquellas que han demostrado ese carácter en otros países o regiones, con el fin de proponer, llegado el caso, su inclusión en el Catálogo Español de Especies Exóticas Invasoras.
+Por parte de las administraciones competentes, se llevará a cabo un seguimiento de las especies exóticas con potencial invasor, en especial de aquellas que han demostrado ese carácter en otros países o regiones, con el fin de proponer, llegado el caso, su inclusión en el Catálogo Español de Especies Exóticas Invasoras.
 
-7. El Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente y las comunidades autónomas, en el marco de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, elaborarán estrategias que contengan las directrices de gestión, control o posible erradicación de las especies del Catálogo Español de Especies Exóticas Invasoras, otorgando prioridad a aquellas especies que supongan un mayor riesgo para la conservación de la fauna, flora o hábitats autóctonos amenazados, con particular atención a la biodiversidad insular. La Conferencia Sectorial de Medio Ambiente, a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y previo informe del Consejo Estatal para el Patrimonio Natural y la Biodiversidad, aprobará estas estrategias, que tendrán carácter orientativo. Estas estrategias, o al menos una reseña de que han sido aprobadas, se publicarán en el ‘‘Boletín Oficial del Estado’’, con remisión a la sede electrónica en la que se halle publicado su contenido completo.
+El Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente y las comunidades autónomas, en el marco de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, elaborarán estrategias que contengan las directrices de gestión, control o posible erradicación de las especies del Catálogo Español de Especies Exóticas Invasoras, otorgando prioridad a aquellas especies que supongan un mayor riesgo para la conservación de la fauna, flora o hábitats autóctonos amenazados, con particular atención a la biodiversidad insular. La Conferencia Sectorial de Medio Ambiente, a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, y previo informe del Consejo Estatal para el Patrimonio Natural y la Biodiversidad, aprobará estas estrategias, que tendrán carácter orientativo. Estas estrategias, o al menos una reseña de que han sido aprobadas, se publicarán en el ‘‘Boletín Oficial del Estado’’, con remisión a la sede electrónica en la que se halle publicado su contenido completo.
 
-8. Las comunidades autónomas, en sus respectivos ámbitos territoriales, podrán establecer catálogos de especies exóticas invasoras, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su control o erradicación. Las comunidades autónomas podrán incluir en sus propios catálogos especies que consten en el listado de especies naturalizadas o también aquellas afectadas por el segundo párrafo del apartado quinto de este artículo.
+Las Comunidades Autónomas, en sus respectivos ámbitos territoriales, podrán establecer catálogos de especies exóticas invasoras, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su control o erradicación. Las comunidades autónomas podrán incluir en sus propios catálogos especies que consten en el listado de especies naturalizadas o también aquellas afectadas por el segundo párrafo del apartado quinto de este artículo.
 
-9. El Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente aprobará las estrategias para las especies exóticas invasoras marinas.
+El Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente aprobará las estrategias para las especies exóticas invasoras marinas.
 
 ##### Artículo 64 bis. Especies exóticas invasoras de preocupación para la Unión.
 
-1. La gestión de las especies exóticas invasoras preocupantes para la Unión se hará conforme a lo dispuesto en el Reglamento (UE) n.º 1143/2014 del Parlamento Europeo y del Consejo, de 22 de octubre de 2014, sobre la prevención y la gestión de la introducción y propagación de especies exóticas invasoras.
-
-2. El incumplimiento de las obligaciones previstas en el citado reglamento conllevará la imposición de las respectivas sanciones previstas en el título VI de esta ley.
+La gestión de las especies exóticas invasoras preocupantes para la Unión se hará conforme a lo dispuesto en el Reglamento 1143/2014. El incumplimiento de sus obligaciones impondrá sanciones administrativas (título VI de esta ley).
 
 ##### Artículo 64 ter. Especies catalogadas como exóticas invasoras introducidas en el medio natural con anterioridad a la entrada en vigor de la presente ley, objeto de aprovechamiento piscícola o cinegético. Sueltas con la especie trucha arcoíris.
 
-1. Para evitar que las especies catalogadas objeto de aprovechamiento piscícola o cinegético, introducidas en el medio natural antes de la entrada en vigor de la presente ley, se extiendan fuera de los límites de sus áreas de distribución anteriores a esa fecha, su gestión, control o posible erradicación se podrá realizar, en esas áreas, a través de la caza y la pesca, y en todas sus modalidades, incluidas las reguladas por las federaciones deportivas españolas de caza y de pesca, cuando este objetivo quede recogido en los instrumentos normativos de caza y pesca.
+Para evitar que las especies catalogadas objeto de aprovechamiento piscícola o cinegético, introducidas en el medio natural antes de la entrada en vigor de la presente ley, se extiendan fuera de los límites de sus áreas de distribución anteriores a esa fecha, su gestión, control o posible erradicación se podrá realizar, en esas áreas, a través de la caza y la pesca, y en todas sus modalidades, incluidas las reguladas por las federaciones deportivas españolas de caza y de pesca, cuando este objetivo quede recogido en los instrumentos normativos de caza y pesca.
 
-2. Las comunidades autónomas y ciudades de Ceuta y Melilla podrán utilizar los instrumentos de planificación y gestión en materia de caza y pesca para determinar las especies que, en su ámbito territorial, se ven afectadas por el contenido del apartado anterior. La posibilidad de caza y pesca quedará supeditada a la aprobación, previa a la aprobación de los primeros instrumentos de planificación y gestión en materia de caza y pesca, de la delimitación cartográfica del área ocupada por dichas especies antes de la entrada en vigor de la presente ley, realizada por la administración competente de la comunidad autónoma y tras su publicación en el ‘‘Boletín Oficial’’ de la comunidad autónoma. Esta delimitación deberá basarse en la información disponible en cada comunidad autónoma, o en su defecto en la que figura en el Inventario Español del Patrimonio Natural y la Biodiversidad proporcionada de forma oficial por las comunidades autónomas y ciudades de Ceuta y Melilla, en aplicación del apartado 1 del artículo 12 del Real Decreto 556/2011, de 20 de abril, para el desarrollo del Inventario Español del Patrimonio Natural y la Biodiversidad.
+Las comunidades autónomas y ciudades de Ceuta y Melilla podrán utilizar los instrumentos de planificación y gestión en materia de caza y pesca para determinar las especies que, en su ámbito territorial, se ven afectadas por el contenido del apartado anterior. La posibilidad de caza y pesca quedará supeditada a la aprobación, previa a la aprobación de los primeros instrumentos de planificación y gestión en materia de caza y pesca, de la delimitación cartográfica del área ocupada por dichas especies antes de la entrada en vigor de la presente ley, realizada por la administración competente de la comunidad autónoma y tras su publicación en el ‘‘Boletín Oficial’’ de la comunidad autónoma. Esta delimitación deberá basarse en la información disponible en cada comunidad autónoma, o en su defecto en la que figura en el Inventario Español del Patrimonio Natural y la Biodiversidad proporcionada de forma oficial por las comunidades autónomas y ciudades de Ceuta y Melilla, en aplicación del apartado 1 del artículo 12 del Real Decreto 556/2011, de 20 de abril, para el desarrollo del Inventario Español del Patrimonio Natural y la Biodiversidad.
 
-3. Cuando se detecte la presencia de ejemplares de especies catalogadas objeto de aprovechamiento piscícola o cinegético fuera de las áreas de distribución contempladas en el apartado 2, no se podrá autorizar en esas zonas su caza o pesca. En este caso, las administraciones competentes deberán proceder, en la medida de sus posibilidades, al control y posible erradicación de estas especies mediante metodologías apropiadas.
+Cuando se detecte la presencia de ejemplares de especies catalogadas objeto de aprovechamiento piscícola o cinegético fuera de las áreas de distribución contempladas en el apartado 2, no se podrá autorizar en esas zonas su caza o pesca. En este caso, las administraciones competentes deberán proceder, en la medida de sus posibilidades, al control y posible erradicación de estas especies mediante metodologías apropiadas.
 
-4. Con el fin de restar presión de pesca a las poblaciones de la especie trucha común _(Salmo trutta)_, las comunidades autónomas podrán permitir, previa autorización administrativa, las sueltas con la especie trucha arcoíris _(Oncorhynchus mykiss)_ exclusivamente en las masas de agua en las que estas sueltas se hayan autorizado antes de la entrada en vigor de la presente ley. La relación de estas aguas deberá hacerse pública por las comunidades y ciudades autónomas. Las sueltas de la especie trucha arcoíris sólo podrán realizarse con ejemplares criados en cautividad, procedentes de cultivos monosexo y sometidos a tratamiento de esterilidad.
+Con el fin de restar presión de pesca a las poblaciones de la especie trucha común _(Salmo trutta)_, las comunidades autónomas podrán permitir, previa autorización administrativa, las sueltas con la especie trucha arcoíris _(Oncorhynchus mykiss)_ exclusivamente en las masas de agua en las que estas sueltas se hayan autorizado antes de la entrada en vigor de la presente ley. La relación de estas aguas deberá hacerse pública por las comunidades y ciudades autónomas. Las sueltas de la especie trucha arcoíris sólo podrán realizarse con ejemplares criados en cautividad, procedentes de cultivos monosexo y sometidos a tratamiento de esterilidad.
 
-##### Artículo 64 quáter. Uso de las especies exóticas y las especies localmente ausentes en la acuicultura.
 
-La utilización de especies exóticas en la acuicultura, incluidas las catalogadas como especies exóticas invasoras, se regirá por lo dispuesto en el Reglamento 708/2007, del Consejo, de 11 de junio de 2007, sobre el uso de las especies exóticas y las especies localmente ausentes en la acuicultura.
-
+La utilización de especies exóticas en la acuicultura (incluidas las catalogadas como especies exóticas invasoras), se regirá por el Reglamento 708/2007.
 
 
 
@@ -331,108 +323,79 @@ La conservación in situ y ex situ ha sido desarrollada por el el [Real decreto 
 
 Es objeto del presente real decreto desarrollar algunos de los contenidos de los Capítulos I y II del [Título III de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#tiii-2 "Abre nueva ventana"), del Patrimonio Natural y de la Biodiversidad, y en concreto regular:
 
-- 
-a) Las características, contenido y procedimientos de inclusión, cambio de categoría y exclusión de especies en el Listado de Especies Silvestres en Régimen de Protección Especial y en el Catálogo Español de Especies Amenazadas.
-
-b) Las directrices de evaluación periódica del estado de conservación de las especies incluidas en el Listado y en el Catálogo.
-
-c) Las características y contenido de las estrategias de conservación de especies del Catálogo y de lucha contra las principales amenazas para la biodiversidad.
-
-d) Las condiciones técnicas necesarias para la reintroducción de especies extinguidas y el reforzamiento de poblaciones.
-
-e) Las condiciones naturales requeridas para la supervivencia o recuperación de especies silvestres amenazadas.
-
-f) Los aspectos relativos a la cooperación para la conservación de las especies amenazadas.
+- a) Las características, contenido y procedimientos de inclusión, cambio de categoría y exclusión de especies en el Listado de Especies Silvestres en Régimen de Protección Especial y en el Catálogo Español de Especies Amenazadas.
+- Las directrices de evaluación periódica del estado de conservación de las especies incluidas en el Listado y en el Catálogo.
+- Las características y contenido de las estrategias de conservación de especies del Catálogo y de lucha contra las principales amenazas para la biodiversidad.
+- Las condiciones técnicas necesarias para la reintroducción de especies extinguidas y el reforzamiento de poblaciones.
+- Las condiciones naturales requeridas para la supervivencia o recuperación de especies silvestres amenazadas.
+- Los aspectos relativos a la cooperación para la conservación de las especies amenazadas.
 
 
+A los efectos de este real decreto, se establecen las siguientes definiciones:
 
-##### Artículo 2. Definiciones.
+- Amenaza para la biodiversidad: factor o conjunto de factores bióticos y abióticos que inciden negativamente en el estado de conservación de una o de varias especies.
 
-A los efectos de este real decreto, se entenderá por:
+- Área crítica para una especie: aquellos sectores incluidos en el área de distribución que contengan hábitat esenciales para la conservación favorable de la especie o que por su situación estratégica para la misma requieran su adecuado mantenimiento.
 
-1. Amenaza para la biodiversidad: factor o conjunto de factores bióticos y abióticos que inciden negativamente en el estado de conservación de una o de varias especies.
+- Conservación in situ: conservación de los ecosistemas y los hábitat naturales y seminaturales mediante el mantenimiento y recuperación de poblaciones viables de especies silvestres en sus entornos
 
-2. Área crítica para una especie: aquellos sectores incluidos en el área de distribución que contengan hábitat esenciales para la conservación favorable de la especie o que por su situación estratégica para la misma requieran su adecuado mantenimiento.
+- Conservación ex situ: conservación de componentes de la diversidad biológica fuera de sus hábitat naturales.
 
-3. Conservación in situ: conservación de los ecosistemas y los hábitat naturales y seminaturales mediante el mantenimiento y recuperación de poblaciones viables de especies silvestres en sus entornos
+- Especie autóctona: la existente dentro de su área de distribución natural.
 
-4. Conservación ex situ: conservación de componentes de la diversidad biológica fuera de sus hábitat naturales.
+- Especie amenazada: se refiere a las especies cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando o las especies cuyas poblaciones corren el riesgo de encontrarse en una situación de supervivencia poco probable en un futuro inmediato si los factores adversos que actúan sobre ellas no son corregidos. Por cumplir dichas condiciones las especies, subespecies o poblaciones podrían ser incorporadas al Catálogo.
 
-5. Especie autóctona: la existente dentro de su área de distribución natural.
+- Especie extinguida o taxón extinguido: especie o taxón autóctono desaparecido en el pasado de su área de distribución natural.
 
-6. Especie amenazada: se refiere a las especies cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando o las especies cuyas poblaciones corren el riesgo de encontrarse en una situación de supervivencia poco probable en un futuro inmediato si los factores adversos que actúan sobre ellas no son corregidos. Por cumplir dichas condiciones las especies, subespecies o poblaciones podrían ser incorporadas al Catálogo.
+- Especie silvestre en régimen de protección especial: especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza, o grado de amenaza, argumentado y justificado científicamente; así como aquella que figure como protegida en los anexos de las directivas y los convenios internacionales ratificados por España, y que por cumplir estas condiciones sean incorporadas al Listado.
 
-7. Especie extinguida o taxón extinguido: especie o taxón autóctono desaparecido en el pasado de su área de distribución natural.
+- Estado de conservación de una especie: situación o estatus de dicha especie, definido por el conjunto de factores o procesos que actúan sobre la misma y que pueden afectar a medio y largo plazo a la distribución y tamaño de sus poblaciones en el ámbito geográfico español.
 
-8. Especie silvestre en régimen de protección especial: especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza, o grado de amenaza, argumentado y justificado científicamente; así como aquella que figure como protegida en los anexos de las directivas y los convenios internacionales ratificados por España, y que por cumplir estas condiciones sean incorporadas al Listado.
+- Estado de conservación favorable de una especie: cuando su dinámica poblacional indica que sigue y puede seguir constituyendo a largo plazo un elemento vivo de los hábitat a los que pertenece; el área de distribución natural no se está reduciendo ni haya amenazas de reducción en un futuro previsible; existe y probablemente siga existiendo un hábitat de extensión suficiente para mantener sus poblaciones a largo plazo.
 
-9. Estado de conservación de una especie: situación o estatus de dicha especie, definido por el conjunto de factores o procesos que actúan sobre la misma y que pueden afectar a medio y largo plazo a la distribución y tamaño de sus poblaciones en el ámbito geográfico español.
+- Estado de conservación desfavorable de una especie: cuando no se cumpla alguna de las condiciones enunciadas en la anterior definición.
 
-10. Estado de conservación favorable de una especie: cuando su dinámica poblacional indica que sigue y puede seguir constituyendo a largo plazo un elemento vivo de los hábitat a los que pertenece; el área de distribución natural no se está reduciendo ni haya amenazas de reducción en un futuro previsible; existe y probablemente siga existiendo un hábitat de extensión suficiente para mantener sus poblaciones a largo plazo.
+- Hábitat de una especie: medio definido por factores abióticos y bióticos específicos donde vive la especie en una de las fases de su ciclo biológico.
 
-11. Estado de conservación desfavorable de una especie: cuando no se cumpla alguna de las condiciones enunciadas en la anterior definición.
+- Reintroducción: proceso que trata de establecer una especie en un área en la que se ha extinguido.
 
-12. Hábitat de una especie: medio definido por factores abióticos y bióticos específicos donde vive la especie en una de las fases de su ciclo biológico.
-
-13. Reintroducción: proceso que trata de establecer una especie en un área en la que se ha extinguido.
-
-14. Riesgo inminente de extinción: situación de una especie que, según la información disponible, indica altas probabilidades de extinguirse a muy corto plazo.
+- Riesgo inminente de extinción: situación de una especie que, según la información disponible, indica altas probabilidades de extinguirse a muy corto plazo.
 
 
-
-##### Artículo 3. Ámbito de aplicación.
-
-1. El presente real decreto se aplicará en el territorio del Estado español y en las aguas marítimas bajo soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental.
-
-2. Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones en los supuestos previstos en el [artículo 6 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a6 "Abre nueva ventana").
+El Real Decreto se aplicará en el territorio del Estado español y en las aguas marítimas bajo soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental (sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones: [artículo 6 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a6 "Abre nueva ventana")).
 
 
 #### Características y funcionamiento del Listado y el Catálogo
 
-##### Artículo 4. Contenido del Listado y del Catálogo.
+Las subespecies, especies y poblaciones que integran el Listado y Catálogo son las que aparecen en el Anexo
 
-Las subespecies, especies y poblaciones que integran el Listado y Catálogo son las que aparecen indicadas en el Anexo.
+De acuerdo con el procedimiento previsto en el [artículo 53 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a53 "Abre nueva ventana"), en el Listado se incluirán las especies, subespecies y poblaciones merecedoras de una atención y protección particular en función de su valor científico, ecológico, cultural, singularidad, rareza o grado de amenaza, así como aquellas que figuran como protegidas en los anexos de las directivas y los convenios internacionales ratificados por España. La inclusión de especies, subespecies y poblaciones en el Listado conllevará la aplicación de lo contemplado en los [artículos 54, 56 y 76 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a54 "Abre nueva ventana").
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3582&p=20250512&tn=1#top)
+Dentro del Listado se crea el Catálogo que incluye, cuando exista información técnica o científica que así lo aconseje, las especies que están amenazadas incluyéndolas en algunas de las siguientes categorías:
 
----
+- **En peligro de extinción**: especie, subespecie o población de una especie cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
 
-[Bloque 9: #a5]
+- **Vulnerable**: especie, subespecie o población de una especie que corre el riesgo de pasar a la categoría anterior en un futuro inmediato si los factores adversos que actúan sobre ella no son corregidos.
 
-##### Artículo 5. Características del Listado y del Catálogo.
-
-1. De acuerdo con el procedimiento previsto en el [artículo 53 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a53 "Abre nueva ventana"), en el Listado se incluirán las especies, subespecies y poblaciones merecedoras de una atención y protección particular en función de su valor científico, ecológico, cultural, singularidad, rareza o grado de amenaza, así como aquellas que figuran como protegidas en los anexos de las directivas y los convenios internacionales ratificados por España. La inclusión de especies, subespecies y poblaciones en el Listado conllevará la aplicación de lo contemplado en los [artículos 54, 56 y 76 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a54 "Abre nueva ventana").
-
-2. Dentro del Listado se crea el Catálogo que incluye, cuando exista información técnica o científica que así lo aconseje, las especies que están amenazadas incluyéndolas en algunas de las siguientes categorías:
-
-a) En peligro de extinción: especie, subespecie o población de una especie cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
-
-b) Vulnerable: especie, subespecie o población de una especie que corre el riesgo de pasar a la categoría anterior en un futuro inmediato si los factores adversos que actúan sobre ella no son corregidos.
-
-3. El Listado y el Catálogo son registros públicos de carácter administrativo y de ámbito estatal, cuya custodia y mantenimiento dependen administrativamente del Ministerio de Medio Ambiente, y Medio Rural y Marino (en adelante MARM). La información contenida en el registro del Listado y del Catálogo es pública y el acceso a ella se regula según lo dispuesto en la [Ley 27/2006, de 18 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana"). No obstante, por razones de seguridad para proteger los enclaves de cría, alimentación, descanso o los hábitat de las especies se podrá denegar el acceso a ese tipo de información justificando dicha decisión, de acuerdo con lo establecido en el artículo 13.2 de dicha [Ley 27/2006, de 18 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana").
+ El Listado y el Catálogo son registros públicos de carácter administrativo y de ámbito estatal, cuya custodia y mantenimiento dependen administrativamente del Ministerio de Medio Ambiente, y Medio Rural y Marino (en adelante MARM). La información contenida en el registro del Listado y del Catálogo es pública y el acceso a ella se regula según lo dispuesto en la [Ley 27/2006, de 18 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana"). No obstante, por razones de seguridad para proteger los enclaves de cría, alimentación, descanso o los hábitat de las especies se podrá denegar el acceso a ese tipo de información justificando dicha decisión, de acuerdo con lo establecido en el artículo 13.2 de dicha [Ley 27/2006, de 18 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana").
 
 ##### Artículo 6. Procedimiento de inclusión, cambio de categoría o exclusión de especies en el Listado y en el Catálogo.
 
-1. Las especies se incluirán en el registro del Listado mediante el procedimiento que se detalla en el presente artículo.
+Las especies se incluirán en el registro del Listado mediante el procedimiento que se detalla en el presente artículo.
 
-2. En el caso de especies que figuran como protegidas en los anexos de las normas o decisiones de la Unión Europea y los convenios internacionales ratificados por España, su inclusión en el Listado se efectuará de oficio por el MARM, notificando previamente tal inclusión a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad. En este supuesto, sin perjuicio de su inclusión en el Listado, a efectos del régimen concretamente aplicable y de la inclusión, en su caso, en el Catálogo se podrá considerar la singularidad de la distribución geográfica y el estado de conservación de la especie en nuestro país, previa consulta a las comunidades autónomas o ciudades con estatuto de autonomía afectadas.
+En el caso de especies que figuran como protegidas en los anexos de las normas o decisiones de la Unión Europea y los convenios internacionales ratificados por España, su inclusión en el Listado se efectuará de oficio por el MARM, notificando previamente tal inclusión a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad. En este supuesto, sin perjuicio de su inclusión en el Listado, a efectos del régimen concretamente aplicable y de la inclusión, en su caso, en el Catálogo se podrá considerar la singularidad de la distribución geográfica y el estado de conservación de la especie en nuestro país, previa consulta a las comunidades autónomas o ciudades con estatuto de autonomía afectadas.
 
-3. Además del procedimiento contemplado en el apartado anterior, la iniciación del procedimiento de inclusión, cambio de categoría o exclusión de una especie en el Listado y Catálogo se realizará previa iniciativa de las comunidades autónomas y ciudades con estatuto de autonomía, mediante remisión de una solicitud a la Dirección General de Medio Natural y Política Forestal del MARM (en adelante la Dirección General), siguiendo el procedimiento establecido en los [artículos 53.1 y 55.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a53 "Abre nueva ventana"), para el Listado y el Catálogo, respectivamente. Ésta deberá ser motivada e ir acompañada de la información científica justificativa, así como las referencias de los informes y publicaciones científicas que se hayan podido utilizar.
+Además del procedimiento contemplado en el apartado anterior, la iniciación del procedimiento de inclusión, cambio de categoría o exclusión de una especie en el Listado y Catálogo se realizará previa iniciativa de las comunidades autónomas y ciudades con estatuto de autonomía, mediante remisión de una solicitud a la Dirección General de Medio Natural y Política Forestal del MARM (en adelante la Dirección General), siguiendo el procedimiento establecido en los [artículos 53.1 y 55.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a53 "Abre nueva ventana"), para el Listado y el Catálogo, respectivamente. Ésta deberá ser motivada e ir acompañada de la información científica justificativa, así como las referencias de los informes y publicaciones científicas que se hayan podido utilizar.
 
-4. Con la anterior información la Dirección General elaborará una memoria técnica justificativa. Dicha memoria deberá haber tenido en cuenta los «criterios orientadores para la inclusión de taxones y poblaciones en catálogos de especies amenazadas aprobados por la Comisión Nacional para la Protección de la Naturaleza, el 17 de marzo de 2004», y aquella otra información que se considere necesaria, sin perjuicio de lo dispuesto en la disposición adicional tercera.
+Con la anterior información la Dirección General elaborará una memoria técnica justificativa. Dicha memoria deberá haber tenido en cuenta los «criterios orientadores para la inclusión de taxones y poblaciones en catálogos de especies amenazadas aprobados por la Comisión Nacional para la Protección de la Naturaleza, el 17 de marzo de 2004», y aquella otra información que se considere necesaria, sin perjuicio de lo dispuesto en la disposición adicional tercera.
 
 La Dirección General remitirá la memoria técnica justificativa a la comunidad autónoma o ciudad con estatuto de autonomía donde se encuentre la especie afectada y a iniciativa de estas o de la propia Dirección General, la citada memoria se remitirá al Comité de Flora y Fauna Silvestres para su evaluación. Este Comité, en su caso, consultará al comité científico creado en el artículo 7 de este real decreto y tras ello informará a la Comisión del resultado de la evaluación. Con la información anterior la Comisión trasladará la propuesta de inclusión, cambio de categoría o exclusión del Listado o Catálogo a la Dirección General, quien concluirá si hay o no razones que justifiquen la inclusión, cambio de categoría o exclusión.
 
-5. Cualquier ciudadano u organización podrá solicitar a la Dirección General la iniciación del procedimiento de inclusión, cambio de categoría o exclusión de una especie en el Listado y Catálogo, acompañándola de información científica justificativa, al menos, en relación al valor científico, ecológico, cultural, singularidad, rareza o grado de amenaza de la especie propuesta, así como las referencias de los informes y publicaciones científicas utilizadas, siguiendo el procedimiento establecido en los [artículos 53.1 y 55.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a53 "Abre nueva ventana"), para el Listado y el Catálogo, respectivamente. Dicha solicitud podrá ser presentada en la Dirección General por los medios adecuados, incluidos los medios electrónicos, en aplicación de la [Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318 "Abre nueva ventana"), y la [Ley 11/2007, de 22 de junio](https://www.boe.es/buscar/act.php?id=BOE-A-2007-12352 "Abre nueva ventana"), de acceso electrónico de los ciudadanos a los servicios públicos. En caso de que la solicitud fuera defectuosa o incompleta, se requerirá al solicitante para que subsane los defectos advertidos o aporte la documentación complementaria en el plazo de tres meses. Transcurrido dicho plazo sin que el particular subsane dichos defectos o presente la documentación complementaria, se acordará el archivo del expediente notificándoselo al solicitante. En el caso de que el solicitante subsane los defectos o presente la documentación complementaria en el tiempo previsto, se procederá a tramitar la solicitud correspondiente de acuerdo al procedimiento indicado en el anterior apartado. La Dirección General, una vez valorada la solicitud, notificará su decisión de forma motivada al solicitante en el plazo máximo de seis meses desde la fecha de recepción de la solicitud en la Dirección General, poniendo fin a la vía administrativa. Transcurrido dicho plazo sin haberse notificado resolución expresa, se entenderá desestimada su petición.
+Cualquier ciudadano u organización podrá solicitar a la Dirección General la iniciación del procedimiento de inclusión, cambio de categoría o exclusión de una especie en el Listado y Catálogo, acompañándola de información científica justificativa, al menos, en relación al valor científico, ecológico, cultural, singularidad, rareza o grado de amenaza de la especie propuesta, así como las referencias de los informes y publicaciones científicas utilizadas, siguiendo el procedimiento establecido en los [artículos 53.1 y 55.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a53 "Abre nueva ventana"), para el Listado y el Catálogo, respectivamente. Dicha solicitud podrá ser presentada en la Dirección General por los medios adecuados, incluidos los medios electrónicos, en aplicación de la [Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318 "Abre nueva ventana"), y la [Ley 11/2007, de 22 de junio](https://www.boe.es/buscar/act.php?id=BOE-A-2007-12352 "Abre nueva ventana"), de acceso electrónico de los ciudadanos a los servicios públicos. En caso de que la solicitud fuera defectuosa o incompleta, se requerirá al solicitante para que subsane los defectos advertidos o aporte la documentación complementaria en el plazo de tres meses. Transcurrido dicho plazo sin que el particular subsane dichos defectos o presente la documentación complementaria, se acordará el archivo del expediente notificándoselo al solicitante. En el caso de que el solicitante subsane los defectos o presente la documentación complementaria en el tiempo previsto, se procederá a tramitar la solicitud correspondiente de acuerdo al procedimiento indicado en el anterior apartado. La Dirección General, una vez valorada la solicitud, notificará su decisión de forma motivada al solicitante en el plazo máximo de seis meses desde la fecha de recepción de la solicitud en la Dirección General, poniendo fin a la vía administrativa. Transcurrido dicho plazo sin haberse notificado resolución expresa, se entenderá desestimada su petición.
 
-6. Sólo podrán incluirse en el Listado y el Catálogo las especies y subespecies que hayan sido descritas taxonómicamente en una publicación científica de reconocido prestigio y hayan sido consensuadas por la comunidad científica.
+Sólo podrán incluirse en el Listado y el Catálogo las especies y subespecies que hayan sido descritas taxonómicamente en una publicación científica de reconocido prestigio y hayan sido consensuadas por la comunidad científica.
 
-7. Una vez finalizada la tramitación, el proyecto de orden que contenga la modificación del anexo a este real decreto para incluir, excluir o modificar la clasificación de alguna especie se elevará a la Ministra para su firma, conforme a lo dispuesto en la disposición final segunda y, posteriormente, se publicará en el Boletín Oficial del Estado.
-
-
-
-
-
+Una vez finalizada la tramitación, el proyecto de orden que contenga la modificación del anexo a este real decreto para incluir, excluir o modificar la clasificación de alguna especie se elevará a la Ministra para su firma, conforme a lo dispuesto en la disposición final segunda y, posteriormente, se publicará en el Boletín Oficial del Estado.
 
 
 ### Real Decreto 630/2013
@@ -453,101 +416,47 @@ Las especies exóticas invasoras por el [Real Decreto 630/2013](https://www.boe.
 #### Disposiciones generales
 
 
-##### Artículo 1. Objeto.
+El objeto de este real decreto es regular el Catálogo Español de Especies Exóticas Invasoras, y en concreto, establecer:
 
-1. El objeto de este real decreto es regular el Catálogo Español de Especies Exóticas Invasoras (en adelante, el catálogo) y en concreto, establecer:
+- Las características, contenidos, criterios y procedimientos de inclusión o exclusión de especies en el catálogo.
+- Las medidas necesarias para prevenir la introducción de especies exóticas invasoras y para su control y posible erradicación.
+- Las características y el contenido de las estrategias de gestión, control y posible erradicación de las especies exóticas invasoras.
 
-a. Las características, contenidos, criterios y procedimientos de inclusión o exclusión de especies en el catálogo.
+***El presente real decreto no se aplicará a los recursos fitogenéticos para la agricultura y la alimentación ([Ley 30/2006, de 26 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13555 "Abre nueva ventana")), pesqueros ([Ley 3/2001, de 26 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2001-6008 "Abre nueva ventana"), ni  zoogenéticos para la agricultura y alimentación (normativa específica). En relación a los recursos fitogenéticos, pesqueros y zoogenéticos del punto anterior, en el caso de especies contempladas en el catálogo, se deberán adoptar las medidas necesarias y adecuadas para evitar su posible expansión al medio natural, fuera de las zonas autorizadas.*** ¿EN EL CASO DE ESPECIES?
 
-b. Las medidas necesarias para prevenir la introducción de especies exóticas invasoras y para su control y posible erradicación.
+Se establecen las siguientes definiciones: 
 
-c. Las características y el contenido de las estrategias de gestión, control y posible erradicación de las especies exóticas invasoras.
+- Análisis de riesgos: Se refiere a la evaluación científico-técnica de la probabilidad y de las consecuencias (del riesgo) de la introducción y establecimiento de una especie exótica en el medio natural y de las medidas que pueden aplicarse para reducir o controlar esos riesgos.
+- Animal asilvestrado: espécimen animal de procedencia doméstica, que está establecido y se mueve libremente en el medio natural y no vive ni se cría bajo tutela, manejo ni supervisión de las personas.
+- Animales de producción: los animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, mantenidos, cebados o criados para la producción de alimentos, o productos de origen animal para cualquier uso industrial u otro fin comercial o lucrativo.
+- Animales domésticos: aquellos animales que pertenecen a especies que habitualmente se crían, se reproducen y conviven con personas y que no pertenecen a la fauna salvaje, teniendo también esta consideración los animales que se crían para la producción de carne, piel o algún otro producto útil para el ser humano, los animales de carga y los que trabajan en agricultura.
+- Animales de compañía: los animales domésticos que las personas mantienen generalmente en el hogar para obtener compañía, por ser pertenecientes a especies que críe y posea tradicional y habitualmente el hombre, con el fin de vivir en domesticidad en el hogar, así como los de acompañamiento, conducción y ayuda de personas ciegas o con deficiencia visual grande o severa.
+- Animal de compañía exótico: animal de la fauna salvaje no autóctona que de manera individual depende de los humanos, convive con ellos y ha asumido la costumbre del cautiverio.
+- Control: la acción de la autoridad competente o la autorizada o supervisada por ésta, destinada a una de las siguientes finalidades respecto a una especie exótica invasora: reducir su área de distribución, limitar su abundancia y densidad o impedir su dispersión.
+- Especie nativa o autóctona: la existente dentro de su área de distribución y de dispersión natural.
+- Especie exótica o alóctona: se refiere a especies y subespecies, incluyendo sus partes, gametos, semillas, huevos o propágulos que pudieran sobrevivir o reproducirse, introducidos fuera de su área de distribución natural y de su área potencial de dispersión, que no hubiera podido ocupar sin la introducción directa o indirecta, o sin el cuidado del hombre.
+- Especie exótica invasora: especie exótica que se introduce o establece en un ecosistema o hábitat natural o seminatural, y que es un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.
+- Especie exótica con potencial invasor: especie exótica que podría convertirse en invasora en España, y en especial aquella que ha demostrado ese carácter en otros países o regiones de condiciones ecológicas semejantes a las de España.
+- Erradicación: proceso tendente a la eliminación de toda la población de una especie.
+- Fomento: medidas adoptadas con respecto a una especie exótica invasora con la finalidad de incrementar su distribución y/o el tamaño de sus poblaciones.
+- Híbrido: el ejemplar procedente del cruce reproductivo de ejemplares de especies diferentes, siendo al menos una de ellas especie del catálogo.
+- Introducción: se refiere al movimiento por acción humana, voluntaria o accidental, de una especie fuera de su área de distribución natural. Este movimiento puede realizarse dentro de un país, o entre países o zonas fuera de la jurisdicción nacional.
+- Invasión: acción de una especie invasora debida al crecimiento de su población y a su expansión, que comienza a producir efectos negativos en los ecosistemas donde se ha introducido.
+- Parques zoológicos: establecimientos, públicos o privados, que, con independencia de los días en que estén abiertos al público, tengan carácter permanente y mantengan animales vivos de especies silvestres para su exposición.
+- Planta asilvestrada: espécimen de vegetal que crece en estado silvestre pero procede de semilla u otro tipo de propágulo de planta cultivada de estirpe doméstica.
+- Recursos zoogenéticos: aquellas especies de animales que se utilizan, o se pueden utilizar, para la producción de alimentos y la agricultura.
+- Recursos fitogenéticos: cualquier material genético de origen vegetal, que por extensión incluye a los hongos, con valor real o potencial para la agricultura y la alimentación.
+- Recursos pesqueros: los recursos marinos vivos, así como sus esqueletos y demás productos de aquéllos, susceptibles de aprovechamiento.
+- Suelta: liberación de ejemplares de especies alóctonas no catalogadas objeto de aprovechamiento piscícola o cinegético, en aquellos cotos en los que se haya autorizado este tipo de liberaciones antes de la entrada en vigor de la [Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), de Patrimonio Natural y de la Biodiversidad, y se haga con la finalidad de capturar y extraer a los ejemplares del medio de forma inmediata.
 
-2. El presente real decreto no se aplicará a:
+*A los efectos de este real decreto, la referencia a especie comprende también sus subespecies.*
 
-a. Los recursos fitogenéticos para la agricultura y la alimentación, que se regulan por la [Ley 30/2006, de 26 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13555 "Abre nueva ventana"), de Semillas y Plantas de vivero y de Recursos Fitogenéticos.
-
-b. Los recursos pesqueros regulados por la [Ley 3/2001, de 26 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2001-6008 "Abre nueva ventana"), de Pesca Marítima del Estado.
-
-c. Los recursos zoogenéticos para la agricultura y alimentación, que se regirán por su normativa específica.
-
-3. En relación a los recursos fitogenéticos, pesqueros y zoogenéticos del punto anterior, en el caso de especies contempladas en el catálogo, se deberán adoptar las medidas necesarias y adecuadas para evitar su posible expansión al medio natural, fuera de las zonas autorizadas.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565&p=20250512&tn=1#top)
-
----
-
-[Bloque 4: #a2]
-
-##### Articulo 2. Definiciones.
-
-A los efectos de la presente norma, se entiende por:
-
-Análisis de riesgos: Se refiere a la evaluación científico-técnica de la probabilidad y de las consecuencias (del riesgo) de la introducción y establecimiento de una especie exótica en el medio natural y de las medidas que pueden aplicarse para reducir o controlar esos riesgos.
-
-Animal asilvestrado: espécimen animal de procedencia doméstica, que está establecido y se mueve libremente en el medio natural y no vive ni se cría bajo tutela, manejo ni supervisión de las personas.
-
-Animales de producción: los animales de producción, reproducción, cebo o sacrificio, incluidos los animales de peletería o de actividades cinegéticas, mantenidos, cebados o criados para la producción de alimentos, o productos de origen animal para cualquier uso industrial u otro fin comercial o lucrativo.
-
-Animales domésticos: aquellos animales que pertenecen a especies que habitualmente se crían, se reproducen y conviven con personas y que no pertenecen a la fauna salvaje, teniendo también esta consideración los animales que se crían para la producción de carne, piel o algún otro producto útil para el ser humano, los animales de carga y los que trabajan en agricultura.
-
-Animales de compañía: los animales domésticos que las personas mantienen generalmente en el hogar para obtener compañía, por ser pertenecientes a especies que críe y posea tradicional y habitualmente el hombre, con el fin de vivir en domesticidad en el hogar, así como los de acompañamiento, conducción y ayuda de personas ciegas o con deficiencia visual grande o severa.
-
-Animal de compañía exótico: animal de la fauna salvaje no autóctona que de manera individual depende de los humanos, convive con ellos y ha asumido la costumbre del cautiverio.
-
-Control: la acción de la autoridad competente o la autorizada o supervisada por ésta, destinada a una de las siguientes finalidades respecto a una especie exótica invasora: reducir su área de distribución, limitar su abundancia y densidad o impedir su dispersión.
-
-Especie nativa o autóctona: la existente dentro de su área de distribución y de dispersión natural.
-
-Especie exótica o alóctona: se refiere a especies y subespecies, incluyendo sus partes, gametos, semillas, huevos o propágulos que pudieran sobrevivir o reproducirse, introducidos fuera de su área de distribución natural y de su área potencial de dispersión, que no hubiera podido ocupar sin la introducción directa o indirecta, o sin el cuidado del hombre.
-
-Especie exótica invasora: especie exótica que se introduce o establece en un ecosistema o hábitat natural o seminatural, y que es un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.
-
-Especie exótica con potencial invasor: especie exótica que podría convertirse en invasora en España, y en especial aquella que ha demostrado ese carácter en otros países o regiones de condiciones ecológicas semejantes a las de España.
-
-Erradicación: proceso tendente a la eliminación de toda la población de una especie.
-
-Fomento: medidas adoptadas con respecto a una especie exótica invasora con la finalidad de incrementar su distribución y/o el tamaño de sus poblaciones.
-
-Híbrido: el ejemplar procedente del cruce reproductivo de ejemplares de especies diferentes, siendo al menos una de ellas especie del catálogo.
-
-Introducción: se refiere al movimiento por acción humana, voluntaria o accidental, de una especie fuera de su área de distribución natural. Este movimiento puede realizarse dentro de un país, o entre países o zonas fuera de la jurisdicción nacional.
-
-Invasión: acción de una especie invasora debida al crecimiento de su población y a su expansión, que comienza a producir efectos negativos en los ecosistemas donde se ha introducido.
-
-Parques zoológicos: establecimientos, públicos o privados, que, con independencia de los días en que estén abiertos al público, tengan carácter permanente y mantengan animales vivos de especies silvestres para su exposición.
-
-Planta asilvestrada: espécimen de vegetal que crece en estado silvestre pero procede de semilla u otro tipo de propágulo de planta cultivada de estirpe doméstica.
-
-Recursos zoogenéticos: aquellas especies de animales que se utilizan, o se pueden utilizar, para la producción de alimentos y la agricultura.
-
-Recursos fitogenéticos: cualquier material genético de origen vegetal, que por extensión incluye a los hongos, con valor real o potencial para la agricultura y la alimentación.
-
-Recursos pesqueros: los recursos marinos vivos, así como sus esqueletos y demás productos de aquéllos, susceptibles de aprovechamiento.
-
-Suelta: liberación de ejemplares de especies alóctonas no catalogadas objeto de aprovechamiento piscícola o cinegético, en aquellos cotos en los que se haya autorizado este tipo de liberaciones antes de la entrada en vigor de la [Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), de Patrimonio Natural y de la Biodiversidad, y se haga con la finalidad de capturar y extraer a los ejemplares del medio de forma inmediata.
-
-A los efectos de este real decreto, la referencia a especie comprende también sus subespecies.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565&p=20250512&tn=1#top)
-
----
-
-[Bloque 5: #a3]
-
-##### Artículo 3. Ámbito territorial de aplicación.
-
-1. La presente norma se aplicará en el territorio del Estado español y en las aguas marinas sometidas a soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental.
-
-El ámbito territorial de aplicación para cada especie del catálogo se detalla en el anexo.
-
-2. Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones, en los supuestos previstos en el [artículo 6 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a6 "Abre nueva ventana").
+La presente norma se aplicará en el territorio del Estado español y en las aguas marinas sometidas a soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental (sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones, en los supuestos previstos en el [artículo 6 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a6 "Abre nueva ventana")). El ámbito territorial de aplicación para cada especie del catálogo se detalla en el anexo.
 
 
 #### Procedimiento de inclusión o exclusión
 
-
-La inclusión o exclusión de una especie en el catálogo se realizará por el Ministerio para la Transición Ecológica, previa iniciativa de las comunidades autónomas y ciudades de Ceuta y Melilla o del propio Ministerio.
+La inclusión o exclusión de una especie en el catálogo se realizará por el Ministerio para la Transición Ecológica (previa iniciativa de las Comunidades y ciudades Autónomas o del propio Ministerio.
 
 Con la información científica y técnica remitida, así como con aquella otra de la que pudiera disponer el Ministerio para la Transición Ecológica, la Dirección General de Biodiversidad y Calidad Ambiental del citado Ministerio valorará la solicitud y, en su caso, elaborará una memoria técnica justificativa, que incluirá un análisis de riesgos. Esta memoria será estudiada en la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, que aprobará, en su caso, una propuesta de modificación del catálogo dirigida a la Dirección General de Biodiversidad y Calidad Ambiental, para su tramitación mediante orden ministerial.
 
@@ -561,17 +470,15 @@ Transcurrido dicho plazo sin que el solicitante subsane dichos defectos o presen
 
 Una vez valorada la solicitud, la Dirección General de Biodiversidad y Calidad Ambiental notificará la decisión de forma motivada al solicitante, en el plazo máximo de seis meses desde la fecha en que la solicitud haya tenido entrada en el registro de la administración competente para su tramitación.
 
-La resolución dictada por la Dirección General de Biodiversidad y Calidad Ambiental no pone fin a la vía administrativa y contra la misma cabrá interponer recurso de alzada ante la Secretaria de Estado de Medioambiente, en los plazos a los que se refiere el [artículo 122 de la Ley 39/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a122 "Abre nueva ventana"), del Procedimiento Administrativo Común de las Administraciones Públicas.
+La resolución dictada por la Dirección General de Biodiversidad y Calidad Ambiental no pone fin a la vía administrativa y contra la misma cabrá interponer recurso de alzada ante la Secretaria de Estado de Medioambiente ([artículo 122 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a122 "Abre nueva ventana")).
 
-Transcurrido el plazo máximo de seis meses sin haberse notificado resolución expresa, se entenderá desestimada su petición de conformidad con lo previsto en el artículo 24.1 segundo párrafo de la [Ley 39/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565 "Abre nueva ventana").
+Transcurrido el plazo máximo de seis meses sin haberse notificado resolución expresa, se entenderá desestimada s(artículo 24.1 segundo párrafo de la [Ley 39/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565 "Abre nueva ventana")).
 
-4. Sólo podrán incluirse en el catálogo especies que hayan sido descritas taxonómicamente en una publicación científica de reconocido prestigio y hayan sido aceptadas por la comunidad científica.
+Sólo podrán incluirse en el catálogo especies que hayan sido descritas taxonómicamente en una publicación científica de reconocido prestigio y hayan sido aceptadas por la comunidad científica.
 
-5. En caso de constatarse la existencia de una amenaza grave producida por la aparición de una especie exótica invasora no incluida en el catálogo, el procedimiento se tramitará con carácter urgente, de acuerdo con lo dispuesto en el [artículo 33 de la Ley 39/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a33 "Abre nueva ventana").
+En caso de constatarse la existencia de una amenaza grave producida por la aparición de una especie exótica invasora no incluida en el catálogo, el procedimiento se tramitará con carácter urgente, de acuerdo con lo dispuesto en el [artículo 33 de la Ley 39/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a33 "Abre nueva ventana").
 
-6. Una vez finalizada la tramitación, el proyecto de orden que contenga la modificación del anexo de este real decreto para incluir o excluir alguna especie, se elevará para su aprobación por el Ministerio para la Transición Ecológica, conforme a lo dispuesto el [artículo 64.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana"), y, posteriormente, se publicará en el “Boletín Oficial del Estado”.
-
-
+Una vez finalizada la tramitación, el proyecto de orden que contenga la modificación del anexo de este real decreto para incluir o excluir alguna especie, se elevará para su aprobación por el Ministerio para la Transición Ecológica, conforme a lo dispuesto el [artículo 64.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana"), y, posteriormente, se publicará en el “Boletín Oficial del Estado”.
 
 #### Información del registro
 
@@ -589,13 +496,16 @@ La información contenida en el registro del catálogo será suministrada y actu
 
 Los efectos de la inclusión de una especie en el catálogo
 
-1. La inclusión de una especie en el catálogo, de acuerdo al [artículo 64.3 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana"), conlleva la prohibición genérica de su posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos, que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior. Esta prohibición está limitada al ámbito de aplicación especificado para cada especie en el anexo. Esta prohibición podrá quedar sin efecto, previa autorización administrativa de la autoridad competente, cuando sea necesario por razones de investigación, salud o seguridad de las personas, o con fines de control o erradicación, en el marco de estrategias, planes y campañas que, a tal efecto, se aprueben.
+La inclusión de una especie en el catálogo ([artículo 64.3 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana")), conlleva la prohibición genérica de su posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos, que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior. Esta prohibición está limitada al ámbito de aplicación especificado para cada especie en el anexo. Esta prohibición podrá quedar sin efecto, previa autorización administrativa de la autoridad competente, cuando sea necesario por razones de investigación, salud o seguridad de las personas, o con fines de control o erradicación, en el marco de estrategias, planes y campañas que, a tal efecto, se aprueben.
 
-2. La inclusión de una especie en el catálogo, de acuerdo al [artículo 54.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a54 "Abre nueva ventana"), conlleva la prohibición de su introducción en el medio natural en el ámbito del territorio nacional de aplicación recogido en el anexo.
+La inclusión de una especie en el catálogo ([artículo 54.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a54 "Abre nueva ventana")), conlleva la prohibición de su introducción en el medio natural en el ámbito del territorio nacional de aplicación recogido en el anexo.
 
-3. Los ejemplares de las especies animales y vegetales incluidas en el catálogo que sean extraídos de la naturaleza por cualquier procedimiento no podrán ser devueltos al medio natural. Esta prohibición podrá quedar sin efecto en los supuestos de investigación, salud o seguridad de las personas, previamente autorizada por la autoridad competente en medio ambiente de la Administración General del Estado o de las comunidades autónomas y ciudades de Ceuta y Melilla.
 
-4. En ningún caso, se podrán contemplar actuaciones o comportamientos destinados al fomento de las especies incluidas en el catálogo. En particular, en el ejercicio de la pesca en aguas continentales, quedará prohibida la utilización como cebo vivo o muerto de cualquier ejemplar de dichas especies o de sus partes y derivados.
+REVISAR ESAS DIFERENCIAS DE ARTICULOS POR INCLUSIÓN
+
+Los ejemplares de las especies animales y vegetales incluidas en el catálogo que sean extraídos de la naturaleza por cualquier procedimiento no podrán ser devueltos al medio natural. Esta prohibición podrá quedar sin efecto en los supuestos de investigación, salud o seguridad de las personas, previamente autorizada por la autoridad competente en medio ambiente de la Administración General del Estado o de las comunidades autónomas y ciudades de Ceuta y Melilla.
+
+En ningún caso, se podrán contemplar actuaciones o comportamientos destinados al fomento de las especies incluidas en el catálogo. En particular, en el ejercicio de la pesca en aguas continentales, quedará prohibida la utilización como cebo vivo o muerto de cualquier ejemplar de dichas especies o de sus partes y derivados.
 
 
 
@@ -608,11 +518,11 @@ Los efectos de la inclusión de una especie en el catálogo
 
 ##### Artículo 8. Medidas de seguimiento general y prevención.
 
-1. Las comunidades autónomas y ciudades de Ceuta y Melilla y la Administración General del Estado, en el marco de sus competencias, realizarán el seguimiento general de las especies exóticas con potencial invasor, tal y como determina el [artículo 61.4 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a61 "Abre nueva ventana"). Para ello, establecerán una relación indicativa en la que se incluyan las especies exóticas para las que, por sus especiales circunstancias, sea aconsejable mantener un mayor nivel de control y vigilancia, con el fin de proponer, llegado el caso, su inclusión en el catálogo.
+Las Comunidades y ciudades Autónomas y la Administración General del Estadorealizarán el seguimiento general de las especies exóticas con potencial invasor ([artículo 61.4 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a61 "Abre nueva ventana")). Para ello, establecerán una relación indicativa en la que se incluyan las especies exóticas para las que, por sus especiales circunstancias, sea aconsejable mantener un mayor nivel de control y vigilancia, con el fin de proponer, llegado el caso, su inclusión en el catálogo.
 
 En cualquier caso, en el marco de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, se establecerá una relación indicativa de especies con potencial invasor, especialmente en el caso de especies que se distribuyan por medios o hábitats que puedan afectar a más de una comunidad autónoma o aquellas que han demostrado ese carácter en otros países o regiones. Esta relación se hará pública en la página web del Ministerio para la Transición Ecológica.
 
-2. Sólo se autorizará la liberación por vez primera de una especie alóctona no incluida en el catálogo, en el caso de contar con un análisis de riesgos favorable y una autorización previa administrativa de la autoridad competente en medio ambiente de las comunidades autónomas o ciudades de Ceuta y Melilla o, en el ámbito de sus competencias, del Ministerio para la Transición Ecológica.
+Sólo se autorizará la liberación por vez primera de una especie alóctona no incluida en el catálogo, en el caso de contar con un análisis de riesgos favorable y una autorización previa administrativa de la autoridad competente en medio ambiente de las comunidades autónomas o ciudades de Ceuta y Melilla o, en el ámbito de sus competencias, del Ministerio para la Transición Ecológica.
 
 En caso de que la competencia sea del Ministerio para la Transición Ecológica, dicha autorización se otorgará, previo informe vinculante de la Dirección General de Biodiversidad y Calidad Ambiental, por el Director General de Sanidad de la Producción Agraria en el ámbito de la [Ley 43/2002, de 20 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2002-22649 "Abre nueva ventana"), por el Director General de Recursos Pesqueros y Acuicultura en el ámbito de la [Ley 3/2001, de 26 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2001-6008 "Abre nueva ventana"), y por el Director General de Sostenibilidad de la Costa y del Mar en el ámbito de la [Ley 41/2010, de 29 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20050 "Abre nueva ventana"). En los restantes supuestos se otorgará por el Director General de Biodiversidad y Calidad Ambiental.
 
@@ -620,34 +530,43 @@ El solicitante de la liberación deberá aportar en su petición el análisis de
 
 Cuando la liberación vaya a producirse en lugares, medios o hábitats que puedan afectar a más de una comunidad autónoma, como es el caso de numerosos cursos fluviales o las aguas marinas, esta deberá ser autorizada por la autoridad competente en materia de medio ambiente de la Administración General del Estado o de la comunidad autónoma o ciudades de Ceuta y Melilla, en el ámbito de su competencias, previa aprobación de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.
 
-3. El análisis de riesgos del apartado anterior contendrá, al menos, información sobre las probabilidades de escape o liberación accidental, de establecerse en la naturaleza, de convertirse en plaga, de causar daño medio ambiental o de afectar negativamente a la biodiversidad autóctona o a los recursos económicos asociados al patrimonio natural y una descripción de las actuaciones previstas a realizar en caso de escape o liberación accidental, con una valoración de la viabilidad y técnicas de control, erradicación o contención. Asimismo se deberá incluir en el análisis si el ejemplar procede o no de cría en cautividad, conocimiento de la problemática, en caso de existir, causada por la especie en otros lugares y existencia de medios eficaces para reducir riesgos de escape o liberación accidental.
+El análisis de riesgos contendrá, al menos, información sobre los siguientes puntos:
 
+- Probabilidades
+	- Escape o liberación accidental
+	- Establecimiento en la naturaleza
+	- Convertirse en plaga
+	- Causar daño medio ambiental
+	- Afectar negativamente a la biodiversidad autóctona o a los recursos económicos asociados al patrimonio natural
 
-##### Artículo 9. Medidas urgentes.
+- Descripción de las actuaciones previstas a realizar en caso de escape o liberación accidental, con una valoración de la viabilidad y técnicas de control, erradicación o contención. 
+- Procedencia: Asimismo se deberá incluir en el análisis si el ejemplar procede o no de cría en cautividad
+- Conocimiento de la problemática en otros lugares (en caso de existir)
+- Medios eficaces: para reducir riesgos de escape o liberación accidental.
 
-En caso de constatarse la existencia de una amenaza grave producida por la aparición de una especie exótica invasora, incluida o no en el catálogo, y paralelamente a lo establecido en el artículo 5, se informará a la red de alerta establecida en el artículo 12, y se aplicarán de forma urgente, por parte de las comunidades autónomas y ciudades de Ceuta y Melilla y de la Administración General del Estado en el ámbito de sus competencias u otras autoridades competentes, en coordinación con el Ministerio para la Transición Ecológica, las medidas necesarias para el seguimiento, control y posible erradicación de la citada especie, en el marco del operativo establecido en la red de alerta.
+En caso de constatarse la existencia de una amenaza grave producida por la aparición de una especie exótica invasora (incluida o no en el Catálogo), y paralelamente a lo establecido en el artículo 5, se informará a la red de alerta (artículo 12), y se aplicarán de forma urgente, por parte de las Comunidades y ciudades Autónomas y la Administración General del Estado en el ámbito de sus competencias u otras autoridades competentes, en coordinación con el Ministerio para la Transición Ecológica, las medidas necesarias para el seguimiento, control y posible erradicación de la citada especie, en el marco del operativo establecido en la red de alerta.
 
 
 
 ##### Artículo 10. Medidas de lucha contra las especies exóticas invasoras del catálogo.
 
-1. Las administraciones competentes adoptarán, en su caso, las medidas de gestión, control y posible erradicación de las especies incluidas en el catálogo. En el marco de estrategias, planes y campañas de control y erradicación, las administraciones competentes podrán autorizar la posesión y el transporte temporales de ejemplares de estas especies hasta el lugar de su eliminación del medio natural, proceso que habrá de realizarse en el menor plazo posible y de acuerdo con la legislación sectorial sobre esta materia.
+Las administraciones competentes adoptarán, en su caso, las medidas de gestión, control y posible erradicación de las especies incluidas en el catálogo. En el marco de estrategias, planes y campañas de control y erradicación, las administraciones competentes podrán autorizar la posesión y el transporte temporales de ejemplares de estas especies hasta el lugar de su eliminación del medio natural, proceso que habrá de realizarse en el menor plazo posible y de acuerdo con la legislación sectorial sobre esta materia.
 
 Estas medidas de gestión, control y posible erradicación serán adoptadas según las prioridades determinadas por la gravedad de la amenaza y el grado de dificultad previsto para su erradicación.
 
-2. La Dirección General de Marina Mercante del Ministerio de Fomento y la Dirección General de Sostenibilidad de la Costa y del Mar, la Dirección General del Agua y la Secretaría General de Pesca como organismos competentes de la Administración General del Estado y las comunidades autónomas, en el ámbito de su competencias, aplicarán medidas de prevención, control y gestión de las especies incluidas en el catálogo en las actividades recreativas y deportivas desarrolladas en las aguas continentales y marinas. En el caso de especies del catálogo detectadas en aguas de lastre de embarcaciones, se aplicarán las medidas de prevención, control y gestión establecidas por la Organización Marítima Internacional en la materia, especialmente a través de lo dispuesto en el Convenio internacional para el control y la gestión del agua de lastre y los sedimentos de los buques, de 2004, y por las directrices y criterios establecidos en los Convenios regionales de protección del medio marino.
+La Dirección General de Marina Mercante del Ministerio de Fomento y la Dirección General de Sostenibilidad de la Costa y del Mar, la Dirección General del Agua y la Secretaría General de Pesca como organismos competentes de la Administración General del Estado y las comunidades autónomas, en el ámbito de su competencias, aplicarán medidas de prevención, control y gestión de las especies incluidas en el catálogo en las actividades recreativas y deportivas desarrolladas en las aguas continentales y marinas. En el caso de especies del catálogo detectadas en aguas de lastre de embarcaciones, se aplicarán las medidas de prevención, control y gestión establecidas por la Organización Marítima Internacional en la materia, especialmente a través de lo dispuesto en el Convenio internacional para el control y la gestión del agua de lastre y los sedimentos de los buques, de 2004, y por las directrices y criterios establecidos en los Convenios regionales de protección del medio marino.
 
-3. Las autoridades competentes exigirán a los promotores de obras en cauces que se informen sobre la presencia de especies del catálogo en aquellas masas de agua que van a ser origen de trasvases o desviaciones temporales o permanentes de agua. En caso de presencia de estas especies, se revisará el proyecto para estudiar alternativas y medidas de prevención que no impliquen dispersión de estas especies, o se valorará la suspensión del proyecto. Del mismo modo, si se ejecutan trabajos en cauces afectados por especies del catálogo, se deberán aplicar protocolos preventivos de dispersión de las especies a cauces no afectados.
+Las autoridades competentes exigirán a los promotores de obras en cauces que se informen sobre la presencia de especies del catálogo en aquellas masas de agua que van a ser origen de trasvases o desviaciones temporales o permanentes de agua. En caso de presencia de estas especies, se revisará el proyecto para estudiar alternativas y medidas de prevención que no impliquen dispersión de estas especies, o se valorará la suspensión del proyecto. Del mismo modo, si se ejecutan trabajos en cauces afectados por especies del catálogo, se deberán aplicar protocolos preventivos de dispersión de las especies a cauces no afectados.
 
-4. Las autoridades competentes podrán requerir a los titulares de terrenos que faciliten información y acceso a sus representantes, con el fin de verificar la presencia de especies exóticas invasoras y, en su caso, tomar las medidas adecuadas para su control.
+Las autoridades competentes podrán requerir a los titulares de terrenos que faciliten información y acceso a sus representantes, con el fin de verificar la presencia de especies exóticas invasoras y, en su caso, tomar las medidas adecuadas para su control.
 
-5. Teniendo en cuenta criterios de selectividad y bienestar animal, las autoridades competentes autorizarán los métodos y condiciones de captura más adecuados para el control, gestión y posible erradicación de especies animales incluidas en el catálogo. Se podrá contemplar la caza y la pesca como métodos de control, gestión y erradicación de las especies incluidas en el catálogo cuya introducción se produjo con anterioridad a la entrada en vigor de la [Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), cuando este objetivo quede recogido en los instrumentos normativos de caza y pesca y se circunscriba a las áreas de distribución ocupadas por estas especies con anterioridad a esa fecha.
+Teniendo en cuenta criterios de selectividad y bienestar animal, las autoridades competentes autorizarán los métodos y condiciones de captura más adecuados para el control, gestión y posible erradicación de especies animales incluidas en el catálogo. Se podrá contemplar la caza y la pesca como métodos de control, gestión y erradicación de las especies incluidas en el catálogo cuya introducción se produjo con anterioridad a la entrada en vigor de la [Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), cuando este objetivo quede recogido en los instrumentos normativos de caza y pesca y se circunscriba a las áreas de distribución ocupadas por estas especies con anterioridad a esa fecha.
 
-6. Las autoridades competentes en medio ambiente adoptarán medidas para evitar el abandono de restos de especies vegetales exóticas, a excepción de los acumulados en el marco de campañas de erradicación, siempre y cuando no supongan un riesgo de dispersión.
+Las autoridades competentes en medio ambiente adoptarán medidas para evitar el abandono de restos de especies vegetales exóticas, a excepción de los acumulados en el marco de campañas de erradicación, siempre y cuando no supongan un riesgo de dispersión.
 
 ##### Artículo 11. Medidas de control en las partidas presentadas a inspección en los Puestos de Inspección Fronterizos (PIF).
 
-1. Cuando ejemplares de especies del catálogo sean presentados en los puestos de inspección fronterizos ante las autoridades veterinarias o fitosanitarias, el veterinario oficial o el inspector fitosanitario, respectivamente, decidirá el rechazo de las mismas. La detección de estas especies podrá realizarse por declaración de la especie por parte del importador o su representante o porque conste en la documentación que acompañe a la partida la especie.
+Cuando ejemplares de especies del catálogo sean presentados en los puestos de inspección fronterizos ante las autoridades veterinarias o fitosanitarias, el veterinario oficial o el inspector fitosanitario, respectivamente, decidirá el rechazo de las mismas. La detección de estas especies podrá realizarse por declaración de la especie por parte del importador o su representante o porque conste en la documentación que acompañe a la partida la especie.
 
 Asimismo, las especies del catálogo podrán detectarse en el control de identidad que los inspectores realizan durante la inspección sanitaria.
 
@@ -665,47 +584,45 @@ Asimismo, las especies del catálogo podrán detectarse en el control de identid
 
 Si se detecta en mercancías situadas en el recinto aduanero y no presentadas al PIF, la aduana  pondrá en conocimiento la situación a la autoridad veterinaria o fitosanitaria correspondiente, suspendiéndose, en su caso, el despacho aduanero, y se procederá como se ha indicado en el párrafo anterior.
 
-8. Los gastos derivados de la estancia, eutanasia y/o destrucción, la reexpedición u otras medidas para eliminar los ejemplares detectados o sus propágulos y elementos con capacidad dispersiva, correrán a cargo del importador o de su representante.
+Los gastos derivados de la estancia, eutanasia y/o destrucción, la reexpedición u otras medidas para eliminar los ejemplares detectados o sus propágulos y elementos con capacidad dispersiva, correrán a cargo del importador o de su representante.
 
 
 ##### Artículo 12. Medidas de control en los ejemplares detectados en las terminales de viajeros de los puertos y aeropuertos.
 
-1. Cuando las autoridades competentes de Aduanas detecten en las terminales de viajeros plantas o animales vivos, comunicarán este hecho a las autoridades veterinarias o fitosanitarias correspondientes, con el fin de que éstas determinen si se trata de ejemplares de especies del catálogo. En el caso de tratarse de especies exóticas invasoras, las autoridades veterinarias o fitosanitarias decidirán el rechazo de las mismas.
+Cuando las autoridades competentes de Aduanas detecten en las terminales de viajeros plantas o animales vivos, comunicarán este hecho a las autoridades veterinarias o fitosanitarias correspondientes, con el fin de que éstas determinen si se trata de ejemplares de especies del catálogo. En el caso de tratarse de especies exóticas invasoras, las autoridades veterinarias o fitosanitarias decidirán el rechazo de las mismas.
 
-2. Una vez rechazada la partida, el veterinario oficial o el inspector fitosanitario, según proceda, comunicará esta decisión al importador o su representante, el cual en un plazo no superior a 48 horas, deberá decidir si la partida se destruye o se reexpide al país de origen.
+Una vez rechazada la partida, el veterinario oficial o el inspector fitosanitario, según proceda, comunicará esta decisión al importador o su representante, el cual en un plazo no superior a 48 horas, deberá decidir si la partida se destruye o se reexpide al país de origen.
 
-3. Las autoridades veterinarias o fitosanitarias comunicarán la decisión final a la Aduana y en el caso de la destrucción, o eutanasia y destrucción en el caso de los animales, serán responsables de la ejecución y supervisión de la misma.
+Las autoridades veterinarias o fitosanitarias comunicarán la decisión final a la Aduana y en el caso de la destrucción, o eutanasia y destrucción en el caso de los animales, serán responsables de la ejecución y supervisión de la misma.
 
-4. El control de las condiciones de depósito de las plantas o animales vivos detectados o abandonados en las terminales de viajeros se realizará en los mismos términos que los indicados en el artículo 11, una vez la mercancía (especies del catálogo) haya sido ubicada previamente, siempre bajo control y supervisión aduanera, en los PIF autorizados. Todo esto siempre y cuando existan PIF autorizados en el punto de entrada afectado. En caso de no existir PIF autorizados la supervisión de las condiciones de depósito hasta alcanzar el destino previsto corresponderá a las autoridades competentes, concesionarios o personas, físicas o jurídicas, del local o instalación en la que se encuentran las plantas o animales vivos.
+El control de las condiciones de depósito de las plantas o animales vivos detectados o abandonados en las terminales de viajeros se realizará en los mismos términos que los indicados en el artículo 11, una vez la mercancía (especies del catálogo) haya sido ubicada previamente, siempre bajo control y supervisión aduanera, en los PIF autorizados. Todo esto siempre y cuando existan PIF autorizados en el punto de entrada afectado. En caso de no existir PIF autorizados la supervisión de las condiciones de depósito hasta alcanzar el destino previsto corresponderá a las autoridades competentes, concesionarios o personas, físicas o jurídicas, del local o instalación en la que se encuentran las plantas o animales vivos.
 
-5. En el caso de los animales, deberán ser mantenidos en condiciones de bienestar animal, de acuerdo con el [Reglamento (CE) 1/2005, de 22 de diciembre de 2004](https://www.boe.es/buscar/doc.php?id=DOUE-L-2005-80006 "Abre nueva ventana"), relativo a la protección de los animales durante el transporte y las operaciones conexas y por el que se modifican las Directivas [64/432/CEE](https://www.boe.es/buscar/doc.php?id=DOUE-X-1964-60031 "Abre nueva ventana") y [93/119/CE](https://www.boe.es/buscar/doc.php?id=DOUE-L-1993-82284 "Abre nueva ventana") y el [Reglamento (CE) n.º 1255/97](https://www.boe.es/buscar/doc.php?id=DOUE-L-1997-81317 "Abre nueva ventana").
+En el caso de los animales, deberán ser mantenidos en condiciones de bienestar animal, de acuerdo con el [Reglamento (CE) 1/2005, de 22 de diciembre de 2004](https://www.boe.es/buscar/doc.php?id=DOUE-L-2005-80006 "Abre nueva ventana"), relativo a la protección de los animales durante el transporte y las operaciones conexas y por el que se modifican las Directivas [64/432/CEE](https://www.boe.es/buscar/doc.php?id=DOUE-X-1964-60031 "Abre nueva ventana") y [93/119/CE](https://www.boe.es/buscar/doc.php?id=DOUE-L-1993-82284 "Abre nueva ventana") y el [Reglamento (CE) n.º 1255/97](https://www.boe.es/buscar/doc.php?id=DOUE-L-1997-81317 "Abre nueva ventana").
 
-6. Los gastos derivados de la estancia, eutanasia y/o destrucción o la reexpedición de los ejemplares detectados, correrán a cargo del importador o de su representante.
+Los gastos derivados de la estancia, eutanasia y/o destrucción o la reexpedición de los ejemplares detectados, correrán a cargo del importador o de su representante.
 
 
 ##### Artículo 13. Medios para realizar los controles en frontera.
 
-1. Las autoridades veterinarias o fitosanitarias, así como la autoridad de Aduanas, podrán consultar con la Dirección General de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica sobre la identificación taxonómica de los ejemplares que se requiera, y sobre las decisiones a tomar sobre su destino.
+Las autoridades veterinarias o fitosanitarias, y la autoridad de Aduanas, podrán consultar con la Dirección General de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica sobre la identificación taxonómica de los ejemplares que se requiera, y sobre las decisiones a tomar sobre su destino.
 
-2. La Dirección General de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica pondrá a disposición de las autoridades veterinarias, fitosanitarias y aduaneras los medios necesarios para poder realizar los controles y garantizar las condiciones de depósito de los ejemplares que estén a la espera de que se tome una decisión sobre su destino.
+La Dirección General de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica pondrá a disposición de las autoridades veterinarias, fitosanitarias y aduaneras los medios necesarios para poder realizar los controles y garantizar las condiciones de depósito de los ejemplares que estén a la espera de que se tome una decisión sobre su destino.
 
 
 ##### Artículo 14. Red de Alerta para la vigilancia de especies exóticas invasoras.
 
-1. Para facilitar la coordinación y la comunicación entre las administraciones competentes, se crea la Red de Alerta para la vigilancia de especies exóticas invasoras. Esta red estará integrada por los puntos focales designados por las comunidades autónomas y ciudades de Ceuta y Melilla, los órganos competentes en medio ambiente de la Administración General del Estado, además de la Dirección General de Comercio e Inversiones del Ministerio de Economía y Competitividad como autoridad administrativa CITES, y una oficina de coordinación en la Dirección General de de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica, sin perjuicio de las competencias del Comité Fitosanitario Nacional. Esta red contará con la información facilitada por las organizaciones y sectores interesados.
+Para facilitar la coordinación y la comunicación entre las administraciones competentes, se crea la Red de Alerta para la vigilancia de especies exóticas invasoras. Esta red estará integrada por los puntos focales designados por las comunidades autónomas y ciudades de Ceuta y Melilla, los órganos competentes en medio ambiente de la Administración General del Estado, además de la Dirección General de Comercio e Inversiones del Ministerio de Economía y Competitividad como autoridad administrativa CITES, y una oficina de coordinación en la Dirección General de de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica, sin perjuicio de las competencias del Comité Fitosanitario Nacional. Esta red contará con la información facilitada por las organizaciones y sectores interesados.
 
-2. La oficina de coordinación de la Red de Alerta tendrá la función de coordinar la información. Se creará además una aplicación informática asociada con un sistema de información geográfico de los focos potenciales de invasiones biológicas, para la difusión de la información entre los puntos focales y la oficina de coordinación. Esta aplicación estará accesible al público para asegurar su participación en la Red de Alerta.
+La oficina de coordinación de la Red de Alerta tendrá la función de coordinar la información. Se creará además una aplicación informática asociada con un sistema de información geográfico de los focos potenciales de invasiones biológicas, para la difusión de la información entre los puntos focales y la oficina de coordinación. Esta aplicación estará accesible al público para asegurar su participación en la Red de Alerta.
 
-3. Los puntos focales de la Red de Alerta deberán:
+Los puntos focales de la Red de Alerta deberán:
 
-a. Crear, dentro de su ámbito territorial, redes de alerta temprana.
-
-b. Informar de forma temprana a la oficina de coordinación de la presencia de nuevos focos o poblaciones de especies exóticas invasoras, e informar sobre su identificación, localización, riesgos y extensión.
-
-c. Informar de la respuesta temprana con actuaciones de erradicación y control.
-
+- Crear, dentro de su ámbito territorial, redes de alerta temprana.
+- Informar de forma temprana a la oficina de coordinación de la presencia de nuevos focos o poblaciones de especies exóticas invasoras, e informar sobre su identificación, localización, riesgos y extensión.
+- Informar de la respuesta temprana con actuaciones de erradicación y control.
 
 Procedimientos de inclusión o exclusión de especies, información contenida en el registro y efectos de la inclusión de una especie en el catálogo. Medidas de prevención y de lucha contra las especies exóticas invasoras.
+
 
 
 El procedimiento de inclusión y exclusión de especies 
@@ -720,8 +637,7 @@ Las medidas de prevención y lucha (REUTILIZAR)
 
 En la Comunidad Valenciana se ha regulado mediante el Decreto 213/2009
 
-
-### Real Decreto 213/2009
+### Decreto 213/2009
 
 En la Comunidad Valenciana se regula mediante el [Decreto 213/2009](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2009/D_2009_213_ca_O_2014_010.pdf)
 
@@ -752,68 +668,58 @@ Existen las siguientes obligaciones generales:
 
 **Artículo 4. Actuaciones prohibidas**
 
-1. Respecto a los ejemplares vivos -incluidas sus larvas, crías o huevos- en el caso de animales, y a los propágulos o fragmentos vivos de ejemplares en el caso de plantas, incluidos en el anexo I, se prohíbe en todo el territorio de la Comunitat Valenciana y en las zonas marinas en las que la Generalitat ejerce competencias medioambientales:
+Respecto a los ejemplares vivos -incluidas sus larvas, crías o huevos- en el caso de animales, y a los propágulos o fragmentos vivos de ejemplares en el caso de plantas, incluidos en el anexo I, se prohíbe en todo el territorio de la Comunitat Valenciana y en las zonas marinas en las que la Generalitat ejerce competencias medioambientales:
 
-a) La liberación, en el caso de animales, o la plantación, siembra o dispersión, en el caso de plantas.
-
-b) El comercio, tráfico o cesión.
-
-c) Su transporte, excepto el necesario para las tareas de erradicación de estas especies y, en el caso de ejemplares de cangrejo americano (Procambarus clarkii) pescados legalmente, el transporte desde las áreas de pesca a los puntos de venta o consumo.
+-  La liberación, en el caso de animales, o la plantación, siembra o dispersión, en el caso de plantas.
+- El comercio, tráfico o cesión.
+- Su transporte, excepto el necesario para las tareas de erradicación de estas especies y, en el caso de ejemplares de cangrejo americano (Procambarus clarkii) pescados legalmente, el transporte desde las áreas de pesca a los puntos de venta o consumo.
 
 Estas prohibiciones podrán quedar sin efecto previa autorización administrativa de la Conselleria competente en materia de medio ambiente. Esta autorización estará condicionada al cumplimiento de las medidas oportunas que garanticen la no dispersión de la especie exótica a partir de los ejemplares autorizados.
 
-2. Por lo que se refiere a las especies o subespecies animales exóticas no incluidas en el anexo I se prohíbe su liberación, excepto en aquellos recintos vinculados a actividades humanas, siempre que no exista posibilidad de dispersión ni pueda causar perjuicio a especies autóctonas. Quedan excluidas de estas limitaciones las autorizadas para el control biológico de plagas y las que determine la normativa vigente en materia de caza y pesca.
-    
-3. En lo referente a las especies vegetales exóticas incluidas en el anexo II se prohíbe:
-    
+Por lo que se refiere a las especies o subespecies animales exóticas no incluidas en el anexo I se prohíbe su liberación, excepto en aquellos recintos vinculados a actividades humanas, siempre que no exista posibilidad de dispersión ni pueda causar perjuicio a especies autóctonas. Quedan excluidas de estas limitaciones las autorizadas para el control biológico de plagas y las que determine la normativa vigente en materia de caza y pesca.
 
-a) Su introducción, siembra o plantación en terrenos forestales definidos conforme al artículo 2 de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la Comunitat Valenciana, y artículos concordantes de su Reglamento, así como en las zonas húmedas, incluidas las del catálogo aprobado por Acuerdo de 10 de septiembre de 2002, del Consell. Estas limitaciones no afectarán a los recintos ajardinados y viveros lindantes o incluidos en los citados terrenos, siempre que los ejemplares plantados no se propaguen fuera de sus límites.
+En lo referente a las especies vegetales exóticas incluidas en el anexo II se prohíbe:
 
-b) Su utilización en las plantaciones o siembras que se realicen en vías de comunicación que atraviesen suelo no urbanizable, en todo el recorrido de la vía.
+- Su introducción, siembra o plantación en terrenos forestales definidos conforme al artículo 2 de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la Comunitat Valenciana, y artículos concordantes de su Reglamento, así como en las zonas húmedas, incluidas las del catálogo aprobado por Acuerdo de 10 de septiembre de 2002, del Consell. Estas limitaciones no afectarán a los recintos ajardinados y viveros lindantes o incluidos en los citados terrenos, siempre que los ejemplares plantados no se propaguen fuera de sus límites.
 
-4. Por lo que se refiere a las especies vegetales de los anexos I y II, se prohíbe:
-    
+- Su utilización en las plantaciones o siembras que se realicen en vías de comunicación que atraviesen suelo no urbanizable, en todo el recorrido de la vía.
 
-a) El depósito o acumulación de sus restos o propágulos en cualquier terreno excepto en el caso de la caña (Arundo donax) para usos tradicionales. El destino de los restos debe ser un centro gestor autorizado de residuos de esta naturaleza.
+Por lo que se refiere a las especies vegetales de los anexos I y II, se prohíbe:
 
-b) Con carácter excepcional y únicamente en el marco de campañas de erradicación, los restos podrán ser depositados en el medio siempre que se tomen las medidas oportunas para evitar su dispersión. En caso de que el depósito en el medio diese lugar a una recolonización o dispersión de la especie, será de aplicación el régimen sancionador previsto en los artículos 10 y 11.
+- El depósito o acumulación de sus restos o propágulos en cualquier terreno excepto en el caso de la caña (Arundo donax) para usos tradicionales. El destino de los restos debe ser un centro gestor autorizado de residuos de esta naturaleza.
+- Con carácter excepcional y únicamente en el marco de campañas de erradicación, los restos podrán ser depositados en el medio siempre que se tomen las medidas oportunas para evitar su dispersión. En caso de que el depósito en el medio diese lugar a una recolonización o dispersión de la especie, será de aplicación el régimen sancionador previsto en los artículos 10 y 11.
 
-5. En el caso de detectarse la presencia, en cualquier mercancía, de ejemplares vivos, larvas, crías, huevos vivos, propágulos o fragmentos vivos de las especies del anexo I, se procederá a su inmovilización y aislamiento hasta que se garantice que se encuentra desprovista de estas especies. Si esto último no fuese posible se procederá a la destrucción de dicha mercancía.
-    
-6. La inclusión de una especie en los anexos I y II o el cambio de una especie de uno a otro anexo se aprobará por Orden del conseller competente, cuando exista información técnica o científica que lo aconseje. En caso de detectarse invasiones por especies exóticas no incluidas en los anexos que requieran una actuación de erradicación urgente, se procederá según lo establecido en el artículo 6.2 y 3 y se incluirán con posterioridad en los correspondientes anexos.
+En el caso de detectarse la presencia, en cualquier mercancía, de ejemplares vivos, larvas, crías, huevos vivos, propágulos o fragmentos vivos de las especies del anexo I, se procederá a su inmovilización y aislamiento hasta que se garantice que se encuentra desprovista de estas especies. Si esto último no fuese posible se procederá a la destrucción de dicha mercancía.
+
+La inclusión de una especie en los anexos I y II o el cambio de una especie de uno a otro anexo se aprobará por Orden del conseller competente, cuando exista información técnica o científica que lo aconseje. En caso de detectarse invasiones por especies exóticas no incluidas en los anexos que requieran una actuación de erradicación urgente, se procederá según lo establecido en el artículo 6.2 y 3 y se incluirán con posterioridad en los correspondientes anexos.
     
 
 **Artículo 5. Declaración de presencia y tenencia de especies invasoras**
 
-1. Las administraciones públicas, las asociaciones de pescadores y cazadores y los titulares de cotos de caza y concesiones de agua o de aprovechamientos hídricos quedan obligados a comunicar a la Conselleria competente en materia de medio ambiente la presencia de ejemplares de especies exóticas invasoras o restos de estas especies en los terrenos de cuya gestión sean responsables. La declaración conllevará la comprobación por la Conselleria competente en materia de medio ambiente y las actuaciones de control o erradicación de la especie detectada, si se considerase necesario.
-    
-2. Las personas físicas y jurídicas que en la fecha de entrada en vigor de este decreto posean especies exóticas invasoras del anexo I estarán obligados a tomar todas las medidas de prevención necesarias para evitar su dispersión, fuga o escape accidental al medio natural con el fin de prevenir posibles amenazas o alteraciones genéticas a las especies y subespecies autóctonas y a los hábitats. Las condiciones particulares de tenencia de los ejemplares de especies del anexo I podrán ser objeto de desarrollo reglamentario.
-    
+Las administraciones públicas, las asociaciones de pescadores y cazadores y los titulares de cotos de caza y concesiones de agua o de aprovechamientos hídricos quedan obligados a comunicar a la Conselleria competente en materia de medio ambiente la presencia de ejemplares de especies exóticas invasoras o restos de estas especies en los terrenos de cuya gestión sean responsables. La declaración conllevará la comprobación por la Conselleria competente en materia de medio ambiente y las actuaciones de control o erradicación de la especie detectada, si se considerase necesario.
+
+Las personas físicas y jurídicas que en la fecha de entrada en vigor de este decreto posean especies exóticas invasoras del anexo I estarán obligados a tomar todas las medidas de prevención necesarias para evitar su dispersión, fuga o escape accidental al medio natural con el fin de prevenir posibles amenazas o alteraciones genéticas a las especies y subespecies autóctonas y a los hábitats. Las condiciones particulares de tenencia de los ejemplares de especies del anexo I podrán ser objeto de desarrollo reglamentario.
+
 
 **Artículo 6. Actuaciones de control**
 
-1. La Conselleria competente en materia de medio ambiente redactará y aplicará, en función de las disponibilidades presupuestarias, planes de control y, si procede, sustitución de las especies exóticas incluidas en los anexos y los híbridos que éstas podrán formar. Se excluirán de este proceso los especímenes monumentales según la Ley 4/2006, de 19 de mayo, de la Generalitat, de Patrimonio Arbóreo Monumental de la Comunitat Valenciana. Los planes de control contemplarán:
-    
+La Conselleria de medio ambiente redactará y aplicará, en función de las disponibilidades presupuestarias, planes de control y, si procede, sustitución de las especies exóticas incluidas en los anexos y los híbridos que éstas podrán formar. Se excluirán de este proceso los especímenes monumentales (Ley 4/2006). 
 
-a) Medidas de detección y eliminación en los estadios iniciales de la invasión.
+Los planes de control contemplarán:
 
-b) Actuaciones de contención para frenar el avance de una especie concreta, o de control o mitigación para minimizar sus efectos sobre las especies nativas, o de erradicación si resultase posible. El plan de control deberá considerar el grado de implantación del taxon así como la dificultad que supone su control y sus efectos, tanto sobre el medio como sobre las actividades económicas que éste sustente. Los planes de control podrán establecer áreas en las que las actuaciones difieran en su intensidad.
+- Medidas de detección y eliminación en los estadios iniciales de la invasión.
+- Actuaciones de contención para frenar el avance de una especie concreta, o de control o mitigación para minimizar sus efectos sobre las especies nativas, o de erradicación si resultase posible. El plan de control deberá considerar el grado de implantación del taxon así como la dificultad que supone su control y sus efectos, tanto sobre el medio como sobre las actividades económicas que éste sustente. Los planes de control podrán establecer áreas en las que las actuaciones difieran en su intensidad.
+- Un programa de seguimiento de las localidades donde se han llevado a cabo actuaciones de contención o erradicación.
+- Si fuese necesario, un programa de restauración de los hábitats afectados.
 
-c) Un programa de seguimiento de las localidades donde se han llevado a cabo actuaciones de contención o erradicación.
+No obstante lo anterior, se llevarán a cabo actuaciones urgentes de erradicación, sin necesidad de redacción de planes de control, cuando cualquier especie exótica invasora:
 
-d) Si fuese necesario, un programa de restauración de los hábitats afectados.
+- a) Afecte a especies y a hábitats prioritarios contemplados en la Directiva Europea de Hábitats 92/43/CEE.
+- Ponga en peligro a táxones amenazados de flora o fauna silvestre incluidos en los catálogos nacionales o autonómicos.
+- Amenace con dispersarse o muestre un ritmo creciente de dispersión, de modo que el control de la invasión biológica pueda llegar a ser poco viable.
 
-2. No obstante lo anterior, se llevarán a cabo actuaciones urgentes de erradicación, sin necesidad de redacción de planes de control, cuando cualquier especie exótica invasora:
-    
+De acuerdo con lo establecido en el artículo 53 de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la Comunitat Valenciana, la Conselleria competente en materia de medio ambiente podrá delimitar la zona afectada por las especies exóticas invasoras y declarar de utilidad pública su erradicación. Los titulares de los terrenos afectados por la citada declaración de utilidad pública quedan obligados a permitir en sus propiedades la ejecución de los trabajos de erradicación y el establecimiento de las medidas que se consideren oportunas para prevenir la dispersión de las especies exóticas invasoras.
 
-a) Afecte a especies y a hábitats prioritarios contemplados en la Directiva Europea de Hábitats 92/43/CEE.
-
-b) Ponga en peligro a táxones amenazados de flora o fauna silvestre incluidos en los catálogos nacionales o autonómicos.
-
-c) Amenace con dispersarse o muestre un ritmo creciente de dispersión, de modo que el control de la invasión biológica pueda llegar a ser poco viable.
-
-3. De acuerdo con lo establecido en el artículo 53 de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la Comunitat Valenciana, la Conselleria competente en materia de medio ambiente podrá delimitar la zona afectada por las especies exóticas invasoras y declarar de utilidad pública su erradicación. Los titulares de los terrenos afectados por la citada declaración de utilidad pública quedan obligados a permitir en sus propiedades la ejecución de los trabajos de erradicación y el establecimiento de las medidas que se consideren oportunas para prevenir la dispersión de las especies exóticas invasoras.
-    
 
 **Artículo 7. Métodos de control**
 
@@ -821,7 +727,7 @@ Para el control de especies invasoras se utilizarán medios manuales o mecánico
 
 **Artículo 8. Divulgación**
 
-La Conselleria competente en materia de medio ambiente elaborará un programa de divulgación, cuyo objeto será la difusión del concepto de tenencia responsable de especies exóticas invasoras, que incida en cómo pueden evitarse los riesgos para el medio natural asociados con la posesión de las especies contempladas en los anexos de este decreto y las alternativas que pueden emplearse.
+La Conselleria de medio ambiente elaborará un programa de divulgación, cuyo objeto será la difusión del concepto de tenencia responsable de especies exóticas invasoras, que incida en cómo pueden evitarse los riesgos para el medio natural asociados con la posesión de las especies contempladas en los anexos de este decreto y las alternativas que pueden emplearse.
 
 **Artículo 9. Coordinación con otras administraciones**
 
@@ -829,27 +735,21 @@ Con objeto de coordinar actuaciones conducentes al control de las especies exót
 
 **Artículo 10. Infracciones y sanciones**
 
-1. Las acciones u omisiones que infrinjan lo previsto en este decreto, así como la liberación o introducción negligente o intencionada de las especies de los anexos, generarán responsabilidad de naturaleza administrativa y se sancionarán de acuerdo a lo dispuesto en los títulos VI de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y V de la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunitat Valenciana, sin perjuicio de la responsabilidad exigible en vía penal, civil o de otro orden a que puedan dar lugar.
-    
-2. El incumplimiento de la prohibición de comercio contemplado en el artículo 4.1.b) del presente Decreto será considerado infracción administrativa prevista en el artículo 48.g) de la Ley 8/1986, de 29 de diciembre, de la Generalitat, de Ordenación del Comercio y Superficies Comerciales, y será sancionado de conformidad con lo establecido en el capítulo II del título IV de la citada Ley.
-    
-3. Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado en la forma y condiciones fijadas en la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental. Asimismo, el infractor estará obligado a indemnizar los daños y perjuicios que no puedan ser reparados, en los términos de la correspondiente resolución.
-    
+Las acciones u omisiones que infrinjan lo previsto en este decreto, así como la liberación o introducción negligente o intencionada de las especies de los anexos, generarán responsabilidad de naturaleza administrativa y se sancionarán de acuerdo con la Ley (títulos VI de la Ley 42/2007 y V de la Ley 11/1994, sin perjuicio de la responsabilidad exigible en vía penal, civil o de otro orden a que puedan dar lugar.
+
+El incumplimiento de la prohibición de comercio contemplado en el artículo 4.1.b) del presente Decreto será considerado infracción administrativa prevista en el artículo 48.g) de la Ley 8/1986, de 29 de diciembre, de la Generalitat, de Ordenación del Comercio y Superficies Comerciales, y será sancionado de conformidad con lo establecido en el capítulo II del título IV de la citada Ley.
+
+Sin perjuicio de las sanciones penales o administrativas que en cada caso procedan, el infractor deberá reparar el daño causado en la forma y condiciones fijadas en la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental. Asimismo, el infractor estará obligado a indemnizar los daños y perjuicios que no puedan ser reparados, en los términos de la correspondiente resolución.
+
 
 **Artículo 11. Procedimiento sancionador**
 
 La imposición de las multas previstas en este decreto en lo no referido al comercio corresponde a los siguientes órganos:
 
-1. Directores territoriales de la conselleria competente en materia de medio ambiente: hasta 5.000 euros.
-    
-2. Director general competente en materia de gestión del medio: desde más de 5.000 hasta 50.000 euros.
-    
-3. Conseller competente en materia de medio ambiente: desde más de 50.000 hasta 200.000 euros.
-    
-4. Consell: a partir de 200.000 euros.
-
-
-
+- Titulares de dirección general (Conselleria de medio ambiente): hasta 5.000 euros.
+- Titular de la dirección general de medio natural: de 5.000 hasta 50.000 euros.
+- Titular de la Conselleria de medio ambiente: de 50.000 hasta 200.000 euros
+- Consell: a partir de 200.000 euros.
 
 
 La Conselleria de medio ambiente realizará planes de control, con los siguientes puntos principales: 
@@ -889,7 +789,6 @@ En la Comunidad Valenciana existe el [Decreto 32/2004](https://dogv.gva.es/auto/
 | Excepciones y autorización            | - Levantamiento excepcional de las prohibiciones<br>- Características de la autorización<br>- Trámite y resolución<br>- Otras especificaciones        |
 | Infracciones y sanciones              | - Infracciones y sanciones<br>- Procedimiento sancionador                                                                                             |
 | Anexos                                | - I. **Catálogo Valenciano de Especies de Fauna Amenazada: en peligro de extinción, y vulnerables**<br>- II. Fauna Protegida<br>- III. Fauna Tutelada |
-
 
 #### Clasificación
 
@@ -992,12 +891,20 @@ Todos ellos comparten los mismos criterios técnicos de funcionamiento y protoco
 
 #### Centro de Conservación de Especies Dulceacuícolas de la Comunitat Valenciana
 
+El Centro de Conservación de Especies Dulceacuícolas de la Comunitat Valenciana (CCEDCV) (de "El Palmar") es una instalación pública dedicada a recuperar fauna y flora de agua dulce amenazadas en la región. 
 
-El **Centro de Conservación de Especies Dulceacuícolas de la Comunitat Valenciana (CCEDCV)** —conocido también como Centro Acuícola de El Palmar o Piscifactoría de El Palmar— es una instalación pública dedicada a recuperar fauna y flora de agua dulce amenazadas en la región. Depende de la Generalitat Valenciana, actualmente a través de la Conselleria de Medio Ambiente, Infraestructuras y Territorio, y su gestión diaria corre a cargo de la empresa pública VAERSA.
+Depende de la Generalitat Valenciana (Conselleria de Medio Ambiente), y su gestión diaria corre a cargo de la empresa pública VAERSA.
 
-Se encuentra en Tancat de les Rates, s/n, 46012 València, y atiende de 9:00 a 14:00, en la pedanía de El Palmar, junto al Parque Natural de l'Albufera. No es un espacio de visita libre como un zoo o acuario; para conocerlo, la Generalitat tiene disponible en su web una visita virtual de las instalaciones.
+Se encuentra en Tancat de les Rates (pedanía de "El Palmar"), junto al Parque Natural de l'Albufera. 
 
-El centro acumula ya más de treinta años de trabajo, por lo que sus orígenes se remontan hacia 1990. Combina varias líneas de actuación: cría en cautividad de ejemplares de especies amenazadas para después soltarlos de vuelta en ríos, marjales u otros hábitats naturales; restauración de hábitats plantando vegetación autóctona o en peligro, para que la fauna nativa disponga de un entorno adecuado; y salidas de campo periódicas para comprobar cómo evolucionan tanto las poblaciones silvestres como las reintroducidas. También participa en investigación aplicada, como estudios sobre crioconservación de esperma de samaruc y fartet junto al grupo de Acuicultura de la Universitat Politècnica de València. Gracias a este trabajo, el centro es consultado como modelo tanto por otras comunidades autónomas como por instituciones de otros países de la Unión Europea.
+El centro acumula ya más de treinta años de trabajo, por lo que sus orígenes se remontan hacia 1990. 
+
+Combina varias líneas de actuación: 
+
+- Cría en cautividad de ejemplares de especies amenazadas para después soltarlos de vuelta en ríos, marjales u otros hábitats naturales
+- Restauración de hábitats plantando vegetación autóctona o en peligro, para que la fauna nativa disponga de un entorno adecuado
+- Salidas de campo periódicas para comprobar cómo evolucionan tanto las poblaciones silvestres como las reintroducidas.
+- Investigación aplicada: estudios sobre crioconservación de esperma de samaruc y fartet junto al grupo de Acuicultura de la Universitat Politècnica de València.
 
 Entre las especies con las que trabaja destacan:
 
@@ -1011,10 +918,11 @@ Entre las especies con las que trabaja destacan:
 
 De forma puntual también ha intervenido con otras especies fluviales, como el cachuelo valenciano o bagra levantina (_Squalius valentinus_).
 
-En cuanto a actividad reciente, el centro colabora habitualmente con la Fundación Oceanogràfic de Valencia en sueltas conjuntas de samaruc y galápago europeo, y ha cedido ejemplares de gallipato para reforzar poblaciones en puntos como Puçol o Benissa. En 2024, ante la sequía de varias pozas de la Rambla de Puça, en Petrer, su personal técnico rescató a unos 800 ejemplares de cachuelo valenciano y los trasladó a un lugar seguro.
+El centro colabora habitualmente con la Fundación Oceanogràfic de Valencia en sueltas conjuntas de samaruc y galápago europeo, y ha cedido ejemplares de gallipato para reforzar poblaciones en puntos como Puçol o Benissa.
 
-El Palmar es uno de los tres centros piscícolas que gestiona VAERSA en la Comunitat Valenciana, junto con los de Tuéjar y Polinyà del Xúquer; a diferencia de estos dos, más orientados a la producción de peces para pesca deportiva, El Palmar se dedica específicamente a la conservación de especies amenazadas.
+En 2024, ante la sequía de varias pozas de la Rambla de Puça, en Petrer, su personal técnico rescató a unos 800 ejemplares de cachuelo valenciano y los trasladó a un lugar seguro.
 
+Es uno de los tres centros piscícolas que gestiona VAERSA en la Comunitat Valenciana, junto con los de Tuéjar y Polinyà del Xúquer, más orientados sin embargo a la producción ictícola para pesca deportiva.
 
 
 ### Flora amenazada
@@ -1032,116 +940,75 @@ En la Comunidad Valenciana existe el [Decreto 70/2009](https://dogv.gva.es/auto/
 
 #### Disposiciones generales
 
+Esta norma desarrolla disposiciones de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la Comunitat Valenciana, para regular la protección de la flora silvestre en la Comunitat Valenciana.
 
-Artículo 1. Objeto y ámbito
-1. Esta norma desarrolla disposiciones de la Ley 42/2007, de 13 de diciembre,
-del Patrimonio Natural y de la Biodiversidad, y de la Ley 3/1993, de 9 de
-diciembre, de la Generalitat, Forestal de la Comunitat Valenciana, para regular
-la protección de la flora silvestre en la Comunitat Valenciana.
-2. Esta norma se aplica a las plantas y las algas en la Comunitat Valenciana y
-en las zonas marinas en que la Generalitat ejerce competencias
-medioambientales. Las disposiciones derivadas de la Ley 3/1993, de 9 de
-diciembre, de la Generalitat, Forestal de la Comunitat Valenciana y su
-Reglamento, aprobado por el Decreto 98/1995, de 16 de mayo, del Consell, se
-aplicarán al ámbito territorial establecido por éstas.
-3. Las disposiciones de esta norma afectan a las especies puras, a las híbridas
-y a los táxones de rango inferior derivados de éstas.
-4. Este decreto establece marcos de protección para las especies u otras
-unidades taxonómicas botánicas, en el capítulo II, artículos 6 al 17, y para los
-sitios donde crecen tales especies y los ecosistemas que las albergan, en el
-capítulo III, artículos 18 al 20.Decreto 70/20094 de 46
+Esta norma se aplica a las plantas y las algas en la Comunitat Valenciana y en las zonas marinas en que la Generalitat ejerce competencias medioambientales. Las disposiciones derivadas de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la Comunitat Valenciana y su Reglamento, aprobado por el Decreto 98/1995, de 16 de mayo, del Consell, se aplicarán al ámbito territorial establecido por éstas.
+
+Las disposiciones de esta norma afectan a las especies puras, a las híbridas y a los táxones de rango inferior derivados de éstas.
+
+Este decreto establece marcos de protección para las especies u otras unidades taxonómicas botánicas, en el capítulo II, artículos 6 al 17, y para los sitios donde crecen tales especies y los ecosistemas que las albergan, en el capítulo III, artículos 18 al 20.Decreto 70/20094 de 46
+
 Artículo 2. Finalidades y principios de actuación
-5. Son finalidades de este decreto:
-a) Planificar el mantenimiento y la recuperación de las especies vegetales
-singulares y de las formaciones o ecosistemas específicos mediante el
-programa de conservación de flora valenciana.
-b) Dotar de un marco de protección jurídica a las especies más amenazadas de
-la flora valenciana, a través del Catálogo Valenciano de Especies de Flora
-Amenazadas y otras categorías complementarias.
-c) Asegurar la preservación de las especies que requieren medidas de
-conservación.
-d) Ordenar y fomentar las unidades que participan en la conservación ex situ
-de las especies amenazadas.
-e) Evitar la expansión de las especies alóctonas, limitando su empleo en el
-medio natural.
-f) Asegurar el acceso a información básica sobre la flora silvestre valenciana y
-fomentar su conocimiento y difusión pública.
-g) Garantizar el seguimiento a largo plazo de las especies mediante redes de
-enclaves y poblaciones protegidas in situ.
-h) Fomentar la participación pública, la custodia del territorio y la creación de
-redes de estudio y conservación activa de la flora silvestre.
-i) Asegurar el intercambio de conocimientos sobre conservación de flora
-silvestre.
-6. Con carácter general, las actuaciones de la Generalitat en las materias de
-este decreto se guiarán por los siguientes principios:
-a) Ordenación de la conservación de la flora silvestre mediante planes y
-programas.Decreto 70/20095 de 46
-b) Obtención y aplicación de información técnico-científica para la conservación
-de la flora.
-c) Prioridad a la conservación de las especies más amenazadas, raras o
-endémicas, así como a los principales microhábitats donde se concentran sus
-poblaciones.
-d) Mantenimiento de la diversidad genética de la flora valenciana.
-e) Prevención del desplazamiento genético, ecológico o demográfico por
-especies alóctonas.
-f) Reducción de impactos sobre la flora silvestre.
-g) Aumento de los nexos entre flora y sociedad y recuperación de la
-información etnobotánica.
+Son finalidades de este decreto:
+-  Planificar el mantenimiento y la recuperación de las especies vegetales singulares y de las formaciones o ecosistemas específicos mediante el programa de conservación de flora valenciana.
+- b) Dotar de un marco de protección jurídica a las especies más amenazadas de la flora valenciana, a través del Catálogo Valenciano de Especies de Flora Amenazadas y otras categorías complementarias.
+- c) Asegurar la preservación de las especies que requieren medidas de conservación.
+- d) Ordenar y fomentar las unidades que participan en la conservación ex situ de las especies amenazadas.
+- e) Evitar la expansión de las especies alóctonas, limitando su empleo en el medio natural.
+- f) Asegurar el acceso a información básica sobre la flora silvestre valenciana y fomentar su conocimiento y difusión pública.
+- g) Garantizar el seguimiento a largo plazo de las especies mediante redes de enclaves y poblaciones protegidas in situ.
+- h) Fomentar la participación pública, la custodia del territorio y la creación de redes de estudio y conservación activa de la flora silvestre.
+- i) Asegurar el intercambio de conocimientos sobre conservación de flora silvestre.
+
+ Con carácter general, las actuaciones de la Generalitat en las materias de este decreto se guiarán por los siguientes principios: 
+
+- a) Ordenación de la conservación de la flora silvestre mediante planes y programas.
+- Obtención y aplicación de información técnico-científica para la conservación de la flora.
+- Prioridad a la conservación de las especies más amenazadas, raras o endémicas, así como a los principales microhábitats donde se concentran sus poblaciones.
+- Mantenimiento de la diversidad genética de la flora valenciana.
+- e) Prevención del desplazamiento genético, ecológico o demográfico por especies alóctonas. 
+- f) Reducción de impactos sobre la flora silvestre. 
+- g) Aumento de los nexos entre flora y sociedad y recuperación de la información etnobotánica.
+
 Artículo 3. Competencias
-7. Las Consellerias cuyas actividades quedan afectadas por las disposiciones
-aquí establecidas y, en especial, las relativas al empleo de especies de flora en
-obra pública, comercio o exposición para el comercio y cultivo agrícola de flora
-útil u ornamental, deberán adecuar sus disposiciones a lo previsto en este
-decreto, y emitir, si procede, normas que ayuden a su desarrollo.
-8. Sin merma de lo indicado en el apartado anterior, corresponde a la
-Conselleria competente en materia de medio ambiente el desarrollo normativo
-de este decreto.
+7. Las Consellerias cuyas actividades quedan afectadas por las disposiciones aquí establecidas y, en especial, las relativas al empleo de especies de flora en obra pública, comercio o exposición para el comercio y cultivo agrícola de flora útil u ornamental, deberán adecuar sus disposiciones a lo previsto en este decreto, y emitir, si procede, normas que ayuden a su desarrollo. 
+
+8. Sin merma de lo indicado en el apartado anterior, corresponde a la Conselleria competente en materia de medio ambiente el desarrollo normativo de este decreto.
+
+
 Artículo 4. Programa de conservación de flora valenciana
-9. El programa especial de mantenimiento y/o recuperación de especies
-singulares y de formaciones o ecosistemas específicos previsto en el artículo
-29.1 de la Ley 3/1993, de 9 de diciembre, de la Generalitat, Forestal de la
-Comunitat Valenciana, se denominará Programa de Conservación de Flora
-Valenciana, en lo referido a especies vegetales.
-10. Este Programa debe reunir la información actualizada sobre el estado de la
-flora singular y los ecosistemas específicos, y pretende:Decreto 70/20096 de 46
-a) Establecer prioridades de conservación, tanto en lo relativo a especies como
-a territorios. Actuará como plan director de los planes de recuperación,
-conservación, gestión y acción para especies previstos en este decreto.
-b) Optimizar los esfuerzos de conservación de las Administraciones Públicas.
-c) Establecer reglas sectoriales que garanticen el respeto y uso sostenible de la
-flora.
+ 
+ 9. El programa especial de mantenimiento y/o recuperación de especies singulares y de formaciones o ecosistemas específicos (artículo 29.1 de la Ley 3/1993), se denominará Programa de Conservación de Flora Valenciana, en lo referido a especies vegetales.
+ 10. 
+11. Este Programa debe reunir la información actualizada sobre el estado de la
+flora singular y los ecosistemas específicos, y pretende:
+- a) Establecer prioridades de conservación, tanto en lo relativo a especies como a territorios. Actuará como plan director de los planes de recuperación, conservación, gestión y acción para especies previstos en este decreto.
+- b) Optimizar los esfuerzos de conservación de las Administraciones Públicas. 
+- c) Establecer reglas sectoriales que garanticen el respeto y uso sostenible de la flora.
+
+
 Artículo 5. Información general de la flora
-11. Corresponde a la Conselleria competente en materia de medio ambiente
-recopilar la información técnico-científica para la gestión de la flora silvestre,
-custodiarla, gestionarla y ponerla a disposición de los ciudadanos. La
-información podrá ser denegada en los supuestos previstos en el artículo 13 de
-la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a
-la información, de participación pública y de acceso a la justicia en materia de
-medio ambiente, especialmente en lo dispuesto en su apartado 13.2.h) sobre
-localización de especies amenazadas.
-12. La información que debe reunirse y custodiarse incluirá el listado completo
-de táxones de flora de la Comunitat Valenciana (Lista patrón) y, en la medida
-en que sea posible, su calificación según los criterios de la Unión Internacional
-de Conservación de la Naturaleza (clasificación UICN). Esta información se
-pondrá a disposición del público a través del Banco de Datos de la
-Biodiversidad (BDB), creado por Orden de 27 de noviembre de 2003, de la
-Conselleria de Territorio y Vivienda.
+
+Corresponde a la Conselleria competente en materia de medio ambiente recopilar la información técnico-científica para la gestión de la flora silvestre, custodiarla, gestionarla y ponerla a disposición de los ciudadanos. La información podrá ser denegada en los supuestos previstos (13 de la Ley 27/2006: especialmente sobre localización de especies amenazadas: apartado 13.2.h).
+
+La información que debe reunirse y custodiarse incluirá el listado completo de táxones de flora de la Comunitat Valenciana (Lista patrón) y, en la medida en que sea posible, su calificación según los criterios de la Unión Internacional de Conservación de la Naturaleza (clasificación UICN). Esta información se pondrá a disposición del público a través del Banco de Datos de la Biodiversidad (BDB), creado por Orden de 27 de noviembre de 2003, de la Conselleria de Territorio y Vivienda.
 
 
 #### Categorías de protección
 
 Artículo 6. Categorías y directrices interpretativas
-1. Los táxones cuya conservación exija un marco normativo se incluirán en
-alguna de las categorías siguientes, ordenadas de mayor a menor intensidad
-de protección:Decreto 70/20097 de 46
-a) Táxones protegidos catalogados: estas especies constituyen el Catálogo
-Valenciano de Especies de Flora Amenazadas.
-b) Táxones protegidos no catalogados.
-c) Táxones vigilados.
-Las poblaciones aisladas o bien definidas geográficamente de un determinado
-taxon podrán disponer de un nivel de protección diferente al del resto del taxon.
-2. Los táxones figurarán en las listas con, al menos, el nombre científico y la
-abreviatura del autor de dicho nombre.
+
+Los táxones cuya conservación exija un marco normativo se incluirán en alguna de las categorías siguientes, ordenadas de mayor a menor intensidad
+de protección:
+
+- a) Táxones protegidos catalogados: estas especies constituyen el Catálogo Valenciano de Especies de Flora Amenazadas.
+- Táxones protegidos no catalogados.
+- c) Táxones vigilados.
+
+Las poblaciones aisladas o bien definidas geográficamente de un determinado taxon podrán disponer de un nivel de protección diferente al del resto del taxon.
+
+
+2. Los táxones figurarán en las listas con, al menos, el nombre científico y la abreviatura del autor de dicho nombre.
 3. La Conselleria competente en materia de medio ambiente regulará el caso
 de las especies protegidas por este decreto que posean variedades objeto de
 cultivo agrario, ornamental o forestal. Preventivamente, cuando tales

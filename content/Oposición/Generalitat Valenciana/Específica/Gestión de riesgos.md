@@ -69,67 +69,36 @@ El cumplimiento de los requisitos, de las precauciones y de las condiciones esta
 
 4. La Administración pública que hubiera adjudicado un contrato o autorizado una actividad cuyo desarrollo diese lugar a daños medioambientales, o a la amenaza de los mismos, colaborará con la autoridad competente, sin que se derive responsabilidad medioambiental de la Administración pública por las actuaciones del operador, salvo en el supuesto previsto en el artículo 14.1.b).
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 13: #a10]
 
 ##### Artículo 10. Responsabilidad de los grupos de sociedades.
 
 En el supuesto de que el operador sea una sociedad mercantil que forme parte de un grupo de sociedades, según lo previsto en el [artículo 42.1 del Código de Comercio](https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627#art42 "Abre nueva ventana"), la responsabilidad medioambiental regulada en esta ley podrá extenderse igualmente a la sociedad dominante cuando la autoridad competente aprecie utilización abusiva de la persona jurídica o fraude de ley.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 14: #a11]
-
 ##### Artículo 11. Pluralidad de responsables de un mismo daño.
 
 En los supuestos en los que exista una pluralidad de operadores y se pruebe su participación en la causación del daño o de la amenaza inminente de causarlo, la responsabilidad será mancomunada, a no ser que por ley especial que resulte aplicable se disponga otra cosa.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 15: #a12]
 
 ##### Artículo 12. Muerte o extinción de las personas responsables.
 
 En los casos de muerte o extinción de las personas responsables según esta ley, sus deberes y, en particular, sus obligaciones pecuniarias subsiguientes, se transmitirán y se exigirán conforme a lo dispuesto para las obligaciones tributarias.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 16: #a13]
 
 ##### Artículo 13. Responsables solidarios y subsidiarios.
 
-1. Serán responsables solidarios del pago de las obligaciones pecuniarias que resulten de esta ley los sujetos a los que se refiere el [artículo 42.2 de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana"), General Tributaria.
+Serán responsables solidarios del pago de las obligaciones pecuniarias que resulten de esta ley los sujetos a los que se refiere el [artículo 42.2 de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana"), General Tributaria.
 
-2. Serán responsables subsidiarios de los deberes impuestos en esta ley y, en particular, de las obligaciones pecuniarias correspondientes, los siguientes sujetos:
+Serán responsables subsidiarios de los deberes impuestos en esta ley y, en particular, de las obligaciones pecuniarias correspondientes, los siguientes sujetos:
 
-a) Los gestores y administradores de hecho y de derecho de las personas jurídicas cuya conducta haya sido determinante de la responsabilidad de éstas.
+- Los gestores y administradores de hecho y de derecho de las personas jurídicas cuya conducta haya sido determinante de la responsabilidad de éstas.
+- Los gestores o administradores de aquellas personas jurídicas que hayan cesado en sus actividades, en cuanto a los deberes y obligaciones pendientes en el momento de dicho cese, siempre que no hubieren hecho lo necesario para su cumplimiento o hubieran adoptado acuerdos o tomado medidas causantes del incumplimiento.
+- Los que sucedan por cualquier concepto al responsable en la titularidad o en el ejercicio de la actividad causante del daño, con los límites y las excepciones previstos en el [artículo 42.1.c) de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana").
+- Los integrantes de administraciones concursales y los liquidadores de personas jurídicas que no hubieran realizado lo necesario para el cumplimiento de los deberes y las obligaciones devengados con anterioridad a tales situaciones.
 
-b) Los gestores o administradores de aquellas personas jurídicas que hayan cesado en sus actividades, en cuanto a los deberes y obligaciones pendientes en el momento de dicho cese, siempre que no hubieren hecho lo necesario para su cumplimiento o hubieran adoptado acuerdos o tomado medidas causantes del incumplimiento.
-
-c) Los que sucedan por cualquier concepto al responsable en la titularidad o en el ejercicio de la actividad causante del daño, con los límites y las excepciones previstos en el [artículo 42.1.c) de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana").
-
-d) Los integrantes de administraciones concursales y los liquidadores de personas jurídicas que no hubieran realizado lo necesario para el cumplimiento de los deberes y las obligaciones devengados con anterioridad a tales situaciones.
-
-3. Estas responsabilidades pecuniarias se declararán y exigirán en los procedimientos de ejecución, en los términos establecidos en la legislación tributaria y de recaudación de ingresos de Derecho público.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 17: #a14]
+Estas responsabilidades pecuniarias se declararán y exigirán en los procedimientos de ejecución, en los términos establecidos en la legislación tributaria y de recaudación de ingresos de Derecho público.
 
 ##### Artículo 14. Inexigibilidad de la obligación de sufragar los costes.
 
-1. El operador no estará obligado a sufragar los costes imputables a las medidas de prevención, de evitación y de reparación de daños cuando demuestre que los daños medioambientales o la amenaza inminente de tales daños se produjeron exclusivamente por cualquiera de las siguientes causas:
+El operador no estará obligado a sufragar los costes imputables a las medidas de prevención, de evitación y de reparación de daños cuando demuestre que los daños medioambientales o la amenaza inminente de tales daños se produjeron exclusivamente por cualquiera de las siguientes causas:
 
 a) La actuación de un tercero ajeno al ámbito de la organización de la actividad de que se trate e independiente de ella, a pesar de existir medidas de seguridad adecuadas.
 
@@ -151,32 +120,21 @@ b) Que el operador pruebe que el daño medioambiental fue causado por una activi
 
 3. Cuando concurran las circunstancias previstas en los apartados 1 y 2, el operador estará obligado, en todo caso, a adoptar y a ejecutar las medidas de prevención, de evitación y de reparación de daños medioambientales. Los costes en los que hubiera incurrido se recuperarán en los términos previstos en el artículo 15.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 18: #a15]
 
 ##### Artículo 15. Recuperación de costes.
 
-1. Cuando de conformidad con lo dispuesto en el artículo 14.1, el operador no esté obligado a sufragar los costes imputables a las medidas de prevención, de evitación o de reparación de daños medioambientales, podrá recuperarlos ejerciendo las acciones de repetición frente a terceros a que se refiere el artículo 16 o reclamando la responsabilidad patrimonial de las Administraciones públicas a cuyo servicio se encuentre la autoridad pública que impartió la orden o la instrucción.
+Cuando de conformidad con lo dispuesto en el artículo 14.1, el operador no esté obligado a sufragar los costes imputables a las medidas de prevención, de evitación o de reparación de daños medioambientales, podrá recuperarlos ejerciendo las acciones de repetición frente a terceros a que se refiere el artículo 16 o reclamando la responsabilidad patrimonial de las Administraciones públicas a cuyo servicio se encuentre la autoridad pública que impartió la orden o la instrucción.
 
 Igualmente, la autoridad competente podrá exigir al tercero que sufrague los costes de las medidas que se hayan adoptado.
 
-2. En los supuestos previstos en el artículo 14.2, el operador tendrá derecho a recuperar los costes imputables a las medidas de reparación de daños medioambientales en los términos establecidos en la normativa autonómica, salvo lo dispuesto en el artículo 34.
+En los supuestos previstos en el artículo 14.2, el operador tendrá derecho a recuperar los costes imputables a las medidas de reparación de daños medioambientales en los términos establecidos en la normativa autonómica, salvo lo dispuesto en el artículo 34.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 19: #a16]
 
 ##### Artículo 16. Acciones frente a terceros.
 
-1. El operador que hubiera adoptado medidas de prevención, de evitación de nuevos daños o de reparación podrá ejercer acciones de repetición contra cualesquiera otras personas que, al amparo de ésta o de cualquier otra norma, sean causantes o responsables, con o sin culpa, del daño medioambiental o de la amenaza de daño medioambiental que haya motivado la adopción de aquellas medidas.
+El operador que hubiera adoptado medidas de prevención, de evitación de nuevos daños o de reparación podrá ejercer acciones de repetición contra cualesquiera otras personas que, al amparo de ésta o de cualquier otra norma, sean causantes o responsables, con o sin culpa, del daño medioambiental o de la amenaza de daño medioambiental que haya motivado la adopción de aquellas medidas.
 
-2. Cuando el daño o la amenaza de daño sean causados por el uso de un producto, el operador podrá reclamar al fabricante, al importador o al suministrador el importe de los costes en que haya incurrido, siempre y cuando el operador se haya ajustado estrictamente en el desarrollo de su actividad a las condiciones establecidas para el uso del producto y a la normativa vigente en el momento de producirse la emisión o el hecho causante del daño medioambiental.
-
+Cuando el daño o la amenaza de daño sean causados por el uso de un producto, el operador podrá reclamar al fabricante, al importador o al suministrador el importe de los costes en que haya incurrido, siempre y cuando el operador se haya ajustado estrictamente en el desarrollo de su actividad a las condiciones establecidas para el uso del producto y a la normativa vigente en el momento de producirse la emisión o el hecho causante del daño medioambiental.
 
 
 ##### Prevención, evitación y reparación de daños medioambientales
@@ -191,13 +149,13 @@ Aparece en el capítulo III
 
 ##### Artículo 17. Obligaciones del operador en materia de prevención y de evitación de nuevos daños.
 
-1. Ante una amenaza inminente de daños medioambientales originada por cualquier actividad económica o profesional, el operador de dicha actividad tiene el deber de adoptar sin demora y sin necesidad de advertencia, de requerimiento o de acto administrativo previo las medidas preventivas apropiadas.
+Ante una amenaza inminente de daños medioambientales originada por cualquier actividad económica o profesional, el operador de dicha actividad tiene el deber de adoptar sin demora y sin necesidad de advertencia, de requerimiento o de acto administrativo previo las medidas preventivas apropiadas.
 
-2. Asimismo, cuando se hayan producido daños medioambientales causados por cualquier actividad económica o profesional, el operador de tal actividad tiene el deber de adoptar en los mismos términos las medidas apropiadas de evitación de nuevos daños, con independencia de que esté o no sujeto a la obligación de adoptar medidas de reparación por aplicación de lo dispuesto en esta ley.
+Asimismo, cuando se hayan producido daños medioambientales causados por cualquier actividad económica o profesional, el operador de tal actividad tiene el deber de adoptar en los mismos términos las medidas apropiadas de evitación de nuevos daños, con independencia de que esté o no sujeto a la obligación de adoptar medidas de reparación por aplicación de lo dispuesto en esta ley.
 
-3. Para la determinación de las medidas de prevención y de evitación de nuevos daños se atenderá, en la medida de lo posible, a los criterios establecidos en el punto 1.3 del anexo II, sin perjuicio de los criterios adicionales que con el mismo objetivo establezcan las comunidades autónomas.
+Para la determinación de las medidas de prevención y de evitación de nuevos daños se atenderá, en la medida de lo posible, a los criterios establecidos en el punto 1.3 del anexo II, sin perjuicio de los criterios adicionales que con el mismo objetivo establezcan las comunidades autónomas.
 
-4. Los operadores pondrán en conocimiento inmediato de la autoridad competente todos los aspectos relativos a los daños medioambientales o a la amenaza de tales daños, según lo dispuesto en el artículo 9.2, así como las medidas de prevención y evitación adoptadas.
+Los operadores pondrán en conocimiento inmediato de la autoridad competente todos los aspectos relativos a los daños medioambientales o a la amenaza de tales daños, según lo dispuesto en el artículo 9.2, así como las medidas de prevención y evitación adoptadas.
 
 De no desaparecer la amenaza de daño a pesar de haberse adoptado las medidas de prevención o de evitación de nuevos daños, el operador lo pondrá en conocimiento inmediato de la autoridad competente.
 
@@ -211,17 +169,12 @@ Las autoridades competentes adoptarán medidas para impulsar la realización vol
 
 La autoridad competente, cuando considere que existe amenaza de daños o de producción de nuevos daños, podrá adoptar en cualquier momento y mediante resolución motivada dictada de conformidad con lo establecido en el capítulo VI, cualquiera de las siguientes decisiones:
 
-a) Exigir al operador que facilite información sobre toda amenaza inminente de producción de daño medioambiental cuando existan indicios de que va a producirse.
-
-b) Exigir al operador que adopte inmediatamente las medidas encaminadas a prevenir y a evitar tales daños y requerir su cumplimiento.
-
-c) Dar al operador instrucciones de obligado cumplimiento sobre las medidas de prevención o de evitación de nuevos daños que deba adoptar o, en su caso, dejar sin efecto.
-
-d) Ejecutar a costa del sujeto responsable las medidas de prevención o de evitación cuando concurran las circunstancias previstas en los artículos 23 y 47.
+- a) Exigir al operador que facilite información sobre toda amenaza inminente de producción de daño medioambiental cuando existan indicios de que va a producirse.
+- b) Exigir al operador que adopte inmediatamente las medidas encaminadas a prevenir y a evitar tales daños y requerir su cumplimiento.
+- c) Dar al operador instrucciones de obligado cumplimiento sobre las medidas de prevención o de evitación de nuevos daños que deba adoptar o, en su caso, dejar sin efecto.
+- d) Ejecutar a costa del sujeto responsable las medidas de prevención o de evitación cuando concurran las circunstancias previstas en los artículos 23 y 47.
 
 #### Sección 2.ª Reparación de daños medioambientales
-
-
 
 ##### Artículo 19. Obligaciones del operador en materia de reparación.
 
@@ -234,7 +187,7 @@ En todo caso, quedan obligados a la adopción de medidas de reparación los oper
 
 ##### Artículo 20. Medidas de reparación.
 
-1. De conformidad con lo dispuesto en el artículo 19, cuando se hayan producido daños medioambientales, el operador, sin demora y sin necesidad de advertencia, de requerimiento o de acto administrativo previo:
+ De conformidad con lo dispuesto en el artículo 19, cuando se hayan producido daños medioambientales, el operador, sin demora y sin necesidad de advertencia, de requerimiento o de acto administrativo previo:
 
 a) Adoptará todas aquellas medidas provisionales necesarias para, de forma inmediata, reparar, restaurar o reemplazar los recursos naturales y servicios de recursos naturales dañados, de acuerdo con los criterios previstos en el anexo II, sin perjuicio de los criterios adicionales que con el mismo objetivo establezcan las comunidades autónomas. Asimismo, informará a la autoridad competente de las medidas adoptadas.
 
@@ -267,12 +220,6 @@ e) Ejecutar a costa del sujeto responsable las medidas reparadoras cuando concur
 
 #### Sección 3.ª Disposiciones comunes
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 30: #a22]
-
 ##### Artículo 22. Incumplimiento de las obligaciones de prevención, de evitación o de reparación del daño medioambiental.
 
 1. La autoridad competente velará para que el operador adopte las medidas de prevención, de evitación o de reparación de los daños medioambientales, así como para que observe las demás obligaciones establecidas en esta ley, en los términos en ella previstos.
@@ -283,31 +230,21 @@ Para ello ejercerá las potestades que le atribuyen ésta y cualquier otra norma
 
 3. Lo dispuesto en el apartado anterior se entiende sin perjuicio de la aplicación del régimen sancionador que corresponda como consecuencia del referido incumplimiento.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 31: #a23]
-
 ##### Artículo 23. Actuación directa de la Administración.
 
 1. Por requerirlo la más eficaz protección de los recursos naturales, y de los servicios que éstos prestan, la autoridad competente podrá acordar y ejecutar por sí misma las medidas de prevención, de evitación de nuevos daños o de reparación previstas en esta ley, atendiendo, entre otras, a las siguientes circunstancias:
 
-a) Que no se haya podido identificar al operador responsable y no quepa esperar a ello sin peligro de que se produzcan daños medioambientales.
+- a) Que no se haya podido identificar al operador responsable y no quepa esperar a ello sin peligro de que se produzcan daños medioambientales.
+- b) Que haya diversos operadores responsables y no sea posible una distribución eficaz en el tiempo y en el espacio que garantice la correcta ejecución de las medidas.
+- ) Que se requieran estudios, conocimientos o medios técnicos que así lo aconsejen
+- d) Que sean necesarias actuaciones en bienes de las Administraciones públicas o en los de propiedad privada de terceros que hagan difícil o inconveniente su realización por el operador responsable.
+- ) Que la gravedad y la trascendencia del daño así lo exijan.
 
-b) Que haya diversos operadores responsables y no sea posible una distribución eficaz en el tiempo y en el espacio que garantice la correcta ejecución de las medidas.
-
-c) Que se requieran estudios, conocimientos o medios técnicos que así lo aconsejen.
-
-d) Que sean necesarias actuaciones en bienes de las Administraciones públicas o en los de propiedad privada de terceros que hagan difícil o inconveniente su realización por el operador responsable.
-
-e) Que la gravedad y la trascendencia del daño así lo exijan.
-
-2. En casos de emergencia, la autoridad competente podrá actuar sin necesidad de tramitar el procedimiento previsto en esta ley para fijar las medidas reparadoras, de evitación o de prevención de los daños medioambientales o para exigir su adopción.
+En casos de emergencia, la autoridad competente podrá actuar sin necesidad de tramitar el procedimiento previsto en esta ley para fijar las medidas reparadoras, de evitación o de prevención de los daños medioambientales o para exigir su adopción.
 
 Una vez desaparecidas tales circunstancias, la autoridad competente, previa la instrucción del correspondiente procedimiento, dictará resolución fijando el importe de los costes de las medidas ejecutadas en aplicación de este artículo y el obligado u obligados a satisfacerlos, la cual será susceptible de ejecución forzosa.
 
-3. La autoridad competente recuperará del operador o, cuando proceda, del tercero que haya causado el daño o la amenaza inminente de daño, los costes en que haya incurrido por la adopción de tales medidas de prevención, de evitación de nuevos daños o de reparación.
+La autoridad competente recuperará del operador o, cuando proceda, del tercero que haya causado el daño o la amenaza inminente de daño, los costes en que haya incurrido por la adopción de tales medidas de prevención, de evitación de nuevos daños o de reparación.
 
 No obstante, la autoridad competente podrá acordar no recuperar los costes íntegros cuando los gastos necesarios para hacerlo sean superiores al importe recuperable. Para tomar este acuerdo será necesaria la elaboración de una memoria económica que así lo justifique.
 
@@ -318,12 +255,6 @@ Las garantías financieras aparecen en el capítulo IV:
 
 #### Sección 1.ª Garantía financiera obligatoria
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 34: #a24]
-
 ##### Artículo 24. Constitución de una garantía financiera obligatoria.
 
 1. Los operadores de las actividades incluidas en el anexo III, sin perjuicio de las exenciones previstas en el artículo 28, deberán disponer de una garantía financiera que les permita hacer frente a la responsabilidad medioambiental inherente a la actividad que pretendan desarrollar. Para el resto de operadores, la constitución de la garantía financiera tendrá carácter voluntario.
@@ -332,59 +263,25 @@ Las garantías financieras aparecen en el capítulo IV:
 
 3. Los operadores deberán comunicar a la autoridad competente la constitución de la garantía financiera a la que vengan obligados de acuerdo con el apartado primero de este artículo. La fijación de la cuantía de esta garantía partirá del análisis de riesgos medioambientales de la actividad, o de las tablas de baremos, que se realizarán de acuerdo a la metodología que reglamentariamente se establezca por el Gobierno. La autoridad competente establecerá los correspondientes sistemas de control que le permitan comprobar el cumplimiento de estas obligaciones.
 
-> Se modifica por el art. único.5 de la Ley 11/2014, de 3 de julio. [Ref. BOE-A-2014-7009](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7009 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 35: #a25]
-
 ##### Artículo 25. Responsabilidad cubierta por la garantía.
 
 1. La cuantía garantizada estará destinada específica y exclusivamente a cubrir las responsabilidades medioambientales del operador que se deriven de su actividad económica o profesional.
 
 2. La garantía regulada en esta sección será ajena e independiente de la cobertura de cualquier otra responsabilidad, ya sea penal, civil, administrativa o de otros hechos cualesquiera y, en consecuencia, no quedará reducida o agotada por gastos, reclamaciones o exigencias no relacionadas con dichas responsabilidades medioambientales, ni podrá aplicarse a ningún fin distinto del que ha justificado su constitución. Asimismo, la cuantía garantizada será independiente de la que pueda respaldar actividades que sean objeto de autorizaciones diferentes, otorgadas tanto por la autoridad medioambiental como por otras. Tampoco podrán ser objeto de pignoración o hipoteca, total o parcial.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 36: #a26]
-
 ##### Artículo 26. Modalidades.
 
 La garantía financiera podrá constituirse a través de cualquiera de las siguientes modalidades, que podrán ser alternativas o complementarias entre sí, tanto en su cuantía, como en los hechos garantizados:
 
-a) Una póliza de seguro que se ajuste a la [Ley 50/1980, de 8 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501 "Abre nueva ventana"), de Contrato de Seguro, suscrita con una entidad aseguradora autorizada para operar en España. En este caso, corresponderán al Consorcio de Compensación de Seguros las funciones a que se refiere el artículo 33.
-
-b) La obtención de un aval, concedido por alguna entidad financiera autorizada a operar en España.
-
-c) La constitución de una reserva técnica mediante la dotación de un fondo «ad hoc» con materialización en inversiones financieras respaldadas por el sector público.
+- Póliza de seguro que se ajuste a la [Ley 50/1980, de 8 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501 "Abre nueva ventana"), de Contrato de Seguro, suscrita con una entidad aseguradora autorizada para operar en España. En este caso, corresponderán al Consorcio de Compensación de Seguros las funciones a que se refiere el artículo 33
+- b) La obtención de un aval, concedido por alguna entidad financiera autorizada a operar en España
+- c) La constitución de una reserva técnica mediante la dotación de un fondo «ad hoc» con materialización en inversiones financieras respaldadas por el sector público.
 
 La garantía financiera que se suscriba podrá contemplar las condiciones limitativas o delimitativas del daño previstas en este capítulo u otras que reglamentariamente se determinen.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 37: #a27]
 
 ##### Artículo 27. Sujetos garantizados.
 
 Tendrá la consideración de sujeto garantizado el operador de la actividad económica o profesional, pudiendo asimismo figurar como sujetos garantizados adicionales los subcontratistas, los profesionales que colaboren con dicho operador en la realización de la actividad autorizada y la persona o entidad titular de las instalaciones en las que se realice la actividad.
-
-> Se modifica por el art. único.6 de la Ley 11/2014, de 3 de julio. [Ref. BOE-A-2014-7009](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7009 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 38: #a28]
 
 ##### Artículo 28. Exenciones de constitución de garantía financiera obligatoria.
 
@@ -398,18 +295,6 @@ c) La utilización de los productos fitosanitarios y biocidas a los que se refie
 
 d) Los operadores de las actividades que se establezcan reglamentariamente atendiendo a su escaso potencial de generar daños medioambientales y bajo nivel de accidentalidad, quedando igualmente exentos de efectuar la comunicación prevista en el artículo 24.3.
 
-> Se modifica por el art. único.7 de la Ley 11/2014, de 3 de julio. [Ref. BOE-A-2014-7009](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7009 "Abre nueva ventana").
-> 
-> Se añade el apartado d) por el art. 32.1 del Real Decreto-Ley 8/2011, de 1 de julio. [Ref. BOE-A-2011-11641](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11641 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 39: #a29]
-
 ##### Artículo 29. Costes cubiertos.
 
 El contenido de la garantía que se preste a través de las modalidades contempladas en el artículo 26 deberá contemplar la cobertura de los siguientes costes:
@@ -418,51 +303,17 @@ a) Los derivados de las obligaciones del operador reguladas en el artículo 17.
 
 b) Los derivados de las obligaciones del operador reguladas en los artículos 19 y 20. En la medida que dichos daños afecten a las aguas, a las especies silvestres y a sus hábitats o a las riberas del mar y de las rías, los gastos garantizados se limitan a los encuadrados dentro del concepto de «reparación primaria» definido en el apartado 1.a) del anexo II.
 
-> Se modifican los apartados a) y b) por el art. 32.2 del Real Decreto-Ley 8/2011, de 1 de julio. [Ref. BOE-A-2011-11641](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11641 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 40: #a30]
-
 ##### Artículo 30. Límites cuantitativos de la garantía.
 
 1. La cobertura de la garantía financiera obligatoria nunca será superior a 20.000.000 de euros. En cualquier caso, la constitución de esta garantía por la cobertura máxima no exime a los operadores de comunicar la constitución de dicha garantía financiera a la autoridad competente conforme al procedimiento previsto en el artículo 24.3.
 
 2. El Ministerio de Agricultura, Alimentación y Medio Ambiente, oída la Dirección General de Seguros y Fondos de Pensiones, podrá promulgar disposiciones por las que se regule el contenido mínimo y las limitaciones que serán admisibles, tales como sublímites, exclusiones o franquicias a cargo del titular de la actividad, de forma que se conjuguen adecuadamente el interés de las administraciones públicas en que los titulares de las actividades sometidas a la obligación cuenten con suficiente cobertura para todos los aspectos posibles de su responsabilidad medioambiental, con la oferta de garantías disponible en cada momento en los mercados financieros.
 
-> Se modifica por el art. único.8 de la Ley 11/2014, de 3 de julio. [Ref. BOE-A-2014-7009](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7009 "Abre nueva ventana").
-> 
-> Se modifica el apartado 1 por el art. 32.3 del Real Decreto-Ley 8/2011, de 1 de julio. [Ref. BOE-A-2011-11641](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11641 "Abre nueva ventana").
-> 
-> Redactado conforme a la corrección de errores publicada en BOE núm. 167, de 13 de julio de 2011. [Ref. BOE-A-2011-12067](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12067 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 41: #a31]
-
 ##### Artículo 31. Vigencia de la garantía.
 
 1. La garantía deberá quedar constituida de modo que, desde la fecha de efectividad de su exigencia, que se fijará reglamentariamente, queden cubiertos por ella todos los eventos causantes de daño medioambiental que se inicien después de dicha fecha. El operador deberá mantener la garantía en vigor durante todo el periodo de actividad y hasta su cese efectivo. La autoridad competente establecerá los correspondientes sistemas de control que permitan constatar la vigencia de tales garantías, a cuyo efecto las entidades aseguradoras, las entidades financieras y los propios operadores deberán proporcionar a la autoridad competente la información necesaria.
 
 2. El agotamiento de las garantías o su reducción en más de un 50 por ciento determinará la obligación del operador de reponerlas en un plazo de seis meses desde la fecha en la que se conozca o sea estimado con un grado de certidumbre razonable el importe de la obligación garantizada.
-
-> Se modifica el apartado 1 por el art. único.9 de la Ley 11/2014, de 3 de julio. [Ref. BOE-A-2014-7009](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7009 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 42: #a32]
 
 ##### Artículo 32. Limitaciones del ámbito temporal de la garantía.
 
@@ -490,51 +341,26 @@ f) Por abandono o falta prolongada de uso de instalaciones, sin tomar las medida
 
 g) Como consecuencia de alborotos populares, motines, huelgas, disturbios internos, sabotaje y actos de terrorismo o de bandas armadas.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 43: #a33]
-
 ##### Artículo 33. Fondo de compensación de daños medioambientales del Consorcio de Compensación de Seguros.
 
-1. El Consorcio de Compensación de Seguros administrará y gestionará de forma independiente financiera y contablemente respecto del resto de las actividades que realiza, un Fondo de compensación de daños medioambientales que se constituirá con las aportaciones de los operadores que contraten un seguro para garantizar su responsabilidad medioambiental, mediante un recargo sobre la prima de dicho seguro.
+El Consorcio de Compensación de Seguros administrará y gestionará de forma independiente financiera y contablemente respecto del resto de las actividades que realiza, un Fondo de compensación de daños medioambientales que se constituirá con las aportaciones de los operadores que contraten un seguro para garantizar su responsabilidad medioambiental, mediante un recargo sobre la prima de dicho seguro.
 
 El Fondo estará destinado a prolongar la cobertura del mismo para las responsabilidades aseguradas en la póliza original, y en sus mismos términos, por aquellos daños que, habiendo sido causados por las actividades autorizadas durante el periodo de vigencia del seguro, se manifiesten o reclamen después del transcurso de los plazos de manifestación o reclamación admitidos en la póliza, y se reclamen en el transcurso, como máximo, de un número de años igual a aquel durante el cual estuvo vigente la póliza de seguro, contados desde que ésta terminó y con el límite de 30 años.
 
-2. Las responsabilidades del Fondo se corresponderán en cada caso con los importes que, según cada tipo de actividad, hayan sido determinadas de conformidad con lo previsto en el artículo 24 y quedarán limitadas, además, al importe total constituido en el mismo.
+Las responsabilidades del Fondo se corresponderán en cada caso con los importes que, según cada tipo de actividad, hayan sido determinadas de conformidad con lo previsto en el artículo 24 y quedarán limitadas, además, al importe total constituido en el mismo.
 
-> Se modifica por el art. único.10 de la Ley 11/2014, de 3 de julio. [Ref. BOE-A-2014-7009](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7009 "Abre nueva ventana").
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 44: #s2-2]
 
 #### Sección 2.ª Fondo estatal de reparación de daños medioambientales
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 45: #a34]
-
 ##### Artículo 34. Fondo estatal de reparación de daños medioambientales.
 
-1. Se crea un Fondo estatal de reparación de daños medioambientales destinado a sufragar los costes derivados de medidas de prevención, de evitación o de reparación de los bienes de dominio público de titularidad estatal cuando sea de aplicación lo dispuesto en el artículo 7.3, en conexión con los artículos 14.2 y 15.2.
+Se crea un Fondo estatal de reparación de daños medioambientales destinado a sufragar los costes derivados de medidas de prevención, de evitación o de reparación de los bienes de dominio público de titularidad estatal cuando sea de aplicación lo dispuesto en el artículo 7.3, en conexión con los artículos 14.2 y 15.2.
 
 Dicho Fondo será gestionado por el Ministerio de Medio Ambiente y se dotará con recursos procedentes de los Presupuestos Generales del Estado.
 
-2. Las comunidades autónomas podrán participar en la financiación y gestión del Fondo estatal de reparación de daños medioambientales, a través de cualquiera de los instrumentos de colaboración previstos en el [título I de la Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#ti "Abre nueva ventana"), de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Las comunidades autónomas podrán participar en la financiación y gestión del Fondo estatal de reparación de daños medioambientales, a través de cualquiera de los instrumentos de colaboración previstos en el [título I de la Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#ti "Abre nueva ventana"), de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
 En tales supuestos, el ámbito de cobertura de dicho Fondo podrá ampliarse a otros daños medioambientales, en los términos que prevean los referidos instrumentos de colaboración.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
 
 
 ##### Infracciones y sanciones
@@ -544,12 +370,6 @@ Las infracciones y sanciones aparecen en el capítulo V
 ##### Artículo 35. Sujetos responsables de las infracciones.
 
 Podrán ser sancionadas por los hechos constitutivos de las infracciones administrativas reguladas en este capítulo las personas físicas y jurídicas privadas que sean operadores de actividades económicas o profesionales y que resulten responsables de los mismos.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 48: #a36]
 
 ##### Artículo 36. Infracciones.
 
@@ -563,15 +383,12 @@ De no haberse estimado la existencia de delito o de falta, el Ministerio Fiscal 
 
 4. La tramitación de un procedimiento sancionador por las infracciones reguladas en este capítulo no postergará la exigencia de las obligaciones de adopción de medidas de prevención, de evitación de nuevos daños o de reparación previstas en esta ley, que serán independientes de la sanción que, en su caso, se imponga.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 49: #a37]
-
 ##### Artículo 37. Clasificación de las infracciones.
 
-1. Las infracciones tipificadas en esta ley se clasifican en muy graves y en graves.
+Las infracciones tipificadas en esta ley se clasifican en muy graves y en graves.
+
+
+
 
 2. Son muy graves las siguientes infracciones:
 
@@ -605,15 +422,11 @@ g) No prestar el operador afectado la asistencia que le fuera requerida por la a
 
 h) La omisión, la resistencia o la obstrucción de aquellas actuaciones que fueren de obligado cumplimiento, de acuerdo con lo previsto en esta ley.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 50: #a38]
-
 ##### Artículo 38. Sanciones.
 
 1. Las infracciones tipificadas en el artículo 37 darán lugar a la imposición de todas o algunas de las siguientes sanciones:
+
+
 
 a) En el caso de infracción muy grave:
 
@@ -631,21 +444,9 @@ b) En el caso de las infracciones graves:
 
 3. Anualmente las autoridades competentes darán a conocer, una vez firmes, las sanciones impuestas por las infracciones cometidas de la ley, los hechos constitutivos de tales infracciones, así como la identidad de los operadores responsables.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 51: #a39]
-
 ##### Artículo 39. Graduación de sanciones.
 
 En la imposición de sanciones las Administraciones públicas deberán guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, considerando a tal efecto los criterios establecidos en el [artículo 131 de la Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a131 "Abre nueva ventana").
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475&p=20210428&tn=1#top)
-
----
-
-[Bloque 52: #a40]
 
 ##### Artículo 40. Prescripción de infracciones y de sanciones.
 

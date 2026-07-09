@@ -31,11 +31,6 @@ Las competencias administrativas se determinan por legislación autonómica, con
 
 Respecto a la distribución, se atenderá a la legislación autonómica. El organismo predominante es el Ayuntamiento. Cuando excede un mapa de ruido exceda de un término municipal, lo hará la Comunidad Autónoma. Y en caso de las infraestructuras viarias, ferroviarias, aeroportuarias, y portuarias de competencia estatal, lo realizará el Estado (salvo para la delimitación de las áreas acústicas de un mapa de ruido). 
 
-
-
-
-
-
 #### Instrumentos y herramientas de planificación
 
 Los instrumentos y herramientas de planificación incluyen las siguientes ([sección 2ª del capítulo III de la Ley](https://www.boe.es/buscar/act.php?id=BOE-A-2003-20976&p=20110707&tn=1#s2-2)): 
@@ -67,63 +62,42 @@ En la Comunidad Valenciana se ha establecido la [Ley 7/2022](https://dogv.gva.es
 | *Anexos*                                         | *- I. Definiciones*<br>**- II. Niveles sonoros**<br>**- III. Niveles de vibraciones**                                                                                                                                                                                                                                                  |
 
 
-
 #### Disposiciones generales
 
 
+El objeto es prevenir, vigilar y corregir la contaminación acústica en el ámbito de la Comunitat Valenciana (para proteger la salud de sus ciudadanos y mejorar la calidad de su medio ambiente).
 
-**Artículo 1. Objeto**
+Se entiende por contaminación acústica o ruido ambiental: "los sonidos y las vibraciones no deseados o nocivos generados por la actividad humana".
 
-La presente ley tiene por objeto prevenir, vigilar y corregir la contaminación acústica en el ámbito de la Comunitat Valenciana para proteger la salud de sus ciudadanos y mejorar la calidad de su medio ambiente.
+- **Actividades, comportamientos, instalaciones, medios de transporte y máquinas** (por su funcionamiento, uso o ejercicio)
 
-**Artículo 2. Concepto**
+- **Elementos constructivos y ornamentales** (en tanto contribuyan a la transmisión de ruidos y vibraciones producidos en su entorno).
 
-Se entiende por contaminación acústica o ruido ambiental, a los efectos de la presente ley, los sonidos y las vibraciones no deseados o nocivos generados por la actividad humana.
+La Generalitat y las administraciones locales ejercerán de forma coordinada sus competencias. La Generalitat y las diputaciones provinciales prestarán colaboración técnica y financiera a los municipios.
 
-**Artículo 3. Ámbito de aplicación**
+*En defecto de atribución expresa, la competencia será de la Conselleria competente en medio ambiente.*
 
-La presente ley será de aplicación en la Comunitat Valenciana a las actividades, comportamientos, instalaciones, medios de transporte y máquinas que en su funcionamiento, uso o ejercicio produzcan ruidos o vibraciones que puedan causar molestias a las personas, generar riesgos para su salud o bienestar o deteriorar la calidad del medio ambiente.
+Los ayuntamientos podrán desarrollar las prescripciones mediante ordenanzas municipales. El Plan Acústico de Acción Autonómica establecerá modelos de regulación orientativos para éstas.
 
-Asimismo, quedan sometidos a las prescripciones establecidas en la presente ley todos los elementos constructivos y ornamentales en tanto contribuyan a la transmisión de ruidos y vibraciones producidos en su entorno.
+La acción de la Generalitat y de las administraciones locales se basará en el ejercicio coordinado de sus competencias, conforme a los principios de prevención, reducción y corrección (por este orden). Los poderes públicos adoptarán las medidas necesarias para:
 
-**Artículo 4. Competencias administrativas**
+- **Investigación**: a) Promover la investigación en técnicas de medida, análisis, evaluación y minimización del ruido, para lo cual la Generalitat incluirá estas actuaciones en el programa del Centro de Tecnologías Limpias.
 
-1. La Generalitat y las administraciones locales ejercerán de forma coordinada las competencias que respectivamente les atribuye la presente ley. A fin de garantizar la eficacia en la aplicación, la Generalitat y las diputaciones provinciales prestarán colaboración técnica y financiera a los municipios.
-    
-2. En defecto de atribución expresa, la competencia será de la conselleria competente en medio ambiente.
-    
+- **Mejores técnicas disponibles**: b) Fomentar la implantación de maquinaria, instalaciones y aparatos que generen el menor impacto acústico, mediante el empleo de la mejor tecnología disponible y económicamente viable.
 
-**Artículo 5. Ordenanzas municipales**
+- **Certificaciones**: c) Controlar, a través de las correspondientes certificaciones técnicas, la implantación de los aislamientos acústicos necesarios para conseguir niveles de inmisión sonora admisibles.
 
-1. Los ayuntamientos podrán desarrollar las prescripciones contenidas en la presente ley y en sus desarrollos reglamentarios mediante las correspondientes ordenanzas municipales de protección contra la contaminación acústica.
-    
-2. El Plan Acústico de Acción Autonómica establecerá, a fin de facilitar la elaboración y la homogeneidad de las ordenanzas, modelos de regulación orientativos a incorporar en estas.
-    
+- **Planificación**: d) Elaborar y aplicar una planificación racional que tenga por objeto la ordenación acústica del municipio, distinguiendo las áreas que requieren una especial protección por la sensibilidad acústica de los usos que en ellas se desarrollan, de aquellas otras que estarán sujetas a una mayor intensidad sonora por las actividades que en las mismas se desarrollan.
 
-**Artículo 6. Principios de la actuación pública**
+- **Información**: e) Facilitar información sobre las consecuencias del ruido sobre la salud de las personas y sobre los usos y prácticas cotidianos que permitan disminuir los niveles acústicos.
 
-1. La acción de la Generalitat y de las administraciones locales se basará en el ejercicio coordinado de sus competencias conforme a los principios de prevención, reducción y corrección, por este orden.
-    
-2. Los poderes públicos adoptarán las medidas necesarias para:
-    
+- **Formación y educación ambiental**:f) Elaborar y desarrollar programas de formación y educación ambiental dirigidos a los ciudadanos en general y a los agentes sobre los que tiene mayor incidencia la contaminación acústica.
 
-a) Promover la investigación en técnicas de medida, análisis, evaluación y minimización del ruido, para lo cual la Generalitat incluirá estas actuaciones en el programa del Centro de Tecnologías Limpias.
+- **Diálogo y participación**: entre las Administraciones Públicas, los agentes económicos y sociales y los ciudadanos.
 
-b) Fomentar la implantación de maquinaria, instalaciones y aparatos que generen el menor impacto acústico, mediante el empleo de la mejor tecnología disponible y económicamente viable.
+- **Instrumentos económicos**: h) Desarrollar instrumentos económicos destinados a fomentar la implantación en las empresas de programas, procedimientos y tecnologías destinados a la prevención, reducción y control de sus emisiones sonoras.
 
-c) Controlar, a través de las correspondientes certificaciones técnicas, la implantación de los aislamientos acústicos necesarios para conseguir niveles de inmisión sonora admisibles.
-
-d) Elaborar y aplicar una planificación racional que tenga por objeto la ordenación acústica del municipio, distinguiendo las áreas que requieren una especial protección por la sensibilidad acústica de los usos que en ellas se desarrollan, de aquellas otras que estarán sujetas a una mayor intensidad sonora por las actividades que en las mismas se desarrollan.
-
-e) Facilitar información sobre las consecuencias del ruido sobre la salud de las personas y sobre los usos y prácticas cotidianos que permitan disminuir los niveles acústicos.
-
-f) Elaborar y desarrollar programas de formación y educación ambiental dirigidos a los ciudadanos en general y a los agentes sobre los que tiene mayor incidencia la contaminación acústica.
-
-g) Abrir vías de diálogo y participación entre las administraciones públicas, los agentes económicos y sociales y los ciudadanos.
-
-h) Desarrollar instrumentos económicos destinados a fomentar la implantación en las empresas de programas, procedimientos y tecnologías destinados a la prevención, reducción y control de sus emisiones sonoras.
-
-i) Adoptar las medidas necesarias, en el marco de la legislación específica, a fin de garantizar una buena calidad acústica de los espacios naturales protegidos de la Comunitat Valenciana.
+- **Medidas en espacios naturales**: i) Adoptar las medidas necesarias, en el marco de la legislación específica, a fin de garantizar una buena calidad acústica de los espacios naturales protegidos de la Comunitat Valenciana.
 
 
 #### Valoración del ruido y vibraciones y niveles de perturbación
@@ -132,20 +106,25 @@ Los parámetros de ruido y vibraciones quedan definidos en el Anexo I.
 
 Los horarios son los siguientes: 
 
+
+
+Los niveles de ruido se medirán y expresarán en decibelios con ponderación normalizada A (expresada como dB(A)). Reglamentariamente se determinarán los procedimientos de medición y evaluación de niveles sonoros, aislamientos acústicos, protección aportada a los ocupantes de inmuebles, niveles sonoros producidos por vehículos a motor y otros medios de transporte, y otros análogos.
+
+Las vibraciones se expresarán como aceleración de metros por segundo cada segundo (m/s²). En edificios, se medirá la aceleración eficaz de vibración mediante análisis en bandas de tercio de octava. Reglamentariamente se establecerá el procedimiento para el cálculo del índice K de molestia.
+
+Los parámetros de ruidos y vibraciones quedan definidos en el anexo I (los términos no indicados se interpretarán de acuerdo al Código Técnico de la Edificación: Ley de Ordenación de la Edificación, y en su defecto, las Normas Básicas de la Edificación: Condiciones Acústicas de la Edificación (NBE-CA-88), sus posibles modificaciones, las normas UNE-EN y, en su defecto, las normas ISO.
+
+Los horarios son los siguientes:
+
 |                                                                                        | Día   | Tarde  | Noche |
 | -------------------------------------------------------------------------------------- | ----- | ------ | ----- |
 | General                                                                                | 8-22h | //     | 22-8h |
 | Infraestructuras de transporte<br>(artículo 53)                                        | 7-19h | 19-23h | 23-7h |
 | Ayuntamientos de 150.000 a 200.000<br>con dinamización del espacio público tradicional | 7-23h |        | 23-7h |
 
-## CAPÍTULO I. Valoración del ruido y vibraciones
+REVISAR EL ORDEN
 
-
-Los niveles de ruido se medirán y expresarán en decibelios con ponderación normalizada A, que se expresará con las siglas dB(A). Reglamentariamente se determinarán los procedimientos de medición y evaluación de niveles sonoros, aislamientos acústicos, protección aportada a los ocupantes de inmuebles, niveles sonoros producidos por vehículos a motor y otros medios de transporte, y otros análogos.
-
-Las vibraciones se expresarán como aceleración de metros por segundo cada segundo (m / s^2). En edificios, se medirá la aceleración eficaz de vibración mediante análisis en bandas de tercio de octava. Reglamentariamente se establecerá el procedimiento para el cálculo del índice K de molestia.
-
-Los instrumentos de medida varían según el tipo de contaminación acústica. Se utilizarán los procedimientos establecidos reglamentariamente:
+Las mediciones se realizarán por los siguientes instrumentos (según procedimientos establecidos reglamentariamente):
 
 | Tipo de contaminación acústica | Instrumentos de medida                                                            |
 | ------------------------------ | --------------------------------------------------------------------------------- |
@@ -153,78 +132,22 @@ Los instrumentos de medida varían según el tipo de contaminación acústica. S
 | Vibraciones                    | - Acelerómetros<br>- Analizadores de frecuencia                                   |
 
 
-
-### Artículo 7. Definiciones
-
-1. A los efectos de esta ley, los parámetros de ruidos y vibraciones quedan definidos en el anexo I.
-    
-2. Los términos acústicos no indicados en el anexo I se interpretarán de conformidad con el Código Técnico de la Edificación previsto en la Ley de Ordenación de la Edificación. En ausencia del mismo se aplicarán las Normas Básicas de la Edificación: Condiciones Acústicas de la Edificación (NBE-CA-88), sus posibles modificaciones, las normas UNE-EN y, en su defecto, las normas ISO.
-    
-3. A los efectos de la presente ley, se entenderá por **«día»** u horario diurno el comprendido entre las 08:00 y las 22:00 horas, y por **«noche»** u horario nocturno cualquier intervalo comprendido entre las 22:00 y las 08:00 horas del día siguiente.
-    
-4. Se exceptúa a lo indicado en el apartado 3 el ruido producido por las infraestructuras de transporte definidas en el artículo 53. Para este emisor acústico se entenderá por **«día»** el periodo comprendido entre las 07:00 y las 19:00 horas, por **«tarde»** el periodo comprendido entre las 19:00 y las 23:00 horas y por **«noche»** el periodo comprendido entre las 23:00 y las 07:00 horas.
-    
-5. Los ayuntamientos de 150.000 a 200.000 habitantes también podrán exceptuar de lo indicado en el apartado 3 aquellos que, por su idiosincrasia, tengan una dinamización tradicional del espacio público. En estas zonas se entiende por **«día»** el plazo comprendido entre las 07:00 y las 23:00 horas y por **«noche»** el plazo comprendido entre las 23:00 y las 07:00 horas, de acuerdo con la Ley estatal 37/2003, de 17 de noviembre, del Ruido.
-    
-
-### Artículo 8. Medición y evaluación de ruidos
-
-1. Los niveles de ruido se medirán y expresarán en decibelios con ponderación normalizada A, que se expresará con las siglas **dB(A)**.
-    
-2. Reglamentariamente se determinarán los procedimientos de medición y evaluación de niveles sonoros, aislamientos acústicos, protección aportada a los ocupantes de inmuebles, niveles sonoros producidos por vehículos a motor y otros medios de transporte, y otros análogos.
-    
-
-### Artículo 9. Medición de vibraciones
-
-1. Para medir las vibraciones se utilizará como magnitud la aceleración y se expresará en metros por segundo al cuadrado (**m/s²**).
-    
-2. Para la evaluación de vibraciones en edificios se medirá la aceleración eficaz de vibración mediante análisis en bandas de tercio de octava. Reglamentariamente se establecerá el procedimiento para el cálculo del índice K de molestia.
-    
-
-### Artículo 10. Aparatos de medición
-
-1. Las mediciones de niveles sonoros se realizarán utilizando sonómetros, sonómetros integradores-promediadores y calibradores sonoros que cumplan con la normativa vigente reguladora del control metrológico del Estado sobre los instrumentos destinados a medir niveles de sonido audible.
-    
-2. Las mediciones de vibraciones se realizarán utilizando acelerómetros y analizadores de frecuencia, según los procedimientos establecidos reglamentariamente.
-
-
-
 ## CAPÍTULO II. Niveles de perturbación
-
-### Artículo 11. Normas generales
 
 Ninguna fuente sonora podrá emitir o transmitir niveles de ruido y vibraciones superiores a los límites establecidos en el presente título.
 
-### Artículo 12. Niveles sonoros en el ambiente exterior
+- **Ambiente exterior**: de acuerdo a la tabla 1 del Anexo II según el uso dominante de la zona (reglamentariamente se establecerá el procedimiento de evaluación), expresados como nivel sonoro continuo equivalente (LAeq,T), de acuerdo al uso predominante de cada zona.
 
-1. Ninguna actividad o instalación transmitirá al ambiente exterior niveles sonoros de recepción superiores a los indicados en la tabla 1 del anexo II en función del uso dominante de la zona. Reglamentariamente se establecerá el procedimiento de evaluación de estos niveles.
-    
-2. En el ambiente exterior será un objetivo de calidad que no se superen los niveles sonoros de recepción, expresados como nivel sonoro continuo equivalente **LAeq,T**, que, en función del uso dominante de cada zona, se establecen en la tabla 1 del anexo II.
-    
-3. En aquellos casos en que la zona de ubicación de la actividad o instalación no corresponda a ninguna de las establecidas en dicha tabla, se aplicará la más próxima por razones de analogía funcional o equivalente necesidad de protección acústica.
-    
-4. En aquellas zonas de uso dominante terciario en las que esté permitido el uso residencial, se aplicarán los niveles correspondientes a este último.
-    
+	*Si la zona no corresponde a ninguna de las establecidas en la tabla, se aplicará la más próxima por razones de analogía funcional o necesidad de protección acústica. En las zonas de uso dominante terciario en las que esté permitido el uso residencial, se aplicarán los niveles correspondientes a este último.*
 
-### Artículo 13. Niveles sonoros en el ambiente interior
+- **Ambiente interior**: ninguna actividad o instalación transmitirá al interior de los locales próximos o colindantes niveles sonoros superiores a los límites establecidos en la tabla 2 del anexo II (se aplicarán asimismo a los locales o usos no mencionados, atendiendo a razones de analogía funcional o de equivalente protección acústica).
 
-1. Ninguna actividad o instalación transmitirá al interior de los locales próximos o colindantes niveles sonoros superiores a los límites establecidos en la tabla 2 del anexo II.
-    
-2. Los niveles anteriores se aplicarán asimismo a los locales o usos no mencionados, atendiendo a razones de analogía funcional o de equivalente protección acústica.
-    
+- **Niveles de emisión sonora**: vienen limitados por los niveles de recepción establecidos en los artículos anteriores (además de por los supuestos de regulación específica: título IV).
 
-### Artículo 14. Niveles de emisión sonora
+- **Niveles de vibraciones**: las máquinas o dispositivos que puedan originar vibraciones en el interior de los edificios se efectuará adoptando los elementos antivibratorios adecuados, cuya efectividad deberá justificarse en los correspondientes proyectos. No se permitirán aquellos que sobrepasen los valores de K regulados para interior de los edificios (tabla 1 del Anexo III) 
 
-Con independencia de los supuestos establecidos en los ámbitos de regulación específica establecidos en el título IV, los niveles de emisión vienen limitados por los niveles de recepción establecidos en los artículos anteriores.
+    Se prohíbe el funcionamiento de elementos y actividades que transmitan vibraciones detectables directamente (sin instrumentos de medida), en el interior de edificios destinados a uso sanitario, docente o residencial.
 
-### Artículo 15. Niveles de vibraciones
-
-1. La instalación de máquinas o dispositivos que puedan originar vibraciones en el interior de los edificios se efectuará adoptando los elementos antivibratorios adecuados, cuya efectividad deberá justificarse en los correspondientes proyectos.
-    
-2. No se permitirá la instalación ni el funcionamiento de máquinas o dispositivos que originen en el interior de los edificios niveles de vibraciones con valores K superiores a los límites expresados en la tabla 1 del anexo III.
-    
-3. No obstante lo dispuesto en el apartado anterior, se prohíbe el funcionamiento de máquinas, equipos y demás actividades o instalaciones que transmitan vibraciones detectables directamente, sin necesidad de instrumentos de medida, en el interior de edificios destinados a uso sanitario, docente o residencial.
-    
 
 
 
@@ -245,10 +168,13 @@ HAY  MÁS
 
 La planificación tiene por objeto la identificación de los problemas y el establecimiento de las medidas preventivas y correctoras necesarias para mantener los niveles sonoros por debajo de los previstos en esta Ley. Los instrumentos de planificación y gestión acústica vincularán a todas las administraciones públicas y a ciudadanos de la Comunidad Valenciana. Son los siguientes: 
 
-- Plan Acústico de Acción Autonómica
-- Planes acústicos municipales
-- Ordenanzas municipales 
-- Declaración de Zonas Acústicamente Saturadas
+- **Plan Acústico de Acción Autonómica**: instrumento de coordinación de las actuaciones de las Administraciones contra el ruido, fomentar la adopción de medidas para su prevención y la reducción de las emisiones sonoras por encima de los máximos legalmente previstos, concienciar y formar a los ciudadanos y potenciar la investigación e implantación de nuevas tecnologías para conseguir la reducción o eliminación de la contaminación acústica
+
+- **Planes acústicos municipales**: permiten la identificación de sus áreas acústicas de acuerdo con su uso (existente o previsto) y condiciones acústicas, así como la adopción de medidas de mitigación de emisiones.
+
+- **Ordenanzas municipales**: permiten analizar los niveles de ruido en el término municipal y proporcionar información acerca de las fuentes sonoras causantes de la contaminación.
+
+- **Declaración de Zonas Acústicamente Saturadas**: aquellas que sobrepasen los niveles dos veces por semana durante 3 semanas consecutivas o 3 alternas en 35 días naturales, en más de de 20 dB(A) en el ambiente exterior (tabla 1 del anexo II) (utilizando LA,eq,1 en el periodo nocturno y LA,eq,14 en el diurno)
 
 
 El Plan Acústico de Acción Autonómica es el instrumento de coordinación de las actuaciones de las Administraciones contra el ruido, fomentar la adopción de medidas para su prevención y la reducción de las emisiones sonoras por encima de los máximos legalmente previstos, concienciar y formar a los ciudadanos y potenciar la investigación e implantación de nuevas tecnologías para conseguir la reducción o eliminación de la contaminación acústica. Elaborado por la Conselleria y aprobado por Acuerdo del Consell: 
@@ -294,7 +220,9 @@ contaminación acústica. Distinguirán entre zonas rústicas y urbanas, estable
 En cada zona y área contendrán los resultados de las mediciones y análisis de niveles de ruido, identificando las fuentes, y en concreto el ruido de tráfico (el principal emisor urbano), distinguiendo los niveles de intensidad por calles. Además, se realizará un diagnóstico de la situación general y para cada área. 
 
 
-Finalmente, las zonas acústicamente saturadas para aquellas que sobrepasen los niveles dos veces por semana durante 3 semanas consecutivas o 3 alternas en 35 días naturales, y en más de de 20 dB(A) respecto a los niveles de evaluación por ruidos en el ambiente exterior (tabla 1 del anexo II), utilizando LA,eq,1 en el periodo nocturno y LA,eq,14 en el diurno. El procedimiento es el siguiente: 
+ZONAS ACUSTICAMENTE SATURADAS
+
+El procedimiento es el siguiente: 
 
 1. **Proposición**: por el Ayuntamiento (de oficio o a solicitud de persona interesada)
 2. **Información pública**: período de 30 días, por anuncios en el Diari Oficial de la Generalitat Valenciana y en uno de los diarios de información general de mayor difusión en la provincia.
@@ -320,11 +248,6 @@ El [Decreto 266/2004](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2004/D_2004_266
 | Ámbitos de regulación específica       | - Edificación<br>- **Actividades comerciales, industriales, y de servicios: normas generales, y espectáculos, establecimientos públicos y actividades recreativas**<br>- Trabajos en vía pública en la edificación<br>- Sistemas de alarma y comportamiento de los ciudadanos: vehículos a motor, ruidos de infraestructuras de transporte* |
 | Anexos                                 | - I. Definiciones<br>- II. Medida y evaluación del nivel sonoro de actividades o instalaciones<br>- III. Medida y evaluación de vibraciones<br>- IV. Métodos y evaluación del aislamiento acústico                                                                                                                                          |
 
-
-
-32. ***Ley 7/2002, de la Generalitat Valenciana, de Protección Contra la Contaminación Acústica: Título I. Disposiciones generales, Título II Valoración de ruidos y vibraciones y niveles de perturbación y Título III Planes y programas acústicos. Ley 37/2003, de 17 de noviembre, del Ruido: competencias administrativas, instrumentos y herramientas de planificación de la contaminación acústica. Decreto 266/2004, de 3 de diciembre, del Consell de la Generalitat, por el que se establecen normas de prevención y corrección de la contaminación acústica en relación con actividades, instalaciones, edificaciones, obras y servicios: Capítulo II. Condiciones acústicas de las actividades comerciales, industriales y de servicios.***
-
-
 #### Condiciones acústicas de las actividades comerciales, industriales, y de servicios
 
 Las condiciones acústicas de las actividades comerciales, industriales, y de servicios (capítulo II del título III)
@@ -339,81 +262,65 @@ Las condiciones acústicas de las actividades comerciales, industriales, y de se
 
 **Artículo 16. Actividades colindantes con edificios de uso residencial**
 
-1. Los titulares de las actividades a las que se refiere el artículo 35 de la Ley 7/2002 que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial, además de respetar los límites establecidos en el mismo, están obligados a que los elementos constructivos y de insonorización de que se dote a los recintos en que se alojen actividades o instalaciones industriales, comerciales y de servicios, posean el aislamiento necesario para evitar que se superen los límites de transmisión al exterior o al interior de otras dependencias o locales, del ruido que se origine en su interior.
-    
-2. Conforme a lo establecido en los artículos 8.2 y 35.3 de la Ley 7/2002, el procedimiento de medición del aislamiento acústico DnT,w y las condiciones en que se podrá utilizar como parámetro de evaluación la diferencia de niveles Dw quedan establecidos en el anexo IV del presente decreto.
-    
+Los titulares de las actividades (artículo 35 de la Ley 7/2002) que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial, además de respetar los límites establecidos en el mismo, están obligados a que los elementos constructivos y de insonorización de que se dote a los recintos en que se alojen actividades o instalaciones industriales, comerciales y de servicios, posean el aislamiento necesario para evitar que se superen los límites de transmisión al exterior o al interior de otras dependencias o locales, del ruido que se origine en su interior.
 
-**Artículo 17. Estudios acústicos**
 
-3. El estudio acústico al que se refiere el artículo 36 de la Ley 7/2002 deberá ser firmado por técnico competente y se presentará en capítulo aparte, en el estudio de impacto ambiental, al solicitar la correspondiente licencia administrativa, o en la solicitud de autorización ambiental integrada o del instrumento de intervención ambiental que corresponda, según el tipo de actividad de que se trate.
-    
-4. En el estudio acústico se analizarán en detalle:
-    
+Conforme a lo establecido en los artículos 8.2 y 35.3 de la Ley 7/2002, 
 
-a) Nivel de ruido en el estado preoperacional, mediante la elaboración de un informe de los niveles sonoros expresados como LAeq,t en el ambiente exterior del entorno de la actividad, infraestructura o instalación, tanto en el periodo diurno como en el nocturno.
+El procedimiento de medición del aislamiento acústico (DnT,w) y las condiciones en que se podrá utilizar como parámetro de evaluación la diferencia de niveles (Dw) quedan establecidos en el anexo IV del presente decreto.
 
-b) Nivel de ruido estimado en el estado de explotación, mediante la predicción de los niveles sonoros en el ambiente exterior durante los periodos diurno y nocturno.
+El estudio acústico (artículo 36 de la Ley 7/2002) deberá ser firmado por técnico competente y se presentará en capítulo aparte, en el estudio de impacto ambiental, al solicitar la correspondiente licencia administrativa, o en la solicitud de autorización ambiental integrada o del instrumento de intervención ambiental que corresponda, según el tipo de actividad de que se trate.
 
-c) Evaluación de la influencia previsible de la actividad, mediante comparación del nivel acústico en los estados preoperacional y operacional, con los valores límite definidos en el presente reglamento para las zonas o áreas acústicas que sean aplicables.
+En el estudio acústico se analizarán en detalle:
 
-d) Definición de las medidas correctoras de la transmisión de ruidos o vibraciones a implantar en la nueva actividad, en caso de resultar necesarias como consecuencia de la evaluación efectuada, y previsión de los efectos esperados. A tal efecto, deberá tenerse en cuenta las prescripciones para prevenir la transmisión de vibraciones a las que se refiere el artículo 16 del presente decreto.
+- Nivel de ruido en el estado preoperacional, mediante la elaboración de un informe de los niveles sonoros expresados como LAeq,t en el ambiente exterior del entorno de la actividad, infraestructura o instalación, tanto en el periodo diurno como en el nocturno.
+- Nivel de ruido estimado en el estado de explotación, mediante la predicción de los niveles sonoros en el ambiente exterior durante los periodos diurno y nocturno.
+- Evaluación de la influencia previsible de la actividad, mediante comparación del nivel acústico en los estados preoperacional y operacional, con los valores límite definidos en el presente reglamento para las zonas o áreas acústicas que sean aplicables.
+- Definición de las medidas correctoras de la transmisión de ruidos o vibraciones a implantar en la nueva actividad, en caso de resultar necesarias como consecuencia de la evaluación efectuada, y previsión de los efectos esperados. A tal efecto, deberá tenerse en cuenta las prescripciones para prevenir la transmisión de vibraciones a las que se refiere el artículo 16 del presente decreto.
 
-5. En los proyectos de actividades se considerarán las posibles molestias por ruido que, por efectos indirectos, puedan ocasionarse en las inmediaciones de su implantación, con objeto de proponer y diseñar las medidas correctoras adecuadas para evitarlas o disminuirlas. A estos efectos, deberá prestarse especial atención a las actividades que generan tráfico elevado de vehículos, como almacenes, locales públicos y, especialmente, actividades previstas en zonas de elevada densidad de población o con calles estrechas de difícil maniobra y/o con escasos espacios de aparcamiento y aquellas que requieren operaciones de carga o descarga.
-    
+En los proyectos de actividades se considerarán las posibles molestias por ruido que, por efectos indirectos, puedan ocasionarse en las inmediaciones de su implantación, con objeto de proponer y diseñar las medidas correctoras adecuadas para evitarlas o disminuirlas. A estos efectos, deberá prestarse especial atención a las actividades que generan tráfico elevado de vehículos, como almacenes, locales públicos y, especialmente, actividades previstas en zonas de elevada densidad de población o con calles estrechas de difícil maniobra y/o con escasos espacios de aparcamiento y aquellas que requieren operaciones de carga o descarga.
+
 
 **Artículo 18. Auditorías acústicas**
 
-6. De acuerdo con lo establecido en el artículo 37 de la Ley 7/2002, será responsabilidad de los titulares de actividades susceptibles de generar ruidos y vibraciones llevar a cabo un control de las emisiones acústicas y de los niveles de recepción en el entorno, mediante la realización de auditorías acústicas, al inicio del ejercicio de la actividad o puesta en marcha y, al menos, cada cinco años o en un plazo inferior si así se estableciera en el procedimiento en que se evaluara el estudio acústico.
-    
-7. La auditoría acústica deberá ser realizada por una entidad colaboradora en materia de calidad ambiental para el campo de la contaminación acústica, de acuerdo con lo establecido en el Decreto 229/2004, de 15 de octubre, del Consell de la Generalitat, por el que se establecen las funciones de las entidades colaboradoras en materia de calidad ambiental y se crea y regula su registro. Finalizada la auditoría acústica, la entidad colaboradora remitirá informe de resultados al titular de la actividad y un certificado del estado general de la actividad respecto de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva.
-    
-8. Según el caso de estudio se realizarán las siguientes operaciones:
-    
+De acuerdo con lo establecido en el artículo 37 de la Ley 7/2002, será responsabilidad de los titulares de actividades susceptibles de generar ruidos y vibraciones llevar a cabo un control de las emisiones acústicas y de los niveles de recepción en el entorno, mediante la realización de auditorías acústicas, al inicio del ejercicio de la actividad o puesta en marcha y, al menos, cada cinco años o en un plazo inferior si así se estableciera en el procedimiento en que se evaluara el estudio acústico.
 
-a) Verificación de las condiciones de aislamiento de los elementos constructivos de actividades comerciales, industriales y de servicios que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial. Se deberá realizar en la primera auditoría y cuando se hayan llevado a cabo modificaciones que excedan de las obras de mera higiene, ornato o conservación en dichos elementos.
+La auditoría acústica deberá ser realizada por una entidad colaboradora en materia de calidad ambiental para el campo de la contaminación acústica (Decreto 229/2004). Finalizada la auditoría acústica, la entidad colaboradora remitirá informe de resultados al titular de la actividad y un certificado del estado general de la actividad respecto de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva.
 
-b) En el caso de detectarse diferencias con lo establecido en el proyecto o lo supervisado en auditorías anteriores, se deberá comprobar el cumplimiento de las condiciones acústicas requeridas en la Ley 7/2002 y en este decreto.
+Según el caso de estudio se realizarán las siguientes operaciones:
 
-c) Identificar y caracterizar los principales focos de ruido.
+- a) Verificación de las condiciones de aislamiento de los elementos constructivos de actividades comerciales, industriales y de servicios que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial. Se deberá realizar en la primera auditoría y cuando se hayan llevado a cabo modificaciones que excedan de las obras de mera higiene, ornato o conservación en dichos elementos.
+- b) En el caso de detectarse diferencias con lo establecido en el proyecto o lo supervisado en auditorías anteriores, se deberá comprobar el cumplimiento de las condiciones acústicas requeridas en la Ley 7/2002 y en este decreto.
+- c) Identificar y caracterizar los principales focos de ruido.
+- d) Comprobación del nivel sonoro en aquellos puntos donde se sitúen los receptores más cercanos. En el caso de instalaciones industriales se realizarán las medidas en el perímetro de su parcela.
+- e) Medición de los niveles de fondo con la industria o actividad parada, en las mismas condiciones (periodo, proximidad horaria, día laborable y otras) en que se realizaron las medidas con la actividad en funcionamiento.
+- f) Medición en el interior de las instalaciones si existe un límite de nivel de emisión sonora.
+- g) En su caso, el resultado y la efectividad de las medidas correctoras de la contaminación acústica adoptadas en la actividad o instalación.
 
-d) Comprobación del nivel sonoro en aquellos puntos donde se sitúen los receptores más cercanos. En el caso de instalaciones industriales se realizarán las medidas en el perímetro de su parcela.
+ Si en la auditoría acústica la entidad colaboradora detectase el incumplimiento de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva, esta estará obligada a ponerlo de inmediato en conocimiento del ayuntamiento, remitiéndole copia del correspondiente certificado desfavorable.
 
-e) Medición de los niveles de fondo con la industria o actividad parada, en las mismas condiciones (periodo, proximidad horaria, día laborable y otras) en que se realizaron las medidas con la actividad en funcionamiento.
+Los titulares de actividades susceptibles de generar ruidos y vibraciones deberán disponer del libro de control (artículo 37.3 de la Ley 7/2002), constituido por los certificados de los resultados obtenidos de las auditorías acústicas. Éste, junto con los informes de resultados, deberán estar a disposición de las Administraciones competentes. REVISAR POQUITO para comprobar
 
-f) Medición en el interior de las instalaciones si existe un límite de nivel de emisión sonora.
-
-g) En su caso, el resultado y la efectividad de las medidas correctoras de la contaminación acústica adoptadas en la actividad o instalación.
-
-9. Si en la auditoría acústica la entidad colaboradora detectase el incumplimiento de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva, esta estará obligada a ponerlo de inmediato en conocimiento del ayuntamiento, remitiéndole copia del correspondiente certificado desfavorable.
-    
-
-**Artículo 19. Libro de control**
-
-10. Los titulares de actividades susceptibles de generar ruidos y vibraciones deberán disponer del libro de control al que se refiere el artículo 37.3 de la Ley 7/2002.
-    
-11. El libro de control estará constituido por los certificados de los resultados obtenidos de las auditorías acústicas, que serán incorporados por el titular de la actividad.
-    
-12. El libro de control, así como los informes completos de los resultados, deberán estar a disposición de las administraciones competentes.
-    
 
 **Sección segunda. Normas adicionales para espectáculos, establecimientos públicos y actividades recreativas**
 
 **Artículo 20. Locales cerrados**
 
-13. En el proyecto presentado para obtener la licencia de actividad y funcionamiento de las actividades incluidas en esta sección, se deberá incluir el diseño del aislamiento acústico exigible a los elementos constructivos delimitadores del local conforme a lo establecido en el artículo 39 de la Ley 7/2002.
-    
-14. En aquellos locales en los que el nivel sonoro sea superior a 90 dB(A) deberá colocarse, en sus accesos, un aviso, en las dos lenguas oficiales de la Comunitat Valenciana, perfectamente visible y legible a una distancia de cinco metros, que diga:
-    
+En el proyecto presentado para obtener la licencia de actividad y funcionamiento de las actividades incluidas en esta sección, se deberá incluir el diseño del aislamiento acústico exigible a los elementos constructivos delimitadores del local conforme a lo establecido en el artículo 39 de la Ley 7/2002.
+
+En aquellos locales en los que el nivel sonoro sea superior a 90 dB(A) deberá colocarse, en sus accesos, un aviso, en las dos lenguas oficiales de la Comunitat Valenciana, perfectamente visible y legible a una distancia de cinco metros, que diga lo siguiente: 
 
 > "El nivel de ruido existente en este local puede ser perjudicial para su salud".
 
+
+
 **Artículo 21. Locales al aire libre**
 
-De acuerdo con lo establecido en el artículo 40 de la Ley 7/2002, de 3 de diciembre, de la Generalitat, de Protección contra la Contaminación Acústica, y sin perjuicio de lo establecido en la Ley 4/2003, de 26 de febrero, de la Generalitat, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos, los niveles máximos de potencia sonora que los locales al aire libre puedan producir según sus correspondientes licencias o autorizaciones municipales no deben transmitir en viviendas o locales contiguos o próximos niveles sonoros de recepción superiores a los establecidos en la referida ley, en cuyo caso la administración competente podrá acordar la suspensión temporal de la licencia o autorización.
+Los niveles máximos de potencia sonora que los locales al aire libre puedan producir no deben transmitir en viviendas o locales contiguos o próximos niveles sonoros de recepción superiores a los establecidos (artículo 40 de la Ley 7/2002, sin perjuicio de la Ley 4/2003), en cuyo caso la administración competente podrá acordar la suspensión temporal de la licencia o autorización.
 
-**Artículo 22. Efectos acumulativos**
 
-A los efectos de lo previsto en el artículo 41 de la Ley 7/2002, y para evitar los efectos acumulativos, la administración municipal, en zonas de uso dominante residencial o de uso sanitario y docente, y en cuanto a la implantación de actividades destinadas a discotecas, salas de fiesta, pubs, bares, restaurantes y similares que cuenten con ambientación musical, así como aquellas otras productoras de ruidos y vibraciones, fijará, mediante ordenanzas o planes acústicos municipales, las distancias mínimas que se deberán respetar.
+A los efectos de lo previsto en el artículo 41 de la Ley 7/2002, y para evitar los efectos acumulativos, 
+
+La administración municipal, en zonas de uso dominante residencial o de uso sanitario y docente, y en cuanto a la implantación de actividades destinadas a discotecas, salas de fiesta, pubs, bares, restaurantes y similares que cuenten con ambientación musical, así como aquellas otras productoras de ruidos y vibraciones, fijará, mediante ordenanzas o planes acústicos municipales, las distancias mínimas que se deberán respetar.
 
 
