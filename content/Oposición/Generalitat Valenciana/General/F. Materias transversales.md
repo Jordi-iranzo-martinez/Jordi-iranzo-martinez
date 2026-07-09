@@ -23,6 +23,20 @@ La [Ley Orgánica 3/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115)
 | Responsabilidad social empresarial           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Disposiciones organizativas                  | - **Comisión Interministerial de Igualdad entre mujeres y hombres**: coordinación de las políticas y medidas de la Administración General del Estado ([Real Decreto 1370/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18917)).<br><br>- **Unidades de Igualdad**: <br><br>- **Consejo de Participación de la Mujer**: consulta, asesoramiento e involucración de las mujeres ([Real Decreto 1791/2009](https://www.boe.es/buscar/act.php?id=BOE-A-2009-20160)).                                                                                                                                                                                                                                                                                               |
 
+#### Objeto y ámbito e aplicación
+
+
+
+
+
+#### El principio de igualdad y la tutela contra la discriminación
+
+
+
+
+#### Políticas públicas para la igualdad
+
+
 
 En la Comunidad Valenciana se ha desarrollado a través de la [Ley 9/2003](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2003/L_2003_09_ca_L_2019_09.pdf)
 
@@ -58,7 +72,16 @@ Además, respecto a las personas trans y LTBI se han incluido en la [Ley 4/2023]
 | Infracciones y sanciones           |                                                                                                                                                                                                                                                                                                                                                                   |
 
 
+. La Ley 9/2003, de 2 de abril, de la Generalitat, para la igualdad de mujeres y hombres. Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI: Deber de protección; Medidas en el ámbito administrativo.***
+
+
+#### Deber de protección
+
 El deber de protección ([artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366&p=20230301&tn=1#a4)) 
+
+
+
+#### Medidas en el ámbito administrativo
 
 Las medidas en el ámbito administrativo ([sección 2ª del capítulo II del título I](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366&p=20230301&tn=1#s2)) suponen las siguientes: 
 
@@ -70,6 +93,8 @@ Las medidas en el ámbito administrativo ([sección 2ª del capítulo II del tí
 
 
 
+### Violencia de género
+
 La violencia de género se regula mediante la [Ley Orgánica 1/2004](https://boe.es/buscar/act.php?id=BOE-A-2004-21760)
 
 | Título                                                 | Contenido                                                                                                                                                                                                             |
@@ -80,6 +105,10 @@ La violencia de género se regula mediante la [Ley Orgánica 1/2004](https://boe
 | Tutela institucional                                   |                                                                                                                                                                                                                       |
 | Tutela penal                                           |                                                                                                                                                                                                                       |
 | Tutela judicial                                        | - Juzgados de Violencia sobre la Mujer<br>- Normas procesales civiles<br>- Normas procesales penales<br>- Medidas judiciales de protección y seguridad de las víctimas<br>- Fiscal contra la Violencia sobre la Mujer |
+
+
+#### Título preliminar
+
 
 El objeto es (artículo 1), a través de los siguientes principios rectores (artículo 2):
 
@@ -105,6 +134,13 @@ j) Fomentar la especialización de los colectivos profesionales que intervienen 
 
 k) Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.
 
+
+#### Medidas de sensibilización, prevención y detección
+
+
+
+
+
 Las medidas de sensibilización, prevención y detección**
 
 | Ámbito                              | Medidas                                                                                                                                                                                                                        |
@@ -114,7 +150,9 @@ Las medidas de sensibilización, prevención y detección**
 | Publicidad y medios de comunicación | - Publicidad ilícita<br>- (NOMBRË?)<br>- Titulares de cesación y rectificación<br>- Medios de comunicación<br>- (NOMBRE?)                                                                                                      |
 | Sanitario                           | - Sensibilización y formación<br>- Consejo Interterritorial del Sistema Nacional de Salud                                                                                                                                      |
 
-Los derechos de las personas víctimas incluyen los siguientes: 
+#### Derechos de las mujeres víctimas
+
+Los derechos de las mujeres víctimas incluyen los siguientes: 
 
 | Ámbito                        | Derechos                                                                                                                              |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -137,6 +175,18 @@ Finalmente, en cuestión de transparencia, información pública, y buen gobiern
 | Consejo de transparencia y buen gobierno | - Consejo: definición, fines, composición, Presidencia (funciones...)...<br>- Comisión de Transparencia y Buen Gobierno.<br>- Régimen jurídico<br>- Relaciones con las Cortes Generales                    |
 
 
+#### Título preliminar
+
+
+
+
+#### Transparencia de la actividad pública
+
+
+
+
+### Ley 1/2002
+
 En la Comunidad Valenciana se ha regulado a través de la [Ley 1/2022](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2022/L_2022_01_va_L_2022_08.pdf)
 
 | Títulos                            | Contenido                                                                                                                                                                                                                                                                                                                                                                 |
@@ -147,3 +197,5 @@ En la Comunidad Valenciana se ha regulado a través de la [Ley 1/2022](https://d
 | Buen Gobierno e integridad pública | - Rendición de cuentas en la acción del gobierno<br>- Calidad normativa<br>- Planificación y evaluación de las políticas y los servicios                                                                                                                                                                                                                                  |
 | Régimen sancionador                |                                                                                                                                                                                                                                                                                                                                                                           |
 
+
+CLAUDE

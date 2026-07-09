@@ -105,9 +105,9 @@ El Consejo comprobará de manera periódica si los motivos que han llevado a tal
 
 Las obligaciones del Estado miembro de que se trate derivadas de los Tratados continuarán, en cualquier caso, siendo vinculantes para dicho Estado.
 
-4.   El Consejo podrá decidir posteriormente, por mayoría cualificada, la modificación o revocación de las medidas adoptadas de conformidad con el apartado 3 como respuesta a cambios en la situación que motivó su imposición.
+El Consejo podrá decidir posteriormente, por mayoría cualificada, la modificación o revocación de las medidas adoptadas de conformidad con el apartado 3 como respuesta a cambios en la situación que motivó su imposición.
 
-5.   Las modalidades de voto que, a los efectos del presente artículo, serán de aplicación para el Parlamento Europeo, el Consejo Europeo y el Consejo se establecen en el artículo 354 del Tratado de Funcionamiento de la Unión Europea.
+Las modalidades de voto que, a los efectos del presente artículo, serán de aplicación para el Parlamento Europeo, el Consejo Europeo y el Consejo se establecen en el artículo 354 del Tratado de Funcionamiento de la Unión Europea.
 
 
 La Unión desarrollará relaciones preferentes con los países vecinos, para establecer un espacio de prosperidad y buena vecindad basado en sus valores, y caracterizado por las relaciones estrechas y pacíficas, y la cooperación. A tal efecto, podrá celebrar acuerdos específicos, que incluyan derechos y obligaciones recíprocos, y la posibilidad de realizar acciones en común. Su aplicación será objeto de concertación periódica.

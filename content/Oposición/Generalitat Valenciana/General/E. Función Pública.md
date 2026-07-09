@@ -23,6 +23,19 @@ A escala general el régimen jurídico se basa en la [Ley del Estatuto Público 
 | Cooperación administrativa             |                                                                                                                                                                                                                                                                                                         |
 
 
+
+#### Objeto y ámbito de aplicación
+
+
+#### Personal al servicio de las Administraciones Públicas
+
+
+
+
+
+#### Derechos y deberes. Código de conducta de los empleados públicos
+
+
 Los derechos y deberes incluyen los siguientes:
 
 | Tipología                             | Derechos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -39,6 +52,7 @@ Los deberes son desempeñar con diligencia las tareas que tengan asignadas y vel
 | - Respeto a la legalidad<br>- Intereses generales<br>- Lealtad y buena fe<br>- Derechos fundamentales, sin discriminación<br>- No intereses personales<br>- No conflictos de interés<br>- No tratos de favor o privilegios<br>- Eficacia, economía y eficiencia<br>- No agilización o resolución de trámites o procedimientos<br>- Diligencia<br>- Dedicación<br>- Secreto profesional | - Atención y respeto<br>- Diligencia, cumplimiento jornada y horarios<br>- Obediencia (salvo que sea ilícita)<br>- Información y apoyo a ciudadanos (derechos, obligaciones...)<br>- Austeridad y conservación de recursos y bienes públicos<br>- Rechazo de regalos, favores, servicios...<br>- Conservación documental<br>- Actualización formativa<br>- Seguridad y salud laboral<br>- Consideraciones y propuestas<br>- Comunicación en lenguas oficiales |
 
 
+#### Situaciones administrativas
 
 Las situaciones administrativas de los funcionarios de carrera (título VI) incluyen las siguientes: 
 
@@ -60,8 +74,11 @@ Las situaciones administrativas de los funcionarios de carrera (título VI) incl
 
 - **Suspensión de funciones**: 
 
+#### Régimen disciplinario
 
-### Función Pública Valenciana
+
+
+### Ley 4/2021
 
 En la Comunidad Valenciana se ha desarrollado a través de la [Ley 4/2021](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2021/L_2021_04_ca_DL_2024_04.pdf)
 
@@ -81,12 +98,55 @@ En la Comunidad Valenciana se ha desarrollado a través de la [Ley 4/2021](https
 | Anexos                                                                  | - I. Cuerpos y escalas<br>- II. Tabla de correspondencias (con la norma anterior)<br>- III. Agrupaciones de puestos de trabajo<br>- IV. Cuerpos, escalas y agrupaciones profesionales funcionariales de la Conselleria de Sanidad<br>- V. Tabla de correspondencias (con la norma anterior |
 
 
+19. ***La Ley 4/2021, de 16 de abril, de la Función Pública Valenciana: Título I, Objeto, principios y ámbito de aplicación de la Ley; Título III, Personal al servicio de las Administraciones Públicas; Título V, Nacimiento y extinción de la relación de servicio; Título VI, Derechos, deberes e incompatibilidades del personal empleado público; Título VII, Provisión de puestos y movilidad; Título VIII, Promoción profesional; Título IX, Situaciones administrativas del personal funcionario de carrera; Título X, Régimen disciplinario; Título XI, La representación, negociación colectiva y participación institucional.***
+
+#### Objeto, principios y ámbito
+
+
+#### Personal al servicio de las Administraciones Públicas
+
+
+
+#### Nacimiento y extinción de la relación de servicio
+
+
+
+#### Derechos, deberes e incompatibilidades
+
+
+
+
+#### Provisión de puestos y movilidad
+
+
+
+
+#### Promoción profesional
+
+
+
+
+#### Situaciones administrativas del personal funcionario de carrera
+
+
+
+
+#### Régimen disciplinario
+
+
+
+
+
+#### Representación, negociación colectiva y participación institucional
+
+
 Los órganos incluyen los siguientes:
 
 | Tipología     | Órganos                                                                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ejecutivos    | - Consell<br>- Conseller/a competente (función pública)<br>- Consell Interdepartamental de Retribucions (CIR)                                                                   |
 | Otros órganos | - Comissió Intersectorial de l’Ocupació Pública de la Generalitat<br>- L’Escola Valenciana d’Administració Pública (EVAP)<br>- Consell Assessor de la Funció Pública Valenciana |
+
 
 
 | Cuerpos       | Cuerpos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -112,6 +172,9 @@ A1-05 Cuerpo Superior Facultativo de investigación científica
 
 Además, la Ley autonómica se ha desarrollado en vía reglamentaria.
 
+
+### Decreto 42/2019
+
 El [Decreto 42/2019](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2019/D_2019_042_ca_TS_20220629.pdf) regula las condiciones de trabajo de los funcionarios de la Generalitat Valenciana
 
 | Capítulos                        | Contenido                          |
@@ -122,6 +185,10 @@ El [Decreto 42/2019](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2019/D_2019_042_
 | Licencias                        | - Retribuidas<br>- Sin retribución |
 | Vacaciones                       |                                    |
 
+
+CLAUDE
+
+### Decreto 3/2017
 
 Y el [Decreto 3/2017](https://dogv.gva.es/va/resultat-dogv?signatura=2017/521&L=0&&texto=Reglamento+de+selecci%C3%B3n%2C%20provisi%C3%B3n+de+puestos+de+trabajo+y+movilidad+del+personal+de+la+funci%C3%B3n+p%C3%BAblica+valenciana.&solo_titulo=1&anyo_codigo=&codigo=&numero_dogv=&FECHA_INICIAL=24%2F01%2F2017&FECHA_FINAL=25%2F01%2F2017&tipo_disposicion=&organismo=) aprueba el Reglamento de selección, provisión de puestos de trabajo y movilidad del personal de la función pública valenciana
 
@@ -134,3 +201,4 @@ Y el [Decreto 3/2017](https://dogv.gva.es/va/resultat-dogv?signatura=2017/521&L=
 | Planificación y ordenación                     |                                                                                                                                                                                                                                                                               |
 | Comisión de Estudio de la Diversidad Funcional | - Comisión de Estudio de la Diversidad Funcional                                                                                                                                                                                                                              |
 
+CLAUDE

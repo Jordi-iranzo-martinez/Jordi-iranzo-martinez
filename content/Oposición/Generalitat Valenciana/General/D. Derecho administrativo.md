@@ -70,195 +70,126 @@ Los interesados con capacidad de obrar podrán actuar por medio de representante
 
 - **Presunción**: para los actos y gestiones de mero trámite.
 
-1. La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos, en el que deberán inscribirse, al menos, los de carácter general otorgados apud acta, presencial o electrónicamente, por quien ostente la condición de interesado en un procedimiento administrativo a favor de representante, para actuar en su nombre ante las Administraciones Públicas. También deberá constar el bastanteo realizado del poder.
+La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos. Deberán inscribirse, al menos, los de carácter general otorgados apud acta (presencial o electrónicamente) por quien ostente la condición de interesado en un procedimiento administrativo a favor de representante, para actuar en su nombre ante las Administraciones Públicas. También deberá constar el bastanteo realizado del poder.
 
 En el ámbito estatal, este registro será el Registro Electrónico de Apoderamientos de la Administración General del Estado.
 
 Los registros generales de apoderamientos no impedirán la existencia de registros particulares en cada Organismo donde se inscriban los poderes otorgados para la realización de trámites específicos en el mismo. Cada Organismo podrá disponer de su propio registro electrónico de apoderamientos.
 
-2. Los registros electrónicos generales y particulares de apoderamientos pertenecientes a todas y cada una de las Administraciones, deberán ser plenamente interoperables entre sí, de modo que se garantice su interconexión, compatibilidad informática, así como la transmisión telemática de las solicitudes, escritos y comunicaciones que se incorporen a los mismos.
+Los registros electrónicos (generales y particulares) de apoderamientos pertenecientes a todas y cada una de las Administraciones, deberán ser plenamente interoperables entre sí, de modo que se garantice su interconexión, compatibilidad informática, así como la transmisión telemática de las solicitudes, escritos y comunicaciones que se incorporen a los mismos.
 
 Los registros electrónicos generales y particulares de apoderamientos permitirán comprobar válidamente la representación de quienes actúen ante las Administraciones Públicas en nombre de un tercero, mediante la consulta a otros registros administrativos similares, al registro mercantil, de la propiedad, y a los protocolos notariales.
 
 Los registros mercantiles, de la propiedad, y de los protocolos notariales serán interoperables con los registros electrónicos generales y particulares de apoderamientos.
 
-3. Los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos, la siguiente información:
+ Los asientos que se realicen en los registros electrónicos generales y particulares de apoderamientos deberán contener, al menos, la siguiente información:
 
-a) Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante.
+- **Identificación del poderdante**: nombre y apellidos o denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente
 
-b) Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del apoderado.
+- **Identificación del apoderado**: ídem
+- **Fecha de inscripción**
+- **Período de tiempo**: por el cual se otorga el poder.
+- **Tipo de poder**
 
-c) Fecha de inscripción.
+Los poderes que se inscriban en los registros electrónicos generales y particulares de apoderamientos deberán corresponder a alguna de las siguientes tipologías:
 
-d) Período de tiempo por el cual se otorga el poder.
-
-e) Tipo de poder según las facultades que otorgue.
-
-4. Los poderes que se inscriban en los registros electrónicos generales y particulares de apoderamientos deberán corresponder a alguna de las siguientes tipologías:
-
-a) Un poder general para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa y ante cualquier Administración.
-
-b) Un poder para que el apoderado pueda actuar en nombre del poderdante en cualquier actuación administrativa ante una Administración u Organismo concreto.
-
-c) Un poder para que el apoderado pueda actuar en nombre del poderdante únicamente para la realización de determinados trámites especificados en el poder.
-
-**(Párrafo anulado)**
+- **Poder general**: en cualquier actuación administrativa y ante cualquier Administración.
+- **Limitado a una Administración u Organismo concreto**: en cualquier actuación administrativa ante una Administración u Organismo concreto.
+- **Limitado a determinados trámites**
 
 Cada Comunidad Autónoma aprobará los modelos de poderes inscribibles en el registro cuando se circunscriba a actuaciones ante su respectiva Administración.
 
-5. El apoderamiento «_apud_ acta» se otorgará mediante comparecencia electrónica en la correspondiente sede electrónica haciendo uso de los sistemas de firma electrónica previstos en esta Ley, o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.
+El apoderamiento «_apud_ acta» se otorgará mediante comparecencia electrónica en sede electrónica haciendo por sistemas de firma electrónica, o bien comparecencia personal en las oficinas de asistencia en materia de registros.
 
-6. Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción. En todo caso, en cualquier momento antes de la finalización de dicho plazo el poderdante podrá revocar o prorrogar el poder. Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción.
+Los poderes inscritos en el registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción. En todo caso, en cualquier momento antes de la finalización de dicho plazo el poderdante podrá revocar o prorrogar el poder. Las prórrogas otorgadas por el poderdante al registro tendrán una validez determinada máxima de cinco años a contar desde la fecha de inscripción.
 
-7. Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder y surtiendo efectos desde la fecha en la que se produzca dicha inscripción.
-
-> Se declara inconstitucional y nulo el segundo párrafo del apartado 4 por Sentencia del TC 55/2018, de 24 de mayo. [Ref. BOE-A-2018-8574](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8574 "Abre nueva ventana")
-
+Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo podrán dirigirse a cualquier registro, debiendo quedar inscrita esta circunstancia en el registro de la Administración u Organismo ante la que tenga efectos el poder y surtiendo efectos desde la fecha en la que se produzca dicha inscripción.
 
 Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término.
 
 Si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas que sean titulares de derechos o intereses legítimos y directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte, se comunicará a dichas personas la tramitación del procedimiento.
 
 
-
-#### CAPÍTULO II
-
 #### Identificación y firma de los interesados en el procedimiento administrativo
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
+Las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo, mediante la comprobación de su nombre y apellidos o denominación o razón social, según corresponda, que consten en el Documento Nacional de Identidad o documento identificativo equivalente.
 
----
+Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:
 
-[Bloque 14: #a9]
+- **Firma electrónica** (obligatorio): 
+- **Sello electrónico** (obligatorio): 
+- **Otro** (opcional, adicional):
 
-##### Artículo 9. Sistemas de identificación de los interesados en el procedimiento.
+- Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
 
-1. Las Administraciones Públicas están obligadas a verificar la identidad de los interesados en el procedimiento administrativo, mediante la comprobación de su nombre y apellidos o denominación o razón social, según corresponda, que consten en el Documento Nacional de Identidad o documento identificativo equivalente.
+- Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
 
-2. Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:
+- Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital. Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente. De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación, durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.
 
-a) Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
+*Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c).*
 
-b) Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
-
-c) Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital. Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente. De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación, durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.
-
-Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todo procedimiento, aun cuando se admita para ese mismo procedimiento alguno de los previstos en la letra c).
-
-3. En relación con los sistemas de identificación previstos en la letra c) del apartado anterior, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos a los que se refiere el artículo 9 del [Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807 "Abre nueva ventana"), relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la [Directiva 95/46/CE](https://www.boe.es/buscar/doc.php?id=DOUE-L-1995-81678 "Abre nueva ventana"), en territorio español. En cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes.
+En relación con los sistemas de identificación previstos en la letra c) del apartado anterior, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos (artículo 9 del [Reglamento 2016/679]), en territorio español. En cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes.
 
 Los datos a que se refiere el párrafo anterior no podrán ser objeto de transferencia a un tercer país u organización internacional, con excepción de los que hayan sido objeto de una decisión de adecuación de la Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino de España.
 
-4. En todo caso, la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados en el procedimiento administrativo.
+En todo caso, la aceptación de alguno de estos sistemas por la Administración General del Estado servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados en el procedimiento administrativo.
 
-> Se modifica la letra c) del apartado 2 por la disposición final 1.1 de la Ley 11/2022, de 28 de junio. [Ref. BOE-A-2022-10757](https://www.boe.es/buscar/act.php?id=BOE-A-2022-10757#df "Abre nueva ventana")
-> 
-> Se modifica por el art. 3.1 del Real Decreto-ley 14/2019, de 31 de octubre. [Ref. BOE-A-2019-15790](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790#a3 "Abre nueva ventana")
-> 
-> Téngase en cuenta para su aplicación la disposición transitoria 1 del citado Real Decreto-Ley.
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 15: #a10]
 
 ##### Artículo 10. Sistemas de firma admitidos por las Administraciones Públicas.
 
-1. Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.
+Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.
 
-2. En el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos, se considerarán válidos a efectos de firma:
+En el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos, se considerarán válidos a efectos de firma:
 
-a) Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
+- Firma electrónica cualificada y avanzada: 
+- Sello electrónico cualificado y avanzado: Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
+- Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
+- Otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital. Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente. De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación, durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.
 
-b) Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la ‘‘Lista de confianza de prestadores de servicios de certificación’’.
+*Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todos los procedimientos en todos sus trámites, aun cuando adicionalmente se permita alguno de los previstos al amparo de lo dispuesto en la letra c).*
 
-c) Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital. Esta comunicación vendrá acompañada de una declaración responsable de que se cumple con todos los requisitos establecidos en la normativa vigente. De forma previa a la eficacia jurídica del sistema, habrán de transcurrir dos meses desde dicha comunicación, durante los cuales el órgano estatal competente por motivos de seguridad pública podrá acudir a la vía jurisdiccional, previo informe vinculante de la Secretaría de Estado de Seguridad, que deberá emitir en el plazo de diez días desde su solicitud.
-
-Las Administraciones Públicas deberán garantizar que la utilización de uno de los sistemas previstos en las letras a) y b) sea posible para todos los procedimientos en todos sus trámites, aun cuando adicionalmente se permita alguno de los previstos al amparo de lo dispuesto en la letra c).
-
-3. En relación con los sistemas de firma previstos en la letra c) del apartado anterior, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos a los que se refiere el artículo 9 del [Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807 "Abre nueva ventana"), en territorio español. En cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes.
+En relación con los sistemas de firma previstos en la letra c) del apartado anterior, se establece la obligatoriedad de que los recursos técnicos necesarios para la recogida, almacenamiento, tratamiento y gestión de dichos sistemas se encuentren situados en territorio de la Unión Europea, y en caso de tratarse de categorías especiales de datos a los que se refiere el artículo 9 del [Reglamento 2016/679], en territorio español. En cualquier caso, los datos se encontrarán disponibles para su acceso por parte de las autoridades judiciales y administrativas competentes.
 
 Los datos a que se refiere el párrafo anterior no podrán ser objeto de transferencia a un tercer país u organización internacional, con excepción de los que hayan sido objeto de una decisión de adecuación de la Comisión Europea o cuando así lo exija el cumplimiento de las obligaciones internacionales asumidas por el Reino de España.
 
-4. Cuando así lo disponga expresamente la normativa reguladora aplicable, las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en esta Ley como sistema de firma cuando permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados.
+Cuando así lo disponga expresamente la normativa reguladora aplicable, las Administraciones Públicas podrán admitir los sistemas de identificación contemplados en esta Ley como sistema de firma cuando permitan acreditar la autenticidad de la expresión de la voluntad y consentimiento de los interesados.
 
-5. Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma.
+Cuando los interesados utilicen un sistema de firma de los previstos en este artículo, su identidad se entenderá ya acreditada mediante el propio acto de la firma.
 
-> Se modifica la letra c) del apartado 2 por la disposición final 1.2 de la Ley 11/2022, de 28 de junio. [Ref. BOE-A-2022-10757](https://www.boe.es/buscar/act.php?id=BOE-A-2022-10757#df "Abre nueva ventana")
-> 
-> Se modifica por el art. 3.2 del Real Decreto-ley 14/2019, de 31 de octubre. [Ref. BOE-A-2019-15790](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790#a3 "Abre nueva ventana")
-> 
-> Téngase en cuenta para su aplicación la disposición transitoria 1 del citado Real Decreto-Ley.
 
-Seleccionar redacción:
+Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en esta Ley.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
+Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma los siguientes trámites: 
 
----
+- **Formular solicitudes**
+- **Presentar declaraciones responsables o comunicaciones**
+- **Interponer recursos**
+- **Desistir de acciones**
+- **Renunciar a derechos**
 
-[Bloque 16: #a11]
+Las Administraciones Públicas deberán garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.
 
-##### Artículo 11. Uso de medios de identificación y firma en el procedimiento administrativo.
-
-1. Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en esta Ley.
-
-2. Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:
-
-a) Formular solicitudes.
-
-b) Presentar declaraciones responsables o comunicaciones.
-
-c) Interponer recursos.
-
-d) Desistir de acciones.
-
-e) Renunciar a derechos.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 17: #a12]
-
-##### Artículo 12. Asistencia en el uso de medios electrónicos a los interesados.
-
-1. Las Administraciones Públicas deberán garantizar que los interesados pueden relacionarse con la Administración a través de medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen.
-
-2. Las Administraciones Públicas asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten, especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.
+Las Administraciones Públicas asistirán en el uso de medios electrónicos a los interesados no incluidos en los apartados 2 y 3 del artículo 14 que así lo soliciten, especialmente en lo referente a la identificación y firma electrónica, presentación de solicitudes a través del registro electrónico general y obtención de copias auténticas.
 
 Asimismo, si alguno de estos interesados no dispone de los medios electrónicos necesarios, su identificación o firma electrónica en el procedimiento administrativo podrá ser válidamente realizada por un funcionario público mediante el uso del sistema de firma electrónica del que esté dotado para ello. En este caso, será necesario que el interesado que carezca de los medios electrónicos necesarios se identifique ante el funcionario y preste su consentimiento expreso para esta actuación, de lo que deberá quedar constancia para los casos de discrepancia o litigio.
 
-3. La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales mantendrán actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la identificación o firma regulada en este artículo. Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de las citadas habilitaciones.
+La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales mantendrán actualizado un registro (u otro sistema equivalente), donde constarán los funcionarios habilitados para la identificación o firma. Estos registros o sistemas deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de las citadas habilitaciones.
 
 En este registro o sistema equivalente, al menos, constarán los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.
-
-[](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
 
 #### Actividad de las Administraciones Públicas
 
 Quienes tienen capacidad de obrar son titulares de los siguientes derechos: 
 
-a) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.
-
-b) A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.
-
-c) A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en esta Ley y en el resto del ordenamiento jurídico.
-
-d) Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la [Ley 19/2013, de 9 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887 "Abre nueva ventana"), de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.
-
-e) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.
-
-f) A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente.
-
-g) A la obtención y utilización de los medios de identificación y firma electrónica contemplados en esta Ley.
-
-h) A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.
-
-i) Cualesquiera otros que les reconozcan [la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229 "Abre nueva ventana") y las leyes.
+- **Comunicación**: con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración
+- **Asistencia**: en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas
+- **Uso de lenguas oficiales**: en el territorio de su Comunidad Autónoma correspondiente (de acuerdo a normativa)
+- **Acceso a la información pública, archivos y registros** ([Ley 19/2013, de 9 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887 "Abre nueva ventana"))
+- Respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones
+- Exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando así corresponda legalmente
+- Obtención y utilización de los medios de identificación y firma electrónica contemplados en esta Ley
+- **Protección de datos de carácter personal** (seguridad y confidencialidad de de ficheros, sistemas y aplicaciones de las Administraciones Públicas)
+- **Otros**: que les reconozcan [la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229 "Abre nueva ventana") y las leyes.
 
 *Estos derechos se entienden sin perjuicio de los reconocidos para los intersados en el procedimiento administrativo (artículo 53).*
 
@@ -275,16 +206,13 @@ Están obligados, sin embargo, los siguientes:
 
 *Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas que por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.*
 
-
 La lengua de los procedimientos tramitados por la Administración General del Estado será el castellano. No obstante, los interesados que se dirijan a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma podrán utilizar también la lengua que sea cooficial en ella.
 
 En este caso, el procedimiento se tramitará en la lengua elegida por el interesado. Si concurrieran varios interesados en el procedimiento, y existiera discrepancia en cuanto a la lengua, el procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por los mismos.
 
-2. En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.
+*En los procedimientos tramitados por las Administraciones de las Comunidades Autónomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en la legislación autonómica correspondiente.*
 
-3. La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente. Si debieran surtir efectos en el territorio de una Comunidad Autónoma donde sea cooficial esa misma lengua distinta del castellano, no será precisa su traducción.
-
-
+La Administración Pública instructora deberá traducir al castellano los documentos, expedientes o partes de los mismos que deban surtir efecto fuera del territorio de la Comunidad Autónoma y los documentos dirigidos a los interesados que así lo soliciten expresamente. Si debieran surtir efectos en el territorio de una Comunidad Autónoma donde sea cooficial esa misma lengua distinta del castellano, no será precisa su traducción.
 
 Cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, Organismo público o Entidad vinculado o dependiente a éstos. También se podrán anotar en el mismo, la salida de los documentos oficiales dirigidos a otros órganos o particulares.
 
@@ -296,34 +224,29 @@ Las disposiciones de creación de los registros electrónicos se publicarán en 
 
 En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden iniciarse en el mismo.
 
-2. Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan. Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas.
+Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan. Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro en que hubieran sido recibidas.
 
-3. El registro electrónico de cada Administración u Organismo garantizará la constancia, en cada asiento que se practique, de un número, epígrafe expresivo de su naturaleza, fecha y hora de su presentación, identificación del interesado, órgano administrativo remitente, si procede, y persona u órgano administrativo al que se envía, y, en su caso, referencia al contenido del documento que se registra. Para ello, se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro, así como un recibo acreditativo de otros documentos que, en su caso, lo acompañen, que garantice la integridad y el no repudio de los mismos.
+El registro electrónico de cada Administración u Organismo garantizará la constancia, en cada asiento que se practique, de un número, epígrafe expresivo de su naturaleza, fecha y hora de su presentación, identificación del interesado, órgano administrativo remitente, si procede, y persona u órgano administrativo al que se envía, y, en su caso, referencia al contenido del documento que se registra. Para ello, se emitirá automáticamente un recibo consistente en una copia autenticada del documento de que se trate, incluyendo la fecha y hora de presentación y el número de entrada de registro, así como un recibo acreditativo de otros documentos que, en su caso, lo acompañen, que garantice la integridad y el no repudio de los mismos.
 
-4. Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse:
+Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse:
 
-a) En el registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.
-
-b) En las oficinas de Correos, en la forma que reglamentariamente se establezca.
-
-c) En las representaciones diplomáticas u oficinas consulares de España en el extranjero.
-
-d) En las oficinas de asistencia en materia de registros.
-
-e) En cualquier otro que establezcan las disposiciones vigentes.
+- Registro electrónico de la Administración u Organismo al que se dirijan, así como en los restantes registros electrónicos de cualquiera de los sujetos a los que se refiere el artículo 2.1.
+- **Oficinas de Correos** (en la forma que reglamentariamente se establezca).
+- Representaciones diplomáticas u oficinas consulares de España en el extranjero
+- Oficinas de asistencia en materia de registros
+- **Otro** que establezcan las disposiciones vigentes.
 
 Los registros electrónicos de todas y cada una de las Administraciones, deberán ser plenamente interoperables, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos que se presenten en cualquiera de los registros.
 
-5. Los documentos presentados de manera presencial ante las Administraciones Públicas, deberán ser digitalizados, de acuerdo con lo previsto en el artículo 27 y demás normativa aplicable, por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado, sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración de los documentos presentados o resulte obligatoria la presentación de objetos o de documentos en un soporte específico no susceptibles de digitalización.
+Los documentos presentados de manera presencial ante las Administraciones Públicas, deberán ser digitalizados, de acuerdo con lo previsto en el artículo 27 y demás normativa aplicable, por la oficina de asistencia en materia de registros en la que hayan sido presentados para su incorporación al expediente administrativo electrónico, devolviéndose los originales al interesado, sin perjuicio de aquellos supuestos en que la norma determine la custodia por la Administración de los documentos presentados o resulte obligatoria la presentación de objetos o de documentos en un soporte específico no susceptibles de digitalización.
 
 Reglamentariamente, las Administraciones podrán establecer la obligación de presentar determinados documentos por medios electrónicos para ciertos procedimientos y colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.
 
-6. Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas, sin perjuicio de la posibilidad de su abono por otros medios.
+Podrán hacerse efectivos mediante transferencia dirigida a la oficina pública correspondiente cualesquiera cantidades que haya que satisfacer en el momento de la presentación de documentos a las Administraciones Públicas, sin perjuicio de la posibilidad de su abono por otros medios.
 
-7. Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos.
+Las Administraciones Públicas deberán hacer pública y mantener actualizada una relación de las oficinas en las que se prestará asistencia para la presentación electrónica de documentos.
 
-8. No se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.
-
+No se tendrán por presentados en el registro aquellos documentos e información cuyo régimen especial establezca otra forma de presentación.
 
 Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados.
 
@@ -346,27 +269,26 @@ La comparecencia de las personas ante las oficinas públicas (presencialmente o 
 
 ##### Artículo 20. Responsabilidad de la tramitación.
 
-1. Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación y adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos.
+Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos, serán responsables directos de su tramitación y adoptarán las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos, disponiendo lo necesario para evitar y eliminar toda anormalidad en la tramitación de procedimientos.
 
-2. Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado.
+Los interesados podrán solicitar la exigencia de esa responsabilidad a la Administración Pública de que dependa el personal afectado.
 
-[
 La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos (cualquiera que sea su forma de iniciación) (salvo terminación por pacto o convenio, y ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación a la Comunicación). 
 
 *En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables.*
 
 El plazo máximo debe será fijado por la norma reguladora del procedimiento (no podrá exceder de 6 meses, salvo que disposición contraria en una norma con rango de Ley o previsión en el derecho de la Unión). Cuando no fijen plazo, será de tres meses, y se contarán de la siguiente forma según la forma de iniciación:
 
-- De oficio: desde la fecha del acuerdo de iniciación.
-- A solicitud del interesado: desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.
+- **De oficio**: desde la fecha del acuerdo de iniciación.
+- **A solicitud del interesado**: desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.
 
-Las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, a efectos informativos, las relaciones de procedimientos de su competencia, con indicación de los plazos máximos de duración de los mismos, así como de los efectos que produzca el silencio administrativo.
+Las Administraciones Públicas deben publicar y mantener actualizadas en el portal web, las relaciones de procedimientos de su competencia, con indicación de los plazos máximos de duración de los mismos, así como de los efectos que produzca el silencio administrativo.
 
 En todo caso, las Administraciones Públicas informarán a los interesados del plazo máximo establecido para la resolución de los procedimientos y para la notificación de los actos que les pongan término, así como de los efectos que pueda producir el silencio administrativo. Dicha mención se incluirá en la notificación o publicación del acuerdo de iniciación de oficio, o en la comunicación que se dirigirá al efecto al interesado dentro de los diez días siguientes a la recepción de la solicitud iniciadora del procedimiento en el registro electrónico de la Administración u Organismo competente para su tramitación. En este último caso, la comunicación indicará además la fecha en que la solicitud ha sido recibida por el órgano competente.
 
-5. Cuando el número de las solicitudes formuladas o las personas afectadas pudieran suponer un incumplimiento del plazo máximo de resolución, el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.
+Cuando el número de las solicitudes formuladas o las personas afectadas pudieran suponer un incumplimiento del plazo máximo de resolución, el órgano competente para resolver, a propuesta razonada del órgano instructor, o el superior jerárquico del órgano competente para resolver, a propuesta de éste, podrán habilitar los medios personales y materiales para cumplir con el despacho adecuado y en plazo.
 
-6. El personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver son directamente responsables, en el ámbito de sus competencias, del cumplimiento de la obligación legal de dictar resolución expresa en plazo.
+El personal al servicio de las Administraciones Públicas que tenga a su cargo el despacho de los asuntos, así como los titulares de los órganos administrativos competentes para instruir y resolver son directamente responsables del cumplimiento de la obligación legal de dictar resolución expresa en plazo.
 
 El incumplimiento de dicha obligación dará lugar a la exigencia de responsabilidad disciplinaria, sin perjuicio de la que hubiere lugar de acuerdo con la normativa aplicable.
 
@@ -392,38 +314,35 @@ El silencio administrativo también se resuelve de forma diferente según el ini
 
 2. La estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento. La desestimación por silencio administrativo tiene los solos efectos de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente.
 
-3. La obligación de dictar resolución expresa a que se refiere el apartado primero del artículo 21 se sujetará al siguiente régimen:
+La obligación de dictar resolución expresa se sujetará al siguiente régimen:
 
-a) En los casos de estimación por silencio administrativo, la resolución expresa posterior a la producción del acto sólo podrá dictarse de ser confirmatoria del mismo.
+- Estimación por silencio administrativo, la resolución expresa posterior a la producción del acto sólo podrá dictarse de ser confirmatoria del mismo.
 
-b) En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.
+- Desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.
 
-4. Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada. Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido. Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento. Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.
+Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada. Los mismos producen efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa sin que la misma se haya expedido, y su existencia puede ser acreditada por cualquier medio de prueba admitido en Derecho, incluido el certificado acreditativo del silencio producido. Este certificado se expedirá de oficio por el órgano competente para resolver en el plazo de quince días desde que expire el plazo máximo para resolver el procedimiento. Sin perjuicio de lo anterior, el interesado podrá pedirlo en cualquier momento, computándose el plazo indicado anteriormente desde el día siguiente a aquél en que la petición tuviese entrada en el registro electrónico de la Administración u Organismo competente para resolver.
 
 
 En los procedimientos iniciados de oficio, el vencimiento del plazo máximo establecido sin que se haya dictado y notificado resolución expresa no exime a la Administración del cumplimiento de la obligación legal de resolver, produciendo los siguientes efectos:
 
-a) En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.
+-  En el caso de procedimientos de los que pudiera derivarse el reconocimiento o, en su caso, la constitución de derechos u otras situaciones jurídicas favorables, los interesados que hubieren comparecido podrán entender desestimadas sus pretensiones por silencio administrativo.
 
-b) En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad. En estos casos, la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.
+-  En los procedimientos en que la Administración ejercite potestades sancionadoras o, en general, de intervención, susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad. En estos casos, la resolución que declare la caducidad ordenará el archivo de las actuaciones, con los efectos previstos en el artículo 95.
 
-2. En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.
-
-
+En los supuestos en los que el procedimiento se hubiera paralizado por causa imputable al interesado, se interrumpirá el cómputo del plazo para resolver y notificar la resolución.
 
 | Forma de iniciación                  | Estimatorio    | Desestimatorio                                                                                  |
 | ------------------------------------ | -------------- | ----------------------------------------------------------------------------------------------- |
 | A solicitud de la persona interesada | General        | Aspectos relativos al orden público, sancionadores, impugnación de actos, o derecho de petición |
 | De oficio                            | Acto favorable | General                                                                                         |
 
-
 Se entiende por "documentos públicos administrativos" los válidamente emitidos por los órganos de las Administraciones Públicas, quienes los realizarán por escrito a través de medios electrónicos (salvo que su naturaleza exija otra forma más adecuada de expresión y constancia). Los requisitos de validez incluyen los siguientes:
 
-- a) Contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado.
-- b) Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.
-- c) Incorporar una referencia temporal del momento en que han sido emitidos.
-- d) Incorporar los metadatos mínimos exigidos.
-- e) Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable.
+- Contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado susceptible de identificación y tratamiento diferenciado.
+- Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.
+- Incorporar una referencia temporal del momento en que han sido emitidos.
+- Incorporar los metadatos mínimos exigidos.
+- Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable.
 
 *Se considerarán válidos los documentos electrónicos, que cumpliendo estos requisitos, sean trasladados a un tercero a través de medios electrónicos.*
 
@@ -438,32 +357,29 @@ A estos efectos, la Administración General del Estado, las Comunidades Autónom
 
 Se deberá mantener actualizado un registro, u otro sistema equivalente, donde constarán los funcionarios habilitados para la expedición de copias auténticas que deberán ser plenamente interoperables y estar interconectados con los de las restantes Administraciones Públicas, a los efectos de comprobar la validez de la citada habilitación. En este registro o sistema equivalente constarán, al menos, los funcionarios que presten servicios en las oficinas de asistencia en materia de registros.
 
-2. Tendrán la consideración de copia auténtica de un documento público administrativo o privado las realizadas, cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido.
+Tendrán la consideración de copia auténtica de un documento público administrativo o privado "las realizadas, cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en las que quede garantizada la identidad del órgano que ha realizado la copia y su contenido". Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.
 
-Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.
+Para garantizar la identidad y contenido de las copias electrónicas o en papel, y por tanto su carácter de copias auténticas, las Administraciones Públicas deberán ajustarse a lo previsto en el Esquema Nacional de Interoperabilidad, el Esquema Nacional de Seguridad y sus normas técnicas de desarrollo, así como a las siguientes reglas:
 
-3. Para garantizar la identidad y contenido de las copias electrónicas o en papel, y por tanto su carácter de copias auténticas, las Administraciones Públicas deberán ajustarse a lo previsto en el Esquema Nacional de Interoperabilidad, el Esquema Nacional de Seguridad y sus normas técnicas de desarrollo, así como a las siguientes reglas:
+Las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica, con o sin cambio de formato, deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.
 
-a) Las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica, con o sin cambio de formato, deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.
-
-b) Las copias electrónicas de documentos en soporte papel o en otro soporte no electrónico susceptible de digitalización, requerirán que el documento haya sido digitalizado y deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.
+Las copias electrónicas de documentos en soporte papel o en otro soporte no electrónico susceptible de digitalización, requerirán que el documento haya sido digitalizado y deberán incluir los metadatos que acrediten su condición de copia y que se visualicen al consultar el documento.
 
 Se entiende por digitalización, el proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento.
 
-c) Las copias en soporte papel de documentos electrónicos requerirán que en las mismas figure la condición de copia y contendrán un código generado electrónicamente u otro sistema de verificación, que permitirá contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u Organismo público emisor.
+Las copias en soporte papel de documentos electrónicos requerirán que en las mismas figure la condición de copia y contendrán un código generado electrónicamente u otro sistema de verificación, que permitirá contrastar la autenticidad de la copia mediante el acceso a los archivos electrónicos del órgano u Organismo público emisor.
 
-d) Las copias en soporte papel de documentos originales emitidos en dicho soporte se proporcionarán mediante una copia auténtica en papel del documento electrónico que se encuentre en poder de la Administración o bien mediante una puesta de manifiesto electrónica conteniendo copia auténtica del documento original.
+Las copias en soporte papel de documentos originales emitidos en dicho soporte se proporcionarán mediante una copia auténtica en papel del documento electrónico que se encuentre en poder de la Administración o bien mediante una puesta de manifiesto electrónica conteniendo copia auténtica del documento original.
 
 A estos efectos, las Administraciones harán públicos, a través de la sede electrónica correspondiente, los códigos seguros de verificación u otro sistema de verificación utilizado.
 
-4. Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse, salvo las excepciones derivadas de la aplicación de la [Ley 19/2013, de 9 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887 "Abre nueva ventana"), en el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.
+Los interesados podrán solicitar la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse (salvo excepciones: [Ley 19/2013, de 9 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887 "Abre nueva ventana")) en el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.
 
 Asimismo, las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados y que se vaya a incorporar a un expediente administrativo.
 
-5. Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia.
+Cuando las Administraciones Públicas expidan copias auténticas electrónicas, deberá quedar expresamente así indicado en el documento de la copia.
 
-6. La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por su legislación específica.
-
+La expedición de copias auténticas de documentos públicos notariales, registrales y judiciales, así como de los diarios oficiales, se regirá por su legislación específica.
 
 
 Los interesados deberán aportar al procedimiento administrativo los datos y documentos exigidos por las Administraciones Públicas de acuerdo con lo dispuesto en la normativa aplicable. Asimismo, los interesados podrán aportar cualquier otro documento que estimen conveniente.
@@ -474,84 +390,80 @@ Las Administraciones Públicas deberán recabar los documentos electrónicamente
 
 Cuando se trate de informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento, estos deberán ser remitidos en el plazo de diez días a contar desde su solicitud. Cumplido este plazo, se informará al interesado de que puede aportar este informe o esperar a su remisión por el órgano competente.
 
-3. Las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
+Las Administraciones no exigirán a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
 
 Asimismo, las Administraciones Públicas no requerirán a los interesados datos o documentos no exigidos por la normativa reguladora aplicable o que hayan sido aportados anteriormente por el interesado a cualquier Administración. A estos efectos, el interesado deberá indicar en qué momento y ante qué órgano administrativo presentó los citados documentos, debiendo las Administraciones Públicas recabarlos electrónicamente a través de sus redes corporativas o de una consulta a las plataformas de intermediación de datos u otros sistemas electrónicos habilitados al efecto, salvo que conste en el procedimiento la oposición expresa del interesado o la ley especial aplicable requiera su consentimiento expreso. Excepcionalmente, si las Administraciones Públicas no pudieran recabar los citados documentos, podrán solicitar nuevamente al interesado su aportación.
 
-4. Cuando con carácter excepcional, y de acuerdo con lo previsto en esta Ley, la Administración solicitara al interesado la presentación de un documento original y éste estuviera en formato papel, el interesado deberá obtener una copia auténtica, según los requisitos establecidos en el artículo 27, con carácter previo a su presentación electrónica. La copia electrónica resultante reflejará expresamente esta circunstancia.
+Cuando con carácter excepcional, y de acuerdo con lo previsto en esta Ley, la Administración solicitara al interesado la presentación de un documento original y éste estuviera en formato papel, el interesado deberá obtener una copia auténtica, según los requisitos establecidos en el artículo 27, con carácter previo a su presentación electrónica. La copia electrónica resultante reflejará expresamente esta circunstancia.
 
-5. Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia, las Administraciones podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.
+Excepcionalmente, cuando la relevancia del documento en el procedimiento lo exija o existan dudas derivadas de la calidad de la copia, las Administraciones podrán solicitar de manera motivada el cotejo de las copias aportadas por el interesado, para lo que podrán requerir la exhibición del documento o de la información original.
 
-6. Las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, exclusivamente en el ámbito de la actividad de las Administraciones Públicas.
+Las copias que aporten los interesados al procedimiento administrativo tendrán eficacia, exclusivamente en el ámbito de la actividad de las Administraciones Públicas.
 
-7. Los interesados se responsabilizarán de la veracidad de los documentos que presenten.
+Los interesados se responsabilizarán de la veracidad de los documentos que presenten.
 
 
 Los términos y plazos establecidos en ésta u otras leyes obligan a las autoridades y personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos.
 
 ##### Artículo 30. Cómputo de plazos.
 
-1. Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo, cuando los plazos se señalen por horas, se entiende que éstas son hábiles. Son hábiles todas las horas del día que formen parte de un día hábil.
+(Salvo que por Ley o en el Derecho de la Unión Europea se disponga otro cómputo) Cuando los plazos se señalen por horas, se entiende que éstas son hábiles: son hábiles todas las horas del día que formen parte de un día hábil.
 
-Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración superior a veinticuatro horas, en cuyo caso se expresarán en días.
+Los plazos expresados por horas se contarán de hora en hora y de minuto en minuto desde la hora y minuto en que tenga lugar la notificación o publicación del acto de que se trate y no podrán tener una duración superior a veinticuatro horas (en cuyo caso se expresarán en días).
 
-2. Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.
+Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.
 
 Cuando los plazos se hayan señalado por días naturales por declararlo así una ley o por el Derecho de la Unión Europea, se hará constar esta circunstancia en las correspondientes notificaciones.
 
-3. Los plazos expresados en días se contarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo.
+Los plazos expresados en **días** se contarán a partir del ***día siguiente*** a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o la desestimación por silencio administrativo.
 
-4. Si el plazo se fija en meses o años, éstos se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.
+Si el plazo se fija en **meses o años**, éstos se computarán a partir del ***día siguiente*** a aquel en que tenga lugar la notificación o publicación del acto de que se trate, o desde el siguiente a aquel en que se produzca la estimación o desestimación por silencio administrativo.
 
 El plazo concluirá el mismo día en que se produjo la notificación, publicación o silencio administrativo en el mes o el año de vencimiento. Si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.
 
-5. Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.
+Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.
 
-6. Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.
+Cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso.
 
-7. La Administración General del Estado y las Administraciones de las Comunidades Autónomas, con sujeción al calendario laboral oficial, fijarán, en su respectivo ámbito, el calendario de días inhábiles a efectos de cómputos de plazos. El calendario aprobado por las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial, a las que será de aplicación.
+La Administración General del Estado y las Administraciones de las Comunidades Autónomas, con sujeción al calendario laboral oficial, fijarán, en su respectivo ámbito, el calendario de días inhábiles a efectos de cómputos de plazos. El calendario aprobado por las Comunidades Autónomas comprenderá los días inhábiles de las Entidades Locales correspondientes a su ámbito territorial, a las que será de aplicación.
 
 Dicho calendario deberá publicarse antes del comienzo de cada año en el diario oficial que corresponda, así como en otros medios de difusión que garanticen su conocimiento generalizado.
 
-8. La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas.
+La declaración de un día como hábil o inhábil a efectos de cómputo de plazos no determina por sí sola el funcionamiento de los centros de trabajo de las Administraciones Públicas, la organización del tiempo de trabajo o el régimen de jornada y horarios de las mismas.
 
-##### Artículo 31. Cómputo de plazos en los registros.
 
-1. Cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos, garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos.
+Cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos (derecho a asistencia de las personas interesadas).
 
-2. El registro electrónico de cada Administración u Organismo se regirá a efectos de cómputo de los plazos, por la fecha y hora oficial de la sede electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y figurar de modo accesible y visible.
+El registro electrónico de cada Administración u Organismo se regirá a efectos de cómputo de los plazos, por la fecha y hora oficial de la sede electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y figurar de modo accesible y visible.
 
 El funcionamiento del registro electrónico se regirá por las siguientes reglas:
 
-a) Permitirá la presentación de documentos todos los días del año durante las veinticuatro horas.
+- **Presentación continua**: todos los días del año durante las veinticuatro horas.
+- b) A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil.
 
-b) A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil.
+	Los documentos se considerarán presentados por el orden de hora efectiva en el que lo fueron en el día inhábil. Los documentos presentados en el día inhábil se reputarán anteriores, según el mismo orden, a los que lo fueran el primer día hábil posterior.
 
-Los documentos se considerarán presentados por el orden de hora efectiva en el que lo fueron en el día inhábil. Los documentos presentados en el día inhábil se reputarán anteriores, según el mismo orden, a los que lo fueran el primer día hábil posterior.
-
-c) El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo. En todo caso, la fecha y hora efectiva de inicio del cómputo de plazos deberá ser comunicada a quien presentó el documento.
+- c) El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo. En todo caso, la fecha y hora efectiva de inicio del cómputo de plazos deberá ser comunicada a quien presentó el documento.
 
 3. La sede electrónica del registro de cada Administración Pública u Organismo, determinará, atendiendo al ámbito territorial en el que ejerce sus competencias el titular de aquélla y al calendario previsto en el artículo 30.7, los días que se considerarán inhábiles a los efectos previstos en este artículo. Este será el único calendario de días inhábiles que se aplicará a efectos del cómputo de plazos en los registros electrónicos, sin que resulte de aplicación a los mismos lo dispuesto en el artículo 30.6.
 
 ##### Artículo 32. Ampliación.
 
-1. La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados, una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
+La Administración podrá conceder (de oficio o a petición de los interesados) una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
 
-2. La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares, así como a aquellos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.
+La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares, así como a aquellos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.
 
-3. Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate. En ningún caso podrá ser objeto de ampliación un plazo ya vencido. Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
+Tanto la petición de los interesados como la decisión sobre la ampliación deberán producirse, en todo caso, antes del vencimiento del plazo de que se trate. En ningún caso podrá ser objeto de ampliación un plazo ya vencido. Los acuerdos sobre ampliación de plazos o sobre su denegación no serán susceptibles de recurso, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
 
-4. Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación que corresponda, y hasta que se solucione el problema, la Administración podrá determinar una ampliación de los plazos no vencidos, debiendo publicar en la sede electrónica tanto la incidencia técnica acontecida como la ampliación concreta del plazo no vencido.
+Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario del sistema o aplicación que corresponda, y hasta que se solucione el problema, la Administración podrá determinar una ampliación de los plazos no vencidos, debiendo publicar en la sede electrónica tanto la incidencia técnica acontecida como la ampliación concreta del plazo no vencido.
 
-5. Cuando como consecuencia de un ciberincidente se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos y el ejercicio de los derechos de los interesados que prevé la normativa vigente, la Administración podrá acordar la ampliación general de plazos de los procedimientos administrativos.
+Cuando como consecuencia de un ciberincidente se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos y el ejercicio de los derechos de los interesados que prevé la normativa vigente, la Administración podrá acordar la ampliación general de plazos de los procedimientos administrativos.
 
 ##### Artículo 33. Tramitación de urgencia.
 
-1. Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.
+Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.
 
-2. No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
-
-
+No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
 
 
 #### Actos administrativos
@@ -572,7 +484,6 @@ Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (art
 
  La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.
 
-
 Los actos administrativos se producirán por escrito a través de medios electrónicos (a menos que su naturaleza exija otra forma más adecuada de expresión y constancia).
 
 2. En los casos en que los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación del mismo la autoridad de la que procede. Si se tratara de resoluciones, el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido.
@@ -580,7 +491,7 @@ Los actos administrativos se producirán por escrito a través de medios electr�
 3. Cuando deba dictarse una serie de actos administrativos de la misma naturaleza, tales como nombramientos, concesiones o licencias, podrán refundirse en un único acto, acordado por el órgano competente, que especificará las personas u otras circunstancias que individualicen los efectos del acto para cada interesado.
 
 
-Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general. Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en alguna de las causas reguladas (artículo 47).
+Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general. Son nulas las resoluciones administrativas que vulneren lo establecido en una disposición reglamentaria, así como aquellas que incurran en las causas reguladas (artículo 47).
 
 Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto a esta Ley. Se presumirán válidos y producirán efectos desde la fecha en que se dicten (salvo que en ellos se disponga otra cosa). 
 
@@ -588,9 +499,9 @@ La eficacia quedará demorada cuando así lo exija el contenido del acto o esté
 
 *Excepcionalmente, podrá otorgarse eficacia retroactiva cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.*
 
-4. Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración.
+Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración.
 
-5. Cuando una Administración Pública tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y aquélla entienda que es ilegal, podrá requerir a ésta previamente para que anule o revise el acto de acuerdo con lo dispuesto en el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso- Administrativa, y, de rechazar el requerimiento, podrá interponer recurso contencioso-administrativo. En estos casos, quedará suspendido el procedimiento para dictar resolución.
+Cuando una Administración Pública tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y aquélla entienda que es ilegal, podrá requerir a ésta previamente para que anule o revise el acto de acuerdo con lo dispuesto en el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso- Administrativa, y, de rechazar el requerimiento, podrá interponer recurso contencioso-administrativo. En estos casos, quedará suspendido el procedimiento para dictar resolución.
 
 
 El órgano que dicte las resoluciones y actos administrativos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos en el plazo de diez días a partir de la fecha en que el acto haya sido dictado. Deberá contener lo siguiente:
@@ -609,9 +520,8 @@ Las notificaciones se practicarán preferentemente por medios electrónicos y, e
 
 No obstante lo anterior, las Administraciones podrán practicar las notificaciones por medios no electrónicos en los siguientes supuestos:
 
-a) Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.
-
-b) Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.
+- a) Cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.
+- b) Cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.
 
 Con independencia del medio utilizado, las notificaciones serán válidas siempre que permitan tener constancia de su envío o puesta a disposición, de la recepción o acceso por el interesado o su representante, de sus fechas y horas, del contenido íntegro, y de la identidad fidedigna del remitente y destinatario de la misma. La acreditación de la notificación efectuada se incorporará al expediente.
 
@@ -621,46 +531,43 @@ Reglamentariamente, las Administraciones podrán establecer la obligación de pr
 
 Adicionalmente, el interesado podrá identificar un dispositivo electrónico y/o una dirección de correo electrónico que servirán para el envío de los avisos regulados en este artículo, pero no para la práctica de notificaciones.
 
-2. En ningún caso se efectuarán por medios electrónicos las siguientes notificaciones:
+En ningún caso se efectuarán por medios electrónicos las siguientes notificaciones:
 
-a) Aquellas en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.
+- a) Aquellas en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.
+- b) Las que contengan medios de pago a favor de los obligados, tales como cheques.
 
-b) Las que contengan medios de pago a favor de los obligados, tales como cheques.
-
-3. En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel. Esta notificación será electrónica en los casos en los que exista obligación de relacionarse de esta forma con la Administración.
+En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel. Esta notificación será electrónica en los casos en los que exista obligación de relacionarse de esta forma con la Administración.
 
 Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en la solicitud, se practicará en cualquier lugar adecuado a tal fin, y por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como de la fecha, la identidad y el contenido del acto notificado.
 
-4. En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales en aplicación de lo previsto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales en aplicación de lo previsto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
 
-5. Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.
+Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.
 
-6. Con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección de correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida.
+Con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones Públicas enviarán un aviso al dispositivo electrónico y/o a la dirección de correo electrónico del interesado que éste haya comunicado, informándole de la puesta a disposición de una notificación en la sede electrónica de la Administración u Organismo correspondiente o en la dirección electrónica habilitada única. La falta de práctica de este aviso no impedirá que la notificación sea considerada plenamente válida.
 
-7. Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.
+Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de notificación la de aquélla que se hubiera producido en primer lugar.
 
 
 ##### Artículo 42. Práctica de las notificaciones en papel.
 
-1. Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.
+Todas las notificaciones que se practiquen en papel deberán ser puestas a disposición del interesado en la sede electrónica de la Administración u Organismo actuante para que pueda acceder al contenido de las mismas de forma voluntaria.
 
-2. Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes. En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación. Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44.
+Cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes. En caso de que el primer intento de notificación se haya realizado antes de las quince horas, el segundo intento deberá realizarse después de las quince horas y viceversa, dejando en todo caso al menos un margen de diferencia de tres horas entre ambos intentos de notificación. Si el segundo intento también resultara infructuoso, se procederá en la forma prevista en el artículo 44.
 
-3. Cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que el resto de notificaciones se puedan realizar a través de medios electrónicos.
+Cuando el interesado accediera al contenido de la notificación en sede electrónica, se le ofrecerá la posibilidad de que el resto de notificaciones se puedan realizar a través de medios electrónicos.
 
 ##### Artículo 43. Práctica de las notificaciones a través de medios electrónicos.
 
-1. Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas, según disponga cada Administración u Organismo.
+Las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas, según disponga cada Administración u Organismo.
 
 A los efectos previstos en este artículo, se entiende por comparecencia en la sede electrónica, el acceso por el interesado o su representante debidamente identificado al contenido de la notificación.
 
-2. Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.
+Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido. Cuando sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde su puesta a disposición sin haberse accedido al contenido.
 
-Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.
+Se entenderá cumplida la obligación a la que se refiere el artículo 40.4 con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única.
 
-3. Se entenderá cumplida la obligación a la que se refiere el artículo 40.4 con la puesta a disposición de la notificación en la sede electrónica de la Administración u Organismo actuante o en la dirección electrónica habilitada única.
-
-4. Los interesados podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.
+Los interesados podrán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.
 
 
 - **Infructuosa**: cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien, intentada ésta, no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el «Boletín Oficial del Estado».
@@ -672,20 +579,16 @@ Cuando la notificación por medios electrónicos sea de carácter obligatorio, o
 
 Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente. En todo caso, los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en los siguientes casos:
 
-- Pluralidad indeterminada de personas
-- 
-a) Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos, siendo, en este último caso, adicional a la individualmente realizada.
+- Pluralidad indeterminada de personas Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos, siendo, en este último caso, adicional a la individualmente realizada.
+- Cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo. En este caso, la convocatoria del procedimiento deberá indicar el medio donde se efectuarán las sucesivas publicaciones, careciendo de validez las que se lleven a cabo en lugares distintos.
 
-b) Cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo. En este caso, la convocatoria del procedimiento deberá indicar el medio donde se efectuarán las sucesivas publicaciones, careciendo de validez las que se lleven a cabo en lugares distintos.
-
-2. La publicación de un acto deberá contener los mismos elementos que el artículo 40.2 exige respecto de las notificaciones. Será también aplicable a la publicación lo establecido en el apartado 3 del mismo artículo.
+La publicación de un acto deberá contener los mismos elementos que las notificaciones (artículo 40.2). Será también aplicable a la publicación (artículo 40.3).
 
 En los supuestos de publicaciones de actos que contengan elementos comunes, podrán publicarse de forma conjunta los aspectos coincidentes, especificándose solamente los aspectos individuales de cada acto.
 
-3. La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar.
+La publicación de los actos se realizará en el diario oficial que corresponda, según cual sea la Administración de la que proceda el acto a notificar.
 
-4. Sin perjuicio de lo dispuesto en el artículo 44, la publicación de actos y comunicaciones que, por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos, se entenderá cumplida por su publicación en el Diario oficial correspondiente.
-
+Sin perjuicio de lo dispuesto en el artículo 44, la publicación de actos y comunicaciones que, por disposición legal o reglamentaria deba practicarse en tablón de anuncios o edictos, se entenderá cumplida por su publicación en el Diario oficial correspondiente.
 
 
 Si el órgano competente apreciase que la notificación por medio de anuncios o la publicación de un acto lesiona derechos o intereses legítimos, se limitará a publicar en el Diario oficial que corresponda una somera indicación del contenido del acto y del lugar donde los interesados podrán comparecer, en el plazo que se establezca, para conocimiento del contenido íntegro del mencionado acto y constancia de tal conocimiento.
@@ -739,10 +642,10 @@ Las disposiciones del procedimiento (título III) incluyen las siguientes consid
 
 Además del resto de derechos previstos en esta Ley, los interesados en un procedimiento administrativo, tienen los siguientes derechos:
 
-|                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| General                                                                                  | a) A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados; el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo; el órgano competente para su instrucción, en su caso, y resolución; y los actos de trámite dictados. Asimismo, también tendrán derecho a acceder y a obtener copia de los documentos contenidos en los citados procedimientos.<br><br>Quienes se relacionen con las Administraciones Públicas a través de medios electrónicos, tendrán derecho a consultar la información a la que se refiere el párrafo anterior, en el Punto de Acceso General electrónico de la Administración que funcionará como un portal de acceso. Se entenderá cumplida la obligación de la Administración de facilitar copias de los documentos contenidos en los procedimientos mediante la puesta a disposición de las mismas en el Punto de Acceso General electrónico de la Administración competente o en las sedes electrónicas que correspondan.<br><br>b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.<br><br>c) A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario. En caso de que, excepcionalmente, deban presentar un documento original, tendrán derecho a obtener una copia autenticada de éste.<br><br>d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.<br><br>e) A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.<br><br>f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.<br><br>g) A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.<br><br>h) A cumplir las obligaciones de pago a través de los medios electrónicos previstos en el artículo 98.2.<br><br>i) Cualesquiera otros que les reconozcan la Constitución y las leyes. |
-| Procedimientos administrativos de naturaleza sancionadora (adicionales a los anteriores) | a) A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia.<br><br>b) A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General                                                                                  | a) A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados; el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo; el órgano competente para su instrucción, en su caso, y resolución; y los actos de trámite dictados. Asimismo, también tendrán derecho a acceder y a obtener copia de los documentos contenidos en los citados procedimientos.<br><br>Quienes se relacionen con las Administraciones Públicas a través de medios electrónicos, tendrán derecho a consultar la información a la que se refiere el párrafo anterior, en el Punto de Acceso General electrónico de la Administración que funcionará como un portal de acceso. Se entenderá cumplida la obligación de la Administración de facilitar copias de los documentos contenidos en los procedimientos mediante la puesta a disposición de las mismas en el Punto de Acceso General electrónico de la Administración competente o en las sedes electrónicas que correspondan.<br><br>b) A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.<br><br>c) A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario. En caso de que, excepcionalmente, deban presentar un documento original, tendrán derecho a obtener una copia autenticada de éste.<br><br>d) A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.<br><br>e) A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.<br><br>f) A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.<br><br>- Asesor: cuando lo consideren conveniente en defensa de sus intereses<br>- Obligaciones de pago: por medios electrónicos (artículo 98.2)<br>- Otros: por la Constitución y las leyes. |
+| Procedimientos administrativos de naturaleza sancionadora (adicionales a los anteriores) | a) A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia.<br><br>b) A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 
 Las etapas incluyen las siguientes
@@ -759,43 +662,40 @@ Las etapas incluyen las siguientes
 ##### Iniciación
 
 La iniciación del procedimiento podrá ser de oficio o a solicitud de la persona interesada.
-##### Artículo 55. Información y actuaciones previas.
 
-1. Con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
+Con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.
 
-2. En el caso de procedimientos de naturaleza sancionadora las actuaciones previas se orientarán a determinar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.
+En el caso de procedimientos de naturaleza sancionadora las actuaciones previas se orientarán a determinar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.
 
 Las actuaciones previas serán realizadas por los órganos que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento.
 
 ##### Artículo 56. Medidas provisionales.
 
-1. Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.
+Iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar (de oficio o a instancia de parte y de forma motivada) las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello, de acuerdo con los principios de proporcionalidad, efectividad y menor onerosidad.
 
-2. Antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir el procedimiento, de oficio o a instancia de parte, en los casos de urgencia inaplazable y para la protección provisional de los intereses implicados, podrá adoptar de forma motivada las medidas provisionales que resulten necesarias y proporcionadas. Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
+Antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir el procedimiento, de oficio o a instancia de parte, en los casos de urgencia inaplazable y para la protección provisional de los intereses implicados, podrá adoptar de forma motivada las medidas provisionales que resulten necesarias y proporcionadas. Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
 
 En todo caso, dichas medidas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.
 
-3. De acuerdo con lo previsto en los dos apartados anteriores, podrán acordarse las siguientes medidas provisionales, en los términos previstos en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil:
+Podrán acordarse las siguientes medidas provisionales (de acuerdo a la Ley 1/2000):
 
-a) Suspensión temporal de actividades.
-b) Prestación de fianzas.
-c) Retirada o intervención de bienes productivos o suspensión temporal de servicios por razones de sanidad, higiene o seguridad, el cierre temporal del establecimiento por estas u otras causas previstas en la normativa reguladora aplicable.
-d) Embargo preventivo de bienes, rentas y cosas fungibles computables en metálico por aplicación de precios ciertos.
-e) El depósito, retención o inmovilización de cosa mueble.
-f) La intervención y depósito de ingresos obtenidos mediante una actividad que se considere ilícita y cuya prohibición o cesación se pretenda.
-g) Consignación o constitución de depósito de las cantidades que se reclamen.
-h) La retención de ingresos a cuenta que deban abonar las Administraciones Públicas.
-i) Aquellas otras medidas que, para la protección de los derechos de los interesados, prevean expresamente las leyes, o que se estimen necesarias para asegurar la efectividad de la resolución.
+- Suspensión temporal de actividades.
+- Prestación de fianzas.
+- Retirada o intervención de bienes productivos o suspensión temporal de servicios por razones de sanidad, higiene o seguridad, el cierre temporal del establecimiento por estas u otras causas previstas en la normativa reguladora aplicable.
+- Embargo preventivo de bienes, rentas y cosas fungibles computables en metálico por aplicación de precios ciertos.
+- El depósito, retención o inmovilización de cosa mueble.
+- La intervención y depósito de ingresos obtenidos mediante una actividad que se considere ilícita y cuya prohibición o cesación se pretenda.
+- Consignación o constitución de depósito de las cantidades que se reclamen.
+- La retención de ingresos a cuenta que deban abonar las Administraciones Públicas.
+- Otras medidas que, para la protección de los derechos de los interesados, prevean expresamente las leyes, o que se estimen necesarias para asegurar la efectividad de la resolución.
 
-4. No se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes.
+No se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes.
 
-5. Las medidas provisionales podrán ser alzadas o modificadas durante la tramitación del procedimiento, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción.
+Las medidas provisionales podrán ser alzadas o modificadas durante la tramitación del procedimiento, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción.
 
 En todo caso, se extinguirán cuando surta efectos la resolución administrativa que ponga fin al procedimiento correspondiente.
 
 El órgano administrativo que inicie o tramite un procedimiento, cualquiera que haya sido la forma de su iniciación, podrá disponer (de oficio o a instancia de parte), su acumulación a otros con los que guarde identidad sustancial o íntima conexión (siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento). Contra el acuerdo de acumulación no procederá recurso alguno.
-
-
 
 ##### Inicio
 
@@ -814,43 +714,41 @@ Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, b
 	Las denuncias deberán expresar la identidad de la persona o personas que las presentan y el relato de los hechos que se ponen en conocimiento de la Administración. Cuando dichos hechos pudieran constituir una infracción administrativa, recogerán la fecha de su comisión y, cuando sea posible, la identificación de los presuntos responsables.
 
 
-
 Asimismo, el órgano competente para resolver deberá reducir el importe del pago de la multa que le correspondería o, en su caso, la sanción de carácter no pecuniario, cuando no cumpliéndose alguna de las condiciones anteriores, el denunciante facilite elementos de prueba que aporten un valor añadido significativo respecto de aquellos de los que se disponga.
 
 En ambos casos será necesario que el denunciante cese en la participación de la infracción y no haya destruido elementos de prueba relacionados con el objeto de la denuncia.
 
-5. La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento.
+La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento.
 
 En los procedimientos de responsabilidad 
 
-|                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Naturaleza sancionadora     | - Orden superior: la orden expresará, en la medida de lo posible, la persona o personas presuntamente responsables; las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron.<br>	<br>- Petición razonada de otros órganos: deberán especificar, en la medida de lo posible, la persona o personas presuntamente responsables; las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron.<br><br>1. El acuerdo de iniciación se comunicará al instructor del procedimiento, con traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados, entendiendo en todo caso por tal al inculpado.<br><br>Asimismo, la incoación se comunicará al denunciante cuando las normas reguladoras del procedimiento así lo prevean.<br><br>2. El acuerdo de iniciación deberá contener al menos:<br><br>a) Identificación de la persona o personas presuntamente responsables.<br><br>b) Los hechos que motivan la incoación del procedimiento, su posible calificación y las sanciones que pudieran corresponder, sin perjuicio de lo que resulte de la instrucción.<br><br>c) Identificación del instructor y, en su caso, Secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos.<br><br>d) Órgano competente para la resolución del procedimiento y norma que le atribuya tal competencia, indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85.<br><br>e) Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo de conformidad con el artículo 56.<br><br>f) Indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio, así como indicación de que, en caso de no efectuar alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación, éste podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada.<br><br>3. Excepcionalmente, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos que motivan la incoación del procedimiento, la citada calificación podrá realizarse en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados.<br> |
-| Responsabilidad patrimonial | - Petición razonada de otros órganos: deberá individualizar la lesión producida en una persona o grupo de personas, su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo<br><br>Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.<br><br>Cuando el denunciante haya participado en la comisión de una infracción de esta naturaleza y existan otros infractores, el órgano competente para resolver el procedimiento deberá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario, cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, siempre y cuando en el momento de aportarse aquellos no se disponga de elementos suficientes para ordenar la misma y se repare el perjuicio causado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Naturaleza sancionadora     | - Orden superior: la orden expresará, en la medida de lo posible, la persona o personas presuntamente responsables; las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron.<br>	<br>- Petición razonada de otros órganos: deberán especificar, en la medida de lo posible, la persona o personas presuntamente responsables; las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar, la fecha, fechas o período de tiempo continuado en que los hechos se produjeron.<br><br>1. El acuerdo de iniciación se comunicará al instructor del procedimiento, con traslado de cuantas actuaciones existan al respecto, y se notificará a los interesados, entendiendo en todo caso por tal al inculpado.<br><br>Asimismo, la incoación se comunicará al denunciante cuando las normas reguladoras del procedimiento así lo prevean.<br><br><br><br>a) Identificación de la persona o personas presuntamente responsables.<br><br>b) Los hechos que motivan la incoación del procedimiento, su posible calificación y las sanciones que pudieran corresponder, sin perjuicio de lo que resulte de la instrucción.<br><br>c) Identificación del instructor y, en su caso, Secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos.<br><br>d) Órgano competente para la resolución del procedimiento y norma que le atribuya tal competencia, indicando la posibilidad de que el presunto responsable pueda reconocer voluntariamente su responsabilidad, con los efectos previstos en el artículo 85.<br><br>e) Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo de conformidad con el artículo 56.<br><br>f) Indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio, así como indicación de que, en caso de no efectuar alegaciones en el plazo previsto sobre el contenido del acuerdo de iniciación, éste podrá ser considerado propuesta de resolución cuando contenga un pronunciamiento preciso acerca de la responsabilidad imputada.<br><br>3. Excepcionalmente, cuando en el momento de dictar el acuerdo de iniciación no existan elementos suficientes para la calificación inicial de los hechos que motivan la incoación del procedimiento, la citada calificación podrá realizarse en una fase posterior mediante la elaboración de un Pliego de cargos, que deberá ser notificado a los interesados.<br> |
+| Responsabilidad patrimonial | - Petición razonada de otros órganos: deberá individualizar la lesión producida en una persona o grupo de personas, su relación de causalidad con el funcionamiento del servicio público, su evaluación económica si fuera posible, y el momento en que la lesión efectivamente se produjo<br><br>Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas la no iniciación del procedimiento deberá ser motivada y se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.<br><br>Cuando el denunciante haya participado en la comisión de una infracción de esta naturaleza y existan otros infractores, el órgano competente para resolver el procedimiento deberá eximir al denunciante del pago de la multa que le correspondería u otro tipo de sanción de carácter no pecuniario, cuando sea el primero en aportar elementos de prueba que permitan iniciar el procedimiento o comprobar la infracción, siempre y cuando en el momento de aportarse aquellos no se disponga de elementos suficientes para ordenar la misma y se repare el perjuicio causado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 Respecto al Inicio del procedimiento a solicitud del interesado, las solicitudes deberán contener lo siguiente: 
 
 - Nombre y apellidos del interesado (y, en su caso, de la persona que lo represente)
-- Identificación del medio electrónico, o en su defecto, lugar físico en que desea que se practique la notificación. Adicionalmente, los interesados podrán aportar su dirección de correo electrónico y/o dispositivo electrónico con el fin de que las Administraciones Públicas les avisen del envío o puesta a disposición de la notificación.
-- Hechos, razones y petición en que se concrete, con toda claridad, la solicitud.
-- Lugar y fecha.
-- Firma del solicitante o acreditación de la autenticidad de su voluntad expresada por cualquier medio.
-- Órgano, centro o unidad administrativa a la que se dirige y su correspondiente código de identificación.
+- Identificación de las notificaciones: medio electrónico, o lugar físico. Adicionalmente, los interesados podrán aportar su dirección de correo electrónico y/o dispositivo electrónico con el fin de que las Administraciones Públicas les avisen del envío o puesta a disposición de la notificación
+- Hechos, razones y petición en que se concrete, con toda claridad, la solicitud
+- Lugar y fecha
+- Firma del solicitante o acreditación de la autenticidad de su voluntad expresada por cualquier medio
+- Órgano, centro o unidad administrativa a la que se dirige y su correspondiente código de identificación
 
 *Las oficinas de asistencia en materia de registros estarán obligadas a facilitar a los interesados el código de identificación si el interesado lo desconoce. Asimismo, las Administraciones Públicas deberán mantener y actualizar en la sede electrónica correspondiente un listado con los códigos de identificación vigentes.*
 
-2. Cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, podrán ser formuladas en una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa.
+Cuando las pretensiones correspondientes a una pluralidad de personas tengan un contenido y fundamento idéntico o sustancialmente similar, podrán ser formuladas en una única solicitud, salvo que las normas reguladoras de los procedimientos específicos dispongan otra cosa.
 
-3. De las solicitudes, comunicaciones y escritos que presenten los interesados electrónicamente o en las oficinas de asistencia en materia de registros de la Administración, podrán éstos exigir el correspondiente recibo que acredite la fecha y hora de presentación.
+De las solicitudes, comunicaciones y escritos que presenten los interesados electrónicamente o en las oficinas de asistencia en materia de registros de la Administración, podrán éstos exigir el correspondiente recibo que acredite la fecha y hora de presentación.
 
-4. Las Administraciones Públicas deberán establecer modelos y sistemas de presentación masiva que permitan a los interesados presentar simultáneamente varias solicitudes. Estos modelos, de uso voluntario, estarán a disposición de los interesados en las correspondientes sedes electrónicas y en las oficinas de asistencia en materia de registros de las Administraciones Públicas.
+Las Administraciones Públicas deberán establecer modelos y sistemas de presentación masiva que permitan a los interesados presentar simultáneamente varias solicitudes. Estos modelos, de uso voluntario, estarán a disposición de los interesados en las correspondientes sedes electrónicas y en las oficinas de asistencia en materia de registros de las Administraciones Públicas.
 
 Los solicitantes podrán acompañar los elementos que estimen convenientes para precisar o completar los datos del modelo, los cuales deberán ser admitidos y tenidos en cuenta por el órgano al que se dirijan.
 
-5. Los sistemas normalizados de solicitud podrán incluir comprobaciones automáticas de la información aportada respecto de datos almacenados en sistemas propios o pertenecientes a otras Administraciones u ofrecer el formulario cumplimentado, en todo o en parte, con objeto de que el interesado verifique la información y, en su caso, la modifique y complete.
+Los sistemas normalizados de solicitud podrán incluir comprobaciones automáticas de la información aportada respecto de datos almacenados en sistemas propios o pertenecientes a otras Administraciones u ofrecer el formulario cumplimentado, en todo o en parte, con objeto de que el interesado verifique la información y, en su caso, la modifique y complete.
 
-6. Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados.
-
+Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, éstos serán de uso obligatorio por los interesados.
 
 
 Los interesados sólo podrán solicitar el inicio de un procedimiento de responsabilidad patrimonial, cuando no haya prescrito su derecho a reclamar. El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo. En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.
@@ -864,59 +762,57 @@ Además de lo previsto en el artículo 66, en la solicitud que realicen los int
 
 
 
-1. Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.
+Si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.
 
-2. Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales.
+Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente, hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales.
 
-3. En los procedimientos iniciados a solicitud de los interesados, el órgano competente podrá recabar del solicitante la modificación o mejora voluntarias de los términos de aquélla. De ello se levantará acta sucinta, que se incorporará al procedimiento.
+En los procedimientos iniciados a solicitud de los interesados, el órgano competente podrá recabar del solicitante la modificación o mejora voluntarias de los términos de aquélla. De ello se levantará acta sucinta, que se incorporará al procedimiento.
 
-4. Si alguno de los sujetos a los que hace referencia el artículo 14.2 y 14.3 presenta su solicitud presencialmente, las Administraciones Públicas requerirán al interesado para que la subsane a través de su presentación electrónica. A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.
-
+Si alguno de los sujetos a los que hace referencia el artículo 14.2 y 14.3 presenta su solicitud presencialmente, las Administraciones Públicas requerirán al interesado para que la subsane a través de su presentación electrónica. A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.
 
 
 Se entenderá por "declaración responsable" el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida, y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante el período de tiempo inherente a dicho reconocimiento o ejercicio.
+	Los requisitos a los que se refiere el párrafo anterior deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable. Las Administraciones podrán requerir en cualquier momento que se aporte la documentación que acredite el cumplimiento de los mencionados requisitos y el interesado deberá aportarla.
 
-Los requisitos a los que se refiere el párrafo anterior deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable. Las Administraciones podrán requerir en cualquier momento que se aporte la documentación que acredite el cumplimiento de los mencionados requisitos y el interesado deberá aportarla.
+Se entenderá por "comunicación" aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.
 
-2. A los efectos de esta Ley, se entenderá por comunicación aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.
+Las declaraciones responsables y las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.
 
-3. Las declaraciones responsables y las comunicaciones permitirán, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.
+No obstante, la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente.
 
-No obstante lo dispuesto en el párrafo anterior, la comunicación podrá presentarse dentro de un plazo posterior al inicio de la actividad cuando la legislación correspondiente lo prevea expresamente.
-
-4. La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable o a una comunicación, o la no presentación ante la Administración competente de la declaración responsable, la documentación que sea en su caso requerida para acreditar el cumplimiento de lo declarado, o la comunicación, determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.
+La inexactitud, falsedad u omisión, de carácter esencial, de cualquier dato o información que se incorpore a una declaración responsable o a una comunicación, o la no presentación ante la Administración competente de la declaración responsable, la documentación que sea en su caso requerida para acreditar el cumplimiento de lo declarado, o la comunicación, determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.
 
 Asimismo, la resolución de la Administración Pública que declare tales circunstancias podrá determinar la obligación del interesado de restituir la situación jurídica al momento previo al reconocimiento o al ejercicio del derecho o al inicio de la actividad correspondiente, así como la imposibilidad de instar un nuevo procedimiento con el mismo objeto durante un período de tiempo determinado por la ley, todo ello conforme a los términos establecidos en las normas sectoriales de aplicación.
 
-5. Las Administraciones Públicas tendrán permanentemente publicados y actualizados modelos de declaración responsable y de comunicación, fácilmente accesibles a los interesados.
+Las Administraciones Públicas tendrán permanentemente publicados y actualizados modelos de declaración responsable y de comunicación, fácilmente accesibles a los interesados.
 
-6. Únicamente será exigible, bien una declaración responsable, bien una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio, sin que sea posible la exigencia de ambas acumulativamente.
+Únicamente será exigible, bien una declaración responsable, bien una comunicación para iniciar una misma actividad u obtener el reconocimiento de un mismo derecho o facultad para su ejercicio, sin que sea posible la exigencia de ambas acumulativamente.
 
 
 ##### Ordenación
 
 Se entiende por "expediente administrativo" el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.
 
-2. Los expedientes tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos que contenga cuando se remita. Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada.
+Los expedientes tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos que contenga cuando se remita. Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada.
 
-3. Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes Normas Técnicas de Interoperabilidad, y se enviará completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga. La autenticación del citado índice garantizará la integridad e inmutabilidad del expediente electrónico generado desde el momento de su firma y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos.
+Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes Normas Técnicas de Interoperabilidad, y se enviará completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga. La autenticación del citado índice garantizará la integridad e inmutabilidad del expediente electrónico generado desde el momento de su firma y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos.
 
-4. No formará parte del expediente administrativo la información que tenga carácter auxiliar o de apoyo, como la contenida en aplicaciones, ficheros y bases de datos informáticas, notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas, así como los juicios de valor emitidos por las Administraciones Públicas, salvo que se trate de informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.
+No formará parte del expediente administrativo la información que tenga carácter auxiliar o de apoyo, como la contenida en aplicaciones, ficheros y bases de datos informáticas, notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas, así como los juicios de valor emitidos por las Administraciones Públicas, salvo que se trate de informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.
 
 
 El procedimiento se impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad, y de acuerdo al de celeridad.
 
 En el despacho de los expedientes se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza (salvo que por el titular de la unidad administrativa se dé orden motivada en contrario, de la que quede constancia). El incumplimiento de esto dará lugar a la exigencia de responsabilidad disciplinaria del infractor (y, en su caso remoción del puesto de trabajo)
 
-3. Las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función serán responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos establecidos.
+Las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función serán responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos establecidos.
 
 De acuerdo con el principio de simplificación administrativa, se acordarán en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo. Al solicitar los trámites que deban ser cumplidos por otros órganos, deberá consignarse en la comunicación cursada el plazo legal establecido al efecto.
 
 Los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de diez días a partir del siguiente al de la notificación del correspondiente acto (salvo que la norma fije un plazo distinto).
 
-2. En cualquier momento del procedimiento, cuando la Administración considere que alguno de los actos de los interesados no reúne los requisitos necesarios, lo pondrá en conocimiento de su autor, concediéndole un plazo de diez días para cumplimentarlo.
+En cualquier momento del procedimiento, cuando la Administración considere que alguno de los actos de los interesados no reúne los requisitos necesarios, lo pondrá en conocimiento de su autor, concediéndole un plazo de diez días para cumplimentarlo.
 
-3. A los interesados que no cumplan lo dispuesto en los apartados anteriores, se les podrá declarar decaídos en su derecho al trámite correspondiente. No obstante, se admitirá la actuación del interesado y producirá sus efectos legales, si se produjera antes o dentro del día que se notifique la resolución en la que se tenga por transcurrido el plazo.
+A los interesados que no cumplan lo dispuesto en los apartados anteriores, se les podrá declarar decaídos en su derecho al trámite correspondiente. No obstante, se admitirá la actuación del interesado y producirá sus efectos legales, si se produjera antes o dentro del día que se notifique la resolución en la que se tenga por transcurrido el plazo.
 
 Las cuestiones incidentales que se susciten en el procedimiento (incluso sobre la nulidad de actuaciones), no suspenderán su tramitación del mismo, salvo la recusación.
 
@@ -930,11 +826,11 @@ Las cuestiones incidentales que se susciten en el procedimiento (incluso sobre l
 
 Los actos de instrucción necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución, se realizarán de oficio y a través de medios electrónicos, por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer aquellas actuaciones que requieran su intervención o constituyan trámites legal o reglamentariamente establecidos.
 
-2. Las aplicaciones y sistemas de información utilizados para la instrucción de los procedimientos deberán garantizar el control de los tiempos y plazos, la identificación de los órganos responsables y la tramitación ordenada de los expedientes, así como facilitar la simplificación y la publicidad de los procedimientos.
+Las aplicaciones y sistemas de información utilizados para la instrucción de los procedimientos deberán garantizar el control de los tiempos y plazos, la identificación de los órganos responsables y la tramitación ordenada de los expedientes, así como facilitar la simplificación y la publicidad de los procedimientos.
 
-3. Los actos de instrucción que requieran la intervención de los interesados habrán de practicarse en la forma que resulte más conveniente para ellos y sea compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales.
+Los actos de instrucción que requieran la intervención de los interesados habrán de practicarse en la forma que resulte más conveniente para ellos y sea compatible, en la medida de lo posible, con sus obligaciones laborales o profesionales.
 
-4. En cualquier caso, el órgano instructor adoptará las medidas necesarias para lograr el pleno respeto a los principios de contradicción y de igualdad de los interesados en el procedimiento.
+En cualquier caso, el órgano instructor adoptará las medidas necesarias para lograr el pleno respeto a los principios de contradicción y de igualdad de los interesados en el procedimiento.
 
 
 Los interesados podrán, ***en cualquier momento del procedimiento anterior al trámite de audiencia***, aducir alegaciones y aportar documentos u otros elementos de juicio, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.
@@ -946,24 +842,22 @@ En todo momento podrán los interesados alegar los defectos de tramitación y, e
 
 ##### Artículo 77. Medios y período de prueba.
 
-1. Los hechos relevantes para la decisión de un procedimiento podrán acreditarse por cualquier medio de prueba admisible en Derecho, cuya valoración se realizará de acuerdo con los criterios establecidos en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+Los hechos relevantes para la decisión de un procedimiento podrán acreditarse por cualquier medio de prueba admisible en Derecho (cuya valoración se realizará de acuerdo con los criterios de la Ley 1/2000).
 
-2. Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes. Asimismo, cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba por un plazo no superior a diez días.
+Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes. Asimismo, cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba por un plazo no superior a diez días.
 
-3. El instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada.
+El instructor del procedimiento sólo podrá rechazar las pruebas propuestas por los interesados cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada.
 
-3 bis. Cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, corresponderá a la persona a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.
+Cuando el interesado alegue discriminación y aporte indicios fundados sobre su existencia, corresponderá a la persona a quien se impute la situación discriminatoria la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.
+	A los efectos de lo dispuesto en el párrafo anterior, el órgano administrativo podrá recabar informe de los organismos públicos competentes en materia de igualdad.
 
-A los efectos de lo dispuesto en el párrafo anterior, el órgano administrativo podrá recabar informe de los organismos públicos competentes en materia de igualdad.
+En los procedimientos de carácter sancionador, los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien.
 
-4. En los procedimientos de carácter sancionador, los hechos declarados probados por resoluciones judiciales penales firmes vincularán a las Administraciones Públicas respecto de los procedimientos sancionadores que substancien.
+Los documentos formalizados por los funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales correspondientes se recojan los hechos constatados por aquéllos harán prueba de éstos salvo que se acredite lo contrario.
 
-5. Los documentos formalizados por los funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales correspondientes se recojan los hechos constatados por aquéllos harán prueba de éstos salvo que se acredite lo contrario.
+Cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter preceptivo.
 
-6. Cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter preceptivo.
-
-7. Cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución.
-
+Cuando la valoración de las pruebas practicadas pueda constituir el fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos, deberá incluirse en la propuesta de resolución.
 
 La Administración comunicará a los interesados, con antelación suficiente, el inicio de las actuaciones necesarias para la realización de las pruebas que hayan sido admitidas. En la notificación se consignará el lugar, fecha y hora en que se practicará la prueba, con la advertencia, en su caso, de que el interesado puede nombrar técnicos para que le asistan.
 
@@ -973,10 +867,9 @@ En los casos en que, a petición del interesado, deban efectuarse pruebas cuya r
 
 A efectos de la resolución del procedimiento, se solicitarán los informes que sean preceptivos por las disposiciones legales, y los que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos. 2. En la petición de informe se concretará el extremo o extremos acerca de los que se solicita.
 
+Los informes serán facultativos y no vinculantes (salvo disposición expresa en contrario), y emitidos a través de medios electrónicos (artículo 26) en un plazo de diez días (salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro diferente: mayor o menor)
 
-Los informes serán facultativos y no vinculantes (salvo disposición expresa en contrario), y emitidos a través de medios electrónicos (artículo 26) en un plazo de diez días (salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor)
-
-3. De no emitirse el informe en el plazo señalado, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos en la letra d) del apartado 1 del artículo 22.
+De no emitirse el informe en plazo, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos en la letra d) del apartado 1 del artículo 22.
 
 4. Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se podrán proseguir las actuaciones.
 
@@ -984,15 +877,15 @@ El informe emitido fuera de plazo podrá no ser tenido en cuenta en la correspon
 
 ##### Artículo 81. Solicitud de informes y dictámenes en los procedimientos de responsabilidad patrimonial.
 
-1. En el caso de los procedimientos de responsabilidad patrimonial será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.
+En el caso de los procedimientos de responsabilidad patrimonial será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.
 
-2. Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que se establezca en la correspondiente legislación autonómica, así como en aquellos casos que disponga la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado, será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma.
+Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que se establezca en la correspondiente legislación autonómica, así como en aquellos casos que disponga la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado, será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma.
 
 A estos efectos, el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución, que se ajustará a lo previsto en el artículo 91, o, en su caso, la propuesta de acuerdo por el que se podría terminar convencionalmente el procedimiento.
 
 El dictamen se emitirá en el plazo de dos meses y deberá pronunciarse sobre la existencia o no de relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado y la cuantía y modo de la indemnización de acuerdo con los criterios establecidos en esta Ley.
 
-3. En el caso de reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia, será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de dos meses. El plazo para dictar resolución quedará suspendido por el tiempo que medie entre la solicitud del informe y su recepción, no pudiendo exceder dicho plazo de los citados dos meses.
+En el caso de reclamaciones en materia de responsabilidad patrimonial del Estado por el funcionamiento anormal de la Administración de Justicia, será preceptivo el informe del Consejo General del Poder Judicial que será evacuado en el plazo máximo de dos meses. El plazo para dictar resolución quedará suspendido por el tiempo que medie entre la solicitud del informe y su recepción, no pudiendo exceder dicho plazo de los citados dos meses.
 
 #### Sección 4.ª Participación de los interesados
 
@@ -1007,7 +900,6 @@ Los interesados podrán alegar y presentar documentaciones y justificaciones, en
 *Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.*
 
 En los procedimientos de responsabilidad patrimonial a los que se refiere el artículo 32.9 de la Ley de Régimen Jurídico del Sector Público, será necesario en todo caso dar audiencia al contratista, notificándole cuantas actuaciones se realicen en el procedimiento, al efecto de que se persone en el mismo, exponga lo que a su derecho convenga y proponga cuantos medios de prueba estime necesarios.
-
 
 
 El órgano al que corresponda la resolución del procedimiento podrá acordar un período de información pública, publicando un anuncio en el Diario oficial correspondiente.
@@ -1035,25 +927,25 @@ La finalización ha de ser motivada. Se produce por las siguientes causas:
 
 ##### Artículo 85. Terminación en los procedimientos sancionadores.
 
-1. Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.
+Iniciado un procedimiento sancionador, si el infractor reconoce su responsabilidad, se podrá resolver el procedimiento con la imposición de la sanción que proceda.
 
-2. Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
+Cuando la sanción tenga únicamente carácter pecuniario o bien quepa imponer una sanción pecuniaria y otra de carácter no pecuniario pero se ha justificado la improcedencia de la segunda, el pago voluntario por el presunto responsable, en cualquier momento anterior a la resolución, implicará la terminación del procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la determinación de la indemnización por los daños y perjuicios causados por la comisión de la infracción.
 
-3. En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+En ambos casos, cuando la sanción tenga únicamente carácter pecuniario, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20 % sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí. Las citadas reducciones, deberán estar determinadas en la notificación de iniciación del procedimiento y su efectividad estará condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
 
 El porcentaje de reducción previsto en este apartado podrá ser incrementado reglamentariamente.
 
 ##### Artículo 86. Terminación convencional.
 
-1. Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con personas tanto de Derecho público como privado, siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público que tienen encomendado, con el alcance, efectos y régimen jurídico específico que, en su caso, prevea la disposición que lo regule, pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter previo, vinculante o no, a la resolución que les ponga fin.
+Las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con personas tanto de Derecho público como privado, siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público que tienen encomendado, con el alcance, efectos y régimen jurídico específico que, en su caso, prevea la disposición que lo regule, pudiendo tales actos tener la consideración de finalizadores de los procedimientos administrativos o insertarse en los mismos con carácter previo, vinculante o no, a la resolución que les ponga fin.
 
-2. Los citados instrumentos deberán establecer como contenido mínimo la identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia, debiendo publicarse o no según su naturaleza y las personas a las que estuvieran destinados.
+Los citados instrumentos deberán establecer como contenido mínimo la identificación de las partes intervinientes, el ámbito personal, funcional y territorial, y el plazo de vigencia, debiendo publicarse o no según su naturaleza y las personas a las que estuvieran destinados.
 
-3. Requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas, los acuerdos que versen sobre materias de la competencia directa de dicho órgano.
+Requerirán en todo caso la aprobación expresa del Consejo de Ministros u órgano equivalente de las Comunidades Autónomas, los acuerdos que versen sobre materias de la competencia directa de dicho órgano.
 
-4. Los acuerdos que se suscriban no supondrán alteración de las competencias atribuidas a los órganos administrativos, ni de las responsabilidades que correspondan a las autoridades y funcionarios, relativas al funcionamiento de los servicios públicos.
+Los acuerdos que se suscriban no supondrán alteración de las competencias atribuidas a los órganos administrativos, ni de las responsabilidades que correspondan a las autoridades y funcionarios, relativas al funcionamiento de los servicios públicos.
 
-5. En los casos de procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios que para calcularla y abonarla establece el artículo 34 de la Ley de Régimen Jurídico del Sector Público.
+En los casos de procedimientos de responsabilidad patrimonial, el acuerdo alcanzado entre las partes deberá fijar la cuantía y modo de indemnización de acuerdo con los criterios que para calcularla y abonarla establece el artículo 34 de la Ley de Régimen Jurídico del Sector Público.
 
 #### Sección 2.ª Resolución
 
@@ -1065,49 +957,45 @@ El acuerdo de realización de actuaciones complementarias se notificará a los i
 
 ##### Artículo 88. Contenido.
 
-1. La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo.
+La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo.
 
 Cuando se trate de cuestiones conexas que no hubieran sido planteadas por los interesados, el órgano competente podrá pronunciarse sobre las mismas, poniéndolo antes de manifiesto a aquéllos por un plazo no superior a quince días, para que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba.
 
-2. En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede.
+En los procedimientos tramitados a solicitud del interesado, la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede.
 
-3. Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35. Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno.
+Las resoluciones contendrán la decisión, que será motivada en los casos a que se refiere el artículo 35. Expresarán, además, los recursos que contra la misma procedan, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno.
 
-4. Sin perjuicio de la forma y lugar señalados por el interesado para la práctica de las notificaciones, la resolución del procedimiento se dictará electrónicamente y garantizará la identidad del órgano competente, así como la autenticidad e integridad del documento que se formalice mediante el empleo de alguno de los instrumentos previstos en esta Ley.
+Sin perjuicio de la forma y lugar señalados por el interesado para la práctica de las notificaciones, la resolución del procedimiento se dictará electrónicamente y garantizará la identidad del órgano competente, así como la autenticidad e integridad del documento que se formalice mediante el empleo de alguno de los instrumentos previstos en esta Ley.
 
-5. En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.
+En ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá acordarse la inadmisión de las solicitudes de reconocimiento de derechos no previstos en el ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.
 
-6. La aceptación de informes o dictámenes servirá de motivación a la resolución cuando se incorporen al texto de la misma.
+La aceptación de informes o dictámenes servirá de motivación a la resolución cuando se incorporen al texto de la misma.
 
-7. Cuando la competencia para instruir y resolver un procedimiento no recaiga en un mismo órgano, será necesario que el instructor eleve al órgano competente para resolver una propuesta de resolución.
+Cuando la competencia para instruir y resolver un procedimiento no recaiga en un mismo órgano, será necesario que el instructor eleve al órgano competente para resolver una propuesta de resolución.
 
 En los procedimientos de carácter sancionador, la propuesta de resolución deberá ser notificada a los interesados en los términos previstos en el artículo siguiente.
 
 ##### Artículo 89. Propuesta de resolución en los procedimientos de carácter sancionador.
 
-1. El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias:
+El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, sin que sea necesaria la formulación de la propuesta de resolución, cuando en la instrucción procedimiento se ponga de manifiesto que concurre alguna de las siguientes circunstancias:
 
-a) La inexistencia de los hechos que pudieran constituir la infracción.
+- a) La inexistencia de los hechos que pudieran constituir la infracción.
+- b) Cuando los hechos no resulten acreditados.
+- c) Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa.
+- d) Cuando no exista o no se haya podido identificar a la persona o personas responsables o bien aparezcan exentos de responsabilidad.
+- e) Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.
 
-b) Cuando los hechos no resulten acreditados.
+En el caso de procedimientos de carácter sancionador, una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.
 
-c) Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa.
-
-d) Cuando no exista o no se haya podido identificar a la persona o personas responsables o bien aparezcan exentos de responsabilidad.
-
-e) Cuando se concluyera, en cualquier momento, que ha prescrito la infracción.
-
-2. En el caso de procedimientos de carácter sancionador, una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.
-
-3. En la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquéllos constituyan, la persona o personas responsables y la sanción que se proponga, la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, así como las medidas provisionales que, en su caso, se hubieran adoptado. Cuando la instrucción concluya la inexistencia de infracción o responsabilidad y no se haga uso de la facultad prevista en el apartado primero, la propuesta declarará esa circunstancia.
+En la propuesta de resolución se fijarán de forma motivada los hechos que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquéllos constituyan, la persona o personas responsables y la sanción que se proponga, la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, así como las medidas provisionales que, en su caso, se hubieran adoptado. Cuando la instrucción concluya la inexistencia de infracción o responsabilidad y no se haga uso de la facultad prevista en el apartado primero, la propuesta declarará esa circunstancia.
 
 ##### Artículo 90. Especialidades de la resolución en los procedimientos sancionadores.
 
-1. En el caso de procedimientos de carácter sancionador, además del contenido previsto en los dos artículos anteriores, la resolución incluirá la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, fijarán los hechos y, en su caso, la persona o personas responsables, la infracción o infracciones cometidas y la sanción o sanciones que se imponen, o bien la declaración de no existencia de infracción o responsabilidad.
+En el caso de procedimientos de carácter sancionador, además del contenido previsto en los dos artículos anteriores, la resolución incluirá la valoración de las pruebas practicadas, en especial aquellas que constituyan los fundamentos básicos de la decisión, fijarán los hechos y, en su caso, la persona o personas responsables, la infracción o infracciones cometidas y la sanción o sanciones que se imponen, o bien la declaración de no existencia de infracción o responsabilidad.
 
-2. En la resolución no se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica. No obstante, cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días.
+En la resolución no se podrán aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica. No obstante, cuando el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes en el plazo de quince días.
 
-3. La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa, pudiendo adoptarse en la misma las disposiciones cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva y que podrán consistir en el mantenimiento de las medidas provisionales que en su caso se hubieran adoptado.
+La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa contra ella ningún recurso ordinario en vía administrativa, pudiendo adoptarse en la misma las disposiciones cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva y que podrán consistir en el mantenimiento de las medidas provisionales que en su caso se hubieran adoptado.
 
 Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente, si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa. Dicha suspensión cautelar finalizará cuando:
 
@@ -1119,15 +1007,15 @@ b) Habiendo el interesado interpuesto recurso contencioso-administrativo:
 
 2.º El órgano judicial se pronuncie sobre la suspensión cautelar solicitada, en los términos previstos en ella.
 
-4. Cuando las conductas sancionadas hubieran causado daños o perjuicios a las Administraciones y la cuantía destinada a indemnizar estos daños no hubiera quedado determinada en el expediente, se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva. Este procedimiento será susceptible de terminación convencional, pero ni ésta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad. La resolución del procedimiento pondrá fin a la vía administrativa.
+Cuando las conductas sancionadas hubieran causado daños o perjuicios a las Administraciones y la cuantía destinada a indemnizar estos daños no hubiera quedado determinada en el expediente, se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva. Este procedimiento será susceptible de terminación convencional, pero ni ésta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad. La resolución del procedimiento pondrá fin a la vía administrativa.
 
 ##### Artículo 91. Especialidades de la resolución en los procedimientos en materia de responsabilidad patrimonial.
 
-1. Una vez recibido, en su caso, el dictamen al que se refiere el artículo 81.2 o, cuando éste no sea preceptivo, una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo. Cuando no se estimase procedente formalizar la propuesta de terminación convencional, el órgano competente resolverá en los términos previstos en el apartado siguiente.
+Una vez recibido, en su caso, el dictamen al que se refiere el artículo 81.2 o, cuando éste no sea preceptivo, una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo. Cuando no se estimase procedente formalizar la propuesta de terminación convencional, el órgano competente resolverá en los términos previstos en el apartado siguiente.
 
-2. Además de lo previsto en el artículo 88, en los casos de procedimientos de responsabilidad patrimonial, será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización, cuando proceda, de acuerdo con los criterios que para calcularla y abonarla se establecen en el artículo 34 de la Ley de Régimen Jurídico del Sector Público.
+Además de lo previsto en el artículo 88, en los casos de procedimientos de responsabilidad patrimonial, será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización, cuando proceda, de acuerdo con los criterios que para calcularla y abonarla se establecen en el artículo 34 de la Ley de Régimen Jurídico del Sector Público.
 
-3. Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular.
+Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular.
 
 ##### Artículo 92. Competencia para la resolución de los procedimientos de responsabilidad patrimonial.
 
@@ -1137,33 +1025,33 @@ En el ámbito autonómico y local, los procedimientos de responsabilidad patrimo
 
 En el caso de las Entidades de Derecho Público, las normas que determinen su régimen jurídico podrán establecer los órganos a quien corresponde la resolución de los procedimientos de responsabilidad patrimonial. En su defecto, se aplicarán las normas previstas en este artículo.
 
-
-
 La Administración podrá desistir (motivadamente) en los procedimientos iniciados de oficio (de acuerdo a la legislación: supuestos, requisitos). 
 
 Todo interesado podrá desistir de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos.
 
-2. Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado.
+Si el escrito de iniciación se hubiera formulado por dos o más interesados, el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado.
 
-3. Tanto el desistimiento como la renuncia podrán hacerse por cualquier medio que permita su constancia, siempre que incorpore las firmas que correspondan de acuerdo con lo previsto en la normativa aplicable.
+Tanto el desistimiento como la renuncia podrán hacerse por cualquier medio que permita su constancia, siempre que incorpore las firmas que correspondan de acuerdo con lo previsto en la normativa aplicable.
 
-4. La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados del desistimiento o renuncia.
+La Administración aceptará de plano el desistimiento o la renuncia, y declarará concluso el procedimiento salvo que, habiéndose personado en el mismo terceros interesados, instasen éstos su continuación en el plazo de diez días desde que fueron notificados del desistimiento o renuncia.
 
-5. Si la cuestión suscitada por la incoación del procedimiento entrañase interés general o fuera conveniente sustanciarla para su definición y esclarecimiento, la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento.
+Si la cuestión suscitada por la incoación del procedimiento entrañase interés general o fuera conveniente sustanciarla para su definición y esclarecimiento, la Administración podrá limitar los efectos del desistimiento o la renuncia al interesado y seguirá el procedimiento.
 
 #### Sección 4.ª Caducidad
 
 ##### Artículo 95. Requisitos y efectos.
 
-En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento. Consumido este plazo sin que el particular requerido realice las actividades necesarias para reanudar la tramitación, la Administración acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederán los recursos pertinentes.
+En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento.
 
-2. No podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución. Dicha inactividad no tendrá otro efecto que la pérdida de su derecho al referido trámite.
+Consumido este plazo sin que el particular requerido realice las actividades necesarias para reanudar la tramitación, la Administración acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederán los recursos pertinentes.
 
-3. La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.
+No podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución. Dicha inactividad no tendrá otro efecto que la pérdida de su derecho al referido trámite.
+
+La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.
 
 En los casos en los que sea posible la iniciación de un nuevo procedimiento por no haberse producido la prescripción, podrán incorporarse a éste los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse producido la caducidad. En todo caso, en el nuevo procedimiento deberán cumplimentarse los trámites de alegaciones, proposición de prueba y audiencia al interesado.
 
-4. Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento.
+Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento.
 
 #### CAPÍTULO VI
 
@@ -1171,20 +1059,19 @@ En los casos en los que sea posible la iniciación de un nuevo procedimiento por
 
 ##### Artículo 96. Tramitación simplificada del procedimiento administrativo común.
 
-
-1. Cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen, las Administraciones Públicas podrán acordar, de oficio o a solicitud del interesado, la tramitación simplificada del procedimiento.
+Cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen, las Administraciones Públicas podrán acordar (de oficio o a solicitud del interesado) la tramitación simplificada del procedimiento.
 
 En cualquier momento del procedimiento anterior a su resolución, el órgano competente para su tramitación podrá acordar continuar con arreglo a la tramitación ordinaria.
 
-2. Cuando la Administración acuerde de oficio la tramitación simplificada del procedimiento deberá notificarlo a los interesados. Si alguno de ellos manifestara su oposición expresa, la Administración deberá seguir la tramitación ordinaria.
+Cuando la Administración acuerde de oficio la tramitación simplificada del procedimiento deberá notificarlo a los interesados. Si alguno de ellos manifestara su oposición expresa, la Administración deberá seguir la tramitación ordinaria.
 
-3. Los interesados podrán solicitar la tramitación simplificada del procedimiento. Si el órgano competente para la tramitación aprecia que no concurre alguna de las razones previstas en el apartado 1, podrá desestimar dicha solicitud, en el plazo de cinco días desde su presentación, sin que exista posibilidad de recurso por parte del interesado. Transcurrido el mencionado plazo de cinco días se entenderá desestimada la solicitud.
+Los interesados podrán solicitar la tramitación simplificada del procedimiento. Si el órgano competente para la tramitación aprecia que no concurre alguna de las razones previstas en el apartado 1, podrá desestimar dicha solicitud, en el plazo de cinco días desde su presentación, sin que exista posibilidad de recurso por parte del interesado. Transcurrido el mencionado plazo de cinco días se entenderá desestimada la solicitud.
 
-4. En el caso de procedimientos en materia de responsabilidad patrimonial de las Administraciones Públicas, si una vez iniciado el procedimiento administrativo el órgano competente para su tramitación considera inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la cuantía de la indemnización, podrá acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado.
+En el caso de procedimientos en materia de responsabilidad patrimonial de las Administraciones Públicas, si una vez iniciado el procedimiento administrativo el órgano competente para su tramitación considera inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la cuantía de la indemnización, podrá acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado.
 
-5. En el caso de procedimientos de naturaleza sancionadora, se podrá adoptar la tramitación simplificada del procedimiento cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como leve, sin que quepa la oposición expresa por parte del interesado prevista en el apartado 2.
+En el caso de procedimientos de naturaleza sancionadora, se podrá adoptar la tramitación simplificada del procedimiento cuando el órgano competente para iniciar el procedimiento considere que, de acuerdo con lo previsto en su normativa reguladora, existen elementos de juicio suficientes para calificar la infracción como leve, sin que quepa la oposición expresa por parte del interesado prevista en el apartado 2.
 
-6. Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, y constarán únicamente de los siguientes trámites:
+Salvo que reste menos para su tramitación ordinaria, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, y constarán únicamente de los siguientes trámites:
 
 - Inicio del procedimiento de oficio o a solicitud del interesado.
 - Subsanación de la solicitud presentada, en su caso.
@@ -1203,7 +1090,6 @@ En cualquier momento del procedimiento anterior a su resolución, el órgano com
 7. En el caso que un procedimiento exigiera la realización de un trámite no previsto en el apartado anterior, deberá ser tramitado de manera ordinaria.
 
 
-
 ##### Ejecución
 
 
@@ -1211,18 +1097,17 @@ Las Administraciones Públicas no iniciarán ninguna actuación material de ejec
 
 Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:
 
-- a) Se produzca la suspensión de la ejecución del acto.
+- Suspensión de la ejecución del acto.
 - b) Se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.
 - c) Una disposición establezca lo contrario.
 - d) Se necesite aprobación o autorización superior.
 
 Cuando de una resolución administrativa, o de cualquier otra forma de finalización del procedimiento administrativo prevista en esta ley, nazca una obligación de pago derivada de una sanción pecuniaria, multa o cualquier otro derecho que haya de abonarse a la Hacienda pública, éste se efectuará preferentemente, salvo que se justifique la imposibilidad de hacerlo, utilizando alguno de los medios electrónicos siguientes:
 
-- a) Tarjeta de crédito y débito.
-- b) Transferencia bancaria.
-- c) Domiciliación bancaria.
-- d) Cualesquiera otros que se autoricen por el órgano competente en materia de Hacienda Pública.
-
+- **Tarjeta** de crédito y débito
+- **Transferencia bancaria**
+- **Domiciliación bancaria**
+- **Otros**: autorizados por el órgano competente en materia de Hacienda Pública.
 
 Las Administraciones Públicas, a través de sus órganos competentes en cada caso, podrán proceder, previo apercibimiento, a la ejecución forzosa de los actos administrativos, salvo en los supuestos en que se suspenda la ejecución de acuerdo con la Ley, o cuando [la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229 "Abre nueva ventana") o la Ley exijan la intervención de un órgano judicial. 
 
@@ -1247,79 +1132,38 @@ No se admitirán a trámite acciones posesorias contra las actuaciones de los ó
 ##### Revisión
 
 
-#### CAPÍTULO I
-
-#### Revisión de oficio
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 139: #a106]
-
-Jurisprudencia
-
 ##### Artículo 106. Revisión de disposiciones y actos nulos.
 
-1. Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos previstos en el artículo 47.1.
+Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos previstos en el artículo 47.1.
 
-2. Asimismo, en cualquier momento, las Administraciones Públicas de oficio, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere, podrán declarar la nulidad de las disposiciones administrativas en los supuestos previstos en el artículo 47.2.
+Asimismo, en cualquier momento, las Administraciones Públicas de oficio, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere, podrán declarar la nulidad de las disposiciones administrativas en los supuestos previstos en el artículo 47.2.
 
-3. El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados, sin necesidad de recabar Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando las mismas no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.
+El órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados, sin necesidad de recabar Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando las mismas no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como en el supuesto de que se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.
 
-4. Las Administraciones Públicas, al declarar la nulidad de una disposición o acto, podrán establecer, en la misma resolución, las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias previstas en los artículos 32.2 y 34.1 de la Ley de Régimen Jurídico del Sector Público sin perjuicio de que, tratándose de una disposición, subsistan los actos firmes dictados en aplicación de la misma.
+Las Administraciones Públicas, al declarar la nulidad de una disposición o acto, podrán establecer, en la misma resolución, las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias previstas en los artículos 32.2 y 34.1 de la Ley de Régimen Jurídico del Sector Público sin perjuicio de que, tratándose de una disposición, subsistan los actos firmes dictados en aplicación de la misma.
 
-5. Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 140: #a107]
-
-Jurisprudencia
+Cuando el procedimiento se hubiera iniciado de oficio, el transcurso del plazo de seis meses desde su inicio sin dictarse resolución producirá la caducidad del mismo. Si el procedimiento se hubiera iniciado a solicitud de interesado, se podrá entender la misma desestimada por silencio administrativo.
 
 ##### Artículo 107. Declaración de lesividad de actos anulables.
 
-1. Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables conforme a lo dispuesto en el artículo 48, previa su declaración de lesividad para el interés público.
+Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean anulables (artículo 48) previa su declaración de lesividad para el interés público.
 
-2. La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82.
+La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo, en los términos establecidos por el artículo 82.
 
 Sin perjuicio de su examen como presupuesto procesal de admisibilidad de la acción en el proceso judicial correspondiente, la declaración de lesividad no será susceptible de recurso, si bien podrá notificarse a los interesados a los meros efectos informativos.
 
-3. Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.
+Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.
 
-4. Si el acto proviniera de la Administración General del Estado o de las Comunidades Autónomas, la declaración de lesividad se adoptará por el órgano de cada Administración competente en la materia.
+Si el acto proviniera de la Administración General del Estado o de las Comunidades Autónomas, la declaración de lesividad se adoptará por el órgano de cada Administración competente en la materia.
 
-5. Si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado superior de la entidad.
+Si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por el Pleno de la Corporación o, en defecto de éste, por el órgano colegiado superior de la entidad.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
 
----
+Iniciado el procedimiento de revisión de oficio al que se refieren (artículos 106 y 107) el órgano competente para declarar la nulidad o lesividad, podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación.
 
-[Bloque 141: #a108]
+Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables (siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico).
 
-##### Artículo 108. Suspensión.
-
-Iniciado el procedimiento de revisión de oficio al que se refieren los artículos 106 y 107, el órgano competente para declarar la nulidad o lesividad, podrá suspender la ejecución del acto, cuando ésta pudiera causar perjuicios de imposible o difícil reparación.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 142: #a109]
-
-Jurisprudencia
-
-##### Artículo 109. Revocación de actos y rectificación de errores.
-
-1. Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.
-
-2. Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
+Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos.
 
 Las facultades de revisión establecidas en este Capítulo, no podrán ser ejercidas cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.
 
@@ -1328,80 +1172,44 @@ Las facultades de revisión establecidas en este Capítulo, no podrán ser ejerc
 
 En el ámbito estatal, serán competentes para la revisión de oficio de las disposiciones y los actos administrativos nulos y anulables:
 
-a) El Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros.
-
-b) En la Administración General del Estado:
-
-1.º Los Ministros, respecto de los actos y disposiciones de los Secretarios de Estado y de los dictados por órganos directivos de su Departamento no dependientes de una Secretaría de Estado.
-
-2.º Los Secretarios de Estado, respecto de los actos y disposiciones dictados por los órganos directivos de ellos dependientes.
-
-c) En los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado:
-
-1.º Los órganos a los que estén adscritos los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por el máximo órgano rector de éstos.
-
-2.º Los máximos órganos rectores de los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
-
+| Órgano                                                                       | Funciones                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Consejo de Ministros                                                         | - Sus propios actos<br>- Ministros                                                                                                                                                                                                                                                                                                                                              |
+| Ministros                                                                    | - Secretarios de Estado<br>- Órganos directivos de su Departamento no dependientes de una Secretaría de Estado                                                                                                                                                                                                                                                                  |
+| Organismos públicos y entidades de derecho público vinculados o dependientes | 1.º Los órganos a los que estén adscritos los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por el máximo órgano rector de éstos.<br><br>2.º Los máximos órganos rectores de los Organismos públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por los órganos de ellos dependientes. |
 
 
 
 #### Sección 1.ª Principios generales
 
 
-##### Artículo 112. Objeto y clases.
-
-1. Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley.
+Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley.
 
 La oposición a los restantes actos de trámite podrá alegarse por los interesados para su consideración en la resolución que ponga fin al procedimiento.
 
-2. Las leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje, ante órganos colegiados o Comisiones específicas no sometidas a instrucciones jerárquicas, con respeto a los principios, garantías y plazos que la presente Ley reconoce a las personas y a los interesados en todo procedimiento administrativo.
+Las leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje, ante órganos colegiados o Comisiones específicas no sometidas a instrucciones jerárquicas, con respeto a los principios, garantías y plazos que la presente Ley reconoce a las personas y a los interesados en todo procedimiento administrativo.
 
 En las mismas condiciones, el recurso de reposición podrá ser sustituido por los procedimientos a que se refiere el párrafo anterior, respetando su carácter potestativo para el interesado.
 
 La aplicación de estos procedimientos en el ámbito de la Administración Local no podrá suponer el desconocimiento de las facultades resolutorias reconocidas a los órganos representativos electos establecidos por la Ley.
 
-3. Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa.
+Contra las disposiciones administrativas de carácter general no cabrá recurso en vía administrativa.
 
 Los recursos contra un acto administrativo que se funden únicamente en la nulidad de alguna disposición administrativa de carácter general podrán interponerse directamente ante el órgano que dictó dicha disposición.
 
-4. Las reclamaciones económico-administrativas se ajustarán a los procedimientos establecidos por su legislación específica.
+Las reclamaciones económico-administrativas se ajustarán a los procedimientos establecidos por su legislación específica.
 
 
 
 ##### Artículo 113. Recurso extraordinario de revisión.
 
-Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo 125.1.
+Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas (artículo 125.1).
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
+|                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| General                           | - Resoluciones de los recursos de alzada.<br>- Resoluciones de los procedimientos a que se refiere el artículo 112.2.<br>- Resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.<br>- Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento<br>- La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive.<br>- La resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4.<br>- Las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca. |
+| Administración General del Estado | - Actos administrativos de los miembros y órganos del Gobierno.<br>- Emanados de los Ministros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares.<br>- Emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal.<br>- Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, los emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa.                                                                                           |
 
----
-
-[Bloque 149: #a114]
-
-Ponen fin a la vía administrativa:
-- a) Las resoluciones de los recursos de alzada.
-- Las resoluciones de los procedimientos a que se refiere el artículo 112.2.
-- Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.
-- Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento
-- La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive.
-- La resolución de los procedimientos complementarios en materia sancionadora a los que se refiere el artículo 90.4.
-- Las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca.
-
-
-2. Además de lo previsto en el apartado anterior, en el ámbito estatal ponen fin a la vía administrativa los actos y resoluciones siguientes:
-
-a) Los actos administrativos de los miembros y órganos del Gobierno.
-
-b) Los emanados de los Ministros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares.
-
-c) Los emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal.
-
-d) En los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, los emanados de los máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por ley se establezca otra cosa.
-
-[
 
 La interposición del recurso deberá expresar:
 
@@ -1411,14 +1219,13 @@ La interposición del recurso deberá expresar:
 - Órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación.
 - Las demás particularidades exigidas, en su caso, por las disposiciones específicas.
 
-2. El error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter.
+El error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter.
 
-3. Los vicios y defectos que hagan anulable un acto no podrán ser alegados por quienes los hubieren causado.
-
+Los vicios y defectos que hagan anulable un acto no podrán ser alegados por quienes los hubieren causado.
 
 Serán causas de inadmisión las siguientes:
 
-- a) Ser incompetente el órgano administrativo, cuando el competente perteneciera a otra Administración Pública. El recurso deberá remitirse al órgano competente, de acuerdo con lo establecido en el artículo 14.1 de la Ley de Régimen Jurídico del Sector Público.
+- Incompetencia del órgano administrativo, cuando el competente perteneciera a otra Administración Pública. El recurso deberá remitirse al órgano competente, de acuerdo con lo establecido en el artículo 14.1 de la Ley de Régimen Jurídico del Sector Público.
 - Carecer de legitimación el recurrente.
 - Tratarse de un acto no susceptible de recurso.
 - Haber transcurrido el plazo para la interposición del recurso.
@@ -1427,34 +1234,32 @@ Serán causas de inadmisión las siguientes:
 
 ##### Artículo 117. Suspensión de la ejecución.
 
-1. La interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado.
+La interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado.
 
-2. No obstante lo dispuesto en el apartado anterior, el órgano a quien competa resolver el recurso, previa ponderación, suficientemente razonada, entre el perjuicio que causaría al interés público o a terceros la suspensión y el ocasionado al recurrente como consecuencia de la eficacia inmediata del acto recurrido, podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado cuando concurran alguna de las siguientes circunstancias:
+No obstante lo dispuesto en el apartado anterior, el órgano a quien competa resolver el recurso, previa ponderación, suficientemente razonada, entre el perjuicio que causaría al interés público o a terceros la suspensión y el ocasionado al recurrente como consecuencia de la eficacia inmediata del acto recurrido, podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado cuando concurran alguna de las siguientes circunstancias:
 
-a) Que la ejecución pudiera causar perjuicios de imposible o difícil reparación.
+- a) Que la ejecución pudiera causar perjuicios de imposible o difícil reparación.
+- b) Que la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en el artículo 47.1 de esta Ley.
 
-b) Que la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en el artículo 47.1 de esta Ley.
+La ejecución del acto impugnado se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto. En estos casos, no será de aplicación lo establecido en el artículo 21.4 segundo párrafo, de esta Ley.
 
-3. La ejecución del acto impugnado se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto. En estos casos, no será de aplicación lo establecido en el artículo 21.4 segundo párrafo, de esta Ley.
-
-4. Al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado.
+Al dictar el acuerdo de suspensión podrán adoptarse las medidas cautelares que sean necesarias para asegurar la protección del interés público o de terceros y la eficacia de la resolución o el acto impugnado.
 
 Cuando de la suspensión puedan derivarse perjuicios de cualquier naturaleza, aquélla sólo producirá efectos previa prestación de caución o garantía suficiente para responder de ellos, en los términos establecidos reglamentariamente.
 
 La suspensión se prolongará después de agotada la vía administrativa cuando, habiéndolo solicitado previamente el interesado, exista medida cautelar y los efectos de ésta se extiendan a la vía contencioso-administrativa. Si el interesado interpusiera recurso contencioso-administrativo, solicitando la suspensión del acto objeto del proceso, se mantendrá la suspensión hasta que se produzca el correspondiente pronunciamiento judicial sobre la solicitud.
 
-5. Cuando el recurso tenga por objeto la impugnación de un acto administrativo que afecte a una pluralidad indeterminada de personas, la suspensión de su eficacia habrá de ser publicada en el periódico oficial en que aquél se insertó.
+Cuando el recurso tenga por objeto la impugnación de un acto administrativo que afecte a una pluralidad indeterminada de personas, la suspensión de su eficacia habrá de ser publicada en el periódico oficial en que aquél se insertó.
 
 ##### Artículo 118. Audiencia de los interesados.
 
-1. Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.
+Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.
 
 No se tendrán en cuenta en la resolución de los recursos, hechos, documentos o alegaciones del recurrente, cuando habiendo podido aportarlos en el trámite de alegaciones no lo haya hecho. Tampoco podrá solicitarse la práctica de pruebas cuando su falta de realización en el procedimiento en el que se dictó la resolución recurrida fuera imputable al interesado.
 
-2. Si hubiera otros interesados se les dará, en todo caso, traslado del recurso para que en el plazo antes citado, aleguen cuanto estimen procedente.
+Si hubiera otros interesados se les dará, en todo caso, traslado del recurso para que en el plazo antes citado, aleguen cuanto estimen procedente.
 
-3. El recurso, los informes y las propuestas no tienen el carácter de documentos nuevos a los efectos de este artículo. Tampoco lo tendrán los que los interesados hayan aportado al expediente antes de recaer la resolución impugnada.
-
+El recurso, los informes y las propuestas no tienen el carácter de documentos nuevos a los efectos de este artículo. Tampoco lo tendrán los que los interesados hayan aportado al expediente antes de recaer la resolución impugnada.
 
 
 La resolución del recurso estimará en todo o en parte, desestimará las pretensiones formuladas en el mismo, o declarará su inadmisión.
@@ -1466,13 +1271,13 @@ La resolución del recurso estimará en todo o en parte, desestimará las preten
 
 ##### Artículo 120. Pluralidad de recursos administrativos.
 
-1. Cuando deban resolverse una pluralidad de recursos administrativos que traigan causa de un mismo acto administrativo y se hubiera interpuesto un recurso judicial contra una resolución administrativa o bien contra el correspondiente acto presunto desestimatorio, el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial.
+Cuando deban resolverse una pluralidad de recursos administrativos que traigan causa de un mismo acto administrativo y se hubiera interpuesto un recurso judicial contra una resolución administrativa o bien contra el correspondiente acto presunto desestimatorio, el órgano administrativo podrá acordar la suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial.
 
-2. El acuerdo de suspensión deberá ser notificado a los interesados, quienes podrán recurrirlo.
+El acuerdo de suspensión deberá ser notificado a los interesados, quienes podrán recurrirlo.
 
 La interposición del correspondiente recurso por un interesado, no afectará a los restantes procedimientos de recurso que se encuentren suspendidos por traer causa del mismo acto administrativo.
 
-3. Recaído el pronunciamiento judicial, será comunicado a los interesados y el órgano administrativo competente para resolver podrá dictar resolución sin necesidad de realizar ningún trámite adicional, salvo el de audiencia, cuando proceda.
+Recaído el pronunciamiento judicial, será comunicado a los interesados y el órgano administrativo competente para resolver podrá dictar resolución sin necesidad de realizar ningún trámite adicional, salvo el de audiencia, cuando proceda.
 
 
 
@@ -1480,95 +1285,67 @@ La interposición del correspondiente recurso por un interesado, no afectará a 
 
 ##### Artículo 121. Objeto.
 
-1. Las resoluciones y actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó. A estos efectos, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos.
+Las resoluciones y actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó. A estos efectos, los Tribunales y órganos de selección del personal al servicio de las Administraciones Públicas y cualesquiera otros que, en el seno de éstas, actúen con autonomía funcional, se considerarán dependientes del órgano al que estén adscritos o, en su defecto, del que haya nombrado al presidente de los mismos.
 
-2. El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.
+El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.
 
 Si el recurso se hubiera interpuesto ante el órgano que dictó el acto impugnado, éste deberá remitirlo al competente en el plazo de diez días, con su informe y con una copia completa y ordenada del expediente.
 
 El titular del órgano que dictó el acto recurrido será responsable directo del cumplimiento de lo previsto en el párrafo anterior.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 158: #a122]
-
-Jurisprudencia
-
 ##### Artículo 122. Plazos.
 
-1. El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.
+El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.
 
 Si el acto no fuera expreso el solicitante y otros posibles interesados podrán interponer recurso de alzada en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzcan los efectos del silencio administrativo.
 
-2. El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo.
+El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso, salvo en el supuesto previsto en el artículo 24.1, tercer párrafo.
 
-3. Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.
+Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.
+
+
 
 
 #### Sección 3.ª Recurso potestativo de reposición
 
 ##### Artículo 123. Objeto y naturaleza.
 
-1. Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.
+Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo (este último puede ser realizado directamente, pero si se pone el otro, hay que esperar a que se resuelva o lo desestimen). 
 
-2. No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.
+Contra la resolución de un recurso de reposición no volver a interponerse el mismo.
 
-##### Artículo 124. Plazos.
 
-1. El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso. Transcurrido dicho plazo, únicamente podrá interponerse recurso contencioso-administrativo, sin perjuicio, en su caso, de la procedencia del recurso extraordinario de revisión.
+|               | Alzada                                                                  | Potestativo de resposición                                              | Extraordinario de revisión |
+| ------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------- |
+| Interposición | - Expreso: 1 mes<br>- Presunto: indefinido (a partir del día siguiente) | - Expreso: 1 mes<br>- Presunto: indefinido (a partir del día siguiente) | -                          |
+| Resolver      | 3 meses                                                                 | 1 mes                                                                   |                            |
 
-Si el acto no fuera expreso, el solicitante y otros posibles interesados podrán interponer recurso de reposición en cualquier momento a partir del día siguiente a aquel en que, de acuerdo con su normativa específica, se produzca el acto presunto.
-
-2. El plazo máximo para dictar y notificar la resolución del recurso será de un mes.
-
-3. Contra la resolución de un recurso de reposición no podrá interponerse de nuevo dicho recurso.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 162: #s4-3]
-
-#### Sección 4.ª Recurso extraordinario de revisión
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#top)
-
----
-
-[Bloque 163: #a125]
-
-Jurisprudencia
 
 ##### Artículo 125. Objeto y plazos.
 
 1. Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será el competente para su resolución, cuando concurra alguna de las circunstancias siguientes:
 
-a) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.
+- a) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.
+- b) Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida.
+- c) Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.
+- d) Que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible y se haya declarado así en virtud de sentencia judicial firme.
 
-b) Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida.
+El recurso extraordinario de revisión se interpondrá, cuando se trate de la causa a) del apartado anterior, dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada. En los demás casos, el plazo será de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.
 
-c) Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.
-
-d) Que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible y se haya declarado así en virtud de sentencia judicial firme.
-
-2. El recurso extraordinario de revisión se interpondrá, cuando se trate de la causa a) del apartado anterior, dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada. En los demás casos, el plazo será de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.
-
-3. Lo establecido en el presente artículo no perjudica el derecho de los interesados a formular la solicitud y la instancia a que se refieren los artículos 106 y 109.2 de la presente Ley ni su derecho a que las mismas se sustancien y resuelvan.
+Lo establecido en el presente artículo no perjudica el derecho de los interesados a formular la solicitud y la instancia a que se refieren los artículos 106 y 109.2 de la presente Ley ni su derecho a que las mismas se sustancien y resuelvan.
 
 ##### Artículo 126. Resolución.
 
-1. El órgano competente para la resolución del recurso podrá acordar motivadamente la inadmisión a trámite, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.
+El órgano competente para la resolución del recurso podrá acordar motivadamente la inadmisión a trámite, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando el mismo no se funde en alguna de las causas previstas en el apartado 1 del artículo anterior o en el supuesto de que se hubiesen desestimado en cuanto al fondo otros recursos sustancialmente iguales.
 
-2. El órgano al que corresponde conocer del recurso extraordinario de revisión debe pronunciarse no sólo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido.
+El órgano al que corresponde conocer del recurso extraordinario de revisión debe pronunciarse no sólo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido.
 
-3. Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.
+Transcurrido el plazo de tres meses desde la interposición del recurso extraordinario de revisión sin haberse dictado y notificado la resolución, se entenderá desestimado, quedando expedita la vía jurisdiccional contencioso-administrativa.
 
 
 #### Iniciativa legislativa y postestad reglamentaria
 
-Las Administraciones Públicas, en la iniciativa legislativa y potestad reglamentaria, actuarán de acuerdo Los principios de buena regulación, que deberán de justificar en la expopsición de motivos (anteproyectos de Ley) o en el preámbulo (proyectos de reglamento), e incluyen los siguientes ([artículo 129](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#a129)):
+Las Administraciones Públicas, en la iniciativa legislativa y potestad reglamentaria, actuarán de acuerdo a los principios de buena regulación, que deberán de justificar en la exposición de motivos (anteproyectos de Ley) o en el preámbulo (proyectos de reglamento), e incluyen los siguientes ([artículo 129](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#a129)):
 
 - **Necesidad y eficacia**: justificada por una razón de interés general, basada en una identificación clara de los fines perseguidos y ser el instrumento más adecuado para garantizar su consecución
 
@@ -1589,7 +1366,6 @@ Las Administraciones Públicas, en la iniciativa legislativa y potestad reglamen
 - **Estabilidad presupuestaria y sostenibilidad financiera**: si afecta a los gastos o ingresos públicos (presentes o futuros), además de cuantificar y valorar sus repercusiones y efectos.
 
 
-
 ### Ley 40/2015
 
 La [Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566)
@@ -1601,144 +1377,92 @@ La [Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566)
 | Sector público institucional (de la Administración General del Estado) | - Sector público institucional<br>- Organización y funcionamiento<br>- Organismos públicos: disposiciones generales, organismos autónomos, entidades públicas empresariales, agencias<br>- Autoridades administrativas independientes<br>- Sociedades mercantiles estatales<br>- Consorcios<br>- Fundaciones<br>- Fondos carentes de personalidad jurídica                                                                                                                            |
 | Relaciones interadministrativas                                        | - Principios generales<br>- Deber de colaboración<br>- Relaciones de cooperación: técnicas, técnicas orgánicas<br>- Relaciones electrónicas entre Administraciones                                                                                                                                                                                                                                                                                                                    |
 
-##### Artículo 1. Objeto.
+### Disposiciones generales????
 
-La presente Ley establece y regula las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora, así como la organización y funcionamiento de la Administración General del Estado y de su sector público institucional para el desarrollo de sus actividades.
+La presente Ley establece y regula las
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
+- Bases del régimen jurídico de las Administraciones Públicas
+- Principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora
+- Organización y funcionamiento de la Administración General del Estado y de su sector público institucional para el desarrollo de sus actividades.
 
----
+La presente Ley se aplica al sector público que comprende:
 
-[Bloque 6: #a2]
+- Administración General del Estado
+- Administraciones de las Comunidades Autónomas
+- Entidades que integran la Administración Local.
+- Sector público institucional.
+	- rganismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.
+	- Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, en particular a los principios previstos en el artículo 3, y en todo caso, cuando ejerzan potestades administrativas.
+	- Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley.
 
-Jurisprudencia
+Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2.
 
-##### Artículo 2. Ámbito Subjetivo.
-
-1. La presente Ley se aplica al sector público que comprende:
-
-a) La Administración General del Estado.
-
-b) Las Administraciones de las Comunidades Autónomas.
-
-c) Las Entidades que integran la Administración Local.
-
-d) El sector público institucional.
-
-2. El sector público institucional se integra por:
-
-a) Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.
-
-b) Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, en particular a los principios previstos en el artículo 3, y en todo caso, cuando ejerzan potestades administrativas.
-
-c) Las Universidades públicas que se regirán por su normativa específica y supletoriamente por las previsiones de la presente Ley.
-
-3. Tienen la consideración de Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local, así como los organismos públicos y entidades de derecho público previstos en la letra a) del apartado 2.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 7: #a3]
-
-Jurisprudencia
-
-##### Artículo 3. Principios generales.
-
-1. Las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a [la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229 "Abre nueva ventana"), a la Ley y al Derecho.
+Las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a [la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229 "Abre nueva ventana"), a la Ley y al Derecho. 
 
 Deberán respetar en su actuación y relaciones los siguientes principios:
 
-a) Servicio efectivo a los ciudadanos.
+- Servicio efectivo a los ciudadanos
+- Simplicidad, claridad y proximidad a los ciudadanos
+- Participación, objetividad y transparencia de la actuación administrativa
+- Racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión
+- Buena fe, confianza legítima y lealtad institucional
+- Responsabilidad por la gestión pública
+- Planificación y dirección por objetivos y control de la gestión y evaluación de los resultados de las políticas públicas
+- Eficacia en el cumplimiento de los objetivos fijados
+- Economía, suficiencia y adecuación estricta de los medios a los fines institucionales
+- Eficiencia en la asignación y utilización de los recursos públicos
+- Cooperación, colaboración y coordinación entre las Administraciones Públicas
 
-b) Simplicidad, claridad y proximidad a los ciudadanos.
+Las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos públicos y entidades vinculados o dependientes a través de medios electrónicos, que aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas, garantizarán la protección de los datos de carácter personal, y facilitarán preferentemente la prestación conjunta de servicios a los interesados.
 
-c) Participación, objetividad y transparencia de la actuación administrativa.
+Bajo la dirección del Gobierno de la Nación, de los órganos de gobierno de las Comunidades Autónomas y de los correspondientes de las Entidades Locales, la actuación de la Administración Pública respectiva se desarrolla para alcanzar los objetivos que establecen las leyes y el resto del ordenamiento jurídico.
 
-d) Racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión.
-
-e) Buena fe, confianza legítima y lealtad institucional.
-
-f) Responsabilidad por la gestión pública.
-
-g) Planificación y dirección por objetivos y control de la gestión y evaluación de los resultados de las políticas públicas.
-
-h) Eficacia en el cumplimiento de los objetivos fijados.
-
-i) Economía, suficiencia y adecuación estricta de los medios a los fines institucionales.
-
-j) Eficiencia en la asignación y utilización de los recursos públicos.
-
-k) Cooperación, colaboración y coordinación entre las Administraciones Públicas.
-
-2. Las Administraciones Públicas se relacionarán entre sí y con sus órganos, organismos públicos y entidades vinculados o dependientes a través de medios electrónicos, que aseguren la interoperabilidad y seguridad de los sistemas y soluciones adoptadas por cada una de ellas, garantizarán la protección de los datos de carácter personal, y facilitarán preferentemente la prestación conjunta de servicios a los interesados.
-
-3. Bajo la dirección del Gobierno de la Nación, de los órganos de gobierno de las Comunidades Autónomas y de los correspondientes de las Entidades Locales, la actuación de la Administración Pública respectiva se desarrolla para alcanzar los objetivos que establecen las leyes y el resto del ordenamiento jurídico.
-
-4. Cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con personalidad jurídica única.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 8: #a4]
+Cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con personalidad jurídica única.
 
 ##### Artículo 4. Principios de intervención de las Administraciones Públicas para el desarrollo de una actividad.
 
-1. Las Administraciones Públicas que, en el ejercicio de sus respectivas competencias, establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público así como justificar su adecuación para lograr los fines que se persiguen, sin que en ningún caso se produzcan diferencias de trato discriminatorias. Asimismo deberán evaluar periódicamente los efectos y resultados obtenidos.
+Las Administraciones Públicas que, en el ejercicio de sus respectivas competencias, establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requisitos para el desarrollo de una actividad, deberán aplicar el principio de proporcionalidad y elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público así como justificar su adecuación para lograr los fines que se persiguen, sin que en ningún caso se produzcan diferencias de trato discriminatorias. Asimismo deberán evaluar periódicamente los efectos y resultados obtenidos.
 
-2. Las Administraciones Públicas velarán por el cumplimiento de los requisitos previstos en la legislación que resulte aplicable, para lo cual podrán, en el ámbito de sus respectivas competencias y con los límites establecidos en la legislación de protección de datos de carácter personal, comprobar, verificar, investigar e inspeccionar los hechos, actos, elementos, actividades, estimaciones y demás circunstancias que fueran necesarias.
+Las Administraciones Públicas velarán por el cumplimiento de los requisitos previstos en la legislación que resulte aplicable, para lo cual podrán, en el ámbito de sus respectivas competencias y con los límites establecidos en la legislación de protección de datos de carácter personal, comprobar, verificar, investigar e inspeccionar los hechos, actos, elementos, actividades, estimaciones y demás circunstancias que fueran necesarias.
 
 #### CAPÍTULO II
 
 #### De los órganos de las Administraciones Públicas
 
-
-#### Sección 1.ª De los órganos administrativos
-
-[
 Son órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.
 
-2. Corresponde a cada Administración Pública delimitar, en su respectivo ámbito competencial, las unidades administrativas que configuran los órganos administrativos propios de las especialidades derivadas de su organización.
+Corresponde a cada Administración Pública delimitar, en su respectivo ámbito competencial, las unidades administrativas que configuran los órganos administrativos propios de las especialidades derivadas de su organización.
 
 La creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de los siguientes requisitos:
 
-- a) Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.
+- Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.
 - Delimitación de sus funciones y competencias.
 - Dotación de los créditos necesarios para su puesta en marcha y funcionamiento.
 
 No podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no se suprime o restringe debidamente la competencia de estos. A este objeto, la creación de un nuevo órgano sólo tendrá lugar previa comprobación de que no existe otro en la misma Administración Pública que desarrolle igual función sobre el mismo territorio y población.
 
-
-##### Artículo 6. Instrucciones y órdenes de servicio.
-
 Los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio.
 
 Cuando una disposición específica así lo establezca, o se estime conveniente por razón de los destinatarios o de los efectos que puedan producirse, las instrucciones y órdenes de servicio se publicarán en el boletín oficial que corresponda, sin perjuicio de su difusión de acuerdo con lo previsto en la [Ley 19/2013, de 9 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887 "Abre nueva ventana"), de transparencia, acceso a la información pública y buen gobierno.
 
-2. El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.
-
+El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.
 
 La Administración consultiva podrá articularse mediante órganos específicos dotados de autonomía orgánica y funcional con respecto a la Administración activa, o a través de los servicios de esta última que prestan asistencia jurídica.
 
 En tal caso, dichos servicios no podrán estar sujetos a dependencia jerárquica, ya sea orgánica o funcional, ni recibir instrucciones, directrices o cualquier clase de indicación de los órganos que hayan elaborado las disposiciones o producido los actos objeto de consulta, actuando para cumplir con tales garantías de forma colegiada.
 
-
 La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida (salvo los casos de delegación o avocación, de acuerdo a la legislación)
 
 La delegación de competencias, las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén.
 
-2. La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.
+La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.
 
-3. Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio. Si existiera más de un órgano inferior competente por razón de materia y territorio, la facultad para instruir y resolver los expedientes corresponderá al superior jerárquico común de estos.
+Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y del territorio. Si existiera más de un órgano inferior competente por razón de materia y territorio, la facultad para instruir y resolver los expedientes corresponderá al superior jerárquico común de estos.
 
+- **Delegación de competencias**: en otros órganos de la misma Administración (aun cuando no sean jerárquicamente dependientes) o en los Organismos públicos o Entidades de Derecho Público vinculados o dependientes de aquéllas
 
-- **Delegación de competencias**: 
-- 
 
 ##### Artículo 9. Delegación de competencias.
-
-1. Los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos públicos o Entidades de Derecho Público vinculados o dependientes de aquéllas.
 
 En el ámbito de la Administración General del Estado, la delegación de competencias deberá ser aprobada previamente por el órgano ministerial de quien dependa el órgano delegante y en el caso de los Organismos públicos o Entidades vinculados o dependientes, por el órgano máximo de dirección, de acuerdo con sus normas de creación. Cuando se trate de órganos no relacionados jerárquicamente será necesaria la aprobación previa del superior común si ambos pertenecen al mismo Ministerio, o del órgano superior de quien dependa el órgano delegado, si el delegante y el delegado pertenecen a diferentes Ministerios.
 
@@ -1751,11 +1475,11 @@ No podrán delegarse las siguientes:
 - Resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso.
 - **Otras materias**: determinadas por norma con rango de Ley
 
-3. Las delegaciones de competencias y su revocación deberán publicarse en el «Boletín Oficial del Estado», en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste.
+Las delegaciones de competencias y su revocación deberán publicarse en el «Boletín Oficial del Estado», en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste.
 
-4. Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante.
+Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante.
 
-5. Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación.
+Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación.
 
 No constituye impedimento para que pueda delegarse la competencia para resolver un procedimiento la circunstancia de que la norma reguladora del mismo prevea, como trámite preceptivo, la emisión de un dictamen o informe; no obstante, no podrá delegarse la competencia para resolver un procedimiento una vez que en el correspondiente procedimiento se haya emitido un dictamen o informe preceptivo acerca del mismo.
 
@@ -1763,9 +1487,7 @@ La delegación será revocable en cualquier momento por el órgano que la haya c
 
 El acuerdo de delegación de aquellas competencias atribuidas a órganos colegiados, para cuyo ejercicio se requiera un quórum o mayoría especial, deberá adoptarse observando, en todo caso, dicho quórum o mayoría.
 
-- **Avocación**: 
-
-1. Los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente.
+- **Avocación**: los órganos superiores sobre el conocimiento de asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes (cuando determinadas circunstancias lo hagan conveniente: de índole técnica, económica, social, jurídica o territorial).
 
 En los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, el conocimiento de un asunto podrá ser avocado únicamente por el órgano delegante.
 
@@ -1773,201 +1495,136 @@ En los supuestos de delegación de competencias en órganos no dependientes jer�
 
 Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.
 
-
-- **Encomiendas de gestión**: 
-
-
-1. La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades de Derecho Público de la misma o de distinta Administración, siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño.
+- **Encomiendas de gestión**: realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público podrá ser encomendada a otros órganos o Entidades de Derecho Público de la misma o de distinta Administración, siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño.
 
 Las encomiendas de gestión no podrán tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público. En tal caso, su naturaleza y régimen jurídico se ajustará a lo previsto en ésta.
 
-2. La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo responsabilidad del órgano o Entidad encomendante dictar cuantos actos o resoluciones de carácter jurídico den soporte o en los que se integre la concreta actividad material objeto de encomienda.
+La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo responsabilidad del órgano o Entidad encomendante dictar cuantos actos o resoluciones de carácter jurídico den soporte o en los que se integre la concreta actividad material objeto de encomienda.
 
 En todo caso, la Entidad u órgano encomendado tendrá la condición de encargado del tratamiento de los datos de carácter personal a los que pudiera tener acceso en ejecución de la encomienda de gestión, siéndole de aplicación lo dispuesto en la normativa de protección de datos de carácter personal.
 
-3. La formalización de las encomiendas de gestión se ajustará a las siguientes reglas:
+La formalización de las encomiendas de gestión se ajustará a las siguientes reglas:
 
-a) Cuando la encomienda de gestión se realice entre órganos administrativos o Entidades de Derecho Público pertenecientes a la misma Administración deberá formalizarse en los términos que establezca su normativa propia y, en su defecto, por acuerdo expreso de los órganos o Entidades de Derecho Público intervinientes. En todo caso, el instrumento de formalización de la encomienda de gestión y su resolución deberá ser publicada, para su eficacia, en el Boletín Oficial del Estado, en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante.
+- a) Cuando la encomienda de gestión se realice entre órganos administrativos o Entidades de Derecho Público pertenecientes a la misma Administración deberá formalizarse en los términos que establezca su normativa propia y, en su defecto, por acuerdo expreso de los órganos o Entidades de Derecho Público intervinientes. En todo caso, el instrumento de formalización de la encomienda de gestión y su resolución deberá ser publicada, para su eficacia, en el Boletín Oficial del Estado, en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante.
 
-Cada Administración podrá regular los requisitos necesarios para la validez de tales acuerdos que incluirán, al menos, expresa mención de la actividad o actividades a las que afecten, el plazo de vigencia y la naturaleza y alcance de la gestión encomendada.
+	Cada Administración podrá regular los requisitos necesarios para la validez de tales acuerdos que incluirán, al menos, expresa mención de la actividad o actividades a las que afecten, el plazo de vigencia y la naturaleza y alcance de la gestión encomendada.
 
-b) Cuando la encomienda de gestión se realice entre órganos y Entidades de Derecho Público de distintas Administraciones se formalizará mediante firma del correspondiente convenio entre ellas, que deberá ser publicado en el «Boletín Oficial del Estado», en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante, salvo en el supuesto de la gestión ordinaria de los servicios de las Comunidades Autónomas por las Diputaciones Provinciales o en su caso Cabildos o Consejos insulares, que se regirá por la legislación de Régimen Local.
-
-
-- **Delegación de firma**: 
-##### Artículo 12. Delegación de firma.
-
-1. Los titulares de los órganos administrativos podrán, en materias de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que de ellos dependan, dentro de los límites señalados en el artículo 9.
-
-*No alterará la competencia del órgano delegante. Para su validez no será necesaria su publicación.
-
-En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.
+- Cuando la encomienda de gestión se realice entre órganos y Entidades de Derecho Público de distintas Administraciones se formalizará mediante firma del correspondiente convenio entre ellas, que deberá ser publicado en el «Boletín Oficial del Estado», en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante, salvo en el supuesto de la gestión ordinaria de los servicios de las Comunidades Autónomas por las Diputaciones Provinciales o en su caso Cabildos o Consejos insulares, que se regirá por la legislación de Régimen Local.
 
 
-- **Suplencia**: 
+- **Delegación de firma**: por los titulares de los órganos administrativos, sobre sus resoluciones y actos administrativos de materias de su competencia (por atribución o delegación de competencias), en los titulares de los órganos y unidades administrativos que de ellos dependan (de acuerdo con los límites: artículo 9).
 
-##### Artículo 13. Suplencia.
+	*No alterará la competencia del órgano delegante. Para su validez no será necesaria su publicación. En las resoluciones y actos firmados por delegación se hará constar esta circunstancia y la autoridad de procedencia.
+
+
+- **Suplencia**: sustitución temporal por vacancia, ausencia o enfermedad, abstención o recusacón.
+
 
 1. En la forma que disponga cada Administración Pública, los titulares de los órganos administrativos podrán ser suplidos temporalmente en los supuestos de vacante, ausencia o enfermedad, así como en los casos en que haya sido declarada su abstención o recusación.
 
 Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato superior de quien dependa.
 
-2. La suplencia no implicará alteración de la competencia y para su validez no será necesaria su publicación.
+No implicará alteración de la competencia y para su validez no será necesaria su publicación.
 
-3. En el ámbito de la Administración General del Estado, la designación de suplente podrá efectuarse:
+En el ámbito de la Administración General del Estado, la designación de suplente podrá efectuarse:
 
-a) En los reales decretos de estructura orgánica básica de los Departamentos Ministeriales o en los estatutos de sus Organismos públicos y Entidades vinculados o dependientes según corresponda.
+- En los reales decretos de estructura orgánica básica de los Departamentos Ministeriales o en los estatutos de sus Organismos públicos y Entidades vinculados o dependientes según corresponda.
+- Por el órgano competente para el nombramiento del titular, bien en el propio acto de nombramiento bien en otro posterior cuando se produzca el supuesto que dé lugar a la suplencia.
 
-b) Por el órgano competente para el nombramiento del titular, bien en el propio acto de nombramiento bien en otro posterior cuando se produzca el supuesto que dé lugar a la suplencia.
-
-4. En las resoluciones y actos que se dicten mediante suplencia, se hará constar esta circunstancia y se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo esta suplencia.
-
-
+En las resoluciones y actos que se dicten mediante suplencia, se hará constar esta circunstancia y se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo esta suplencia.
 
 El órgano administrativo que se estime incompetente para la resolución de un asunto remitirá directamente las actuaciones al órgano que considere competente (notificándolo a las personas interesadas).
 
-2. Los interesados que sean parte en el procedimiento podrán dirigirse al órgano que se encuentre conociendo de un asunto para que decline su competencia y remita las actuaciones al órgano competente.
+Los interesados que sean parte en el procedimiento podrán dirigirse al órgano que se encuentre conociendo de un asunto para que decline su competencia y remita las actuaciones al órgano competente.
 
 Asimismo, podrán dirigirse al órgano que estimen competente para que requiera de inhibición al que esté conociendo del asunto.
 
-3. Los conflictos de atribuciones sólo podrán suscitarse entre órganos de una misma Administración no relacionados jerárquicamente, y respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo.
-
+Los conflictos de atribuciones sólo podrán suscitarse entre órganos de una misma Administración no relacionados jerárquicamente, y respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo.
 
 #### Subsección 1.ª Funcionamiento
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 24: #a15]
-
 ##### Artículo 15. Régimen.
 
-1. El régimen jurídico de los órganos colegiados se ajustará a las normas contenidas en la presente sección, sin perjuicio de las peculiaridades organizativas de las Administraciones Públicas en que se integran.
+El régimen jurídico de los órganos colegiados se ajustará a las normas contenidas en la presente sección, sin perjuicio de las peculiaridades organizativas de las Administraciones Públicas en que se integran.
 
-2. Los órganos colegiados de las distintas Administraciones Públicas en que participen organizaciones representativas de intereses sociales, así como aquellos compuestos por representaciones de distintas Administraciones Públicas, cuenten o no con participación de organizaciones representativas de intereses sociales, podrán establecer o completar sus propias normas de funcionamiento.
+Los órganos colegiados de las distintas Administraciones Públicas en que participen organizaciones representativas de intereses sociales, así como aquellos compuestos por representaciones de distintas Administraciones Públicas, cuenten o no con participación de organizaciones representativas de intereses sociales, podrán establecer o completar sus propias normas de funcionamiento.
 
 Los órganos colegiados a que se refiere este apartado quedarán integrados en la Administración Pública que corresponda, aunque sin participar en la estructura jerárquica de ésta, salvo que así lo establezcan sus normas de creación, se desprenda de sus funciones o de la propia naturaleza del órgano colegiado.
 
-3. El acuerdo de creación y las normas de funcionamiento de los órganos colegiados que dicten resoluciones que tengan efectos jurídicos frente a terceros deberán ser publicados en el Boletín o Diario Oficial de la Administración Pública en que se integran. Adicionalmente, las Administraciones podrán publicarlos en otros medios de difusión que garanticen su conocimiento.
+El acuerdo de creación y las normas de funcionamiento de los órganos colegiados que dicten resoluciones que tengan efectos jurídicos frente a terceros deberán ser publicados en el Boletín o Diario Oficial de la Administración Pública en que se integran. Adicionalmente, las Administraciones podrán publicarlos en otros medios de difusión que garanticen su conocimiento.
 
 Cuando se trate de un órgano colegiado a los que se refiere el apartado 2 de este artículo la citada publicidad se realizará por la Administración a quien corresponda la Presidencia.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 25: #a16]
-
 ##### Artículo 16. Secretario.
 
-1. Los órganos colegiados tendrán un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente.
+Los órganos colegiados tendrán un Secretario que podrá ser un miembro del propio órgano o una persona al servicio de la Administración Pública correspondiente.
 
-2. Corresponderá al Secretario velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas.
+Corresponderá al Secretario velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas.
 
-3. En caso de que el Secretario no miembro sea suplido por un miembro del órgano colegiado, éste conservará todos sus derechos como tal.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 26: #a17]
-
-Jurisprudencia
+En caso de que el Secretario no miembro sea suplido por un miembro del órgano colegiado, éste conservará todos sus derechos como tal.
 
 ##### Artículo 17. Convocatorias y sesiones.
 
-1. Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario.
+Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario.
 
 En las sesiones que celebren los órganos colegiados a distancia, sus miembros podrán encontrarse en distintos lugares siempre y cuando se asegure por medios electrónicos, considerándose también tales los telefónicos, y audiovisuales, la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que éstas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos, el correo electrónico, las audioconferencias y las videoconferencias.
 
-2. Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.
+Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.
 
 Cuando se trate de los órganos colegiados a que se refiere el artículo 15.2, el Presidente podrá considerar válidamente constituido el órgano, a efectos de celebración de sesión, si asisten los representantes de las Administraciones Públicas y de las organizaciones representativas de intereses sociales miembros del órgano a los que se haya atribuido la condición de portavoces.
 
 Cuando estuvieran reunidos, de manera presencial o a distancia, el Secretario y todos los miembros del órgano colegiado, o en su caso las personas que les suplan, éstos podrán constituirse válidamente como órgano colegiado para la celebración de sesiones, deliberaciones y adopción de acuerdos sin necesidad de convocatoria previa cuando así lo decidan todos sus miembros.
 
-3. Los órganos colegiados podrán establecer el régimen propio de convocatorias, si éste no está previsto por sus normas de funcionamiento. Tal régimen podrá prever una segunda convocatoria y especificar para ésta el número de miembros necesarios para constituir válidamente el órgano.
+Los órganos colegiados podrán establecer el régimen propio de convocatorias, si éste no está previsto por sus normas de funcionamiento. Tal régimen podrá prever una segunda convocatoria y especificar para ésta el número de miembros necesarios para constituir válidamente el órgano.
 
 Salvo que no resulte posible, las convocatorias serán remitidas a los miembros del órgano colegiado a través de medios electrónicos, haciendo constar en la misma el orden del día junto con la documentación necesaria para su deliberación cuando sea posible, las condiciones en las que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
 
-4. No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
 
-5. Los acuerdos serán adoptados por mayoría de votos. Cuando se asista a distancia, los acuerdos se entenderán adoptados en el lugar donde tenga la sede el órgano colegiado y, en su defecto, donde esté ubicada la presidencia.
+Los acuerdos serán adoptados por mayoría de votos. Cuando se asista a distancia, los acuerdos se entenderán adoptados en el lugar donde tenga la sede el órgano colegiado y, en su defecto, donde esté ubicada la presidencia.
 
-6. Cuando los miembros del órgano voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos.
+Cuando los miembros del órgano voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos.
 
-7. Quienes acrediten la titularidad de un interés legítimo podrán dirigirse al Secretario de un órgano colegiado para que les sea expedida certificación de sus acuerdos. La certificación será expedida por medios electrónicos, salvo que el interesado manifieste expresamente lo contrario y no tenga obligación de relacionarse con las Administraciones por esta vía.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 27: #a18]
-
-Jurisprudencia
+Quienes acrediten la titularidad de un interés legítimo podrán dirigirse al Secretario de un órgano colegiado para que les sea expedida certificación de sus acuerdos. La certificación será expedida por medios electrónicos, salvo que el interesado manifieste expresamente lo contrario y no tenga obligación de relacionarse con las Administraciones por esta vía.
 
 ##### Artículo 18. Actas.
 
-1. De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados.
+De cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados.
 
 Podrán grabarse las sesiones que celebre el órgano colegiado. El fichero resultante de la grabación, junto con la certificación expedida por el Secretario de la autenticidad e integridad del mismo, y cuantos documentos en soporte electrónico se utilizasen como documentos de la sesión, podrán acompañar al acta de las sesiones, sin necesidad de hacer constar en ella los puntos principales de las deliberaciones.
 
-2. El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente. El Secretario elaborará el acta con el visto bueno del Presidente y lo remitirá a través de medios electrónicos, a los miembros del órgano colegiado, quienes podrán manifestar por los mismos medios su conformidad o reparos al texto, a efectos de su aprobación, considerándose, en caso afirmativo, aprobada en la misma reunión.
+El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente. El Secretario elaborará el acta con el visto bueno del Presidente y lo remitirá a través de medios electrónicos, a los miembros del órgano colegiado, quienes podrán manifestar por los mismos medios su conformidad o reparos al texto, a efectos de su aprobación, considerándose, en caso afirmativo, aprobada en la misma reunión.
 
 Cuando se hubiese optado por la grabación de las sesiones celebradas o por la utilización de documentos en soporte electrónico, deberán conservarse de forma que se garantice la integridad y autenticidad de los ficheros electrónicos correspondientes y el acceso a los mismos por parte de los miembros del órgano colegiado.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 28: #ss2]
-
 #### Subsección 2.ª De los órganos colegiados en la Administración General del Estado
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 29: #a19]
 
 ##### Artículo 19. Régimen de los órganos colegiados de la Administración General del Estado y de las Entidades de Derecho Público vinculadas o dependientes de ella.
 
-1. Los órganos colegiados de la Administración General del Estado y de las Entidades de Derecho Público vinculadas o dependientes de ella, se regirán por las normas establecidas en este artículo, y por las previsiones que sobre ellos se establecen en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas.
+Los órganos colegiados de la Administración General del Estado y de las Entidades de Derecho Público vinculadas o dependientes de ella, se regirán por las normas establecidas en este artículo, y por las previsiones que sobre ellos se establecen en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas.
 
 2. Corresponderá a su Presidente:
 
-a) Ostentar la representación del órgano.
-
-b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros, siempre que hayan sido formuladas con la suficiente antelación.
-
-c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
-
-d) Dirimir con su voto los empates, a efectos de adoptar acuerdos, excepto si se trata de los órganos colegiados a que se refiere el artículo 15.2, en los que el voto será dirimente si así lo establecen sus propias normas.
-
-e) Asegurar el cumplimiento de las leyes.
-
-f) Visar las actas y certificaciones de los acuerdos del órgano.
-
-g) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del órgano.
+- a) Ostentar la representación del órgano.
+- b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros, siempre que hayan sido formuladas con la suficiente antelación.
+- ) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+- d) Dirimir con su voto los empates, a efectos de adoptar acuerdos, excepto si se trata de los órganos colegiados a que se refiere el artículo 15.2, en los que el voto será dirimente si así lo establecen sus propias normas.
+- e) Asegurar el cumplimiento de las leyes.
+- f) Visar las actas y certificaciones de los acuerdos del órgano.
+- g) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del órgano.
 
 En casos de vacante, ausencia, enfermedad, u otra causa legal, el Presidente será sustituido por el Vicepresidente que corresponda, y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
 
 Esta norma no será de aplicación a los órganos colegiados previstos en el artículo 15.2 en los que el régimen de sustitución del Presidente debe estar específicamente regulado en cada caso, o establecido expresamente por acuerdo del Pleno del órgano colegiado.
 
-3. Los miembros del órgano colegiado deberán:
+Los miembros del órgano colegiado deberán:
 
-a) Recibir, con una antelación mínima de dos días, la convocatoria conteniendo el orden del día de las reuniones. La información sobre los temas que figuren en el orden del día estará a disposición de los miembros en igual plazo.
-
-b) Participar en los debates de las sesiones.
-
-c) Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican. No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas, tengan la condición de miembros natos de órganos colegiados, en virtud del cargo que desempeñan.
-
-d) Formular ruegos y preguntas.
-
-e) Obtener la información precisa para cumplir las funciones asignadas.
-
-f) Cuantas otras funciones sean inherentes a su condición.
+- a) Recibir, con una antelación mínima de dos días, la convocatoria conteniendo el orden del día de las reuniones. La información sobre los temas que figuren en el orden del día estará a disposición de los miembros en igual plazo.
+- Participar en los debates de las sesiones.
+- Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican. No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas, tengan la condición de miembros natos de órganos colegiados, en virtud del cargo que desempeñan.
+- Formular ruegos y preguntas.
+- Obtener la información precisa para cumplir las funciones asignadas.
+- Cuantas otras funciones sean inherentes a su condición.
 
 Los miembros de un órgano colegiado no podrán atribuirse las funciones de representación reconocidas a éste, salvo que expresamente se les hayan otorgado por una norma o por acuerdo válidamente adoptado, para cada caso concreto, por el propio órgano.
 
@@ -1977,21 +1634,16 @@ Cuando se trate de órganos colegiados a los que se refiere el artículo 15 las
 
 Los miembros del órgano colegiado no podrán ejercer estas funciones cuando concurra conflicto de interés.
 
-4. La designación y el cese, así como la sustitución temporal del Secretario en supuestos de vacante, ausencia o enfermedad se realizarán según lo dispuesto en las normas específicas de cada órgano y, en su defecto, por acuerdo del mismo.
+La designación y el cese, así como la sustitución temporal del Secretario en supuestos de vacante, ausencia o enfermedad se realizarán según lo dispuesto en las normas específicas de cada órgano y, en su defecto, por acuerdo del mismo.
 
 Corresponde al Secretario del órgano colegiado:
 
-a) Asistir a las reuniones con voz pero sin voto, y con voz y voto si la Secretaría del órgano la ostenta un miembro del mismo.
-
-b) Efectuar la convocatoria de las sesiones del órgano por orden del Presidente, así como las citaciones a los miembros del mismo.
-
-c) Recibir los actos de comunicación de los miembros con el órgano, sean notificaciones, peticiones de datos, rectificaciones o cualquiera otra clase de escritos de los que deba tener conocimiento.
-
-d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
-
-e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
-
-f) Cuantas otras funciones sean inherentes a su condición de Secretario.
+- Asistir a las reuniones con voz pero sin voto, y con voz y voto si la Secretaría del órgano la ostenta un miembro del mismo.
+- Efectuar la convocatoria de las sesiones del órgano por orden del Presidente, así como las citaciones a los miembros del mismo.
+- Recibir los actos de comunicación de los miembros con el órgano, sean notificaciones, peticiones de datos, rectificaciones o cualquiera otra clase de escritos de los que deba tener conocimiento.
+- Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+- Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+- Cuantas otras funciones sean inherentes a su condición de Secretario.
 
 5. En el acta figurará, a solicitud de los respectivos miembros del órgano, el voto contrario al acuerdo adoptado, su abstención y los motivos que la justifiquen o el sentido de su voto favorable.
 
@@ -2003,195 +1655,134 @@ Las actas se aprobarán en la misma o en la siguiente sesión, pudiendo no obsta
 
 En las certificaciones de acuerdos adoptados emitidas con anterioridad a la aprobación del acta se hará constar expresamente tal circunstancia.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 30: #a20]
-
 ##### Artículo 20. Requisitos para constituir órganos colegiados.
 
-1. Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, y que actúen integrados en la Administración General del Estado o alguno de sus Organismos públicos.
+Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control, y que actúen integrados en la Administración General del Estado o alguno de sus Organismos públicos.
 
-2. La constitución de un órgano colegiado en la Administración General del Estado y en sus Organismos públicos tiene como presupuesto indispensable la determinación en su norma de creación o en el convenio con otras Administraciones Públicas por el que dicho órgano se cree, de los siguientes extremos:
+La constitución de un órgano colegiado en la Administración General del Estado y en sus Organismos públicos tiene como presupuesto indispensable la determinación en su norma de creación o en el convenio con otras Administraciones Públicas por el que dicho órgano se cree, de los siguientes extremos:
 
-a) Sus fines u objetivos.
+- Sus fines u objetivos.
+- Su integración administrativa o dependencia jerárquica.
+- La composición y los criterios para la designación de su Presidente y de los restantes miembros.
+- Las funciones de decisión, propuesta, informe, seguimiento o control, así como cualquier otra que se le atribuya.
+- La dotación de los créditos necesarios, en su caso, para su funcionamiento.
 
-b) Su integración administrativa o dependencia jerárquica.
-
-c) La composición y los criterios para la designación de su Presidente y de los restantes miembros.
-
-d) Las funciones de decisión, propuesta, informe, seguimiento o control, así como cualquier otra que se le atribuya.
-
-e) La dotación de los créditos necesarios, en su caso, para su funcionamiento.
-
-3. El régimen jurídico de los órganos colegiados a que se refiere el apartado 1 de este artículo se ajustará a las normas contenidas en el artículo 19, sin perjuicio de las peculiaridades organizativas contenidas en la presente Ley o en su norma o convenio de creación.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 31: #a21]
+El régimen jurídico de los órganos colegiados a que se refiere el apartado 1 de este artículo se ajustará a las normas contenidas en el artículo 19, sin perjuicio de las peculiaridades organizativas contenidas en la presente Ley o en su norma o convenio de creación.
 
 ##### Artículo 21. Clasificación y composición de los órganos colegiados.
 
-1. Los órganos colegiados de la Administración General del Estado y de sus Organismos públicos, por su composición, se clasifican en:
+Los órganos colegiados de la Administración General del Estado y de sus Organismos públicos, por su composición, se clasifican en:
 
-a) Órganos colegiados interministeriales, si sus miembros proceden de diferentes Ministerios.
+- **Interministeriales**: si sus miembros proceden de diferentes Ministerios.
+- **Ministeriales**: si sus componentes proceden de los órganos de un solo Ministerio.
 
-b) Órganos colegiados ministeriales, si sus componentes proceden de los órganos de un solo Ministerio.
+En los órganos colegiados a los que se refiere el apartado anterior, podrá haber representantes de otras Administraciones Públicas, cuando éstas lo acepten voluntariamente, cuando un convenio así lo establezca o cuando una norma aplicable a las Administraciones afectadas lo determine.
 
-2. En los órganos colegiados a los que se refiere el apartado anterior, podrá haber representantes de otras Administraciones Públicas, cuando éstas lo acepten voluntariamente, cuando un convenio así lo establezca o cuando una norma aplicable a las Administraciones afectadas lo determine.
-
-3. En la composición de los órganos colegiados podrán participar, cuando así se determine, organizaciones representativas de intereses sociales, así como otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos, en atención a la naturaleza de las funciones asignadas a tales órganos.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 32: #a22]
+En la composición de los órganos colegiados podrán participar, cuando así se determine, organizaciones representativas de intereses sociales, así como otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos, en atención a la naturaleza de las funciones asignadas a tales órganos.
 
 ##### Artículo 22. Creación, modificación y supresión de órganos colegiados.
 
-1. La creación de órganos colegiados de la Administración General del Estado y de sus Organismos públicos sólo requerirá de norma específica, con publicación en el «Boletín Oficial del Estado», en los casos en que se les atribuyan cualquiera de las siguientes competencias:
+La creación de órganos colegiados de la Administración General del Estado y de sus Organismos públicos sólo requerirá de norma específica, con publicación en el «Boletín Oficial del Estado», en los casos en que se les atribuyan cualquiera de las siguientes competencias:
 
-a) Competencias decisorias.
+- Competencias decisorias
+- Competencias de propuesta o emisión de informes preceptivos que deban servir de base a decisiones de otros órganos administrativos
+- Competencias de seguimiento o control de las actuaciones de otros órganos de la Administración General del Estado
 
-b) Competencias de propuesta o emisión de informes preceptivos que deban servir de base a decisiones de otros órganos administrativos.
+En los supuestos enunciados en el apartado anterior, la norma de creación deberá revestir la forma de Real Decreto en el caso de los órganos colegiados interministeriales cuyo Presidente tenga rango superior al de Director general; Orden ministerial conjunta para los restantes órganos colegiados interministeriales, y Orden ministerial para los de este carácter.
 
-c) Competencias de seguimiento o control de las actuaciones de otros órganos de la Administración General del Estado.
+En todos los supuestos no comprendidos en el apartado 1 de este artículo, los órganos colegiados tendrán el carácter de grupos o comisiones de trabajo y podrán ser creados por Acuerdo del Consejo de Ministros o por los Ministerios interesados. Sus acuerdos no podrán tener efectos directos frente a terceros.
 
-2. En los supuestos enunciados en el apartado anterior, la norma de creación deberá revestir la forma de Real Decreto en el caso de los órganos colegiados interministeriales cuyo Presidente tenga rango superior al de Director general; Orden ministerial conjunta para los restantes órganos colegiados interministeriales, y Orden ministerial para los de este carácter.
+La modificación y supresión de los órganos colegiados y de los grupos o comisiones de trabajo de la Administración General del Estado y de los Organismos públicos se llevará a cabo en la misma forma dispuesta para su creación, salvo que ésta hubiera fijado plazo previsto para su extinción, en cuyo caso ésta se producirá automáticamente en la fecha señalada al efecto.
 
-3. En todos los supuestos no comprendidos en el apartado 1 de este artículo, los órganos colegiados tendrán el carácter de grupos o comisiones de trabajo y podrán ser creados por Acuerdo del Consejo de Ministros o por los Ministerios interesados. Sus acuerdos no podrán tener efectos directos frente a terceros.
-
-4. La modificación y supresión de los órganos colegiados y de los grupos o comisiones de trabajo de la Administración General del Estado y de los Organismos públicos se llevará a cabo en la misma forma dispuesta para su creación, salvo que ésta hubiera fijado plazo previsto para su extinción, en cuyo caso ésta se producirá automáticamente en la fecha señalada al efecto.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 33: #s4]
 
 #### Sección 4.ª Abstención y recusación
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 34: #a23]
-
 ##### Artículo 23. Abstención.
 
-1. Las autoridades y el personal al servicio de las Administraciones en quienes se den algunas de las circunstancias señaladas en el apartado siguiente se abstendrán de intervenir en el procedimiento y lo comunicarán a su superior inmediato, quien resolverá lo procedente.
+Las autoridades y el personal al servicio de las Administraciones en quienes se den algunas de las circunstancias señaladas en el apartado siguiente se abstendrán de intervenir en el procedimiento y lo comunicarán a su superior inmediato, quien resolverá lo procedente.
 
-2. Son motivos de abstención los siguientes:
+ Son motivos de abstención los siguientes:
 
-a) Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquél; ser administrador de sociedad o entidad interesada, o tener cuestión litigiosa pendiente con algún interesado.
+- Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquél; ser administrador de sociedad o entidad interesada, o tener cuestión litigiosa pendiente con algún interesado.Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento, así como compartir despacho profesional o estar asociado con éstos para el asesoramiento, la representación o el mandato.
+- Tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior.
+- Haber intervenido como perito o como testigo en el procedimiento de que se trate.
+- Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto, o haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.
 
-b) Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados, con los administradores de entidades o sociedades interesadas y también con los asesores, representantes legales o mandatarios que intervengan en el procedimiento, así como compartir despacho profesional o estar asociado con éstos para el asesoramiento, la representación o el mandato.
+Los órganos jerárquicamente superiores a quien se encuentre en alguna de las circunstancias señaladas en el punto anterior podrán ordenarle que se abstengan de toda intervención en el expediente.
 
-c) Tener amistad íntima o enemistad manifiesta con alguna de las personas mencionadas en el apartado anterior.
+La actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.
 
-d) Haber intervenido como perito o como testigo en el procedimiento de que se trate.
-
-e) Tener relación de servicio con persona natural o jurídica interesada directamente en el asunto, o haberle prestado en los dos últimos años servicios profesionales de cualquier tipo y en cualquier circunstancia o lugar.
-
-3. Los órganos jerárquicamente superiores a quien se encuentre en alguna de las circunstancias señaladas en el punto anterior podrán ordenarle que se abstengan de toda intervención en el expediente.
-
-4. La actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.
-
-5. La no abstención en los casos en que concurra alguna de esas circunstancias dará lugar a la responsabilidad que proceda.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 35: #a24]
+La no abstención en los casos en que concurra alguna de esas circunstancias dará lugar a la responsabilidad que proceda.
 
 ##### Artículo 24. Recusación.
 
-1. En los casos previstos en el artículo anterior, podrá promoverse recusación por los interesados en cualquier momento de la tramitación del procedimiento.
+En los casos previstos en el artículo anterior, podrá promoverse recusación por los interesados en cualquier momento de la tramitación del procedimiento.
 
-2. La recusación se planteará por escrito en el que se expresará la causa o causas en que se funda.
+La recusación se planteará por escrito en el que se expresará la causa o causas en que se funda.
 
-3. En el día siguiente el recusado manifestará a su inmediato superior si se da o no en él la causa alegada. En el primer caso, si el superior aprecia la concurrencia de la causa de recusación, acordará su sustitución acto seguido.
+En el día siguiente el recusado manifestará a su inmediato superior si se da o no en él la causa alegada. En el primer caso, si el superior aprecia la concurrencia de la causa de recusación, acordará su sustitución acto seguido.
 
-4. Si el recusado niega la causa de recusación, el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos.
+Si el recusado niega la causa de recusación, el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos.
 
-5. Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 36: #ciii]
-
+Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.
 
 ##### Principios de la potestad sancionadora
 
 Los principios de la potestad sancionadora incluyen los siguientes: 
 
-- **Legalidad**: 
+- **Legalidad**: La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en esta Ley y en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y, cuando se trate de Entidades Locales, de conformidad con lo dispuesto en el [Título XI de la Ley 7/1985, de 2 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#txi "Abre nueva ventana").
 
-1. La potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio y de acuerdo con lo establecido en esta Ley y en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y, cuando se trate de Entidades Locales, de conformidad con lo dispuesto en el [Título XI de la Ley 7/1985, de 2 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#txi "Abre nueva ventana").
+- **Atribución**: corresponde a los órganos administrativos que la tengan expresamente atribuida, por disposición de rango legal o reglamentario.
 
-2. El ejercicio de la potestad sancionadora corresponde a los órganos administrativos que la tengan expresamente atribuida, por disposición de rango legal o reglamentario.
+Las disposiciones de este Capítulo serán extensivas al ejercicio por las Administraciones Públicas de su potestad disciplinaria respecto del personal a su servicio, cualquiera que sea la naturaleza jurídica de la relación de empleo.
 
-3. Las disposiciones de este Capítulo serán extensivas al ejercicio por las Administraciones Públicas de su potestad disciplinaria respecto del personal a su servicio, cualquiera que sea la naturaleza jurídica de la relación de empleo.
-
-4. Las disposiciones de este capítulo no serán de aplicación al ejercicio por las Administraciones Públicas de la potestad sancionadora respecto de quienes estén vinculados a ellas por relaciones reguladas por la legislación de contratos del sector público o por la legislación patrimonial de las Administraciones Públicas.
-
+Las disposiciones de este capítulo no serán de aplicación al ejercicio por las Administraciones Públicas de la potestad sancionadora respecto de quienes estén vinculados a ellas por relaciones reguladas por la legislación de contratos del sector público o por la legislación patrimonial de las Administraciones Públicas.
 
 - **Irretroactividad** (desfavorable): aplicación de las disposiciones vigentes en el momento de la producirse la infracción administrativa (efecto retroactivo si son beneficiosas: tipificación de la infracción o la sanción, plazos de prescripción, incluso respecto de las sanciones pendientes de cumplimiento al entrar en vigor la nueva disposición).
 
 - **Tipicidad**: sólo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por una Ley (o norma municipal: [Título XI de la Ley 7/1985](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392#txi "Abre nueva ventana")), que se clasificarán en  leves, graves y muy graves.
 
-2. Únicamente por la comisión de infracciones administrativas podrán imponerse sanciones que, en todo caso, estarán delimitadas por la Ley.
+Únicamente por la comisión de infracciones administrativas podrán imponerse sanciones que, en todo caso, estarán delimitadas por la Ley.
 
-3. Las disposiciones reglamentarias de desarrollo podrán introducir especificaciones o graduaciones al cuadro de las infracciones o sanciones establecidas legalmente que, sin constituir nuevas infracciones o sanciones, ni alterar la naturaleza o límites de las que la Ley contempla, contribuyan a la más correcta identificación de las conductas o a la más precisa determinación de las sanciones correspondientes.
+Las disposiciones reglamentarias de desarrollo podrán introducir especificaciones o graduaciones al cuadro de las infracciones o sanciones establecidas legalmente que, sin constituir nuevas infracciones o sanciones, ni alterar la naturaleza o límites de las que la Ley contempla, contribuyan a la más correcta identificación de las conductas o a la más precisa determinación de las sanciones correspondientes.
 
-4. Las normas definidoras de infracciones y sanciones no serán susceptibles de aplicación analógica.
+Las normas definidoras de infracciones y sanciones no serán susceptibles de aplicación analógica.
 
 
 - **Responsabilidad**: 
 
-1. Sólo podrán ser sancionadas por hechos constitutivos de infracción administrativa las personas físicas y jurídicas, así como, cuando una Ley les reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos, que resulten responsables de los mismos a título de dolo o culpa.
+Sólo podrán ser sancionadas por hechos constitutivos de infracción administrativa las personas físicas y jurídicas, así como, cuando una Ley les reconozca capacidad de obrar, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos, que resulten responsables de los mismos a título de dolo o culpa.
 
-2. Las responsabilidades administrativas que se deriven de la comisión de una infracción serán compatibles con la exigencia al infractor de la reposición de la situación alterada por el mismo a su estado originario, así como con la indemnización por los daños y perjuicios causados, que será determinada y exigida por el órgano al que corresponda el ejercicio de la potestad sancionadora. De no satisfacerse la indemnización en el plazo que al efecto se determine en función de su cuantía, se procederá en la forma prevista en el [artículo 101 de la Ley del Procedimiento Administrativo Común](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a101 "Abre nueva ventana") de las Administraciones Públicas.
+Las responsabilidades administrativas que se deriven de la comisión de una infracción serán compatibles con la exigencia al infractor de la reposición de la situación alterada por el mismo a su estado originario, así como con la indemnización por los daños y perjuicios causados, que será determinada y exigida por el órgano al que corresponda el ejercicio de la potestad sancionadora. De no satisfacerse la indemnización en el plazo que al efecto se determine en función de su cuantía, se procederá en la forma prevista en el [artículo 101 de la Ley del Procedimiento Administrativo Común](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a101 "Abre nueva ventana") de las Administraciones Públicas.
 
-3. Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan. No obstante, cuando la sanción sea pecuniaria y sea posible se individualizará en la resolución en función del grado de participación de cada responsable.
+Cuando el cumplimiento de una obligación establecida por una norma con rango de Ley corresponda a varias personas conjuntamente, responderán de forma solidaria de las infracciones que, en su caso, se cometan y de las sanciones que se impongan. No obstante, cuando la sanción sea pecuniaria y sea posible se individualizará en la resolución en función del grado de participación de cada responsable.
 
-4. Las leyes reguladoras de los distintos regímenes sancionadores podrán tipificar como infracción el incumplimiento de la obligación de prevenir la comisión de infracciones administrativas por quienes se hallen sujetos a una relación de dependencia o vinculación. Asimismo, podrán prever los supuestos en que determinadas personas responderán del pago de las sanciones pecuniarias impuestas a quienes de ellas dependan o estén vinculadas.
-
+Las leyes reguladoras de los distintos regímenes sancionadores podrán tipificar como infracción el incumplimiento de la obligación de prevenir la comisión de infracciones administrativas por quienes se hallen sujetos a una relación de dependencia o vinculación. Asimismo, podrán prever los supuestos en que determinadas personas responderán del pago de las sanciones pecuniarias impuestas a quienes de ellas dependan o estén vinculadas.
 
 - **Proporcionalidad**: las sanciones administrativas no podrán implicar privación de libertad (directa o subsidiaria, incluso las de naturaleza pecuniaria), y las sanciones deberán prevenir que la comisión de la infracción sea preferible a su castigo. En su imposición se deberá de observar la idoneidad, y necesidad de acuerdo a la gravedad del hecho. Para su graduación se considerarán los siguientes criterios: 
+
 	- **Culpabilidad o intencionalidad**
 	- **Continuidad o persistencia** en la conducta infractora
 	- **Naturaleza de los perjuicios** causados.
 	- **Reincidencia** (comisión en el término de un año de más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme en vía administrativa)
 
+Cuando lo justifique la debida adecuación entre la sanción que deba aplicarse con la gravedad del hecho constitutivo de la infracción y las circunstancias concurrentes, el órgano competente para resolver podrá imponer la sanción en el grado inferior.
 
+Cuando de la comisión de una infracción derive necesariamente la comisión de otra u otras, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida.
 
-4. Cuando lo justifique la debida adecuación entre la sanción que deba aplicarse con la gravedad del hecho constitutivo de la infracción y las circunstancias concurrentes, el órgano competente para resolver podrá imponer la sanción en el grado inferior.
+Será sancionable, como infracción continuada, la realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión.
 
-5. Cuando de la comisión de una infracción derive necesariamente la comisión de otra u otras, se deberá imponer únicamente la sanción correspondiente a la infracción más grave cometida.
+Las infracciones y sanciones prescribirán según lo dispuesto en las leyes que las establezcan. Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.
 
-6. Será sancionable, como infracción continuada, la realización de una pluralidad de acciones u omisiones que infrinjan el mismo o semejantes preceptos administrativos, en ejecución de un plan preconcebido o aprovechando idéntica ocasión.
-
-
-7. Las infracciones y sanciones prescribirán según lo dispuesto en las leyes que las establezcan. Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.
-
-8. El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. En el caso de infracciones continuadas o permanentes, el plazo comenzará a correr desde que finalizó la conducta infractora.
+El plazo de prescripción de las infracciones comenzará a contarse desde el día en que la infracción se hubiera cometido. En el caso de infracciones continuadas o permanentes, el plazo comenzará a correr desde que finalizó la conducta infractora.
 
 Interrumpirá la prescripción la iniciación, con conocimiento del interesado, de un procedimiento administrativo de naturaleza sancionadora, reiniciándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
 
-3. El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla.
+El plazo de prescripción de las sanciones comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción o haya transcurrido el plazo para recurrirla.
 
 Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquél está paralizado durante más de un mes por causa no imputable al infractor.
 
 En el caso de desestimación presunta del recurso de alzada interpuesto contra la resolución por la que se impone la sanción, el plazo de prescripción de la sanción comenzará a contarse desde el día siguiente a aquel en que finalice el plazo legalmente previsto para la resolución de dicho recurso.
-
 
 No podrán sancionarse los hechos que lo hayan sido penal o administrativamente, en los casos en que se aprecie identidad del sujeto, hecho y fundamento.
 
@@ -2199,172 +1790,111 @@ No podrán sancionarse los hechos que lo hayan sido penal o administrativamente,
 
 
 
-
 #### CAPÍTULO IV
 
 #### De la responsabilidad patrimonial de las Administraciones Públicas
 
-
 #### Sección 1.ª Responsabilidad patrimonial de las Administraciones Públicas
-
-
 
 ##### Artículo 32. Principios de la responsabilidad.
 
-1. Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas correspondientes, de toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley.
+Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas correspondientes, de toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que sea consecuencia del funcionamiento (normal o anormal) de los servicios públicos (salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley).
 
 La anulación en vía administrativa o por el orden jurisdiccional contencioso administrativo de los actos o disposiciones administrativas no presupone, por sí misma, derecho a la indemnización.
 
-2. En todo caso, el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.
+En todo caso, el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.
 
-3. Asimismo, los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas de toda lesión que sufran en sus bienes y derechos como consecuencia de la aplicación de actos legislativos de naturaleza no expropiatoria de derechos que no tengan el deber jurídico de soportar cuando así se establezca en los propios actos legislativos y en los términos que en ellos se especifiquen.
+Asimismo, los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas de toda lesión que sufran en sus bienes y derechos como consecuencia de la aplicación de actos legislativos de naturaleza no expropiatoria de derechos que no tengan el deber jurídico de soportar cuando así se establezca en los propios actos legislativos y en los términos que en ellos se especifiquen.
 
 La responsabilidad del Estado legislador podrá surgir también en los siguientes supuestos, siempre que concurran los requisitos previstos en los apartados anteriores:
 
-a) Cuando los daños deriven de la aplicación de una norma con rango de ley declarada inconstitucional, siempre que concurran los requisitos del apartado 4.
+- Cuando los daños deriven de la aplicación de una norma con rango de ley declarada inconstitucional, siempre que concurran los requisitos del apartado 4.
+- Cuando los daños deriven de la aplicación de una norma contraria al Derecho de la Unión Europea, de acuerdo con lo dispuesto en el apartado 5.
 
-b) Cuando los daños deriven de la aplicación de una norma contraria al Derecho de la Unión Europea, de acuerdo con lo dispuesto en el apartado 5.
+Si la lesión es consecuencia de la aplicación de una norma con rango de ley declarada inconstitucional, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la inconstitucionalidad posteriormente declarada.
 
-4. Si la lesión es consecuencia de la aplicación de una norma con rango de ley declarada inconstitucional, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la inconstitucionalidad posteriormente declarada.
+Si la lesión es consecuencia de la aplicación de una norma declarada contraria al Derecho de la Unión Europea, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la infracción del Derecho de la Unión Europea posteriormente declarada. Asimismo, deberán cumplirse todos los requisitos siguientes:
 
-5. Si la lesión es consecuencia de la aplicación de una norma declarada contraria al Derecho de la Unión Europea, procederá su indemnización cuando el particular haya obtenido, en cualquier instancia, sentencia firme desestimatoria de un recurso contra la actuación administrativa que ocasionó el daño, siempre que se hubiera alegado la infracción del Derecho de la Unión Europea posteriormente declarada. Asimismo, deberán cumplirse todos los requisitos siguientes:
+- La norma ha de tener por objeto conferir derechos a los particulares.
+- El incumplimiento ha de estar suficientemente caracterizado.
+- Ha de existir una relación de causalidad directa entre el incumplimiento de la obligación impuesta a la Administración responsable por el Derecho de la Unión Europea y el daño sufrido por los particulares.
 
-a) La norma ha de tener por objeto conferir derechos a los particulares.
+La sentencia que declare la inconstitucionalidad de la norma con rango de ley o declare el carácter de norma contraria al Derecho de la Unión Europea producirá efectos desde la fecha de su publicación en el «Boletín Oficial del Estado» o en el «Diario Oficial de la Unión Europea», según el caso, salvo que en ella se establezca otra cosa.
 
-b) El incumplimiento ha de estar suficientemente caracterizado.
+La responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia se regirá por la [Ley Orgánica 6/1985, de 1 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666 "Abre nueva ventana"), del Poder Judicial.
 
-c) Ha de existir una relación de causalidad directa entre el incumplimiento de la obligación impuesta a la Administración responsable por el Derecho de la Unión Europea y el daño sufrido por los particulares.
-
-6. La sentencia que declare la inconstitucionalidad de la norma con rango de ley o declare el carácter de norma contraria al Derecho de la Unión Europea producirá efectos desde la fecha de su publicación en el «Boletín Oficial del Estado» o en el «Diario Oficial de la Unión Europea», según el caso, salvo que en ella se establezca otra cosa.
-
-7. La responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia se regirá por la [Ley Orgánica 6/1985, de 1 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666 "Abre nueva ventana"), del Poder Judicial.
-
-8. El Consejo de Ministros fijará el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad.
+El Consejo de Ministros fijará el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad.
 
 El procedimiento para fijar el importe de las indemnizaciones se tramitará por el Ministerio de Justicia, con audiencia al Consejo de Estado.
 
-9. Se seguirá el procedimiento previsto en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas para determinar la responsabilidad de las Administraciones Públicas por los daños y perjuicios causados a terceros durante la ejecución de contratos cuando sean consecuencia de una orden inmediata y directa de la Administración o de los vicios del proyecto elaborado por ella misma sin perjuicio de las especialidades que, en su caso establezca el [Real Decreto Legislativo 3/2011, de 14 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2011-17887 "Abre nueva ventana"), por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 47: #a33]
+Se seguirá el procedimiento previsto en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas para determinar la responsabilidad de las Administraciones Públicas por los daños y perjuicios causados a terceros durante la ejecución de contratos cuando sean consecuencia de una orden inmediata y directa de la Administración o de los vicios del proyecto elaborado por ella misma sin perjuicio de las especialidades que, en su caso establezca el [Real Decreto Legislativo 3/2011, de 14 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2011-17887 "Abre nueva ventana"), por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
 
 ##### Artículo 33. Responsabilidad concurrente de las Administraciones Públicas.
 
-1. Cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones públicas se derive responsabilidad en los términos previstos en la presente Ley, las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria. El instrumento jurídico regulador de la actuación conjunta podrá determinar la distribución de la responsabilidad entre las diferentes Administraciones públicas.
+Cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones públicas se derive responsabilidad en los términos previstos en la presente Ley, las Administraciones intervinientes responderán frente al particular, en todo caso, de forma solidaria. El instrumento jurídico regulador de la actuación conjunta podrá determinar la distribución de la responsabilidad entre las diferentes Administraciones públicas.
 
-2. En otros supuestos de concurrencia de varias Administraciones en la producción del daño, la responsabilidad se fijará para cada Administración atendiendo a los criterios de competencia, interés público tutelado e intensidad de la intervención. La responsabilidad será solidaria cuando no sea posible dicha determinación.
+En otros supuestos de concurrencia de varias Administraciones en la producción del daño, la responsabilidad se fijará para cada Administración atendiendo a los criterios de competencia, interés público tutelado e intensidad de la intervención. La responsabilidad será solidaria cuando no sea posible dicha determinación.
 
-3. En los casos previstos en el apartado primero, la Administración competente para incoar, instruir y resolver los procedimientos en los que exista una responsabilidad concurrente de varias Administraciones Públicas, será la fijada en los Estatutos o reglas de la organización colegiada. En su defecto, la competencia vendrá atribuida a la Administración Pública con mayor participación en la financiación del servicio.
+En los casos previstos en el apartado primero, la Administración competente para incoar, instruir y resolver los procedimientos en los que exista una responsabilidad concurrente de varias Administraciones Públicas, será la fijada en los Estatutos o reglas de la organización colegiada. En su defecto, la competencia vendrá atribuida a la Administración Pública con mayor participación en la financiación del servicio.
 
-4. Cuando se trate de procedimientos en materia de responsabilidad patrimonial, la Administración Pública competente a la que se refiere el apartado anterior, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 48: #a34]
-
-Jurisprudencia
+Cuando se trate de procedimientos en materia de responsabilidad patrimonial, la Administración Pública competente a la que se refiere el apartado anterior, deberá consultar a las restantes Administraciones implicadas para que, en el plazo de quince días, éstas puedan exponer cuanto consideren procedente.
 
 ##### Artículo 34. Indemnización.
 
-1. Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley. No serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquéllos, todo ello sin perjuicio de las prestaciones asistenciales o económicas que las leyes puedan establecer para estos casos.
+Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley. No serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquéllos, todo ello sin perjuicio de las prestaciones asistenciales o económicas que las leyes puedan establecer para estos casos.
 
 En los casos de responsabilidad patrimonial a los que se refiere los apartados 4 y 5 del artículo 32, serán indemnizables los daños producidos en el plazo de los cinco años anteriores a la fecha de la publicación de la sentencia que declare la inconstitucionalidad de la norma con rango de ley o el carácter de norma contraria al Derecho de la Unión Europea, salvo que la sentencia disponga otra cosa.
 
-2. La indemnización se calculará con arreglo a los criterios de valoración establecidos en la legislación fiscal, de expropiación forzosa y demás normas aplicables, ponderándose, en su caso, las valoraciones predominantes en el mercado. En los casos de muerte o lesiones corporales se podrá tomar como referencia la valoración incluida en los baremos de la normativa vigente en materia de Seguros obligatorios y de la Seguridad Social.
+La indemnización se calculará con arreglo a los criterios de valoración establecidos en la legislación fiscal, de expropiación forzosa y demás normas aplicables, ponderándose, en su caso, las valoraciones predominantes en el mercado. En los casos de muerte o lesiones corporales se podrá tomar como referencia la valoración incluida en los baremos de la normativa vigente en materia de Seguros obligatorios y de la Seguridad Social.
 
-3. La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad, fijado por el Instituto Nacional de Estadística, y de los intereses que procedan por demora en el pago de la indemnización fijada, los cuales se exigirán con arreglo a lo establecido en la [Ley 47/2003, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614 "Abre nueva ventana"), General Presupuestaria, o, en su caso, a las normas presupuestarias de las Comunidades Autónomas.
+La cuantía de la indemnización se calculará con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad con arreglo al Índice de Garantía de la Competitividad, fijado por el Instituto Nacional de Estadística, y de los intereses que procedan por demora en el pago de la indemnización fijada, los cuales se exigirán con arreglo a lo establecido en la [Ley 47/2003, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614 "Abre nueva ventana"), General Presupuestaria, o, en su caso, a las normas presupuestarias de las Comunidades Autónomas.
 
-4. La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos, cuando resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado.
+La indemnización procedente podrá sustituirse por una compensación en especie o ser abonada mediante pagos periódicos, cuando resulte más adecuado para lograr la reparación debida y convenga al interés público, siempre que exista acuerdo con el interesado.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 49: #a35]
-
-Jurisprudencia
 
 ##### Artículo 35. Responsabilidad de Derecho Privado.
 
 Cuando las Administraciones Públicas actúen, directamente o a través de una entidad de derecho privado, en relaciones de esta naturaleza, su responsabilidad se exigirá de conformidad con lo previsto en los artículos 32 y siguientes, incluso cuando concurra con sujetos de derecho privado o la responsabilidad se exija directamente a la entidad de derecho privado a través de la cual actúe la Administración o a la entidad que cubra su responsabilidad.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 50: #s2-2]
-
 #### Sección 2.ª Responsabilidad de las autoridades y personal al servicio de las Administraciones Públicas
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 51: #a36]
 
 ##### Artículo 36. Exigencia de la responsabilidad patrimonial de las autoridades y personal al servicio de las Administraciones Públicas.
 
-1. Para hacer efectiva la responsabilidad patrimonial a que se refiere esta Ley, los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.
+Para hacer efectiva la responsabilidad patrimonial a que se refiere esta Ley, los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.
 
-2. La Administración correspondiente, cuando hubiere indemnizado a los lesionados, exigirá de oficio en vía administrativa de sus autoridades y demás personal a su servicio la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.
+La Administración correspondiente, cuando hubiere indemnizado a los lesionados, exigirá de oficio en vía administrativa de sus autoridades y demás personal a su servicio la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.
 
 Para la exigencia de dicha responsabilidad y, en su caso, para su cuantificación, se ponderarán, entre otros, los siguientes criterios: el resultado dañoso producido, el grado de culpabilidad, la responsabilidad profesional del personal al servicio de las Administraciones públicas y su relación con la producción del resultado dañoso.
 
-3. Asimismo, la Administración instruirá igual procedimiento a las autoridades y demás personal a su servicio por los daños y perjuicios causados en sus bienes o derechos cuando hubiera concurrido dolo, o culpa o negligencia graves.
+Asimismo, la Administración instruirá igual procedimiento a las autoridades y demás personal a su servicio por los daños y perjuicios causados en sus bienes o derechos cuando hubiera concurrido dolo, o culpa o negligencia graves.
 
-4. El procedimiento para la exigencia de la responsabilidad al que se refieren los apartados 2 y 3, se sustanciará conforme a lo dispuesto en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y se iniciará por acuerdo del órgano competente que se notificará a los interesados y que constará, al menos, de los siguientes trámites:
+El procedimiento para la exigencia de la responsabilidad al que se refieren los apartados 2 y 3, se sustanciará conforme a lo dispuesto en la Ley de Procedimiento Administrativo Común de las Administraciones Públicas y se iniciará por acuerdo del órgano competente que se notificará a los interesados y que constará, al menos, de los siguientes trámites:
 
-a) Alegaciones durante un plazo de quince días.
+- **Alegaciones** durante un plazo de quince días
+- Práctica de las pruebas admitidas y cualesquiera otras que el órgano competente estime oportunas durante un plazo de quince días
+- Audiencia durante un plazo de diez días
+- Formulación de la propuesta de resolución en un plazo de cinco días a contar desde la finalización del trámite de audiencia
+- Resolución por el órgano competente en el plazo de cinco días
 
-b) Práctica de las pruebas admitidas y cualesquiera otras que el órgano competente estime oportunas durante un plazo de quince días.
-
-c) Audiencia durante un plazo de diez días.
-
-d) Formulación de la propuesta de resolución en un plazo de cinco días a contar desde la finalización del trámite de audiencia.
-
-e) Resolución por el órgano competente en el plazo de cinco días.
-
-5. La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa.
-
-6. Lo dispuesto en los apartados anteriores, se entenderá sin perjuicio de pasar, si procede, el tanto de culpa a los Tribunales competentes.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 52: #a37]
-
-Jurisprudencia
+La resolución declaratoria de responsabilidad pondrá fin a la vía administrativa. Lo dispuesto en los apartados anteriores, se entenderá sin perjuicio de pasar, si procede, el tanto de culpa a los Tribunales competentes.
 
 ##### Artículo 37. Responsabilidad penal.
 
-1. La responsabilidad penal del personal al servicio de las Administraciones Públicas, así como la responsabilidad civil derivada del delito se exigirá de acuerdo con lo previsto en la legislación correspondiente.
+La responsabilidad penal del personal al servicio de las Administraciones Públicas, así como la responsabilidad civil derivada del delito se exigirá de acuerdo con lo previsto en la legislación correspondiente.
 
-2. La exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas no suspenderá los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan, salvo que la determinación de los hechos en el orden jurisdiccional penal sea necesaria para la fijación de la responsabilidad patrimonial.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#top)
-
----
-
-[Bloque 53: #cv]
+La exigencia de responsabilidad penal del personal al servicio de las Administraciones Públicas no suspenderá los procedimientos de reconocimiento de responsabilidad patrimonial que se instruyan, salvo que la determinación de los hechos en el orden jurisdiccional penal sea necesaria para la fijación de la responsabilidad patrimonial.
 
 #### CAPÍTULO V
 
 #### Funcionamiento electrónico del sector público
 
-
 El funcionamiento electrónico del sector público se basa en los siguientes elementos: 
 
 - **Sede electrónica**: dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.
 
-2. El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma.
+El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma.
 
-3. Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad. En todo caso deberá garantizarse la identificación del órgano titular de la sede, así como los medios disponibles para la formulación de sugerencias y quejas.
+Cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas, con sujeción a los principios de transparencia, publicidad, responsabilidad, calidad, seguridad, disponibilidad, accesibilidad, neutralidad e interoperabilidad. En todo caso deberá garantizarse la identificación del órgano titular de la sede, así como los medios disponibles para la formulación de sugerencias y quejas.
 
 Las sedes electrónicas dispondrán de sistemas que permitan el establecimiento de comunicaciones seguras siempre que sean necesarias.
 
@@ -2417,9 +1947,9 @@ Las sedes electrónicas utilizarán, para identificarse y garantizar una comunic
 
 Todos los documentos utilizados en las actuaciones administrativas se almacenarán por medios electrónicos (salvo cuando no sea posible).
 
-2. Los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán conservarse en soportes de esta naturaleza, ya sea en el mismo formato a partir del que se originó el documento o en otro cualquiera que asegure la identidad e integridad de la información necesaria para reproducirlo. Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones.
+Los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán conservarse en soportes de esta naturaleza, ya sea en el mismo formato a partir del que se originó el documento o en otro cualquiera que asegure la identidad e integridad de la información necesaria para reproducirlo. Se asegurará en todo caso la posibilidad de trasladar los datos a otros formatos y soportes que garanticen el acceso desde diferentes aplicaciones.
 
-3. Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados. En particular, asegurarán la identificación de los usuarios y el control de accesos, el cumplimiento de las garantías previstas en la legislación de protección de datos, así como la recuperación y conservación a largo plazo de los documentos electrónicos producidos por las Administraciones Públicas que así lo requieran, de acuerdo con las especificaciones sobre el ciclo de vida de los servicios y sistemas utilizados.
+Los medios o soportes en que se almacenen documentos, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el Esquema Nacional de Seguridad, que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados. En particular, asegurarán la identificación de los usuarios y el control de accesos, el cumplimiento de las garantías previstas en la legislación de protección de datos, así como la recuperación y conservación a largo plazo de los documentos electrónicos producidos por las Administraciones Públicas que así lo requieran, de acuerdo con las especificaciones sobre el ciclo de vida de los servicios y sistemas utilizados.
 
 ##### Artículo 46 bis. Ubicación de los sistemas de información y comunicaciones para el registro de datos.
 
@@ -2436,36 +1966,37 @@ Son convenios los acuerdos con efectos jurídicos adoptados por las Administraci
 
 Los convenios no podrán tener por objeto prestaciones propias de los contratos. En tal caso, su naturaleza y régimen jurídico se ajustará a lo previsto en la legislación de contratos del sector público.
 
-2. Los convenios que suscriban las Administraciones Públicas, los organismos públicos y las entidades de derecho público vinculados o dependientes y las Universidades públicas, deberán corresponder a alguno de los siguientes tipos:
+Los convenios que suscriban las Administraciones Públicas, los organismos públicos y las entidades de derecho público vinculados o dependientes y las Universidades públicas, deberán corresponder a alguno de los siguientes tipos:
 
-- a) Convenios interadministrativos firmados entre dos o más Administraciones Públicas, o bien entre dos o más organismos públicos o entidades de derecho público vinculados o dependientes de distintas Administraciones públicas, y que podrán incluir la utilización de medios, servicios y recursos de otra Administración Pública, organismo público o entidad de derecho público vinculado o dependiente, para el ejercicio de competencias propias o delegadas.
+- Interadministrativos firmados entre dos o más Administraciones Públicas, o bien entre dos o más organismos públicos o entidades de derecho público vinculados o dependientes de distintas Administraciones públicas, y que podrán incluir la utilización de medios, servicios y recursos de otra Administración Pública, organismo público o entidad de derecho público vinculado o dependiente, para el ejercicio de competencias propias o delegadas.
 
 	Quedan excluidos los convenios interadministrativos suscritos entre dos o más Comunidades Autónomas para la gestión y prestación de servicios propios de las mismas, que se regirán en cuanto a sus supuestos, requisitos y términos por lo previsto en sus respectivos Estatutos de autonomía.
 
-- b) Convenios intradministrativos firmados entre organismos públicos y entidades de derecho público vinculados o dependientes de una misma Administración Pública.
+- **Intradministrativos** firmados entre organismos públicos y entidades de derecho público vinculados o dependientes de una misma Administración Pública.
 
-- c) Convenios firmados entre una Administración Pública u organismo o entidad de derecho público y un sujeto de Derecho privado.
+- Firmados entre una Administración Pública u organismo o entidad de derecho público y un sujeto de Derecho privado.
 
-- d) Convenios no constitutivos ni de Tratado internacional, ni de Acuerdo internacional administrativo, ni de Acuerdo internacional no normativo, firmados entre las Administraciones Públicas y los órganos, organismos públicos o entes de un sujeto de Derecho internacional, que estarán sometidos al ordenamiento jurídico interno que determinen las partes.
+- No constitutivos ni de Tratado internacional, ni de Acuerdo internacional administrativo, ni de Acuerdo internacional no normativo, firmados entre las Administraciones Públicas y los órganos, organismos públicos o entes de un sujeto de Derecho internacional, que estarán sometidos al ordenamiento jurídico interno que determinen las partes.
 
 
-1. Las Administraciones Públicas, sus organismos públicos y entidades de derecho público vinculados o dependientes y las Universidades públicas, en el ámbito de sus respectivas competencias, podrán suscribir convenios con sujetos de derecho público y privado, sin que ello pueda suponer cesión de la titularidad de la competencia.
+Las Administraciones Públicas, sus organismos públicos y entidades de derecho público vinculados o dependientes y las Universidades públicas, en el ámbito de sus respectivas competencias, podrán suscribir convenios con sujetos de derecho público y privado, sin que ello pueda suponer cesión de la titularidad de la competencia.
 
-2. En el ámbito de la Administración General del Estado y sus organismos públicos y entidades de derecho público vinculados o dependientes, podrán celebrar convenios los titulares de los Departamentos Ministeriales y los Presidentes o Directores de las dichas entidades y organismos públicos.
+En el ámbito de la Administración General del Estado y sus organismos públicos y entidades de derecho público vinculados o dependientes, podrán celebrar convenios los titulares de los Departamentos Ministeriales y los Presidentes o Directores de las dichas entidades y organismos públicos.
 
-3. La suscripción de convenios deberá mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a la realización de actividades de utilidad pública y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera.
+La suscripción de convenios deberá mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a la realización de actividades de utilidad pública y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera.
 
-4. La gestión, justificación y resto de actuaciones relacionadas con los gastos derivados de los convenios que incluyan compromisos financieros para la Administración Pública o cualquiera de sus organismos públicos o entidades de derecho público vinculados o dependientes que lo suscriban, así como con los fondos comprometidos en virtud de dichos convenios, se ajustarán a lo dispuesto en la legislación presupuestaria.
+La gestión, justificación y resto de actuaciones relacionadas con los gastos derivados de los convenios que incluyan compromisos financieros para la Administración Pública o cualquiera de sus organismos públicos o entidades de derecho público vinculados o dependientes que lo suscriban, así como con los fondos comprometidos en virtud de dichos convenios, se ajustarán a lo dispuesto en la legislación presupuestaria.
 
-5. Los convenios que incluyan compromisos financieros deberán ser financieramente sostenibles, debiendo quienes los suscriban tener capacidad para financiar los asumidos durante la vigencia del convenio.
+Los convenios que incluyan compromisos financieros deberán ser financieramente sostenibles, debiendo quienes los suscriban tener capacidad para financiar los asumidos durante la vigencia del convenio.
 
-6. Las aportaciones financieras que se comprometan a realizar los firmantes no podrán ser superiores a los gastos derivados de la ejecución del convenio.
+Las aportaciones financieras que se comprometan a realizar los firmantes no podrán ser superiores a los gastos derivados de la ejecución del convenio.
 
-7. Cuando el convenio instrumente una subvención deberá cumplir con lo previsto en la [Ley 38/2003, de 17 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977 "Abre nueva ventana"), General de Subvenciones y en la normativa autonómica de desarrollo que, en su caso, resulte aplicable.
+Cuando el convenio instrumente una subvención deberá cumplir con lo previsto en la [Ley 38/2003, de 17 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-20977 "Abre nueva ventana"), General de Subvenciones y en la normativa autonómica de desarrollo que, en su caso, resulte aplicable.
 
 Asimismo, cuando el convenio tenga por objeto la delegación de competencias en una Entidad Local, deberá cumplir con lo dispuesto en [Ley 7/1985, de 2 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392 "Abre nueva ventana"), Reguladora de las Bases del Régimen Local.
 
-8. Los convenios se perfeccionan por la prestación del consentimiento de las partes.
+Los convenios se perfeccionan por la prestación del consentimiento de las partes.
+
 
 Los convenios suscritos por la Administración General del Estado o alguno de sus organismos públicos o entidades de derecho público vinculados o dependientes resultarán eficaces una vez inscritos, en el plazo de 5 días hábiles desde su formalización, en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación del sector público estatal, al que se refiere la disposición adicional séptima. Asimismo, serán publicados en el plazo de 10 días hábiles desde su formalización en el «Boletín Oficial del Estado», sin perjuicio de su publicación facultativa en el boletín oficial de la comunidad autónoma o de la provincia que corresponda a la otra administración firmante.
 
@@ -2494,34 +2025,33 @@ En el caso de convenios suscritos por la Administración General del Estado o al
 
 ##### Artículo 50. Trámites preceptivos para la suscripción de convenios y sus efectos.
 
-1. Sin perjuicio de las especialidades que la legislación autonómica pueda prever, será necesario que el convenio se acompañe de una memoria justificativa donde se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad en cuestión, así como el cumplimiento de lo previsto en esta Ley.
+Sin perjuicio de las especialidades que la legislación autonómica pueda prever, será necesario que el convenio se acompañe de una memoria justificativa donde se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad en cuestión, así como el cumplimiento de lo previsto en esta Ley.
 
-2. Los convenios que suscriba la Administración General del Estado o sus organismos públicos y entidades de derecho público vinculados o dependientes se acompañarán además de:
+Los convenios que suscriba la Administración General del Estado o sus organismos públicos y entidades de derecho público vinculados o dependientes se acompañarán además de:
 
-a) El informe de su servicio jurídico, que deberá emitirse en un plazo máximo de siete días hábiles desde su solicitud, transcurridos los cuales se continuará la tramitación. En todo caso, dicho informe deberá emitirse e incorporarse al expediente antes de proceder al perfeccionamiento del convenio. No será necesario solicitar este informe cuando el convenio se ajuste a un modelo normalizado informado previamente por el servicio jurídico que corresponda.
+- Informe de su servicio jurídico, que deberá emitirse en un plazo máximo de siete días hábiles desde su solicitud, transcurridos los cuales se continuará la tramitación. En todo caso, dicho informe deberá emitirse e incorporarse al expediente antes de proceder al perfeccionamiento del convenio. No será necesario solicitar este informe cuando el convenio se ajuste a un modelo normalizado informado previamente por el servicio jurídico que corresponda.
 
-b) Cualquier otro informe preceptivo que establezca la normativa aplicable, que deberá emitirse en un plazo máximo de siete días hábiles desde su solicitud, transcurridos los cuales se continuará la tramitación. En cualquier caso, deberán emitirse e incorporarse al expediente todos los informes preceptivos antes de proceder al perfeccionamiento del convenio.
+- Cualquier otro informe preceptivo que establezca la normativa aplicable, que deberá emitirse en un plazo máximo de siete días hábiles desde su solicitud, transcurridos los cuales se continuará la tramitación. En cualquier caso, deberán emitirse e incorporarse al expediente todos los informes preceptivos antes de proceder al perfeccionamiento del convenio.
 
-c) La autorización previa del Ministerio de Hacienda y Función Pública para su firma, modificación, prórroga y resolución por mutuo acuerdo entre las partes, que deberá emitirse en un plazo máximo de siete días hábiles desde la solicitud, transcurridos los cuales se continuará la tramitación. En todo caso dicha autorización deberá emitirse e incorporarse al expediente antes de proceder al perfeccionamiento del convenio.
+- Autorización previa del Ministerio de Hacienda y Función Pública para su firma, modificación, prórroga y resolución por mutuo acuerdo entre las partes, que deberá emitirse en un plazo máximo de siete días hábiles desde la solicitud, transcurridos los cuales se continuará la tramitación. En todo caso dicha autorización deberá emitirse e incorporarse al expediente antes de proceder al perfeccionamiento del convenio.
 
 Cuando el convenio a suscribir esté excepcionado de la autorización a la que se refiere el párrafo anterior, también lo estará del informe del Ministerio de Política Territorial.
 
 No obstante, en todo caso, será preceptivo el informe del Ministerio de Política Territorial, respecto de los convenios que se suscriban entre la Administración General del Estado y sus organismos públicos y entidades de derecho público vinculados o dependientes, con las Comunidades Autónomas o con Entidades Locales o con sus organismos públicos y entidades de derecho público vinculados o dependientes, en los casos siguientes:
 
-1. Convenios cuyo objeto sea la cesión o adquisición de la titularidad de infraestructuras por la Administración General del Estado.
+Convenios cuyo objeto sea la cesión o adquisición de la titularidad de infraestructuras por la Administración General del Estado.
 
-2. Convenios que tengan por objeto la creación de consorcios previstos en el artículo 123 de esta ley.
+Convenios que tengan por objeto la creación de consorcios previstos en el artículo 123 de esta ley.
 
-d) Cuando los convenios plurianuales suscritos entre Administraciones Públicas incluyan aportaciones de fondos por parte del Estado para financiar actuaciones a ejecutar exclusivamente por parte de otra Administración Pública y el Estado asuma, en el ámbito de sus competencias, los compromisos frente a terceros, la aportación del Estado de anualidades futuras estará condicionada a la existencia de crédito en los correspondientes presupuestos.
+- Cuando los convenios plurianuales suscritos entre Administraciones Públicas incluyan aportaciones de fondos por parte del Estado para financiar actuaciones a ejecutar exclusivamente por parte de otra Administración Pública y el Estado asuma, en el ámbito de sus competencias, los compromisos frente a terceros, la aportación del Estado de anualidades futuras estará condicionada a la existencia de crédito en los correspondientes presupuestos.
 
-e) Los convenios interadministrativos suscritos con las Comunidades Autónomas serán remitidos al Senado por el Ministerio de Política Territorial.
-
-
+- Los convenios interadministrativos suscritos con las Comunidades Autónomas serán remitidos al Senado por el Ministerio de Política Territorial.
 
 
-Los convenios se extinguen por las siuientes causas
+Los convenios se extinguen por las siguientes causas:
+
 - Cumplimiento de las actuaciones que constituyen su objeto
-- a) El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo
+- Transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo
 - Acuerdo unánime de todos los firmantes.
 - Incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes.
 
@@ -2537,18 +2067,18 @@ El cumplimiento y la resolución de los convenios dará lugar a la liquidación 
 
 En el supuesto de convenios de los que deriven compromisos financieros, se entenderán cumplidos cuando su objeto se haya realizado en los términos y a satisfacción de ambas partes, de acuerdo con sus respectivas competencias, teniendo en cuenta las siguientes reglas:
 
-a) Si de la liquidación resultara que el importe de las actuaciones ejecutadas por alguna de las partes fuera inferior a los fondos que la misma hubiera recibido del resto de partes del convenio para financiar dicha ejecución, aquella deberá reintegrar a estas el exceso que corresponda a cada una, **en el plazo máximo de un mes desde que se hubiera aprobado la liquidación.**
+- Si de la liquidación resultara que el importe de las actuaciones ejecutadas por alguna de las partes fuera inferior a los fondos que la misma hubiera recibido del resto de partes del convenio para financiar dicha ejecución, aquella deberá reintegrar a estas el exceso que corresponda a cada una, **en el plazo máximo de un mes desde que se hubiera aprobado la liquidación.**
 
-**Transcurrido el plazo máximo de un mes, mencionado en el párrafo anterior**, sin que se haya producido el reintegro, se deberá abonar a dichas partes, **también en el plazo de un mes a contar desde ese momento**, el interés de demora aplicable al citado reintegro, que será en todo caso el que resulte de las disposiciones de carácter general reguladoras del gasto público y de la actividad económico-financiera del sector público.
+	**Transcurrido el plazo máximo de un mes, mencionado en el párrafo anterior**, sin que se haya producido el reintegro, se deberá abonar a dichas partes, **también en el plazo de un mes a contar desde ese momento**, el interés de demora aplicable al citado reintegro, que será en todo caso el que resulte de las disposiciones de carácter general reguladoras del gasto público y de la actividad económico-financiera del sector público.
 
-b) Si fuera superior, el resto de partes del convenio, **en el plazo de un mes desde la aprobación de la liquidación**, deberá abonar a la parte de que se trate la diferencia que corresponda a cada una de ellas, con el límite máximo de las cantidades que cada una de ellas se hubiera comprometido a aportar en virtud del convenio. En ningún caso las partes del convenio tendrán derecho a exigir al resto cuantía alguna que supere los citados límites máximos.
+- Si fuera superior, el resto de partes del convenio, **en el plazo de un mes desde la aprobación de la liquidación**, deberá abonar a la parte de que se trate la diferencia que corresponda a cada una de ellas, con el límite máximo de las cantidades que cada una de ellas se hubiera comprometido a aportar en virtud del convenio. En ningún caso las partes del convenio tendrán derecho a exigir al resto cuantía alguna que supere los citados límites máximos.
 
-3. No obstante lo anterior, si cuando concurra cualquiera de las causas de resolución del convenio existen actuaciones en curso de ejecución, las partes, a propuesta de la comisión de seguimiento, vigilancia y control del convenio o, en su defecto, del responsable del mecanismo a que hace referencia la letra f) del artículo 49, podrán acordar la continuación y finalización de las actuaciones en curso que consideren oportunas, estableciendo un plazo improrrogable para su finalización, transcurrido el cual deberá realizarse la liquidación de las mismas en los términos establecidos en el apartado anterior.
+No obstante lo anterior, si cuando concurra cualquiera de las causas de resolución del convenio existen actuaciones en curso de ejecución, las partes, a propuesta de la comisión de seguimiento, vigilancia y control del convenio o, en su defecto, del responsable del mecanismo a que hace referencia la letra f) del artículo 49, podrán acordar la continuación y finalización de las actuaciones en curso que consideren oportunas, estableciendo un plazo improrrogable para su finalización, transcurrido el cual deberá realizarse la liquidación de las mismas en los términos establecidos en el apartado anterior.
 
 
 Los convenios cuyos compromisos económicos superen los 600.000 euros se remitirán electrónicamente al Tribunal de Cuentas o al órgano externo de fiscalización de la Comunidad Autónoma (según corresponda) en los 3 meses siguientes a su suscripción.
 
-2. Igualmente se comunicarán al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma, según corresponda, las modificaciones, prórrogas o variaciones de plazos, alteración de los importes de los compromisos económicos asumidos y la extinción de los convenios indicados.
+Igualmente se comunicarán al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma, según corresponda, las modificaciones, prórrogas o variaciones de plazos, alteración de los importes de los compromisos económicos asumidos y la extinción de los convenios indicados.
 
 Lo dispuesto en los apartados anteriores se entenderá sin perjuicio de las facultades del Tribunal de Cuentas o, en su caso, de los correspondientes órganos de fiscalización externos de las Comunidades Autónomas, para reclamar cuantos datos, documentos y antecedentes estime pertinentes con relación a los contratos de cualquier naturaleza y cuantía.
 
@@ -2599,7 +2129,6 @@ También introdujo cambios en la Ley Orgánica de Educación, la Ley Orgánica d
 
 Los principios de protección de datos son los siguientes: 
 
-
 - **Exactitud**: 
 
 - **Confidencialidad**: 
@@ -2649,18 +2178,15 @@ Los derechos digitales incluyen los siguientes:
 - **Portabilidad**: en servicios sociales y equivalentes.
 - Testamento digital:
 
-1. El Gobierno, en colaboración con las comunidades autónomas, elaborará un Plan de Acceso a Internet con los siguientes objetivos:
+El Gobierno, en colaboración con las comunidades autónomas, elaborará un Plan de Acceso a Internet con los siguientes objetivos:
 
-a) superar las brechas digitales y garantizar el acceso a Internet de colectivos vulnerables o con necesidades especiales y de entornos familiares y sociales económicamente desfavorecidos mediante, entre otras medidas, un bono social de acceso a Internet;
+- a) superar las brechas digitales y garantizar el acceso a Internet de colectivos vulnerables o con necesidades especiales y de entornos familiares y sociales económicamente desfavorecidos mediante, entre otras medidas, un bono social de acceso a Internet;
+- impulsar la existencia de espacios de conexión de acceso público; y
+- fomentar medidas educativas que promuevan la formación en competencias y habilidades digitales básicas a personas y colectivos en riesgo de exclusión digital y la capacidad de todas las personas para realizar un uso autónomo y responsable de Internet y de las tecnologías digitales.
 
-b) impulsar la existencia de espacios de conexión de acceso público; y
+Asimismo se aprobará un Plan de Actuación dirigido a promover las acciones de formación, difusión y concienciación necesarias para lograr que los menores de edad hagan un uso equilibrado y responsable de los dispositivos digitales y de las redes sociales y de los servicios de la sociedad de la información equivalentes de Internet con la finalidad de garantizar su adecuado desarrollo de la personalidad y de preservar su dignidad y derechos fundamentales.
 
-c) fomentar medidas educativas que promuevan la formación en competencias y habilidades digitales básicas a personas y colectivos en riesgo de exclusión digital y la capacidad de todas las personas para realizar un uso autónomo y responsable de Internet y de las tecnologías digitales.
-
-2. Asimismo se aprobará un Plan de Actuación dirigido a promover las acciones de formación, difusión y concienciación necesarias para lograr que los menores de edad hagan un uso equilibrado y responsable de los dispositivos digitales y de las redes sociales y de los servicios de la sociedad de la información equivalentes de Internet con la finalidad de garantizar su adecuado desarrollo de la personalidad y de preservar su dignidad y derechos fundamentales.
-
-3. El Gobierno presentará un informe anual ante la comisión parlamentaria correspondiente del Congreso de los Diputados en el que se dará cuenta de la evolución de los derechos, garantías y mandatos contemplados en el presente Título y de las medidas necesarias para promover su impulso y efectividad.
-
+El Gobierno presentará un informe anual ante la comisión parlamentaria correspondiente del Congreso de los Diputados en el que se dará cuenta de la evolución de los derechos, garantías y mandatos contemplados en el presente Título y de las medidas necesarias para promover su impulso y efectividad.
 
 
 ### Ley 9/2017
@@ -2685,109 +2211,89 @@ Finalmente, también aparecen regulados los contratos con el Sector Público, me
 
 #### Objeto y ámbito de aplicación
 
+La presente Ley tiene por objeto 
 
-##### Artículo 1. Objeto y finalidad.
+- Regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.
 
-1. La presente Ley tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores; y de asegurar, en conexión con el objetivo de estabilidad presupuestaria y control del gasto, y el principio de integridad, una eficiente utilización de los fondos destinados a la realización de obras, la adquisición de bienes y la contratación de servicios mediante la exigencia de la definición previa de las necesidades a satisfacer, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.
+- Es igualmente objeto de esta Ley la regulación del régimen jurídico aplicable a los efectos, cumplimiento y extinción de los contratos administrativos, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.
 
-2. Es igualmente objeto de esta Ley la regulación del régimen jurídico aplicable a los efectos, cumplimiento y extinción de los contratos administrativos, en atención a los fines institucionales de carácter público que a través de los mismos se tratan de realizar.
+En toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato, en la convicción de que su inclusión proporciona una mejor relación calidad-precio en la prestación contractual, así como una mayor y mejor eficiencia en la utilización de los fondos públicos. Igualmente se facilitará el acceso a la contratación pública de las pequeñas y medianas empresas, así como de las empresas de economía social.
 
-3. En toda contratación pública se incorporarán de manera transversal y preceptiva criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato, en la convicción de que su inclusión proporciona una mejor relación calidad-precio en la prestación contractual, así como una mayor y mejor eficiencia en la utilización de los fondos públicos. Igualmente se facilitará el acceso a la contratación pública de las pequeñas y medianas empresas, así como de las empresas de economía social.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 7: #a2]
-
-##### Artículo 2. Ámbito de aplicación.
-
-1. Son contratos del sector público y, en consecuencia, están sometidos a la presente Ley en la forma y términos previstos en la misma, los contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las entidades enumeradas en el artículo 3.
+Son contratos del sector público y, en consecuencia, están sometidos a la presente Ley en la forma y términos previstos en la misma, los contratos onerosos (que obtengan beneficio: directo o indirecto), cualquiera que sea su naturaleza jurídica, que celebren las entidades enumeradas en el artículo 3.
 
 Se entenderá que un contrato tiene carácter oneroso en los casos en que el contratista obtenga algún tipo de beneficio económico, ya sea de forma directa o indirecta.
 
-2. Están también sujetos a la presente Ley, en los términos que en ella se señalan, los contratos subvencionados por entidades que tengan la consideración de poderes adjudicadores que celebren otras personas físicas o jurídicas en los supuestos previstos en el artículo 23 relativo a los contratos subvencionados sujetos a una regulación armonizada.
+Están también sujetos a la presente Ley, en los términos que en ella se señalan, los contratos subvencionados por entidades que tengan la consideración de poderes adjudicadores que celebren otras personas físicas o jurídicas en los supuestos previstos en el artículo 23 relativo a los contratos subvencionados sujetos a una regulación armonizada.
 
-3. La aplicación de esta Ley a los contratos que celebren las Comunidades Autónomas y las entidades que integran la Administración Local, o los organismos dependientes de las mismas, así como a los contratos subvencionados por cualquiera de estas entidades, se efectuará en los términos previstos en la Disposición final primera de la presente Ley relativa a los títulos competenciales.
+La aplicación de esta Ley a los contratos que celebren las Comunidades Autónomas y las entidades que integran la Administración Local, o los organismos dependientes de las mismas, así como a los contratos subvencionados por cualquiera de estas entidades, se efectuará en los términos previstos en la Disposición final primera de la presente Ley relativa a los títulos competenciales.
 
-4. A los efectos de identificar las prestaciones que son objeto de los contratos regulados en esta Ley, se utilizará el «Vocabulario común de contratos públicos», aprobado por el [Reglamento (CE) n.º 2195/2002 del Parlamento Europeo y del Consejo de 5 de noviembre de 2002](https://www.boe.es/buscar/doc.php?id=DOUE-L-2002-82292 "Abre nueva ventana"), por el que se aprueba el Vocabulario común de contratos públicos (CPV), o normativa comunitaria que le sustituya.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 8: #a3]
+A los efectos de identificar las prestaciones que son objeto de los contratos regulados en esta Ley, se utilizará el «Vocabulario común de contratos públicos» ([Reglamento 2195/2002](https://www.boe.es/buscar/doc.php?id=DOUE-L-2002-82292 "Abre nueva ventana"))
 
 ##### Artículo 3. Ámbito subjetivo.
 
-1. A los efectos de esta Ley, se considera que forman parte del sector público las siguientes entidades:
+Se considera que forman parte del sector público las siguientes entidades:
 
-a) La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Ciudades Autónomas de Ceuta y Melilla y las Entidades que integran la Administración Local.
+- Administración: Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Ciudades Autónomas de Ceuta y Melilla y las Entidades que integran la Administración Local.
+- Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.
+- Los Organismos Autónomos, las Universidades Públicas y las autoridades administrativas independientes.
+- Los consorcios dotados de personalidad jurídica propia a los que se refiere la [Ley 40/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566 "Abre nueva ventana"), de Régimen Jurídico del Sector Público, y la legislación de régimen local, así como los consorcios regulados por la legislación aduanera.
+- Las fundaciones públicas. A efectos de esta Ley, se entenderá por fundaciones públicas aquellas que reúnan alguno de los siguientes requisitos:
 
-b) Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.
+	1.º Que se constituyan de forma inicial, con una aportación mayoritaria, directa o indirecta, de una o varias entidades integradas en el sector público, o bien reciban dicha aportación con posterioridad a su constitución.
 
-c) Los Organismos Autónomos, las Universidades Públicas y las autoridades administrativas independientes.
+	2.º Que el patrimonio de la fundación esté integrado en más de un 50 por ciento por bienes o derechos aportados o cedidos por sujetos integrantes del sector público con carácter permanente.
+	
+	3.º Que la mayoría de derechos de voto en su patronato corresponda a representantes del sector público.
 
-d) Los consorcios dotados de personalidad jurídica propia a los que se refiere la [Ley 40/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566 "Abre nueva ventana"), de Régimen Jurídico del Sector Público, y la legislación de régimen local, así como los consorcios regulados por la legislación aduanera.
+- Mutuas colaboradoras con la Seguridad Social.
+- Entidades Públicas Empresariales a las que se refiere la [Ley 40/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566 "Abre nueva ventana"), de Régimen Jurídico del Sector Público, y cualesquiera entidades de derecho público con personalidad jurídica propia vinculadas a un sujeto que pertenezca al sector público o dependientes del mismo.
+- Sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de entidades de las mencionadas en las letras a), b), c), d), e), g) y h) del presente apartado sea superior al 50 por 100, o en los casos en que sin superar ese porcentaje, se encuentre respecto de las referidas entidades en el supuesto previsto en el [artículo 5 del texto refundido de la Ley del Mercado de Valores, aprobado por Real Decreto Legislativo 4/2015, de 23 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11435#a5 "Abre nueva ventana").
+- Fondos sin personalidad jurídica
+- Cualesquiera entidades con personalidad jurídica propia, que hayan sido creadas específicamente para satisfacer necesidades de interés general que no tengan carácter industrial o mercantil, siempre que uno o varios sujetos pertenecientes al sector público financien mayoritariamente su actividad, controlen su gestión, o nombren a más de la mitad de los miembros de su órgano de administración, dirección o vigilancia.
+- Las asociaciones constituidas por las entidades mencionadas en las letras anteriores.
+- A los efectos de esta Ley, se entiende que también forman parte del sector público las Diputaciones Forales y las Juntas Generales de los Territorios Históricos del País Vasco en lo que respecta a su actividad de contratación.
 
-e) Las fundaciones públicas. A efectos de esta Ley, se entenderá por fundaciones públicas aquellas que reúnan alguno de los siguientes requisitos:
-
-1.º Que se constituyan de forma inicial, con una aportación mayoritaria, directa o indirecta, de una o varias entidades integradas en el sector público, o bien reciban dicha aportación con posterioridad a su constitución.
-
-2.º Que el patrimonio de la fundación esté integrado en más de un 50 por ciento por bienes o derechos aportados o cedidos por sujetos integrantes del sector público con carácter permanente.
-
-3.º Que la mayoría de derechos de voto en su patronato corresponda a representantes del sector público.
-
-f) Las Mutuas colaboradoras con la Seguridad Social.
-
-g) Las Entidades Públicas Empresariales a las que se refiere la [Ley 40/2015, de 1 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566 "Abre nueva ventana"), de Régimen Jurídico del Sector Público, y cualesquiera entidades de derecho público con personalidad jurídica propia vinculadas a un sujeto que pertenezca al sector público o dependientes del mismo.
-
-h) Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de entidades de las mencionadas en las letras a), b), c), d), e), g) y h) del presente apartado sea superior al 50 por 100, o en los casos en que sin superar ese porcentaje, se encuentre respecto de las referidas entidades en el supuesto previsto en el [artículo 5 del texto refundido de la Ley del Mercado de Valores, aprobado por Real Decreto Legislativo 4/2015, de 23 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11435#a5 "Abre nueva ventana").
-
-i) Los fondos sin personalidad jurídica.
-
-j) Cualesquiera entidades con personalidad jurídica propia, que hayan sido creadas específicamente para satisfacer necesidades de interés general que no tengan carácter industrial o mercantil, siempre que uno o varios sujetos pertenecientes al sector público financien mayoritariamente su actividad, controlen su gestión, o nombren a más de la mitad de los miembros de su órgano de administración, dirección o vigilancia.
-
-k) Las asociaciones constituidas por las entidades mencionadas en las letras anteriores.
-
-l) A los efectos de esta Ley, se entiende que también forman parte del sector público las Diputaciones Forales y las Juntas Generales de los Territorios Históricos del País Vasco en lo que respecta a su actividad de contratación.
-
-2. Dentro del sector público, y a los efectos de esta Ley, tendrán la consideración de Administraciones Públicas las siguientes entidades:
+Dentro del sector público, y a los efectos de esta Ley, tendrán la consideración de Administraciones Públicas las siguientes entidades:
 
 a) Las mencionadas en las letras a), b), c), y l) del apartado primero del presente artículo.
 
 b) Los consorcios y otras entidades de derecho público, en las que dándose las circunstancias establecidas en la letra d) del apartado siguiente para poder ser considerados poder adjudicador y estando vinculados a una o varias Administraciones Públicas o dependientes de las mismas, no se financien mayoritariamente con ingresos de mercado. Se entiende que se financian mayoritariamente con ingresos de mercado cuando tengan la consideración de productor de mercado de conformidad con el Sistema Europeo de Cuentas.
 
-3. Se considerarán poderes adjudicadores, a efectos de esta Ley, las siguientes entidades:
+Se considerarán poderes adjudicadores, a efectos de esta Ley, las siguientes entidades:
 
-a) Las Administraciones Públicas.
+- Las Administraciones Públicas
+- Las fundaciones públicas
+- Las Mutuas colaboradoras con la Seguridad Social.
+- Todas las demás entidades con personalidad jurídica propia distintas de las expresadas en las letras anteriores que hayan sido creadas específicamente para satisfacer necesidades de interés general que no tengan carácter industrial o mercantil, siempre que uno o varios sujetos que deban considerarse poder adjudicador de acuerdo con los criterios de este apartado 3, bien financien mayoritariamente su actividad; bien controlen su gestión; o bien nombren a más de la mitad de los miembros de su órgano de administración, dirección o vigilancia.
+- Las asociaciones constituidas por las entidades mencionadas en las letras anteriores.
 
-b) Las fundaciones públicas.
-
-c) Las Mutuas colaboradoras con la Seguridad Social.
-
-d) Todas las demás entidades con personalidad jurídica propia distintas de las expresadas en las letras anteriores que hayan sido creadas específicamente para satisfacer necesidades de interés general que no tengan carácter industrial o mercantil, siempre que uno o varios sujetos que deban considerarse poder adjudicador de acuerdo con los criterios de este apartado 3, bien financien mayoritariamente su actividad; bien controlen su gestión; o bien nombren a más de la mitad de los miembros de su órgano de administración, dirección o vigilancia.
-
-e) Las asociaciones constituidas por las entidades mencionadas en las letras anteriores.
-
-4. Los partidos políticos, en el sentido definido en el [artículo 1 de la Ley Orgánica 8/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-13022#a1 "Abre nueva ventana"), de Financiación de los Partidos Políticos; así como las organizaciones sindicales reguladas en la [Ley Orgánica 11/1985, de 2 de agosto](https://www.boe.es/buscar/act.php?id=BOE-A-1985-16660 "Abre nueva ventana"), de Libertad Sindical, y las organizaciones empresariales y asociaciones profesionales a las que se refiere la [Ley 19/1977, de 1 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-1977-8602 "Abre nueva ventana"), sobre regulación del derecho de asociación sindical, además de las fundaciones y asociaciones vinculadas a cualquiera de ellos, cuando cumplan los requisitos para ser poder adjudicador de acuerdo con la letra d) del apartado 3 del presente artículo, y respecto de los contratos sujetos a regulación armonizada deberán actuar conforme a los principios de publicidad, concurrencia, transparencia, igualdad y no discriminación sin perjuicio del respeto a la autonomía de la voluntad y de la confidencialidad cuando sea procedente.
+Los partidos políticos, en el sentido definido en el [artículo 1 de la Ley Orgánica 8/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-13022#a1 "Abre nueva ventana"), de Financiación de los Partidos Políticos; así como las organizaciones sindicales reguladas en la [Ley Orgánica 11/1985, de 2 de agosto](https://www.boe.es/buscar/act.php?id=BOE-A-1985-16660 "Abre nueva ventana"), de Libertad Sindical, y las organizaciones empresariales y asociaciones profesionales a las que se refiere la [Ley 19/1977, de 1 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-1977-8602 "Abre nueva ventana"), sobre regulación del derecho de asociación sindical, además de las fundaciones y asociaciones vinculadas a cualquiera de ellos, cuando cumplan los requisitos para ser poder adjudicador de acuerdo con la letra d) del apartado 3 del presente artículo, y respecto de los contratos sujetos a regulación armonizada deberán actuar conforme a los principios de publicidad, concurrencia, transparencia, igualdad y no discriminación sin perjuicio del respeto a la autonomía de la voluntad y de la confidencialidad cuando sea procedente.
 
 Los sujetos obligados deberán aprobar unas instrucciones internas en materia de contratación que se adecuarán a lo previsto en el párrafo anterior y a la normativa comunitaria, y que deberán ser informadas antes de su aprobación por el órgano al que corresponda su asesoramiento jurídico. Estas instrucciones deberán publicarse en sus respectivas páginas web.
 
-5. Asimismo, quedarán sujetos a esta Ley las Corporaciones de derecho público cuando cumplan los requisitos para ser poder adjudicador de acuerdo con el apartado tercero, letra d) del presente artículo.
+Asimismo, quedarán sujetos a esta Ley las Corporaciones de derecho público cuando cumplan los requisitos para ser poder adjudicador de acuerdo con el apartado tercero, letra d) del presente artículo.
 
 ##### Tipos contractuales
 ##### Artículo 12. Calificación de los contratos.
 
-1. Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios que celebren las entidades pertenecientes al sector público se calificarán de acuerdo con las normas contenidas en la presente sección.
+Los contratos se clasificarán en los siguientes:
 
-2. Los restantes contratos del sector público se calificarán según las normas de derecho administrativo o de derecho privado que les sean de aplicación.
+- **Obras**: 
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
+- **Concesión de obras**: 
 
----
+- **Concesión de servicios**: 
 
-[Bloque 21: #a1-5]
+- **Suministro**: 
+
+- **Servicios**: 
+
+que celebren las entidades pertenecientes al sector público se calificarán de acuerdo con las normas contenidas en la presente sección.
+
+
+Los restantes contratos del sector público se calificarán según las normas de derecho administrativo o de derecho privado que les sean de aplicación.
+
 
 ##### Artículo 13. Contrato de obras.
 
@@ -2807,17 +2313,11 @@ No obstante lo anterior, podrán contratarse obras definidas mediante proyectos 
 
 Se podrán celebrar contratos de obras sin referirse a una obra completa en los supuestos previstos en el apartado 4 del artículo 30 de la presente Ley cuando la responsabilidad de la obra completa corresponda a la Administración por tratarse de un supuesto de ejecución de obras por la propia Administración Pública.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 22: #a1-6]
-
 ##### Artículo 14. Contrato de concesión de obras.
 
-1. La concesión de obras es un contrato que tiene por objeto la realización por el concesionario de algunas de las prestaciones a que se refiere el artículo anterior, incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos, y en el que la contraprestación a favor de aquel consiste, o bien únicamente en el derecho a explotar la obra en el sentido del apartado cuarto siguiente, o bien en dicho derecho acompañado del de percibir un precio.
+La concesión de obras es un contrato que tiene por objeto la realización por el concesionario de algunas de las prestaciones a que se refiere el artículo anterior, incluidas las de restauración y reparación de construcciones existentes, así como la conservación y mantenimiento de los elementos construidos, y en el que la contraprestación a favor de aquel consiste, o bien únicamente en el derecho a explotar la obra en el sentido del apartado cuarto siguiente, o bien en dicho derecho acompañado del de percibir un precio.
 
-2. El contrato podrá comprender, además, el siguiente contenido:
+El contrato podrá comprender, además, el siguiente contenido:
 
 a) La adecuación, reforma y modernización de la obra para adaptarla a las características técnicas y funcionales requeridas para la correcta prestación de los servicios o la realización de las actividades económicas a las que sirve de soporte material.
 
@@ -2829,23 +2329,11 @@ b) Las actuaciones de reposición y gran reparación que sean exigibles en relac
 
 Se considerará que el concesionario asume un riesgo operacional cuando no esté garantizado que, en condiciones normales de funcionamiento, el mismo vaya a recuperar las inversiones realizadas ni a cubrir los costes en que hubiera incurrido como consecuencia de la explotación de las obras que sean objeto de la concesión. La parte de los riesgos transferidos al concesionario debe suponer una exposición real a las incertidumbres del mercado que implique que cualquier pérdida potencial estimada en que incurra el concesionario no es meramente nominal o desdeñable.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 23: #a1-7]
-
 ##### Artículo 15. Contrato de concesión de servicios.
 
 1. El contrato de concesión de servicios es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.
 
 2. El derecho de explotación de los servicios implicará la transferencia al concesionario del riesgo operacional, en los términos señalados en el apartado cuarto del artículo anterior.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 24: #a1-8]
 
 ##### Artículo 16. Contrato de suministro.
 
@@ -2863,23 +2351,12 @@ c) Los de fabricación, por los que la cosa o cosas que hayan de ser entregadas 
 
 d) Los que tengan por objeto la adquisición de energía primaria o energía transformada.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 25: #a1-9]
 
 ##### Artículo 17. Contrato de servicios.
 
 Son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.
 
 No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 26: #a1-10]
 
 ##### Artículo 18. Contratos mixtos.
 
@@ -2913,25 +2390,19 @@ En el supuesto de que el contrato mixto contenga elementos de una concesión de 
 
 
 
-#### Objeto, presupuesto base de licitación, valor estimado, precio del contrato y su revisión
+#### Objeto, resupuesto base de licitación, valor estimado, precio del contrato y su revisión
 
 #### CAPÍTULO I
 
 #### Normas generales
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 132: #a9-11]
-
 ##### Artículo 99. Objeto del contrato.
 
-1. El objeto de los contratos del sector público deberá ser determinado. El mismo se podrá definir en atención a las necesidades o funcionalidades concretas que se pretenden satisfacer, sin cerrar el objeto del contrato a una solución única. En especial, se definirán de este modo en aquellos contratos en los que se estime que pueden incorporarse innovaciones tecnológicas, sociales o ambientales que mejoren la eficiencia y sostenibilidad de los bienes, obras o servicios que se contraten.
+El objeto de los contratos del sector público deberá ser determinado. El mismo se podrá definir en atención a las necesidades o funcionalidades concretas que se pretenden satisfacer, sin cerrar el objeto del contrato a una solución única. En especial, se definirán de este modo en aquellos contratos en los que se estime que pueden incorporarse innovaciones tecnológicas, sociales o ambientales que mejoren la eficiencia y sostenibilidad de los bienes, obras o servicios que se contraten.
 
-2. No podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan.
+No podrá fraccionarse un contrato con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan.
 
-3. Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes, pudiéndose reservar lotes de conformidad con lo dispuesto en la disposición adicional cuarta.
+Siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes, pudiéndose reservar lotes de conformidad con lo dispuesto en la disposición adicional cuarta.
 
 No obstante lo anterior, el órgano de contratación podrá no dividir en lotes el objeto del contrato cuando existan motivos válidos, que deberán justificarse debidamente en el expediente, salvo en los casos de contratos de concesión de obras.
 
@@ -2941,7 +2412,7 @@ a) El hecho de que la división en lotes del objeto del contrato conllevase el r
 
 b) El hecho de que, la realización independiente de las diversas prestaciones comprendidas en el objeto del contrato dificultara la correcta ejecución del mismo desde el punto de vista técnico; o bien que el riesgo para la correcta ejecución del contrato proceda de la naturaleza del objeto del mismo, al implicar la necesidad de coordinar la ejecución de las diferentes prestaciones, cuestión que podría verse imposibilitada por su división en lotes y ejecución por una pluralidad de contratistas diferentes. Ambos extremos deberán ser, en su caso, justificados debidamente en el expediente.
 
-4. Cuando el órgano de contratación proceda a la división en lotes del objeto del contrato, este podrá introducir las siguientes limitaciones, justificándolas debidamente en el expediente:
+Cuando el órgano de contratación proceda a la división en lotes del objeto del contrato, este podrá introducir las siguientes limitaciones, justificándolas debidamente en el expediente:
 
 a) Podrá limitar el número de lotes para los que un mismo candidato o licitador puede presentar oferta.
 
@@ -2955,27 +2426,18 @@ Salvo lo que disponga el pliego de cláusulas administrativas particulares, a ef
 
 Podrá reservar alguno o algunos de los lotes para Centros Especiales de Empleo o para empresas de inserción, o un porcentaje mínimo de reserva de la ejecución de estos contratos en el marco de programas de empleo protegido, de conformidad con lo dispuesto en la Disposición adicional cuarta. Igualmente se podrán reservar lotes a favor de las entidades a que se refiere la Disposición adicional cuadragésima octava, en las condiciones establecidas en la citada disposición.
 
-5. Cuando el órgano de contratación hubiera decidido proceder a la división en lotes del objeto del contrato y, además, permitir que pueda adjudicarse más de un lote al mismo licitador, aquel podrá adjudicar a una oferta integradora, siempre y cuando se cumplan todos y cada uno de los requisitos siguientes:
+Cuando el órgano de contratación hubiera decidido proceder a la división en lotes del objeto del contrato y, además, permitir que pueda adjudicarse más de un lote al mismo licitador, aquel podrá adjudicar a una oferta integradora, siempre y cuando se cumplan todos y cada uno de los requisitos siguientes:
 
-a) Que esta posibilidad se hubiere establecido en el pliego que rija el contrato y se recoja en el anuncio de licitación. Dicha previsión deberá concretar la combinación o combinaciones que se admitirá, en su caso, así como la solvencia y capacidad exigida en cada una de ellas.
+- a) Que esta posibilidad se hubiere establecido en el pliego que rija el contrato y se recoja en el anuncio de licitación. Dicha previsión deberá concretar la combinación o combinaciones que se admitirá, en su caso, así como la solvencia y capacidad exigida en cada una de ellas.
+- b) Que se trate de supuestos en que existan varios criterios de adjudicación.
+- c) Que previamente se lleve a cabo una evaluación comparativa para determinar si las ofertas presentadas por un licitador concreto para una combinación particular de lotes cumpliría mejor, en conjunto, los criterios de adjudicación establecidos en el pliego con respecto a dichos lotes, que las ofertas presentadas para los lotes separados de que se trate, considerados aisladamente.
+- d) Que los empresarios acrediten la solvencia económica, financiera y técnica correspondiente, o, en su caso, la clasificación, al conjunto de lotes por los que licite.
 
-b) Que se trate de supuestos en que existan varios criterios de adjudicación.
+Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función del valor acumulado del conjunto, calculado según lo establecido en el artículo 101, salvo que se dé alguna de las excepciones a que se refieren los artículos 20.2, 21.2 y 22.2.
 
-c) Que previamente se lleve a cabo una evaluación comparativa para determinar si las ofertas presentadas por un licitador concreto para una combinación particular de lotes cumpliría mejor, en conjunto, los criterios de adjudicación establecidos en el pliego con respecto a dichos lotes, que las ofertas presentadas para los lotes separados de que se trate, considerados aisladamente.
+En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato.
 
-d) Que los empresarios acrediten la solvencia económica, financiera y técnica correspondiente, o, en su caso, la clasificación, al conjunto de lotes por los que licite.
-
-6. Cuando se proceda a la división en lotes, las normas procedimentales y de publicidad que deben aplicarse en la adjudicación de cada lote o prestación diferenciada se determinarán en función del valor acumulado del conjunto, calculado según lo establecido en el artículo 101, salvo que se dé alguna de las excepciones a que se refieren los artículos 20.2, 21.2 y 22.2.
-
-7. En los contratos adjudicados por lotes, y salvo que se establezca otra previsión en el pliego que rija el contrato, cada lote constituirá un contrato, salvo en casos en que se presenten ofertas integradoras, en los que todas las ofertas constituirán un contrato.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 133: #a1-12]
-
-##### Artículo 100. Presupuesto base de licitación.
+##### Artículo 100 Presupuesto base de licitación.
 
 1. A los efectos de esta Ley, por presupuesto base de licitación se entenderá el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario.
 
@@ -2983,63 +2445,49 @@ d) Que los empresarios acrediten la solvencia económica, financiera y técnica 
 
 3. Con carácter previo a la tramitación de un acuerdo marco o de un sistema dinámico de adquisición no será necesario que se apruebe un presupuesto base de licitación.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 134: #a1-13]
-
 ##### Artículo 101. Valor estimado.
 
-1. A todos los efectos previstos en esta Ley, el valor estimado de los contratos será determinado como sigue:
+A todos los efectos previstos en esta Ley, el valor estimado de los contratos será determinado como sigue:
 
-a) En el caso de los contratos de obras, suministros y servicios, el órgano de contratación tomará el importe total, sin incluir el Impuesto sobre el Valor Añadido, pagadero según sus estimaciones.
+- Contratos de obras, suministros y servicios: el órgano de contratación tomará el importe total, sin incluir el Impuesto sobre el Valor Añadido, pagadero según sus estimaciones.
+- Contratos de concesión de obras y de concesión de servicios, el órgano de contratación tomará el importe neto de la cifra de negocios, sin incluir el Impuesto sobre el Valor Añadido, que según sus estimaciones, generará la empresa concesionaria durante la ejecución del mismo como contraprestación por las obras y los servicios objeto del contrato, así como de los suministros relacionados con estas obras y servicios.
 
-b) En el caso de los contratos de concesión de obras y de concesión de servicios, el órgano de contratación tomará el importe neto de la cifra de negocios, sin incluir el Impuesto sobre el Valor Añadido, que según sus estimaciones, generará la empresa concesionaria durante la ejecución del mismo como contraprestación por las obras y los servicios objeto del contrato, así como de los suministros relacionados con estas obras y servicios.
+En el cálculo del valor estimado deberán tenerse en cuenta, como mínimo, además de los costes derivados de la aplicación de las normativas laborales vigentes, otros costes que se deriven de la ejecución material de los servicios, los gastos generales de estructura y el beneficio industrial. Asimismo deberán tenerse en cuenta:
 
-2. En el cálculo del valor estimado deberán tenerse en cuenta, como mínimo, además de los costes derivados de la aplicación de las normativas laborales vigentes, otros costes que se deriven de la ejecución material de los servicios, los gastos generales de estructura y el beneficio industrial. Asimismo deberán tenerse en cuenta:
-
-a) Cualquier forma de opción eventual y las eventuales prórrogas del contrato.
-
-b) Cuando se haya previsto abonar primas o efectuar pagos a los candidatos o licitadores, la cuantía de los mismos.
-
-c) En el caso de que, de conformidad con lo dispuesto en el artículo 204, se haya previsto en el pliego de cláusulas administrativas particulares o en el anuncio de licitación la posibilidad de que el contrato sea modificado, se considerará valor estimado del contrato el importe máximo que este pueda alcanzar, teniendo en cuenta la totalidad de las modificaciones al alza previstas.
+- a) Cualquier forma de opción eventual y las eventuales prórrogas del contrato.
+- b) Cuando se haya previsto abonar primas o efectuar pagos a los candidatos o licitadores, la cuantía de los mismos.
+- ) En el caso de que, de conformidad con lo dispuesto en el artículo 204, se haya previsto en el pliego de cláusulas administrativas particulares o en el anuncio de licitación la posibilidad de que el contrato sea modificado, se considerará valor estimado del contrato el importe máximo que este pueda alcanzar, teniendo en cuenta la totalidad de las modificaciones al alza previstas.
 
 En los contratos de servicios y de concesión de servicios en los que sea relevante la mano de obra, en la aplicación de la normativa laboral vigente a que se refiere el párrafo anterior se tendrán especialmente en cuenta los costes laborales derivados de los convenios colectivos sectoriales de aplicación.
 
-3. Adicionalmente a lo previsto en el apartado anterior, en el cálculo del valor estimado de los contratos de concesión de obras y de concesión de servicios se tendrán en cuenta, cuando proceda, los siguientes conceptos:
+Adicionalmente a lo previsto en el apartado anterior, en el cálculo del valor estimado de los contratos de concesión de obras y de concesión de servicios se tendrán en cuenta, cuando proceda, los siguientes conceptos:
 
-a) La renta procedente del pago de tasas y multas por los usuarios de las obras o servicios, distintas de las recaudadas en nombre del poder adjudicador.
+- a) La renta procedente del pago de tasas y multas por los usuarios de las obras o servicios, distintas de las recaudadas en nombre del poder adjudicador.
+- b) Los pagos o ventajas financieras, cualquiera que sea su forma, concedidos al concesionario por el poder adjudicador o por cualquier otra autoridad pública, incluida la compensación por el cumplimiento de una obligación de servicio público y subvenciones a la inversión pública.
+- c) El valor de los subsidios o ventajas financieras, cualquiera que sea su forma, procedentes de terceros a cambio de la ejecución de la concesión.
+- d) El precio de la venta de cualquier activo que forme parte de la concesión.
+- e) El valor de todos los suministros y servicios que el poder adjudicador ponga a disposición del concesionario, siempre que sean necesarios para la ejecución de las obras o la prestación de servicios.
 
-b) Los pagos o ventajas financieras, cualquiera que sea su forma, concedidos al concesionario por el poder adjudicador o por cualquier otra autoridad pública, incluida la compensación por el cumplimiento de una obligación de servicio público y subvenciones a la inversión pública.
+La elección del método para calcular el valor estimado no podrá efectuarse con la intención de sustraer el contrato a la aplicación de las normas de adjudicación que correspondan.
 
-c) El valor de los subsidios o ventajas financieras, cualquiera que sea su forma, procedentes de terceros a cambio de la ejecución de la concesión.
+El método de cálculo aplicado por el órgano de contratación para calcular el valor estimado en todo caso deberá figurar en los pliegos de cláusulas administrativas particulares.
 
-d) El precio de la venta de cualquier activo que forme parte de la concesión.
-
-e) El valor de todos los suministros y servicios que el poder adjudicador ponga a disposición del concesionario, siempre que sean necesarios para la ejecución de las obras o la prestación de servicios.
-
-4. La elección del método para calcular el valor estimado no podrá efectuarse con la intención de sustraer el contrato a la aplicación de las normas de adjudicación que correspondan.
-
-5. El método de cálculo aplicado por el órgano de contratación para calcular el valor estimado en todo caso deberá figurar en los pliegos de cláusulas administrativas particulares.
-
-6. Cuando un órgano de contratación esté compuesto por unidades funcionales separadas, se tendrá en cuenta el valor total estimado para todas las unidades funcionales individuales.
+Cuando un órgano de contratación esté compuesto por unidades funcionales separadas, se tendrá en cuenta el valor total estimado para todas las unidades funcionales individuales.
 
 No obstante lo anterior, cuando una unidad funcional separada sea responsable de manera autónoma respecto de su contratación o de determinadas categorías de ella, los valores pueden estimarse al nivel de la unidad de que se trate.
 
 En todo caso, se entenderá que se da la circunstancia aludida en el párrafo anterior cuando dicha unidad funcional separada cuente con financiación específica y con competencias respecto a la adjudicación del contrato.
 
-7. La estimación deberá hacerse teniendo en cuenta los precios habituales en el mercado, y estar referida al momento del envío del anuncio de licitación o, en caso de que no se requiera un anuncio de este tipo, al momento en que el órgano de contratación inicie el procedimiento de adjudicación del contrato.
+La estimación deberá hacerse teniendo en cuenta los precios habituales en el mercado, y estar referida al momento del envío del anuncio de licitación o, en caso de que no se requiera un anuncio de este tipo, al momento en que el órgano de contratación inicie el procedimiento de adjudicación del contrato.
 
-8. En los contratos de obras el cálculo del valor estimado debe tener en cuenta el importe de las mismas así como el valor total estimado de los suministros necesarios para su ejecución que hayan sido puestos a disposición del contratista por el órgano de contratación.
+En los contratos de obras el cálculo del valor estimado debe tener en cuenta el importe de las mismas así como el valor total estimado de los suministros necesarios para su ejecución que hayan sido puestos a disposición del contratista por el órgano de contratación.
 
-9. En los contratos de suministro que tengan por objeto el arrendamiento financiero, el arrendamiento o la venta a plazos de productos, el valor que se tomará como base para calcular el valor estimado del contrato será el siguiente:
+En los contratos de suministro que tengan por objeto el arrendamiento financiero, el arrendamiento o la venta a plazos de productos, el valor que se tomará como base para calcular el valor estimado del contrato será el siguiente:
 
-a) En el caso de contratos de duración determinada, cuando su duración sea igual o inferior a doce meses, el valor total estimado para la duración del contrato; cuando su duración sea superior a doce meses, su valor total, incluido el importe estimado del valor residual.
+- a) En el caso de contratos de duración determinada, cuando su duración sea igual o inferior a doce meses, el valor total estimado para la duración del contrato; cuando su duración sea superior a doce meses, su valor total, incluido el importe estimado del valor residual.
+- b) En el caso de contratos cuya duración no se fije por referencia a un período de tiempo determinado, el valor mensual multiplicado por 48.
 
-b) En el caso de contratos cuya duración no se fije por referencia a un período de tiempo determinado, el valor mensual multiplicado por 48.
-
-10. En los contratos de suministro o de servicios que tengan un carácter de periodicidad, o de contratos que se deban renovar en un período de tiempo determinado, se tomará como base para el cálculo del valor estimado del contrato alguna de las siguientes cantidades:
+En los contratos de suministro o de servicios que tengan un carácter de periodicidad, o de contratos que se deban renovar en un período de tiempo determinado, se tomará como base para el cálculo del valor estimado del contrato alguna de las siguientes cantidades:
 
 a) El valor real total de los contratos sucesivos similares adjudicados durante el ejercicio precedente o durante los doce meses previos, ajustado, cuando sea posible, en función de los cambios de cantidad o valor previstos para los doce meses posteriores al contrato inicial.
 
@@ -3063,17 +2511,11 @@ Igualmente, cuando una obra o un servicio propuestos puedan derivar en la adjudi
 
 14. En el procedimiento de asociación para la innovación se tendrá en cuenta el valor máximo estimado, excluido el Impuesto sobre el Valor Añadido, de las actividades de investigación y desarrollo que esté previsto que se realicen a lo largo de la duración total de la asociación, y de los suministros, servicios u obras que esté previsto que se ejecuten o adquieran al final de la asociación prevista.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 135: #a1-14]
-
 ##### Artículo 102. Precio.
 
-1. Los contratos del sector público tendrán siempre un precio cierto, que se abonará al contratista en función de la prestación realmente ejecutada y de acuerdo con lo pactado. En el precio se entenderá incluido el importe a abonar en concepto de Impuesto sobre el Valor Añadido, que en todo caso se indicará como partida independiente.
+Los contratos del sector público tendrán siempre un precio cierto, que se abonará al contratista en función de la prestación realmente ejecutada y de acuerdo con lo pactado. En el precio se entenderá incluido el importe a abonar en concepto de Impuesto sobre el Valor Añadido, que en todo caso se indicará como partida independiente.
 
-2. Con carácter general el precio deberá expresarse en euros, sin perjuicio de que su pago pueda hacerse mediante la entrega de otras contraprestaciones en los casos en que esta u otras Leyes así lo prevean.
+Con carácter general el precio deberá expresarse en euros, sin perjuicio de que su pago pueda hacerse mediante la entrega de otras contraprestaciones en los casos en que esta u otras Leyes así lo prevean.
 
 No obstante lo anterior, en los contratos podrá preverse que la totalidad o parte del precio sea satisfecho en moneda distinta del euro. En este supuesto se expresará en la correspondiente divisa el importe que deba satisfacerse en esa moneda, y se incluirá una estimación en euros del importe total del contrato.
 
@@ -3091,31 +2533,17 @@ En aquellos servicios en los que el coste económico principal sean los costes l
 
 En los contratos celebrados con precios provisionales el precio se determinará, dentro de los límites fijados para el precio máximo, en función de los costes en que realmente incurra el contratista y del beneficio que se haya acordado, para lo que, en todo caso, se detallarán en el contrato los siguientes extremos:
 
-a) El procedimiento para determinar el precio definitivo, con referencia a los costes efectivos y a la fórmula de cálculo del beneficio.
-
-b) Las reglas contables que el adjudicatario deberá aplicar para determinar el coste de las prestaciones.
-
-c) Los controles documentales y sobre el proceso de producción que el adjudicador podrá efectuar sobre los elementos técnicos y contables del coste de producción.
+- El procedimiento para determinar el precio definitivo, con referencia a los costes efectivos y a la fórmula de cálculo del beneficio.
+- Las reglas contables que el adjudicatario deberá aplicar para determinar el coste de las prestaciones.
+- Los controles documentales y sobre el proceso de producción que el adjudicador podrá efectuar sobre los elementos técnicos y contables del coste de producción.
 
 En los contratos celebrados con precios provisionales no cabrá la revisión de precios.
 
 8. Se prohíbe el pago aplazado del precio en los contratos de las Administraciones Públicas, excepto en los supuestos en que el sistema de pago se establezca mediante la modalidad de arrendamiento financiero o de arrendamiento con opción de compra, así como en los casos en que esta u otra Ley lo autorice expresamente.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 136: #ci-11]
-
 #### CAPÍTULO II
 
 #### Revisión de precios en los contratos de las entidades del Sector Público
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 137: #a1-15]
 
 ##### Artículo 103. Procedencia y límites.
 
@@ -3125,7 +2553,7 @@ Salvo en los contratos no sujetos a regulación armonizada a los que se refiere 
 
 Se entenderá por precio cualquier retribución o contraprestación económica del contrato, bien sean abonadas por la Administración o por los usuarios.
 
-2. Previa justificación en el expediente y de conformidad con lo previsto en el Real Decreto al que se refieren los [artículos 4 y 5 de la Ley 2/2015, de 30 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3443#a4 "Abre nueva ventana"), de desindexación de la economía española, la revisión periódica y predeterminada de precios sólo se podrá llevar a cabo en los contratos de obra, en los contratos de suministros de fabricación de armamento y equipamiento de las Administraciones Públicas, en los contratos de suministro de energía y en aquellos otros contratos en los que el período de recuperación de la inversión sea igual o superior a cinco años. Dicho período se calculará conforme a lo dispuesto en el Real Decreto anteriormente citado.
+Previa justificación en el expediente y de conformidad con lo previsto en el Real Decreto al que se refieren los [artículos 4 y 5 de la Ley 2/2015, de 30 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3443#a4 "Abre nueva ventana"), de desindexación de la economía española, la revisión periódica y predeterminada de precios sólo se podrá llevar a cabo en los contratos de obra, en los contratos de suministros de fabricación de armamento y equipamiento de las Administraciones Públicas, en los contratos de suministro de energía y en aquellos otros contratos en los que el período de recuperación de la inversión sea igual o superior a cinco años. Dicho período se calculará conforme a lo dispuesto en el Real Decreto anteriormente citado.
 
 No se considerarán revisables en ningún caso los costes asociados a las amortizaciones, los costes financieros, los gastos generales o de estructura ni el beneficio industrial. Los costes de mano de obra de los contratos distintos de los de obra, suministro de fabricación de armamento y equipamiento de las Administraciones Públicas, se revisarán cuando el período de recuperación de la inversión sea igual o superior a cinco años y la intensidad en el uso del factor trabajo sea considerada significativa, de acuerdo con los supuestos y límites establecidos en el Real Decreto.
 
@@ -3159,42 +2587,18 @@ Los indicadores o reglas de determinación de cada uno de los índices que inter
 
 10. Lo establecido en este artículo y en la [Ley 2/2015, de 30 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3443 "Abre nueva ventana"), de desindexación de la economía española, se entenderá, en todo caso, sin perjuicio de la posibilidad de mantener el equilibrio económico en las circunstancias previstas en los artículos 270 y 290.
 
-> Se modifican los apartados 2 y 5 por la disposición final 7.2 y 3 de la Ley 11/2023, de 8 de mayo. [Ref. BOE-A-2023-11022](https://www.boe.es/buscar/act.php?id=BOE-A-2023-11022#df-7 "Abre nueva ventana")
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 138: #a1-16]
-
 ##### Artículo 104. Revisión en casos de demora en la ejecución.
 
 Cuando la cláusula de revisión se aplique sobre períodos de tiempo en los que el contratista hubiese incurrido en mora y sin perjuicio de las penalidades que fueren procedentes, los índices de precios que habrán de ser tenidos en cuenta serán aquellos que hubiesen correspondido a las fechas establecidas en el contrato para la realización de la prestación en plazo, salvo que los correspondientes al período real de ejecución produzcan un coeficiente inferior, en cuyo caso se aplicarán estos últimos.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 139: #a1-17]
 
 ##### Artículo 105. Pago del importe de la revisión.
 
 El importe de las revisiones que procedan se hará efectivo, de oficio, mediante el abono o descuento correspondiente en las certificaciones o pagos parciales a cuyo efecto se tramitará a comienzo del ejercicio económico el oportuno expediente de gasto para su cobertura. Los posibles desajustes que se produjeran respecto del expediente de gasto aprobado en el ejercicio, tales como los derivados de diferencias temporales en la aprobación de los índices de precios aplicables al contrato, se podrán hacer efectivos en la certificación final o en la liquidación del contrato.
 
 
-
 #### Preparación de los contratos de las Administraciones Públicas
 
-
 #### Sección 1.ª De la preparación de los contratos de las Administraciones Públicas
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 159: #a1-27]
 
 ##### Artículo 115. Consultas preliminares del mercado.
 
@@ -3212,19 +2616,7 @@ Con carácter general, el órgano de contratación al elaborar los pliegos deber
 
 La participación en la consulta no impide la posterior intervención en el procedimiento de contratación que en su caso se tramite.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 160: #s1-8]
-
 #### Subsección 1.ª Expediente de contratación
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 161: #a1-28]
 
 ##### Artículo 116. Expediente de contratación: iniciación y contenido.
 
@@ -3240,45 +2632,22 @@ Asimismo, deberá incorporarse el certificado de existencia de crédito o, en el
 
 4. En el expediente se justificará adecuadamente:
 
-a) La elección del procedimiento de licitación.
+- La elección del procedimiento de licitación.
+- La clasificación que se exija a los participantes.
+- Los criterios de solvencia técnica o profesional, y económica y financiera, y los criterios que se tendrán en consideración para adjudicar el contrato, así como las condiciones especiales de ejecución del mismo.
+- El valor estimado del contrato con una indicación de todos los conceptos que lo integran, incluyendo siempre los costes laborales si existiesen.
+- La necesidad de la Administración a la que se pretende dar satisfacción mediante la contratación de las prestaciones correspondientes; y su relación con el objeto del contrato, que deberá ser directa, clara y proporcional.
+- En los contratos de servicios, el informe de insuficiencia de medios.
+- La decisión de no dividir en lotes el objeto del contrato, en su caso.
 
-b) La clasificación que se exija a los participantes.
+Si la financiación del contrato ha de realizarse con aportaciones de distinta procedencia, aunque se trate de órganos de una misma Administración pública, se tramitará un solo expediente por el órgano de contratación al que corresponda la adjudicación del contrato, debiendo acreditarse en aquel la plena disponibilidad de todas las aportaciones y determinarse el orden de su abono, con inclusión de una garantía para su efectividad.
 
-c) Los criterios de solvencia técnica o profesional, y económica y financiera, y los criterios que se tendrán en consideración para adjudicar el contrato, así como las condiciones especiales de ejecución del mismo.
-
-d) El valor estimado del contrato con una indicación de todos los conceptos que lo integran, incluyendo siempre los costes laborales si existiesen.
-
-e) La necesidad de la Administración a la que se pretende dar satisfacción mediante la contratación de las prestaciones correspondientes; y su relación con el objeto del contrato, que deberá ser directa, clara y proporcional.
-
-f) En los contratos de servicios, el informe de insuficiencia de medios.
-
-g) La decisión de no dividir en lotes el objeto del contrato, en su caso.
-
-5. Si la financiación del contrato ha de realizarse con aportaciones de distinta procedencia, aunque se trate de órganos de una misma Administración pública, se tramitará un solo expediente por el órgano de contratación al que corresponda la adjudicación del contrato, debiendo acreditarse en aquel la plena disponibilidad de todas las aportaciones y determinarse el orden de su abono, con inclusión de una garantía para su efectividad.
-
-> Se modifica el apartado 1 por el art. 5.4 del Real Decreto-ley 14/2019, de 31 de octubre. [Ref. BOE-A-2019-15790](https://www.boe.es/buscar/act.php?id=BOE-A-2019-15790#a5 "Abre nueva ventana")
-> 
-> Téngase en cuenta para su aplicación la disposición transitoria tercera del citado Real Decreto-ley.
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 162: #a1-29]
 
 ##### Artículo 117. Aprobación del expediente.
 
 1. Completado el expediente de contratación, se dictará resolución motivada por el órgano de contratación aprobando el mismo y disponiendo la apertura del procedimiento de adjudicación. Dicha resolución implicará también la aprobación del gasto, salvo en el supuesto excepcional de que el presupuesto no hubiera podido ser establecido previamente, o que las normas de desconcentración o el acto de delegación hubiesen establecido lo contrario, en cuyo caso deberá recabarse la aprobación del órgano competente. Esta resolución deberá ser objeto de publicación en el perfil de contratante.
 
 2. Los expedientes de contratación podrán ultimarse incluso con la adjudicación y formalización del correspondiente contrato, aun cuando su ejecución, ya se realice en una o en varias anualidades, deba iniciarse en el ejercicio siguiente. A estos efectos podrán comprometerse créditos con las limitaciones que se determinen en las normas presupuestarias de las distintas Administraciones Públicas sujetas a esta Ley.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 163: #a1-30]
 
 ##### Artículo 118. Expediente de contratación en contratos menores.
 
@@ -3294,21 +2663,11 @@ Seleccionar redacción:
 
 6. Los contratos menores se publicarán en la forma prevista en el artículo 63.4.
 
-> Se modifica por la disposición final 1.1 del Real Decreto-ley 3/2020, de 4 de febrero. [Ref. BOE-A-2020-1651](https://www.boe.es/buscar/act.php?id=BOE-A-2020-1651#df "Abre nueva ventana")
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 164: #a1-31]
-
 ##### Artículo 119. Tramitación urgente del expediente.
 
 1. Podrán ser objeto de tramitación urgente los expedientes correspondientes a los contratos cuya celebración responda a una necesidad inaplazable o cuya adjudicación sea preciso acelerar por razones de interés público. A tales efectos el expediente deberá contener la declaración de urgencia hecha por el órgano de contratación, debidamente motivada.
 
-2. Los expedientes calificados de urgentes se tramitarán siguiendo el mismo procedimiento que los ordinarios, con las siguientes especialidades:
+Los expedientes calificados de urgentes se tramitarán siguiendo el mismo procedimiento que los ordinarios, con las siguientes especialidades:
 
 a) Los expedientes gozarán de preferencia para su despacho por los distintos órganos que intervengan en la tramitación, que dispondrán de un plazo de cinco días para emitir los respectivos informes o cumplimentar los trámites correspondientes.
 
@@ -3334,15 +2693,10 @@ Las reducciones de plazo establecidas en los puntos 2.º, 3.º y 5.º anteriores
 
 c) El plazo de inicio de la ejecución del contrato no podrá exceder de un mes, contado desde la formalización.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 165: #a1-32]
 
 ##### Artículo 120. Tramitación de emergencia.
 
-1. Cuando la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos, de situaciones que supongan grave peligro o de necesidades que afecten a la defensa nacional, se estará al siguiente régimen excepcional:
+Cuando la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos, de situaciones que supongan grave peligro o de necesidades que afecten a la defensa nacional, se estará al siguiente régimen excepcional:
 
 a) El órgano de contratación, sin obligación de tramitar expediente de contratación, podrá ordenar la ejecución de lo necesario para remediar el acontecimiento producido o satisfacer la necesidad sobrevenida, o contratar libremente su objeto, en todo o en parte, sin sujetarse a los requisitos formales establecidos en la presente Ley, incluso el de la existencia de crédito suficiente. En caso de que no exista crédito adecuado y suficiente, una vez adoptado el acuerdo, se procederá a su dotación de conformidad con lo establecido en la [Ley General Presupuestaria](https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614 "Abre nueva ventana").
 
@@ -3354,33 +2708,16 @@ d) Ejecutadas las actuaciones objeto de este régimen excepcional, se observará
 
 En el supuesto de que el libramiento de los fondos necesarios se hubiera realizado a justificar, transcurrido el plazo establecido en la letra c) anterior, se rendirá la cuenta justificativa del mismo, con reintegro de los fondos no invertidos.
 
-2. Las restantes prestaciones que sean necesarias para completar la actuación acometida por la Administración y que no tengan carácter de emergencia se contratarán con arreglo a la tramitación ordinaria regulada en esta Ley.
+Las restantes prestaciones que sean necesarias para completar la actuación acometida por la Administración y que no tengan carácter de emergencia se contratarán con arreglo a la tramitación ordinaria regulada en esta Ley.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 166: #s2-7]
 
 #### Subsección 2.ª Pliegos de cláusulas administrativas y de prescripciones técnicas
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 167: #a1-33]
 
 ##### Artículo 121. Pliegos de cláusulas administrativas generales.
 
 1. El Consejo de Ministros, a iniciativa de los Ministerios interesados, a propuesta del Ministro de Hacienda y Función Pública, y previo dictamen del Consejo de Estado, podrá aprobar pliegos de cláusulas administrativas generales, que deberán ajustarse en su contenido a los preceptos de esta Ley y de sus disposiciones de desarrollo, para su utilización en los contratos que se celebren por los órganos de contratación de la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás entidades que gocen de la condición de Administraciones Públicas integrantes del sector público estatal.
 
 2. Las Comunidades Autónomas y las entidades que integran la Administración Local podrán aprobar pliegos de cláusulas administrativas generales, de acuerdo con sus normas específicas, previo dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma respectiva, si lo hubiera.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 168: #a1-34]
 
 ##### Artículo 122. Pliegos de cláusulas administrativas particulares.
 
@@ -3419,7 +2756,6 @@ En los pliegos correspondientes a los contratos a que se refiere el párrafo ant
 
 Previo informe de la Junta Consultiva de Contratación Pública del Estado, el Consejo de Ministros, a propuesta del Ministro correspondiente, podrá establecer los pliegos de prescripciones técnicas generales a que hayan de ajustarse la Administración General del Estado, sus Organismos Autónomos, Entidades Gestoras y Servicios Comunes de la Seguridad Social y demás entidades que gocen de la condición de Administraciones Públicas integrantes del sector público estatal.
 
-
 ##### Artículo 124. Pliego de prescripciones técnicas particulares.
 
 El órgano de contratación aprobará con anterioridad a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato, o de no existir esta, antes de su adjudicación, los pliegos y documentos que contengan las prescripciones técnicas particulares que hayan de regir la realización de la prestación y definan sus calidades, sus condiciones sociales y ambientales, de conformidad con los requisitos que para cada contrato establece la presente Ley, y solo podrán ser modificados con posterioridad por error material, de hecho o aritmético. En otro caso, la modificación del pliego conllevará la retroacción de actuaciones.
@@ -3436,11 +2772,11 @@ b) Cuando se trate de contratos de suministro o de servicios, aquella especifica
 
 2. «Norma»: una especificación técnica aprobada por un organismo de normalización reconocido para una aplicación repetida o continuada cuyo cumplimiento no sea obligatorio y que esté incluida en una de las categorías siguientes:
 
-a) «Norma internacional»: Norma adoptada por un organismo internacional de normalización y puesta a disposición del público.
+	a) «Norma internacional»: Norma adoptada por un organismo internacional de normalización y puesta a disposición del público.
 
-b) «Norma europea»: Norma adoptada por un organismo europeo de normalización y puesta a disposición del público.
+	b) «Norma europea»: Norma adoptada por un organismo europeo de normalización y puesta a disposición del público.
 
-c) «Norma nacional»: Norma adoptada por un organismo nacional de normalización y puesta a disposición del público.
+	c) «Norma nacional»: Norma adoptada por un organismo nacional de normalización y puesta a disposición del público.
 
 3. «Evaluación técnica europea»: La evaluación documentada de las prestaciones de un producto de construcción en cuanto a sus características esenciales, con arreglo al correspondiente documento de evaluación europeo, tal como se define en el artículo 2, punto 12, del [Reglamento (UE) n.º 305/2011, del Parlamento Europeo y del Consejo](https://www.boe.es/buscar/doc.php?id=DOUE-L-2011-80721 "Abre nueva ventana").
 
@@ -3448,23 +2784,14 @@ c) «Norma nacional»: Norma adoptada por un organismo nacional de normalizació
 
 5. «Referencia técnica»: Cualquier documento elaborado por los organismos europeos de normalización, distinto de las normas europeas, con arreglo a procedimientos adaptados a la evolución de las necesidades del mercado.
 
-> Se declara que el apartado 1 no es conforme con el orden constitucional de competencias, en los términos del fundamento jurídico 7 A) e), por la Sentencia del TC 68/2021, de 18 de marzo. [Ref. BOE-A-2021-6614](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6614 "Abre nueva ventana")
-
-Seleccionar redacción:
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 172: #a1-38]
 
 ##### Artículo 126. Reglas para el establecimiento de prescripciones técnicas.
 
-1. Las prescripciones técnicas a que se refieren los artículos 123 y 124, proporcionarán a los empresarios acceso en condiciones de igualdad al procedimiento de contratación y no tendrán por efecto la creación de obstáculos injustificados a la apertura de la contratación pública a la competencia.
+Las prescripciones técnicas a que se refieren los artículos 123 y 124, proporcionarán a los empresarios acceso en condiciones de igualdad al procedimiento de contratación y no tendrán por efecto la creación de obstáculos injustificados a la apertura de la contratación pública a la competencia.
 
-2. Las prescripciones técnicas podrán referirse al proceso o método específico de producción o prestación de las obras, los suministros o los servicios requeridos, o a un proceso específico de otra fase de su ciclo de vida, según la definición establecida en el artículo 148, incluso cuando dichos factores no formen parte de la sustancia material de las obras, suministros o servicios, siempre que estén vinculados al objeto del contrato y guarden proporción con el valor y los objetivos de este.
+Las prescripciones técnicas podrán referirse al proceso o método específico de producción o prestación de las obras, los suministros o los servicios requeridos, o a un proceso específico de otra fase de su ciclo de vida, según la definición establecida en el artículo 148, incluso cuando dichos factores no formen parte de la sustancia material de las obras, suministros o servicios, siempre que estén vinculados al objeto del contrato y guarden proporción con el valor y los objetivos de este.
 
-3. Para toda contratación que esté destinada a ser utilizada por personas físicas, ya sea el público en general o el personal de la Administración Pública contratante, las prescripciones técnicas se redactarán, salvo en casos debidamente justificados, de manera que se tengan en cuenta la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad, así como los criterios de accesibilidad universal y de diseño universal o diseño para todas las personas, tal y como son definidos estos términos en el [texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632 "Abre nueva ventana").
+Para toda contratación que esté destinada a ser utilizada por personas físicas, ya sea el público en general o el personal de la Administración Pública contratante, las prescripciones técnicas se redactarán, salvo en casos debidamente justificados, de manera que se tengan en cuenta la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad, así como los criterios de accesibilidad universal y de diseño universal o diseño para todas las personas, tal y como son definidos estos términos en el [texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado mediante Real Decreto Legislativo 1/2013, de 29 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632 "Abre nueva ventana").
 
 De no ser posible definir las prescripciones técnicas teniendo en cuenta criterios de accesibilidad universal y de diseño universal o diseño para todas las personas, deberá motivarse suficientemente esta circunstancia.
 
@@ -3487,12 +2814,6 @@ d) Haciendo referencia a especificaciones técnicas mencionadas en la letra b) p
 7. Cuando los órganos de contratación hagan uso de la opción prevista en el apartado 5, letra a), de formular prescripciones técnicas en términos de rendimiento o de exigencias funcionales, no podrán rechazar una oferta de obras, de suministros o de servicios que se ajusten a una norma nacional que transponga una norma europea, a un documento de idoneidad técnica europeo, a una especificación técnica común, a una norma internacional o a un sistema de referencias técnicas elaborado por un organismo europeo de normalización, si tales especificaciones tienen por objeto los requisitos de rendimiento o exigencias funcionales exigidos por las prescripciones técnicas, siempre que en su oferta, el licitador pruebe por cualquier medio adecuado, incluidos los medios de prueba mencionados en los artículos 127 y 128, que la obra, el suministro o el servicio conforme a la norma reúne los requisitos de rendimiento o exigencias funcionales establecidos por el órgano de contratación.
 
 8. Cuando los órganos de contratación hagan uso de la opción de referirse a las especificaciones técnicas previstas en el apartado 5, letra b), no podrán rechazar una oferta basándose en que las obras, los suministros o los servicios ofrecidos no se ajustan a las especificaciones técnicas a las que han hecho referencia, siempre que en su oferta el licitador demuestre por cualquier medio adecuado, incluidos los medios de prueba mencionados en el artículo 128, que las soluciones que propone cumplen de forma equivalente los requisitos exigidos en las correspondientes prescripciones técnicas.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 173: #a1-39]
 
 ##### Artículo 127. Etiquetas.
 
@@ -3524,12 +2845,6 @@ El órgano de contratación aceptará otros medios adecuados de prueba, incluido
 
 6. La carga de la prueba de la equivalencia recaerá, en todo caso, en el candidato o licitador.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 174: #a1-40]
-
 ##### Artículo 128. Informes de pruebas, certificación y otros medios de prueba.
 
 1. Los órganos de contratación podrán exigir que los operadores económicos proporcionen un informe de pruebas de un organismo de evaluación de la conformidad o un certificado expedido por este último, como medio de prueba del cumplimiento de las prescripciones técnicas exigidas, o de los criterios de adjudicación o de las condiciones de ejecución del contrato.
@@ -3540,12 +2855,6 @@ A efectos de lo dispuesto en esta Ley, se entenderá por «organismo de evaluaci
 
 2. Supletoriamente los órganos de contratación deberán aceptar otros medios de prueba adecuados que no sean los contemplados en el apartado primero, como un informe técnico del fabricante, cuando el empresario de que se trate no tenga acceso a dichos certificados o informes de pruebas ni la posibilidad de obtenerlos en los plazos fijados, siempre que la falta de acceso no sea por causa imputable al mismo y que este sirva para demostrar que las obras, suministros o servicios que proporcionará cumplen con las prescripciones técnicas, los criterios de adjudicación o las condiciones de ejecución del contrato, según el caso.
 
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 175: #a1-41]
-
 ##### Artículo 129. Información sobre las obligaciones relativas a la fiscalidad, protección del medio ambiente, empleo y condiciones laborales y de contratar a un porcentaje específico de personas con discapacidad.
 
 1. El órgano de contratación podrá señalar en el pliego el organismo u organismos de los que los candidatos o licitadores puedan obtener la información pertinente sobre las obligaciones relativas a la fiscalidad, a la protección del medio ambiente, y a las disposiciones vigentes en materia de protección del empleo, igualdad de género, condiciones de trabajo y prevención de riesgos laborales e inserción sociolaboral de las personas con discapacidad, y a la obligación de contratar a un número o porcentaje específico de personas con discapacidad que serán aplicables a los trabajos efectuados en la obra o a los servicios prestados durante la ejecución del contrato.
@@ -3553,14 +2862,6 @@ A efectos de lo dispuesto en esta Ley, se entenderá por «organismo de evaluaci
 2. Cuando se facilite la información a la que se refiere el apartado 1, el órgano de contratación solicitará a los licitadores o a los candidatos en un procedimiento de adjudicación de contratos que manifiesten haber tenido en cuenta en la elaboración de sus ofertas las obligaciones derivadas de las disposiciones vigentes en materia de fiscalidad, protección del medio ambiente, protección del empleo, igualdad de género, condiciones de trabajo, prevención de riesgos laborales e inserción sociolaboral de las personas con discapacidad, y a la obligación de contratar a un número o porcentaje especifico de personas con discapacidad, y protección del medio ambiente.
 
 Esto no obstará para la aplicación de lo dispuesto en el artículo 149 sobre verificación de las ofertas que incluyan valores anormales o desproporcionados.
-
-[Subir](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902&p=20260409&tn=1#top)
-
----
-
-[Bloque 176: #a1-42]
-
-Jurisprudencia
 
 ##### Artículo 130. Información sobre las condiciones de subrogación en contratos de trabajo.
 
@@ -3580,6 +2881,3 @@ Cuando la empresa que viniese efectuando la prestación objeto del contrato a ad
 
 6. Asimismo, y sin perjuicio de la aplicación, en su caso, de lo establecido en el [artículo 44 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a44 "Abre nueva ventana"), el pliego de cláusulas administrativas particulares siempre contemplará la obligación del contratista de responder de los salarios impagados a los trabajadores afectados por subrogación, así como de las cotizaciones a la Seguridad social devengadas, aún en el supuesto de que se resuelva el contrato y aquellos sean subrogados por el nuevo contratista, sin que en ningún caso dicha obligación corresponda a este último. En este caso, la Administración, una vez acreditada la falta de pago de los citados salarios, procederá a la retención de las cantidades debidas al contratista para garantizar el pago de los citados salarios, y a la no devolución de la garantía definitiva en tanto no se acredite el abono de éstos.
 
-
-
-17. ***La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: Título preliminar, Disposiciones generales: Capítulo I, Objeto y ámbito de aplicación; Capítulo II, Contratos del sector público: Sección 1ª, Delimitación de tipos contractuales; Libro primero, Configuración general de la contratación del sector público y elementos estructurales de los contratos: Título III, Objeto, presupuesto base de licitación, valor estimado, precio del contrato y su revisión; Libro segundo, De los contratos de las Administraciones Públicas: Título I: Capítulo I: Sección 1ª, De la preparación de los contratos de las Administraciones Públicas.***

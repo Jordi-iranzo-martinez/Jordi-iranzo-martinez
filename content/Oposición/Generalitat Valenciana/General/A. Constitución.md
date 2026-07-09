@@ -24,6 +24,73 @@ La [Constitución de 1978](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
 | **Reforma**                             |                                                                                                                                                                                                                                                                                 |
 | Disposiciones                           | - (4) Adicionales<br>- (9) Transitorias<br>- (1) Derogatoria<br>- (1) Final                                                                                                                                                                                                     |
 
+### Título preliminar
+
+
+
+
+
+### Derechos y deberes fundamentales
+
+
+
+
+### Corona
+
+
+
+
+
+### Cortes Generales
+
+#### Cámaras
+
+
+
+#### Elaboración de las Leyes
+
+
+
+
+### Gobierno y Administración
+
+
+
+
+### Relaciones entre el Gobierno y las Cortes
+
+
+
+
+
+### Poder Judicial
+
+
+
+
+### Organización territorial del Estado
+
+
+#### Principios generales
+
+
+
+#### Comunidades Autónomas
+
+
+
+### Tribunal Constitucionales
+
+
+
+
+### Reforma constitucional
+
+
+
+Capítulo I, Principios generales; Capítulo III, De las Comunidades Autónomas.***
+
+
 El Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas, todas ellas con autonomía funcional para la gestión de sus respectivos intereses (descentralización), y garantiza el principio de solidaridad para un equilibrio económico de las diferentes partes del país (en especial las islas), sin que los Estatutos de Autonomía puedan implicar privilegios económicos o sociales.
 
 Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del Estado. Ninguna Administración podrá obstaculizar la libertad de circulación de personas o bienes (incluida el establecimiento de las primeras).
