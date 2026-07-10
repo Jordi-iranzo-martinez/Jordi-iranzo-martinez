@@ -254,15 +254,13 @@ cargos de la Administración Valenciana para el estudio, coordinación, programa
 caso, propuestas de resolución de la actividad interdepartamental en materias sectoriales
 comunes. Estas comisiones tendrán las facultades que les atribuya su Decreto de creación. Su
 funcionamiento se regulará también por Decreto.
-Artículo 32 25
-6. El Consell podrá crear la Comisión de Secretarios Autonómicos y Subsecretarios para
-preparar las reuniones del Gobierno Valenciano y tratar otras cuestiones de interés común que
-no sean competencia de las comisiones delegadas o de las comisiones interdepartamentales.
-7. Dicha comisión estará integrada, en todo caso, por los subsecretarios y por los
-secretarios autonómicos que, por sus funciones o asuntos a tratar, así se requiera, en los
-términos que se establezca en la norma de creación.
-8. La comisión será presidida por el miembro del Gobierno Valenciano que ostente la
-condición de secretario del Consell.
+
+
+El Consell podrá crear la Comisión de Secretarios Autonómicos y Subsecretarios para preparar las reuniones del Gobierno Valenciano y tratar otras cuestiones de interés común que no sean competencia de las comisiones delegadas o de las comisiones interdepartamentales.
+
+Dicha comisión estará integrada, en todo caso, por los subsecretarios y por los secretarios autonómicos que, por sus funciones o asuntos a tratar, así se requiera, en los términos que se establezca en la norma de creación.
+
+La comisión será presidida por el miembro del Gobierno Valenciano que ostente la condición de secretario del Consell.
 
 
 #### Conselleria y Consellers
@@ -288,21 +286,20 @@ Al frente de cada una de ellas habrá un conseller: miembro del gobierno con fun
 #### Estatuto personal de los Consellers
 
 Los Consellers son nombrados y separados por el Presidente de la Generalidad.
-1. Los Consellers cesan en sus funciones:
-a) Por cese del Presidente de la Generalidad, si bien continuarán en sus funciones hasta la
-toma de posesión del nuevo Gobierno.
-b) Por dimisión aceptada por el Presidente.
-c) Por separación de su cargo, decidida libremente por el Presidente.
-d) Por incompatibilidad sobrevenida.
-e) Por fallecimiento.
+
+Los Consellers cesan en sus funciones:
+- Cese del Presidente de la Generalidad, si bien continuarán en sus funciones hasta la toma de posesión del nuevo Gobierno.
+- Dimisión (aceptada por el Presidente).
+- Sor separación de su cargo, decidida libremente por el Presidente.
+- Incompatibilidad sobrevenida.
+- Fallecimiento.
 
 Los Consellers están sometidos al régimen de incompatibilidades que el Presidente (artículo 10). Tienen el tratamiento de Honorable Señor.
 
 
 #### Iniciativa legislativa y potestad reglamentaria
 
-El Consell ejerce la potestad reglamentaria de acuerdo con la Constitución, el Estatuto de
-Autonomía y las leyes. Las normas derivadas tienen la siguiente jerarquía: 
+El Consell ejerce la potestad reglamentaria de acuerdo con la Constitución, el Estatuto de Autonomía y las leyes. Las normas derivadas tienen la siguiente jerarquía: 
 
 1. **Decretos del Gobierno**: disposiciones de carácter general y actos singulares (en este último caso, cuando lo exija una norma legal o reglamentaria, o lo disponga el propio Consell). Deben estar firmados por el Presidente y refrendados por el Conseller o Consellers correspondientes. Publicación en el Diario Oficial de la Generalitat Valenciana (DOGV).
 
@@ -348,48 +345,20 @@ El Consell podrá prescindir de los trámites previstos por razones de urgencia 
 *Los proyectos de decreto legislativo seguirán los mismos trámites, debiendo respetarse en todo caso las directrices y límites dispuestos por les Corts en la correspondiente ley de bases (para la elaboración de textos articulados), o ley ordinaria (para la creación de textos refundidos).*
 
 
+En la elaboración de los reglamentos se seguirán los trámites siguientes:
+a) El órgano competente formulará el proyecto de disposición, debiéndose incorporar al expediente un informe sobre la necesidad y oportunidad del proyecto, así como una memoria económica sobre la estimación del coste previsto que pueda incidir en la administración.
+b) Una copia del expediente se remitirá, en su caso, a la Presidencia y consellerias en cuyo ámbito pudiera incidir, con el fin de que, en el plazo máximo de diez días, emitan informe.
+c) Cuando el proyecto normativo afecte a la esfera de derechos e intereses legítimos de los ciudadanos, se dará audiencia al objeto de que en el plazo de quince días puedan presentar cuantas alegaciones consideren oportunas. No obstante, cuando el grupo de personas a las que pueda afectar el contenido de la disposición esté representada por organizaciones o asociaciones legalmente constituidas que tengan encomendada la defensa de sus intereses, se entenderá cumplido el presente trámite con la consulta a dichas entidades. Los plazos indicados en el apartado precedente podrán ser reducidos a siete días por razones de urgencia.
+No obstante, en los supuestos en que hayan participado en el proceso de elaboración del reglamento las organizaciones o asociaciones que ostenten la representación de colectivos o intereses sociales que puedan verse afectados por la disposición, así como en aquéllos en que graves razones de interés público, apreciadas por el órgano competente para la tramitación, así
+lo aconsejen, se podrá omitir el trámite de audiencia regulado en el presente apartado, dejando constancia de todo ello debidamente en el expediente.
+- d) Durante la tramitación del procedimiento, se recabarán todos aquellos informes que se consideren necesarios, así como las autorizaciones y dictámenes previos que sean preceptivos en relación con el objeto del reglamento.
+- e) Con anterioridad a la aprobación definitiva del proyecto, éste deberá ser remitido a la subsecretaría del departamento, la cual solicitará el informe de la Abogacía General de la Generalitat en el departamento cuando no fuera preceptivo el dictamen del Consejo Jurídico Consultivo de la Comunidad Valenciana.
+- f) Emitido el informe al que se refiere el párrafo anterior, el expediente será remitido al Consejo Jurídico Consultivo de la Comunidad Valenciana para que evacue el pertinente dictamen en aquellos supuestos previstos legalmente.
+- g) Concluida la tramitación del expediente, éste será remitido al conseller para su aprobación, o bien para su elevación al pleno del Consell cuando sea éste el órgano competente.
 
+En aquellos reglamentos que versen exclusivamente sobre materias organizativas de la Presidencia y las consellerias, no serán preceptivos los trámites previstos en los apartados c), e) y f) del epígrafe anterior.
 
-Artículo 49 bis 34
-7. En la elaboración de los reglamentos se seguirán los trámites siguientes:
-a) El órgano competente formulará el proyecto de disposición, debiéndose incorporar al
-expediente un informe sobre la necesidad y oportunidad del proyecto, así como una memoria
-económica sobre la estimación del coste previsto que pueda incidir en la administración.
-b) Una copia del expediente se remitirá, en su caso, a la Presidencia y consellerias en cuyo
-ámbito pudiera incidir, con el fin de que, en el plazo máximo de diez días, emitan informe.
-c) Cuando el proyecto normativo afecte a la esfera de derechos e intereses legítimos de los
-ciudadanos, se dará audiencia al objeto de que en el plazo de quince días puedan presentar
-cuantas alegaciones consideren oportunas. No obstante, cuando el grupo de personas a las
-que pueda afectar el contenido de la disposición esté representada por organizaciones o
-asociaciones legalmente constituidas que tengan encomendada la defensa de sus intereses, se
-entenderá cumplido el presente trámite con la consulta a dichas entidades.
-Los plazos indicados en el apartado precedente podrán ser reducidos a siete días por
-razones de urgencia.
-No obstante, en los supuestos en que hayan participado en el proceso de elaboración del
-reglamento las organizaciones o asociaciones que ostenten la representación de colectivos o
-intereses sociales que puedan verse afectados por la disposición, así como en aquéllos en que
-graves razones de interés público, apreciadas por el órgano competente para la tramitación, así
-lo aconsejen, se podrá omitir el trámite de audiencia regulado en el presente apartado, dejando
-constancia de todo ello debidamente en el expediente.
-d) Durante la tramitación del procedimiento, se recabarán todos aquellos informes que se
-consideren necesarios, así como las autorizaciones y dictámenes previos que sean preceptivos
-en relación con el objeto del reglamento.
-e) Con anterioridad a la aprobación definitiva del proyecto, éste deberá ser remitido a la
-subsecretaría del departamento, la cual solicitará el informe de la Abogacía General de la
-Generalitat en el departamento cuando no fuera preceptivo el dictamen del Consejo Jurídico
-Consultivo de la Comunidad Valenciana.
-f) Emitido el informe al que se refiere el párrafo anterior, el expediente será remitido al
-Consejo Jurídico Consultivo de la Comunidad Valenciana para que evacue el pertinente
-dictamen en aquellos supuestos previstos legalmente.
-g) Concluida la tramitación del expediente, éste será remitido al conseller para su
-aprobación, o bien para su elevación al pleno del Consell cuando sea éste el órgano
-competente.
-8. En aquellos reglamentos que versen exclusivamente sobre materias organizativas de la
-Presidencia y las consellerias, no serán preceptivos los trámites previstos en los apartados c),
-e) y f) del epígrafe anterior.
-9. Las disposiciones de carácter general entrarán en vigor el día siguiente al de su
-publicación en el Diari Oficial de la Generalitat Valenciana, salvo que en las mismas se
-disponga otra cosa.
+Las disposiciones de carácter general entrarán en vigor el día siguiente al de su publicación en el Diari Oficial de la Generalitat Valenciana, salvo que en las mismas se disponga otra cosa.
 
 
 ### Relaciones del Consell con Les Corts
@@ -407,10 +376,7 @@ HAY MÁS (no es difícil)
 
 #### Administración Pública de la Generalitat
 
-La Administración Pública de la Generalidad Valenciana se organiza y actúa con
-personalidad jurídica única, conforme a criterios de eficacia, publicidad, jerarquía,
-descentralización, desconcentración y coordinación, con sometimiento pleno a la Ley y al
-Derecho, dentro de la mayor economía de medios que permita la obtención de los fines que tiene encomendados.
+La Administración Pública de la Generalidad Valenciana se organiza y actúa con personalidad jurídica única, conforme a criterios de eficacia, publicidad, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Ley y al Derecho, dentro de la mayor economía de medios que permita la obtención de los fines que tiene encomendados.
 
 - Disposiciones generales
 - Organización interna
@@ -418,30 +384,25 @@ Derecho, dentro de la mayor economía de medios que permita la obtención de los
 
 
 
-De acuerdo con lo establecido en los artículos 26 al 30 del Estatuto de Autonomía, el
-Consell reglamentará lo necesario para adaptar las normas de la Administración del Estado a la
-organización peculiar de la Generalidad Valenciana.
+De acuerdo con lo establecido en los artículos 26 al 30 del Estatuto de Autonomía, el Consell reglamentará lo necesario para adaptar las normas de la Administración del Estado a la organización peculiar de la Generalidad Valenciana.
 
-La creación de todo órgano administrativo que suponga un incremento del gasto público irá
-precedido por un estudio económico del coste de su funcionamiento y del rendimiento o utilidad
-de sus servicios, así como de la posibilidad de aprovechamiento de los medios de otras
-administraciones, en evitación de un incremento injustificado de gasto público.
+La creación de todo órgano administrativo que suponga un incremento del gasto público irá precedido por un estudio económico del coste de su funcionamiento y del rendimiento o utilidad de sus servicios, así como de la posibilidad de aprovechamiento de los medios de otras administraciones, en evitación de un incremento injustificado de gasto público.
 
+ El ejercicio de las competencias propias de cada órgano podrá ser delegado por éste en el órgano jerárquico inmediato inferior, salvo que por la aplicación del principio de eficacia sea aconsejable atribuirlo a otro órgano, sin que quepa la delegación de competencias delegadas.
 
-1. El ejercicio de las competencias propias de cada órgano podrá ser delegado por éste en el órgano jerárquico inmediato inferior, salvo que por la aplicación del principio de eficacia sea aconsejable atribuirlo a otro órgano, sin que quepa la delegación de competencias delegadas.
-2. Las competencias propias del Gobierno Valenciano son delegables en cualquier caso en las Comisiones Delegadas del Gobierno.
-3. No son delegables las siguientes competencias:
+Las competencias propias del Gobierno Valenciano son delegables en cualquier caso en las Comisiones Delegadas del Gobierno.
 
-a) Las que procedan de una atribución expresa del Estatuto de Autonomía.
-b) Las que correspondan a los Consellers en su condición de miembros del Gobierno.
-c) Las que correspondan a relaciones con órganos del Estado, de otras Comunidades
-Autónomas o las Cortes Valencianas.
-4. Las delegaciones realizadas por órganos del nivel administrativo requerirán autorización
-previa del Conseller.
-5. Las delegaciones podrán ser revocadas en cualquier momento por el órgano delegante.
-6. Las delegaciones y sus renovaciones deberán ser publicadas en el Diario Oficial de la
-Generalidad Valenciana, y en las resoluciones adoptadas por la delegación deberá hacerse
-constar este extremo
+No son delegables las siguientes competencias:
+
+- Atribución expresa del Estatuto de Autonomía.
+- Correspondienes a los Consellers en su condición de miembros del Gobierno.
+- Las que correspondan a relaciones con órganos del Estado, de otras Comunidades Autónomas o las Cortes Valencianas.
+
+Las delegaciones realizadas por órganos del nivel administrativo requerirán autorización previa del Conseller.
+
+Las delegaciones podrán ser revocadas en cualquier momento por el órgano delegante.
+
+ Las delegaciones y sus renovaciones deberán ser publicadas en el Diario Oficial de la Generalidad Valenciana, y en las resoluciones adoptadas por la delegación deberá hacerse constar este extremo
 
 
 ---
