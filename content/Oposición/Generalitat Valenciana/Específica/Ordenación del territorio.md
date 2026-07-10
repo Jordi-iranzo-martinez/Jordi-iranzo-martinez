@@ -121,8 +121,8 @@ El estudio de impacto ambiental y territorial estratégico (artículo 54) tendr�
 - e) Los objetivos de protección medioambiental y de sostenibilidad del modelo territorial fijados en los ámbitos internacional, comunitario o nacional que guarden relación con el plan o programa y la manera en que tales objetivos y cualquier aspecto medioambiental se han tenido en cuenta durante su elaboración.
 - f) Los probables efectos significativos en el medio ambiente y en el modelo territorial, incluidos aspectos como la biodiversidad, la población, la salud humana, la fauna, la flora, la tierra, el agua, el aire, los factores climáticos, su incidencia en el cambio climático, en particular, una evaluación adecuada de la huella de carbono asociada al plan o programa, los bienes materiales, el patrimonio cultural, el paisaje y la interrelación entre estos factores. Estos efectos deben comprender los efectos secundarios, acumulativos, sinérgicos, a corto, medio y largo plazo, permanentes y temporales, positivos y negativos.
 - g) Incidencia de la actuación en el modelo territorial y sobre las determinaciones específicas para la zona en la Estrategia Territorial de la Comunitat Valenciana.
-- h) Las medidas previstas para prevenir, reducir y, en la medida de lo posible, compensar cualquier efecto negativo importante en el medio ambiente y en el territorio de la aplicación del plan o programa, incluyendo aquellas para mitigar su incidencia sobre el cambio climático y permitir su adaptación al mismo.
-- i) Un resumen de los motivos de la selección de las alternativas contempladas y una descripción de la manera en que se realizó la evaluación, incluidas las dificultades, como deficiencias técnicas o falta de conocimientos y experiencia que pudieran haberse encontrado a la hora de recabar la información requerida.
+- **Medidas** previstas para prevenir, reducir y, en la medida de lo posible, compensar cualquier efecto negativo importante en el medio ambiente y en el territorio de la aplicación del plan o programa, incluyendo aquellas para mitigar su incidencia sobre el cambio climático y permitir su adaptación al mismo.
+- **Resumen** de los motivos de la selección de las alternativas contempladas y una descripción de la manera en que se realizó la evaluación, incluidas las dificultades, como deficiencias técnicas o falta de conocimientos y experiencia que pudieran haberse encontrado a la hora de recabar la información requerida.
 - **Medidas de seguimiento** (artículo 58)
 - **Resumen no técnico** (de los epígrafes precedentes)
 
@@ -163,28 +163,28 @@ El PATIVEL (Plan de Acción Territorial de la Infraestructura Verde del Litoral 
 **Objetivo y finalidad**  
 Su principal objetivo es preservar los suelos de la infraestructura verde del litoral valenciano que no cuentan con un régimen de protección específico y adecuado a su gran valor territorial. De forma más concreta, el plan persigue: [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=6836352)
 
-- Definir y ordenar la infraestructura verde supramunicipal del litoral, protegiendo sus valores ambientales, territoriales, paisajísticos, culturales y educativos. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
-- Garantizar la conectividad ecológica y funcional entre los espacios del litoral y los del interior. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
-- Potenciar el mantenimiento de los espacios libres en la franja litoral, evitando la consolidación de barreras urbanas. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
-- Garantizar la efectividad de la protección de las servidumbres del dominio público marítimo-terrestre. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
-- Mejorar la calidad y funcionalidad de los espacios del litoral ya urbanizados y su oferta turística. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
-- Facilitar la accesibilidad y la movilidad peatonal y ciclista en el litoral y sus conexiones con el interior. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
+- Definir y ordenar la infraestructura verde supramunicipal del litoral, protegiendo sus valores ambientales, territoriales, paisajísticos, culturales y educativos. 
+- Garantizar la conectividad ecológica y funcional entre los espacios del litoral y los del interior.
+- Potenciar el mantenimiento de los espacios libres en la franja litoral, evitando la consolidación de barreras urbanas. 
+- Garantizar la efectividad de la protección de las servidumbres del dominio público marítimo-terrestre.
+- Mejorar la calidad y funcionalidad de los espacios del litoral ya urbanizados y su oferta turística.
+- Facilitar la accesibilidad y la movilidad peatonal y ciclista en el litoral y sus conexiones con el interior.
 
 **Estructura territorial: tres franjas ("ámbitos")**, medidas tierra adentro desde el límite interior de la ribera del mar:
 
-- **Ámbito estricto** (0-500 m): coincide con la zona de influencia de la legislación estatal de costas. [Devesa Abogados](https://www.devesa.law/pativel-plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral/)
-- **Ámbito ampliado** (500-1.000 m): dota de refuerzo y continuidad ecológica, funcional y visual a la franja anterior y garantiza la amortiguación de impactos sobre ella. [Devesa Abogados](https://www.devesa.law/pativel-plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral/)
-- **Ámbito de conexión** (1.000-2.000 m, ampliable): zona donde se analiza, ordena y garantiza la conectividad ecológica y funcional del espacio litoral con el resto del territorio. [Devesa Abogados](https://www.devesa.law/pativel-plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral/)
+- **Ámbito estricto** (0-500 m): coincide con la zona de influencia de la legislación estatal de costas. 
+- **Ámbito ampliado** (500-1.000 m): dota de refuerzo y continuidad ecológica, funcional y visual a la franja anterior y garantiza la amortiguación de impactos sobre ella.
+- **Ámbito de conexión** (1.000-2.000 m, ampliable): zona donde se analiza, ordena y garantiza la conectividad ecológica y funcional del espacio litoral con el resto del territorio.
 
 En las dos primeras franjas el suelo debe mantenerse, con carácter general, en situación básica rural, salvo usos expresamente permitidos; en la tercera solo se autorizan usos que no perjudiquen su función de conector ecológico.
 
-**Alcance y resultados**: el plan supuso la desclasificación urbanística de 1.426 hectáreas y la creación del Catálogo de Playas, y prevé la protección de un total de 7.500 hectáreas de litoral, en torno al 12% de los suelos libres de uso urbano. [wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)[wikiredeuroparc](https://wikiredeuroparc.org/2025/05/02/plan-de-accion-territorial-de-la-infraestructura-verde-del-litoral-de-la-comunidad-valenciana-pativel/)
+**Alcance y resultados**: el plan supuso la desclasificación urbanística de 1.426 hectáreas y la creación del Catálogo de Playas, y prevé la protección de un total de 7.500 hectáreas de litoral, en torno al 12% de los suelos libres de uso urbano.
 
-**Recorrido judicial**: el plan sobrevivió a más de sesenta recursos contenciosos interpuestos por promotoras. El TSJ de la Comunitat Valenciana llegó a anular el decreto alegando que faltaba un estudio económico-financiero sobre los costes de implementación y la repercusión para las propiedades y municipios afectados, además de un informe de impacto de género. Sin embargo, el Tribunal Supremo anuló esa sentencia del TSJCV en 2022, razonando que se había aplicado al PATIVEL un régimen propio de un plan urbanístico, cuando en realidad se limita a fijar líneas directrices generales a las que deben ajustarse después los planes urbanísticos de rango inferior; en 2023 el Supremo volvió a revocar una nueva anulación del TSJCV, reiterando esos mismos argumentos. [Dialnet + 4](https://dialnet.unirioja.es/servlet/articulo?codigo=10507532)
+**Recorrido judicial**: el plan sobrevivió a más de sesenta recursos contenciosos interpuestos por promotoras. El TSJ de la Comunitat Valenciana llegó a anular el decreto alegando que faltaba un estudio económico-financiero sobre los costes de implementación y la repercusión para las propiedades y municipios afectados, además de un informe de impacto de género. Sin embargo, el Tribunal Supremo anuló esa sentencia del TSJCV en 2022, razonando que se había aplicado al PATIVEL un régimen propio de un plan urbanístico, cuando en realidad se limita a fijar líneas directrices generales a las que deben ajustarse después los planes urbanísticos de rango inferior; en 2023 el Supremo volvió a revocar una nueva anulación del TSJCV, reiterando esos mismos argumentos. 
 
-**Situación actual (dato importante):** el PATIVEL está en pleno proceso de sustitución. La Ley 3/2025, de 22 de mayo, de protección y ordenación de la costa valenciana, entró en vigor a los 20 días de su publicación en el DOGV el 26 de mayo de 2025. Esta ley: [Aecta](https://aecta.org/ley-de-proteccion-y-ordenacion-de-la-costa-valenciana/)
+**Situación actual (dato importante):** el PATIVEL está en pleno proceso de sustitución. La Ley 3/2025, de 22 de mayo, de protección y ordenación de la costa valenciana, entró en vigor a los 20 días de su publicación en el DOGV el 26 de mayo de 2025. Esta ley:
 
-- Zonifica el litoral en tres áreas —protección ambiental, mejora ambiental y paisajística, y reordenación— elevando a rango legal los criterios que antes fijaba una norma reglamentaria. [Dialnet](https://dialnet.unirioja.es/servlet/articulo?codigo=10373516)
+- Zonifica el litoral en tres áreas —protección ambiental, mejora ambiental y paisajística, y reordenación— elevando a rango legal los criterios que antes fijaba una norma reglamentaria
 - No deroga el PATIVEL de golpe: prevé su "adaptación" (disposición adicional primera) y un régimen transitorio (disposición transitoria segunda) hasta que se apruebe un futuro Plan de Ordenación Costera que lo sustituya.
 - Reduce distancias de protección: prohíbe usos residenciales en los primeros 500 metros (frente a los 1.000 m del PATIVEL) y permite hoteles a partir de los 200 metros de la costa (frente a los 500 m anteriores). [ElDiario.es](https://www.eldiario.es/comunitat-valenciana/politica/ley-ordenacion-costa-pp-vox-condena-muerte-pativel-merma-proteccion-territorio-valenciano_1_11413365.html)
 - Incorpora, por primera vez, protección específica de la posidonia oceánica y una nueva figura de protección para los núcleos urbanos de valor etnográfico amenazados por deslindes estatales. [El Español](https://www.elespanol.com/valencia/20241022/nueva-ley-costas-mazon-derogara-pativel-protegera-poblados-maritimos-derribo/895410681_0.html)
@@ -230,20 +230,27 @@ El [Plan de acción territorial de ordenación y dinamización de la Huerta de V
 
 
 
-El **Plan de Acción Territorial de Ordenación y Dinamización de la Huerta de València (PATODHV)** es el instrumento de ordenación supramunicipal que desarrolla la Ley 5/2018 de la Huerta de València, aprobado mediante el Decreto 219/2018, de 30 de noviembre, del Consell. Estos son sus puntos principales: [DOGv](https://dogv.gva.es/portal/ficha_disposicion.jsp?L=1&sig=011497/2018)
+El **Plan de Acción Territorial de Ordenación y Dinamización de la Huerta de València (PATODHV)** es el instrumento de ordenación supramunicipal que desarrolla la Ley 5/2018 de la Huerta de València, aprobado mediante el Decreto 219/2018, de 30 de noviembre, del Consell. Estos son sus puntos principales:
 
 - **Estructura**: consta de ocho títulos, 82 artículos y cuatro disposiciones transitorias, y desde entonces ha sido modificado parcialmente por el Decreto Ley 4/2025, de 4 de febrero.
-- **Finalidad**: ordenar el territorio para impulsar, proteger y recuperar activamente la actividad agraria de la Huerta como un espacio con reconocido valor agrícola, ambiental, paisajístico, histórico y cultural, determinante de la calidad de vida del área metropolitana. No se plantea como un espacio congelado, sino como un territorio activo y viable en lo económico, ambiental y social. Entre sus objetivos concretos están mantener el suelo de cultivo y regenerar las zonas degradadas, asegurar los corredores ecológicos, encauzar el crecimiento urbano hacia la rehabilitación de los núcleos existentes en lugar de ocupar más huerta, cuidar el patrimonio y el paisaje, mejorar las condiciones de quienes cultivan la tierra, y abrir la puerta a nuevas actividades económicas compatibles con lo agrario, promoviendo además un disfrute público del paisaje respetuoso con la actividad agraria. [Diba](https://bcnagraria.diba.cat/es/actua/plan-de-accion-territorial-de-ordenacion-y-dinamizacion-de-la-huerta-de-valencia)[Iberley](https://www.iberley.es/legislacion/articulo-4-plan-accion-territorial-ordenacion-dinamizacion-huerta-valencia)
-- **Ámbito territorial**: distingue un ámbito estricto y un ámbito ampliado. El estricto es el suelo regado tradicionalmente por las acequias del Tribunal de las Aguas, la Real Acequia de Moncada y el Canal del Turia, y comprende 40 municipios del área metropolitana (incluida la ciudad de València). El ampliado suma cuatro municipios más —Alcàsser, Beniparrell, Picassent y Silla— por los grandes corredores ecológicos que enlazan la Huerta con otros espacios de valor ambiental, aunque allí solo rigen las normas sobre esos corredores. En total, el ámbito ronda las 63.000 hectáreas, de las que unas 23.000 corresponden a la huerta histórica del ámbito estricto. El plan protege como suelo no urbanizable más de 11.000 hectáreas agrícolas y prevé recuperar unas 250 hectáreas de huerta y más de 100 edificaciones tradicionales. [Generalitat Valenciana](https://mediambient.gva.es/documents/20551069/91101366/memoria/5f239326-7b8f-4191-a739-aa642d7cf61a)[Valencia Plaza](https://valenciaplaza.com/el-nuevo-pat-de-la-huerta-de-valencia-protejera-mas-de-11000-hectareas-de-suelo-agricola)
-- **Zonificación**: establece tres grados de protección: **H1**, la huerta de mayor valor agropecuario y fragilidad paisajística; **H2**, similar pero con mayor transformación en el riego y los cultivos, que necesita acciones de conservación y recuperación; y **H3**, la huerta más degradada o con mayor ocupación de cítricos, donde se permiten algunas construcciones de nueva planta que no se autorizan en los grados superiores. H1 y H2 quedan clasificadas como suelo no urbanizable protegido, en zona rural protegida agrícola (ZRP-AG). A esto se suman los Espacios de Valor Natural y los elementos que tejen la infraestructura verde metropolitana: vectores de conexión, ventanas al mar, corredores ecológicos y funcionales, y espacios públicos urbanos de conexión. [Gva + 3](https://dadesobertes.gva.es/es/dataset/pat-de-la-huerta-areas-de-proteccion)
-- **Infraestructura verde**: el plan la delimita a partir de los espacios de valor ambiental, las zonas de huerta protegida y los elementos de conexión territorial y funcional, buscando proteger los valores ambientales y culturales, mitigar el cambio climático y permitir un uso público compatible con la agricultura. [BOE.es](https://www.boe.es/buscar/act.php?id=BOE-A-2018-5394)
+
+- **Finalidad**: ordenar el territorio para impulsar, proteger y recuperar activamente la actividad agraria de la Huerta como un espacio con reconocido valor agrícola, ambiental, paisajístico, histórico y cultural, determinante de la calidad de vida del área metropolitana. No se plantea como un espacio congelado, sino como un territorio activo y viable en lo económico, ambiental y social. Entre sus objetivos concretos están mantener el suelo de cultivo y regenerar las zonas degradadas, asegurar los corredores ecológicos, encauzar el crecimiento urbano hacia la rehabilitación de los núcleos existentes en lugar de ocupar más huerta, cuidar el patrimonio y el paisaje, mejorar las condiciones de quienes cultivan la tierra, y abrir la puerta a nuevas actividades económicas compatibles con lo agrario, promoviendo además un disfrute público del paisaje respetuoso con la actividad agraria.
+
+- **Ámbito territorial**: distingue un ámbito estricto y un ámbito ampliado. El estricto es el suelo regado tradicionalmente por las acequias del Tribunal de las Aguas, la Real Acequia de Moncada y el Canal del Turia, y comprende 40 municipios del área metropolitana (incluida la ciudad de València). El ampliado suma cuatro municipios más —Alcàsser, Beniparrell, Picassent y Silla— por los grandes corredores ecológicos que enlazan la Huerta con otros espacios de valor ambiental, aunque allí solo rigen las normas sobre esos corredores. En total, el ámbito ronda las 63.000 hectáreas, de las que unas 23.000 corresponden a la huerta histórica del ámbito estricto. El plan protege como suelo no urbanizable más de 11.000 hectáreas agrícolas y prevé recuperar unas 250 hectáreas de huerta y más de 100 edificaciones tradicionales.
+
+- **Zonificación**: establece tres grados de protección: **H1**, la huerta de mayor valor agropecuario y fragilidad paisajística; **H2**, similar pero con mayor transformación en el riego y los cultivos, que necesita acciones de conservación y recuperación; y **H3**, la huerta más degradada o con mayor ocupación de cítricos, donde se permiten algunas construcciones de nueva planta que no se autorizan en los grados superiores. H1 y H2 quedan clasificadas como suelo no urbanizable protegido, en zona rural protegida agrícola (ZRP-AG). A esto se suman los Espacios de Valor Natural y los elementos que tejen la infraestructura verde metropolitana: vectores de conexión, ventanas al mar, corredores ecológicos y funcionales, y espacios públicos urbanos de conexión.
+
+- **Infraestructura verde**: el plan la delimita a partir de los espacios de valor ambiental, las zonas de huerta protegida y los elementos de conexión territorial y funcional, buscando proteger los valores ambientales y culturales, mitigar el cambio climático y permitir un uso público compatible con la agricultura.
+
 - **Régimen de usos**: el uso principal es el agropecuario. En las zonas H1 y H2 está vetado reordenar las parcelas si eso altera las acequias o los caminos históricos, algo que en H3 sí se permite con informe previo de la administración competente. El uso residencial solo es admisible con carácter excepcional (en enclaves de recuperación o en viviendas preexistentes ya legales), y se habilitan usos terciarios compatibles como restauración, alojamiento turístico, hípica, huertos de ocio o investigación agraria.
-- **Vínculo con el planeamiento municipal**: los ayuntamientos afectados deben clasificar como suelo no urbanizable protegido los suelos agrícolas de mayor valor y limitar al máximo su ocupación urbanística, priorizando la rehabilitación y regeneración de lo ya construido. De hecho, en 2026 el Ayuntamiento de València está tramitando la adaptación de su Plan General al PAT para contar con un único marco normativo de referencia en lugar de tener que cotejar dos normativas distintas. [BOE.es](https://www.boe.es/buscar/act.php?id=BOE-A-2018-5394)
-- **Gobernanza posterior y reconocimiento**: del plan se derivó el Consell de l'Horta (2019-2020), un consorcio inspirado en el Parque Agrario del Llobregat que gestiona ayudas al campesinado, un banco de tierras y la promoción del producto local. En 2020, la FAO reconoció la Huerta de València como Sistema Importante del Patrimonio Agrícola Mundial (SIPAM). [Diba](https://bcnagraria.diba.cat/es/actua/plan-de-accion-territorial-de-ordenacion-y-dinamizacion-de-la-huerta-de-valencia)[Diba](https://bcnagraria.diba.cat/es/actua/plan-de-accion-territorial-de-ordenacion-y-dinamizacion-de-la-huerta-de-valencia)
+
+- **Vínculo con el planeamiento municipal**: los ayuntamientos afectados deben clasificar como suelo no urbanizable protegido los suelos agrícolas de mayor valor y limitar al máximo su ocupación urbanística, priorizando la rehabilitación y regeneración de lo ya construido. De hecho, en 2026 el Ayuntamiento de València está tramitando la adaptación de su Plan General al PAT para contar con un único marco normativo de referencia en lugar de tener que cotejar dos normativas distintas.
+
+- **Gobernanza posterior y reconocimiento**: del plan se derivó el Consell de l'Horta (2019-2020), un consorcio inspirado en el Parque Agrario del Llobregat que gestiona ayudas al campesinado, un banco de tierras y la promoción del producto local. En 2020, la FAO reconoció la Huerta de València como Sistema Importante del Patrimonio Agrícola Mundial (SIPAM).
+
 - **Última reforma**: el Decreto Ley 4/2025 modificó varios artículos del propio plan territorial —entre ellos los referidos a usos, parcelación y régimen de determinados suelos— y suprimió parte del articulado de la Ley 5/2018.
 
 Puedo profundizar en cualquiera de estos apartados (usos permitidos, zonificación, el proceso en marcha en 2026, etc.) si te interesa.
-
 
 
 ### Estrategia Territorial de la Comunidad Valenciana
@@ -253,31 +260,57 @@ La [Estrategia Territorial de Comunitat Valenciana](https://mediambient.gva.es/e
 - [Calidad de vida](https://mediambient.gva.es/documents/20551069/166426134/01+Calidad+de+vida.pdf/860bb5fb-dad2-46f1-be8e-78596bc652b0?t=1533896052568 "01 Calidad de vida")
 - [Participación](https://mediambient.gva.es/documents/20551069/166426134/02+Participaci%C3%B3n.pdf/9215e881-f6f2-40c6-97a0-c1051fee17db?t=1533896074873 "02 Participación")
 - **Objetivos**:
-	1. [Sistema de ciudades](https://mediambient.gva.es/documents/20551069/166426134/03+Objetivo+01+Sistema+de+ciudades.pdf/ba88b648-81ce-4770-9701-ba6e549c763e?t=1533896138929 "03 Objetivo 01 Sistema de ciudades")
-	2. [Valencia](https://mediambient.gva.es/documents/20551069/166426134/04+Objetivo+02+Valencia.pdf/e804403c-bfee-4f4a-bfe7-94f689e2ae66?t=1533896193290 "04 Objetivo 02 Valencia")
-	3. [Alicante Elx](https://mediambient.gva.es/documents/20551069/166426134/05+Objetivo+03+Alicante+Elx.pdf/3b8b4b5c-2ccc-40c1-be7c-ded0b44bd122?t=1533896267693 "05 Objetivo 03 Alicante Elx")
-	4. [Castellón](https://mediambient.gva.es/documents/20551069/166426134/06+Objetivo+04+Castell%C3%B3n.pdf/9c81f941-1470-4ea7-a055-38cddd023f09?t=1533896300061 "06 Objetivo 04 Castellón")
-	5. [Sistema rural](https://mediambient.gva.es/documents/20551069/166426134/07+Objetivo+05+Sistema+rural.pdf/332305d7-34fb-4b0c-be21-8e0b31a5dcab?t=1533896335241 "07 Objetivo 05 Sistema rural")
-	6. [Patrimonio ambiental](https://mediambient.gva.es/documents/20551069/166426134/08+Objetivo+06+Patrimonio+ambiental.pdf/ee585532-bf6d-4829-9e5b-2d7aa6862100?t=1533896363243 "08 Objetivo 06 Patrimonio ambiental")
-	7. [Agua](https://mediambient.gva.es/documents/20551069/166426134/09+Objetivo+07+Agua.pdf/053d2c02-0556-4ee8-92d3-bc2baf4426bc?t=1533896392604 "09 Objetivo 07 Agua")
-	8. [Riesgos](https://mediambient.gva.es/documents/20551069/166426134/10+Objetivo+08+Riesgos.pdf/e0a630f7-7e6f-46ce-ad94-21eb9183acfb?t=1533896448400 "10 Objetivo 08 Riesgos")
-	9. [Litoral](https://mediambient.gva.es/documents/20551069/166426134/11+Objetivo+09+Litoral.pdf/c2e51070-6242-466f-a847-d2ba5104e696?t=1533896485235 "11 Objetivo 09 Litoral")
-	10. [Turismo](https://mediambient.gva.es/documents/20551069/166426134/12+Objetivo+10+Turismo.pdf/e891beb1-9aed-48af-97d6-aa1b976f208e?t=1533896522573 "12 Objetivo 10 Turismo")
-	11. [Paisaje](https://mediambient.gva.es/documents/20551069/166426134/13+Objetivo+11+Paisaje.pdf/dfdddc19-ff22-4b89-b2ee-434e91b7964d?t=1533896553336 "13 Objetivo 11 Paisaje")
-	12. [Gestión territorial](https://mediambient.gva.es/documents/20551069/166426134/14+Objetivo+12+Gesti%C3%B3n+territorial.pdf/bd095d89-eb9c-4967-8b5d-fdc1272cb8d7?t=1533896587688 "14 Objetivo 12 Gestión territorial")
-	13. [Patrimonio cultural](https://mediambient.gva.es/documents/20551069/166426134/15+Objetivo+13+Patrimonio+cultural.pdf/cdcdb106-abda-4ab4-83d9-22f2414d2205?t=1533896630995 "15 Objetivo 13 Patrimonio cultural")
-	14. [Cambio climático](https://mediambient.gva.es/documents/20551069/166426134/16+Objetivo+14+Cambio+clim%C3%A1tico.pdf/07ebd4e6-e5bd-426d-bb58-3253ad98b1c2?t=1533896667311 "16 Objetivo 14 Cambio climático")
-	15. [Energía](https://mediambient.gva.es/documents/20551069/166426134/17+Objetivo+15+Energ%C3%ADa.pdf/30469e88-ddec-4ef1-a1cd-d37db7ddfa92?t=1533896697756 "17 Objetivo 15 Energía")
-	16. [Logística](https://mediambient.gva.es/documents/20551069/166426134/18+Objetivo+16+Log%C3%ADstica.pdf/4f79699f-d498-4cf1-bee5-86d32fa63474?t=1533896724236 "18 Objetivo 16 Logística")
-	17. [Innovación](https://mediambient.gva.es/documents/20551069/166426134/19+Objetivo+17+Innovaci%C3%B3n.pdf/12e4c31d-7506-48f4-bc1c-190c67fa2f8c?t=1533896751112 "19 Objetivo 17 Innovación")
-	18. [Conectividad](https://mediambient.gva.es/documents/20551069/166426134/20+Objetivo+18+Conectividad.pdf/60a35047-206a-4783-9681-05dbd4d9683f?t=1533896787363 "20 Objetivo 18 Conectividad")
-	19. [Movilidad](https://mediambient.gva.es/documents/20551069/166426134/21+Objetivo+19+Movilidad.pdf/7c821211-a38c-4f75-9644-2c9de3d959f6?t=1533896822928 "21 Objetivo 19 Movilidad")
-	20. [Infraestructuras](https://mediambient.gva.es/documents/20551069/166426134/22+Objetivo+20+Infraestructuras.pdf/342e8250-6c4f-422f-95a9-cec21344638b?t=1533896854440 "22 Objetivo 20 Infraestructuras")
-	21. [Cohesión social](https://mediambient.gva.es/documents/20551069/166426134/23+Objetivo+21+Cohesi%C3%B3n+social.pdf/78c62940-3538-410a-b5e1-c19b91365200?t=1533896897522 "23 Objetivo 21 Cohesión social")
-	22. [Vivienda](https://mediambient.gva.es/documents/20551069/166426134/24+Objetivo+22+Vivienda.pdf/adef2ead-b0c1-4645-9c54-82968adb735a?t=1533896929184 "24 Objetivo 22 Vivienda")
-	23. [Suelo](https://mediambient.gva.es/documents/20551069/166426134/25+Objetivo+23+Suelo.pdf/120de22f-fefe-48cd-8dbc-37a2202610e0?t=1533896961483 "25 Objetivo 23 Suelo")
-	24. [Actividad económica](https://mediambient.gva.es/documents/20551069/166426134/26+Objetivo+24+Actividad+econ%C3%B3mica.pdf/6e452335-838c-4f55-8a61-73b6e9f9372c?t=1533897017175 "26 Objetivo 24 Actividad económica")
-	25. [Gobernanza territorial](https://mediambient.gva.es/documents/20551069/166426134/27+Objetivo+25+Gobernanza+territorial.pdf/e7fbb23e-53e9-458d-8806-ce2f1542fc4d?t=1533897094067 "27 Objetivo 25 Gobernanza territorial")
+
+	1. **[Sistema de ciudades](https://mediambient.gva.es/documents/20551069/166426134/03+Objetivo+01+Sistema+de+ciudades.pdf/ba88b648-81ce-4770-9701-ba6e549c763e?t=1533896138929 "03 Objetivo 01 Sistema de ciudades")**: mantener la diversidad y la vertebración del sistema de ciudades
+
+	2. **[Valencia](https://mediambient.gva.es/documents/20551069/166426134/04+Objetivo+02+Valencia.pdf/e804403c-bfee-4f4a-bfe7-94f689e2ae66?t=1533896193290 "04 Objetivo 02 Valencia")**: situar el área de Valencia dentro del conjunto de grandes metrópolis europeas
+
+	3. **[Alicante Elx](https://mediambient.gva.es/documents/20551069/166426134/05+Objetivo+03+Alicante+Elx.pdf/3b8b4b5c-2ccc-40c1-be7c-ded0b44bd122?t=1533896267693 "05 Objetivo 03 Alicante Elx")**: transformar el área urbana de Alicante y Elx en el gran nodo de centralidad del sudeste peninsular
+
+	4. **[Castellón](https://mediambient.gva.es/documents/20551069/166426134/06+Objetivo+04+Castell%C3%B3n.pdf/9c81f941-1470-4ea7-a055-38cddd023f09?t=1533896300061 "06 Objetivo 04 Castellón")**: maximizar el potencial metropolitano del área urbana de Castellón
+
+	5. **[Sistema rural](https://mediambient.gva.es/documents/20551069/166426134/07+Objetivo+05+Sistema+rural.pdf/332305d7-34fb-4b0c-be21-8e0b31a5dcab?t=1533896335241 "07 Objetivo 05 Sistema rural")**: 
+   
+	6. **[Patrimonio ambiental](https://mediambient.gva.es/documents/20551069/166426134/08+Objetivo+06+Patrimonio+ambiental.pdf/ee585532-bf6d-4829-9e5b-2d7aa6862100?t=1533896363243 "08 Objetivo 06 Patrimonio ambiental")**: 
+
+	7. **[Agua](https://mediambient.gva.es/documents/20551069/166426134/09+Objetivo+07+Agua.pdf/053d2c02-0556-4ee8-92d3-bc2baf4426bc?t=1533896392604 "09 Objetivo 07 Agua")**: 
+
+	8. **[Riesgos](https://mediambient.gva.es/documents/20551069/166426134/10+Objetivo+08+Riesgos.pdf/e0a630f7-7e6f-46ce-ad94-21eb9183acfb?t=1533896448400 "10 Objetivo 08 Riesgos")**: 
+
+	9. **[Litoral](https://mediambient.gva.es/documents/20551069/166426134/11+Objetivo+09+Litoral.pdf/c2e51070-6242-466f-a847-d2ba5104e696?t=1533896485235 "11 Objetivo 09 Litoral")**: 
+
+	10. **[Turismo](https://mediambient.gva.es/documents/20551069/166426134/12+Objetivo+10+Turismo.pdf/e891beb1-9aed-48af-97d6-aa1b976f208e?t=1533896522573 "12 Objetivo 10 Turismo")**: 
+
+	11. **[Paisaje](https://mediambient.gva.es/documents/20551069/166426134/13+Objetivo+11+Paisaje.pdf/dfdddc19-ff22-4b89-b2ee-434e91b7964d?t=1533896553336 "13 Objetivo 11 Paisaje")**: 
+
+	12. **[Gestión territorial](https://mediambient.gva.es/documents/20551069/166426134/14+Objetivo+12+Gesti%C3%B3n+territorial.pdf/bd095d89-eb9c-4967-8b5d-fdc1272cb8d7?t=1533896587688 "14 Objetivo 12 Gestión territorial")**: 
+
+	13. **[Patrimonio cultural](https://mediambient.gva.es/documents/20551069/166426134/15+Objetivo+13+Patrimonio+cultural.pdf/cdcdb106-abda-4ab4-83d9-22f2414d2205?t=1533896630995 "15 Objetivo 13 Patrimonio cultural")**: 
+
+	14. **[Cambio climático](https://mediambient.gva.es/documents/20551069/166426134/16+Objetivo+14+Cambio+clim%C3%A1tico.pdf/07ebd4e6-e5bd-426d-bb58-3253ad98b1c2?t=1533896667311 "16 Objetivo 14 Cambio climático")**: 
+
+	15. **[Energía](https://mediambient.gva.es/documents/20551069/166426134/17+Objetivo+15+Energ%C3%ADa.pdf/30469e88-ddec-4ef1-a1cd-d37db7ddfa92?t=1533896697756 "17 Objetivo 15 Energía")**: 
+
+	16. **[Logística](https://mediambient.gva.es/documents/20551069/166426134/18+Objetivo+16+Log%C3%ADstica.pdf/4f79699f-d498-4cf1-bee5-86d32fa63474?t=1533896724236 "18 Objetivo 16 Logística")**: 
+
+	17. **[Innovación](https://mediambient.gva.es/documents/20551069/166426134/19+Objetivo+17+Innovaci%C3%B3n.pdf/12e4c31d-7506-48f4-bc1c-190c67fa2f8c?t=1533896751112 "19 Objetivo 17 Innovación")**: 
+
+	18. **[Conectividad](https://mediambient.gva.es/documents/20551069/166426134/20+Objetivo+18+Conectividad.pdf/60a35047-206a-4783-9681-05dbd4d9683f?t=1533896787363 "20 Objetivo 18 Conectividad")**: 
+
+	19. **[Movilidad](https://mediambient.gva.es/documents/20551069/166426134/21+Objetivo+19+Movilidad.pdf/7c821211-a38c-4f75-9644-2c9de3d959f6?t=1533896822928 "21 Objetivo 19 Movilidad")**: 
+
+	20. **[Infraestructuras](https://mediambient.gva.es/documents/20551069/166426134/22+Objetivo+20+Infraestructuras.pdf/342e8250-6c4f-422f-95a9-cec21344638b?t=1533896854440 "22 Objetivo 20 Infraestructuras")**: 
+
+	21. **[Cohesión social](https://mediambient.gva.es/documents/20551069/166426134/23+Objetivo+21+Cohesi%C3%B3n+social.pdf/78c62940-3538-410a-b5e1-c19b91365200?t=1533896897522 "23 Objetivo 21 Cohesión social")**: 
+
+	22. **[Vivienda](https://mediambient.gva.es/documents/20551069/166426134/24+Objetivo+22+Vivienda.pdf/adef2ead-b0c1-4645-9c54-82968adb735a?t=1533896929184 "24 Objetivo 22 Vivienda")**: 
+
+	23. **[Suelo](https://mediambient.gva.es/documents/20551069/166426134/25+Objetivo+23+Suelo.pdf/120de22f-fefe-48cd-8dbc-37a2202610e0?t=1533896961483 "25 Objetivo 23 Suelo")**: 
+
+	24. **[Actividad económica](https://mediambient.gva.es/documents/20551069/166426134/26+Objetivo+24+Actividad+econ%C3%B3mica.pdf/6e452335-838c-4f55-8a61-73b6e9f9372c?t=1533897017175 "26 Objetivo 24 Actividad económica")**: 
+
+	25. **[Gobernanza territorial](https://mediambient.gva.es/documents/20551069/166426134/27+Objetivo+25+Gobernanza+territorial.pdf/e7fbb23e-53e9-458d-8806-ce2f1542fc4d?t=1533897094067 "27 Objetivo 25 Gobernanza territorial")**: 
+
 - [Anexos](https://mediambient.gva.es/documents/20551069/166426134/28+Anexos.pdf/e43663b9-987d-467c-ad87-3f7b89997676?t=1533897116208 "28 Anexos")
 - Áreas funcionales: [Áreas funcionales 1](https://mediambient.gva.es/documents/20551069/166426134/29+%C3%81reas+funcionales_1.pdf/c709c30c-ec56-48ce-8e92-ecec0977ec30?t=1533897196193 "29 Áreas funcionales_1") y [Áreas funcionales 2](https://mediambient.gva.es/documents/20551069/166426134/29+%C3%81reas+funcionales_2.pdf/e4b31079-b190-43ec-8c8b-179ba364ce96?t=1533897235159 "29 Áreas funcionales_2")
 - [Directrices](https://mediambient.gva.es/documents/20551069/166426134/30+Directrices.pdf/c861bc2f-05ae-4bba-8d5c-439a1d4d6101?t=1533897252647 "30 Directrices")
@@ -293,9 +326,12 @@ La [Estrategia Territorial de Comunitat Valenciana](https://mediambient.gva.es/e
 | Litoral                           | - Disposiciones generales<br>- Criterios de índole social<br>- Sistema de asentamientos                                                                                                                                                                                                                        |
 
 
-| Objetivos | Propuestas estratégicas |
-| --------- | ----------------------- |
-|           |                         |
+| Objetivos | Propuestas estratégicas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.        | 1. Áreas urbanas integradas<br>2. Estrategias sobre áreas urbanas integradas<br>3. Sistema nodal de referencia: metropolitanos, ciudades medias, apoyo al mundo rural<br>4. Áreas funcionales del territorio<br>5. Áreas de trabajo<br>6. Equipamientos de referencia para las áreas funcionales<br>7. Estrategias sobre los núcleos cabecera de las áreas funcionales<br>8. Franja intermedia del territorio<br>9. Programas de paisaje para las conurbanizaciones y áreas de borde urbano                                                             |
+| 2         | 1. Urbanismo<br>2. Flujos territoriales laborales<br>3. Transporte público de alta capacidad<br>4. Infraestructura verde<br>5. Áreas estratégicas<br>6. Polos de equilibrio<br>7. Transporte público<br>8. CV-50<br>9. Industria cultural (*cluster*)                                                                                                                                                                                                                                                                                                   |
+| 3         | 1. Infraestructura verde de Alicante: parque regional<br>2. Áreas de nueva centralidad: Alicante y Elx<br>3. Áreas de oportunidad<br>4. Áreas de regeneración urbana<br>5. Regeneración del frente litoral<br>6. Otras actuaciones: mejora del puerto, parque litoral...<br>7. Bulevares metropolitanos<br>8. Propuesta ferroviaria de articulación externa<br>9. Ferrocarril de mercancías en el corredor mediterráneo<br>10. Esquema de transporte público (Alicante-Elx)<br>11. Corredor de la innovación<br>12. Cluster de las tecnologías del agua |
+| 4         | 1. Espacios verdes metropolitanos y sus elementos de conexión<br>2. Áreas de nueva centralidad metropolitana<br>3. Áreas de oportunidad<br>4. Áreas de regeneración urbana y litoral<br>5. Propuestas de bulevares urbanos metropolitanos<br>6. Red de vías ciclistas<br>7. Esquema de transporte público<br>8. Red de carreteras provincial para el acceso al litoral<br>9. Área de actividades logísticas intermodal puerto-ferrocarril-carretera<br>10. Cluster del deporte y la salud en la Plana Baixa<br>11. Nuevos productos turísticos          |
 
 
 TIENE OBJETIVOS, QUE SE PUEDEN PONER EN TABLA

@@ -114,23 +114,23 @@ El contenido del plan, que se establecerá de acuerdo con los objetivos y princi
 | Mitigación | 5) Objetivos e indicadores cuantitativos y cualitativos del estado de resiliencia del territorio.<br>6) Políticas específicas para alcanzar estos objetivos.<br>7) Mecanismos de pilotaje de las políticas implementadas con seguimiento de los objetivos<br>para evaluar su grado de logro.<br>8) Revisión y reformulación, en su caso, del programa de acuerdo con el resultado obtenido del<br>punto anterior.<br>b) Programa de mitigación de emisiones de gases de efecto invernadero<br>9) Objetivos y contribuciones cuantitativas a nivel autonómico y sectorial de reducción de<br>emisiones y absorciones por los sumideros y de los presupuestos de carbono en el marco de la<br>planificación estatal.<br>10) Objetivos de ahorro y eficiencia energética y penetración de energías renovables,<br>garantizando la contribución a estos objetivos de todos los sectores de la economía.<br>11) Políticas y medidas específicas para alcanzar dichos objetivos.<br>12) Mecanismo de seguimiento del programa, su evaluación y prórroga. |
 
 
-|                    | Programa de adaptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Contenido          | 5) Objetivos e indicadores cuantitativos y cualitativos del estado de resiliencia del territorio.<br>6) Políticas específicas para alcanzar estos objetivos.<br>7) Mecanismos de pilotaje de las políticas implementadas con seguimiento de los objetivos<br>para evaluar su grado de logro.<br>8) Revisión y reformulación, en su caso, del programa de acuerdo con el resultado obtenido del<br>punto anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Objetivos          | a) Orientar y establecer las bases de diseño territorial en todas las escalas para asegurar la<br>resiliencia del territorio ante los impactos del cambio climático.<br>b) Orientar y establecer la programación de actuaciones de adaptación en el cambio climático<br>de la sociedad valenciana, el tejido empresarial y productivo, la administración de la Generalitat<br>y las entidades locales, según una evaluación de riesgos asumibles basada en un escenario<br>común.<br>c) Ampliar la base de conocimiento sobre los impactos del cambio climático en el territorio de la<br>Comunitat Valenciana, promoviendo la sectorización del entorno y el aprovechamiento de la<br>evaluación de los datos obtenidos aplicando técnicas de inteligencia artificial, que permita<br>hacer prospectiva y ser proactivos como administraciones públicas.<br>d) Incentivar la participación de la sociedad civil y de los sectores privados en la identificación<br>de oportunidades y amenazas, poniendo a su disposición los datos obtenidos por los sistemasLey 6/202219 de 83<br>de monitorización del medio ambiente de la Generalitat, de acuerdo con la gobernanza de<br>datos de la Generalitat.<br>e) Efectuar un seguimiento de la evaluación de los efectos del cambio climático sobre el<br>empleo y la actividad económica. |
-| Áreas estratégicas | - Agua y recursos hídricos.<br>- Suelos y desertificación.<br>- Biodiversidad, áreas protegidas y servicios ecosistémicos.<br>d) Servicios ambientales de los sistemas agrícolas, sistemas agrícolas periurbanos.<br>e) Reducción del riesgo de desastres.<br>f) Energía.<br>g) Salud.<br>h) Forestal, caza y pesca.<br>i) Agricultura, ganadería, acuicultura.<br>j) Ordenación del territorio, urbanismo, ciudad, edificación y vivienda.<br>k) Movilidad e infraestructuras viarias, ferroviarias, portuarias y aeroportuarias.<br>l) Industria y comercio.<br>m) Turismo.<br>n) Litoral.<br>o) Seguros y finanzas.<br>p) Educación, sociedad y estilos de vida.<br>q) Migraciones asociadas al cambio climático.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Contenido mínimo   | a) Los escenarios climáticos de referencia, partiendo de las proyecciones climáticas disponibles<br>en cada momento.<br>b) El análisis de la resiliencia del territorio haciendo especial  incidencia en los sistemas forestales, agrícolas, litorales y fluviales y su conectividad, así como las medidas necesarias para asegurar su fortaleza.<br>c) El análisis económico, social y ambiental de los principales impactos previstos en los escenarios climáticos por áreas estratégicas.<br>d) Los riesgos y las posibles vulnerabilidades de la ciudadanía y de los diferentes sectores y ecosistemas ante el cambio climático, así como un análisis de su capacidad de adaptación.<br>e) Las medidas específicas de adaptación para cada una de las áreas estratégicas y los ámbitos territoriales considerados vulnerables.<br>f) Las medidas de fomento para la participación de la iniciativa privada en las acciones de adaptación.<br>g) Las líneas de investigación e innovación prioritarias en materia de adaptación. h) La previsión financiera y la programación temporal de las medidas de adaptación.<br>i) Los instrumentos para el seguimiento, evaluación del programa y cumplimiento de los objetivos de adaptación, así como los mecanismos de corrección previstos en el caso de desvío de estos objetivos.      |
+|                    | Programa de adaptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contenido          | - Objetivos e indicadores cuantitativos y cualitativos del estado de resiliencia del territorio<br>- Políticas específicas para alcanzar estos objetivos<br>- Mecanismos de pilotaje de las políticas implementadas con seguimiento de los objetivos para evaluar su grado de logro<br>- Revisión y reformulación, en su caso, del programa de acuerdo con el resultado obtenido del punto anterior                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Objetivos          | - Orientar y establecer las bases de diseño territorial en todas las escalas para asegurar la<br>resiliencia del territorio ante los impactos del cambio climático<br>- Orientar y establecer la programación de actuaciones de adaptación en el cambio climático<br>de la sociedad valenciana, el tejido empresarial y productivo, la administración de la Generalitat<br>y las entidades locales, según una evaluación de riesgos asumibles basada en un escenario<br>común.<br>- Ampliar la base de conocimiento sobre los impactos del cambio climático en el territorio de la<br>Comunitat Valenciana, promoviendo la sectorización del entorno y el aprovechamiento de la<br>evaluación de los datos obtenidos aplicando técnicas de inteligencia artificial, que permita<br>hacer prospectiva y ser proactivos como administraciones públicas.<br>- Incentivar la participación de la sociedad civil y de los sectores privados en la identificación<br>de oportunidades y amenazas, poniendo a su disposición los datos obtenidos por los sistemasLey 6/202219 de 83<br>de monitorización del medio ambiente de la Generalitat, de acuerdo con la gobernanza de<br>datos de la Generalitat.<br>- Efectuar un seguimiento de la evaluación de los efectos del cambio climático sobre el<br>empleo y la actividad económica. |
+| Áreas estratégicas | - Agua y recursos hídricos<br>- Suelos y desertificación<br>- Biodiversidad, áreas protegidas y servicios ecosistémicos<br>- Servicios ambientales de los sistemas agrícolas, sistemas agrícolas periurbanos<br>- Reducción del riesgo de desastres<br>- Energía<br>- Salud<br>- Forestal, caza y pesca<br>- Agricultura, ganadería, acuicultura<br>- Ordenación del territorio, urbanismo, ciudad, edificación y vivienda<br>- Movilidad e infraestructuras viarias, ferroviarias, portuarias y aeroportuarias<br>- Industria y comercio<br>- Turismo<br>- Litoral<br>- Seguros y finanzas<br>- Educación, sociedad y estilos de vida<br>- Migraciones asociadas al cambio climático                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Contenido mínimo   | - Los escenarios climáticos de referencia, partiendo de las proyecciones climáticas disponibles<br>en cada momento.<br>- El análisis de la resiliencia del territorio haciendo especial  incidencia en los sistemas forestales, agrícolas, litorales y fluviales y su conectividad, así como las medidas necesarias para asegurar su fortaleza.<br>- El análisis económico, social y ambiental de los principales impactos previstos en los escenarios climáticos por áreas estratégicas.<br>- Los riesgos y las posibles vulnerabilidades de la ciudadanía y de los diferentes sectores y ecosistemas ante el cambio climático, así como un análisis de su capacidad de adaptación.<br>- Las medidas específicas de adaptación para cada una de las áreas estratégicas y los ámbitos territoriales considerados vulnerables.<br>- Las medidas de fomento para la participación de la iniciativa privada en las acciones de adaptación.<br>- Las líneas de investigación e innovación prioritarias en materia de adaptación. <br>- La previsión financiera y la programación temporal de las medidas de adaptación.<br>- Los instrumentos para el seguimiento, evaluación del programa y cumplimiento de los objetivos de adaptación, así como los mecanismos de corrección previstos en el caso de desvío de estos objetivos.     |
 
 
-|                    | Programa de mitigación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Áreas estratégicas | a) Industria.<br>b) Agricultura, ganadería, acuicultura y pesca.<br>c) Edificación y vivienda.<br>d) Energía.<br>e) Residuos.<br>f) Transporte y movilidad.<br>g) Usos del suelo, cambios del suelo y silvicultura.<br>h) Turismo.<br>i) Comercio.<br>j) Administraciones públicas.<br>k) Universidades y centros educativos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Contenido mínimo   | a) El análisis económico, social y ambiental de los impactos de la transición energética por áreas estratégicas.<br>b) La planificación energética de la Comunitat Valenciana para al menos las próximas dos décadas.<br>c) Un presupuesto de carbono quinquenal, de carácter indicativo, coherente con los objetivos<br>de reducción de emisiones de gases de efecto invernadero,  mediante el cual se establecerá el volumen de carbono disponible para la economía valenciana en su conjunto.<br>d) Objetivos y contribuciones cuantitativas a nivel autonómico y sectorial de reducción de emisiones y absorciones por los sumideros y de los presupuestos de carbono en el marco de la planificación estatal.<br>e) Objetivos de ahorro y eficiencia energética y penetración de energías renovables, garantizando la contribución a estos objetivos de todos los sectores de la economía.<br>f) Políticas y medidas específicas para alcanzar dichos objetivos.<br>g) La previsión financiera y la programación temporal de las medidas de mitigación de emisiones y transición energética.<br>h) Mecanismo de seguimiento del programa, su evaluación y prórroga. |
+|                    | Programa de mitigación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Áreas estratégicas | - Industria<br>- Agricultura, ganadería, acuicultura y pesca<br>- Edificación y vivienda<br>- Energía<br>- Residuos<br>- Transporte y movilidad<br>- Usos del suelo, cambios del suelo y silvicultura<br>- Turismo<br>- Comercio<br>- Administraciones públicas<br>- Universidades y centros educativos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Contenido mínimo   | - El análisis económico, social y ambiental de los impactos de la transición energética por áreas estratégicas.<br>- La planificación energética de la Comunitat Valenciana para al menos las próximas dos décadas.<br>- Un presupuesto de carbono quinquenal, de carácter indicativo, coherente con los objetivos<br>de reducción de emisiones de gases de efecto invernadero,  mediante el cual se establecerá el volumen de carbono disponible para la economía valenciana en su conjunto.<br>- Objetivos y contribuciones cuantitativas a nivel autonómico y sectorial de reducción de emisiones y absorciones por los sumideros y de los presupuestos de carbono en el marco de la planificación estatal.<br>- Objetivos de ahorro y eficiencia energética y penetración de energías renovables, garantizando la contribución a estos objetivos de todos los sectores de la economía.<br>- Políticas y medidas específicas para alcanzar dichos objetivos.<br>- La previsión financiera y la programación temporal de las medidas de mitigación de emisiones y transición energética.<br>- Mecanismo de seguimiento del programa, su evaluación y prórroga. |
 
 
-|                  | Programa de concienciación social y capacitación socioeconómica                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Contenido mínimo | a) Acciones de comunicación, diferenciando las zonas urbanas del litoral de las zonas<br>forestales del interior, para sensibilizar, concienciar y mejorar el conocimiento sobre cambio<br>climático en la Comunitat Valenciana, así como para capacitar a la ciudadanía en los<br>comportamientos que le permitan transitar hacia un estilo de vida bajo en carbono.<br>b) Acciones de educación ambiental, formación y transferencia de conocimiento en materia de<br>mitigación y adaptación al cambio climático. Se prestará especial atención a las acciones<br>formativas del sistema educativo valenciano, así como a aquellas acciones de información y<br>comunicación especialmente dirigidas a aquellos públicos a los que es más difícil llegar a<br>través de los canales de comunicación habituales, así como a la infancia y a la adolescencia.<br>c) Acciones de información, formación, capacitación, asesoramiento y orientación para<br>proyectos de desarrollo local sostenible vinculados a la protección de la naturaleza, a laLey 6/202221 de 83<br>economía circular y al desarrollo de fuentes de energía renovables en los municipios rurales del<br>interior de la Comunitat Valenciana.<br>d) Acciones de voluntariado ambiental en materia de cambio climático.<br>e) Herramientas y procedimientos para el acceso público a la información sobre cambio<br>climático y sus efectos.<br>f) Líneas de participación y colaboración de la sociedad civil en la lucha contra el cambio<br>climático.<br>g) La previsión financiera y la programación temporal de las medidas.<br>h) Los instrumentos para el seguimiento y la evaluación del programa, incluyendo los de la<br>incorporación de los principios de igualdad de género y la diversidad de colectivos y<br>situaciones.<br>i) Identificación y coordinación de aquellos agentes clave en la realización de tareas de<br>comunicación y participación.<br>j) Acciones formativas para personas trabajadoras en la gestión de los riesgos desde la<br>perspectiva climática en los centros de trabajo, que fomenten la corresponsabilidad como<br>actores clave en la ejecución y propuesta de buenas prácticas en empresas. |
+|                  | Programa de concienciación social y capacitación socioeconómica                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contenido mínimo | - Acciones de comunicación, diferenciando las zonas urbanas del litoral de las zonas<br>forestales del interior, para sensibilizar, concienciar y mejorar el conocimiento sobre cambio<br>climático en la Comunitat Valenciana, así como para capacitar a la ciudadanía en los<br>comportamientos que le permitan transitar hacia un estilo de vida bajo en carbono.<br>- Acciones de educación ambiental, formación y transferencia de conocimiento en materia de<br>mitigación y adaptación al cambio climático. Se prestará especial atención a las acciones<br>formativas del sistema educativo valenciano, así como a aquellas acciones de información y<br>comunicación especialmente dirigidas a aquellos públicos a los que es más difícil llegar a<br>través de los canales de comunicación habituales, así como a la infancia y a la adolescencia.<br>- Acciones de información, formación, capacitación, asesoramiento y orientación para<br>proyectos de desarrollo local sostenible vinculados a la protección de la naturaleza, a laLey 6/202221 de 83<br>economía circular y al desarrollo de fuentes de energía renovables en los municipios rurales del<br>interior de la Comunitat Valenciana.<br>- Acciones de voluntariado ambiental en materia de cambio climático.<br>- Herramientas y procedimientos para el acceso público a la información sobre cambio<br>climático y sus efectos.<br>- Líneas de participación y colaboración de la sociedad civil en la lucha contra el cambio<br>climático.<br>- La previsión financiera y la programación temporal de las medidas.<br>- Los instrumentos para el seguimiento y la evaluación del programa, incluyendo los de la<br>incorporación de los principios de igualdad de género y la diversidad de colectivos y<br>situaciones.<br>- Identificación y coordinación de aquellos agentes clave en la realización de tareas de<br>comunicación y participación.<br>- Acciones formativas para personas trabajadoras en la gestión de los riesgos desde la<br>perspectiva climática en los centros de trabajo, que fomenten la corresponsabilidad como<br>actores clave en la ejecución y propuesta de buenas prácticas en empresas. |
 
 
 
@@ -145,12 +145,9 @@ Los presupuestos de carbono, sobre una base científica, se fijarán de forma qu
 Para establecer cada presupuesto de carbono se deberán tener en cuenta, entre otros factores, los impactos sobre los diferentes sectores y el potencial técnico de reducción de emisiones de cada uno, las circunstancias económicas y sociales, la competitividad y la política energética.
 
 
-Los presupuestos de carbono serán públicos y accesibles por vía telemática en la página
-web de la conselleria competente en materia de cambio climático y a través del portal de
-transparencia.
+Los presupuestos de carbono serán públicos y accesibles por vía telemática en la página web de la conselleria competente en materia de cambio climático y a través del portal de transparencia.
 
-Artículo 16. Objetivos de reducción de emisiones de gases de efecto invernadero,
-energías renovables y eficiencia energética
+Artículo 16. Objetivos de reducción de emisiones de gases de efecto invernadero, energías renovables y eficiencia energética
 
 El Plan valenciano integrado de energía y cambio climático tendrá que prever las cuotas quinquenales de reducción de emisiones de gases de efecto invernadero con el fin de conseguir progresivamente, tomando como base de cálculo en 1990, los siguientes objetivos:
 - **2030**: reducción mínima del 40% 
@@ -171,7 +168,7 @@ El Plan valenciano integrado de energía y cambio climático será aprobado por 
 
 El Consejo Asesor y de Participación de Medio Ambiente y el Comité de Expertos de Cambio Climático de la Comunitat Valenciana informarán de manera previa a su aprobación. Así mismo, el Consejo Asesor y de Participación informará del seguimiento del Plan en los informes intermedios y, al finalizar, conocerá los resultados e impulsará recomendaciones y nuevas medidas.
 
-La elaboración del Plan corresponderá a la conselleria competente en materia de cambio climático y transición ecológica, quien garantizará en su elaboración la participación real y efectiva de la ciudadanía, así como de las administraciones públicas afectadas, dando cumplimiento a las obligaciones en materia de participación pública en la toma de decisiones ambientales derivadas de la normativa en vigor en esta materia.
+La elaboración del Plan corresponderá a la Conselleria, quien garantizará en su elaboración la participación real y efectiva de la ciudadanía, así como de las administraciones públicas afectadas, dando cumplimiento a las obligaciones en materia de participación pública en la toma de decisiones ambientales derivadas de la normativa en vigor en esta materia.
 
 La Conselleria de medio ambiente realizará evaluaciones intermedias con periodicidad anual, evaluando el cumplimiento de los objetivos, programas, actuaciones e indicadores y proponiendo, en su caso, recomendaciones y nuevas medidas para su cumplimiento.
 
@@ -199,8 +196,6 @@ Cuando sea obligatoria la formulación de un plan de movilidad, de acuerdo con l
 
 Los ayuntamientos elaborarán y aprobarán, cada dos años, un informe sobre el grado de cumplimiento de sus PACES.
 
-
-Artículo 19. Planificación de las instalaciones de energías renovables
 
 El Consell debe establecer la planificación de las instalaciones destinadas a la producción de energías renovables, de acuerdo con los requerimientos y los procedimientos establecidos en el texto refundido de la Ley de ordenación del territorio, urbanismo y paisaje (Decreto legislativo 1/2021, y la normativa sectorial que le sea de aplicación.
 
@@ -230,26 +225,20 @@ Artículo 45. Integración en el sistema eléctrico de las energías renovables
 
 La producción de energía eléctrica mediante energías renovables se podrá complementar con la hibridación de diferentes tecnologías, así como con la instalación de equipos de almacenamiento energético con el fin de proporcionar capacidad de gestión, asegurar la calidad del suministro y optimizar tanto el uso de la red existente como el desarrollo de nueva red para su integración.
 
-La conselleria competente coordinará con el operador del sistema eléctrico y los gestores de
-red de distribución la integración en este de los equipos de almacenamiento energético
-asociados a instalaciones de generación renovable, así como a otras necesidades del sistema
-eléctrico de la Comunidad Valenciana. Estos equipos se podrán declarar de utilidad pública y
-tendrán en todo caso consideración de instalaciones eléctricas a efectos de los artículos 54 y
-siguientes de la Ley 24/2013, de 26 de diciembre, del sector eléctrico.
+La conselleria competente coordinará con el operador del sistema eléctrico y los gestores de red de distribución la integración en este de los equipos de almacenamiento energético asociados a instalaciones de generación renovable, así como a otras necesidades del sistema eléctrico de la Comunidad Valenciana. Estos equipos se podrán declarar de utilidad pública y
+tendrán en todo caso consideración de instalaciones eléctricas a efectos de los artículos 54 y siguientes de la Ley 24/2013, de 26 de diciembre, del sector eléctrico.
+
+
 Artículo 46. Adecuación de las redes eléctricas
-7. La planificación y el desarrollo de las redes de distribución de energía eléctrica situadas en la
-Comunitat Valenciana han de permitir la integración de la energía renovable en estas redes.
-8. La conselleria competente en materia de energía, en el marco de la participación de la
-Comunitat Valenciana en el proceso de planificación estatal de la red de transporte de energía
-eléctrica, debe promover la adecuación de esta red para la integración de la energía renovable.
-9. Los titulares de las redes de distribución y transporte de energía eléctrica, en las condiciones
-establecidas en la normativa vigente, deben proporcionar información técnica sobre líneas, subestaciones o nodos de las redes, con el fin de permitir la evaluación de la viabilidad de los
-emplazamientos para instalaciones de generación renovable.
+La planificación y el desarrollo de las redes de distribución de energía eléctrica situadas en la Comunitat Valenciana han de permitir la integración de la energía renovable en estas redes.
+
+La Conselleria competente en materia de energía, en el marco de la participación de la Comunitat Valenciana en el proceso de planificación estatal de la red de transporte de energía eléctrica, debe promover la adecuación de esta red para la integración de la energía renovable.
+
+Los titulares de las redes de distribución y transporte de energía eléctrica, en las condiciones establecidas en la normativa vigente, deben proporcionar información técnica sobre líneas, subestaciones o nodos de las redes, con el fin de permitir la evaluación de la viabilidad de los emplazamientos para instalaciones de generación renovable.
 
 Las actuaciones reguladas en los puntos anteriores deben ser llevadas a cabo teniendo encuenta la definición de las zonas de desarrollo prioritario definidas en el artículo 48 siguiente y han de incluir una previsión del calendario de desarrollo de red.
 
 Los titulares de las redes de distribución y transporte de energía eléctrica, con el objetivo de llevar a cabo una gestión eficiente y flexible tanto de la misma red como de los diferentes recursos energéticos conectados a ella, así como disponer de un sistema eléctrico más resiliente ante las situaciones meteorológicas y climáticas adversas, deben promover la digitalización y automatización de estas redes.
-
 
 
 Sección 2.ª. Ubicación de las instalaciones y tramitación de proyectos
@@ -257,21 +246,18 @@ Artículo 47. Ubicación de las instalaciones
 
 Las instalaciones de energía renovable, así como sus líneas de evacuación y los refuerzos de red necesarios, se adecuarán a las normas territoriales y urbanísticas y se les reconocerá el uso  ompatible con los usos propios del suelo no urbanizable común. Se favorecerá la implantación de  stas instalaciones en las zonas de desarrollo prioritario, según lo previsto en el artículo 19.
 
-
-
 Artículo 48. Zonas de desarrollo prioritario
 
  Son zonas de desarrollo prioritario aquellas unidades territoriales, delimitadas mediante instrumentos de planeamiento urbanístico y territorial de ámbito supramunicipal, donde las instalaciones de energía renovable, así como sus líneas de evacuación y los refuerzos de red necesarios, tienen la consideración de uso admitido a efectos de la legislación territorial y urbanística, sin perjuicio de lo establecido en el artículo 47 en relación con el uso compatible de este tipo de instalaciones en suelo no urbanizable común. La condición de uso admitido se ha de aplicar directamente y el planeamiento urbanístico lo ha de respetar.
 
 La planificación (artículo 19) puede definir la ubicación de las zonas de desarrollo prioritario, así como la tipología, las dimensiones y otras características de las instalaciones aptas para cada zona, considerando los aspectos siguientes:
-- a) La suficiencia de la fuente de energía.
-- b) La aptitud ambiental y territorial para acoger las instalaciones.
-- c) La baja productividad o interés agrario de la zona.
-- d) La disponibilidad o proximidad de capacidad de red para evacuar la energía generada, o las
--  infraestructuras de red que resultarían necesarias.
-- e) La orografía, extensión, accesibilidad y otras características de la zona y su entorno.
-- f) La preservación de paisajes protegidos o especialmente representativos.
-- g) Las necesidades energéticas de los municipios afectados.
+- Suficiencia de la fuente de energía.
+- Aptitud ambiental y territorial para acoger las instalaciones.
+- Baja productividad o interés agrario de la zona.
+- Disponibilidad o proximidad de capacidad de red para evacuar la energía generada, o las infraestructuras de red que resultarían necesarias.
+- Orografía, extensión, accesibilidad y otras características de la zona y su entorno.
+- Preservación de paisajes protegidos o especialmente representativos.
+- Necesidades energéticas de los municipios afectados.
 
 En la definición de las zonas de desarrollo prioritario hay que contar con la participación de los ayuntamientos.
 
@@ -279,13 +265,9 @@ La planificación referida en el artículo 19 de esta ley debe garantizar que la
 
 En los procedimientos para la determinación de estas zonas, la Conselleria competente en materia de ordenación del territorio debe emitir previamente un informe.
 
-En la indicación de la tipología de instalación que se puede ubicar en zonas de desarrollo prioritario, se establecerán las posibilidades de hibridación de esta con otras tecnologías renovables cuando las condiciones de conexión a las redes de transporte ofrezcan oportunidades de explotación de dichas plantas de producción de energía y siempre que la
-hibridación no suponga un perjuicio ambiental y paisajístico o que contravenga las normativas
-que regulan la protección especial de los suelos y del entorno. En cualquier caso, será
-necesaria la autorización administrativa correspondiente para su instalación.
+En la indicación de la tipología de instalación que se puede ubicar en zonas de desarrollo prioritario, se establecerán las posibilidades de hibridación de esta con otras tecnologías renovables cuando las condiciones de conexión a las redes de transporte ofrezcan oportunidades de explotación de dichas plantas de producción de energía y siempre que la hibridación no suponga un perjuicio ambiental y paisajístico o que contravenga las normativas que regulan la protección especial de los suelos y del entorno. En cualquier caso, será necesaria la autorización administrativa correspondiente para su instalación.
 
-Artículo 49. Simplificación de la tramitación de instalaciones de generación renovable y
-de autoconsumo
+Artículo 49. Simplificación de la tramitación de instalaciones de generación renovable y de autoconsumo
 
 Las administraciones públicas, en el ámbito de sus competencias, y también las empresas distribuidoras y transportistas de electricidad, deberán establecer protocolos adecuados para  implificar y agilizar la ejecución de los proyectos de energía renovable y de autoconsumo y su conexión a las redes energéticas, así como las instalaciones de evacuación y de refuerzo de la red.
 
@@ -293,38 +275,24 @@ Artículo 50. Tramitación de instalaciones de generación renovable
 
 Las instalaciones de generación renovable deberán disponer de la autorización administrativa de la dirección general competente en materia de energía con las excepciones previstas expresamente por la legislación sectorial.
 
- No serán necesarias la previa autorización administrativa ni la autorización administrativa de
-construcción para las instalaciones de generación eléctrica mediante energías renovables de
-hasta 100 kW de potencia instalada, ni para las instalaciones de producción de pequeña
-potencia en el marco de lo establecido en el Decreto ley 14/2020, de 7 de agosto, del Consell,
-de medidas para acelerar la implantación de instalaciones para el aprovechamiento de las
-energías renovables por la emergencia climática y la necesidad de la urgente reactivación
-económica.
-18. A efectos de su tramitación y autorización, las instalaciones de evacuación se consideran
-parte integrante de las correspondientes instalaciones de energías renovables.
+ No serán necesarias la previa autorización administrativa ni la autorización administrativa de construcción para las instalaciones de generación eléctrica mediante energías renovables de hasta 100 kW de potencia instalada, ni para las instalaciones de producción de pequeña potencia en el marco de lo establecido en el Decreto ley 14/2020, de 7 de agosto, del Consell, de medidas para acelerar la implantación de instalaciones para el aprovechamiento de las energías renovables por la emergencia climática y la necesidad de la urgente reactivación económica.
+
+A efectos de su tramitación y autorización, las instalaciones de evacuación se consideran parte integrante de las correspondientes instalaciones de energías renovables.
+
 Artículo 51. Participación local en instalaciones de generación renovable
-19. Las administraciones públicas de la Comunitat Valenciana deben incentivar la participación
-local en instalaciones de energía renovable y promover la capacitación de la ciudadanía, las
-comunidades de energía renovables, las comunidades ciudadanas de energía y otras
-entidades de la sociedad civil para fomentar la participación en el desarrollo y la gestión de los
-sistemas de energía renovable.
-20. A efectos de esta ley, se consideran proyectos de generación renovable con participación
-local los promovidos por entidades que sean consideradas comunidades de energía renovable
-y comunidades ciudadanas de energía, de acuerdo con la normativa europea.
-21. Los proyectos de energías renovables con participación local tienen la consideración de
-proyectos de interés para la Comunitat Valenciana, de acuerdo con lo establecido en la Ley
-19/2018, de 13 de julio, de la Generalitat, de aceleración de la inversión a proyectos prioritarios,
+ 
+Las administraciones públicas de la Comunitat Valenciana deben incentivar la participación local en instalaciones de energía renovable y promover la capacitación de la ciudadanía, las comunidades de energía renovables, las comunidades ciudadanas de energía y otras entidades de la sociedad civil para fomentar la participación en el desarrollo y la gestión de los sistemas de energía renovable.
+
+A efectos de esta ley, se consideran proyectos de generación renovable con participación local los promovidos por entidades que sean consideradas comunidades de energía renovable y comunidades ciudadanas de energía, de acuerdo con la normativa europea.
+
+Los proyectos de energías renovables con participación local tienen la consideración de proyectos de interés para la Comunitat Valenciana, de acuerdo con lo establecido en la Ley 19/2018, de 13 de julio, de la Generalitat, de aceleración de la inversión a proyectos prioritarios,
 con los efectos regulados en el artículo 4 de esta.
-22. El Consell, por decreto, ha de crear una bolsa de terrenos donde sus propietarios los puedan
-poner a disposición para el desarrollo de proyectos de energías renovables. El desarrollo
-reglamentario de esta ley debe regular sus criterios y requisitos, teniendo en cuenta la
-interoperabilidad de esta bolsa con otros registros ya existentes y con la información
-cartográfica.
+
+El Consell, por decreto, ha de crear una bolsa de terrenos donde sus propietarios los puedan poner a disposición para el desarrollo de proyectos de energías renovables. El desarrollo reglamentario de esta ley debe regular sus criterios y requisitos, teniendo en cuenta la interoperabilidad de esta bolsa con otros registros ya existentes y con la información cartográfica.
+
 Artículo 52. Establecimiento del derecho de superficie
-23. Las administraciones públicas podrán constituir un derecho de superficie sobre patrimonio de
-su titularidad a favor de cooperativas, comunidades de energía renovable o comunidades
-ciudadanas de energía legalmente constituidas para el desarrollo de proyectos de generación
-de energías renovables o almacenamiento energético.
+
+Las administraciones públicas podrán constituir un derecho de superficie sobre patrimonio desu titularidad a favor de cooperativas, comunidades de energía renovable o comunidades ciudadanas de energía legalmente constituidas para el desarrollo de proyectos de generación de energías renovables o almacenamiento energético.
 
  El derecho de superficie para esta finalidad solo se podrá conceder mediante concurso público reservado para este tipo de entidades, y se deberá establecer necesariamente en las bases 
 - La determinación exacta de los bienes sobre los cuales se constituye el derecho de superficie.
@@ -337,72 +305,45 @@ de energías renovables o almacenamiento energético.
 
 Sección 3.ª. Aplicaciones específicas de las energías renovables
 Artículo 53. Generación en puntos de consumo aislados
-26. Las nuevas edificaciones que constituyan puntos de consumo aislado o aquellas que tengan
-un cambio de uso en suelo no urbanizable tendrán que cubrir la totalidad de su consumo
-eléctrico mediante generación renovable de autoconsumo siempre que no exista posibilidad de
-conexión a la red eléctrica, sin perjuicio de que se puedan instalar sistemas de apoyo o de
-emergencia que utilicen combustibles fósiles.
-27. Lo dispuesto en el apartado anterior no se aplicará a las edificaciones, construcciones e
-instalaciones legales vinculadas a las actividades agrarias. Las administraciones públicas de la
-Comunitat Valenciana promoverán la sustitución de grupos electrógenos por sistemas de
-generación renovable.
+
+Las nuevas edificaciones que constituyan puntos de consumo aislado o aquellas que tengan un cambio de uso en suelo no urbanizable tendrán que cubrir la totalidad de su consumo eléctrico mediante generación renovable de autoconsumo siempre que no exista posibilidad de conexión a la red eléctrica, sin perjuicio de que se puedan instalar sistemas de apoyo o de emergencia que utilicen combustibles fósiles.
+
+Lo dispuesto en el apartado anterior no se aplicará a las edificaciones, construcciones e instalaciones legales vinculadas a las actividades agrarias. Las administraciones públicas de la Comunitat Valenciana promoverán la sustitución de grupos electrógenos por sistemas de generación renovable.
+
+
 Artículo 54. Autoconsumo
-28. Las administraciones públicas fomentarán el autoconsumo de energías renovables.
-29. Se crea el Registro Administrativo de Autoconsumo, cuya organización y funcionamiento se
-establecerá por decreto del Consell.
-30. Las instalaciones de generación para autoconsumo energético podrán ser para el uso de un
-único consumidor o compartidas entre varios consumidores, de acuerdo con la normativa
-básica estatal de aplicación. En este sentido, las administraciones públicas valencianas
-fomentarán preferentemente las comunidades energéticas de autoconsumo de energía
-renovable.
+
+Las administraciones públicas fomentarán el autoconsumo de energías renovables.
+
+Se crea el Registro Administrativo de Autoconsumo, cuya organización y funcionamiento se establecerá por decreto del Consell.
+
+Las instalaciones de generación para autoconsumo energético podrán ser para el uso de un único consumidor o compartidas entre varios consumidores, de acuerdo con la normativa básica estatal de aplicación. En este sentido, las administraciones públicas valencianas fomentarán preferentemente las comunidades energéticas de autoconsumo de energía renovable.
+
+
 Artículo 55. Aprovechamiento de los grandes aparcamientos en superficie y de cubiertas
-31. Los espacios destinados en las plazas de estacionamiento de todos los nuevos
-aparcamientos de titularidad privada en suelo urbano situados en superficie que ocupen un
-área total superior a 1.000 metros cuadrados se han de cubrir con placas de generación solar
-fotovoltaica destinadas al autoconsumo de las instalaciones asociadas al aparcamiento.
-32. En las instalaciones de titularidad privada con aparcamiento en superficie en suelo urbano
-que ocupe un área total de 1.500 metros cuadrados o más, y disponga de una potencia
-contratada de 50 kW o más, se ha de incorporar generación solar fotovoltaica para
-autoconsumo, bien en el espacio de aparcamiento, bien en la cubierta de las instalaciones.
-33. Se debe cubrir con placas solares de generación fotovoltaica los espacios destinados a las
-plazas de estacionamiento de todos los aparcamientos de titularidad pública en suelo urbano
-situados en superficie que ocupen un área total superior a 1.000 metros cuadrados.
-34. Las administraciones públicas valencianas pueden establecer obligaciones de incorporación
-de generación renovable en aparcamientos situados en suelo no urbano.Ley 6/202237 de 83
-35. Sin perjuicio de lo establecido en la normativa básica estatal, se debe incorporar generación
-solar fotovoltaica para las cubiertas de las siguientes edificaciones:
-a) Edificios residenciales plurifamiliares y viviendas unifamiliares.
-b) Construcciones de uso dotacional, industrial o terciario, de titularidad pública o privada, con
-una superficie en planta superior a 250 metros cuadrados. Esta disposición se ha de aplicar en
-edificaciones, edificios o viviendas unifamiliares de nueva construcción y en los que sean
-objeto de una reforma integral o cambio de uso. Se establece la posibilidad de instalar estos
-sistemas en ubicaciones alternativas como fachadas en la misma parcela. Quedan
-exceptuadas aquellas edificaciones, edificios o viviendas con cubierta de fibrocemento y en
-aquellos casos en los que las sombras proyectadas hagan inviable la instalación, lo cual se
-debe justificar mediante un estudio técnico.
-36. De manera excepcional, el organismo competente en la autorización de la correspondiente
-actuación puede determinar la exención o limitación de las obligaciones establecidas en este
-artículo por motivos de inviabilidad técnica o de protección del paisaje o del patrimonio cultural,
-con el informe previo favorable del ayuntamiento correspondiente.
-37. En edificaciones o cubiertas industriales con una superficie en planta inferior o igual a 1.000
-metros cuadrados con techos no aptos para la implantación de instalaciones fotovoltaicas, se
-debe favorecer la sustitución por techos que sean aptos para estas, a través de incentivos
-fiscales o líneas de apoyo específicas para este tipo de reformas.
-38. Para facilitar la integración de proyectos de generación renovable en entornos urbanizados y
-conseguir una mayor penetración de renovables en cubiertas y aparcamientos, cuando sea
-necesaria la conexión de las diferentes partes de un mismo proyecto para asegurar la viabilidad
-económica y que esta se tenga que hacer a través de suelo público, el Consell ha de facilitar
-las servidumbres. Por decreto del Consell se deben definir los criterios y el procedimiento.
-39. Las administraciones públicas deben fomentar las instalaciones fotovoltaicas para todo tipo
-de empresas en los términos establecidos en la legislación vigente. Lo dispuesto en los
-apartados anteriores se entiende sin perjuicio de lo establecido en el Decreto ley 14/2020, de 7
-de agosto, del Consell, de medidas para acelerar la implantación de instalaciones para el
-aprovechamiento de las energías renovables por la emergencia climática y la necesidad de la
-reactivación económica urgente.
+
+Los espacios destinados en las plazas de estacionamiento de todos los nuevos aparcamientos de titularidad privada en suelo urbano situados en superficie que ocupen un área total superior a 1.000 metros cuadrados se han de cubrir con placas de generación solar fotovoltaica destinadas al autoconsumo de las instalaciones asociadas al aparcamiento.
+
+En las instalaciones de titularidad privada con aparcamiento en superficie en suelo urbano que ocupe un área total de 1.500 metros cuadrados o más, y disponga de una potencia contratada de 50 kW o más, se ha de incorporar generación solar fotovoltaica para autoconsumo, bien en el espacio de aparcamiento, bien en la cubierta de las instalaciones.
+
+Se debe cubrir con placas solares de generación fotovoltaica los espacios destinados a las plazas de estacionamiento de todos los aparcamientos de titularidad pública en suelo urbano situados en superficie que ocupen un área total superior a 1.000 metros cuadrados.
+
+Las administraciones públicas valencianas pueden establecer obligaciones de incorporación de generación renovable en aparcamientos situados en suelo no urbano.
+
+Sin perjuicio de lo establecido en la normativa básica estatal, se debe incorporar generación solar fotovoltaica para las cubiertas de las siguientes edificaciones:
+- Edificios residenciales plurifamiliares y viviendas unifamiliares.
+- Construcciones de uso dotacional, industrial o terciario, de titularidad pública o privada, con una superficie en planta superior a 250 metros cuadrados. Esta disposición se ha de aplicar en edificaciones, edificios o viviendas unifamiliares de nueva construcción y en los que sean objeto de una reforma integral o cambio de uso. Se establece la posibilidad de instalar estos sistemas en ubicaciones alternativas como fachadas en la misma parcela. Quedan exceptuadas aquellas edificaciones, edificios o viviendas con cubierta de fibrocemento y en aquellos casos en los que las sombras proyectadas hagan inviable la instalación, lo cual se debe justificar mediante un estudio técnico.
+
+De manera excepcional, el organismo competente en la autorización de la correspondiente actuación puede determinar la exención o limitación de las obligaciones establecidas en este artículo por motivos de inviabilidad técnica o de protección del paisaje o del patrimonio cultural, con el informe previo favorable del ayuntamiento correspondiente.
+
+En edificaciones o cubiertas industriales con una superficie en planta inferior o igual a 1.000 metros cuadrados con techos no aptos para la implantación de instalaciones fotovoltaicas, se debe favorecer la sustitución por techos que sean aptos para estas, a través de incentivos fiscales o líneas de apoyo específicas para este tipo de reformas.
+
+Para facilitar la integración de proyectos de generación renovable en entornos urbanizados y conseguir una mayor penetración de renovables en cubiertas y aparcamientos, cuando sea necesaria la conexión de las diferentes partes de un mismo proyecto para asegurar la viabilidad económica y que esta se tenga que hacer a través de suelo público, el Consell ha de facilitar las servidumbres. Por decreto del Consell se deben definir los criterios y el procedimiento.
+
+Las administraciones públicas deben fomentar las instalaciones fotovoltaicas para todo tipo de empresas en los términos establecidos en la legislación vigente. Lo dispuesto en los apartados anteriores se entiende sin perjuicio de lo establecido en el Decreto ley 14/2020, de 7 de agosto, del Consell, de medidas para acelerar la implantación de instalaciones para el aprovechamiento de las energías renovables por la emergencia climática y la necesidad de la reactivación económica urgente.
+
 Artículo 56. Parámetros urbanísticos
-Las instalaciones de producción de energía renovable situadas en aparcamientos en suelo
-urbano o sobre cubierta, así como los apoyos y los elementos auxiliares necesarios, no
-computarán urbanísticamente en ocupación, en edificabilidad, en distancia a hitos ni en altura.
+Las instalaciones de producción de energía renovable situadas en aparcamientos en suelo urbano o sobre cubierta, así como los apoyos y los elementos auxiliares necesarios, no computarán urbanísticamente en ocupación, en edificabilidad, en distancia a hitos ni en altura.
 
 
 CAPÍTULO IV
@@ -411,10 +352,7 @@ Artículo 57. Gestión de la demanda
 
 El Consell regulará sistemas de gestión de la demanda eléctrica para adecuarla a la disponibilidad de generación renovable y a la infraestructura de transporte y distribución eléctrica (de acuerdo a la normativa básica y en coordinación con el operador del sistema eléctrico).
 
-A tal efecto, podrá establecer obligaciones mínimas de gestión para los sistemas de
-acumulación de energía eléctrica, para los grandes consumidores, para los agregadores de
-demanda o para los consumos que por sus características sean susceptibles 
-
+A tal efecto, podrá establecer obligaciones mínimas de gestión para los sistemas de acumulación de energía eléctrica, para los grandes consumidores, para los agregadores de demanda o para los consumos que por sus características sean susceptibles 
 
 
 ### Movilidad libre de emisiones
@@ -427,18 +365,11 @@ Las administraciones públicas y las empresas estarán obligadas, en el momento 
 
 Las empresas de alquiler de vehículos, así como las grandes y medianas empresas que sustituyan anualmente más del 30 % de sus vehículos, al renovar sus flotas, cumplirán con los porcentajes mínimos de adquisición o de alquiler de vehículos libres de emisiones establecidos en el anexo II de esta ley. Este anexo podrá ser modificado por el Consell mediante decreto.
 
-3. La regla anterior es aplicable a empresas con actividad económica, bien porque su sede,
-domicilio social, delegación o establecimiento permanente se sitúen en el ámbito territorial de la
-Comunidad Valenciana, bien porque desarrollen su actividad económica en este ámbito aunque
-no tengan sede, domicilio social, delegación o establecimiento permanente en esta comunidad
-y flota de vehículos con los cuales cuente para desarrollar su actividad económica en territorio
-valenciano, y únicamente respecto a vehículos turismos, motocicletas y ciclomotores.
-4. Las empresas a las cuales se refiere el apartado 2 de este artículo comunicarán a la
-administración competente la información necesaria para la verificación del cumplimiento de la
-obligación de renovación progresiva de sus flotas. Esta información podrá ser interoperable con
-los registros existentes en la Dirección General de Tráfico.
-Así mismo, estarán obligadas a identificar todas las unidades de que dispongan y a indicar si
-están libres de emisiones.
+La regla anterior es aplicable a empresas con actividad económica, bien porque su sede, domicilio social, delegación o establecimiento permanente se sitúen en el ámbito territorial de la Comunidad Valenciana, bien porque desarrollen su actividad económica en este ámbito aunque no tengan sede, domicilio social, delegación o establecimiento permanente en esta comunidad y flota de vehículos con los cuales cuente para desarrollar su actividad económica en territorio valenciano, y únicamente respecto a vehículos turismos, motocicletas y ciclomotores.
+
+Las empresas a las cuales se refiere el apartado 2 de este artículo comunicarán a la administración competente la información necesaria para la verificación del cumplimiento de la obligación de renovación progresiva de sus flotas. Esta información podrá ser interoperable con los registros existentes en la Dirección General de Tráfico.
+
+Así mismo, estarán obligadas a identificar todas las unidades de que dispongan y a indicar si están libres de emisiones.
 
 Artículo 64. Infraestructuras de recarga de vehículos eléctricos
 
@@ -486,57 +417,47 @@ Artículo 72. Ordenación del territorio y urbanismo
 
 Los nuevos instrumentos de ordenación del territorio y urbanismo de la Comunitat Valenciana deben incorporar los aspectos relacionados con el cambio climático desde la perspectiva de la reducción de los riesgos, la vulnerabilidad, el mantenimiento y el fomento de la biodiversidad, los sistemas naturales y los agrícolas, y el tráfico hacia un territorio neutro en carbono.
 
-En los núcleos urbanos han de atender a la atenuación del efecto isla de calor, el incremento
-del confort térmico y la reducción de las necesidades energéticas para climatización, mediante
-la introducción o potenciación de la vegetación y, cuando sea viable, de masas de agua.
-3. Para ello, deben utilizar la información y las tecnologías más apropiadas y avances en cada
-momento. Se han de considerar, entre otros, los siguientes aspectos:
+En los núcleos urbanos han de atender a la atenuación del efecto isla de calor, el incremento del confort térmico y la reducción de las necesidades energéticas para climatización, mediante la introducción o potenciación de la vegetación y, cuando sea viable, de masas de agua.
+
+Para ello, deben utilizar la información y las tecnologías más apropiadas y avances en cada momento. Se han de considerar, entre otros, los siguientes aspectos:
 
 - Incorporación de los riesgos climáticos (inundación, estrés térmico, estrés hídrico y protección de los acuíferos, pérdida de la biodiversidad, aumento del nivel del mar, etcétera) como factores condicionantes del medio físico.
 - b) Inclusión de las causas y efectos del cambio climático y la adaptación, en particular en el ámbito territorial y la planificación urbana, a través de una cartografía temática de resiliencia territorial, de impactos, vulnerabilidad y riesgo.
 - Promoción de la infraestructura verde y las soluciones basadas en la naturaleza, como mecanismos para regenerar los ecosistemas y para mantener y mejorar la resiliencia territorial y la salud de la población y, en general, reducir el riesgo ante el cambio climático.
-- d) Incorporación de la perspectiva climática en los planes de acción territorial sectoriales e integrados.
+- Incorporación de la perspectiva climática en los planes de acción territorial sectoriales e integrados.
 
 Así mismo, las administraciones públicas valencianas deben impulsar la adaptación de los planes territoriales parciales, planes territoriales sectoriales y planes generales de ordenación urbana desde la citada perspectiva de la reducción de los riesgos y el tráfico hacia un territorio neutro en carbono.
 
 Artículo 73. Agricultura, ganadería, pesca y acuicultura
+
 La planificación y actuaciones que desarrollan las administraciones públicas valencianas, en el ámbito de sus respectivas competencias, en relación con la actividad agrícola, ganadera y pesquera, tendrán en cuenta, al menos:
 
 - La evaluación de los riesgos para estos sectores y actividades y el territorio derivados del cambio climático, así como las medidas identificadas para la reducción de estos y las oportunidades que pueden aparecer para el sector.
 - La elaboración de un informe de vulnerabilidades de los cultivos y las especies animales de interés productivo más susceptibles de sufrir los impactos climáticos previstos.
 - La valorización de especies o variedades propias, principalmente autóctonas, que tengan más capacidad para adaptarse a las nuevas condiciones climáticas de acuerdo con trabajos genéticos y eco-fisiológicos, y el incremento de biodiversidad en los sistemas agrarios.
-- d) Fomento de programas de investigación para adaptar los diferentes cultivos al cambio climático.
-- e) Fomento de la investigación y el análisis de modelos dinámicos de simulación de los diferentes cultivos ante las diferentes variables climáticas y ambientales, y sobre todo ante la deficiencia hídrica.
-- f) El apoyo técnico necesario para el impulso y desarrollo de las mejores técnicas agronómicas en relación con el cambio climático, así como el fomento de programas de transferencia de investigación y conocimiento de las nuevas técnicas o prácticas de la actividad agropecuaria dirigida a los productores para que se adapten a este.
+- Fomento de programas de investigación para adaptar los diferentes cultivos al cambio climático.
+- Fomento de la investigación y el análisis de modelos dinámicos de simulación de los diferentes cultivos ante las diferentes variables climáticas y ambientales, y sobre todo ante la deficiencia hídrica.
+- El apoyo técnico necesario para el impulso y desarrollo de las mejores técnicas agronómicas en relación con el cambio climático, así como el fomento de programas de transferencia de investigación y conocimiento de las nuevas técnicas o prácticas de la actividad agropecuaria dirigida a los productores para que se adapten a este.
 
 
 Artículo 74. Salud pública
 
 La planificación en materia de salud deberá incluir el análisis específico de los riesgos para la salud de la ciudadanía producidos o intensificados por los cambios en las variables climáticas.
 
-Del mismo modo, a fin de actualizar los estudios que evalúen la vulnerabilidad y los riesgos a
-consecuencia del cambio climático en la Comunidad Valenciana, dirigidos a elaborar el
-programa de adaptación del Plan valenciano integrado de energía y cambio climático, la
-conselleria competente en salud deberá generar los informes que permitan valorar la incidencia
-del cambio climático sobre la salud.
-6. Las medidas que se adopten deben ir encaminadas a la prevención ante los efectos del
-cambio climático que puedan resultar adversos para la salud de las personas, incluyendo
-medidas relativas a las enfermedades transmitidas por vectores, a la calidad del agua y del
-aire, y a la protección frente a las olas de calor así como medidas en el ámbito alimentario, ante
-cualquier efecto del cambio climático que pueda afectar a la inocuidad de los alimentos y de
-difusión de los riesgos para la salud derivados de los efectos del cambio climático.
-7. Se adoptarán igualmente medidas destinadas a evaluar los riesgos de los trabajadores y de
-las condiciones laborales ante acontecimientos extremos y se adoptarán las medidas
-preventivas que correspondan.Ley 6/202245 de 83
-Artículo 75. Atención de emergencias, protección civil y seguridad
-8. La conselleria competente en materia de protección civil y emergencias incluirá en los planes
-de emergencia y de protección civil vigentes las modificaciones que provengan del incremento
-de la intensidad y la frecuencia de los fenómenos meteorológicos extremos.
-9. Así mismo, aprobará planes de contingencia precisos para que el Centro de Coordinación de
-Emergencias de la Generalitat y los servicios esenciales de atención de emergencias puedan
-responder a los riesgos derivados del cambio climático.
-10. El conseller o consellera competente en materia de seguridad incluirá en los planes de seguridad vigentes las modificaciones que procedan a consecuencia del incremento de la intensidad y la frecuencia de los fenómenos meteorológicos extremos, así como de los riesgos sociales y económicos del cambio climático.
+Del mismo modo, a fin de actualizar los estudios que evalúen la vulnerabilidad y los riesgos a consecuencia del cambio climático en la Comunidad Valenciana, dirigidos a elaborar el programa de adaptación del Plan valenciano integrado de energía y cambio climático, la conselleria competente en salud deberá generar los informes que permitan valorar la incidencia del cambio climático sobre la salud.
 
+Las medidas que se adopten deben ir encaminadas a la prevención ante los efectos del cambio climático que puedan resultar adversos para la salud de las personas, incluyendo medidas relativas a las enfermedades transmitidas por vectores, a la calidad del agua y del aire, y a la protección frente a las olas de calor así como medidas en el ámbito alimentario, ante cualquier efecto del cambio climático que pueda afectar a la inocuidad de los alimentos y de difusión de los riesgos para la salud derivados de los efectos del cambio climático.
+
+Se adoptarán igualmente medidas destinadas a evaluar los riesgos de los trabajadores y de las condiciones laborales ante acontecimientos extremos y se adoptarán las medidas preventivas que correspondan.
+
+
+Artículo 75. Atención de emergencias, protección civil y seguridad
+
+La Conselleria competente en materia de protección civil y emergencias incluirá en los planes de emergencia y de protección civil vigentes las modificaciones que provengan del incremento de la intensidad y la frecuencia de los fenómenos meteorológicos extremos.
+
+Así mismo, aprobará planes de contingencia precisos para que el Centro de Coordinación de Emergencias de la Generalitat y los servicios esenciales de atención de emergencias puedan responder a los riesgos derivados del cambio climático.
+
+El conseller o consellera competente en materia de seguridad incluirá en los planes de seguridad vigentes las modificaciones que procedan a consecuencia del incremento de la intensidad y la frecuencia de los fenómenos meteorológicos extremos, así como de los riesgos sociales y económicos del cambio climático.
 
 Artículo 76. Red de refugios climáticos
 
@@ -546,17 +467,16 @@ La Generalitat debe impulsar (en colaboración con los ayuntamientos) una red de
 
 
 Artículo 77. Biodiversidad y sector forestal
-11. Las administraciones públicas valencianas incorporarán la perspectiva de cambio climático
-en los instrumentos de ordenación de los recursos naturales y planificación y gestión de los
-espacios naturales protegidos. En ese sentido, las actuaciones tendrán que ir dirigidas a la
-conservación del patrimonio natural y a garantizar los servicios proporcionados por los
-ecosistemas para la mejora de la resiliencia del territorio ante los efectos del cambio climático.
-12. Debe garantizarse la gestión de la infraestructura verde en todas las escalas definida en las
-directrices de ordenación del territorio dados los criterios de su diseño.
+
+Las administraciones públicas valencianas incorporarán la perspectiva de cambio climático en los instrumentos de ordenación de los recursos naturales y planificación y gestión de los espacios naturales protegidos. En ese sentido, las actuaciones tendrán que ir dirigidas a la conservación del patrimonio natural y a garantizar los servicios proporcionados por los ecosistemas para la mejora de la resiliencia del territorio ante los efectos del cambio climático.
+
+Debe garantizarse la gestión de la infraestructura verde en todas las escalas definida en las directrices de ordenación del territorio dados los criterios de su diseño.
 
 Desde el planeamiento urbano se promoverá de manera prioritaria las soluciones naturales en:
-- a) La infraestructura verde urbana, como elemento dirigido a proteger la salud de la ciudadanía y la resiliencia ante fenómenos extremos.
-- b) Los espacios periurbanos, para construir la continuidad del medio urbano hacia el medio rural, y la infraestructura verde en suelo periurbano, para constituir un activo de primer orden para la resiliencia urbana y asegurar la permeabilización del suelo rural hacia el medio urbano.
+
+- **Infraestructura verde urbana**: elemento dirigido a proteger la salud de la ciudadanía y la resiliencia ante fenómenos extremos.
+
+- **Espacios periurbanos**: para construir la continuidad del medio urbano hacia el medio rural, y la infraestructura verde en suelo periurbano, para constituir un activo de primer orden para la resiliencia urbana y asegurar la permeabilización del suelo rural hacia el medio urbano.
 
 Las administraciones públicas competentes realizarán análisis de vulnerabilidad y riesgo de la Red Natura 2000 y de las zonas húmedas frente a los impactos del cambio climático, y promoverán e implementarán las medidas necesarias para adecuar su gestión al nuevo contexto climático. Así mismo, promoverán la interconectividad de los espacios catalogados en esta red.
 
@@ -584,8 +504,7 @@ Los aspectos a tener en cuenta deben ser al menos:
 - La reutilización y el aprovechamiento eficaz y sostenible de las aguas regeneradas y pluviales, a través de la creación de infraestructuras hidráulicas, como los tanques de tormentas o la instalación de redes separativas para la recogida de aguas pluviales.
 - La minimización de pérdidas de agua.
 - El fomento de los sistemas de drenaje sostenible en entornos urbanos basados en soluciones naturales y el sistema de infraestructura verde (SUDS).
-- El fomento de la depuración de aguas basados en soluciones naturales y el sistema de
-infraestructura verde.
+- El fomento de la depuración de aguas basados en soluciones naturales y el sistema de infraestructura verde.
 
 
 Artículo 79. Derecho humano de acceso al agua potable y el saneamiento
@@ -600,8 +519,7 @@ Las administraciones públicas, en el ámbito de sus competencias, deben tomar, 
 - Proteger las aguas y masas de agua para el consumo humano, reservando y asignando las de mejor calidad para esta finalidad.
 - Incluir en la planificación y gestión del ciclo urbano del agua el análisis y evaluación de los riesgos derivados del cambio climático, medidas de mitigación y adaptación, y aplicación de un enfoque del análisis y evaluación de los riesgos de contaminación y desabastecimiento del agua destinada a consumo humano.
 
-Artículo 80. Huella hídrica. Registro de Huella Hídrica de Productos, Servicios y
-Organizaciones
+Artículo 80. Huella hídrica. Registro de Huella Hídrica de Productos, Servicios y Organizaciones
 
 Se crea el registro público de la huella hídrica de productos, servicios y organizaciones, adscrito a la conselleria competente en materia de cambio climático, que tendrá por objeto la inscripción voluntaria de la huella de hídrica de los productos, servicios y organizaciones, entendida como herramienta para calcular y comunicar el consumo de recursos hídricos asociados al ciclo de vida de un producto, servicio u organización. El cálculo de la huella hídrica se regirá por los estándares aceptados internacionalmente.
 
@@ -618,122 +536,93 @@ La inscripción en el registro tendrá una validez por un periodo de tiempo mín
  La conselleria competente en materia de medio ambiente deberá elaborar, con una periodicidad no superior a dos años, la huella hídrica de la Comunidad Valenciana.
  
 Artículo 81. Zonas costeras
-30. Las administraciones públicas valencianas tendrán que avanzar de manera significativa en la
-reducción de los riesgos generados por la acción del clima en toda la línea del litoral
-valenciano, así como en la reducción de aquellos riesgos derivados de los cambios
-permanentes del nivel del mar, el aumento de temperatura del mar y su efecto en la
-climatología atmosférica, y adaptarse a los cambios en las actividades económicas y la
-explotación de los recursos (energía, pesca, marisquería, recursos algales, etc.).
-31. La conselleria competente en ordenación territorial procederá a la revisión del Plan de acción
-territorial de la infraestructura verde del litoral de la Comunidad Valenciana incorporando el
-conocimiento más actualizado existente sobre impactos y riesgos climáticos.
-32. Tras proceder a la identificación de los espacios, sectores y ámbitos más expuestos a
-riesgos en las zonas costeras, las administraciones competentes, en sintonía con el programa
-de adaptación al cambio climático establecido en el artículo 13, elaborarán sus planes de
-adaptación para la reducción de estos riesgos e implementarán las medidas identificadas. Para
-ello se realizará e incorporará la evaluación económica de las medidas y soluciones técnicas a
-adoptar, priorizándolas en base al criterio coste-beneficio, donde el beneficio tendrá en cuenta
-tanto la población, como los bienes materiales y el patrimonio natural afectado frente al coste
-económico de la adopción de las medidas.
+
+Las administraciones públicas valencianas tendrán que avanzar de manera significativa en la reducción de los riesgos generados por la acción del clima en toda la línea del litoral valenciano, así como en la reducción de aquellos riesgos derivados de los cambios permanentes del nivel del mar, el aumento de temperatura del mar y su efecto en la climatología atmosférica, y adaptarse a los cambios en las actividades económicas y la explotación de los recursos (energía, pesca, marisquería, recursos algales, etc.).
+
+La Conselleria competente en ordenación territorial procederá a la revisión del Plan de acción territorial de la infraestructura verde del litoral de la Comunidad Valenciana incorporando el conocimiento más actualizado existente sobre impactos y riesgos climáticos.
+
+Tras proceder a la identificación de los espacios, sectores y ámbitos más expuestos a riesgos en las zonas costeras, las administraciones competentes, en sintonía con el programa de adaptación al cambio climático establecido en el artículo 13, elaborarán sus planes de adaptación para la reducción de estos riesgos e implementarán las medidas identificadas. Para ello se realizará e incorporará la evaluación económica de las medidas y soluciones técnicas a adoptar, priorizándolas en base al criterio coste-beneficio, donde el beneficio tendrá en cuenta tanto la población, como los bienes materiales y el patrimonio natural afectado frente al coste económico de la adopción de las medidas.
+
+
 Artículo 82. Infraestructuras críticas
 
-Las entidades que promuevan la planificación y ejecución de los proyectos constructivos de
-nuevas infraestructuras críticas como puertos, aeropuertos, transporte, energía, residuos y agua, entre otras, deberán incorporar los aspectos de cambio climático en el marco de la evaluación ambiental de planes y proyectos, tal como queda recogido en esta ley.
+Las entidades que promuevan la planificación y ejecución de los proyectos constructivos de nuevas infraestructuras críticas como puertos, aeropuertos, transporte, energía, residuos y agua, entre otras, deberán incorporar los aspectos de cambio climático en el marco de la evaluación ambiental de planes y proyectos, tal como queda recogido en esta ley.
 
 Las entidades gestoras de las infraestructuras críticas deberán realizar:
-- Un análisis del riesgo climático, así como la identificación de las medidas necesarias a ejecutar para reducirlo en forma de documento de evaluación de riesgos, análisis de alternativas y plan de adaptación.
-- Un cálculo de las emisiones de gases de efecto invernadero generadas durante su uso, así como las medidas necesarias a ejecutar para avanzar hacia la neutralidad en carbono.
+
+- **Análisis del riesgo climático**, así como la identificación de las medidas necesarias a ejecutar para reducirlo en forma de documento de evaluación de riesgos, análisis de alternativas y plan de adaptación.
+- **Cálculo de las emisiones de gases de efecto invernadero** generadas durante su uso, así como las medidas necesarias a ejecutar para avanzar hacia la neutralidad en carbono.
 
 ### Sensibilización y difusión
 
-Reglamentariamente se establecerá un sistema de reconocimiento basado en sellos,
-distintivos o premios autonómicos para recompensar el compromiso de la ciudadanía, de las empresas y de las entidades públicas y privadas con la transición energética, el uso de energías renovables, los objetivos de ahorro y eficiencia energética, la mitigación del cambio climático o la igualdad en el ámbito de la energía.
+Reglamentariamente se establecerá un sistema de reconocimiento basado en sellos, distintivos o premios autonómicos para recompensar el compromiso de la ciudadanía, de las empresas y de las entidades públicas y privadas con la transición energética, el uso de energías renovables, los objetivos de ahorro y eficiencia energética, la mitigación del cambio climático o la igualdad en el ámbito de la energía.
 
 Reglamentariamente se establecerá y regulará el distintivo de municipio bajo en carbono, calificación que reconocerá a aquellos municipios que hayan conseguido más reducciones de emisiones o penetración de generación de energías renovables.
 
 
+Artículo 85. Programas de comunicación y educación ambiental sobre el cambio climático
 
-Artículo 85. Programas de comunicación y educación ambiental sobre el cambio
-climático
-Las administraciones públicas, con la colaboración de la conselleria competente en materia
-de cambio climático, promoverán programas de comunicación y educación ambiental sobre el
-cambio climático desde el conocimiento científico, para la adopción de medidas de mitigación y
-adaptación que se puedan aplicar desde los ámbitos público y privado.
+Las administraciones públicas, con la colaboración de la Conselleria competente en materia de cambio climático, promoverán programas de comunicación y educación ambiental sobre el cambio climático desde el conocimiento científico, para la adopción de medidas de mitigación y adaptación que se puedan aplicar desde los ámbitos público y privado.
 
-Los programas de comunicación y educación ambiental sobre el cambio climático se
-diseñarán desde la perspectiva sistémica de la Agenda 2030, de forma que se potenciarán las
-sinergias con todas las áreas educativas que promueven la sostenibilidad.
-5. Las administraciones públicas, con la colaboración de la conselleria competente en materia
-de cambio climático, promoverán programas de información y comunicación de todas aquellas
-medidas para la descarbonización que se llevan a cabo en ellas.
+Los programas de comunicación y educación ambiental sobre el cambio climático se diseñarán desde la perspectiva sistémica de la Agenda 2030, de forma que se potenciarán las sinergias con todas las áreas educativas que promueven la sostenibilidad.
+
+Las administraciones públicas, con la colaboración de la conselleria competente en materia de cambio climático, promoverán programas de información y comunicación de todas aquellas medidas para la descarbonización que se llevan a cabo en ellas.
+
+
 Artículo 86. Educación para el cambio climático
-6. La administración educativa debe promover la concienciación sobre el cambio climático en
-todos los niveles educativos obligatorios y no obligatorios, incluido el ámbito universitario, a
-través de acciones como:
-- a) Ser conscientes de que los recursos del planeta son limitados y de que los compartimos con el resto de los seres vivos, que no es posible el crecimiento infinito, sino que somos ecodependientes.
-- b) Promover la reflexión sobre la necesidad de cambiar nuestro estilo de vida en armonía con la naturaleza repensando nuestra manera de organizarnos, nuestro modelo de consumo, de energía, turismo y de movilidad sostenible.
+
+La administración educativa debe promover la concienciación sobre el cambio climático en todos los niveles educativos obligatorios y no obligatorios, incluido el ámbito universitario, a través de acciones como:
+
+
+- Ser conscientes de que los recursos del planeta son limitados y de que los compartimos con el resto de los seres vivos, que no es posible el crecimiento infinito, sino que somos ecodependientes.
+
+- Promover la reflexión sobre la necesidad de cambiar nuestro estilo de vida en armonía con la naturaleza repensando nuestra manera de organizarnos, nuestro modelo de consumo, de energía, turismo y de movilidad sostenible.
+
 - Empoderar a las personas para que se conviertan en agentes activos de cambio para construir comunidades justas y equitativas que persigan una buena vida no solo para los seres humanos, sino también para toda la biosfera, de la cual dependemos y formamos parte.
+
 - Fortalecer la resiliencia humana como la capacidad de adaptación positiva a los riesgos relacionados con el cambio climático y que nos ayuda a prepararnos para el reto de una transición ecológica.
 
-La administración educativa, con la colaboración de la conselleria competente en materia de
-cambio climático, debe incorporar en los currículums educativos y en la formación del
-profesorado, los contenidos, las nuevas metodologías y modelos de organización que
-resuelvan los retos y contribuyan al desarrollo de los objetivos para la ciudadanía global
-marcados en la Agenda 2030, con las especificidades de nuestro territorio.
+La administración educativa, con la colaboración de la conselleria competente en materia de cambio climático, debe incorporar en los currículums educativos y en la formación del profesorado, los contenidos, las nuevas metodologías y modelos de organización que resuelvan los retos y contribuyan al desarrollo de los objetivos para la ciudadanía global marcados en la Agenda 2030, con las especificidades de nuestro territorio.
 
-La administración educativa debe impulsar la implantación de titulaciones de formación
-profesional en las materias específicas objeto de esta ley.
+La administración educativa debe impulsar la implantación de titulaciones de formación profesional en las materias específicas objeto de esta ley.
+
+
 Artículo 87. Capacitación profesional
 
-La administración de la Generalitat promoverá la formación ocupacional en materia de
-cambio climático y transición ecológica, de manera dialogada con los agentes económicos y
-sociales. Así mismo, colaborará con los colegios y asociaciones profesionales para mejorar la
-formación de los profesionales en esta materia.
+La administración de la Generalitat promoverá la formación ocupacional en materia de cambio climático y transición ecológica, de manera dialogada con los agentes económicos y sociales. Así mismo, colaborará con los colegios y asociaciones profesionales para mejorar la formación de los profesionales en esta materia.
 
- De acuerdo con los principios de la transición justa, la Generalitat desarrollará políticas
-activas de empleo para favorecer la reconversión de aquellos puestos de trabajo asociados a
-sistemas energéticos intensivos en emisiones en otros vinculados a la transición energética,
-mediante la formación específica en materia de energías renovables y eficiencia energética, así
-como incorporar el diálogo social a la hora de establecer calendarios y medidas con impacto
-sobre el empleo.
+De acuerdo con los principios de la transición justa, la Generalitat desarrollará políticas activas de empleo para favorecer la reconversión de aquellos puestos de trabajo asociados a sistemas energéticos intensivos en emisiones en otros vinculados a la transición energética, mediante la formación específica en materia de energías renovables y eficiencia energética, así como incorporar el diálogo social a la hora de establecer calendarios y medidas con impacto sobre el empleo.
 
- La Generalitat hará un especial esfuerzo en la formación específica en materia de energías
-renovables y eficiencia energética, así como otros aspectos ambientales y de cambio climático
-como por ejemplo gestión de aguas, residuos, suelo y atmósfera, construcción sostenible y
-movilidad, entre otras, dirigida a la incorporación de las mujeres y los jóvenes a este ámbito
-profesional.
+La Generalitat hará un especial esfuerzo en la formación específica en materia de energías renovables y eficiencia energética, así como otros aspectos ambientales y de cambio climático como por ejemplo gestión de aguas, residuos, suelo y atmósfera, construcción sostenible y movilidad, entre otras, dirigida a la incorporación de las mujeres y los jóvenes a este ámbito profesional.
 
-La Generalitat impulsará la formación de los empleados públicos en materia de cambio
-climático.
+La Generalitat impulsará la formación de los empleados públicos en materia de cambio climático.
 
  La Generalitat, en el marco de las competencias que ostenta, promoverá:
-- a) La adaptación de los currículums vinculados a la formación profesional a la transición ecológica.
- - b) Medidas destinadas a la concienciación y divulgación para llamar la atención de los futuros profesionales sobre las oportunidades laborales que ofrece la transición ecológica.
+ 
+- La adaptación de los currículums vinculados a la formación profesional a la transición ecológica.
+- Medidas destinadas a la concienciación y divulgación para llamar la atención de los futuros profesionales sobre las oportunidades laborales que ofrece la transición ecológica.
 
 Se promoverá la difusión del conocimiento ambiental a través de la divulgación de las buenas prácticas que se estén realizando en las empresas, propiciando la transferencia de conocimientos desde el mundo científico y académico hacia el entorno social y laboral, mediante proyectos colaborativos entre universidades, institutos y centros tecnológicos, empresas y sindicatos.
 
 
 Artículo 88. Impulso y promoción de programas de investigación, desarrollo e
 innovación
-13. Las administraciones públicas valencianas, en el ámbito de sus respectivas competencias,
-deberán impulsar acciones destinadas a impulsar y promocionar programas de investigación e
-innovación que permita fomentar el conocimiento y la educación ambiental y estimular la
-implementación de prácticas sostenibles, la reducción de emisiones de gases de efecto
-invernadero y la adaptación al cambio climático.Ley 6/202251 de 83
-14. Con el fin de alcanzar estos objetivos, las administraciones públicas valencianas
-competentes en materia de educación, investigación, desarrollo e innovación y en materia de medio ambiente y cambio climático deberán coordinar sus actuaciones para integrar estos objetivos en sus instrumentos de planificación.
-15. Las consellerias competentes en materia de educación, investigación, desarrollo e
-innovación, medio ambiente y cambio climático deberán revisar y actualizar el  tratamiento del cambio climático en los diversos itinerarios formativos de la educación formal que fomento la capacitación de la ciudadanía para avanzar en la lucha contra el cambio climático y sus efectos, y que impulse la formación del profesorado para asumir los retos de futuro.
+
+Las administraciones públicas valencianas, en el ámbito de sus respectivas competencias, deberán impulsar acciones destinadas a impulsar y promocionar programas de investigación e innovación que permita fomentar el conocimiento y la educación ambiental y estimular la implementación de prácticas sostenibles, la reducción de emisiones de gases de efecto
+invernadero y la adaptación al cambio climático.
+
+Con el fin de alcanzar estos objetivos, las administraciones públicas valencianas competentes en materia de educación, investigación, desarrollo e innovación y en materia de medio ambiente y cambio climático deberán coordinar sus actuaciones para integrar estos objetivos en sus instrumentos de planificación.
+
+Las Consellerias competentes en materia de educación, investigación, desarrollo e innovación, medio ambiente y cambio climático deberán revisar y actualizar el  tratamiento del cambio climático en los diversos itinerarios  formativos de la educación formal que fomento la capacitación de la ciudadanía para avanzar en la lucha contra el cambio climático y sus efectos, y que impulse la formación del profesorado para asumir los retos de futuro.
 
 
 Artículo 89. Información sobre consumo energético de productos y servicios
 
  El Consell, en colaboración con las administraciones públicas y el sector privado, y en el marco de la regulación básica estatal y del ordenamiento europeo, podrá fomentar:
-- Los sistemas de etiquetado de emisiones asociadas a la producción y al transporte de productos y la prestación de servicios.
+- Sistemas de etiquetado de emisiones asociadas a la producción y al transporte de productos y la prestación de servicios.
 - La inclusión en el etiquetado de productos y servicios de la información relativa a las emisiones o al impacto ambiental.
 
-
-19. En el marco de la legislación básica estatal, el Consell podrá limitar la publicidad de aquellos productos o servicios que, por su elevado consumo energético o emisiones asociadas, resulten especialmente perniciosos para el medio ambiente.
+En el marco de la legislación básica estatal, el Consell podrá limitar la publicidad de aquellos productos o servicios que, por su elevado consumo energético o emisiones asociadas, resulten especialmente perniciosos para el medio ambiente.
 
 
 
@@ -744,40 +633,43 @@ Medidas de contratación pública
 
 Artículo 90. Disposiciones generales
 
-En el marco de la legislación de contratos del sector público, las administraciones públicas de la Comunitat Valenciana y las entidades que conforman sus respectivos sectores públicos, así como las instituciones de la Generalitat mencionadas en el artículo 20.3 del Estatuto de autonomía, promoverán la sostenibilidad energética y medioambiental, de acuerdo con los objetivos de la presente ley, en línea con lo establecido en la Ley 18/2018, de 13 de julio, de la Generalitat, para el fomento de la responsabilidad social.
+En el marco de la legislación de contratos del sector público, las administraciones públicas de la Comunitat Valenciana y las entidades que conforman sus respectivos sectores públicos, así como las instituciones de la Generalitat mencionadas en el artículo 20.3 del Estatuto de autonomía, promoverán la sostenibilidad energética y medioambiental (de acuerdo con los objetivos de la presente ley, en línea con lo establecido en la Ley 18/2018)
 
-2. A tal efecto incorporarán, siempre que el objeto del contrato lo permita, criterios de sostenibilidad y de eficiencia energética en la contratación. En caso contrario, los pliegos justificarán motivadamente la no inclusión de estos criterios.
-3. Las administraciones públicas introducirán como criterios de valoración, la inscripción de los licitadores en los registros públicos de huella hídrica de productos, servicios y organizaciones, huella de carbono y la reducción o la compensación de sus emisiones, siempre que guarde relación con el objeto del contrato, y en los términos establecidos en la legislación básica estatal.
-4. Las administraciones públicas fomentarán modalidades de contratación que permitan sufragar los costes de inversión mediante el ahorro generado con proveedores de servicios energéticos.
-5. Las administraciones públicas impulsarán la compra pública innovadora con el objetivo de promover el desarrollo de soluciones tecnológicas innovadoras en materia de mitigación y adaptación que favorezcan el tráfico hacia una economía baja en carbono y un territorio resiliente a efectos del cambio climático.
+A tal efecto incorporarán, siempre que el objeto del contrato lo permita, criterios de sostenibilidad y de eficiencia energética en la contratación. En caso contrario, los pliegos justificarán motivadamente la no inclusión de estos criterios.
+
+ Las administraciones públicas introducirán como criterios de valoración, la inscripción de los licitadores en los registros públicos de huella hídrica de productos, servicios y organizaciones, huella de carbono y la reducción o la compensación de sus emisiones, siempre que guarde relación con el objeto del contrato, y en los términos establecidos en la legislación básica estatal.
+
+Las administraciones públicas fomentarán modalidades de contratación que permitan sufragar los costes de inversión mediante el ahorro generado con proveedores de servicios energéticos.
+
+Las administraciones públicas impulsarán la compra pública innovadora con el objetivo de promover el desarrollo de soluciones tecnológicas innovadoras en materia de mitigación y adaptación que favorezcan el tráfico hacia una economía baja en carbono y un territorio resiliente a efectos del cambio climático.
 
 Artículo 91. Garantía del origen renovable del consumo eléctrico
-6. Las administraciones públicas de la Comunitat Valenciana garantizarán que los contratos de suministro eléctrico que estas liciten a partir de la entrada en vigor de la presente ley sean de energía certificada de origen 100% renovable. Las administraciones públicas de la Comunitat Valenciana, en la medida de lo posible, se autoabastecerán de energía eléctrica renovable a través de autoconsumo o de contratos bilaterales.
 
-7. Se promoverá la contratación bilateral de energía con productores de energía renovable, especialmente del ámbito territorial de la Comunitat Valenciana, de acuerdo con lo establecido en la normativa básica estatal y la normativa de contratación pública de aplicación.
+Las administraciones públicas de la Comunitat Valenciana garantizarán que los contratos de suministro eléctrico que estas liciten a partir de la entrada en vigor de la presente ley sean de energía certificada de origen 100% renovable. Las administraciones públicas de la Comunitat Valenciana, en la medida de lo posible, se autoabastecerán de energía eléctrica renovable a través de autoconsumo o de contratos bilaterales.
+
+Se promoverá la contratación bilateral de energía con productores de energía renovable, especialmente del ámbito territorial de la Comunitat Valenciana, de acuerdo con lo establecido en la normativa básica estatal y la normativa de contratación pública de aplicación.
 
 Artículo 92. Abandono de energías no renovables por parte de la administración
 
 
-Las administraciones públicas valencianas contemplarán la sustitución progresiva de las
-equipaciones situadas en sus edificios que utilicen energías fósiles por otras que funcionen con energías de origen renovable.
+Las administraciones públicas valencianas contemplarán la sustitución progresiva de las equipaciones situadas en sus edificios que utilicen energías fósiles por otras que funcionen con energías de origen renovable.
 
 
 Artículo 93. Obras públicas
 
 Las administraciones públicas de la Comunitat Valenciana incluirán en los pliegos de las licitaciones destinadas a contratos de obra o de concesiones de obra pública las siguientes prescripciones:
-a) De acuerdo con los requerimientos de la normativa estatal las nuevas edificaciones e
-instalaciones serán de consumo energético casi nulo.
-b) Las mencionadas edificaciones e instalaciones incluirán fuentes de energía renovable
-situadas en las mismas o en terrenos limítrofes o adyacentes, salvo que se justifique su
-inviabilidad técnica.
-c) Estas edificaciones e instalaciones incorporarán el uso de materiales de construcción de bajo impacto ambiental, preferentemente de origen local.
-d) La inclusión en los proyectos de construcción o reforma de edificaciones de una certificación de construcción sostenible que garantice, para su construcción, uso y desmantelamiento, la reducción de emisiones de gases de efecto invernadero, la eficiencia energética, el ahorro de agua y la reducción de los residuos.
-9. Las prescripciones anteriores también se aplicarán a los proyectos redactados o ejecutados por personal al servicio de las administraciones públicas o por sus medios propios.
-10. Corresponde a la conselleria competente en materia de cambio climático, con la
-colaboración de los sectores y las administraciones públicas afectadas, la elaboración de guías técnicas que permitan el adecuado cumplimiento de este artículo.
+
+- De acuerdo con los requerimientos de la normativa estatal las nuevas edificaciones e instalaciones serán de consumo energético casi nulo.
+- Las mencionadas edificaciones e instalaciones incluirán fuentes de energía renovable situadas en las mismas o en terrenos limítrofes o adyacentes, salvo que se justifique su inviabilidad técnica.
+- Estas edificaciones e instalaciones incorporarán el uso de materiales de  construcción de bajo impacto ambiental, preferentemente de origen local.
+- La inclusión en los proyectos de construcción o reforma de edificaciones de una certificación de construcción sostenible que garantice, para su construcción, uso y desmantelamiento, la reducción de emisiones de gases de efecto invernadero, la eficiencia energética, el ahorro de agua y la reducción de los residuos.
+
+Las prescripciones anteriores también se aplicarán a los proyectos redactados o ejecutados por personal al servicio de las administraciones públicas o por sus medios propios.
+
+Corresponde a la conselleria competente en materia de cambio climático, con la colaboración de los sectores y las administraciones públicas afectadas, la elaboración de guías técnicas que permitan el adecuado cumplimiento de este artículo.
 
 Artículo 94. Alquiler o adquisición de inmuebles
+
 Las administraciones públicas de la Comunitat Valenciana, para valorar la oferta económica más ventajosa en relación con el alquiler o la adquisición de inmuebles, incluirán necesariamente la cuantificación económica del consumo energético previsto.
 
 
@@ -898,20 +790,17 @@ Las autorizaciones de emisión de gases de efecto invernadero quedarán extingui
 
 - Cierre de la instalación
 - Falta de puesta en funcionamiento de la instalación transcurridos tres meses desde la fecha de inicio de actividad prevista en la autorización, salvo causa justificada declarada por el órgano competente para otorgar la autorización
-- En los supuestos de sanción, conforme a lo previsto en el artículo 30.1.a).3.º
+- En los supuestos de sanción (artículo 30.1.a).3.º)
 - Suspensión de la actividad de la instalación durante un plazo superior a un año. Excepcionalmente, el órgano competente podrá demorar la extinción de la autorización hasta que transcurra un plazo máximo de dieciocho meses de suspensión de la actividad, de acuerdo con lo previsto en la normativa reglamentaria de desarrollo de esta ley y en el Derecho de la Unión Europea.
 
-Las comunidades autónomas comunicarán a la Oficina Española de Cambio Climático, como órgano competente en materia de registro conforme al artículo 25.3, las resoluciones de otorgamiento, modificación y extinción de las autorizaciones en el plazo de diez días desde la fecha de la resolución.
+Las Comunidades Autónomas comunicarán a la Oficina Española de Cambio Climático, como órgano competente en materia de registro (artículo 25.3), las resoluciones de otorgamiento, modificación y extinción de las autorizaciones en el plazo de diez días desde la fecha de la resolución.
 
 
 #### Derechos de emisión
 
+El derecho de emisión se configura como:
 
-#### Derechos de emisión
-
-##### Artículo 9. Naturaleza jurídica de los derechos de emisión.
-
-El derecho de emisión se configura como el derecho subjetivo a liberar a la atmósfera una tonelada equivalente de dióxido de carbono desde una aeronave o desde una instalación incluida en el ámbito de aplicación de esta ley.
+>el derecho subjetivo a liberar a la atmósfera una tonelada equivalente de dióxido de carbono desde una aeronave o desde una instalación incluida en el ámbito de aplicación de esta ley.
 
 La titularidad originaria de la totalidad de los derechos de emisión que se otorguen de manera gratuita a instalaciones ubicadas en territorio español y a los operadores aéreos cuya gestión corresponda a España, y la titularidad de los derechos de emisión subastados, corresponden a la Administración General del Estado, que los asignará, enajenará o suprimirá de conformidad con lo establecido en esta ley.
 
@@ -929,8 +818,6 @@ El periodo de comercio 2021-2030 se divide, en el ámbito de las instalaciones f
 
 
 #### Asignación de derechos de emisión
-
-#### Sección 1.ª Subasta
 
 La subasta es el método básico de asignación (de conformidad con la normativa de la Unión Europea). El porcentaje de derechos de emisión que se subasten será aquel que determine la Comisión Europea en aplicación de la normativa de la Unión Europea.
 
@@ -963,15 +850,12 @@ Sin perjuicio de lo dispuesto en los párrafos primero y segundo de este apartad
 
 No obstante, en el caso de la electricidad producida mediante la combustión de gases residuales cuya emisión en el proceso de producción industrial no pueda ser evitada, reglamentariamente, de conformidad con lo previsto por la normativa de la Unión Europea, y siempre que dicha normativa así lo autorice, se asignarán derechos de emisión de forma gratuita a los titulares de las instalaciones de combustión de los gases residuales o a los titulares de las instalaciones de origen de dichos gases.
 
-Se asignarán derechos de emisión de forma gratuita a la calefacción urbana y a la cogeneración de alta eficiencia, tal y como se define en la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, respecto de la producción de calor o refrigeración con objeto de satisfacer una demanda justificada desde el punto de vista económico. En cada anualidad, la asignación total a este tipo de instalaciones para la producción de calor se adaptará de acuerdo con las normas de la Unión Europea.
+Se asignarán derechos de emisión de forma gratuita a la calefacción urbana y a la cogeneración de alta eficiencia (Directiva 2012/27/UE). En cada anualidad, la asignación total a este tipo de instalaciones para la producción de calor se adaptará de acuerdo con las normas de la Unión Europea.
 
 De acuerdo con lo establecido en la normativa de la Unión Europea, no se asignará ningún derecho de forma gratuita a una instalación que haya cesado de funcionar, a menos que el titular de la instalación demuestre a la autoridad competente que dicha instalación reanudará la producción en un plazo especificado y razonable.
 
-##### Artículo 17. Reglas de asignación.
 
 La metodología de asignación gratuita transitoria se regirá por las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión, así como por la normativa de desarrollo de esta ley que pudiera establecerse.
-
-##### Artículo 18. Nuevos entrantes.
 
 Una cantidad de derechos de emisión será reservada como asignación gratuita para los nuevos entrantes en el periodo 2021-2030, de conformidad con lo establecido en la normativa de la Unión Europea. Esta reserva de nuevos entrantes es común y única para toda la Unión y se regirá por la normativa de esta.
 
@@ -1006,7 +890,13 @@ Las resoluciones sobre la asignación individualizada de derechos de emisión se
 #### CAPÍTULO VI
 
 #### Obligaciones de seguimiento y notificación de las emisiones y de los niveles de actividad para las instalaciones fijas y verificación de datos y acreditación de los verificadores
+
+
+
 #### Obligaciones de seguimiento y notificación de las emisiones y de los niveles de actividad para las instalaciones fijas
+
+
+
 
 #### Sección 1.ª Obligaciones de seguimiento y notificación de las emisiones y de los niveles de actividad para las instalaciones fijas
 y acreditación de los verificadores
@@ -1020,7 +910,7 @@ Reglamentariamente se determinarán los aspectos relacionados con el plan metodo
 
 ##### Artículo 22. Notificación de información.
 
-El titular de la instalación deberá remitir al órgano autonómico competente, antes del 28 de febrero de cada año, el informe verificado sobre las emisiones del año precedente, que se ajustará a lo exigido en la autorización, según lo dispuesto en el artículo 4.2.e) y en la parte A del anexo III.
+El titular de la instalación deberá remitir al órgano autonómico competente, antes del 28 de febrero de cada año, el informe verificado sobre las emisiones del año precedente, que se ajustará a lo exigido en la autorización, (artículo 4.2.e) y en la parte A del anexo III).
 
 El titular de la instalación que tenga otorgada asignación gratuita de derechos de emisión deberá remitir a la Oficina Española de Cambio Climático, antes del 28 de febrero de cada año, un informe de nivel de actividad verificado de las subinstalaciones en las que esté dividida su instalación, en los términos establecidos en la normativa de la Unión Europea y en la normativa de desarrollo de esta ley.
 
@@ -1070,9 +960,9 @@ Criterios de la verificación
 Las emisiones de cada actividad enumerada en el anexo I estarán sujetas a verificación.
 
 El proceso de verificación incluirá el examen del informe elaborado de conformidad con el artículo 22 y del seguimiento del año anterior. Estudiará la fiabilidad, crédito y exactitud de los sistemas de seguimiento y de los datos e información notificados relativos a las emisiones, en especial:
-- a) Los datos de la actividad notificados y las mediciones y cálculos relacionados.
-- La elección y uso de factores de emisión.
-- Los cálculos en que se haya basado la determinación de las emisiones globales.
+- Datos de la actividad notificados y las mediciones y cálculos relacionados.
+- Factores de emisión: elección y uso.
+- Cálculos en que se haya basado la determinación de las emisiones globales.
 - Si se ha recurrido a la medición, la conveniencia de esta opción y el uso de métodos de medición.
 
 Las emisiones notificadas sólo se validarán si se aportan datos e información fidedignos y dignos de crédito que permitan la determinación de las emisiones con un alto grado de certeza, para lo cual el titular tendrá que demostrar lo siguiente:
@@ -1087,9 +977,11 @@ El verificador tendrá en cuenta si la instalación está registrada en el siste
 
 #### Metodología
 
-- Análisis estratégico: La verificación se basará en un análisis estratégico de todas las actividades llevadas a cabo en la instalación, por lo que el verificador deberá tener una visión general de todas las actividades y de su importancia para las emisiones.
-- Análisis de procesos: La verificación de la información presentada se llevará a cabo, cuando proceda, en el emplazamiento de la instalación. El verificador recurrirá a inspecciones in situ para determinar la fiabilidad de los datos y la información notificados.
-- Análisis de riesgos: El verificador someterá todas las fuentes de emisiones de la instalación a una evaluación en relación con la fiabilidad de los datos de todas las fuentes que contribuyan a las emisiones globales de la instalación.
+- **Análisis estratégico**: La verificación se basará en un análisis estratégico de todas las actividades llevadas a cabo en la instalación, por lo que el verificador deberá tener una visión general de todas las actividades y de su importancia para las emisiones.
+
+- **Análisis de procesos**: La verificación de la información presentada se llevará a cabo, cuando proceda, en el emplazamiento de la instalación. El verificador recurrirá a inspecciones in situ para determinar la fiabilidad de los datos y la información notificados.
+
+- **Análisis de riesgos**: El verificador someterá todas las fuentes de emisiones de la instalación a una evaluación en relación con la fiabilidad de los datos de todas las fuentes que contribuyan a las emisiones globales de la instalación.
 
 Partiendo de este análisis, el verificador determinará explícitamente las fuentes que presenten un alto riesgo de errores y otros aspectos del procedimiento de seguimiento y notificación que pudieran contribuir a errores en la determinación de las emisiones globales, lo que implica en especial la elección de los factores de emisión y de los cálculos necesarios para determinar las emisiones de fuentes aisladas. Se atenderá sobre todo a las fuentes que presenten un alto riesgo de error y a los aspectos mencionados más arriba del procedimiento de seguimiento.
 
@@ -1103,9 +995,9 @@ Requisitos mínimos de competencia del verificador:
 
 El verificador será independiente del titular, llevará a cabo sus actividades de manera profesional, competente y objetiva y estará al tanto de:
 
- - a) Las disposiciones de esta Ley, así como, en su caso, de las normas y directrices pertinentes adoptadas por la Comisión Europea y la normativa de desarrollo.
- - b) Los requisitos legales, reglamentarios y administrativos aplicables a las actividades verificadas.
- - c) La generación de toda la información relacionada con cada fuente de emisiones de la instalación, en especial la relativa a la recogida, medición, cálculo y notificación de los datos.
+ - Las disposiciones de esta Ley, así como, en su caso, de las normas y directrices pertinentes adoptadas por la Comisión Europea y la normativa de desarrollo.
+ - Los requisitos legales, reglamentarios y administrativos aplicables a las actividades verificadas.
+ - La generación de toda la información relacionada con cada fuente de emisiones de la instalación, en especial la relativa a la recogida, medición, cálculo y notificación de los datos.
 
 
 
@@ -1117,11 +1009,11 @@ Reglamentariamente se establecerá el plazo de presentación de las solicitudes 
 
 La solicitud de exclusión deberá presentarse al órgano competente que designe la comunidad autónoma. Vendrá acompañada de documentación justificativa que acredite el cumplimiento de las siguientes condiciones:
 
-a) Que se aplicarán medidas de mitigación que conduzcan a una contribución a la reducción de emisiones equivalente a la prevista por la participación en el régimen de comercio de derechos de emisión.
+- a) Que se aplicarán medidas de mitigación que conduzcan a una contribución a la reducción de emisiones equivalente a la prevista por la participación en el régimen de comercio de derechos de emisión.
 
-El Gobierno determinará mediante real decreto qué medidas de mitigación se consideran equivalentes a los efectos del párrafo anterior.
+	El Gobierno determinará mediante real decreto qué medidas de mitigación se consideran equivalentes a los efectos del párrafo anterior.
 
-b) Que se implantará un sistema de seguimiento y notificación de información sobre emisiones equivalentes a las previstas en esta ley.
+- b) Que se implantará un sistema de seguimiento y notificación de información sobre emisiones equivalentes a las previstas en esta ley.
 
 A este respecto, el órgano autonómico competente podrá autorizar medidas simplificadas de seguimiento, notificación y verificación para las instalaciones cuyas emisiones medias anuales verificadas entre 2008 y 2012 sean inferiores a 5.000 toneladas anuales.
 
@@ -1137,7 +1029,7 @@ Lo establecido en esta disposición adicional no exime a los titulares de las in
 
 En este caso, se entenderá extinguida la autorización de emisión de gases de efecto invernadero con fecha correspondiente al primer día del periodo de asignación en que va a estar excluida. La instalación excluida no recibirá derechos de emisión mientras permanezca en esa situación.
 
-5. Si una instalación excluida, cuando no se trate de un hospital, emitiera 25.000 toneladas equivalentes de dióxido de carbono o más, sin contabilizar las emisiones de la biomasa, en el transcurso de un mismo año civil o, sea cual sea la tipología de la instalación ya no se aplicaran a dicha instalación medidas que permitan conseguir una contribución equivalente a la reducción de emisiones, la instalación se introducirá de nuevo en el régimen.
+Si una instalación excluida, cuando no se trate de un hospital, emitiera 25.000 toneladas equivalentes de dióxido de carbono o más, sin contabilizar las emisiones de la biomasa, en el transcurso de un mismo año civil o, sea cual sea la tipología de la instalación ya no se aplicaran a dicha instalación medidas que permitan conseguir una contribución equivalente a la reducción de emisiones, la instalación se introducirá de nuevo en el régimen.
 
 Las instalaciones que se reintroduzcan en el régimen de comercio de derechos de emisión permanecerán en el mismo hasta la finalización del periodo de asignación en curso. De conformidad con las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión, la instalación podrá solicitar asignación. Todos los derechos que se le expidan se concederán a partir del año de la reintroducción. Los derechos expedidos a estas instalaciones se deducirán de la cantidad que vaya a ser subastada.
 

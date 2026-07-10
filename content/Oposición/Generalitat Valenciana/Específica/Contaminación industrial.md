@@ -265,9 +265,9 @@ Los fines son los siguientes:
 
 - Protección del medio ambiente: a) Obtener un alto nivel de protección del medio ambiente en su conjunto para la consecución del derecho a disfrutar de un medio ambiente adecuado, mediante la utilización de los instrumentos necesarios para prevenir, reducir, corregir y controlar los efectos ambientales de las actividades.
 
-- b) Garantizar la colaboración y coordinación de las administraciones públicas que deban intervenir para el establecimiento, explotación, traslado y modificación de las instalaciones o actividades comprendidas en la presente ley o de las características o funcionamiento de las mismas.
+- Garantizar la colaboración y coordinación de las administraciones públicas que deban intervenir para el establecimiento, explotación, traslado y modificación de las instalaciones o actividades comprendidas en la presente ley o de las características o funcionamiento de las mismas.
 
-- c) Facilitar la actividad productiva y económica a través de la racionalización y simplificación de los procedimientos, la integración de trámites administrativos que suponen demoras temporales en los procedimientos y la reducción de cargas administrativas. Para alcanzar este fin la presente ley contempla las siguientes actuaciones:
+- Facilitar la actividad productiva y económica a través de la racionalización y simplificación de los procedimientos, la integración de trámites administrativos que suponen demoras temporales en los procedimientos y la reducción de cargas administrativas. Para alcanzar este fin la presente ley contempla las siguientes actuaciones:
 
 	1.º Limitar las autorizaciones o licencias previas a los supuestos justificados por razones de interés general, conforme a criterios de necesidad, proporcionalidad y no discriminación, habida cuenta de los riesgos y peligros que para el medio ambiente se derivarían de la inexistencia de un control a priori.
 	
@@ -670,51 +670,51 @@ Artículo 43. Impugnación
 
 Los interesados podrán oponerse a los informes vinculantes emitidos en el procedimiento de concesión de la autorización ambiental integrada mediante la impugnación de la resolución administrativa que ponga fin al procedimiento, sin perjuicio de lo establecido en el artículo 107.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, para los casos en que impidiesen el otorgamiento de la autorización, en cuyo caso podrán ser recurridos, en vía judicial o administrativa, según corresponda, independientemente de la resolución que ponga fin al procedimiento.
 
-2. Cuando la declaración de impacto ambiental o los informes vinculantes emitidos sean favorables pero sometan la autorización a condiciones con las que no esté de acuerdo el solicitante, el recurso se interpondrá directamente contra la resolución del órgano que haya otorgado la autorización ambiental integrada. El órgano competente para resolver el recurso dará traslado del mismo a los órganos que hubiesen emitido dichos informes, con el fin de que presenten alegaciones en el plazo de quince días si lo estiman oportuno. De emitirse en plazo, las citadas alegaciones serán vinculantes para la resolución del recurso.
+Cuando la declaración de impacto ambiental o los informes vinculantes emitidos sean favorables pero sometan la autorización a condiciones con las que no esté de acuerdo el solicitante, el recurso se interpondrá directamente contra la resolución del órgano que haya otorgado la autorización ambiental integrada. El órgano competente para resolver el recurso dará traslado del mismo a los órganos que hubiesen emitido dichos informes, con el fin de que presenten alegaciones en el plazo de quince días si lo estiman oportuno. De emitirse en plazo, las citadas alegaciones serán vinculantes para la resolución del recurso.
 
-3. Si en el recurso contencioso-administrativo que se pudiera interponer contra la resolución que ponga fin a la vía administrativa se dedujeran pretensiones relativas a los informes preceptivos y vinculantes, la administración que los hubiera emitido tendrá la consideración de codemandada, conforme a lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa.
+Si en el recurso contencioso-administrativo que se pudiera interponer contra la resolución que ponga fin a la vía administrativa se dedujeran pretensiones relativas a los informes preceptivos y vinculantes, la administración que los hubiera emitido tendrá la consideración de codemandada, conforme a lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa.
 
 Artículo 44. Inicio de la actividad
 
-1. Una vez otorgada la autorización ambiental integrada y finalizada, en su caso, la construcción de las instalaciones y obras, el titular dispondrá de un plazo de cinco años o el que, en su caso, establezca la normativa básica estatal para iniciar la actividad, salvo que en la autorización se establezca un plazo distinto.
+Una vez otorgada la autorización ambiental integrada y finalizada, en su caso, la construcción de las instalaciones y obras, el titular dispondrá de un plazo de cinco años o el que, en su caso, establezca la normativa básica estatal para iniciar la actividad, salvo que en la autorización se establezca un plazo distinto.
 
-2. No podrá iniciarse la actividad sin que el titular presente una declaración responsable, de conformidad con el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, indicando la fecha de inicio de la actividad y el cumplimiento de las condiciones fijadas en la autorización.
+No podrá iniciarse la actividad sin que el titular presente una declaración responsable, de conformidad con el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, indicando la fecha de inicio de la actividad y el cumplimiento de las condiciones fijadas en la autorización.
 
-3. La declaración se formalizará de acuerdo con el modelo que a tal efecto se encuentre disponible en la página web de la consellería con competencias en materia de medio ambiente, y se acompañará de la siguiente documentación:
+La declaración se formalizará de acuerdo con el modelo que a tal efecto se encuentre disponible en la página web de la consellería con competencias en materia de medio ambiente, y se acompañará de la siguiente documentación:
 
-a) Certificado emitido por técnico competente de la ejecución del proyecto, en el que se especifique que la instalación y actividad se ajustan al proyecto técnico aprobado.
+- a) Certificado emitido por técnico competente de la ejecución del proyecto, en el que se especifique que la instalación y actividad se ajustan al proyecto técnico aprobado.
 
-b) Certificado e informe emitido por entidad colaboradora de la administración en materia de calidad ambiental acreditativo del cumplimiento de las condiciones fijadas en la autorización ambiental integrada.
+- b) Certificado e informe emitido por entidad colaboradora de la administración en materia de calidad ambiental acreditativo del cumplimiento de las condiciones fijadas en la autorización ambiental integrada.
 
-4. La administración dispondrá del plazo máximo de un mes desde la presentación de la declaración responsable para verificar la documentación presentada y/o efectuar oposición o reparos.
+La administración dispondrá del plazo máximo de un mes desde la presentación de la declaración responsable para verificar la documentación presentada y/o efectuar oposición o reparos.
 
 Transcurrido dicho plazo sin manifestación en contra del órgano sustantivo ambiental, podrá iniciarse el ejercicio de la actividad.
 
 La formulación de oposición o reparos impedirá el ejercicio de la actividad hasta que exista pronunciamiento expreso de conformidad por parte del órgano sustantivo ambiental.
 
-5. Cuando la autorización ambiental integrada hubiese contemplado una puesta en marcha provisional para la realización de pruebas de funcionamiento, el titular comunicará por escrito al órgano sustantivo ambiental el comienzo de las pruebas correspondientes, así como la duración de las mismas, con al menos diez días de antelación. El comienzo de las pruebas no implicará la conformidad del órgano sustantivo ambiental con el inicio del ejercicio de la actividad, debiendo formularse la declaración responsable a que se refiere el presente artículo, con los efectos previstos en el mismo, una vez finalizada la realización de las pruebas.
+Cuando la autorización ambiental integrada hubiese contemplado una puesta en marcha provisional para la realización de pruebas de funcionamiento, el titular comunicará por escrito al órgano sustantivo ambiental el comienzo de las pruebas correspondientes, así como la duración de las mismas, con al menos diez días de antelación. El comienzo de las pruebas no implicará la conformidad del órgano sustantivo ambiental con el inicio del ejercicio de la actividad, debiendo formularse la declaración responsable a que se refiere el presente artículo, con los efectos previstos en el mismo, una vez finalizada la realización de las pruebas.
 
-6. En el caso de actividades o instalaciones incluidas en el ámbito de aplicación del Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la norma básica de autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan dar origen a situaciones de emergencia, deberá presentarse, para su incorporación al expediente de autorización ambiental integrada, el plan de autoprotección, que se remitirá a los órganos competentes en materia de protección civil para el ejercicio de las funciones que les atribuye el citado real decreto.
+En el caso de actividades o instalaciones incluidas en el ámbito de aplicación del Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la norma básica de autoprotección de los centros, establecimientos y dependencias dedicados a actividades que puedan dar origen a situaciones de emergencia, deberá presentarse, para su incorporación al expediente de autorización ambiental integrada, el plan de autoprotección, que se remitirá a los órganos competentes en materia de protección civil para el ejercicio de las funciones que les atribuye el citado real decreto.
 
 CAPÍTULO III. Revisión de la autorización ambiental integrada y modificación de la instalación
 
 Artículo 45. Revisión de la autorización ambiental integrada
 
-1. A instancia del órgano sustantivo ambiental, el titular presentará toda la información que dicho órgano considere necesaria para la revisión de las condiciones de la autorización de entre las que contempla la presente ley para la solicitud de autorización. En su caso, se incluirán los resultados del control de las emisiones y otros datos que permitan una comparación del funcionamiento de la instalación con las mejores técnicas disponibles descritas en las conclusiones sobre las MTD aplicables y con los niveles de emisión asociados a ellas.
+A instancia del órgano sustantivo ambiental, el titular presentará toda la información que dicho órgano considere necesaria para la revisión de las condiciones de la autorización de entre las que contempla la presente ley para la solicitud de autorización. En su caso, se incluirán los resultados del control de las emisiones y otros datos que permitan una comparación del funcionamiento de la instalación con las mejores técnicas disponibles descritas en las conclusiones sobre las MTD aplicables y con los niveles de emisión asociados a ellas.
 
 Al revisar las condiciones de la autorización, el órgano sustantivo ambiental utilizará cualquier información obtenida a partir de los controles o inspecciones disponibles.
 
-2. En un plazo de cuatro años a partir de la publicación de las conclusiones relativas a las MTD en cuanto a la principal actividad de una instalación, las condiciones de la autorización deberán estar revisadas y, si fuera necesario, adaptadas. Deberá quedar garantizado que la instalación cumple las condiciones de la autorización, a cuyo efecto el órgano sustantivo ambiental podrá exigir al titular un informe de adecuación realizado por entidad acreditada colaboradora de la administración, informe que comprenderá todas las áreas medioambientales de la instalación.
+En un plazo de cuatro años a partir de la publicación de las conclusiones relativas a las MTD en cuanto a la principal actividad de una instalación, las condiciones de la autorización deberán estar revisadas y, si fuera necesario, adaptadas. Deberá quedar garantizado que la instalación cumple las condiciones de la autorización, a cuyo efecto el órgano sustantivo ambiental podrá exigir al titular un informe de adecuación realizado por entidad acreditada colaboradora de la administración, informe que comprenderá todas las áreas medioambientales de la instalación.
 
 La revisión tendrá en cuenta todas las conclusiones relativas a los documentos de referencia MTD aplicables a la instalación, desde que la autorización fuera concedida, actualizada o revisada.
 
-3. Cuando una instalación no esté cubierta por ninguna de las conclusiones relativas a las MTD, las condiciones de la autorización se revisarán y, en su caso, adaptarán cuando los avances en las mejores técnicas disponibles permitan una reducción significativa de las emisiones. Para dicha revisión podrá exigirse al titular el informe a que se refiere el apartado anterior.
+Cuando una instalación no esté cubierta por ninguna de las conclusiones relativas a las MTD, las condiciones de la autorización se revisarán y, en su caso, adaptarán cuando los avances en las mejores técnicas disponibles permitan una reducción significativa de las emisiones. Para dicha revisión podrá exigirse al titular el informe a que se refiere el apartado anterior.
 
-4. En cualquier caso, la autorización ambiental integrada será revisada de oficio en los supuestos establecidos por la normativa básica en materia de prevención y control integrados de la contaminación.
+En cualquier caso, la autorización ambiental integrada será revisada de oficio en los supuestos establecidos por la normativa básica en materia de prevención y control integrados de la contaminación.
 
-5. La revisión de la autorización ambiental integrada no dará derecho a indemnización y se tramitará por el procedimiento simplificado reglamentariamente establecido por la normativa básica estatal.
+La revisión de la autorización ambiental integrada no dará derecho a indemnización y se tramitará por el procedimiento simplificado reglamentariamente establecido por la normativa básica estatal.
 
-6. Las resoluciones administrativas mediante las que se hubieran revisado las autorizaciones ambientales integradas serán objeto de publicidad y notificación en los mismos términos establecidos para las resoluciones de la autorización.
+Las resoluciones administrativas mediante las que se hubieran revisado las autorizaciones ambientales integradas serán objeto de publicidad y notificación en los mismos términos establecidos para las resoluciones de la autorización.
 
 Artículo 46. Modificación de la instalación
 
@@ -752,11 +752,13 @@ En cualquier caso, el órgano sustantivo ambiental podrá fijar criterios más r
 Cuando la modificación de una instalación suponga una disminución de su capacidad de producción hasta quedar por debajo de los umbrales del anexo I dejará de ser exigible la autorización ambiental integrada, causando baja en el Registro Ambiental de Instalaciones de la Comunitat Valenciana. El titular lo comunicará al órgano que otorgó la autorización ambiental integrada para que proceda a remitir al ayuntamiento copia del expediente instruido y de la resolución de autorización ambiental integrada otorgada. Tales modificaciones serán objeto de publicación en el Diari Oficial de la Comunitat Valenciana.
 
 Para la adaptación al régimen de intervención administrativa ambiental que corresponda, se estará a lo establecido en la disposición adicional sexta de la presente ley.
+
+
 CAPÍTULO IV. Cese de la actividad y cierre de la instalación
 
 Artículo 47. Cese temporal de la actividad
 
-El titular de la autorización ambiental integrada deberá presentar, ante el órgano sustantivo ambiental, una comunicación previa al cese temporal o, en su caso, al cese definitivo de la actividad. En caso de tener varias actividades autorizadas, la comunicación indicará en cuál de ellas se produce el cese.
+El titular de la autorización ambiental integrada deberá presentar, ante el órgano sustantivo ambiental, una comunicación previa al cese de la actividad (temporal o definitivo). En caso de tener varias actividades autorizadas, la comunicación indicará en cuál de ellas se produce el cese.
 
 La duración del cese temporal no podrá superar los dos años desde su comunicación o el plazo que, en su caso, establezca la normativa básica estatal.
 
@@ -838,14 +840,16 @@ La caducidad, cuando proceda, será declarada formalmente por el órgano sustant
 
 **Artículo 76. Medidas de autocontrol**
 
-1. El órgano competente podrá exigir medidas de autocontrol ambiental a los titulares de las instalaciones que desarrollen alguna de las actividades sujetas a autorización ambiental integrada o licencia ambiental, previa audiencia a los mismos, con la finalidad de controlar la incidencia de dichas instalaciones en el medio ambiente. Los resultados de dicho autocontrol estarán en todo momento disponibles para la verificación por el citado órgano. El contenido, alcance y periodicidad de los autocontroles se establecerá en la propia autorización o licencia, o posteriormente a su concesión mediante resolución expresa, previa audiencia del interesado.
-2. Lo dispuesto en el presente artículo se entenderá sin perjuicio de la labor de inspección y vigilancia que puede llevar a cabo el órgano con competencias de inspección de calidad ambiental de la consellería competente en medio ambiente de acuerdo con lo dispuesto en el capítulo siguiente.
+El órgano competente podrá exigir medidas de autocontrol ambiental a los titulares de las instalaciones que desarrollen alguna de las actividades sujetas a autorización ambiental integrada o licencia ambiental, previa audiencia a los mismos, con la finalidad de controlar la incidencia de dichas instalaciones en el medio ambiente. Los resultados de dicho autocontrol estarán en todo momento disponibles para la verificación por el citado órgano. El contenido, alcance y periodicidad de los autocontroles se establecerá en la propia autorización o licencia, o posteriormente a su concesión mediante resolución expresa, previa audiencia del interesado.
+
+*Lo dispuesto en el presente artículo se entenderá sin perjuicio de la labor de inspección y vigilancia que puede llevar a cabo el órgano con competencias de inspección de calidad ambiental de la consellería competente en medio ambiente de acuerdo con lo dispuesto en el capítulo siguiente.*
+
 
 **CAPÍTULO II. Régimen de inspección**
 
 **Artículo 77. Inspección y sanción**
 
-La Consellería de medio ambiente, para el supuesto de autorizaciones ambientales integradas, y el ayuntamiento en que se ubique la correspondiente instalación, para los restantes instrumentos de intervención ambiental contemplados en esta ley, serán los órganos competentes para adoptar las medidas cautelares, así como para ejercer la potestad sancionadora y para garantizar el cumplimiento de los objetivos de esta ley y la normativa básica en materia de prevención y control integrados de la contaminación, sin perjuicio de la competencia estatal en esta materia respecto de los vertidos a cuencas gestionadas por la Administración General del Estado.
+La Conselleria de medio ambiente, para el supuesto de autorizaciones ambientales integradas, y el ayuntamiento en que se ubique la correspondiente instalación, para los restantes instrumentos de intervención ambiental contemplados en esta ley, serán los órganos competentes para adoptar las medidas cautelares, así como para ejercer la potestad sancionadora y para garantizar el cumplimiento de los objetivos de esta ley y la normativa básica en materia de prevención y control integrados de la contaminación, sin perjuicio de la competencia estatal en esta materia respecto de los vertidos a cuencas gestionadas por la Administración General del Estado.
 
 **Artículo 78. Ejercicio de la facultad inspectora**
 
@@ -896,7 +900,7 @@ En los términos que establezca la normativa básica en materia de prevención y
 
 Dichos planes incluirán una evaluación general de los problemas de medio ambiente más importantes, la zona geográfica cubierta por el plan de inspección y un registro de las instalaciones cubiertas por el plan, así como los procedimientos para elaborar los programas, tanto de inspecciones medioambientales prefijadas como de no prefijadas, incluyendo, en su caso, las disposiciones necesarias sobre la cooperación entre las diferentes autoridades responsables de la inspección.
 
-Basándose en dichos planes de inspección, el órgano competente elaborará regularmente programas de inspección medioambiental prefijada, que incluyan la frecuencia de las visitas _in situ_ a los emplazamientos para los distintos tipos de instalaciones. Entre los criterios para la evaluación sistemática de los riesgos medioambientales se tendrá en cuenta el historial de cumplimiento de las condiciones de la autorización, así como la participación del titular en el sistema de la Unión Europea de gestión y auditoría ambientales (EMAS), de conformidad con el Reglamento (CE) número 1221/2009 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2009, por el que se permite que las organizaciones se adhieran con carácter voluntario a un sistema comunitario de gestión y auditoría medioambientales (EMAS).
+Basándose en dichos planes de inspección, el órgano competente elaborará regularmente programas de inspección medioambiental prefijada, que incluyan la frecuencia de las visitas _in situ_ a los emplazamientos para los distintos tipos de instalaciones. Entre los criterios para la evaluación sistemática de los riesgos medioambientales se tendrá en cuenta el historial de cumplimiento de las condiciones de la autorización, así como la participación del titular en el sistema de la Unión Europea de gestión y auditoría ambientales (EMAS) (Reglamento 1221/2009).
 
 Se efectuarán inspecciones medioambientales no prefijadas para investigar denuncias sobre aspectos medioambientales, así como accidentes e incidentes medioambientales y casos de incumplimiento de las normas.
 
@@ -918,7 +922,7 @@ Antes de la iniciación del procedimiento sancionador el órgano competente, de 
 
 Dichas medidas provisionales serán acordadas mediante resolución motivada, previa audiencia del interesado por un plazo de cinco días. No obstante, cuando se aprecie peligro inminente para las personas se adoptarán las medidas provisionales sin necesidad de la citada audiencia previa, si bien, en el plazo de tres días tras la adopción de la citada medida y sin perjuicio de lo dispuesto en el siguiente apartado, se dará audiencia al interesado.
 
-De conformidad con el artículo 72 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, estas medidas deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción.
+*De conformidad con el artículo 72 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, estas medidas deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción.*
 
 Serán órganos competentes para adoptar estas medidas provisionales los que lo sean para el otorgamiento del correspondiente instrumento de intervención ambiental.
 
@@ -951,7 +955,7 @@ Lo previsto en el apartado anterior ha de entenderse sin perjuicio de las respon
 
 **Artículo 91. Responsabilidad**
 
-Serán responsables de las infracciones administrativas previstas en esta ley las personas físicas o jurídicas que incurran o que hayan participado en las acciones u omisiones tipificadas en la misma.
+Serán responsables de las infracciones administrativas las personas (físicas o jurídicas) que incurran o que hayan participado en las acciones u omisiones tipificadas en la misma.
 
 Las personas jurídicas serán sancionadas por las infracciones cometidas por sus órganos o agentes, y asumirán el coste de las medidas de reposición o restauración y de las indemnizaciones que procedan por daños y perjuicios a terceros o a la administración.
 
@@ -960,7 +964,6 @@ Cuando el cumplimiento de las obligaciones previstas en esta ley corresponda a v
 Cuando exista una pluralidad de responsables a título individual y no fuera posible determinar el grado de participación de cada uno en la realización de la infracción, responderán todos ellos de forma solidaria.
 
 **Artículo 92. Procedimiento**
-
 
 Las infracciones a lo dispuesto en la presente ley serán objeto de las sanciones administrativas correspondientes previa instrucción del oportuno procedimiento tramitado con arreglo a lo establecido en el capítulo II del título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, o en aquellas normas que los sustituyan.
 
@@ -1001,8 +1004,8 @@ Las infracciones tipificadas en la presente ley podrán dar lugar a la imposici�
 |            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Muy graves | a) Multa de 200.001 hasta 2.000.000 de euros respecto a las instalaciones o actividades sometidas a autorización ambiental integrada y multa de 50.001 hasta 300.000 euros respecto al resto de actividades.<br>b) Clausura definitiva, total o parcial, de las instalaciones.<br>c) Clausura temporal, total o parcial, de las instalaciones por un período no inferior a dos años ni superior a cinco.<br>d) Inhabilitación para el ejercicio de la actividad por un período no inferior a un año ni superior a dos.<br>e) Revocación de la autorización ambiental integrada o de la licencia ambiental, o suspensión de dichos instrumentos de intervención por un tiempo no inferior a un año ni superior a cinco.<br>f) Publicación, a través de los medios que se considere oportunos, de las sanciones impuestas, una vez que estas hayan adquirido firmeza en vía administrativa o, en su caso, jurisdiccional, así como los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables y la índole y naturaleza de las infracciones. |
-| Graves     | a) Multa desde 20.001 hasta 200.000 euros respecto a las instalaciones o actividades sometidas a autorización ambiental integrada y multa desde 2.001 hasta 50.000 euros respecto al resto de actividades.<br>b) Clausura temporal, total o parcial, de las instalaciones por un período máximo de dos años.<br>c) Inhabilitación para el ejercicio de la actividad por un período máximo de un año.<br>d) Revocación de la autorización ambiental integrada o de la licencia ambiental, o suspensión de dichos instrumentos de intervención por un período máximo de un año.<br>e) Imposición al titular de la obligación de adoptar las medidas complementarias que la autoridad competente estime necesarias para volver a asegurar el cumplimiento de las condiciones de la autorización ambiental integrada y para evitar la consecución de otros posibles incidentes o accidentes.                                                                                                                                                                                             |
-| Leves      | Multa de hasta 20.000 euros respecto a las instalaciones o actividades sometidas a autorización ambiental integrada y multa de hasta 2.000 euros respecto al resto de actividades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Graves     | - **Multa**: desde 20.001 hasta 200.000 euros respecto a las instalaciones o actividades sometidas a autorización ambiental integrada y multa desde 2.001 hasta 50.000 euros respecto al resto de actividades.<br>- **Clausura temporal**, total o parcial, de las instalaciones por un período máximo de dos años.<br>- Inhabilitación para el ejercicio de la actividad por un período máximo de un año.<br>- Revocación de la autorización ambiental integrada o de la licencia ambiental, o suspensión de dichos instrumentos de intervención por un período máximo de un año.<br>- Imposición al titular de la obligación de adoptar las medidas complementarias que la autoridad competente estime necesarias para volver a asegurar el cumplimiento de las condiciones de la autorización ambiental integrada y para evitar la consecución de otros posibles incidentes o accidentes.                                                                                                                                                                                         |
+| Leves      | - **Multa** de hasta 20.000 euros respecto a las instalaciones o actividades sometidas a autorización ambiental integrada y multa de hasta 2.000 euros respecto al resto de actividades.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 
 Cuando la cuantía de la multa resulte inferior al beneficio obtenido por la comisión de la infracción, la sanción será aumentada, como mínimo, hasta el doble del importe en que se haya beneficiado el infractor.
@@ -1022,10 +1025,11 @@ Artículo 97. Prescripción de las sanciones
 Prescribirán al año las sanciones impuestas por infracciones leves; a los tres años las impuestas por infracciones graves y a los cinco años las impuestas por infracciones muy graves.
 
 
-|   |   |
-|---|---|
-|||
-|||
+|            | Prescripción de sanciones |
+| ---------- | ------------------------- |
+| Leves      | 1 año                     |
+| Graves     | 3 años                    |
+| Muy graves | 5 años                    |
 
 El plazo de prescripción de las sanciones comenzará a contarse desde el ***día siguiente*** a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
 
@@ -1046,7 +1050,7 @@ Cuando un solo hecho constituya dos o más infracciones administrativas conforme
 
 Artículo 99. Obligación de reponer y multas coercitivas
 
-Sin perjuicio de la sanción penal o administrativa, el infractor estará obligado a la reposición o restauración de las cosas a su estado originario. Si hubiera daños y perjuicios, deberá indemnizarlos. En los casos de daños medioambientales se aplicará la Ley 26/2007, de Responsabilidad Medioambiental.
+Sin perjuicio de la sanción penal o administrativa, el infractor estará obligado a la reposición o restauración de las cosas a su estado originario. Si hubiera daños y perjuicios, deberá indemnizarlos. En los casos de daños medioambientales se aplicará la Ley 26/2007.
 
 Si el infractor no restaura la situación, el órgano sancionador podrá imponer multas coercitivas o ejecutar subsidiariamente la restauración a costa del responsable.
 
@@ -1061,8 +1065,9 @@ La prescripción de infracciones y sanciones no extingue la obligación de resta
 Artículo 100. Competencia sancionadora
 
 La competencia para incoar, instruir y resolver expedientes sancionadores corresponde:
-- a) A la administración autonómica respecto de instalaciones sujetas a autorización ambiental integrada.
-- b) A los ayuntamientos respecto de actividades sujetas a licencia ambiental, declaración responsable ambiental o comunicación de actividades inocuas.
+
+- **A la administración autonómica**: respecto de instalaciones sujetas a autorización ambiental integrada.
+- **A los ayuntamientos**: respecto de actividades sujetas a licencia ambiental, declaración responsable ambiental o comunicación de actividades inocuas.
 
 Dentro de la Generalitat:
 - a) La dirección general competente impondrá sanciones por infracciones leves en instalaciones sometidas a autorización ambiental integrada.

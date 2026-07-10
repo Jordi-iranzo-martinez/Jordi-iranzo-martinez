@@ -273,29 +273,37 @@ El estudio acústico (artículo 36 de la Ley 7/2002) deberá ser firmado por té
 
 En el estudio acústico se analizarán en detalle:
 
-- Nivel de ruido en el estado preoperacional, mediante la elaboración de un informe de los niveles sonoros expresados como LAeq,t en el ambiente exterior del entorno de la actividad, infraestructura o instalación, tanto en el periodo diurno como en el nocturno.
-- Nivel de ruido estimado en el estado de explotación, mediante la predicción de los niveles sonoros en el ambiente exterior durante los periodos diurno y nocturno.
-- Evaluación de la influencia previsible de la actividad, mediante comparación del nivel acústico en los estados preoperacional y operacional, con los valores límite definidos en el presente reglamento para las zonas o áreas acústicas que sean aplicables.
-- Definición de las medidas correctoras de la transmisión de ruidos o vibraciones a implantar en la nueva actividad, en caso de resultar necesarias como consecuencia de la evaluación efectuada, y previsión de los efectos esperados. A tal efecto, deberá tenerse en cuenta las prescripciones para prevenir la transmisión de vibraciones a las que se refiere el artículo 16 del presente decreto.
+- **Nivel de ruido en el estado preoperacional**, mediante la elaboración de un informe de los niveles sonoros expresados como LAeq,t en el ambiente exterior del entorno de la actividad, infraestructura o instalación, tanto en el periodo diurno como en el nocturno.
+- **Nivel de ruido estimado en el estado de explotación**, mediante la predicción de los niveles sonoros en el ambiente exterior durante los periodos diurno y nocturno.
+- **Evaluación de la influencia previsible de la actividad**, mediante comparación del nivel acústico en los estados preoperacional y operacional, con los valores límite definidos en el presente reglamento para las zonas o áreas acústicas que sean aplicables.
+- **Definición de las medidas correctoras de la transmisión de ruidos o vibraciones a implantar en la nueva actividad**, en caso de resultar necesarias como consecuencia de la evaluación efectuada, y previsión de los efectos esperados. A tal efecto, deberá tenerse en cuenta las prescripciones para prevenir la transmisión de vibraciones a las que se refiere el artículo 16 del presente decreto.
 
 En los proyectos de actividades se considerarán las posibles molestias por ruido que, por efectos indirectos, puedan ocasionarse en las inmediaciones de su implantación, con objeto de proponer y diseñar las medidas correctoras adecuadas para evitarlas o disminuirlas. A estos efectos, deberá prestarse especial atención a las actividades que generan tráfico elevado de vehículos, como almacenes, locales públicos y, especialmente, actividades previstas en zonas de elevada densidad de población o con calles estrechas de difícil maniobra y/o con escasos espacios de aparcamiento y aquellas que requieren operaciones de carga o descarga.
 
 
 **Artículo 18. Auditorías acústicas**
 
-De acuerdo con lo establecido en el artículo 37 de la Ley 7/2002, será responsabilidad de los titulares de actividades susceptibles de generar ruidos y vibraciones llevar a cabo un control de las emisiones acústicas y de los niveles de recepción en el entorno, mediante la realización de auditorías acústicas, al inicio del ejercicio de la actividad o puesta en marcha y, al menos, cada cinco años o en un plazo inferior si así se estableciera en el procedimiento en que se evaluara el estudio acústico.
+De acuerdo con lo establecido en el artículo 37 de la Ley 7/2002, 
+
+Será responsabilidad de los titulares de actividades susceptibles de generar ruidos y vibraciones llevar a cabo un control de las emisiones acústicas y de los niveles de recepción en el entorno, mediante la realización de auditorías acústicas, al inicio del ejercicio de la actividad o puesta en marcha y, al menos, cada cinco años o en un plazo inferior si así se estableciera en el procedimiento en que se evaluara el estudio acústico.
 
 La auditoría acústica deberá ser realizada por una entidad colaboradora en materia de calidad ambiental para el campo de la contaminación acústica (Decreto 229/2004). Finalizada la auditoría acústica, la entidad colaboradora remitirá informe de resultados al titular de la actividad y un certificado del estado general de la actividad respecto de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva.
 
 Según el caso de estudio se realizarán las siguientes operaciones:
 
-- a) Verificación de las condiciones de aislamiento de los elementos constructivos de actividades comerciales, industriales y de servicios que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial. Se deberá realizar en la primera auditoría y cuando se hayan llevado a cabo modificaciones que excedan de las obras de mera higiene, ornato o conservación en dichos elementos.
-- b) En el caso de detectarse diferencias con lo establecido en el proyecto o lo supervisado en auditorías anteriores, se deberá comprobar el cumplimiento de las condiciones acústicas requeridas en la Ley 7/2002 y en este decreto.
-- c) Identificar y caracterizar los principales focos de ruido.
-- d) Comprobación del nivel sonoro en aquellos puntos donde se sitúen los receptores más cercanos. En el caso de instalaciones industriales se realizarán las medidas en el perímetro de su parcela.
-- e) Medición de los niveles de fondo con la industria o actividad parada, en las mismas condiciones (periodo, proximidad horaria, día laborable y otras) en que se realizaron las medidas con la actividad en funcionamiento.
-- f) Medición en el interior de las instalaciones si existe un límite de nivel de emisión sonora.
-- g) En su caso, el resultado y la efectividad de las medidas correctoras de la contaminación acústica adoptadas en la actividad o instalación.
+- Verificación de las condiciones de aislamiento de los elementos constructivos de actividades comerciales, industriales y de servicios que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial. Se deberá realizar en la primera auditoría y cuando se hayan llevado a cabo modificaciones que excedan de las obras de mera higiene, ornato o conservación en dichos elementos.
+
+- En el caso de detectarse diferencias con lo establecido en el proyecto o lo supervisado en auditorías anteriores, se deberá comprobar el cumplimiento de las condiciones acústicas requeridas (Ley 7/2002 y en este decreto).
+
+- Identificar y caracterizar los principales focos de ruido.
+
+- Comprobación del nivel sonoro en aquellos puntos donde se sitúen los receptores más cercanos. En el caso de instalaciones industriales se realizarán las medidas en el perímetro de su parcela.
+
+- Medición de los niveles de fondo con la industria o actividad parada, en las mismas condiciones (periodo, proximidad horaria, día laborable y otras) en que se realizaron las medidas con la actividad en funcionamiento.
+
+- Medición en el interior de las instalaciones si existe un límite de nivel de emisión sonora.
+
+- En su caso, el resultado y la efectividad de las medidas correctoras de la contaminación acústica adoptadas en la actividad o instalación.
 
  Si en la auditoría acústica la entidad colaboradora detectase el incumplimiento de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva, esta estará obligada a ponerlo de inmediato en conocimiento del ayuntamiento, remitiéndole copia del correspondiente certificado desfavorable.
 
@@ -304,17 +312,12 @@ Los titulares de actividades susceptibles de generar ruidos y vibraciones deber�
 
 **Sección segunda. Normas adicionales para espectáculos, establecimientos públicos y actividades recreativas**
 
-**Artículo 20. Locales cerrados**
-
-En el proyecto presentado para obtener la licencia de actividad y funcionamiento de las actividades incluidas en esta sección, se deberá incluir el diseño del aislamiento acústico exigible a los elementos constructivos delimitadores del local conforme a lo establecido en el artículo 39 de la Ley 7/2002.
+En el proyecto presentado para obtener la licencia de actividad y funcionamiento de las actividades incluidas en esta sección, se deberá incluir el diseño del aislamiento acústico exigible a los elementos constructivos delimitadores del local (artículo 39 de la Ley 7/2002).
 
 En aquellos locales en los que el nivel sonoro sea superior a 90 dB(A) deberá colocarse, en sus accesos, un aviso, en las dos lenguas oficiales de la Comunitat Valenciana, perfectamente visible y legible a una distancia de cinco metros, que diga lo siguiente: 
 
 > "El nivel de ruido existente en este local puede ser perjudicial para su salud".
 
-
-
-**Artículo 21. Locales al aire libre**
 
 Los niveles máximos de potencia sonora que los locales al aire libre puedan producir no deben transmitir en viviendas o locales contiguos o próximos niveles sonoros de recepción superiores a los establecidos (artículo 40 de la Ley 7/2002, sin perjuicio de la Ley 4/2003), en cuyo caso la administración competente podrá acordar la suspensión temporal de la licencia o autorización.
 
