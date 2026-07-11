@@ -61,9 +61,9 @@ Los objetivos incluyen los siguientes:
 Toda competencia no atribuida a la Unión en los Tratados corresponde a los Estados miembros (artículo 5).
 
 
-2.   La Unión respetará la igualdad de los Estados miembros ante los Tratados, así como su identidad nacional, inherente a las estructuras fundamentales políticas y constitucionales de éstos, también en lo referente a la autonomía local y regional. Respetará las funciones esenciales del Estado, especialmente las que tienen por objeto garantizar su integridad territorial, mantener el orden público y salvaguardar la seguridad nacional. En particular, la seguridad nacional seguirá siendo responsabilidad exclusiva de cada Estado miembro.
+La Unión respetará la igualdad de los Estados miembros ante los Tratados, así como su identidad nacional, inherente a las estructuras fundamentales políticas y constitucionales de éstos, también en lo referente a la autonomía local y regional. Respetará las funciones esenciales del Estado, especialmente las que tienen por objeto garantizar su integridad territorial, mantener el orden público y salvaguardar la seguridad nacional. En particular, la seguridad nacional seguirá siendo responsabilidad exclusiva de cada Estado miembro.
 
-3.   Conforme al principio de cooperación leal, la Unión y los Estados miembros se respetarán y asistirán mutuamente en el cumplimiento de las misiones derivadas de los Tratados.
+Conforme al principio de cooperación leal, la Unión y los Estados miembros se respetarán y asistirán mutuamente en el cumplimiento de las misiones derivadas de los Tratados.
 
 Los Estados miembros adoptarán todas las medidas generales o particulares apropiadas para asegurar el cumplimiento de las obligaciones derivadas de los Tratados o resultantes de los actos de las instituciones de la Unión.
 
@@ -95,13 +95,13 @@ Artículo 7
 
 (antiguo artículo 7 TUE)
 
-1.   A propuesta motivada de un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión, el Consejo, por mayoría de cuatro quintos de sus miembros y previa aprobación del Parlamento Europeo, podrá constatar la existencia de un riesgo claro de violación grave por parte de un Estado miembro de los valores contemplados en el artículo 2. Antes de proceder a esta constatación, el Consejo oirá al Estado miembro de que se trate y por el mismo procedimiento podrá dirigirle recomendaciones.
+A propuesta motivada de un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión, el Consejo, por mayoría de cuatro quintos de sus miembros y previa aprobación del Parlamento Europeo, podrá constatar la existencia de un riesgo claro de violación grave por parte de un Estado miembro de los valores contemplados en el artículo 2. Antes de proceder a esta constatación, el Consejo oirá al Estado miembro de que se trate y por el mismo procedimiento podrá dirigirle recomendaciones.
 
 El Consejo comprobará de manera periódica si los motivos que han llevado a tal constatación siguen siendo válidos.
 
-2.   El Consejo Europeo, por unanimidad y a propuesta de un tercio de los Estados miembros o de la Comisión y previa aprobación del Parlamento Europeo, podrá constatar la existencia de una violación grave y persistente por parte de un Estado miembro de los valores contemplados en el artículo 2 tras invitar al Estado miembro de que se trate a que presente sus observaciones.
+El Consejo Europeo, por unanimidad y a propuesta de un tercio de los Estados miembros o de la Comisión y previa aprobación del Parlamento Europeo, podrá constatar la existencia de una violación grave y persistente por parte de un Estado miembro de los valores contemplados en el artículo 2 tras invitar al Estado miembro de que se trate a que presente sus observaciones.
 
-3.   Cuando se haya efectuado la constatación contemplada en el apartado 2, el Consejo podrá decidir, por mayoría cualificada, que se suspendan determinados derechos derivados de la aplicación de los Tratados al Estado miembro de que se trate, incluidos los derechos de voto del representante del Gobierno de dicho Estado miembro en el Consejo. Al proceder a dicha suspensión, el Consejo tendrá en cuenta las posibles consecuencias de la misma para los derechos y obligaciones de las personas físicas y jurídicas.
+Cuando se haya efectuado la constatación contemplada en el apartado 2, el Consejo podrá decidir, por mayoría cualificada, que se suspendan determinados derechos derivados de la aplicación de los Tratados al Estado miembro de que se trate, incluidos los derechos de voto del representante del Gobierno de dicho Estado miembro en el Consejo. Al proceder a dicha suspensión, el Consejo tendrá en cuenta las posibles consecuencias de la misma para los derechos y obligaciones de las personas físicas y jurídicas.
 
 Las obligaciones del Estado miembro de que se trate derivadas de los Tratados continuarán, en cualquier caso, siendo vinculantes para dicho Estado.
 
@@ -171,7 +171,7 @@ Los actos legislativos fijarán de forma expresa las condiciones de la delegaci�
 
 A efectos de las letras a) y b), el Parlamento Europeo se pronunciará por mayoría de los miembros que lo componen y el Consejo lo hará por mayoría cualificada.
 
-3.   En el título de los actos delegados figurará el adjetivo «delegado» o «delegada».
+En el título de los actos delegados figurará el adjetivo «delegado» o «delegada».
 
 Los Estados miembros adoptarán las medidas de ejecución de los actos jurídicamente vinculantes de la Unión. Cuando se requieran condiciones uniformes conferirán competencias a la Comisión (de manera general), o al Consejo (en casos específicos justificados, y en aquellos previstos en los artículos 24 y 26 del Tratado de la Unión Europea). El Parlamento Europeo y el Consejo establecerán previamente los mecanismos de control (por Reglamento).
 

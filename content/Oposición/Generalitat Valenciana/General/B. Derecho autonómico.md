@@ -409,107 +409,62 @@ Las delegaciones podrán ser revocadas en cualquier momento por el órgano deleg
 
 La organización interna
 
-Se atribuye al Consell la regulación reglamentaria de la organización o estructura de la
-Administración de la Generalidad Valenciana, y en todo caso, la determinación del número y
-denominación de las Consellerías
+Se atribuye al Consell la regulación reglamentaria de la organización o estructura de la Administración de la Generalidad Valenciana, y en todo caso, la determinación del número y denominación de las Consellerías
 
-Se aprobará por el Consell un Reglamento orgánico de cada Consellería a propuesta del
-Conseller respectivo.
-Artículo 71 49
-La Presidencia de la Generalitat y los consellers desarrollarán orgánicamente su propia
-conselleria o departamento en los términos de su reglamento orgánico y demás normas
-reglamentarias que apruebe el Consell.
-Artículo 72 50
-La organización de las consellerias se estructura en tres niveles: órganos superiores, nivel
-directivo y nivel administrativo.
-Artículo 73 51
-Los órganos superiores del departamento son el conseller y los secretarios autonómicos.
-El nivel directivo lo integran los subsecretarios, directores generales y demás altos cargos
-que ostenten el rango de director general.
-Artículo 74 52
-1. Bajo la dependencia del presidente, vicepresidentes y consellers, se podrán crear
-secretarías autonómicas.
-2. Los secretarios autonómicos dirigen y coordinan los centros directivos que se adscriben
-bajo su dependencia y responden, ante el titular del que dependan, de la gestión de aquellas
-materias que les sean atribuidas.
-3. Los secretarios autonómicos llevan a cabo las siguientes funciones ejecutivas:
-a) Ejercer las facultades inherentes al sector o actividad de la competencia material que
-tengan atribuida por la norma de creación del órgano.
-b) Impulsar y coordinar la consecución de los programas y la ejecución de los proyectos que
-desempeñen los centros directivos que estén bajo su dependencia, controlando y supervisando
-el cumplimiento de los objetivos que fijen el presidente, vicepresidentes o conseller
-competente.
-c) Resolver los recursos que se interpongan contra las resoluciones de los centros directivos
-que estén bajo su dependencia y cuyos actos no agoten la vía administrativa.
-d) Cualesquiera otras que les atribuya la vigente legislación, o se les asigne
-reglamentariamente.
-Artículo 75 53
-4. Bajo la directa dependencia del presidente y de cada conseller, se creará la
-subsecretaría, que llevará a cabo la inspección de todos los servicios de su ámbito, ostentando
-la jefatura de todo el personal de la misma.
-5. Asimismo, los subsecretarios tienen competencia respecto a los servicios comunes, la
-supervisión y recopilación de documentos, y asistencia en las materias propias de cada
-conselleria, especialmente en orden a:
-a) Elaborar proyectos o planes de actuación y programas de necesidades de la conselleria.
-b) Prestar asistencia técnica al conseller, secretario autonómico y directores generales en
-todo lo que se requiera.
-c) Informar al personal directivo de cada conselleria de la procedencia legal y viabilidad
-económica de sus programas de actuaciones.
-d) Informar los asuntos que cada conseller deba someter al pleno del Consell o al
-presidente.
+Se aprobará por el Consell un Reglamento orgánico de cada Consellería a propuesta del Conseller respectivo.
+
+La Presidencia de la Generalitat y los consellers desarrollarán orgánicamente su propia conselleria o departamento en los términos de su reglamento orgánico y demás normas reglamentarias que apruebe el Consell.
+
+La organización de las consellerias se estructura en tres niveles: órganos superiores, nivel directivo y nivel administrativo.
+
+Los órganos superiores del departamento son el conseller y los secretarios autonómicos. El nivel directivo lo integran los subsecretarios, directores generales y demás altos cargos que ostenten el rango de director general.
 
 
-e) Proponer la reforma que se encamine a mejorar y perfeccionar los servicios de los
-distintos centros de la conselleria, y preparar lo relativo a su organización y método de trabajo,
-atendiendo principalmente a sus costos y rendimientos.
-f) Proponer normas generales sobre adquisición de material y cuantas disposiciones afecten
-al funcionamiento de los servicios.
-g) Preparar compilaciones de las disposiciones vigentes que afecten al Consell, proponer
-las refundiciones y revisiones de textos legales que se consideren oportunas y cuidar de las
-publicaciones técnicas, periódicas o no, de cada conselleria.
-h) Dirigir y facilitar la formación de estadísticas acerca de las materias de competencia del
-Consell, en lo que afecte a cada conselleria, en colaboración con el Instituto Valenciano de
-Estadística y el Instituto Nacional de Estadística u otros organismos que se consideren
-convenientes.
-i) Dirigir y supervisar la gestión de la secretaría general administrativa.
-j) Cualquier otra competencia que sea inherente a los servicios comunes de la conselleria o
-Presidencia, según los casos, y las que le sean atribuidas por la normativa vigente.
-3. No obstante lo dispuesto en el apartado 1 del presente artículo, en aquellas consellerias
-que tengan asignadas competencias en materia sanitaria y educativa, podrán crearse
-reglamentariamente centros directivos cuyos titulares ostentarán la jefatura del personal
-sanitario y docente, llevando a cabo además la inspección de las respectivas unidades.
-Asimismo, en la conselleria que tenga asignada la materia de Justicia, se podrá crear
-reglamentariamente un centro directivo cuyo titular ostentará las competencias en materia del
-personal al servicio de la administración de justicia que correspondan a la Generalitat
-Valenciana.
-Artículo 76 54
+Bajo la dependencia del presidente, vicepresidentes y consellers, se podrán crear secretarías autonómicas.
+
+Los secretarios autonómicos dirigen y coordinan los centros directivos que se adscriben bajo su dependencia y responden, ante el titular del que dependan, de la gestión de aquellas materias que les sean atribuidas.
+
+Los secretarios autonómicos llevan a cabo las siguientes funciones ejecutivas:
+- a) Ejercer las facultades inherentes al sector o actividad de la competencia material que tengan atribuida por la norma de creación del órgano.
+- b) Impulsar y coordinar la consecución de los programas y la ejecución de los proyectos que desempeñen los centros directivos que estén bajo su dependencia, controlando y supervisando el cumplimiento de los objetivos que fijen el presidente, vicepresidentes o conseller competente.
+- Resolver los recursos que se interpongan contra las resoluciones de los centros directivos que estén bajo su dependencia y cuyos actos no agoten la vía administrativa.
+- Cualesquiera otras que les atribuya la vigente legislación, o se les asigne reglamentariamente.
+
+Bajo la directa dependencia del presidente y de cada conseller, se creará la subsecretaría, que llevará a cabo la inspección de todos los servicios de su ámbito, ostentando la jefatura de todo el personal de la misma.
+
+Asimismo, los subsecretarios tienen competencia respecto a los servicios comunes, la supervisión y recopilación de documentos, y asistencia en las materias propias de cada conselleria, especialmente en orden a:
+- Elaborar proyectos o planes de actuación y programas de necesidades de la conselleria.
+- Prestar asistencia técnica al conseller, secretario autonómico y directores generales en todo lo que se requiera.
+- Informar al personal directivo de cada conselleria de la procedencia legal y viabilidad económica de sus programas de actuaciones.
+- Informar los asuntos que cada conseller deba someter al pleno del Consell o al presidente.
+- Proponer la reforma que se encamine a mejorar y perfeccionar los servicios de los distintos centros de la conselleria, y preparar lo relativo a su organización y método de trabajo, atendiendo principalmente a sus costos y rendimientos.
+- Proponer normas generales sobre adquisición de material y cuantas disposiciones afecten al funcionamiento de los servicios.
+- Preparar compilaciones de las disposiciones vigentes que afecten al Consell, proponer las refundiciones y revisiones de textos legales que se consideren oportunas y cuidar de las publicaciones técnicas, periódicas o no, de cada conselleria.
+- Dirigir y facilitar la formación de estadísticas acerca de las materias de competencia del Consell, en lo que afecte a cada conselleria, en colaboración con el Instituto Valenciano de Estadística y el Instituto Nacional de Estadística u otros organismos que se consideren convenientes.
+- Dirigir y supervisar la gestión de la secretaría general administrativa.
+- Cualquier otra competencia que sea inherente a los servicios comunes de la conselleria o Presidencia, según los casos, y las que le sean atribuidas por la normativa vigente.
+
+No obstante lo dispuesto en el apartado 1 del presente artículo, en aquellas consellerias que tengan asignadas competencias en materia sanitaria y educativa, podrán crearse reglamentariamente centros directivos cuyos titulares ostentarán la jefatura del personal sanitario y docente, llevando a cabo además la inspección de las respectivas unidades.
+
+Asimismo, en la conselleria que tenga asignada la materia de Justicia, se podrá crear reglamentariamente un centro directivo cuyo titular ostentará las competencias en materia del personal al servicio de la administración de justicia que correspondan a la Generalitat Valenciana.
+
 Son funciones de los Directores Generales:
-4. Disponer cuanto concierne al régimen interno de los servicios de su dirección y resolver
-los respectivos expedientes, cuando no sea facultad privativa del conseller, secretario
-autonómico o subsecretario.
-5. Dirigir y gestionar los servicios y resolver los asuntos que le asigne el reglamento
-orgánico de la conselleria o que el conseller o el secretario autonómico encomiende a su
-incumbencia.
-6. Vigilar, fiscalizar y supervisar el funcionamiento de todas las dependencias a su cargo.
-7. Proponer a sus órganos superiores la resolución que estime procedente en asuntos que
-sean de su competencia y cuya tramitación corresponde a la dirección general.
-8. Establecer el régimen interno de las oficinas de ellos dependientes. ,
-9. Elevar anualmente a sus órganos superiores un informe acerca del funcionamiento, coste
-y rendimiento de los servicios a su cargo, proponiendo las modificaciones que le asignen las
-leyes, reglamentos u órganos superiores.
-Artículo 77
-El nivel administrativo está integrado por el resto de unidades bajo la dependencia de las
-anteriores o directamente del Conseller con carácter excepcional.
-Artículo 78 55
-El nivel administrativo se organizará normalmente en áreas, servicios, secciones y
-negociados, pudiendo establecerse otras unidades cuando así fuese necesario.
-Artículo 79 56
-10. En todas las consellerias, y en la Presidencia, en su caso, como máximo órgano de nivel
-administrativo de cada una de ellas, existirá una única secretaría general administrativa,
-dependiente de la subsecretaría.
-11. Son funciones de la secretaría general administrativa prestar apoyo directo al titular de la
-subsecretaría, y bajo su autoridad atender todos los servicios generales del departamento.
 
+- Disponer cuanto concierne al régimen interno de los servicios de su dirección y resolver los respectivos expedientes, cuando no sea facultad privativa del conseller, secretario autonómico o subsecretario.
+- Dirigir y gestionar los servicios y resolver los asuntos que le asigne el reglamento orgánico de la conselleria o que el conseller o el secretario autonómico encomiende a su incumbencia.
+- Vigilar, fiscalizar y supervisar el funcionamiento de todas las dependencias a su cargo.
+- Proponer a sus órganos superiores la resolución que estime procedente en asuntos que sean de su competencia y cuya tramitación corresponde a la dirección general.
+- Establecer el régimen interno de las oficinas de ellos dependientes. ,
+- Elevar anualmente a sus órganos superiores un informe acerca del funcionamiento, coste y rendimiento de los servicios a su cargo, proponiendo las modificaciones que le asignen las leyes, reglamentos u órganos superiores.
+
+Artículo 77
+El nivel administrativo está integrado por el resto de unidades bajo la dependencia de las anteriores o directamente del Conseller con carácter excepcional.
+
+El nivel administrativo se organizará normalmente en áreas, servicios, secciones y negociados, pudiendo establecerse otras unidades cuando así fuese necesario.
+
+En todas las consellerias, y en la Presidencia, en su caso, como máximo órgano de nivel administrativo de cada una de ellas, existirá una única secretaría general administrativa, dependiente de la subsecretaría.
+
+Son funciones de la secretaría general administrativa prestar apoyo directo al titular de la subsecretaría, y bajo su autoridad atender todos los servicios generales del departamento.
 
 La organización territorial incluyen los siguientes: 
 
@@ -598,15 +553,10 @@ Se regula también el régimen presupuestario, económico-financiero, contable y
 control de los fondos carentes de personalidad jurídica cuya dotación se efectúe mayoritariamente desde los presupuestos de la Generalitat.
 
 Y se aplica a su vez a las Universidades Públicas, a efectos de seguimiento de los principios 
-5. La presente ley se aplicará también, a los efectos del seguimiento de los principios reco-
-gidos en el capítulo II de la Ley Orgánica 2/2012, de 27 de abril, a las universidades públicas
-dependientes de la Generalitat y al resto de entes adscritos que, sin formar parte del sector
-público de la Generalitat a los efectos de esta ley, estén incluidos en el sector administraciones
-públicas, subsector comunidades autónomas o en el subsector sociedades no financieras
-públicas, de acuerdo con la definición y delimitación del Sistema Europeo de Cuentas Naciona-
-les y Regionales.
-Dicha aplicación alcanzará, en todo caso, tanto al seguimiento de los principios y obligaciones contables regulados en el título VII de la presente ley, como a la sujeción, en materia de
-endeudamiento, a lo previsto en el artículo 88 de la presente ley.
+
+La presente ley se aplicará también, a los efectos del seguimiento de los principios recogidos en el capítulo II de la Ley Orgánica 2/2012, de 27 de abril, a las universidades públicas dependientes de la Generalitat y al resto de entes adscritos que, sin formar parte del sector público de la Generalitat a los efectos de esta ley, estén incluidos en el sector administraciones públicas, subsector comunidades autónomas o en el subsector sociedades no financieras públicas, de acuerdo con la definición y delimitación del Sistema Europeo de Cuentas Nacionales y Regionales.
+
+Dicha aplicación alcanzará, en todo caso, tanto al seguimiento de los principios y obligaciones contables regulados en el título VII de la presente ley, como a la sujeción, en materia de endeudamiento, a lo previsto en el artículo 88 de la presente ley.
 
 El sector público de la Generalitat se clasifica en el siguiente: 
 
@@ -618,18 +568,15 @@ El sector público de la Generalitat se clasifica en el siguiente:
 
 Artículo 3. De la estructura del sector público de la Generalitat
 El sector público de la Generalitat, a los efectos de esta ley, se ordena en:
-6. Sector público administrativo, integrado por:
+
+Sector público administrativo, integrado por:
+
+. 
 a) La Administración de la Generalitat y los organismos autónomos de la Generalitat.
 b) Las Instituciones a que se refiere el apartado 1.c del artículo anterior.
-c) Los consorcios a los que se refiere el artículo 2.3.d de esta ley y las entidades de derecho
-público incluidas en el artículo 2.3.a.3.º de esta ley, que cumplan alguna de las dos característi-
-cas siguientes:
-- Que su actividad principal no consista en la producción en régimen de mercado de bienes
-y servicios destinados al consumo individual o colectivo, o que efectúen operaciones de redis-
-tribución de renta y de la riqueza nacional, en todo caso sin ánimo de lucro.
-- Que no se financien mayoritariamente con ingresos comerciales, entendiéndose como ta-
-les a los efectos de esta ley, los ingresos, cualquiera que sea su naturaleza obtenidos como
-contrapartida de las entregas de bienes o prestaciones de servicios.
+c) Los consorcios a los que se refiere el artículo 2.3.d de esta ley y las entidades de derecho público incluidas en el artículo 2.3.a.3.º de esta ley, que cumplan alguna de las dos características siguientes:
+- Que su actividad principal no consista en la producción en régimen de mercado de bienes y servicios destinados al consumo individual o colectivo, o que efectúen operaciones de redistribución de renta y de la riqueza nacional, en todo caso sin ánimo de lucro.
+- Que no se financien mayoritariamente con ingresos comerciales, entendiéndose como tales a los efectos de esta ley, los ingresos, cualquiera que sea su naturaleza obtenidos comocontrapartida de las entregas de bienes o prestaciones de servicios.
 
 
 
@@ -686,39 +633,29 @@ Los programas de gasto se definirán en términos anuales (pero deberán referen
 
 Sección 2.ª. Elaboración del presupuesto
 Artículo 33. Procedimiento de elaboración
-8. Aprobados los objetivos de estabilidad y deuda pública, así como la regla de gasto, el
-Consell, a propuesta de la persona titular de la conselleria con competencias en materia de
-hacienda, acordará el límite máximo de gasto no financiero de los Presupuestos de la Generali-
-tat para el siguiente ejercicio, con la extensión y de la forma prevista en la normativa en materia
-de estabilidad presupuestaria y sostenibilidad financiera.
-9. La persona titular de la conselleria con competencias en materia de hacienda fijará por
-orden el procedimiento y los plazos para la elaboración de los Presupuestos de la Generalitat.
-A tal efecto, por la citada conselleria se establecerán los criterios de elaboración de las pro-
-puestas de presupuestos y sus límites cuantitativos con las prioridades y limitaciones que de-
-ban respetarse.
-Para una mejor ordenación del proceso de elaboración podrán constituirse, mediante la
-mencionada orden, las comisiones que se consideren necesarias.
-Las instituciones de la Generalitat y las consellerias remitirán a la conselleria con competen-
-cias en materia de hacienda sus propuestas de presupuesto, así como las propuestas de pre-
-supuesto de los distintos sujetos que conforman el sector público instrumental a ellas adscritos.
-Las propuestas se ajustarán a las directrices fijadas y se acompañarán de la documentación
-que se especifique en la mencionada orden de elaboración.
-10. La conselleria con competencias en materia de hacienda elaborará el anteproyecto del
-presupuesto de ingresos de la Administración de la Generalitat.
-11. La conselleria con competencias en materia de hacienda, examinará la anterior documen-
-tación y, de acuerdo con el límite de gasto no financiero, los escenarios plurianuales y los pla-
-nes económicos vigentes, elaborará el Anteproyecto de Ley de Presupuestos atendiendo a las
-directrices y el procedimiento fijado en la orden de elaboración.
-12. La persona titular de la conselleria con competencias en materia de hacienda elevará al
-Consell el Anteproyecto de la Ley de Presupuestos de la Generalitat, que deberá ir acompaña-
-do por la documentación complementaria que se determine en esta ley.
-Artículo 34. Remisión a Les Corts
-13. El Proyecto de Ley de Presupuestos de la Generalitat, integrado por el articulado con sus
-anexos y los estados de gastos y de ingresos, con el nivel de especificación establecido en los
-artículos 37 y 38 de esta ley se remitirá a Les Corts antes del 1 de noviembre de cada año, pa-
-ra su examen y aprobación o, en su caso, enmienda o devolución al Consell.
 
-El Proyecto de Ley de Presupuestos de la Generalitat, irá acompañado de la siguientedocumentación:
+Aprobados los objetivos de estabilidad y deuda pública, así como la regla de gasto, el Consell, a propuesta de la persona titular de la conselleria con competencias en materia de hacienda, acordará el límite máximo de gasto no financiero de los Presupuestos de la Generalitat para el siguiente ejercicio, con la extensión y de la forma prevista en la normativa en materia de estabilidad presupuestaria y sostenibilidad financiera.
+
+La persona titular de la conselleria con competencias en materia de hacienda fijará por orden el procedimiento y los plazos para la elaboración de los Presupuestos de la Generalitat.
+
+A tal efecto, por la citada conselleria se establecerán los criterios de elaboración de las propuestas de presupuestos y sus límites cuantitativos con las prioridades y limitaciones que deban respetarse.
+
+Para una mejor ordenación del proceso de elaboración podrán constituirse, mediante la mencionada orden, las comisiones que se consideren necesarias.
+Las instituciones de la Generalitat y las consellerias remitirán a la conselleria con competencias en materia de hacienda sus propuestas de presupuesto, así como las propuestas de presupuesto de los distintos sujetos que conforman el sector público instrumental a ellas adscritos.
+
+Las propuestas se ajustarán a las directrices fijadas y se acompañarán de la documentación que se especifique en la mencionada orden de elaboración.
+
+La conselleria con competencias en materia de hacienda elaborará el anteproyecto del presupuesto de ingresos de la Administración de la Generalitat.
+
+La conselleria con competencias en materia de hacienda, examinará la anterior documentación y, de acuerdo con el límite de gasto no financiero, los escenarios plurianuales y los planes económicos vigentes, elaborará el Anteproyecto de Ley de Presupuestos atendiendo a las directrices y el procedimiento fijado en la orden de elaboración.
+
+La persona titular de la conselleria con competencias en materia de hacienda elevará al Consell el Anteproyecto de la Ley de Presupuestos de la Generalitat, que deberá ir acompañado por la documentación complementaria que se determine en esta ley.
+
+Artículo 34. Remisión a Les Corts
+
+El Proyecto de Ley de Presupuestos de la Generalitat, integrado por el articulado con sus anexos y los estados de gastos y de ingresos, con el nivel de especificación establecido en los artículos 37 y 38 de esta ley se remitirá a Les Corts antes del 1 de noviembre de cada año, para su examen y aprobación o, en su caso, enmienda o devolución al Consell.
+
+El Proyecto de Ley de Presupuestos de la Generalitat, irá acompañado de la siguiente documentación:
 - Estados consolidados de los presupuestos
 - Memoria explicativa (articulado del proyecto de ley).
 - Detalle de las plantillas de la Administración de la Generalitat y organismos autónomos, adecuada a la estructura orgánica.
@@ -730,7 +667,6 @@ El Proyecto de Ley de Presupuestos de la Generalitat, irá acompañado de la sig
 	- Informe justificativo del cumplimiento de los objetivos de estabilidad presupuestaria, deuda pública y conformidad con la regla de gasto de los presupuestos de la Generalitat, así como de su coherencia con la programación presupuestaria.
 - Memoria de los beneficios fiscales que afecten a los tributos de la Generalitat
 - Informe de impacto de género.
-
 
 Si Les Corts no aprobaran el presupuesto de la Generalitat antes del primer día del ejercicio económico correspondiente, se entenderá prorrogado el del ejercicio anterior hasta la aprobación y publicación del nuevo en el Diari Oficial de la Comunitat Valenciana.
 
@@ -744,11 +680,7 @@ El Consell podrá establecer las condiciones específicas de la prórroga (a pro
 Sección 3.ª. Estructura de los Presupuestos
 
 Artículo 36. Estructura de los Presupuestos de la Generalitat
-La estructura de los Presupuestos de la Generalitat y de sus anexos se determinará, de
-acuerdo con lo establecido en esta ley, por la conselleria con competencias en materia de
-hacienda, teniendo en cuenta la organización del sector público de la Generalitat, la naturaleza
-económica de los ingresos y de los gastos y las finalidades y objetivos que se pretenda conse-
-guir.
+La estructura de los Presupuestos de la Generalitat y de sus anexos se determinará, de acuerdo con lo establecido en esta ley, por la conselleria con competencias en materia de hacienda, teniendo en cuenta la organización del sector público de la Generalitat, la naturaleza económica de los ingresos y de los gastos y las finalidades y objetivos que se pretenda conseguir.
 
 Artículo 37. Estructura de los estados de gastos de los Presupuestos de la Generalitat
 Los estados de gastos de los presupuestos de los sujetos con presupuesto limitativo se estructurarán de acuerdo con las siguientes clasificaciones:
@@ -807,25 +739,16 @@ El sector público instrumental de la Generalitat está formado por lo organismo
 CREO QUE HAY ALGO MÁS DE LOS AUTÓNOMOS
 
 
-5. Las entidades de derecho público no incluidas en el apartado anterior desarrollarán sus
-actividades con arreglo a un plan de acción anual, bajo la vigencia y en el marco de un contrato
-plurianual de gestión, que será aprobado por el Consell a propuesta de la conselleria de ads-
-cripción, con informe favorable de la conselleria con competencia en las materias de hacienda
-y de sector público. El citado contrato contendrá, al menos:
+Las entidades de derecho público no incluidas en el apartado anterior desarrollarán sus actividades con arreglo a un plan de acción anual, bajo la vigencia y en el marco de un contrato plurianual de gestión, que será aprobado por el Consell a propuesta de la conselleria de adscripción, con informe favorable de la conselleria con competencia en las materias de hacienda y de sector público. El citado contrato contendrá, al menos:
 
 - Objetivos, resultados, gestión general, indicadores
 - **Recursos**: personales, materiales y económicos
 
 
-- bjetivos a alcanzar, los resultados a obtener y, en general, la gestión a desarrollar
-así como los indicadores para evaluar los resultados obtenidos.
+- bjetivos a alcanzar, los resultados a obtener y, en general, la gestión a desarrollar así como los indicadores para evaluar los resultados obtenidos.
 b) Los recursos personales, materiales y económicos para la consecución de los objetivos.
-c) El procedimiento a seguir para la cobertura de los déficit anuales que, en su caso, se pu-
-dieran producir por insuficiencia de los ingresos reales respecto de los estimados y las conse-
-cuencias de responsabilidad en la gestión que, en su caso, procedan.
-d) El régimen de control de su cumplimiento por parte de la conselleria competente en mate-
-ria de hacienda, así como el procedimiento para los ajustes y adaptaciones anuales que, en su
-caso, procedan.
+c) El procedimiento a seguir para la cobertura de los déficit anuales que, en su caso, se pudieran producir por insuficiencia de los ingresos reales respecto de los estimados y las consecuencias de responsabilidad en la gestión que, en su caso, procedan.
+d) El régimen de control de su cumplimiento por parte de la conselleria competente en materia de hacienda, así como el procedimiento para los ajustes y adaptaciones anuales que, en su caso, procedan.
 
 
 El personal de las entidades públicas empresariales se rige por el derecho laboral, con las especificaciones dispuestas por la legislación sobre función pública que les resulten de aplicación. La selección del personal laboral de estas entidades se realizará mediante convocatoria
@@ -860,7 +783,7 @@ Los órganos competentes son los siguientes:
 | Titulares de Conselleria                                                                         | a) Aprobar el plan estratégico de subvenciones de la conselleria, que abarcará tanto las<br>propias del departamento como las de los organismos públicos vinculados o dependientes.<br>b) Aprobar mediante orden las oportunas bases reguladoras de la concesión de las subven-<br>ciones.<br>c) Acordar e imponer las sanciones que corresponda en materia de subvenciones, salvo lo<br>dispuesto en el apartado 3 siguiente                                                                                                                                                                                                                                                                                                                        |
 | Titular de Conselleria de Hacienda                                                               | acordar e imponer la sanción de pérdida de la posibilidad de obtener subven-<br>ciones, ayudas públicas y avales de la Comunitat Valenciana, de prohibición para celebrar con-<br>tratos con su Administración o con los organismos y entidades de ella dependientes o de pérdi-<br>da de la posibilidad de actuar como entidad colaboradora en relación con las subvenciones a<br>que se refiere la presente ley                                                                                                                                                                                                                                                                                                                                    |
 | Titulares de Conselleria y presidencia o dirección de entidades del sector público institucional | a) La aprobación del gasto correspondiente a las subvenciones.<br>b) La convocatoria de las subvenciones.<br>c) La concesión de las subvenciones de concurrencia competitiva, sin perjuicio de lo dis-<br>puesto en el apartado 1.c de este mismo artículo.<br>d) La concesión de las subvenciones nominativas, sin perjuicio de lo establecido anterior-<br>mente en el apartado 1.b de este mismo artículo.<br>e) La resolución del procedimiento de revocación y reintegro<br>- Otra otra competencia sobre el procedimiento que le puedan atribuir las bases regu-<br>ladoras de las subvenciones, siempre que no se oponga a lo establecido en este artículo.                                                                                   |
-5. Las competencias para conceder subvenciones podrán ser desconcentradas o delegadas de acuerdo con las normas que regulan la atribución y el ejercicio de las competencias. En las normas en que se dispongan la delegación o la desconcentración se especificarán expresamente las facultades y funciones que tales decisiones llevan implícitas en relación con el procedimiento de concesión.
+Las competencias para conceder subvenciones podrán ser desconcentradas o delegadas de acuerdo con las normas que regulan la atribución y el ejercicio de las competencias. En las normas en que se dispongan la delegación o la desconcentración se especificarán expresamente las facultades y funciones que tales decisiones llevan implícitas en relación con el procedimiento de concesión.
 
 	De conformidad con lo previsto en la legislación básica estatal, no cabrá la delegación de las competencias de las personas titulares de las consellerias en relación con la aprobación de las bases reguladoras de las subvenciones.
 

@@ -25,17 +25,310 @@ La [Ley Orgánica 3/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115)
 
 #### Objeto y ámbito e aplicación
 
+Las mujeres y los hombres son iguales en dignidad humana, e iguales en derechos y deberes. Esta Ley tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural para, en el desarrollo de los artículos 9.2 y 14 de la Constitución, alcanzar una sociedad más democrática, más justa y más solidaria.
+
+ A estos efectos, la Ley establece principios de actuación de los Poderes Públicos, regula derechos y deberes de las personas físicas y jurídicas, tanto públicas como privadas, y prevé medidas destinadas a eliminar y corregir en los sectores público y privado, toda forma de discriminación por razón de sexo.
 
 
+Todas las personas gozarán de los derechos derivados del principio de igualdad de trato y de la prohibición de discriminación por razón de sexo.
+
+Las obligaciones establecidas en esta Ley serán de aplicación a toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.
 
 
 #### El principio de igualdad y la tutela contra la discriminación
 
+- **Principio de igualdad de trato entre mujeres y hombres**: supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.
+
+##### Artículo 4. Integración del principio de igualdad en la interpretación y aplicación de las normas.
+
+La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas.
+
+##### Artículo 5. Igualdad de trato y de oportunidades en el acceso al empleo, en la formación y en la promoción profesionales, y en las condiciones de trabajo.
+
+El principio de igualdad de trato y de oportunidades entre mujeres y hombres, aplicable en el ámbito del empleo privado y en el del empleo público, se garantizará, en los términos previstos en la normativa aplicable, en el acceso al empleo, incluso al trabajo por cuenta propia, en la formación profesional, en la promoción profesional, en las condiciones de trabajo, incluidas las retributivas y las de despido, y en la afiliación y participación en las organizaciones sindicales y empresariales, o en cualquier organización cuyos miembros ejerzan una profesión concreta, incluidas las prestaciones concedidas por las mismas.
+
+No constituirá discriminación en el acceso al empleo, incluida la formación necesaria, una diferencia de trato basada en una característica relacionada con el sexo cuando, debido a la naturaleza de las actividades profesionales concretas o al contexto en el que se lleven a cabo, dicha característica constituya un requisito profesional esencial y determinante, siempre y cuando el objetivo sea legítimo y el requisito proporcionado.
+
+- **Discriminación por razón de sexo**:
+
+	- **Directa**: la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.
+
+	- **Indirecta**: la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.
+
+En cualquier caso, se considera discriminatoria toda orden de discriminar, directa o indirectamente, por razón de sexo.
+
+- **Acoso sexual y por razón de sexo**:
+	- **Acoso sexual**: 
+
+ Sin perjuicio de lo establecido en el Código Penal, a los efectos de esta Ley constituye acoso sexual cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.
+
+Constituye acoso por razón de sexo cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.
+
+Se considerarán en todo caso discriminatorios el acoso sexual y el acoso por razón de sexo.
+
+El condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo se considerará también acto de discriminación por razón de sexo.
+
+##### Artículo 8. Discriminación por embarazo o maternidad.
+
+Constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.
+
+##### Artículo 9. Indemnidad frente a represalias.
+
+También se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de queja, reclamación, denuncia, demanda o recurso, de cualquier tipo, destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad de trato entre mujeres y hombres.
+
+##### Artículo 10. Consecuencias jurídicas de las conductas discriminatorias.
+
+Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones que prevenga la realización de conductas discriminatorias.
+
+
+Con el fin de hacer efectivo el derecho constitucional de la igualdad, los Poderes Públicos adoptarán medidas positivas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres. Tales medidas, que serán aplicables en tanto subsistan dichas situaciones, habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.
+
+También las personas físicas y jurídicas privadas podrán adoptar este tipo de medidas en los términos establecidos en la presente Ley.
+
+##### Artículo 12. Tutela judicial efectiva.
+
+Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, de acuerdo con lo establecido en el artículo 53.2 de la Constitución, incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación.
+
+La capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa de este derecho corresponden a las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes reguladoras de estos procesos.
+
+La persona acosada será la única legitimada en los litigios sobre acoso sexual y acoso por razón de sexo.
+
+##### Artículo 13. Prueba.
+
+De acuerdo con las Leyes procesales, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias, por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.
+
+A los efectos de lo dispuesto en el párrafo anterior, el órgano judicial, a instancia de parte, podrá recabar, si lo estimase útil y pertinente, informe o dictamen de los organismos públicos competentes.
+
+ Lo establecido en el apartado anterior no será de aplicación a los procesos penales.
 
 
 
 #### Políticas públicas para la igualdad
 
+#### CAPÍTULO I
+
+#### Principios generales
+
+##### Artículo 14. Criterios generales de actuación de los Poderes Públicos.
+
+A los fines de esta Ley, serán criterios generales de actuación de los Poderes Públicos:
+
+1. El compromiso con la efectividad del derecho constitucional de igualdad entre mujeres y hombres.
+
+2. La integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral, social, cultural y artística, con el fin de evitar la segregación laboral y eliminar las diferencias retributivas, así como potenciar el crecimiento del empresariado femenino en todos los ámbitos que abarque el conjunto de políticas y el valor del trabajo de las mujeres, incluido el doméstico.
+
+3. La colaboración y cooperación entre las distintas Administraciones públicas en la aplicación del principio de igualdad de trato y de oportunidades.
+
+4. La participación equilibrada de mujeres y hombres en las candidaturas electorales y en la toma de decisiones.
+
+5. La adopción de las medidas necesarias para la erradicación de la violencia de género, la violencia familiar y todas las formas de acoso sexual y acoso por razón de sexo.
+
+6. La consideración de las singulares dificultades en que se encuentran las mujeres de colectivos de especial vulnerabilidad como son las que pertenecen a minorías, las mujeres migrantes, las niñas, las mujeres con discapacidad, las mujeres mayores, las mujeres viudas y las mujeres víctimas de violencia de género, para las cuales los poderes públicos podrán adoptar, igualmente, medidas de acción positiva.
+
+7. La protección de la maternidad, con especial atención a la asunción por la sociedad de los efectos derivados del embarazo, parto y lactancia.
+
+8. El establecimiento de medidas que aseguren la conciliación del trabajo y de la vida personal y familiar de las mujeres y los hombres, así como el fomento de la corresponsabilidad en las labores domésticas y en la atención a la familia.
+
+9. El fomento de instrumentos de colaboración entre las distintas Administraciones públicas y los agentes sociales, las asociaciones de mujeres y otras entidades privadas.
+
+10. El fomento de la efectividad del principio de igualdad entre mujeres y hombres en las relaciones entre particulares.
+
+11. La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas.
+
+12. Todos los puntos considerados en este artículo se promoverán e integrarán de igual manera en la política española de cooperación internacional para el desarrollo.
+
+##### Artículo 15. Transversalidad del principio de igualdad de trato entre mujeres y hombres.
+
+El principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos. Las Administraciones públicas lo integrarán, de forma activa, en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas en todos los ámbitos y en el desarrollo del conjunto de todas sus actividades.
+
+##### Artículo 16. Nombramientos realizados por los Poderes Públicos.
+
+Los Poderes Públicos procurarán atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan.
+
+##### Artículo 17. Plan Estratégico de Igualdad de Oportunidades.
+
+El Gobierno, en las materias que sean de la competencia del Estado, aprobará periódicamente un Plan Estratégico de Igualdad de Oportunidades, que incluirá medidas para alcanzar el objetivo de igualdad entre mujeres y hombres y eliminar la discriminación por razón de sexo.
+
+##### Artículo 18. Informe periódico.
+
+En los términos que reglamentariamente se determinen, el Gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres. De este informe se dará cuenta a las Cortes Generales.
+
+##### Artículo 19. Informes de impacto de género.
+
+Los proyectos de disposiciones de carácter general y los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros deberán incorporar un informe sobre su impacto por razón de género.
+
+##### Artículo 20. Adecuación de las estadísticas y estudios.
+
+Al objeto de hacer efectivas las disposiciones contenidas en esta Ley y que se garantice la integración de modo efectivo de la perspectiva de género en su actividad ordinaria, los poderes públicos, en la elaboración de sus estudios y estadísticas, deberán:
+
+a) Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos que lleven a cabo.
+
+b) Establecer e incluir en las operaciones estadísticas nuevos indicadores que posibiliten un mejor conocimiento de las diferencias en los valores, roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, su manifestación e interacción en la realidad que se vaya a analizar.
+
+c) Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de la incidencia de otras variables cuya concurrencia resulta generadora de situaciones de discriminación múltiple en los diferentes ámbitos de intervención.
+
+d) Realizar muestras lo suficientemente amplias como para que las diversas variables incluidas puedan ser explotadas y analizadas en función de la variable de sexo.
+
+e) Explotar los datos de que disponen de modo que se puedan conocer las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres en los diferentes ámbitos de intervención.
+
+f) Revisar y, en su caso, adecuar las definiciones estadísticas existentes con objeto de contribuir al reconocimiento y valoración del trabajo de las mujeres y evitar la estereotipación negativa de determinados colectivos de mujeres.
+
+Sólo excepcionalmente, y mediante informe motivado y aprobado por el órgano competente, podrá justificarse el incumplimiento de alguna de las obligaciones anteriormente especificadas.
+
+##### Artículo 21. Colaboración entre las Administraciones públicas.
+
+1. La Administración General del Estado y las Administraciones de las Comunidades Autónomas cooperarán para integrar el derecho de igualdad entre mujeres y hombres en el ejercicio de sus respectivas competencias y, en especial, en sus actuaciones de planificación. En el seno de la Conferencia Sectorial de la Mujer podrán adoptarse planes y programas conjuntos de actuación con esta finalidad.
+
+2. Las Entidades Locales integrarán el derecho de igualdad en el ejercicio de sus competencias y colaborarán, a tal efecto, con el resto de las Administraciones públicas.
+
+##### Artículo 22. Acciones de planificación equitativa de los tiempos.
+
+Con el fin de avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres, las corporaciones locales podrán establecer Planes Municipales de organización del tiempo de la ciudad. Sin perjuicio de las competencias de las Comunidades Autónomas, el Estado podrá prestar asistencia técnica para la elaboración de estos planes.
+
+#### CAPÍTULO II
+
+#### Acción administrativa para la igualdad
+
+##### Artículo 23. La educación para la igualdad de mujeres y hombres.
+
+El sistema educativo incluirá entre sus fines la educación en el respeto de los derechos y libertades fundamentales y en la igualdad de derechos y oportunidades entre mujeres y hombres.
+
+Asimismo, el sistema educativo incluirá, dentro de sus principios de calidad, la eliminación de los obstáculos que dificultan la igualdad efectiva entre mujeres y hombres y el fomento de la igualdad plena entre unas y otros.
+
+##### Artículo 24. Integración del principio de igualdad en la política de educación.
+
+1. Las Administraciones educativas garantizarán un igual derecho a la educación de mujeres y hombres a través de la integración activa, en los objetivos y en las actuaciones educativas, del principio de igualdad de trato, evitando que, por comportamientos sexistas o por los estereotipos sociales asociados, se produzcan desigualdades entre mujeres y hombres.
+
+2. Las Administraciones educativas, en el ámbito de sus respectivas competencias, desarrollarán, con tal finalidad, las siguientes actuaciones:
+
+a) La atención especial en los currículos y en todas las etapas educativas al principio de igualdad entre mujeres y hombres.
+
+b) La eliminación y el rechazo de los comportamientos y contenidos sexistas y estereotipos que supongan discriminación entre mujeres y hombres, con especial consideración a ello en los libros de texto y materiales educativos.
+
+c) La integración del estudio y aplicación del principio de igualdad en los cursos y programas para la formación inicial y permanente del profesorado.
+
+d) La promoción de la presencia equilibrada de mujeres y hombres en los órganos de control y de gobierno de los centros docentes.
+
+e) La cooperación con el resto de las Administraciones educativas para el desarrollo de proyectos y programas dirigidos a fomentar el conocimiento y la difusión, entre las personas de la comunidad educativa, de los principios de coeducación y de igualdad efectiva entre mujeres y hombres.
+
+f) El establecimiento de medidas educativas destinadas al reconocimiento y enseñanza del papel de las mujeres en la Historia.
+
+##### Artículo 25. La igualdad en el ámbito de la educación superior.
+
+1. En el ámbito de la educación superior, las Administraciones públicas en el ejercicio de sus respectivas competencias fomentarán la enseñanza y la investigación sobre el significado y alcance de la igualdad entre mujeres y hombres.
+
+2. En particular, y con tal finalidad, las Administraciones públicas promoverán:
+
+a) La inclusión, en los planes de estudio en que proceda, de enseñanzas en materia de igualdad entre mujeres y hombres.
+
+b) La creación de postgrados específicos.
+
+c) La realización de estudios e investigaciones especializadas en la materia.
+
+##### Artículo 26. La igualdad en el ámbito de la creación y producción artística e intelectual.
+
+1. Las autoridades públicas, en el ámbito de sus competencias, velarán por hacer efectivo el principio de igualdad de trato y de oportunidades entre mujeres y hombres en todo lo concerniente a la creación y producción artística e intelectual y a la difusión de la misma.
+
+2. Los distintos organismos, agencias, entes y demás estructuras de las administraciones públicas que de modo directo o indirecto configuren el sistema de gestión cultural, desarrollarán las siguientes actuaciones:
+
+a) Adoptar iniciativas destinadas a favorecer la promoción específica de las mujeres en la cultura y a combatir su discriminación estructural y/o difusa.
+
+b) Políticas activas de ayuda a la creación y producción artística e intelectual de autoría femenina, traducidas en incentivos de naturaleza económica, con el objeto de crear las condiciones para que se produzca una efectiva igualdad de oportunidades.
+
+c) Promover la presencia equilibrada de mujeres y hombres en la oferta artística y cultural pública.
+
+d) Que se respete y se garantice la representación equilibrada en los distintos órganos consultivos, científicos y de decisión existentes en el organigrama artístico y cultural.
+
+e) Adoptar medidas de acción positiva a la creación y producción artística e intelectual de las mujeres, propiciando el intercambio cultural, intelectual y artístico, tanto nacional como internacional, y la suscripción de convenios con los organismos competentes.
+
+f) En general y al amparo del artículo 11 de la presente Ley, todas las acciones positivas necesarias para corregir las situaciones de desigualdad en la producción y creación intelectual artística y cultural de las mujeres.
+
+##### Artículo 27. Integración del principio de igualdad en la política de salud.
+
+1. Las políticas, estrategias y programas de salud integrarán, en su formulación, desarrollo y evaluación, las distintas necesidades de mujeres y hombres y las medidas necesarias para abordarlas adecuadamente.
+
+2. Las Administraciones públicas garantizarán un igual derecho a la salud de las mujeres y hombres, a través de la integración activa, en los objetivos y en las actuaciones de la política de salud, del principio de igualdad de trato, evitando que por sus diferencias biológicas o por los estereotipos sociales asociados, se produzcan discriminaciones entre unas y otros.
+
+3. Las Administraciones públicas, a través de sus Servicios de Salud y de los órganos competentes en cada caso, desarrollarán, de acuerdo con el principio de igualdad de oportunidades, las siguientes actuaciones:
+
+a) La adopción sistemática, dentro de las acciones de educación sanitaria, de iniciativas destinadas a favorecer la promoción específica de la salud de las mujeres, así como a prevenir su discriminación.
+
+b) El fomento de la investigación científica que atienda las diferencias entre mujeres y hombres en relación con la protección de su salud, especialmente en lo referido a la accesibilidad y el esfuerzo diagnóstico y terapéutico, tanto en sus aspectos de ensayos clínicos como asistenciales.
+
+c) La consideración, dentro de la protección, promoción y mejora de la salud laboral, del acoso sexual y el acoso por razón de sexo.
+
+d) La integración del principio de igualdad en la formación del personal al servicio de las organizaciones sanitarias, garantizando en especial su capacidad para detectar y atender las situaciones de violencia de género.
+
+e) La presencia equilibrada de mujeres y hombres en los puestos directivos y de responsabilidad profesional del conjunto del Sistema Nacional de Salud.
+
+f) La obtención y el tratamiento desagregados por sexo, siempre que sea posible, de los datos contenidos en registros, encuestas, estadísticas u otros sistemas de información médica y sanitaria.
+
+##### Artículo 28. Sociedad de la Información.
+
+1. Todos los programas públicos de desarrollo de la Sociedad de la Información incorporarán la efectiva consideración del principio de igualdad de oportunidades entre mujeres y hombres en su diseño y ejecución.
+
+2. El Gobierno promoverá la plena incorporación de las mujeres en la Sociedad de la Información mediante el desarrollo de programas específicos, en especial, en materia de acceso y formación en tecnologías de la información y de las comunicaciones, contemplando las de colectivos de riesgo de exclusión y del ámbito rural.
+
+3. El Gobierno promoverá los contenidos creados por mujeres en el ámbito de la Sociedad de la Información.
+
+4. En los proyectos del ámbito de las tecnologías de la información y la comunicación sufragados total o parcialmente con dinero público, se garantizará que su lenguaje y contenidos sean no sexistas.
+
+##### Artículo 29. Deportes.
+
+1. Todos los programas públicos de desarrollo del deporte incorporarán la efectiva consideración del principio de igualdad real y efectiva entre mujeres y hombres en su diseño y ejecución.
+
+2. El Gobierno promoverá el deporte femenino y favorecerá la efectiva apertura de las disciplinas deportivas a las mujeres, mediante el desarrollo de programas específicos en todas las etapas de la vida y en todos los niveles, incluidos los de responsabilidad y decisión.
+
+##### Artículo 30. Desarrollo rural.
+
+1. A fin de hacer efectiva la igualdad entre mujeres y hombres en el sector agrario, el Ministerio de Agricultura, Pesca y Alimentación y el Ministerio de Trabajo y Asuntos Sociales desarrollarán la figura jurídica de la titularidad compartida, para que se reconozcan plenamente los derechos de las mujeres en el sector agrario, la correspondiente protección de la Seguridad Social, así como el reconocimiento de su trabajo.
+
+2. En las actuaciones encaminadas al desarrollo del medio rural, se incluirán acciones dirigidas a mejorar el nivel educativo y de formación de las mujeres, y especialmente las que favorezcan su incorporación al mercado de trabajo y a los órganos de dirección de empresas y asociaciones.
+
+3. Las Administraciones públicas promoverán nuevas actividades laborales que favorezcan el trabajo de las mujeres en el mundo rural.
+
+4. Las Administraciones públicas promoverán el desarrollo de una red de servicios sociales para atender a menores, mayores y dependientes como medida de conciliación de la vida laboral, familiar y personal de hombres y mujeres en mundo rural.
+
+5. Los poderes públicos fomentarán la igualdad de oportunidades en el acceso a las tecnologías de la información y la comunicación mediante el uso de políticas y actividades dirigidas a la mujer rural, y la aplicación de soluciones alternativas tecnológicas allá donde la extensión de estas tecnologías no sea posible.
+
+##### Artículo 31. Políticas urbanas, de ordenación territorial y vivienda.
+
+1. Las políticas y planes de las Administraciones públicas en materia de acceso a la vivienda incluirán medidas destinadas a hacer efectivo el principio de igualdad entre mujeres y hombres.
+
+Del mismo modo, las políticas urbanas y de ordenación del territorio tomarán en consideración las necesidades de los distintos grupos sociales y de los diversos tipos de estructuras familiares, y favorecerán el acceso en condiciones de igualdad a los distintos servicios e infraestructuras urbanas.
+
+2. El Gobierno, en el ámbito de sus competencias, fomentará el acceso a la vivienda de las mujeres en situación de necesidad o en riesgo de exclusión, y de las que hayan sido víctimas de la violencia de género, en especial cuando, en ambos casos, tengan hijos menores exclusivamente a su cargo.
+
+3. Las Administraciones públicas tendrán en cuenta en el diseño de la ciudad, en las políticas urbanas, en la definición y ejecución del planeamiento urbanístico, la perspectiva de género, utilizando para ello, especialmente, mecanismos e instrumentos que fomenten y favorezcan la participación ciudadana y la transparencia.
+
+##### Artículo 32. Política española de cooperación para el desarrollo.
+
+1. Todas las políticas, planes, documentos de planificación estratégica, tanto sectorial como geográfica, y herramientas de programación operativa de la cooperación española para el desarrollo, incluirán el principio de igualdad entre mujeres y hombres como un elemento sustancial en su agenda de prioridades, y recibirán un tratamiento de prioridad transversal y específica en sus contenidos, contemplando medidas concretas para el seguimiento y la evaluación de logros para la igualdad efectiva en la cooperación española al desarrollo.
+
+2. Además, se elaborará una Estrategia Sectorial de Igualdad entre mujeres y hombres para la cooperación española, que se actualizará periódicamente a partir de los logros y lecciones aprendidas en los procesos anteriores.
+
+3. La Administración española planteará un proceso progresivo, a medio plazo, de integración efectiva del principio de igualdad y del enfoque de género en desarrollo (GED), en todos los niveles de su gestión, que haga posible y efectiva la aplicación de la Estrategia Sectorial de Igualdad entre mujeres y hombres, que contemple actuaciones específicas para alcanzar la transversalidad en las actuaciones de la cooperación española, y la promoción de medidas de acción positiva que favorezcan cambios significativos en la implantación del principio de igualdad, tanto dentro de la Administración como en el mandato de desarrollo de la propia cooperación española.
+
+##### Artículo 33. Contratos de las Administraciones públicas.
+
+Las Administraciones públicas, en el ámbito de sus respectivas competencias, a través de sus órganos de contratación y, en relación con la ejecución de los contratos que celebren, podrán establecer condiciones especiales con el fin de promover la igualdad entre mujeres y hombres en el mercado de trabajo, de acuerdo con lo establecido en la legislación de contratos del sector público.
+
+##### Artículo 34. Contratos de la Administración General del Estado.
+
+1. Anualmente, el Consejo de Ministros, a la vista de la evolución e impacto de las políticas de igualdad en el mercado laboral, determinará los contratos de la Administración General del Estado y de sus organismos públicos que obligatoriamente deberán incluir entre sus condiciones de ejecución medidas tendentes a promover la igualdad efectiva entre mujeres y hombres en el mercado de trabajo, conforme a lo previsto en la legislación de contratos del sector público.
+
+En el Acuerdo a que se refiere el párrafo anterior podrán establecerse, en su caso, las características de las condiciones que deban incluirse en los pliegos atendiendo a la naturaleza de los contratos y al sector de actividad donde se generen las prestaciones.
+
+2. Los órganos de contratación podrán establecer en los pliegos de cláusulas administrativas particulares la preferencia en la adjudicación de los contratos de las proposiciones presentadas por aquellas empresas que, en el momento de acreditar su solvencia técnica o profesional, cumplan con las directrices del apartado anterior, siempre que estas proposiciones igualen en sus términos a las más ventajosas desde el punto de vista de los criterios objetivos que sirvan de base a la adjudicación y respetando, en todo caso, la prelación establecida en el apartado primero de la disposición adicional octava del Texto Refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio.
+
+##### Artículo 35. Subvenciones públicas.
+
+Las Administraciones públicas, en los planes estratégicos de subvenciones que adopten en el ejercicio de sus competencias, determinarán los ámbitos en que, por razón de la existencia de una situación de desigualdad de oportunidades entre mujeres y hombres, las bases reguladoras de las correspondientes subvenciones puedan incluir la valoración de actuaciones de efectiva consecución de la igualdad por parte de las entidades solicitantes.
+
+A estos efectos podrán valorarse, entre otras, las medidas de conciliación de la vida personal, laboral y familiar, de responsabilidad social de la empresa, o la obtención del distintivo empresarial en materia de igualdad regulado en el Capítulo IV del Título IV de la presente Ley.
+
+
+### Ley 9/2003
 
 
 En la Comunidad Valenciana se ha desarrollado a través de la [Ley 9/2003](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2003/L_2003_09_ca_L_2019_09.pdf)
@@ -48,6 +341,234 @@ En la Comunidad Valenciana se ha desarrollado a través de la [Ley 9/2003](https
 | Instituciones                          | - Consejo Valenciano de las Mujeres<br>- Defensoría de la Igualdad de Género                                                                           |
 
 
+La presente ley tiene por objeto regular y hacer efectivo el principio de igualdad de mujeres y hombres en la Comunidad Valenciana, establecer los principios generales que deben orientar dicha igualdad, determinar las acciones básicas que deben ser implementadas, así como establecer la organización administrativa de la igualdad de oportunidades entre mujeres y hombres en la Comunidad Valenciana.
+
+
+Los principios generales incluyen los siguientes:
+- a) Son contrarias al ordenamiento jurídico las actuaciones públicas o los comportamientos privados que sean discriminatorios.
+- No toda desigualdad es constitutiva de discriminación. No hay una prohibición general que impida establecer cualquier diferencia, lo que se prohíbe es la desigualdad que carece de justificación objetiva, racional y razonable.
+- Cuando se disponga una diferencia de trato deben emplearse los medios que resulten proporcionados y adecuados o congruentes con los fines que se persiguen.
+
+El ámbito de la ley será de aplicación en todo el ámbito territorial de la Comunidad Valenciana, en todas las actuaciones referidas a la planificación, acciones, gestión y ejecución de actuaciones en materia de igualdad de oportunidades entre mujeres y hombres.
+
+Las actuaciones reguladas están referidas tanto a las nuevas medidas que se implementen como a las que actualmente se están realizando, así como las que ya existen en materia de igualdad de oportunidades entre mujeres y hombres, ya sean promovidas o realizadas por personas físicas o jurídicas, de naturaleza pública o privada.
+
+Artículo 4. Principios rectores de la acción administrativa
+
+Los poderes públicos valencianos adoptarán las medidas apropiadas para modificar los patrones socio-culturales de conducta asignados en función del género, con la finalidad de eliminar los prejuicios, los usos y las costumbres de cualquier índole basados en la idea de inferioridad o en funciones estereotipadas de mujeres y hombres contrarias al principio de igualdad.
+
+Las distintas administraciones públicas adoptarán una estrategia dual basada en el principio de complementariedad de medidas de acción positiva y las que respondan a la transversalidad de género. La adopción por el Gobierno Valenciano de medidas especiales de carácter temporal encaminadas a acelerar la igualdad de facto entre la mujer y el hombre no se considerará discriminatoria en la forma definida en las convenciones internacionales. Estas
+medidas cesarán cuando se hayan alcanzado los objetivos de igualdad,  portunidad y trato.
+
+El Consell de la Generalitat informará a las Corts Valencianes de las actuaciones llevadas a cabo para el cumplimiento de la presente ley.
+
+
+Artículo 4 bis. Informes de impacto de género 
+Los proyectos normativos incorporarán un informe de impacto por razón de género que se elaborará por el departamento o centro directivo que propone el anteproyecto de ley o proyecto de norma, plan o programa de acuerdo con las instrucciones y directrices que dicte el órgano competente en la materia, y deberá acompañar la propuesta desde el inicio del proceso de tramitación.
+
+
+TÍTULO II. De la Actuación Administrativa
+
+CAPÍTULO I. Educación para la igualdad
+Artículo 5. Ideario educativo y valores constitucionales
+
+La Ley de Ordenación General del Sistema Educativo sienta los principios para avanzar hacia un sistema coeducativo, entendido como modelo de enseñanza basado en la formación en igualdad entre sexos, el rechazo de toda forma de discriminación y la garantía de una orientación académica y profesional no sesgada por el género.
+
+Por ello, desde el sistema coeducativo de enseñanza se potenciará la igualdad real de mujeres y hombres, en todas sus dimensiones: curricular, escolar y otras.
+
+Artículo 6. Derecho a la educación e igualdad de oportunidades
+El Consell de la Generalitat adoptará las medidas necesarias para garantizar la oferta de enseñanza no reglada, especialmente para las mujeres de las zonas rurales, con el objetivo de que desarrollen sus capacidades en relación a su salud, a las microempresas, a la agricultura y a sus derechos legales.
+
+Artículo 7. La educación y la conciliación familiar y laboral
+El Consell de la Generalitat adoptará las medidas necesarias para garantizar la ampliación del horario de apertura de todos los centros públicos que impartan educación infantil y educación primaria, con el fin de atender las necesidades de las familias que lo precisen por el horario laboral de la madre y el padre.
+
+Artículo 8. Formación para la igualdad
+
+La administración autonómica competente en materia educativa establecerá y fomentará los mecanismos de formación, control y seguimiento, adaptados a los diferentes niveles de enseñanza (infantil, primaria, secundaria y universitaria) para implantar y garantizar la igualdad de género en el sistema educativo valenciano, mediante el seguimiento de la ejecución de los planes de igualdad y convivencia de cada centro educativo.
+
+Se reconoce la figura de la persona coordinadora de igualdad y convivencia en los centros educativos no universitarios, que integre las medidas necesarias para la igualdad real y efectiva de género y para la prevención de la violencia machista. En todo caso, sus funciones, asignación horaria para llevarlas a cabo y la formación específica que recibirán, estarán determinadas por la Administración educativa mediante la normativa correspondiente.
+
+Artículo 9. Promoción en la universidad de la igualdad de oportunidades
+A tal efecto, el Gobierno Valenciano financiará en colaboración con las universidades valencianas, actividades anuales para la promoción de asignaturas y proyectos docentes con un enfoque de género. Promoción en la Universidad de la igualdad de oportunidades. Las universidades deben promover la implantación de asignaturas y realización de proyectos docentes que incorporen la perspectiva de género.
+
+CAPÍTULO II. Igualdad y participación política
+
+Artículo 10. Representación paritaria de mujeres y hombres
+Las Corts Valencianes y el Consell de la Generalitat procurarán en el nombramiento o designación de personas, para constituir o formar parte de órganos o instituciones, que exista una presencia paritaria de mujeres y hombres.
+
+Artículo 11. Espacios electorales
+El Consell de la Generalitat favorecerá la presencia de mujeres en las candidaturas presentadas a las Corts Valencianes por los partidos políticos y agrupaciones electorales. Los medios de comunicación de titularidad pública tendrán en cuenta en la disposición del tiempo gratuito aquellas candidaturas con presencia equilibrada de mujeres y hombres, respetando, en todo caso, las previsiones de la Ley Electoral Valenciana.
+Artículo 12. Subvenciones electorales
+
+Las subvenciones electorales de la Generalitat reconocidas por ley se incrementarán en un 10 por ciento para los escaños obtenidos por mujeres, siempre que dicho incremento resulte compatible con las previsiones de la Ley Electoral Valenciana. Este mismo porcentaje se aplicará en la subvención para cada uno de los votos conseguidos por las candidaturas que se adecuen a lo dispuesto en el artículo anterior de esta ley, cuando tal porcentaje resulte compatible con las previsiones de la Ley Electoral Valenciana.
+CAPÍTULO III. Igualdad en el ámbito laboral
+
+Artículo 13. Acceso al empleo en condiciones de igualdad
+
+En relación con el trabajo, la presente ley amparará todas las medidas adecuadas para el cumplimiento de la igualdad en el acceso al empleo.
+
+Artículo 14. Igualdad y mujeres con discapacidad
+La Generalitat garantizará que las medidas de apoyo a la inserción laboral contemplen especialmente a las mujeres discapacitadas, sobre todo en aquellos aspectos que puedan redundar en el mejor mantenimiento de su estado de salud o evitación de empeoramiento del mismo, así como en la conciliación familiar y crianza de las hijas y los hijos.
+
+Artículo 15. Medidas de fomento del empleo
+El Consell de la Generalitat, incorporará a los Planes de Empleo Valenciano medidas específicas de igualdad para favorecer el acceso de las mujeres a su primer trabajo, facilitará el acceso a un empleo a mujeres mayores de 45 años que no hayan desarrollado nunca un trabajo fuera del hogar, y facilitará el retorno al mercado de trabajo a aquellas mujeres que lo abandonaron para cuidar a su descendencia, personas mayores y otras personas dependientes a su cargo.
+
+Se establecerán y activarán programas integrales de formación profesional, de fomento de empleo y conciliación de vida familiar y laboral, para la incorporación de las mujeres a puestos de trabajo, profesionales y sectores de la economía valenciana en los que estén infrarrepresentadas. Estos programas serán específicos y prioritarios para aquellas mujeres con riesgo de exclusión social.
+
+Artículo 16. Red Valenciana de Igualdad
+La Generalitat implementa un servicio específico de promoción de la igualdad a través de la Red Valenciana de Igualdad que, además de la incorporación de la perspectiva de género en las políticas públicas municipales, el asesoramiento y la sensibilización de las mujeres, y la prevención de la violencia de género, se encarga de informar a empresas y entidades en la elaboración e implementación de planes de igualdad dentro de sus organizaciones laborales, así como de elaborar los correspondientes informes técnicos para la obtención del visado.
+
+Artículo 17. Conciliación de vida familiar y laboral
+La administración autonómica ampliará la red pública de escuelas infantiles y guarderías laborales en las empresas, o prestaciones económicas equivalentes, en los períodos extraescolares, con el fin de hacer compatible el trabajo con la maternidad y la paternidad a aquellas trabajadoras y trabajadores con descendencia de menos de tres años de edad y en período de vacaciones a los mayores de tres años.
+
+Artículo 18. Flexibilidad de horarios
+Las administraciones públicas incentivarán a las empresas que faciliten la inclusión, en los convenios colectivos de empresa y de ámbito superior, de acuerdos sobre la flexibilidad de horarios en función de las necesidades familiares del personal a su servicio.
+
+Artículo 19. Permisos parentales
+Con el fin de fomentar el permiso parental compartido, la administración autonómica pondrá en marcha campañas de sensibilización y tomará medidas que incentiven a las empresas y al personal a su servicio.
+
+Artículo 20. Los planes de igualdad en las empresas
+
+La administración autonómica incentivará a las empresas que establezcan planes de igualdad que tengan por objeto corregir las desigualdades de género, incorporen medidas innovadoras para hacer realidad la igualdad en su organización, y proporcionen servicios que faciliten la conciliación de vida familiar y laboral del personal a su servicio.
+
+A los efectos de esta ley, se consideran planes de igualdad aquellos documentos en los que se vertebran las estrategias de las entidades para la consecución real y efectiva del principio de igualdad de oportunidades entre mujeres y hombres, y que necesariamente deberán contener medidas concretas para hacer efectivo dicho principio.
+
+Para obtener las correspondientes ayudas previstas para las empresas, sus planes de igualdad, tendrán ser visados por el centro directivo de la administración de la Generalitat Valenciana con competencias en materia de mujeres e igualdad de género.
+
+El visado podrá obtenerse previa solicitud por parte de las empresas, teniendo que presentar en caso de su obtención, un informe de evaluación de resultados a mitad del periodo de la vigencia del plan de igualdad, y otro a su finalización ante este organismo. Transcurrido el plazo seis meses sin que se haya dictado resolución expresa, se entenderá desestimada la solicitud
+
+Las empresas u organizaciones participadas mayoritariamente con capital público deberán elaborar un plan de igualdad.
+
+Artículo 21. La discriminación salarial
+Los departamentos de la administración autonómica competente en materia de empleo, establecerán instrumentos adecuados al servicio de la Inspección de Trabajo para controlar y hacer cumplir a las personas empleadoras el principio de igualdad de remuneración de mujeres y hombres por un mismo trabajo o por trabajos de igual valor, así como cualesquiera otra medida que considere necesaria para asegurar el principio de igualdad de remuneración.
+
+Artículo 22. Programas de inserción socio-laboral para las víctimas de malos tratos
+La administración autonómica implantará programas de inserción socio-laboral individualizados para las víctimas de malos tratos que posibiliten su incorporación efectiva al mercado laboral.
+
+Artículo 23. El acoso sexual
+En el ámbito de sus competencias, la Administración autonómica incorporará y aplicará en las relaciones laborales el código de conducta contra el acoso sexual recogido en la Recomendación de la Comisión de las Comunidades Europeas de 27 de noviembre de 1991, relativa a la protección de la dignidad de la mujer y del hombre en el trabajo, y en los planes de igualdad elaborados por las empresas.
+
+Artículo 24. La igualdad en la negociación colectiva
+La administración autonómica, a través del registro de convenios colectivos, informará la aplicación del principio de igualdad de géneros. Cuando a través del registro de convenios se observara la existencia de un convenio que contenga cláusulas que pudieran ser contrarias al principio de igualdad reconocido en la Constitución española y desarrollado por la presente ley, la autoridad competente adoptará las medidas oportunas previstas en la legislación laboral.
+
+CAPÍTULO IV. Bienestar y Familia
+
+Artículo 25. El cuidado de las personas dependientes
+La administración autonómica establecerá los medios necesarios para atender la demanda de cuidados de la población infantil, personas mayores y personas con discapacidad, facilitando el acceso de los servicios al lugar de residencia de las personas beneficiarias, con el objeto de favorecer la incorporación de las mujeres al mercado de trabajo
+
+Artículo 26. La feminización de la pobreza
+En el ámbito de aplicación de la presente ley, y para evitar las bolsas de marginalidad o pobreza que está suponiendo el impago reiterado de las pensiones por alimentos a las mujeres, la Generalitat Valenciana garantizará, mediante un sistema de anticipos, el pago de alimentos reconocidos, a favor de las hijas e hijos menores de edad, en convenio judicialmente aprobado o resolución judicial, en los supuestos de separación legal, divorcio, declaración de nulidad del matrimonio y proceso de filiación o de alimentos. El pago de los anticipos previstos se atenderá con cargo a un Fondo dotado en los Presupuestos de la Generalitat Valenciana. La gestión de dicho Fondo corresponderá a la Conselleria de Economía, Hacienda y Empleo.
+
+Artículo 27. Plan Integral de la Familia e Infancia
+El Gobierno Valenciano incluirá en la planificación de sus actuaciones en materia de familia e infancia, medidas dirigidas a facilitar la corresponsabilidad y ejercicio conjunto de las cargas familiares y procurar la igualdad real de mujeres y hombres en la esfera de las tareas domésticas.
+
+
+CAPÍTULO V. Igualdad de oportunidades en el marco
+de la sociedad de la información Artículo 28. Acceso a las nuevas tecnologías
+
+La Generalitat facilitará el acceso de las mujeres al manejo de las nuevas tecnologías de la comunicación e información, con especial incidencia en la población femenina.
+
+Para ello, promoverá programas específicos que involucren a las mujeres en la sociedad de la información a través de programas formativos que permitan la adquisición de conocimientos en el manejo de las nuevas tecnologías.
+
+Artículo 29. Campañas de información e igualdad de mujeres con discapacidad La Generalitat Valenciana, en todas las campañas de información sobre las medidas y normas contempladas en la ley, en especial las de sensibilización contra la violencia de género, vigilará para la utilización de los medios adecuados para hacer llegar sus mensajes a las mujeres con discapacidad.
+
+Artículo 30. Servicios de traducción:
+La Generalitat Valenciana garantizará servicios de traducción o interpretación al lenguaje de signos para atender a mujeres carentes de visión u oído, de tal manera que se facilitarán los textos con los derechos, servicios y recursos existentes en braille para mujeres ciegas y transcripciones de los mismos para personas sordas.
+
+Artículo 31. Acceso a la información y comunicación
+La administración autonómica adoptará, con el fin de evitar cualquier tipo de discriminación, las medidas necesarias para erradicar las barreras que dificulten el acceso de las mujeres a la utilización de los diversos recursos de comunicación e información.
+
+Artículo 32. Fomento de la participación femenina
+La Administración autonómica promoverá una mayor representación de las mujeres en puestos técnicos y de diseño de tecnologías de la información, promoviendo programas que estimulen y eliminen obstáculos a su participación en este ámbito.
+
+CAPÍTULO VI. De la violencia contra las mujeres
+Artículo 33. Investigación sobre la violencia de género
+
+1 La administración autonómica promoverá la investigación sobre las causas de la violencia contra las mujeres e implantará medidas para impedirla y reparar sus efectos.
+2 El Consell de la Generalitat promoverá, en el marco de las ayudas a la investigación, el estudio en la Comunidad Valenciana de un seguimiento de los procesos iniciados por malos tratos, agresiones sexuales y acoso sexual y de las resoluciones dictadas por Juzgados y Tribunales, prestando especial atención a las medidas cautelares adoptadas, y al razonamiento de las sentencias o autos.
+
+Artículo 34. Asistencia a las víctimas de violencia de género
+
+Las administraciones públicas valencianas ofrecerán, en el ámbito de sus competencias,asistencia jurídica y psicológica especializada y gratuita a las víctimas de la violencia de género.
+
+
+Artículo 35. Seguimiento e información sobre las actuaciones en materia de violencia contra las mujeres
+
+El Gobierno remitirá a las Cortes Valencianas, al menos con carácter anual, un informe en que preceptivamente se contengan:
+
+- a) Los recursos humanos asistenciales y económicos destinados por la Administración autonómica a la prevención de los malos tratos y a la protección de la mujeres víctimas de ellos.
+- ) Información sobre el número de denuncias presentadas por malos tratos a mujeres.
+- c) Las actuaciones desarrolladas por la Administración autonómica para dar asistencia a las mujeres maltratadas.
+- d) Los procedimientos penales iniciados sobre violencia doméstica, con indicación de su número, la clase de procedimiento penal, el delito o falta imputado y la intervención de la Administración autonómica en dichos procedimientos. La reproducción de las sentencias firmes condenatorias sobre violencia doméstica, cuando se cuente con el consentimiento de la víctima o, cuando ésta no pudiere prestarlo, con el consentimiento de las personas perjudicadas. En todo caso, se respetará la intimidad de la víctima, su entorno familiar y, fundamentalmente, la intimidad de las/los menores afectadas/os.
+- e) Las actuaciones llevadas a cabo para la readaptación de los agresores.
+- f) Las actividades llevadas a cabo por el Consell de la Generalitat en materia de prevención y sensibilización contra la violencia hacia las mujeres.
+
+Artículo 36. Personación de la Administración autonómica en los  procedimientos por malos tratos
+
+La Conselleria con competencias en materia de mujer podrá proponer al Consell de la Generalitat el ejercicio de la acción popular, a través del Gabinete Jurídico de la Generalitat o de abogadas/os colegiadas/os, en los supuestos de agresiones físicas domésticas en los que se cause la muerte o lesiones graves a mujeres residentes en la Comunidad Valenciana.
+
+Artículo 37. Protocolos de coordinación en los casos de malos tratos
+La Generalitat adoptará protocolos de actuación cuya finalidad sea garantizar una actuación coordinada y eficaz de los diversos órganos y entidades que intervengan o presten asistencia en los supuestos de malos tratos. Del mismo modo, se promoverán fórmulas de colaboración con las restantes administraciones públicas valencianas con competencias en la materia. Se tendrán en cuenta los aspectos ya recogidos en el Plan de Igualdad de Oportunidades.
+
+Artículo 38. Prestaciones para vivienda
+Las mujeres víctimas de malos tratos que hayan tenido que abandonar su domicilio, tendrán acceso preferente a las viviendas sociales o, en su caso, tendrán preferencia en la percepción de una prestación económica específica para el alquiler de una vivienda, cuando no dispongan de recursos propios suficientes.
+
+Artículo 39. Protección a las víctimas de malos tratos
+La Generalitat adoptará sistemas especiales de protección a las víctimas de malos tratos, en aquellas situaciones en las que se presuma que puedan ser objeto de un grave riesgo físico.
+
+CAPÍTULO VII. Igualdad y medios de comunicación
+Artículo 40. Imagen de la mujer y pluralidad de roles
+
+Los medios de comunicación de titularidad pública, y aquellos en los que participen o subvencionen las administraciones públicas valencianas, transmitirán en su programación una imagen de las mujeres que se corresponda con la pluralidad de roles y funciones ejercidos por ellas en la sociedad.
+
+Artículo 41. Programación y valores constitucionales
+En la programación de los medios de comunicación señalados en el artículo anterior se promoverán la igualdad, la tolerancia, el rechazo a la violencia, la dignidad de las personas y los valores constitucionales.
+
+Artículo 42. Publicidad no sexista en la Comunitat Valenciana 5
+La Generalitat velará, de manera específica, por el cumplimiento del principio de igualdad y no discriminación en la publicidad en los medios de comunicación social o cualquier otro medio de difusión.
+
+Artículo 43. Sobre la erradicación de la violencia
+
+El Consell de la Generalitat garantizará en los medios de comunicación audiovisual de titularidad pública, la emisión de programas cuyo objetivo sea erradicar la violencia contra las mujeres, el acoso sexual y la explotación sexual de la mujer. Así mismo, se programará la emisión de campañas institucionales sostenidas en el tiempo de sensibilización contra la violencia de género
+
+TÍTULO III. Igualdad y Administración Pública
+
+Artículo 44. Igualdad en los procesos de formación y promoción de puestos de trabajo Las administraciones públicas valencianas establecerán planes plurianuales de formación con el fin de promover, dentro del respeto a los principios de mérito y capacidad, el acceso de las mujeres a la promoción interna de la función pública.
+
+Artículo 45. Igualdad en la promoción interna
+Las administraciones públicas establecerán planes plurianuales de los distintos departamentos con el fin de promover el acceso de las mujeres a la promoción interna de la función pública. Cada departamento deberá fijar en los respectivos planes los indicadores y objetivos.
+
+Artículo 46. Fomento de la igualdad en el ámbito de la contratación
+
+En caso de empate en la puntuación obtenida por dos o más empresas a las que les hubiera correspondido la máxima puntuación, tendrán preferencia en la adjudicación de los contratos administrativos de la Generalitat, las proposiciones de los licitadores que con la solvencia técnica de la empresa presenten un plan de igualdad previamente aprobado por cualquier administración pública u órgano competente, siempre que las mismas igualen en sus términos a las más ventajosas desde el punto de vista de los criterios objetivos que sirven de base para la adjudicación.
+
+Sin perjuicio de lo establecido en el apartado anterior, el órgano de contratación podrá acordar el establecimiento de otros criterios adicionales de desempate de las empresas, incluida su prelación. 
+
+La adopción de cualquier criterio adicional deberá constar, en todo caso, en el anuncio de licitación. 
+
+Artículo 47. Acoso sexual
+
+La administración autonómica incorporará en el Régimen de la Función Pública Valenciana el código de conducta contra el acoso sexual recogido en la Recomendación de la Comisión de las Comunidades Europeas de 27 de noviembre de 1991, relativa a la protección de la dignidad 
+de la mujer y del hombre en el trabajo.
+
+Artículo 48. El lenguaje no-sexista en los escritos administrativos
+
+Las administraciones públicas valencianas pondrán en marcha los medios necesarios para que toda norma o escrito administrativo respeten en su redacción las normas relativas a la utilización de un lenguaje no-sexista.
+
+Artículo 49. Datos estadísticos e investigaciones
+
+El Consell de la Generalitat, impulsará la desagregación de datos por sexos en todas las estadísticas e investigaciones que se lleven a cabo en la Comunitat Valenciana, profundizará en el estudio e investigación sobre la realidad social desde una perspectiva de género, y dará cuenta de la evolución de los índices de igualdad de mujeres y hombres en el ámbito de la Comunitat Valenciana.
+
+
+TÍTULO IV. Instituciones de Protección del Derecho
+
+- **Consejo Valenciano de las Mujeres**: siendo que la Generalitat tiene la obligación de impulsar políticas tendentes a eliminar las discriminaciones respecto a las mujeres en nuestra Comunitat y promover la plena participación de las mujeres en la vida política, económica y social, resulta imprescindible contar con el asesoramiento de un órgano de participación como es el Consejo Valenciano de las Mujeres.
+
+- **Defensoría de la Igualdad de Género**: se creará la Defensoría de la Igualdad, con objeto de vigilar el cumplimiento de lo previsto en la misma. Será desempeñada por el Síndic de Greuges, en la forma y condiciones que prevé su ley de creación.
+
+
+
+---
 Las medidas incluyen las siguientes: 
 
 | Ámbito                     | Medidas                                                                                                                                                                                                                                                                                                                                           |
@@ -60,6 +581,8 @@ Las medidas incluyen las siguientes:
 | Violencia                  | - Investigación<br>- Asistencia (víctimas)<br>- Seguimiento e información de actuaciones<br>- Personación de la Administración autonómica (procedimientos de malos tratos)<br>- Protocolos de coordinación (malos tratos)<br>- Prestaciones para vivienda<br>- Protección a las víctimas                                                          |
 | Medios de comunicación     | - Imagen de la mujer y pluralidad de roles<br>- Programación y valores constitucionales<br>- Publicidad no sexista<br>- Erradicación de la violencia                                                                                                                                                                                              |
 
+
+### Ley 4/2023
 
 Además, respecto a las personas trans y LTBI se han incluido en la [Ley 4/2023](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366)
 
@@ -79,7 +602,7 @@ Además, respecto a las personas trans y LTBI se han incluido en la [Ley 4/2023]
 
 El deber de protección ([artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366&p=20230301&tn=1#a4)) 
 
-
+Los poderes públicos, en el ámbito de sus competencias, desarrollarán todas las medidas necesarias para reconocer, garantizar, proteger y promover la igualdad de trato y no discriminación por razón de orientación e identidad sexual, expresión de género o características sexuales de las personas LGTBI y sus familias.
 
 #### Medidas en el ámbito administrativo
 
@@ -112,27 +635,27 @@ La violencia de género se regula mediante la [Ley Orgánica 1/2004](https://boe
 
 El objeto es (artículo 1), a través de los siguientes principios rectores (artículo 2):
 
-a) Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.
+- Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.
 
-b) Consagrar derechos de las mujeres víctimas de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.
+- Consagrar derechos de las mujeres víctimas de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.
 
-c) Reforzar hasta la consecución de los mínimos exigidos por los objetivos de la ley los servicios sociales de información, de atención, de emergencia, de apoyo y de recuperación integral, así como establecer un sistema para la más eficaz coordinación de los servicios ya existentes a nivel municipal y autonómico.
+- Reforzar hasta la consecución de los mínimos exigidos por los objetivos de la ley los servicios sociales de información, de atención, de emergencia, de apoyo y de recuperación integral, así como establecer un sistema para la más eficaz coordinación de los servicios ya existentes a nivel municipal y autonómico.
 
-d) Garantizar derechos en el ámbito laboral y funcionarial que concilien los requerimientos de la relación laboral y de empleo público con las circunstancias de aquellas trabajadoras o funcionarias que sufran violencia de género.
+- Garantizar derechos en el ámbito laboral y funcionarial que concilien los requerimientos de la relación laboral y de empleo público con las circunstancias de aquellas trabajadoras o funcionarias que sufran violencia de género.
 
-e) Garantizar derechos económicos para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social.
+- Garantizar derechos económicos para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social.
 
-f) Establecer un sistema integral de tutela institucional en el que la Administración General del Estado, a través de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, en colaboración con el Observatorio Estatal de la Violencia sobre la Mujer, impulse la creación de políticas públicas dirigidas a ofrecer tutela a las víctimas de la violencia contemplada en la presente Ley.
+- Establecer un sistema integral de tutela institucional en el que la Administración General del Estado, a través de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, en colaboración con el Observatorio Estatal de la Violencia sobre la Mujer, impulse la creación de políticas públicas dirigidas a ofrecer tutela a las víctimas de la violencia contemplada en la presente Ley.
 
-g) Fortalecer el marco penal y procesal vigente para asegurar una protección integral, desde las instancias jurisdiccionales, a las víctimas de violencia de género.
+- Fortalecer el marco penal y procesal vigente para asegurar una protección integral, desde las instancias jurisdiccionales, a las víctimas de violencia de género.
 
-h) Coordinar los recursos e instrumentos de todo tipo de los distintos poderes públicos para asegurar la prevención de los hechos de violencia de género y, en su caso, la sanción adecuada a los culpables de los mismos.
+- Coordinar los recursos e instrumentos de todo tipo de los distintos poderes públicos para asegurar la prevención de los hechos de violencia de género y, en su caso, la sanción adecuada a los culpables de los mismos.
 
-i) Promover la colaboración y participación de las entidades, asociaciones y organizaciones que desde la sociedad civil actúan contra la violencia de género.
+- Promover la colaboración y participación de las entidades, asociaciones y organizaciones que desde la sociedad civil actúan contra la violencia de género.
 
-j) Fomentar la especialización de los colectivos profesionales que intervienen en el proceso de información, atención y protección a las víctimas.
+- Fomentar la especialización de los colectivos profesionales que intervienen en el proceso de información, atención y protección a las víctimas.
 
-k) Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.
+- Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.
 
 
 #### Medidas de sensibilización, prevención y detección
@@ -177,12 +700,295 @@ Finalmente, en cuestión de transparencia, información pública, y buen gobiern
 
 #### Título preliminar
 
+Esta Ley tiene por objeto los siguientes: 
 
-
+- Ampliar y reforzar la transparencia de la actividad pública
+- Regular y garantizar el derecho de acceso a la información relativa a aquella actividad
+- Establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos
+- Consecuencias derivadas de su incumplimiento.
 
 #### Transparencia de la actividad pública
 
+|                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actividad pública | - Administración: estatal, autonómica, y local<br>- Seguridad Social: entidades gestoras y servicios comunes, las mutuas de accidentes de trabajo y enfermedades profesionales colaboradoras.<br>- Organismos autónomos, Agencias Estatales, entidades públicas empresariales y las entidades de Derecho Público que, con independencia funcional o con una especial autonomía reconocida por la Ley, tengan atribuidas funciones de regulación o supervisión de carácter externo sobre un determinado sector o actividad.<br><br>- d) Las entidades de Derecho Público con personalidad jurídica propia, vinculadas a cualquiera de las Administraciones Públicas o dependientes de ellas, incluidas las Universidades públicas.<br><br>- Corporaciones de Derecho Público (en lo relativo a sus actividades sujetas a Derecho Administrativo)<br>- Casa de su Majestad el Rey<br>- Congreso de los Diputados<br>- Senado<br>- Tribunal Constitucional<br>- Consejo General del Poder Judicial<br>- Banco de España<br>- Consejo de Estado<br>- Defensor del Pueblo<br>- Tribunal de Cuentas<br>- Consejo Económico y Social ***y las instituciones autonómicas análogas, en relación con sus actividades sujetas a Derecho Administrativo.***<br><br>- Sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea superior al 50 por 100.<br><br>- Fundaciones del sector público previstas en la legislación en materia de fundaciones.<br><br>- Asociaciones constituidas por las Administraciones, organismos y entidades previstos en este artículo. Se incluyen los órganos de cooperación previstos en el artículo 5 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la medida en que, por su peculiar naturaleza y por carecer de una estructura administrativa propia, le resulten aplicables las disposiciones de este título. En estos casos, el cumplimiento de las obligaciones derivadas de la presente Ley serán llevadas a cabo por la Administración que ostente la Secretaría del órgano de cooperación. |
+| Publicidad activa | - Partidos políticos<br>- Organizaciones sindicales<br>- Organizaciones empresariales<br>- Entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas en una cuantía superior a 100.000 euros o cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
+ *A los efectos de lo previsto en este título, se entiende por Administraciones Públicas los organismos y entidades incluidos en las letras a) a d) del apartado anterior.*
+
+
+##### Artículo 4. Obligación de suministrar información.
+
+Las personas físicas y jurídicas distintas de las referidas en los artículos anteriores que presten servicios públicos o ejerzan potestades administrativas estarán obligadas a suministrar a la Administración, organismo o entidad de las previstas en el artículo 2.1 a la que se encuentren vinculadas, previo requerimiento, toda la información necesaria para el cumplimiento por aquéllos de las obligaciones previstas en este título. Esta obligación se extenderá a los adjudicatarios de contratos del sector público en los términos previstos en el respectivo contrato.
+
+#### CAPÍTULO II
+
+#### Publicidad activa
+
+##### Artículo 5. Principios generales.
+
+Los sujetos enumerados en el artículo 2.1 publicarán de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad relacionada con el funcionamiento y control de la actuación pública.
+
+Las obligaciones de transparencia contenidas en este capítulo se entienden sin perjuicio de la aplicación de la normativa autonómica correspondiente o de otras disposiciones específicas que prevean un régimen más amplio en materia de publicidad.
+
+Serán de aplicación, en su caso, los límites al derecho de acceso a la información pública previstos en el artículo 14 y, especialmente, el derivado de la protección de datos de carácter personal, regulado en el artículo 15. A este respecto, cuando la información contuviera datos especialmente protegidos, la publicidad sólo se llevará a cabo previa disociación de los mismos.
+
+La información sujeta a las obligaciones de transparencia será publicada en las correspondientes sedes electrónicas o páginas web y de una manera clara, estructurada y entendible para los interesados y, preferiblemente, en formatos reutilizables. Se establecerán los mecanismos adecuados para facilitar la accesibilidad, la interoperabilidad, la calidad y la reutilización de la información publicada así como su identificación y localización.
+
+Cuando se trate de entidades sin ánimo de lucro que persigan exclusivamente fines de interés social o cultural y cuyo presupuesto sea inferior a 50.000 euros, el cumplimiento de las obligaciones derivadas de esta Ley podrá realizarse utilizando los medios electrónicos puestos a su disposición por la Administración Pública de la que provenga la mayor parte de las ayudas o subvenciones públicas percibidas.
+
+Toda la información será comprensible, de acceso fácil y gratuito y estará a disposición de las personas con discapacidad en una modalidad suministrada por medios o en formatos adecuados de manera que resulten accesibles y comprensibles, conforme al principio de accesibilidad universal y diseño para todos.
+
+##### Artículo 6. Información institucional, organizativa y de planificación.
+
+Los sujetos comprendidos en el ámbito de aplicación de este título publicarán información relativa a las funciones que desarrollan, la normativa que les sea de aplicación así como a su estructura organizativa. A estos efectos, incluirán un organigrama actualizado que identifique a los responsables de los diferentes órganos y su perfil y trayectoria profesional.
+
+Las Administraciones Públicas publicarán los planes y programas anuales y plurianuales en los que se fijen objetivos concretos, así como las actividades, medios y tiempo previsto para su consecución. Su grado de cumplimiento y resultados deberán ser objeto de evaluación y publicación periódica junto con los indicadores de medida y valoración, en la forma en que se determine por cada Administración competente.
+
+En el ámbito de la Administración General del Estado corresponde a las inspecciones generales de servicios la evaluación del cumplimiento de estos planes y programas.
+
+##### Artículo 6 bis. Registro de actividades de tratamiento.
+
+Los sujetos enumerados (artículo 77.1 de la Ley Orgánica 3/2018), publicarán su inventario de actividades de tratamiento (artículo 31 de la citada Ley Orgánica).
+
+
+
+
+##### Artículo 7. Información de relevancia jurídica.
+
+Las Administraciones Públicas, en el ámbito de sus competencias, publicarán:
+
+- a) Las directrices, instrucciones, acuerdos, circulares o respuestas a consultas planteadas por los particulares u otros órganos en la medida en que supongan una interpretación del Derecho o tengan efectos jurídicos.
+
+- b) Los Anteproyectos de Ley y los proyectos de Decretos Legislativos cuya iniciativa les corresponda, cuando se soliciten los dictámenes a los órganos consultivos correspondientes. En el caso en que no sea preceptivo ningún dictamen la publicación se realizará en el momento de su aprobación.
+
+- c) Los proyectos de Reglamentos cuya iniciativa les corresponda. Cuando sea preceptiva la solicitud de dictámenes, la publicación se producirá una vez que estos hayan sido solicitados a los órganos consultivos correspondientes sin que ello suponga, necesariamente, la apertura de un trámite de audiencia pública.
+
+- d) Las memorias e informes que conformen los expedientes de elaboración de los textos normativos, en particular, la memoria del análisis de impacto normativo regulada por el Real Decreto 1083/2009, de 3 de julio.
+
+- e) Los documentos que, conforme a la legislación sectorial vigente, deban ser sometidos a un período de información pública durante su tramitación.
+
+##### Artículo 8. Información económica, presupuestaria y estadística.
+
+Teniendo en cuenta las competencias legislativas de las Comunidades Autónomas, los sujetos incluidos en el ámbito de aplicación de este título deberán hacer pública, como mínimo, la información relativa a los actos de gestión administrativa con repercusión económica o presupuestaria que se indican a continuación:
+
+- a) Todos los contratos, con indicación del objeto, duración, el importe de la licitación y de adjudicación, el procedimiento utilizado para su celebración, los instrumentos a través de los que, en su caso, se ha publicitado, el número de licitadores participantes en el procedimiento y la identidad del adjudicatario, así como las modificaciones del contrato. Igualmente serán objeto de publicación las decisiones de desistimiento y renuncia de los contratos. La publicación de la información relativa a los contratos menores podrá realizarse trimestralmente.
+
+	Asimismo, se publicarán datos estadísticos sobre el porcentaje en volumen presupuestario de contratos adjudicados a través de cada uno de los procedimientos previstos en la legislación de contratos del sector público.
+	
+	Además, se publicará información estadística sobre el porcentaje de participación en contratos adjudicados, tanto en relación con su número como en relación con su valor, de la categoría de microempresas, pequeñas y medianas empresas (pymes), entendidas como tal según el anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, para cada uno de los procedimientos y tipologías previstas en la legislación de contratos del sector público. La publicación de esta información se realizará semestralmente, a partir de un año de la publicación de la norma.
+
+- b) La relación de los convenios suscritos, con mención de las partes firmantes, su objeto, plazo de duración, modificaciones realizadas, obligados a la realización de las prestaciones y, en su caso, las obligaciones económicas convenidas. Igualmente, se publicarán las encomiendas de gestión que se firmen, con indicación de su objeto, presupuesto, duración, obligaciones económicas y las subcontrataciones que se realicen con mención de los adjudicatarios, procedimiento seguido para la adjudicación e importe de la misma.
+
+- c) Las subvenciones y ayudas públicas concedidas con indicación de su importe, objetivo o finalidad y beneficiarios.
+
+- d) Los presupuestos, con descripción de las principales partidas presupuestarias e información actualizada y comprensible sobre su estado de ejecución y sobre el cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera de las Administraciones Públicas.
+
+- e) Las cuentas anuales que deban rendirse y los informes de auditoría de cuentas y de fiscalización por parte de los órganos de control externo que sobre ellos se emitan.
+
+- f) Las retribuciones percibidas anualmente por los altos cargos y máximos responsables de las entidades incluidas en el ámbito de la aplicación de este título. Igualmente, se harán públicas las indemnizaciones percibidas, en su caso, con ocasión del abandono del cargo.
+
+- g) Las resoluciones de autorización o reconocimiento de compatibilidad que afecten a los empleados públicos así como las que autoricen el ejercicio de actividad privada al cese de los altos cargos de la Administración General del Estado o asimilados según la normativa autonómica o local.
+
+- h) Las declaraciones anuales de bienes y actividades de los representantes locales, en los términos previstos en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local. Cuando el reglamento no fije los términos en que han de hacerse públicas estas declaraciones se aplicará lo dispuesto en la normativa de conflictos de intereses en el ámbito de la Administración General del Estado. En todo caso, se omitirán los datos relativos a la localización concreta de los bienes inmuebles y se garantizará la privacidad y seguridad de sus titulares.
+
+- i) La información estadística necesaria para valorar el grado de cumplimiento y calidad de los servicios públicos que sean de su competencia, en los términos que defina cada administración competente.
+
+Los sujetos mencionados en el artículo 3 deberán publicar la información a la que se refieren las letras a) y b) del apartado primero de este artículo cuando se trate de contratos o convenios celebrados con una Administración Pública. Asimismo, habrán de publicar la información prevista en la letra c) en relación a las subvenciones que reciban cuando el órgano concedente sea una Administración Pública.
+
+3. Las Administraciones Públicas publicarán la relación de los bienes inmuebles que sean de su propiedad o sobre los que ostenten algún derecho real.
+
+##### Artículo 9. Control.
+
+El cumplimiento por la Administración General del Estado de las obligaciones contenidas en este capítulo será objeto de control por parte del Consejo de Transparencia y Buen Gobierno.
+
+En ejercicio de la competencia prevista en el apartado anterior, el Consejo de Transparencia y Buen Gobierno, de acuerdo con el procedimiento que se prevea reglamentariamente, podrá dictar resoluciones en las que se establezcan las medidas que sea necesario adoptar para el cese del incumplimiento y el inicio de las actuaciones disciplinarias que procedan.
+El incumplimiento reiterado de las obligaciones de publicidad activa reguladas en este capítulo tendrá la consideración de infracción grave a los efectos de aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.
+
+##### Artículo 10. Portal de la Transparencia.
+
+La Administración General del Estado desarrollará un [Portal de la Transparencia](https://transparencia.gob.es/), dependiente del Ministerio de la Presidencia, que facilitará el acceso de los ciudadanos a toda la información a la que se refieren los artículos anteriores relativa a su ámbito de actuación.
+
+El Portal de la Transparencia incluirá, en los términos que se establezcan reglamentariamente, la información de la Administración General del Estado, cuyo acceso se solicite con mayor frecuencia.
+
+La Administración General del Estado, las Administraciones de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla y las entidades que integran la Administración Local podrán adoptar otras medidas complementarias y de colaboración para el cumplimiento de las obligaciones de transparencia recogidas en este capítulo.
+
+##### Artículo 11. Principios técnicos.
+
+El Portal de la Transparencia contendrá información publicada de acuerdo con las prescripciones técnicas que se establezcan reglamentariamente que deberán adecuarse a los siguientes principios:
+
+- **Accesibilidad**: se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información.
+
+- **Interoperabilidad**: la información publicada será conforme al Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto 4/2010, de 8 enero, así como a las normas técnicas de interoperabilidad.
+
+- **Reutilización**: se fomentará que la información sea publicada en formatos que permita su reutilización, de acuerdo con lo previsto en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público y en su normativa de desarrollo.
+
+**Derecho de acceso a la información pública**
+
+Todas las personas tienen derecho a acceder a la información pública (artículo 105.b de la Constitución Española, desarrollados por esta Ley, y normativa autonómica).
+
+Se entiende por información pública:
+
+>los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de este título y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.
+
+
+El derecho de acceso podrá ser limitado cuando acceder a la información suponga un perjuicio para lo siguientes ámbitos:
+
+- Seguridad nacional
+- Defensa
+- Relaciones exteriores
+- Seguridad pública
+- Prevención, investigación y sanción de los ilícitos (penales, administrativos o disciplinarios)
+- Igualdad de las partes en los procesos judiciales y la tutela judicial efectiva
+- Funciones administrativas de vigilancia, inspección y control
+- Intereses económicos y comerciales
+- Política económica y monetaria
+- Secreto profesional y la propiedad intelectual e industrial
+- Confidencialidad o el secreto requerido en procesos de toma de decisión
+- Protección del medio ambiente
+
+La aplicación de los límites será justificada y proporcionada a su objeto y finalidad de protección y atenderá a las circunstancias del caso concreto, especialmente a la concurrencia de un interés público o privado superior que justifique el acceso.
+
+Las resoluciones que de conformidad con lo previsto en la sección 2.ª se dicten en aplicación de este artículo serán objeto de publicidad previa disociación de los datos de carácter personal que contuvieran y sin perjuicio de lo dispuesto en el apartado 3 del artículo 20, una vez hayan sido notificadas a los interesados.
+
+##### Artículo 15. Protección de datos personales.
+
+Si la información solicitada contuviera datos personales que revelen la ideología, afiliación sindical, religión o creencias, el acceso únicamente se podrá autorizar en caso de que se contase con el consentimiento expreso y por escrito del afectado, a menos que dicho afectado hubiese hecho manifiestamente públicos los datos con anterioridad a que se solicitase el acceso.
+
+Si la información incluyese datos personales que hagan referencia al origen racial, a la salud o a la vida sexual, incluyese datos genéticos o biométricos o contuviera datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor, el acceso solo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquel estuviera amparado por una norma con rango de ley.
+
+Con carácter general, y salvo que en el caso concreto prevalezca la protección de datos personales u otros derechos constitucionalmente protegidos sobre el interés público en la divulgación que lo impida, se concederá el acceso a información que contenga datos meramente identificativos relacionados con la organización, funcionamiento o actividad pública del órgano.
+
+Cuando la información solicitada no contuviera datos especialmente protegidos, el órgano al que se dirija la solicitud concederá el acceso previa ponderación suficientemente razonada del interés público en la divulgación de la información y los derechos de los afectados cuyos datos aparezcan en la información solicitada, en particular su derecho fundamental a la protección de datos de carácter personal.
+
+Para la realización de la citada ponderación, dicho órgano tomará particularmente en consideración los siguientes criterios:
+
+- El menor perjuicio a los afectados derivado del transcurso de los plazos ([artículo 57 de la Ley 16/1985](https://www.boe.es/buscar/act.php?id=BOE-A-1985-12534&p=20260527&tn=1#acincuentaysiete)).
+
+- La justificación por los solicitantes de su petición en el ejercicio de un derecho o el hecho de que tengan la condición de investigadores y motiven el acceso en fines históricos, científicos o estadísticos.
+
+- El menor perjuicio de los derechos de los afectados en caso de que los documentos únicamente contuviesen datos de carácter meramente identificativo de aquéllos.
+
+- La mayor garantía de los derechos de los afectados en caso de que los datos contenidos en el documento puedan afectar a su intimidad o a su seguridad, o se refieran a menores de edad.
+
+No será aplicable lo establecido en los apartados anteriores si el acceso se efectúa previa disociación de los datos de carácter personal de modo que se impida la identificación de las personas afectadas.
+
+La normativa de protección de datos personales será de aplicación al tratamiento posterior de los obtenidos a través del ejercicio del derecho de acceso.
+
+##### Artículo 16. Acceso parcial.
+
+En los casos en que la aplicación de alguno de los límites previstos en el artículo 14 no afecte a la totalidad de la información, se concederá el acceso parcial previa omisión de la información afectada por el límite salvo que de ello resulte una información distorsionada o que carezca de sentido. En este caso, deberá indicarse al solicitante que parte de la información ha sido omitida.
+
+#### Sección 2.ª Ejercicio del derecho de acceso a la información pública
+
+##### Artículo 17. Solicitud de acceso a la información.
+
+El procedimiento para el ejercicio del derecho de acceso se iniciará con la presentación de la correspondiente solicitud, que deberá dirigirse al titular del órgano administrativo o entidad que posea la información. Cuando se trate de información en posesión de personas físicas o jurídicas que presten servicios públicos o ejerzan potestades administrativas, la solicitud se dirigirá a la Administración, organismo o entidad de las previstas en el artículo 2.1 a las que se encuentren vinculadas.
+
+La solicitud podrá presentarse por cualquier medio que permita tener constancia de:
+
+- Identidad del solicitante
+- Información que se solicita
+- Dirección de contacto, preferentemente electrónica, a efectos de comunicaciones.
+- En su caso, la modalidad que se prefiera para acceder a la información solicitada.
+
+El solicitante no está obligado a motivar su solicitud de acceso a la información. Sin embargo, podrá exponer los motivos por los que solicita la información y que podrán ser tenidos en cuenta cuando se dicte la resolución. No obstante, la ausencia de motivación no será por si sola causa de rechazo de la solicitud.
+
+Los solicitantes de información podrán dirigirse a las Administraciones Públicas en cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.
+
+##### Artículo 18. Causas de inadmisión.
+
+Se inadmitirán a trámite, mediante resolución motivada, las solicitudes:
+
+- Información que esté en curso de elaboración o de publicación general.
+
+- b) Referidas a información que tenga carácter auxiliar o de apoyo como la contenida en notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas.
+
+- c) Relativas a información para cuya divulgación sea necesaria una acción previa de reelaboración.
+
+- d) Dirigidas a un órgano en cuyo poder no obre la información cuando se desconozca el competente.
+
+- e) Que sean manifiestamente repetitivas o tengan un carácter abusivo no justificado con la finalidad de transparencia de esta Ley.
+
+En el caso en que se inadmita la solicitud por concurrir la causa prevista en la letra d) del apartado anterior, el órgano que acuerde la inadmisión deberá indicar en la resolución el órgano que, a su juicio, es competente para conocer de la solicitud.
+
+##### Artículo 19. Tramitación.
+
+Si la solicitud se refiere a información que no obre en poder del sujeto al que se dirige, éste la remitirá al competente, si lo conociera, e informará de esta circunstancia al solicitante.
+
+Cuando la solicitud no identifique de forma suficiente la información, se pedirá al solicitante que la concrete en un plazo de diez días, con indicación de que, en caso de no hacerlo, se le tendrá por desistido, así como de la suspensión del plazo para dictar resolución.
+
+Si la información solicitada pudiera afectar a derechos o intereses de terceros, debidamente identificados, se les concederá un plazo de quince días para que puedan realizar las alegaciones que estimen oportunas. El solicitante deberá ser informado de esta circunstancia, así como de la suspensión del plazo para dictar resolución hasta que se hayan recibido las alegaciones o haya transcurrido el plazo para su presentación.
+
+Cuando la información objeto de la solicitud, aun obrando en poder del sujeto al que se dirige, haya sido elaborada o generada en su integridad o parte principal por otro, se le remitirá la solicitud a éste para que decida sobre el acceso.
+
+##### Artículo 20. Resolución.
+
+La resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver.
+
+Este plazo podrá ampliarse por otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante.
+
+Serán motivadas las resoluciones que denieguen el acceso, las que concedan el acceso parcial o a través de una modalidad distinta a la solicitada y las que permitan el acceso cuando haya habido oposición de un tercero. En este último supuesto, se indicará expresamente al interesado que el acceso sólo tendrá lugar cuando haya transcurrido el plazo del artículo 22.2.
+
+Cuando la mera indicación de la existencia o no de la información supusiera la vulneración de alguno de los límites al acceso se indicará esta circunstancia al desestimarse la solicitud.
+
+Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa se entenderá que la solicitud ha sido desestimada.
+
+Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la posibilidad de interposición de la reclamación potestativa prevista en el artículo 24.
+
+El incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción grave a los efectos de la aplicación a sus responsables del régimen disciplinario previsto en la correspondiente normativa reguladora.
+
+##### Artículo 21. Unidades de información.
+
+Las Administraciones Públicas incluidas en el ámbito de aplicación de este título establecerán sistemas para integrar la gestión de solicitudes de información de los ciudadanos en el funcionamiento de su organización interna.
+
+En el ámbito de la Administración General del Estado, existirán unidades especializadas que tendrán las siguientes funciones:
+
+- Recabar y difundir la información a la que se refiere el capítulo II del título I de esta Ley.
+- Recibir y dar tramitación a las solicitudes de acceso a la información.
+- Realizar los trámites internos necesarios para dar acceso a la información solicitada.
+- Realizar el seguimiento y control de la correcta tramitación de las solicitudes de acceso a la información.
+- Llevar un registro de las solicitudes de acceso a la información.
+- Asegurar la disponibilidad en la respectiva página web o sede electrónica de la información cuyo acceso se solicita con más frecuencia.
+- Mantener actualizado un mapa de contenidos en el que queden identificados los distintos tipos de información que obre en poder del órgano.
+- Todas aquellas que sean necesarias para asegurar una correcta aplicación de las disposiciones de esta Ley.
+
+El resto de las entidades incluidas en el ámbito de aplicación de este título identificarán claramente el órgano competente para conocer de las solicitudes de acceso.
+
+##### Artículo 22. Formalización del acceso.
+
+El acceso a la información se realizará preferentemente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio. Cuando no pueda darse el acceso en el momento de la notificación de la resolución deberá otorgarse, en cualquier caso, en un plazo no superior a diez días.
+
+Si ha existido oposición de tercero, el acceso sólo tendrá lugar cuando, habiéndose concedido dicho acceso, haya transcurrido el plazo para interponer recurso contencioso administrativo sin que se haya formalizado o haya sido resuelto confirmando el derecho a recibir la información.
+
+Si la información ya ha sido publicada, la resolución podrá limitarse a indicar al solicitante cómo puede acceder a ella.
+
+El acceso a la información será gratuito. No obstante, la expedición de copias o la trasposición de la información a un formato diferente al original podrá dar lugar a la exigencia de exacciones en los términos previstos en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, o, en su caso, conforme a la normativa autonómica o local que resulte aplicable.
+
+#### Sección 3.ª Régimen de impugnaciones
+
+
+La reclamación prevista en el artículo siguiente tendrá la consideración de sustitutiva de los recursos administrativos (Ley 39/2015). Procedimiento Administrativo Común.
+
+Contra las resoluciones dictadas por los órganos La Casa de su Majestad el Rey, el Congreso de los Diputados, el Senado, el Tribunal Constitucional y el Consejo General del Poder Judicial, el Banco de España, el Consejo de Estado, el Defensor del Pueblo, el Tribunal de Cuentas, el Consejo Económico y Social y las instituciones autonómicas análogas (artículo 2.1.f), sólo cabrá la interposición de recurso contencioso-administrativo.
+
+##### Artículo 24. Reclamación ante el Consejo de Transparencia y Buen Gobierno.
+
+Frente a toda resolución expresa o presunta en materia de acceso podrá interponerse una reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo y previo a su impugnación en vía contencioso-administrativa.
+
+La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.
+
+La tramitación de la reclamación se ajustará a lo dispuesto en materia de recursos (Ley 39/2015).
+
+Cuando la denegación del acceso a la información se fundamente en la protección de derechos o intereses de terceros se otorgará, previamente a la resolución de la reclamación, trámite de audiencia a las personas que pudieran resultar afectadas para que aleguen lo que a su derecho convenga.
+
+El plazo máximo para resolver y notificar la resolución será de tres meses, transcurrido el cual, la reclamación se entenderá desestimada.
+
+Las resoluciones del Consejo de Transparencia y Buen Gobierno se publicarán, previa disociación de los datos de carácter personal que contuvieran, por medios electrónicos y en los términos en que se establezca reglamentariamente, una vez se hayan notificado a los interesados.
+
+El Presidente del Consejo de Transparencia y Buen Gobierno comunicará al Defensor del Pueblo las resoluciones que dicte en aplicación de este artículo.
+
+La competencia para conocer de dichas reclamaciones corresponderá al Consejo de Transparencia y Buen Gobierno, salvo en aquellos supuestos en que las Comunidades Autónomas atribuyan dicha competencia a un órgano específico, de acuerdo con lo establecido en la disposición adicional cuarta de esta Ley.
 
 
 ### Ley 1/2002
@@ -198,4 +1004,4 @@ En la Comunidad Valenciana se ha regulado a través de la [Ley 1/2022](https://d
 | Régimen sancionador                |                                                                                                                                                                                                                                                                                                                                                                           |
 
 
-CLAUDE
+
