@@ -466,51 +466,25 @@ La aprobación de un instrumento técnico de gestión forestal incoará de ofici
 
 ##### Planificación forestal
 
-El Plan de Acción Territorial Forestal de la Comunitat Valenciana (PATFOR) constituye el instrumento de ordenación del territorio forestal de la Comunitat Valenciana y de planificación de la gestión de sus servicios (artículo 20 de la Ley 3/1993). Sus determinaciones vincularán a todas las personas: físicas y jurídicas (públicas o privadas).
+###### Planes de Prevención de Incendios Forestales de Demarcación Forestal (PPIFDF):
 
-Se revisará cada máximo 15 años (o cuando las circunstancias alteren sustancialmente las condiciones físicas o jurídicas por las que se aprobó), siguiendo el procedimiento para su aprobación.
+Los Planes de Prevención de Incendios Forestales de Demarcación Forestal son el desarrollo táctico del [Plan de Acción Territorial Forestal de la Comunidad Valenciana](https://mediambient.gva.es/va/web/medio-natural/patfor) (PATFOR) en la materia. 
 
-Está desarrollado por los instrumentos siguientes: 
+Establecen las medidas y acciones dirigidas a prevenir la iniciación y la propagación de los incendios forestales, así como las características constructivas, los trazados y la ubicación de las infraestructuras de prevención de incendios forestales necesarias para ello, que se definirán y concretarán en los correspondientes proyectos.
 
-- **Planes de Ordenación de los Recursos Forestales** (PORF): planes de acción territorial sectorial en materia forestal, a escala de demarcación forestal, que constituyen el desarrollo operativo del PATFOR.
+Junto con la planificación general de extinción de incendios forestales en su ámbito territorial equivalen a los planes de defensa previstos para las zonas de alto riesgo de incendio forestal.
 
-- **Instrumentos Técnicos de Gestión Forestal**
-	- Proyectos de Ordenación de Montes
-	- Planes Técnicos de Gestión Forestal
+Los contenidos mínimos incluyen los siguientes:
 
-*Como plan de acción territorial sectorial, incorpora los objetivos y principios directores de la Estrategia Territorial de la Comunitat Valenciana.*
+- **Riesgo de incendio**: análisis y diagnóstico del riesgo de incendio
+- **Plan de actuaciones** para la prevención de causas
+- **Plan de infraestructuras de prevención de incendios**. Para el caso de áreas cortafuegos, áreas de defensa y puntos estratégicos de gestión, se incluirá un análisis específico a partir de los modelos de combustible existentes y conforme a los criterios de cálculo establecidos en el Plan de Selvicultura Preventiva
+- **Programación económica y temporal**
+- **Cartografía** referida a los puntos anteriores.
 
+Equivalen a los planes sectoriales en materia de prevención de incendios forestales contemplados en los Planes de Ordenación de los Recursos Naturales (PORN) de parques naturales.
 
-
-El contenido mínimo de los PORF (artículo 31.6 de la Ley 43/2003) es el siguiente:
-
-- **Análisis territorial de la demarcación forestal.** Se describirán y analizarán los principales factores que caracterizan el marco forestal, los servicios ambientales que proveen los terrenos forestales, la biodiversidad y las características socioeconómicas y de gobernanza del suelo forestal en el ámbito de la demarcación.
-
-- **Diagnóstico del territorio**, en base a las conclusiones obtenidas del análisis territorial realizado.
-
-- **Definición de objetivos y zonificación del territorio.** Se definirán los objetivos generales del plan y se zonificará el territorio de la demarcación en base a sus usos potenciales, estableciendo para cada zona los objetivos específicos que se pretenden conseguir durante la vigencia del plan.
-
-- **Estrategias del plan. Directrices y propuestas de actuación.** Se planificarán las acciones necesarias para el cumplimiento de los objetivos fijados en el plan, incorporando, entre otras, las previsiones de adaptación al cambio climático, de repoblación, restauración hidrológico-forestal, prevención y extinción de incendios, prevención y lucha contra plagas, regulación de usos recreativos y ordenación de montes, incluyendo, cuando proceda, la ordenación cinegética, piscícola y micológica. Se definirán los modelos selvícolas de gestión aplicables a las masas forestales presentes, así como las directrices específicas para la demarcación para la mejora de los servicios ambientales y el establecimiento del marco en el que podrán suscribirse acuerdos, convenios y contratos entre la administración y los propietarios para la gestión de los montes.
-
-- **Criterios básicos para el control, seguimiento, evaluación y plazos para la ejecución del plan.**
-
-En cumplimiento de la normativa sectorial de aplicación, se realizarán cuantos estudios sectoriales y planes sean requeridos para su tramitación.
-
-Conjuntamente a la elaboración de los PORF se desarrollará cartografía temática, que incluirá, al menos, la definición de los terrenos forestales y no forestales de la demarcación, la infraestructura verde, la zonificación, la localización de las actuaciones planificadas, así como la cartografía derivada de los estudios sectoriales. La cartografía editable generada empleará el sistema de referencia y proyección oficial y se presentará junto con sus metadatos.
-
-Los 
-
-- **Planes de Prevención de Incendios Forestales de Demarcación Forestal** (PPIFDF): desarrollo táctico del Plan de Acción (PATFOR) en la materia. Establecerán las medidas y acciones dirigidas a prevenir la iniciación y la propagación de los incendios forestales, así como las características constructivas, los trazados y la ubicación de las infraestructuras de prevención de incendios forestales necesarias para ello, que se definirán y concretarán en los correspondientes proyectos.
-
-	Junto con la planificación general de extinción de incendios forestales en su ámbito territorial equivalen a los planes de defensa previstos para las zonas de alto riesgo de incendio forestal.
-
-|                                                                      | Contenidos mínimos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Planes de Prevención de Incendios Forestales de Demarcación Forestal | - Riesgo de incendio: análisis y diagnóstico del riesgo de incendio<br>- Plan de actuaciones para la prevención de causas<br>- Plan de infraestructuras de prevención de incendios. Para el caso de áreas cortafuegos, áreas de defensa y puntos estratégicos de gestión, se incluirá un análisis específico a partir de los modelos de combustible existentes y conforme a los criterios de cálculo establecidos en el Plan de Selvicultura Preventiva<br>- Programación económica y temporal<br>- Cartografía referida a los puntos anteriores. |
-
-
-Los PPIFDF equivalen a los planes sectoriales en materia de prevención de incendios forestales contemplados en los Planes de Ordenación de los Recursos Naturales (PORN) de parques naturales. Deberá elaborarse un anejo específico con las particularidades propias de cada parque natural dentro del ámbito territorial de la demarcación forestal. Estos anejos se elaborarán únicamente si así estuviera contemplado por la normativa propia del parque natural.
+Deberá elaborarse un anejo específico con las particularidades propias de cada parque natural dentro del ámbito territorial de la demarcación forestal. Estos anejos se elaborarán únicamente si así estuviera contemplado por la normativa propia del parque natural.
 
 La elaboración de los PPIFDF y las correspondientes revisiones corresponde a la Dirección general competente en prevención de incendios forestales y su aprobación a la persona titular de la Conselleria. El procedimiento incluirá la consulta previa a los distintos departamentos de la Generalitat y administraciones afectadas.
 
@@ -518,37 +492,13 @@ Los PPIFDF se revisarán cada quince años. En dichas revisiones se analizará e
 
 En cualquier momento se podrá actualizar o modificar la cartografía de la planificación territorial y de las infraestructuras de prevención de incendios forestales previstas, a partir de un estudio justificativo. Estas actualizaciones o modificaciones serán aprobadas mediante resolución de la dirección general con competencias en materia de prevención de incendios forestales. El inicio del expediente podrá realizarse de oficio o a solicitud de interesado. El plazo para resolver las actualizaciones o modificaciones será de seis meses. El silencio administrativo tendrá carácter desestimatorio.
 
-### Artículo 48. Programación en prevención de incendios forestales
+###### Planes Locales de Prevención de Incendio Forestales
 
-Para la consecución de una adecuada prevención de incendios forestales, la Conselleria de prevención de incendios forestales planificará y ejecutará, entre otros, los siguientes programas de actuación:
+Los Planes Locales de Prevención de Incendios Forestales (PLPIF) son el instrumento de de desarrollo de los Planes de Prevención de Incendios Forestales de Demarcación Forestal (PPIFDF), mediante el cual los municipios adoptan, desarrollan y ejecutan las medidas contempladas en estos, realizando la correspondiente programación económica y temporal en el ejercicio de sus competencias.
 
-- Información y educación ambiental
-- Conciliación de intereses
-- Vigilancia preventiva
-- Potenciación del voluntariado forestal y de prevención de incendios
-- Características técnicas de infraestructuras y selvicultura preventiva
-- Información geográfica y estadística
-- Investigación de causas y motivaciones
-- Formación, investigación, desarrollo e innovación
+Los PLPIF tendrán carácter subordinado respecto a los PPIFDF y a los programas autonómicos en prevención de incendios forestales.
 
-*Estos programas tendrán ámbito autonómico y carácter subordinado respecto a lo dispuesto en los Planes de Prevención de Incendios Forestales de Demarcación Forestal.*
-
-La aprobación y revisión de estos planes se realiza por resolución de la persona titular de la Conselleria competente (a propuesta de la Dirección general).
-
-El programa de características técnicas de infraestructuras y selvicultura preventiva es el documento técnico que determinará las características de diseño, construcción y mantenimiento las de prevención.
-
-Con el fin de llevar a término el programa de vigilancia preventiva
-
-Se establece el servicio de vigilancia preventiva frente al riesgo de incendios forestales, dependiente de la Dirección General (incluido en su presupuesto), que podrá presentarse mediante medio propio de la Administración.
-
-
-
-
-- **Planes Locales de Prevención de Incendios Forestales** (PLPIF): instrumento de desarrollo de los Planes de Prevención de Incendios Forestales de Demarcación Forestal (PPIFDF), mediante el cual los municipios adoptan, desarrollan y ejecutan las medidas contempladas en estos, realizando la correspondiente programación económica y temporal en el ejercicio de sus competencias.
-
-	Los PLPIF tendrán carácter subordinado respecto a los PPIFDF y a los programas autonómicos en prevención de incendios forestales.
-
-	En los PPIFDF podrá determinarse qué contenidos de los PLPIF pueden ser homologados en todos o en algunos de los municipios que forman parte de la demarcación forestal.
+En los PPIFDF podrá determinarse qué contenidos de los PLPIF pueden ser homologados en todos o en algunos de los municipios que forman parte de la demarcación forestal.
 
 Mediante orden de la Conselleria competente se establecerán los casos en los que el PLPIF podrá tener un formato reducido: llamado "Plan Local Reducido de Prevención de Incendios Forestales" (PLRPIF). 
 
@@ -561,13 +511,7 @@ La aprobación de los planes a que hace referencia este artículo, así como sus
 
 #### Usos del suelo forestal
 
-TÍTULO IV  
-Usos del suelo forestal  
-CAPÍTULO I  
-Usos del suelo forestal  
-Artículo 96. Usos y servicios forestales  
-
-Son usos y servicios forestales, cualquier actividad o utilización del terreno forestal como espacio o soporte físico que tenga una finalidad forestal, entre las que destacan las siguientes:  
+Son usos y servicios forestales cualquier actividad o utilización del terreno forestal como espacio o soporte físico que tenga una finalidad forestal. Entre las que destacan las siguientes:  
 
 - **Formaciones forestales**: mantenimiento y regeneración (arbóreas, arbustivas, de matorral o herbáceas), espontáneas o procedentes de siembra o plantación, que cumplan o puedan cumplir funciones ambientales, de regulación, biodiversidad, protectoras, productoras, culturales, paisajísticas o recreativas, así como las actividades de regeneración de zonas forestales degradadas.  
 
