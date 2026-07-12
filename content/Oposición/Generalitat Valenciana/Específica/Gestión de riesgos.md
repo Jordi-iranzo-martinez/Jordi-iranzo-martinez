@@ -35,21 +35,20 @@ Esta ley también se aplicará a los daños medioambientales y a las amenazas in
 
 *Esta ley no se aplicará a las siguientes causas:*
 
-- *a) Un acto derivado de un conflicto armado, de hostilidades, de guerra civil o de una insurrección.*
-- *b) Un fenómeno natural de carácter excepcional, inevitable e irresistible.*
-- *c) Las actividades cuyo principal propósito sea servir a la defensa nacional o a la seguridad internacional, y las actividades cuyo único propósito sea la protección contra los desastres naturales.*
+- *Militar: actos derivados de conflicto armado, hostilidades, guerra civil o insurrección.*
+- *Fenómenos naturales: de carácter excepcional, inevitable e irresistible.*
+- *Defensa nacional o seguridad internacional, y protección contra los desastres naturales (único propósito)*
 
 Esta ley no se aplicará a los siguientes daños:
 
-- a) A los daños medioambientales ni a las amenazas inminentes de que tales daños se produzcan cuando tengan su origen en un suceso cuyas consecuencias en cuanto a responsabilidad o a indemnización estén establecidas por alguno de los convenios internacionales enumerados en el anexo IV, incluidas sus eventuales modificaciones futuras, vigentes en España.
+- **Convenios internacionales** (Anexo IV)
+- **Riesgos nucleares**: causados por las actividades que empleen materiales cuya utilización esté regulada por normativa derivada del Tratado constitutivo de la Comunidad Europea de la Energía Atómica, ni a los incidentes o a las actividades cuyo régimen de responsabilidad esté establecido por alguno de los convenios internacionales enumerados en el anexo V, incluidas sus eventuales modificaciones futuras, vigentes en España.
 
-- b) A los riesgos nucleares, a los daños medioambientales o a las amenazas inminentes de que tales daños se produzcan, causados por las actividades que empleen materiales cuya utilización esté regulada por normativa derivada del Tratado constitutivo de la Comunidad Europea de la Energía Atómica, ni a los incidentes o a las actividades cuyo régimen de responsabilidad esté establecido por alguno de los convenios internacionales enumerados en el anexo V, incluidas sus eventuales modificaciones futuras, vigentes en España.
+En el caso de obras públicas de interés general, competencia de la Administración General del Estado, esta ley se aplicará a los siguientes: 
 
-En el caso de obras públicas de interés general, competencia de la Administración General del Estado, esta ley se aplicará:
+- **Especies y hábitats protegidos, aguas, suelo, ribera del mar y de las rías, y amenazas inminentes de esos daños**: por actividades del Anexo III.
 
-- a) A los daños causados a las especies y a los hábitats protegidos, a las aguas, al suelo y a la ribera del mar y de las rías, y a las amenazas inminentes de que tales daños ocurran, cuando hayan sido causados por las actividades económicas o profesionales enumeradas en el anexo III, aunque no exista dolo, culpa o negligencia.
-
-- b) A los daños causados a las especies y hábitats naturales protegidos por actividades profesionales distintas de las enumeradas en el anexo III y a cualquier amenaza inminente de tales daños debido a alguna de esas actividades, siempre que haya habido culpa o negligencia por parte del operador.
+- **Especies y hábitats protegidos**: actividades no del Anexo III, si ha habido culpa o negligencia del operador.
 
 La normativa autonómica en la materia podrá determinar la aplicación de lo dispuesto en el párrafo anterior a las obras públicas de especial relevancia e interés equivalentes a las de interés general del Estado, cuya titularidad y competencia corresponda a las comunidades autónomas.
 
@@ -58,13 +57,11 @@ La normativa autonómica en la materia podrá determinar la aplicación de lo di
 
 La atribución de responsabilidad aparece en el capítulo II:
 
-##### Artículo 9. Responsabilidad de los operadores.
+Los operadores de las actividades reguladas están obligados a adoptar y ejecutar las medidas de gestión de daños medioambientales (prevención, evitación, reparación) y a sufragar sus costes cuando resulten responsables.
 
-Los operadores de las actividades económicas o profesionales incluidas en esta ley están obligados a adoptar y a ejecutar las medidas de prevención, de evitación y de reparación de daños medioambientales y a sufragar sus costes cuando resulten responsables.
+***El cumplimiento de los requisitos, de las precauciones y de las condiciones establecidos por las normas legales y reglamentarias o de los fijados en cualesquiera títulos administrativos cuya obtención sea necesaria para el ejercicio de una actividad económica o profesional, en particular, en las autorizaciones ambientales integradas, no exonerará a los operadores incluidos en el anexo III de responsabilidad medioambiental, sin perjuicio de lo dispuesto en el artículo 14.***
 
-El cumplimiento de los requisitos, de las precauciones y de las condiciones establecidos por las normas legales y reglamentarias o de los fijados en cualesquiera títulos administrativos cuya obtención sea necesaria para el ejercicio de una actividad económica o profesional, en particular, en las autorizaciones ambientales integradas, no exonerará a los operadores incluidos en el anexo III de responsabilidad medioambiental, sin perjuicio de lo dispuesto en el artículo 14.
-
-Los operadores de cualesquiera actividades económicas o profesionales incluidas en esta ley están obligados a comunicar de forma inmediata a la autoridad competente la existencia de daños medioambientales o la amenaza inminente de dichos daños, que hayan ocasionado o que puedan ocasionar.
+Están obligados a comunicar inmediatamente a la autoridad competente su existencia y las amenazas inminentes de los mismos (causados o potenciales).
 
 Los operadores de actividades económicas o profesionales incluidas en esta ley están obligados a colaborar en la definición de las medidas reparadoras y en la ejecución de las adoptadas por la autoridad competente.
 
@@ -73,28 +70,26 @@ La Administración pública que hubiera adjudicado un contrato o autorizado una 
 
 - **Grupos de sociedades**: en el supuesto de que el operador sea una sociedad mercantil que forme parte de un grupo de sociedades, según lo previsto en el [artículo 42.1 del Código de Comercio](https://www.boe.es/buscar/act.php?id=BOE-A-1885-6627#art42 "Abre nueva ventana"), la responsabilidad medioambiental regulada en esta ley podrá extenderse igualmente a la sociedad dominante cuando la autoridad competente aprecie utilización abusiva de la persona jurídica o fraude de ley.
 
-- **Pluralidad de responsables de un mismo daño**: en los supuestos en los que exista una pluralidad de operadores y se pruebe su participación en la causación del daño o de la amenaza inminente de causarlo, la responsabilidad será mancomunada, a no ser que por ley especial que resulte aplicable se disponga otra cosa.
+- **Pluralidad de responsables de un mismo daño**: responsabilidad mancomunada si se prueba su participación (salvo disposición en contrario por Ley especial)
 
-- **Muerte o extinción de las personas responsables**: en los casos de muerte o extinción de las personas responsables según esta ley, sus deberes y, en particular, sus obligaciones pecuniarias subsiguientes, se transmitirán y se exigirán conforme a lo dispuesto para las obligaciones tributarias.
+- **Muerte o extinción de las personas responsables**: sus deberes (en particular, sus obligaciones pecuniarias subsiguientes) se transmitirán y exigirán de acuerdo a lo dispuesto para las obligaciones tributarias.
 
 - **Responsables solidarios y subsidiarios**: 
+	- Solidarios: los sujetos a los que se refiere el [artículo 42.2 de la Ley 58/2003](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana")
+	- Subsidiarios:
+		- - Los gestores y administradores de hecho y de derecho de las personas jurídicas cuya conducta haya sido determinante de la responsabilidad de éstas.
+		- Los gestores o administradores de aquellas personas jurídicas que hayan cesado en sus actividades, en cuanto a los deberes y obligaciones pendientes en el momento de dicho cese, siempre que no hubieren hecho lo necesario para su cumplimiento o hubieran adoptado acuerdos o tomado medidas causantes del incumplimiento.
+		- Los que sucedan por cualquier concepto al responsable en la titularidad o en el ejercicio de la actividad causante del daño, con los límites y las excepciones previstos en el [artículo 42.1.c) de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana").
+		- Los integrantes de administraciones concursales y los liquidadores de personas jurídicas que no hubieran realizado lo necesario para el cumplimiento de los deberes y las obligaciones devengados con anterioridad a tales situaciones.
 
-|              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Solidarios   | Los sujetos a los que se refiere el [artículo 42.2 de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana"), General Tributaria.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Subsidiarios | - Los gestores y administradores de hecho y de derecho de las personas jurídicas cuya conducta haya sido determinante de la responsabilidad de éstas.<br>- Los gestores o administradores de aquellas personas jurídicas que hayan cesado en sus actividades, en cuanto a los deberes y obligaciones pendientes en el momento de dicho cese, siempre que no hubieren hecho lo necesario para su cumplimiento o hubieran adoptado acuerdos o tomado medidas causantes del incumplimiento.<br>- Los que sucedan por cualquier concepto al responsable en la titularidad o en el ejercicio de la actividad causante del daño, con los límites y las excepciones previstos en el [artículo 42.1.c) de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana").<br>- Los integrantes de administraciones concursales y los liquidadores de personas jurídicas que no hubieran realizado lo necesario para el cumplimiento de los deberes y las obligaciones devengados con anterioridad a tales situaciones. |
-
-*Los responsables subsidiarios lo serán especialmente respecto a obliaciones pecunarias, que se declararán y exigirán en los procedimientos de ejecución, en los términos establecidos en la legislación tributaria y de recaudación de ingresos de Derecho público.*
+*Los responsables subsidiarios lo serán especialmente respecto a las obligaciones pecunarias, que se declararán y exigirán en los procedimientos de ejecución, en los términos establecidos en la legislación tributaria y de recaudación de ingresos de Derecho público.*
 
 El operador no estará obligado a sufragar los costes imputables a las medidas de prevención, de evitación y de reparación de daños cuando demuestre que los daños medioambientales o la amenaza inminente de tales daños se produjeron exclusivamente por cualquiera de las siguientes causas:
 
-- La actuación de un tercero ajeno al ámbito de la organización de la actividad de que se trate e independiente de ella, a pesar de existir medidas de seguridad adecuadas.
+- **Actuación de un tercero ajeno a la organización** (a pesar de existir medidas de seguridad)
+- **Cumplimiento de una orden o instrucción obligatoria**: dictada por una autoridad pública competente (incluida la ejecución de un contrato) (salvo que se haya dictado para enfrentar una emisión o un incidente previo generado por la propia actividad del operador)
 
-- El cumplimiento de una orden o instrucción obligatoria dictada por una autoridad pública competente, incluyendo las órdenes dadas en ejecución de un contrato a que se refiere la legislación de contratos de las Administraciones Públicas.
-
-Se exceptúan los supuestos en los que la orden o la instrucción se hayan dictado para hacer frente a una emisión o a un incidente previamente generado por la propia actividad del operador.
-
-La aprobación de proyectos por las Administraciones públicas, cuando así lo exija la normativa aplicable, no tendrá la consideración de orden o instrucción, a los efectos de lo previsto en este apartado. En particular, los proyectos aprobados por la administración contratante no podrán considerarse como orden o instrucción obligatoria a los efectos de este apartado respecto de daños medioambientales no previstos expresamente en la declaración de impacto ambiental o instrumento equivalente.
+	La aprobación de proyectos por las Administraciones públicas cuando lo exija la normativa aplicable no tendrá la consideración de orden o instrucción. En particular, los proyectos aprobados por la administración contratante no podrán considerarse como orden o instrucción obligatoria a los efectos de este apartado respecto de daños medioambientales no previstos expresamente en la declaración de impacto ambiental o instrumento equivalente.
 
 Cuando los daños medioambientales sean consecuencia de vicios en un proyecto elaborado por la Administración en un contrato de obras o de suministro de fabricación, el operador no vendrá obligado a sufragar el coste de las medidas que se adopten.
 
@@ -111,11 +106,12 @@ Cuando concurran las circunstancias previstas en los apartados 1 y 2, el operado
 
 ##### Artículo 15. Recuperación de costes.
 
-Cuando de conformidad con lo dispuesto en el artículo 14.1, el operador no esté obligado a sufragar los costes imputables a las medidas de prevención, de evitación o de reparación de daños medioambientales (artículo 14.1), podrá recuperarlos ejerciendo las acciones de repetición frente a terceros (artículo 16) o reclamando la responsabilidad patrimonial de las Administraciones públicas a cuyo servicio se encuentre la autoridad pública que impartió la orden o la instrucción.
+Cuando el operador no esté obligado a sufragar los costes de las medidas por la actuación de un tercero ajeno o por una orden o instrucción (artículo 14.1) podrá recuperarlos de la siguiente forma:
 
-Igualmente, la autoridad competente podrá exigir al tercero que sufrague los costes de las medidas que se hayan adoptado.
+- **Acciones de repetición**: frente a terceros (artículo 16) (*la autoridad competente también podrá exigírselo).*
+- **Responsabilidad patrimonial**:de la Administración en que se encuentre la autoridad pública que impartió la orden o la instrucción. 
 
-En los supuestos previstos en el artículo 14.2, el operador tendrá derecho a recuperar los costes imputables a las medidas de reparación de daños medioambientales en los términos establecidos en la normativa autonómica, salvo lo dispuesto en el artículo 34.
+Si demuestra que no ha incurrido en culpa, dolo o negligencia (artículo 14.2), tendrá derecho a su recuperación de acuerdo a la normativa autonómica (salvo que se trate de bienes de dominio estatal, en cuyo caso actuará el Fondo estatal de reparación: artículo 34).
 
 
 El operador que hubiera adoptado medidas de prevención, de evitación de nuevos daños o de reparación podrá ejercer acciones de repetición contra cualesquiera otras personas que, al amparo de ésta o de cualquier otra norma, sean causantes o responsables, con o sin culpa, del daño medioambiental o de la amenaza de daño medioambiental que haya motivado la adopción de aquellas medidas.

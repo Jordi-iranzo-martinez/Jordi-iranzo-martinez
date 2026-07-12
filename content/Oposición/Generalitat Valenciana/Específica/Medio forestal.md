@@ -26,37 +26,35 @@ La norma autonómica principal es la [Ley 3/1993](https://dogv.gva.es/auto/dogv/
 
 ##### Disposiciones generales
 
-La presente ley tiene por objeto el establecimiento del régimen legal específico de los montes o terrenos forestales radicados en la Comunidad Valenciana.
+La Ley tiene por objeto el establecimiento del régimen legal específico de los montes o terrenos forestales radicados en la Comunidad Valenciana. Será de aplicación a todos ellos (independientemente de quién sea su titular)
 
-Son montes o terrenos forestales las superficies cubiertas de especies forestales arbóreas, arbustivas, de matorral o herbáceas, de origen natural o procedente de siembra o plantación, que cumplan o puedan cumplir funciones ecológicas, de protección, de producción, de paisaje o recreativas.
+Son montes o terrenos forestales:
 
-Igualmente, se considerarán montes o terrenos forestales: 
+>Las superficies cubiertas de especies forestales arbóreas, arbustivas, de matorral o herbáceas, de origen natural o procedente de siembra o plantación, que cumplan o puedan cumplir funciones ecológicas, de protección, de producción, de paisaje o recreativas.
 
-- Enclaves forestales en terrenos agrícolas que tengan una superficie mínima de una hectárea, sin perjuicio de que enclaves con superficies inferiores puedan tener dicha condición de terreno forestal, siempre y cuando la administración competente determine, de forma expresa, la función ecológica de los mismos. 
+Igualmente, se considerarán los siguientes, los siguientes: 
 
-- Terrenos yermos, roquedos y arenales. 
+- **Enclaves forestales en terrenos agrícolas**: con una superficie mínima de una hectárea (y otros de tamaño inferior determinado expresamente por la autoridad competente por su función ecológica). 
 
-- Construcciones e infraestructuras destinadas al servicio del monte en el que se ubican. 
+- **Terrenos yermos, roquedos y arenales**. 
 
-- Terrenos agrícolas abandonados que hayan adquirido signos inequívocos de su estado forestal. Se considera signo inequívoco del estado forestal de un terreno, la cobertura de especies forestales arbóreas o arbustivas por encima del treinta por ciento de fracción de cabida cubierta, aplicado, como máximo, a escala de subparcela catastral. 
+- **Construcciones e infraestructuras auxiliares**: destinadas al servicio del monte en el que se ubican. 
 
-- Todo terreno que, sin reunir las características descritas anteriormente, se adscriba a la finalidad de ser repoblado o transformado al uso forestal de conformidad con la normativa aplicable, así como los procedentes de compensaciones territoriales por cambio de uso forestal, espacios forestales recuperados en concesiones de explotaciones mineras, canteras, escombreras, vertederos y similares, o contemplados en los instrumentos de planificación, ordenación y gestión forestal que se aprueben al amparo de la legislación forestal de aplicación. 
+- **Terrenos agrícolas abandonados** que hayan adquirido signos inequívocos de su estado forestal. Se considera signo inequívoco del estado forestal de un terreno, la cobertura de especies forestales arbóreas o arbustivas por encima del treinta por ciento de fracción de cabida cubierta, aplicado, como máximo, a escala de subparcela catastral. 
 
-- Los terrenos que pertenecen a un monte de utilidad pública o dominio público, aunque su uso y destino no sea forestal.
+- **Repoblaciones o transformaciones**: todo lo terrenos destinados, y los procedente de compensaciones territoriales por cambio de uso forestal, espacios forestales recuperados en concesiones de explotaciones mineras, canteras, escombreras, vertederos y similares, o contemplados en los instrumentos de planificación, ordenación y gestión forestal. 
 
-- Los terrenos dedicados a cultivos temporales en terrenos agrícolas con especies forestales leñosas destinados a servicios de producción en régimen intensivo. Las plantaciones subvencionadas, mantendrán su condición de monte, al menos, durante la vigencia de sus turnos de aprovechamiento. Si el cultivo forestal se encuentra dentro del dominio público hidráulico, su condición de monte será permanente.
+- **Incluidos en montes públicos**: aunque su uso y destino no sea forestal.
+
+- **Cultivos temporales intensivos de leñosas**: los terrenos agrícolas mantendrán la condición de monte como mínimo durante la vigencia de sus turnos de aprovechamiento (si se encuentra dentro del dominio público hidráulico, esta condición será permanente)
 
 *No tendrán la consideración legal de terrenos forestales los suelos urbanos o urbanizables, los dedicados a siembras o plantaciones agrícolas, las plantaciones para cultivo de especies ornamentales y viveros forestales, ni los terrenos que hayan cambiado a un uso no forestal previa resolución administrativa expresa.*
 
-Los terrenos forestales incluidos en espacios naturales protegidos se regirán por su normativa específica, sin perjuicio de que les sean aplicables los preceptos de esta ley que contengan superiores medidas de protección.
+*Los terrenos forestales incluidos en espacios naturales protegidos se regirán por su normativa específica.*
 
+La Generalitat Valenciana gestionará los montes de la Comunidad Valenciana de manera integrada (flora, fauna y medio físico) para lograr un aprovechamiento sostenible de los recursos naturales, la preservación de la biodiversidad, y el mantenimiento de los procesos ecológicos básicos.
 
-Las facultades del derecho de propiedad forestal se ejercerán en los términos previstos en la legislación básica del Estado, en esta ley y en el resto del ordenamiento jurídico, que delimitan su contenido de acuerdo con su función social. 2. La Generalitat Valenciana gestionará los montes o terrenos forestales de la Comunidad Valenciana de forma integrada, contemplando conjuntamente la flora, la fauna y el medio físico que las constituye, con el fin de conseguir un aprovechamiento sostenible de los recursos naturales, estableciendo garantías para la preservación de la diversidad biológica y para el mantenimiento de los procesos ecológicos esenciales.
-
-
-La presente ley será de aplicación a todos los montes o terrenos forestales de la Comunidad Valenciana (independientemente de quién sea su titular)
-
-Los objetivos de la Ley incluyen los siguientes:
+Los objetivos incluyen los siguientes:
 
 - **Potenciación**: el bosque en cuanto referencia cultural de primera magnitud, favoreciendo su recuperación y el mantenimiento de las especies autóctonas.
 
@@ -66,29 +64,36 @@ Los objetivos de la Ley incluyen los siguientes:
 
 - **Incendios forestales**: planificación y coordinación de las actuaciones de las Administraciones Públicas sobre las medidas de prevención y lucha.
 
-- e) Delimitar las áreas de mayor interés forestal y en ellas potenciar la capacidad productora de los terrenos forestales, armonizable con la tutela de las masas boscosas, obteniendo los recursos naturales renovables necesarios para atender las demandas sociales. 
+- Productividad: delimitación de las áreas de mayor interés forestal y potenciación de su producción. 
 
-- f) Compatibilizar la mejora de las explotaciones forestales y silvícolas con la realización de otros aprovechamientos como los cinegéticos, de pastoreo y recolección de subproductos, adoptándose las medidas de salvaguarda precisas. 
+- **Compatibilización de usos**: de la mejora de las explotaciones forestales y silvícolas con otros aprovechamientos (cinegéticos, de pastoreo y recolección de subproductos). 
 
-- g) Fomentar la participación de todos los ciudadanos, especialmente de los que habitan en el medio rural, en el mantenimiento y ampliación de los recursos forestales, interesándoles en sus rendimientos económicos mediante la creación de empleo y asignación de beneficios. 
+- **Participación social**: de todos los ciudadanos (especialmente, del medio rural), en los recursos forestales (mantenimiento, ampliación), a través de sus rendimientos económicos mediante la creación de empleo y la asignación de beneficios.
 
-- h) Favorecer, con las cautelas necesarias, el uso excursionista, recreativo y pedagógico de estos terrenos y promover la concienciación social sobre los valores culturales, ecológicos, ambientales y económicos, que comporta el patrimonio forestal valenciano. 
+- **Uso pública**: utilización social (excursionista, recreativo y pedagógico), y concienciación sobre sus valores (culturales, ecológicos, ambientales y económicos) 
 
-- i) Promover la investigación y experimentación medioambientales y la realización de cursos y enseñanzas de formación profesional y de especialidades vinculadas con el ámbito forestal.
+- **Capacitación**: investigación, experimentación, cursos y enseñanzas de formación profesional y de especialidades...
 
 - **Productos económicos**: mejora de los procesos de obtención, transformación y comercialización de los productos económicos del monte. 
 
-- k) Articular la ordenación administrativa y gestión del monte con la ordenación del territorio, el planeamiento de los espacios naturales protegidos, el régimen urbanístico y la planificación sectorial. 
-- l) Asegurar la adecuada preservación de las especies e individuos singulares así como de las formaciones vegetales de alto valor ecológico, en particular las correspondientes a la vegetación potencial valenciana. 
-- m) Crear en las zonas periféricas del bosque de menor riesgo de degradación espacios de esparcimiento y disfrute del bosque, adonde encauzar la demanda de usos recreativos de los ciudadanos. 
+- **Integración territorial**: articulación de la gestión del monte con la ordenación del territorio, el planeamiento de los espacios naturales protegidos, el régimen urbanístico y la planificación sectorial. 
+
+- **Biodiversidad**: asegurar la preservación de las especies e individuos singulares y de las formaciones vegetales de alto valor ecológico (en especial, la vegetación potencial valenciana...)
+
+- **Recreación**: creación de espacios de esparcimiento y disfrute en las zonas periféricas de menor riesgo de degradación 
 
 Para el cumplimiento de los objetivos previstos en el punto anterior, la Generalitat Valenciana podrá utilizar las siguientes formas de actuación: 
 
 - **Ordenación y planificación de recursos forestales**: clasificando los terrenos forestales en función de los mismos, limitando su uso y aprovechamientos en razón de la protección que sea necesaria para la conservación de la cubierta vegetal. 
+
 - **Fomento de las actividades privadas** dirigidas al cumplimiento de los objetivos previstos. 
+
 - **Defensa de la propiedad forestal** de utilidad y dominios públicos.
+
 - **Regulación de las actuaciones** en el medio forestal y sanción de las infracciones que se cometan. 
+
 - **Incrementar la propiedad forestal patrimonial** de la Generalitat Valenciana. 
+
 - **Otras**: que sea congruente con el cumplimiento de la presente ley.
 
 
@@ -113,28 +118,29 @@ Artículo 8
 
 Serán de dominio público los terrenos forestales que hayan sido afectados a un uso o servicio público, o que lo sean por aplicación de una norma del Estado. En el ámbito de la Comunidad Valenciana, podrán declararse de dominio público, además, aquellos montes o terrenos forestales que se vinculen a la satisfacción de intereses generales y, en concreto, a la protección y mejora de la calidad de vida y a la defensa y restauración del medio ambiente.
 
-La afectación al dominio público se producirá por acuerdo específico del Gobierno Valenciano, previa instrucción de expediente en el que, en todo caso, deberá ser oída la entidad pública afectada y se acredite que el monte, por su estado actual o como consecuencia de su futura transformación, tenga alguna de las características o funciones siguientes:
+La afectación al dominio público se producirá por acuerdo específico del Consell, por acreditación de las siguientes causas (estado actual o por transformación futura):
 
-- Protección y conservación de los suelos, evitando su erosión.
-- Regulación de las alteraciones del régimen hídrico y defensa de tierras de cultivos, poblaciones, canalizaciones o vías de comunicación en las grandes avenidas.
-- Ubicación en áreas permeables de afloramiento de acuíferos subterráneos.
-- Los terrenos forestales que constituyan ecosistemas que permitan mantener determinados procesos ecológicos esenciales y la diversidad biológica o sirvan de refugio a la fauna silvestre.
-- e) Los que formen masas arbóreas naturales de especies autóctonas o matorrales de valor ecológico. 
-- Elementos importantes del paisaje.
-- Salud pública, mejora de las condiciones socio-económicas, ocio y esparcimiento
+- **Suelos**: protección y conservación, evitando su erosión.
+- **Hidrología**: regulación de las alteraciones y defensa de grandes avenidas (cultivos, poblaciones, canalizaciones o vías de comunicación).
+- **Acuíferos subterráneos**: ubicación en áreas permeables de afloramiento
+- **Biodiversidad**: ecosistemas que permitan mantener determinados procesos, especies, o sirvan de refugio a la fauna silvestre.
+- **Naturalidad**: formen masas arbóreas de especies autóctonas o matorrales de valor ecológico. 
+- **Paisaje**: elementos importantes
+- **Sociedad**: salud pública, mejora socio-económica, ocio y esparcimiento
 
-Si desaparecieran las causas que motivaron a afectación de un terreno forestal al dominio público deberá producirse la desafectación al mismo tiempo por acuerdo expreso del Gobierno valenciano.
+*Si desaparecieran las causas que motivaron su inclusión al dominio público deberá producirse la desafectación por acuerdo expreso del Consell.*
 
-Los montes de dominio público serán inalienables, imprescriptibles e inembargables, pudiendo la administración titular recuperar de oficio en cualquier momento su posesión, sin que se admitan interdictos ni procedimientos especiales en esta materia.
+¿EN SERIO lo de arriba: no es inalienable?
+
+Los montes de dominio público serán inalienables, imprescriptibles e inembargables, pudiendo la administración titular recuperar de oficio en cualquier momento su posesión.
 
 Los aprovechamientos forestales compatibles con la causa de declaración de los terrenos forestales de dominio público se efectuarán conforme a lo establecido para los montes declarados de utilidad pública. Para las ocupaciones se precisará otorgar concesión administrativa conforme a la legislación reguladora de las mismas.
 
 
 Se declararán de utilidad pública los terrenos forestales de propiedad pública que deban ser conservados y mejorados por su trascendencia hidrológico-forestal o por sus funciones ecológicas o sociales.
 
-Podrán ser declarados protectores los terrenos forestales de propiedad privada que reúnan las características señaladas en el apartado anterior, aquellos que tengan una superficie superior a cien hectáreas y los situados en laderas cuya pendiente media sea igual o superior al 50%.
 
-Corresponden al Consell las declaraciones contempladas en los párrafos anteriores, previo procedimiento que garantice, en todo caso, la audiencia de los titulares.
+Los terrenos forestales de propiedad privada que reúnan estas características, tengan una superficie superior a cien hectáreas o estén situados en laderas cuya pendiente media sea igual o superior al 50%. (¿ES UN "O?") podrán ser declarados como protectores por el Consell (con audiencia para sus titulares).
 
 
 CAPÍTULO V. Registros públicos
@@ -143,7 +149,7 @@ Sección primera. Régimen general
 
 Los documentos para la matriculación de fincas colindantes o enclavadas en terrenos forestales de propiedad pública habrán de hacer constar esta circunstancia y se acompañarán de certificación, expedida por la administración forestal, de que no forman parte de dichos terrenos. 2. Los Registradores de la Propiedad, en cuyo término municipal haya terrenos forestales de propiedad pública, están obligados a notificar directamente a la administración forestal todas las matriculaciones que se soliciten de fincas que no estén inscritas a favor de persona alguna, que afecten a terrenos rústicos al amparo del artículo 205 y concordantes de la Ley Hipotecaria.
 
-Los montes o terrenos forestales declarados de dominio público o de utilidad pública se inscribirán en el Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunidad Valenciana. 2. Los terrenos forestales declarados protectores se inscribirán en el Catálogo de Montes Protectores de la Comunidad Valenciana, de naturaleza análoga al que se refiere el apartado anterior.Ley 3/19937 de 28 3. Los dos catálogos mencionados en los apartados anteriores, serán regulados por el Reglamento.
+Los montes o terrenos forestales declarados de dominio público o de utilidad pública se inscribirán en el Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunidad Valenciana, y los protectores en el Catálogo de Montes Protectores de la Comunidad Valenciana.
 
 Sección segunda. De la catalogación
 
@@ -153,9 +159,11 @@ La administración podrá autorizar las ocupaciones, concesiones, servidumbres y
 
 En el Catálogo de Montes de Dominio Público y de Utilidad Pública y en el de Montes Protectores de la Comunidad Valenciana constarán, en todo caso, las siguientes características, si concurriesen: 
 
-- Terrenos forestales situados en las cabeceras de las cuencas hidrográficas, cuya función principal consista en contener los procesos de erosión y el deterioro de los recursos hidrológicos, con independencia de sus potencialidades productoras.
-- Terrenos forestales situados en las riberas de los ríos, arroyos y torrentes, y si su finalidad medioambiental permite o no la compatibilidad con la producción forestal y, en su caso, silvícola.
-- Terrenos forestales próximos a poblaciones, cuya función primordial responda a criterios de recreo y paisaje, sin perjuicio de las funciones de conservación del espacio.
+- **Cabeceras de cuencas hidrográficas**: cuya función principal consista en contener los procesos de erosión y el deterioro de los recursos hidrológicos, con independencia de sus potencialidades productoras.
+
+- **Riberas** (ríos, arroyos y torrentes): si su finalidad medioambiental permite o no la compatibilidad con la producción forestal y, en su caso, silvícola. ¿PERMITE O NO?
+
+- **Próximos a poblaciones**: cuya función primordial responda a criterios de recreo y paisaje (sin perjuicio de las funciones de conservación del espacio).
 
 
 CAPÍTULO VI. De las competencias de las administraciones públicas
@@ -174,22 +182,34 @@ La delegación habrá de ser solicitada por el pleno del ayuntamiento u órgano 
 
 Previa la comprobación de que el órgano solicitante puede asumir la competencia por disponer de medios que aseguren la eficaz prestación de los servicios, el Gobierno Valenciano, a propuesta del Conseller de Medio Ambiente, podrá autorizar en cada caso la delegación mediante Decreto.
 
-El decreto de delegación contendrá, como mínimo: 
+El decreto de delegación contendrá, como mínimo las competencias, el alcance e intensidad, las medidas de control (de Generalitat), y los medios y/o aprovechamientos.
 
-- Fijación de las competencias cuyo ejercicio se delegue.
-- Delimitación del alcance e intensidad de la delegación
-- Medidas de control que se reserve la Generalitat Valenciana
-- Medios y/o aprovechamientos a transferir
-
-En cualquier momento se podrá supervisar el ejercicio de las competencias delegadas, dictar instrucciones de carácter general y recabar información sobre la gestión municipal, así como formular los requerimientos que se consideren necesarios.
+*En cualquier momento se podrá supervisar el ejercicio de las competencias delegadas, dictar instrucciones de carácter general, recabar información sobre la gestión municipal, y formular los requerimientos que se consideren necesarios.*
 
 Actuará como órgano de carácter consultivo en materia forestal la Mesa Forestal de la Comunitat Valenciana (Decreto 58/2013), que informará sobre el desarrollo del Plan de Acción Territorial Forestal de la Comunitat Valenciana y los anteproyectos de ley o proyectos de decreto de la Generalitat Valenciana en materia forestal, así como otros asuntos que se le atribuyan o que, por su especial relevancia, se sometan a estudio. 
 
-Podrán crearse con el mismo carácter y con la composición, organización y funcionamiento que se determinen otros órganos consultivos de ámbito territorial inferior, con el fin de fomentar la coordinación y participación de la ciudadanía, los entes locales y la sociedad civil de las demarcaciones forestales. Apartado 4. Atendiendo al apartado anterior, se crearán los denominados consejos forestales de demarcación en las 12 demarcaciones forestales previstas en la Ley forestal y en el Patfor: Sant Mateu, Segorbe, Vall d’Alba, Llíria, Chelva, Enguera, Requena, Polinyà de Xúquer, Alcoy, Crevillent, Xàtiva y Altea (antes del 31 de diciembre de 2018).
+Podrán crearse con el mismo carácter y con la composición, organización y funcionamiento que se determinen otros órganos consultivos de ámbito territorial inferior, con el fin de fomentar la coordinación y participación de la ciudadanía, los entes locales y la sociedad civil de las demarcaciones forestales. 
 
-Los consejos forestales de las demarcaciones forestales son órganos consultivos de ámbito territorial de demarcación forestal. *Reglamentariamente se determinará su composición, competencias y normas de funcionamiento.* 
+Los consejos forestales de las demarcaciones forestales son órganos consultivos de ámbito territorial de demarcación forestal (reglamentariamente se determinará su composición, competencias y normas de funcionamiento), 
+
 
 Los consejos forestales de demarcación se coordinarán con los restantes órganos consultivos de participación y coordinación existentes en la Conselleria de Medio Ambiente.
+Se crearán los consejos forestales de demarcación en las 12 demarcaciones forestales (antes del 31 de diciembre de 2018): 
+
+1. Sant Mateu
+2. Segorbe
+3. Vall d’Alba
+4. Llíria
+5. Chelva
+6. Enguera
+7. Requena
+8. Polinyà de Xúquer
+9. Alcoy
+10. Crevillent
+11. Xàtiva
+12. Altea .
+
+*Todos ellos se coordinarán con los órganos consultivos forestales de la Conselleria de Medio Ambiente.* 
 
 
 #### Incendios forestales
@@ -202,7 +222,7 @@ A estos efectos, y sin perjuicio de lo que al efecto establezcan el Plan General
 
 Las entidades locales con terrenos forestales en su territorio podrán redactar Planes Locales de Prevención de Incendios, que serán obligatorios para las situadas en zonas de alto riesgo de incendios forestales, debiendo ser remitidos a la Conselleria de Medio Ambiente. Estos planes tendrán carácter subordinado respecto a los Planes Sectoriales de Incendios. Aquellos municipios que carezcan de medios para ello podrán solicitar apoyo técnico de la administración forestal para su redacción.
 
-Reglamentariamente se establecerá el contenido mínimo de los planes previstos en este artículo.
+Reglamentariamente se establecerá el contenido mínimo de los planes.
 
 Los propietarios de los terrenos forestales y las entidades locales de las zonas de alto riesgo de incendio forestal tendrán la obligación de adoptar las medidas adecuadas para prevenir los incendios forestales y deberán realizar por su cuenta los trabajos que les correspondan en la forma, plazos y condiciones fijados en los planes de prevención de incendios, para lo cual podrán establecerse ayudas técnicas o económicas.
 
@@ -237,19 +257,13 @@ Realizada dicha comunicación, la pasividad o negligencia del ayuntamiento en el
 
 ##### Disposiciones adicionales
 
-- Primera. Terrenos no forestales a los que resulta de aplicación determinada normativa en materia forestal: En los terrenos urbanizables, hasta que finalice la correspondiente actuación de urbanización y cuenten con las dotaciones y los servicios requeridos por la legislación urbanística, será de aplicación la normativa forestal vigente a los efectos de incendios forestales y plagas.
+1. **Terrenos no forestales a los que resulta de aplicación determinada normativa en materia forestal**: En los terrenos urbanizables, hasta que finalice la correspondiente actuación de urbanización y cuenten con las dotaciones y los servicios requeridos por la legislación urbanística, será de aplicación la normativa forestal vigente a los efectos de incendios forestales y plagas.
 
-- Segunda. Horario de orto y ocaso solar: para la determinación de la hora oficial de comienzo del orto y el ocaso solar, se tomarán los valores correspondientes a la ciudad de Valencia.
+2. **Horario de orto y ocaso solar**: para la determinación de la hora oficial de comienzo del orto y el ocaso solar, se tomarán los valores correspondientes a la ciudad de Valencia.
 
-- Tercera. Plantaciones forestales temporales
+3. **Plantaciones forestales temporales**: se podrá admitir la inclusión de plantaciones establecidas antes de su solicitud de inscripción en el Registro de Plantaciones Forestales Temporales en Terrenos Agrícolas de la Comunitat Valenciana (Orden 4/2015: artículo 8...), si cumple los requisitos (la ausencia de solicitud significará la consideración de la parcela como forestal hasta el final del turno de aprovechamiento).
 
-Se podrá admitir la inclusión de plantaciones establecidas con anterioridad a su solicitud de inscripción en el Registro de Plantaciones Forestales Temporales en Terrenos Agrícolas de la Comunitat Valenciana, creado y regulado por la Orden 4/2015, de 9 de marzo, de la Conselleria de Infraestructuras, Territorio y Medio Ambiente.
-
-En este caso, se seguirá el procedimiento señalado en el artículo 8 de la mencionada orden, estando condicionada su inscripción al cumplimiento de los requisitos establecidos en la norma y en la legislación que le sea de aplicación.
-
-La no solicitud de inscripción en el Registro significará la consideración de la parcela como terreno forestal hasta la finalización del turno de aprovechamiento.
-
-- Cuarta. Convenios de repoblación
+4. **Convenios de repoblación**: 
 
 La Ley 43/2003, de 21 de noviembre, de Montes, normativa de carácter básico, establece en su disposición adicional primera que los consorcios y convenios de repoblación forestal, amparados por la legislación anterior a su promulgación —la Ley de 10 de marzo de 1941, sobre el Patrimonio Forestal del Estado; la Ley de 8 de junio de 1957, de Montes; y la Ley 5/1977, de 4 de enero, de Fomento de la Producción Forestal, derogadas por la misma— continuarán vigentes hasta la fecha de su finalización e indica la posibilidad de que las comunidades autónomas establezcan métodos para su sustitución en forma ventajosa tanto para los titulares de estos como para la propia Administración.
 
@@ -260,39 +274,33 @@ La Conselleria competente en materia forestal podrá disolver los consorcios, as
 
 La conselleria competente en materia forestal propondrá al Consell la adopción de la correspondiente iniciativa legislativa para la condonación de la deuda, en su caso, de los consorcios y convenios que cumplan las condiciones establecidas en el apartado anterior.
 
-- Quinta. Situación de las declaraciones ZAU vigentes
+5. **Situación de las declaraciones Zonas de Actuación Urgente (ZAU) vigentes**: se mantendrán hasta la entrada en vigor de la presente norma, en tanto no se opongan a lo previsto en la misma. Se declaran de interés general (artículo 24 de la Ley 3/1993) los trabajos incluidos en éstas, con carácter gratuito de la ejecución subsidiaria por la Administración, por los siguientes decretos:
 
-Se mantendrán en vigor las Zonas de Actuación Urgente (ZAU) aprobadas hasta la entrada en vigor de la presente norma, en tanto no se opongan a lo previsto en la misma.
+	- **Decreto 187/1996** (sierras de Onil, Reconco, Fontanella y Penya Roja)
+	- **Decreto 270/1997** (cuencas del río Turia aguas arriba de la presa del embalse de Benagéber)
+	- **Decreto 271/1997** (montes situados en el sureste del municipio de Requena)
+	- **Decreto 269/1997** (montes del valle de Ayora, al oeste de la carretera N-330)
+	- **Decreto 117/2001** (montes situados en la margen izquierda del río Cabriel)
+	- **Decreto 103/2004** (montes de la comarca del Alto Palancia situados al oeste de la carretera N-234)
+	- **Decreto 104/2004** (montes situados en la Sierra de Espadán)
 
-Se declaran de interés general (artículo 24 de la Ley 3/1993) los trabajos incluidos en las Zonas de Actuación Urgente (ZAU), con carácter gratuito de la ejecución subsidiaria por la Administración, declaradas en los siguientes decretos:
-
-- **Decreto 187/1996** (sierras de Onil, Reconco, Fontanella y Penya Roja)
-- **Decreto 270/1997** (cuencas del río Turia aguas arriba de la presa del embalse de Benagéber)
-- **Decreto 271/1997** (montes situados en el sureste del municipio de Requena)
-- **Decreto 269/1997** (montes del valle de Ayora, al oeste de la carretera N-330)
-- **Decreto 117/2001** (montes situados en la margen izquierda del río Cabriel)
-- **Decreto 103/2004** (montes de la comarca del Alto Palancia situados al oeste de la carretera N-234)
-- **Decreto 104/2004** (montes situados en la Sierra de Espadán)
-
-- **Sexta. Incidencia económica en la dotación de gasto**: La aplicación y el desarrollo de este decreto no podrán tener ninguna incidencia en los presupuestos de la Generalitat y, en todo caso, deberán ser atendidos con los medios personales y materiales de la conselleria competente en materia forestal.
-
-
+6. **Incidencia económica en la dotación de gasto**: la aplicación y el desarrollo de este decreto no podrán tener ninguna incidencia en los presupuestos de la Generalitat y, en todo caso, deberán ser atendidos con los medios personales y materiales de la Conselleria competente en materia forestal.
 
 ##### Disposiciones transitorias
 
-- Primera. Régimen transitorio de vigencia de los planes de prevención de incendios de parques naturales
+1. **Régimen transitorio de vigencia de los planes de prevención de incendios de parques naturales**
 
-Mientras no se apruebe la revisión de los planes de prevención de incendios forestales de demarcación forestal vigentes y se pueda realizar su incorporación en un anejo específico, como se prevé en el artículo 47 del anexo I del presente reglamento, los planes de prevención de incendios forestales de parques naturales estarán vigentes y serán de aplicación en el ámbito territorial contemplado en los mismos, teniendo prevalencia sobre cualquier otra planificación en materia de prevención de incendios forestales.
+	Mientras no se apruebe la revisión de los planes de prevención de incendios forestales de demarcación forestal vigentes y se pueda realizar su incorporación en un anejo específico, como se prevé en el artículo 47 del anexo I del presente reglamento, los planes de prevención de incendios forestales de parques naturales estarán vigentes y serán de aplicación en el ámbito territorial contemplado en los mismos, teniendo prevalencia sobre cualquier otra planificación en materia de prevención de incendios forestales.
 
-- Segunda. Procedimientos administrativos pendientes de resolución: A los procedimientos iniciados al amparo de la normativa existente con anterioridad a la entrada en vigor del presente decreto les será de aplicación la normativa vigente en el momento de su iniciación.
+2. Procedimientos administrativos pendientes de resolución: A los procedimientos iniciados al amparo de la normativa existente con anterioridad a la entrada en vigor del presente decreto les será de aplicación la normativa vigente en el momento de su iniciación.
 
-- Tercera. Adaptación de los planes locales de quemas: Todos los planes locales de quemas aprobados con anterioridad a la entrada en vigor del presente decreto deberán adaptarse al mismo en aquellos puntos en que lo contradigan. Para ello dispondrán de un plazo máximo de un año.
+3. Adaptación de los planes locales de quemas: Todos los planes locales de quemas aprobados con anterioridad a la entrada en vigor del presente decreto deberán adaptarse al mismo en aquellos puntos en que lo contradigan. Para ello dispondrán de un plazo máximo de un año.
 
-- Cuarta. Emplazamientos autorizados para el uso festivo-recreativo del fuego en suelo forestal, colindante o con una proximidad inferior a 500 metros de terreno forestal
+4. Emplazamientos autorizados para el uso festivo-recreativo del fuego en suelo forestal, colindante o con una proximidad inferior a 500 metros de terreno forestal
 
 	Los emplazamientos para el uso festivo-recreativo del fuego autorizados en aplicación del Decreto 148/2018, de 14 de septiembre, del Consell, y que figuran en el «Registro de emplazamientos para actos y festejos tradicionales que pueden usar fuego o artefactos pirotécnicos en suelo forestal, colindante o con una proximidad inferior a 500 metros de terreno forestal», se incorporarán al Registro de emplazamientos previsto en el artículo 4 del anexo VI y deberán seguir el procedimiento y las normas fijadas en el mismo.
 
-- Quinta. Adjudicaciones pascícolas existentes en montes propiedad de la Generalitat
+5. **Adjudicaciones pascícolas existentes en montes propiedad de la Generalitat**
 
 	Los aprovechamientos pascícolas cuyas adjudicaciones hubieran sido concedidas con anterioridad a la entrada en vigor del presente Reglamento pasarán a ser gratuitos. La exención del pago del importe correspondiente a cada aprovechamiento se hará efectiva a partir de la anualidad inmediatamente posterior a la entrada en vigor del presente reglamento.
 
@@ -301,31 +309,20 @@ Mientras no se apruebe la revisión de los planes de prevención de incendios fo
 
 El reglamento tiene por objeto el desarrollo del régimen legal aplicable a los montes o terrenos forestales de la Comunitat Valenciana (definición de monte o terreno forestal según la Ley 43/2003, y la Ley 3/1993).
 
-El presente reglamento se aplica a todos los montes y terrenos forestales que radican en el territorio de la Comunitat Valenciana, cualquiera que sea su titular. En el caso de los montes vecinales en mano común, el presente reglamento se aplicará igualmente, sin perjuicio de lo establecido por su legislación especial.
+Se aplica a todos los montes y terrenos forestales de la Comunitat Valenciana (cualquiera que sea su titular, incluidos los vecinales en mano común, los terrenos mixtos agro-silvopastorales -en particular los adehesados- para sus características y aprovechamientos forestales, así como las vías pecuarias que atraviese o linden con monte y los usos o actuaciones en los que sean espacios naturales protegidos o zonas de protección, de manera subsidiaria a su legislación específica).
 
-A los terrenos de condición mixta agrosilvopastoral, y en particular a los terrenos adehesados, les será de aplicación el presente reglamento en lo relativo a sus características y aprovechamientos forestales, sin perjuicio de la aplicación de la normativa que les corresponda por sus características agropecuarias.
+Los montes se clasifican en públicos y privados, atendiendo a su titularidad, y en demaniales o de dominio público y patrimoniales, según su régimen jurídico. 
 
-Las vías pecuarias que atraviesen o linden con montes se regirán por su legislación específica, así como por las disposiciones de este reglamento en lo que no sea contrario a aquella.
+| Clasificación    | Tipología                       |
+| ---------------- | ------------------------------- |
+| Titularidad      | - Públicos<br>- Privados        |
+| Régimen jurídico | - Demaniales<br>- Patrimoniales |
 
-Los montes o terrenos forestales que constituyan espacios naturales protegidos o formen parte de ellos, así como sus zonas de protección, se regularán por su legislación específica. No obstante, en aquellos espacios naturales protegidos en que se admitan usos o actuaciones de índole forestal, estos quedarán sometidos a lo dispuesto en la legislación forestal y en el presente reglamento, en lo que no se oponga a su régimen especial.
+*Los montes comunales son aquellos montes de dominio público cuya titularidad pertenece a una entidad local y cuyos aprovechamientos corresponden al común de los vecinos.* 
 
-### Artículo 3. Titularidad y clasificación de los montes
+*Los montes vecinales en mano común son montes privados sin asignación de cuotas, siendo titulares de los mismos los vecinos que en cada momento integren el grupo comunitario de que se trate y estando sujetos a las limitaciones de indivisibilidad, inalienabilidad, imprescriptibilidad e inembargabilidad (Ley 55/1980...)*.
 
-Los montes se clasifican en públicos y privados, atendiendo a su titularidad, y en demaniales o de dominio público y patrimoniales, según su régimen jurídico, de acuerdo con lo establecido en la legislación básica de montes y en la legislación forestal valenciana.
-
-Los montes comunales son aquellos montes de dominio público cuya titularidad pertenece a un municipio o a una entidad local menor y cuyos aprovechamientos corresponden al común de los vecinos.
-
-Los montes vecinales en mano común son montes privados que tienen naturaleza especial derivada de su propiedad en común sin asignación de cuotas, siendo titulares de los mismos los vecinos que en cada momento integren el grupo comunitario de que se trate y estando sujetos a las limitaciones de indivisibilidad, inalienabilidad, imprescriptibilidad e inembargabilidad. Sin perjuicio de lo previsto en la Ley 55/1980, de 11 de noviembre, de Montes Vecinales en Mano Común, se les aplicará lo dispuesto para los montes privados.
-
-Los terrenos forestales, cualquiera que sea su titular, están sujetos a los principios y objetivos establecidos en la legislación forestal, tanto básica como autonómica, y en la planificación forestal, desempeñando una función social relevante.
-
-Las facultades dominicales ordinarias y los deberes generales de los propietarios de terrenos forestales se ejercerán de acuerdo con lo establecido en la legislación forestal, siendo obligación de los propietarios la conservación y mejora de los terrenos forestales, sin perjuicio de las competencias que la legislación forestal atribuye a la Administración forestal.
-
-El régimen jurídico de los montes públicos se establece en la legislación básica de montes, en la legislación forestal valenciana y en el título II del presente reglamento, sin perjuicio de las normas generales de gestión de terrenos forestales que resulten aplicables.
-
-Los montes privados están sujetos a la política y gestión forestal establecida con carácter general para los terrenos forestales, así como a las normas específicas previstas para los montes de titularidad privada en la legislación forestal, sin perjuicio de la aplicación de las normas de derecho civil que correspondan.
-
-Podrán ser declarados protectores aquellos montes de titularidad privada que reúnan las características o funciones establecidas en la legislación forestal, básica o autonómica. La declaración se realizará por el Consell, dando audiencia en el procedimiento a los titulares privados y a las entidades locales donde radiquen los montes afectados.
+Todos los terrenos forestales están sujetos a los principios y objetivos establecidos en la legislación foresta y en la planificación forestal, y los propietarios están obligados a su conservación y mejora al ser contribuir los montes a una función social.
 
 Los montes declarados protectores se inscribirán en el Catálogo de Montes Protectores de la Comunitat Valenciana.
 
@@ -333,86 +330,119 @@ La gestión de los montes protectores corresponde a sus propietarios, sin perjui
 
 Las limitaciones que se establezcan en la gestión de los montes protectores por razón de las funciones ecológicas, de protección o sociales que cumplen podrán ser compensadas económicamente en los términos previstos en este reglamento o en sus disposiciones de desarrollo.
 
-### Artículo 5. Competencias de la Generalitat
 
-La Generalitat, a través de la Conselleria competente en materia forestal y en prevención de incendios forestales, es la Administración competente para el ejercicio de todas las competencias y funciones que la legislación en materia de montes atribuye a la Administración forestal.
+La Generalitat (a través de la Conselleria competente en materia forestal y en prevención de incendios forestales) es la Administración forestal (competencia exclusiva: [artículo 49.1.10 del Estatuto de Autonomía](https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235&p=20221228&tn=1#acuarentaynueve)). Promoverá su gestión para lograr los siguientes objetivos: 
 
-En el marco de dichas competencias, la Generalitat promoverá que la gestión de los montes y terrenos forestales de la Comunitat Valenciana se realice de forma integrada, contemplando conjuntamente a las personas, la flora, la fauna y el medio físico que los constituye, con el fin de conseguir un aprovechamiento sostenible de los recursos naturales, estableciendo garantías para la preservación de la diversidad biológica, el mantenimiento de los procesos ecológicos esenciales, la prevención de incendios forestales, así como la reducción de la vulnerabilidad y el aumento de la resiliencia frente al cambio climático.
+- Aprovechamiento sostenible de los recursos naturales
+- Conservación de la diversidad biológica
+- Mantenimiento de los procesos ecológicos esenciales
+- Prevención de incendios forestales
+- Reducción de la vulnerabilidad
+- Aumento de la resiliencia frente al cambio climático
 
-Corresponde a la conselleria competente en materia forestal de la Generalitat la gestión de todos los montes que integran el dominio público forestal inscritos en el Catálogo de Montes de Dominio Público y de Utilidad Pública, así como de los montes conveniados o consorciados en los que así se haya acordado, sin perjuicio de las competencias que la normativa básica y autonómica reserva a la Administración titular del monte.
+Corresponde a la Conselleria competente la gestión de todos los montes que integran el dominio público forestal inscritos en el Catálogo de Montes de Dominio Público y de Utilidad Pública, así como de los montes conveniados o consorciados en los que así se haya acordado.
 
-Con la conformidad de los titulares de los montes, realizará las inversiones necesarias para su gestión, incluyendo la planificación mediante los instrumentos técnicos de gestión.
+Con la conformidad de los titulares de los montes, realizará las inversiones necesarias para su gestión, incluyendo la planificación mediante los instrumentos técnicos de gestión (ESTO QUIEN, CONselleria o GeneralitaT=)
 
-En el caso de los montes de titularidad de la Generalitat incluidos en el Catálogo de Montes de Dominio Público y de Utilidad Pública, y de conformidad con lo dispuesto en la disposición adicional quinta de la Ley 14/2003, de 10 de abril, de Patrimonio de la Generalitat Valenciana, corresponderán a la conselleria competente en materia forestal las facultades que dicha ley atribuye, con carácter general, a la conselleria competente en materia de patrimonio.
+En el caso de los montes de titularidad de la Generalitat incluidos en el Catálogo de Montes de Dominio Público y de Utilidad Pública (disposición adicional quinta de la Ley 14/2003), corresponderán a la conselleria competente en materia forestal las facultades que dicha ley atribuye, con carácter general, a la conselleria competente en materia de patrimonio.
 
+Son competencias de las entidades locales, para sus montes, las siguientes:
 
-Son competencias de las entidades locales (en el marco de la legislación básica del Estado y de la legislación autonómica en materia de montes) las siguientes:
+- **Gestión**: para los patrimoniales
+- **Dominio público**: afectación e inclusión en el Catálogo de Montes de Dominio Público y de Utilidad Pública de un monte de su titularidad
+- **Administración titular**: ejercicio de competencias
+- **Cooperación**: con Generalitat, para el logro de objetivos, la vigilancia de terrenos y la prevención de incendios.
+- **Rendimiento económico**
+- **Informes preceptivos** (emisión)
+- **Otras**: atribuidos expresamente
 
-- La gestión de los montes de su titularidad de carácter patrimonial.
-- La potestad de instar la afectación al dominio público forestal y su inclusión en el Catálogo de Montes de Dominio Público y de Utilidad Pública de un monte de su titularidad, cuando se den las circunstancias que la ley establece para ello.
-- El ejercicio de las competencias que la legislación forestal reserva a la Administración titular de un monte público.
-- La cooperación con la Generalitat, en cuanto Administración forestal, en el logro de los objetivos previstos en la normativa y planificación forestal, así como en lo relativo a la vigilancia de los terrenos forestales de su ámbito territorial y a la prevención de incendios forestales.
-- La disposición del rendimiento económico de los aprovechamientos forestales de montes de su titularidad, sin perjuicio de lo dispuesto en cuanto al fondo de mejoras de los montes catalogados.
-- En el ámbito de sus competencias, la emisión de los informes preceptivos previstos en la normativa forestal.
-
-- **Otras**: Aquellas otras competencias que, en relación con los montes y bienes de naturaleza forestal de su titularidad, les atribuya de manera expresa la normativa forestal u otras leyes que resulten de aplicación.
-
-Las entidades locales podrán solicitar a la Generalitat la delegación del ejercicio de las competencias que le corresponden como Administración Forestal para la gestión de los montes demaniales de su titularidad, en los términos y por el procedimiento que establece la legislación forestal valenciana y demás normativa aplicable.
+Las entidades locales podrán solicitar a la Generalitat la delegación de las competencias que le corresponden (Administración forestal) para la gestión de los montes demaniales de su titularidad.
 
 ### Artículo 7. Superficie forestal administrativa mínima
 
-Se establece la superficie mínima forestal administrativa de veinticinco hectáreas continuas (o la que para determinados enclaves o zonas determine el Consell mediante decreto). Tendrán la condición de indivisibles los terrenos forestales que pertenezcan al mismo propietario y cuya división dé lugar a terrenos forestales de superficie inferior a veinticinco hectáreas.
+Se establece la superficie mínima forestal administrativa en veinticinco hectáreas continuas (u otra menor para determinados enclaves o zonas determinada por decreto del Consell). 
+
+Los terrenos forestales que pertenezcan al mismo propietario y cuya división dé lugar a terrenos forestales de superficie inferior a veinticinco hectáreas se consideran indivisibles.
 
 Se podrá alcanzar o superar la superficie administrativa mínima a los efectos de gestión mediante:
 
-- Varias parcelas colindantes, cuando los terrenos pertenezcan a un solo propietario y se gestionen conjuntamente.
-- La asociación de dos o más propietarios para poner en común sus terrenos forestales, o encargar la gestión conjunta de sus terrenos a un tercero, mediante alguna de las formas permitidas en la legislación vigente.
+- **Varias parcelas colindantes**, cuando los terrenos pertenezcan a un solo propietario y se gestionen conjuntamente.
 
-### Artículo 8. Registros públicos
+- **Asociación**: de varios propietarios, para poner en común sus terrenos, o encargar su gestión conjunta a un tercero.
 
-Respecto a los registros públicos, tienen ese carácter y se establecen los siguientes
 
-|          | Registros públicos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Previos  | - Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana.<br>- Catálogo de Montes Protectores<br>- Registro de Terrenos Forestales Incendiados<br>- Registro de Plantaciones Forestales Temporales<br>- Registro de Cooperativas, Empresas e Industrias Forestales, en el ámbito de la Comunitat Valenciana<br>- Registro de Senderos de la Comunitat Valenciana                                                                                                                                                                                                                       |
-| Creación | - Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana<br>- Registro de Terrenos Aptos para Albergar Proyectos de Absorción de Dióxido de Carbono (CO₂) para la Compensación de Emisiones de Gases de Efecto Invernadero (GEI)<br>- Registro de Pruebas Deportivas, Marchas Ciclistas y otros Eventos y Actividades<br>- Catálogo de Instalaciones Recreativas y Deportivas de la Comunitat Valenciana<br>- Registro de Emplazamientos para Actos y Festejos Tradicionales que pueden usar fuego o artefactos pirotécnicos excepcionalmente en suelo forestal o en la Zona de Influencia Forestal |
+Tienen el carácter de registros públicos los siguientes:
+
+- **Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana**: 
+
+- **Catálogo de Montes Protectores**: 
+
+- **Registro de Terrenos Forestales Incendiados**: 
+
+- **Registro de Plantaciones Forestales Temporales**: 
+
+- **Registro de Cooperativas, Empresas e Industrias Forestales, en el ámbito de la Comunitat Valenciana**: 
+
+- **Registro de Senderos de la Comunitat Valenciana**: 
+
+
+La cartografía será pública. Tendrá carácter informativo de manera general, y vinculante para aquellos montes con deslinde firme y amojonamiento. Mostrará la información referente a cada monte (número, denominación, pertenencia, nombre, estado de deslinde y amojonamiento, área oficial del catálogo, área cartográfica, comarca, término municipal y, adicionalmente, referencia al estado de la revisión de su perímetro o, en su caso, si la cartografía tiene carácter vinculante para ese monte).
+
+Las actualizaciones debidas a una corrección de errores o a trabajos de reconstrucción topográfica del perímetro de los montes se iniciarán de oficio por los servicios territoriales en materia forestal de la dirección territorial correspondiente o a instancia de parte por la entidad titular del monte, y serán resueltas por la persona titular de la dirección general competente en materia forestal.
+
+|          | Registros públicos |
+| -------- | ------------------ |
+| Previos  |                    |
+| Creación |                    |
+
+Se crean los siguientes: 
+
+- **Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana**: 
+
+- **Registro de Terrenos Aptos para Albergar Proyectos de Absorción de Dióxido de Carbono** (CO₂) **para la Compensación de Emisiones de Gases de Efecto Invernadero** (GEI): 
+
+- **Registro de Pruebas Deportivas, Marchas Ciclistas y otros Eventos y Actividades**: 
+
+- **Catálogo de Instalaciones Recreativas y Deportivas de la Comunitat Valenciana**: 
+
+- **Registro de Emplazamientos para Actos y Festejos Tradicionales que pueden usar fuego o artefactos pirotécnicos excepcionalmente en suelo forestal o en la Zona de Influencia Forestal**: 
 
 
 El Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana es un registro público de carácter administrativo, en el que se incluyen todos los montes declarados de dominio público y de utilidad pública. Asimismo, se inscribirán las ocupaciones, concesiones, servidumbres y demás derechos reales que graven los bienes inscritos.
 
-La gestión del Catálogo corresponde a la conselleria competente en materia forestal, que deberá mantener permanentemente actualizado y revisado su contenido, procurando la coordinación con otros inventarios de bienes públicos, en particular con los inventarios de bienes de las entidades locales, el Catastro Inmobiliario y, en su caso, el Inventario General de Bienes y Derechos de la Comunitat Valenciana, así como con el Registro de la Propiedad.
 
-De conformidad con la legislación básica de montes, la Generalitat, como Administración gestora de los montes catalogados, inscribirá la propiedad, así como cualquier derecho real sobre ellos, en el Registro de la Propiedad. También la administración titular del monte podrá realizar dicha inscripción.
+
+La gestión del Catálogo corresponde a la Conselleria competente en materia forestal, que deberá mantener permanentemente actualizado y revisado su contenido, procurando la coordinación con otros inventarios de bienes públicos (inventarios de bienes de las entidades locales, Catastro Inmobiliario,  Inventario General de Bienes y Derechos de la Comunitat Valenciana, Registro de la Propiedad...)
+
+La Generalitat inscribirá la propiedad (y cualquier derecho real sobre ellos) en el Registro de la Propiedad (también lo podrá realizar la administración titular del monte), mediante certificación acompañada por plano topográfico o deslinde georreferenciado, con 
 
 La inscripción en el Registro de la Propiedad se realizará mediante certificación acompañada por un plano topográfico del monte, o el levantado para el deslinde a escala apropiada, debidamente georreferenciado y, en todo caso, por la certificación catastral descriptiva y gráfica en la que conste la referencia catastral del inmueble o inmuebles que constituyan la totalidad del monte catalogado, de acuerdo con el texto refundido de la Ley del Catastro Inmobiliario, aprobado por el Real Decreto Legislativo 1/2004, de 5 de marzo. En caso de discrepancia, se estará a lo que disponga la legislación hipotecaria sobre la inscripción de la representación gráfica de las fincas en el Registro de la Propiedad. Para evitar estas discrepancias podrán suscribirse convenios con la Administración competente en Catastro para coordinar el contenido y la información de ambos registros.
 
-En el Catálogo se reseñarán los montes por provincias y, dentro de cada una de ellas, se numerarán correlativamente, con mención de la comarca, partido judicial, término municipal, nombre y pertenencia.
+La información será la siguiente: 
 
-También se harán constar en el Catálogo los límites del monte, con la precisión que sea posible, su cabida total y pública, la especie o especies principales que lo pueblan, su clasificación como bienes de propios o comunales y la relación de enclavados, en su caso.
+- **Listado de montes**: por provincias
 
-Se consignarán, además, las cargas de toda clase que pesen sobre los montes catalogados (condominios, servidumbres, ocupaciones, concesiones y demás derechos reales). Para cada una de ellas se detallarán la fecha de su legitimación o concesión, naturaleza jurídica, características, alcance y duración.
+- **Numeración correlativa**: con mención de la comarca, partido judicial, término municipal, nombre y pertenencia.
 
-Asimismo, se incluirán las fechas de aprobación de su deslinde y amojonamiento, en caso de haberse procedido a dichas operaciones.
+- **Descripción**: límites, cabida (total y pública), especies principales, clasificación (propios o comunales), y enclavados (en su caso)
+
+- **Cargas** (condominios, servidumbres, ocupaciones, concesiones...): con la fecha de su legitimación o concesión, la naturaleza jurídica, las características, el alcance y la duración.
+
+- **Deslinde y amojonamiento**: fecha (en caso de haberse realizado)
 
 Toda inscripción en el Catálogo deberá completarse con la incorporación del plano del monte, a la escala y con los requisitos técnicos que determine el órgano competente en materia forestal.
 
-### Artículo 10. Cartografía de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana
-
-La cartografía de los montes de dominio público y de utilidad pública de la Comunitat Valenciana es la expresión gráfica del Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana y permite localizar geográficamente los montes incluidos en el Catálogo, así como otros montes gestionados por la Generalitat. La cartografía será pública y accesible desde los sistemas e infraestructuras de datos espaciales de la conselleria competente en materia forestal.
-
-La cartografía tiene carácter informativo, salvo para aquellos montes que cuenten con deslinde firme y amojonamiento, para los que tendrá carácter vinculante, siempre que dicha cartografía se haya elaborado a partir de la georreferenciación de hitos o mojones, circunstancia que se hará constar en la propia cartografía.
-1. La cartografía mostrará la información referente a cada monte (número, denominación, pertenencia, nombre, estado de deslinde y amojonamiento, área oficial del catálogo, área cartográfica, comarca, término municipal y, adicionalmente, referencia al estado de la revisión de su perímetro o, en su caso, si la cartografía tiene carácter vinculante para ese monte).
-2. Las actualizaciones debidas a una corrección de errores o a trabajos de reconstrucción topográfica del perímetro de los montes se iniciarán de oficio por los servicios territoriales en materia forestal de la dirección territorial correspondiente o a instancia de parte por la entidad titular del monte, y serán resueltas por la persona titular de la dirección general competente en materia forestal.
 
 ### Artículo 11. Catálogo de Montes Protectores de la Comunitat Valenciana
 
 Los terrenos forestales declarados protectores (montes, zonas) se inscribirán en el Catálogo de Montes Protectores de la Comunitat Valenciana, por provincias, numerando cada uno de ellos y mencionando la comarca, el partido judicial, el término municipal, el nombre y la propiedad.
 
+- **Listado por provincias**: numeración, comarca, partido judicial, término municipal, nombre, y titular
+
+
 ### Artículo 12. Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana
 
- Para localizar geográficamente los terrenos forestales conforme al artículo 1 del presente decreto, se tomará como referencia el Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana. La cartografía será pública y accesible desde los sistemas e infraestructuras de datos espaciales de la Conselleria competente en materia forestal.
- 
-La cartografía tiene carácter informativo.
+ Para su localización geográfica, se tomará como referencia el [Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana](https://mediambient.gva.es/es/web/medio-natural/descarrega-cartografia-forestal), de carácter informativo.
 
 Las actualizaciones debidas a un cambio de uso debidamente autorizado o a una corrección de errores deberán estar fundamentadas en los criterios vigentes de definición de terrenos forestales y justificadas mediante documentación de igual o mayor nivel de detalle que la contenida en la cartografía vigente.
 
@@ -424,60 +454,55 @@ La aprobación de un instrumento técnico de gestión forestal incoará de ofici
 
 - **Registro de Terrenos Aptos para Albergar Proyectos de Absorción de Dióxido de Carbono** (CO₂): para la Compensación de Emisiones de Gases de Efecto Invernadero (RETEGEI), cuya inscripción tiene carácter público y voluntario. El RETEGEI tiene las siguientes finalidades:
 
-	- a) Fomentar los proyectos de absorción de CO₂ para compensación de la huella de carbono de las entidades emisoras de gases de efecto invernadero.
-	- b) Servir como herramienta para poner en contacto a propietarios públicos y privados interesados en la cesión del uso de sus terrenos para la creación de bosques y la cesión de los derechos de absorción de CO₂, con las entidades emisoras de gases de efecto invernadero.
+	- **Sumideros**: fomento de los proyectos de absorción para compensación de la huella de carbono de las entidades emisoras de gases de efecto invernadero.
 
-	Los terrenos aptos para albergar proyectos de absorción de CO₂ podrán inscribirse en este registro, sin que esta inscripción suponga una cesión automática del uso de sus terrenos para dichas compensaciones.
+	- **Cooperación**: contacto entre propietarios públicos y privados interesados en la cesión del uso de sus terrenos para la creación de bosques y la cesión de los derechos de absorción de CO₂, con las entidades emisoras de gases de efecto invernadero.
 
-	Los terrenos forestales que formen parte del RETEGEI deberán contar con un instrumento técnico de gestión forestal aprobado y en vigor, que contendrá las directrices básicas sobre las que elaborar el proyecto de absorción de CO₂ y sus sucesivas revisiones.
+	Los terrenos aptos para albergar proyectos de absorción de CO₂ podrán inscribirse en este registro (sin que esto suponga una cesión automática del uso de sus terrenos para dichas compensaciones).
+
+	Los terrenos forestales incluidos deberán contar con un instrumento técnico de gestión forestal aprobado y en vigor, que contendrá las directrices básicas sobre las que elaborar el proyecto de absorción de CO₂ y sus sucesivas revisiones.
 
 	Reglamentariamente se establecerán las condiciones que deben cumplir los terrenos para las cesiones de uso y sus efectos sobre el Registro, así como las condiciones básicas y compromisos derivados de dicha cesión y otros aspectos relacionados con la gestión del RETEGEI.
 
-
 ##### Planificación forestal
 
-El Plan de Acción Territorial Forestal de la Comunitat Valenciana (PATFOR) constituye el instrumento de ordenación del territorio forestal de la Comunitat Valenciana y de planificación de la gestión de los servicios que este provee (artículo 20 de la Ley 3/1993). En desarrollo del PATFOR se elaboran los 
+El Plan de Acción Territorial Forestal de la Comunitat Valenciana (PATFOR) constituye el instrumento de ordenación del territorio forestal de la Comunitat Valenciana y de planificación de la gestión de sus servicios (artículo 20 de la Ley 3/1993). Sus determinaciones vincularán a todas las personas: físicas y jurídicas (públicas o privadas).
 
-- **Planes de Ordenación de los Recursos Forestales** (PORF): planes de acción territorial sectorial en materia forestal, a escala de demarcación forestal (definidas en el PATFOR), que constituyen el desarrollo operativo del PATFOR.
+Se revisará cada máximo 15 años (o cuando las circunstancias alteren sustancialmente las condiciones físicas o jurídicas por las que se aprobó), siguiendo el procedimiento para su aprobación.
+
+Está desarrollado por los instrumentos siguientes: 
+
+- **Planes de Ordenación de los Recursos Forestales** (PORF): planes de acción territorial sectorial en materia forestal, a escala de demarcación forestal, que constituyen el desarrollo operativo del PATFOR.
 
 - **Instrumentos Técnicos de Gestión Forestal**
 	- Proyectos de Ordenación de Montes
 	- Planes Técnicos de Gestión Forestal
 
-El ámbito de aplicación del PATFOR está constituido por todos los terrenos forestales de la Comunitat Valenciana, con independencia de su titularidad.
-
-Como plan de acción territorial sectorial, incorpora los objetivos y principios directores de la Estrategia Territorial de la Comunitat Valenciana.
-
-Las determinaciones contenidas en el PATFOR vincularán tanto a las personas físicas como a las personas jurídicas, sean públicas o privadas.
-
-El PATFOR se revisará con carácter general cada quince años, pudiéndose modificar cuando concurran circunstancias que alteren sustancialmente las condiciones físicas o jurídicas conforme a las cuales se aprobó, o cuando las circunstancias así lo aconsejen.
-
-El PATFOR se revisará siguiendo el procedimiento establecido para su aprobación.
-
-
-
-
+*Como plan de acción territorial sectorial, incorpora los objetivos y principios directores de la Estrategia Territorial de la Comunitat Valenciana.*
 
 
 
 El contenido mínimo de los PORF (artículo 31.6 de la Ley 43/2003) es el siguiente:
 
-- a) **Análisis territorial de la demarcación forestal.** Se describirán y analizarán los principales factores que caracterizan el marco forestal, los servicios ambientales que proveen los terrenos forestales, la biodiversidad y las características socioeconómicas y de gobernanza del suelo forestal en el ámbito de la demarcación.
-- b) **Diagnóstico del territorio**, en base a las conclusiones obtenidas del análisis territorial realizado.
-- c) **Definición de objetivos y zonificación del territorio.** Se definirán los objetivos generales del plan y se zonificará el territorio de la demarcación en base a sus usos potenciales, estableciendo para cada zona los objetivos específicos que se pretenden conseguir durante la vigencia del plan.
-- d) **Estrategias del plan. Directrices y propuestas de actuación.** Se planificarán las acciones necesarias para el cumplimiento de los objetivos fijados en el plan, incorporando, entre otras, las previsiones de adaptación al cambio climático, de repoblación, restauración hidrológico-forestal, prevención y extinción de incendios, prevención y lucha contra plagas, regulación de usos recreativos y ordenación de montes, incluyendo, cuando proceda, la ordenación cinegética, piscícola y micológica. Se definirán los modelos selvícolas de gestión aplicables a las masas forestales presentes, así como las directrices específicas para la demarcación para la mejora de los servicios ambientales y el establecimiento del marco en el que podrán suscribirse acuerdos, convenios y contratos entre la administración y los propietarios para la gestión de los montes.
-- e) **Criterios básicos para el control, seguimiento, evaluación y plazos para la ejecución del plan.**
+- **Análisis territorial de la demarcación forestal.** Se describirán y analizarán los principales factores que caracterizan el marco forestal, los servicios ambientales que proveen los terrenos forestales, la biodiversidad y las características socioeconómicas y de gobernanza del suelo forestal en el ámbito de la demarcación.
+
+- **Diagnóstico del territorio**, en base a las conclusiones obtenidas del análisis territorial realizado.
+
+- **Definición de objetivos y zonificación del territorio.** Se definirán los objetivos generales del plan y se zonificará el territorio de la demarcación en base a sus usos potenciales, estableciendo para cada zona los objetivos específicos que se pretenden conseguir durante la vigencia del plan.
+
+- **Estrategias del plan. Directrices y propuestas de actuación.** Se planificarán las acciones necesarias para el cumplimiento de los objetivos fijados en el plan, incorporando, entre otras, las previsiones de adaptación al cambio climático, de repoblación, restauración hidrológico-forestal, prevención y extinción de incendios, prevención y lucha contra plagas, regulación de usos recreativos y ordenación de montes, incluyendo, cuando proceda, la ordenación cinegética, piscícola y micológica. Se definirán los modelos selvícolas de gestión aplicables a las masas forestales presentes, así como las directrices específicas para la demarcación para la mejora de los servicios ambientales y el establecimiento del marco en el que podrán suscribirse acuerdos, convenios y contratos entre la administración y los propietarios para la gestión de los montes.
+
+- **Criterios básicos para el control, seguimiento, evaluación y plazos para la ejecución del plan.**
 
 En cumplimiento de la normativa sectorial de aplicación, se realizarán cuantos estudios sectoriales y planes sean requeridos para su tramitación.
 
 Conjuntamente a la elaboración de los PORF se desarrollará cartografía temática, que incluirá, al menos, la definición de los terrenos forestales y no forestales de la demarcación, la infraestructura verde, la zonificación, la localización de las actuaciones planificadas, así como la cartografía derivada de los estudios sectoriales. La cartografía editable generada empleará el sistema de referencia y proyección oficial y se presentará junto con sus metadatos.
 
-### Artículo 47. 
+Los 
 
 - **Planes de Prevención de Incendios Forestales de Demarcación Forestal** (PPIFDF): desarrollo táctico del Plan de Acción (PATFOR) en la materia. Establecerán las medidas y acciones dirigidas a prevenir la iniciación y la propagación de los incendios forestales, así como las características constructivas, los trazados y la ubicación de las infraestructuras de prevención de incendios forestales necesarias para ello, que se definirán y concretarán en los correspondientes proyectos.
 
-	Los PPIFDF, juntamente con lo establecido en la planificación general de extinción de incendios forestales en su ámbito territorial, elaborada por la conselleria competente en extinción de incendios forestales, equivalen a los planes de defensa previstos para las zonas de alto riesgo de incendio forestal.
-
+	Junto con la planificación general de extinción de incendios forestales en su ámbito territorial equivalen a los planes de defensa previstos para las zonas de alto riesgo de incendio forestal.
 
 |                                                                      | Contenidos mínimos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -485,11 +510,9 @@ Conjuntamente a la elaboración de los PORF se desarrollará cartografía temát
 | Planes de Prevención de Incendios Forestales de Demarcación Forestal | - Riesgo de incendio: análisis y diagnóstico del riesgo de incendio<br>- Plan de actuaciones para la prevención de causas<br>- Plan de infraestructuras de prevención de incendios. Para el caso de áreas cortafuegos, áreas de defensa y puntos estratégicos de gestión, se incluirá un análisis específico a partir de los modelos de combustible existentes y conforme a los criterios de cálculo establecidos en el Plan de Selvicultura Preventiva<br>- Programación económica y temporal<br>- Cartografía referida a los puntos anteriores. |
 
 
-
-
 Los PPIFDF equivalen a los planes sectoriales en materia de prevención de incendios forestales contemplados en los Planes de Ordenación de los Recursos Naturales (PORN) de parques naturales. Deberá elaborarse un anejo específico con las particularidades propias de cada parque natural dentro del ámbito territorial de la demarcación forestal. Estos anejos se elaborarán únicamente si así estuviera contemplado por la normativa propia del parque natural.
 
-La elaboración de los PPIFDF y las correspondientes revisiones corresponde a la dirección general competente en prevención de incendios forestales y su aprobación a la persona titular de la conselleria. El procedimiento incluirá la consulta previa a los distintos departamentos de la Generalitat y administraciones afectadas.
+La elaboración de los PPIFDF y las correspondientes revisiones corresponde a la Dirección general competente en prevención de incendios forestales y su aprobación a la persona titular de la Conselleria. El procedimiento incluirá la consulta previa a los distintos departamentos de la Generalitat y administraciones afectadas.
 
 Los PPIFDF se revisarán cada quince años. En dichas revisiones se analizará el grado de cumplimiento respecto a lo planificado y se procederá a una nueva programación económica y temporal de las actuaciones.
 
@@ -506,15 +529,19 @@ Para la consecución de una adecuada prevención de incendios forestales, la Con
 - Características técnicas de infraestructuras y selvicultura preventiva
 - Información geográfica y estadística
 - Investigación de causas y motivaciones
-- Formación, investigación, desarrollo e innovación en prevención de incendios forestales
+- Formación, investigación, desarrollo e innovación
 
 *Estos programas tendrán ámbito autonómico y carácter subordinado respecto a lo dispuesto en los Planes de Prevención de Incendios Forestales de Demarcación Forestal.*
 
-La aprobación de los planes a que hace referencia este artículo, así como sus correspondientes revisiones, corresponde a la persona titular de la conselleria competente en prevención de incendios forestales, mediante resolución y a propuesta de la dirección general competente.
+La aprobación y revisión de estos planes se realiza por resolución de la persona titular de la Conselleria competente (a propuesta de la Dirección general).
 
-El programa de características técnicas de infraestructuras y selvicultura preventiva es el documento técnico único y necesario que determinará las características de diseño, construcción y mantenimiento de todas las infraestructuras de prevención de incendios forestales.
+El programa de características técnicas de infraestructuras y selvicultura preventiva es el documento técnico que determinará las características de diseño, construcción y mantenimiento las de prevención.
 
-Con el fin de llevar a término el programa de vigilancia preventiva, se establece el servicio de vigilancia preventiva frente al riesgo de incendios forestales. Dicho servicio dependerá de la dirección general con competencias en materia de prevención de incendios forestales, podrá prestarse mediante medio propio de la Administración y estará incluido dentro del presupuesto de la citada dirección general.
+Con el fin de llevar a término el programa de vigilancia preventiva
+
+Se establece el servicio de vigilancia preventiva frente al riesgo de incendios forestales, dependiente de la Dirección General (incluido en su presupuesto), que podrá presentarse mediante medio propio de la Administración.
+
+
 
 
 - **Planes Locales de Prevención de Incendios Forestales** (PLPIF): instrumento de desarrollo de los Planes de Prevención de Incendios Forestales de Demarcación Forestal (PPIFDF), mediante el cual los municipios adoptan, desarrollan y ejecutan las medidas contempladas en estos, realizando la correspondiente programación económica y temporal en el ejercicio de sus competencias.
@@ -523,9 +550,9 @@ Con el fin de llevar a término el programa de vigilancia preventiva, se estable
 
 	En los PPIFDF podrá determinarse qué contenidos de los PLPIF pueden ser homologados en todos o en algunos de los municipios que forman parte de la demarcación forestal.
 
-Mediante orden de la Conselleria con competencias en materia de prevención de incendios forestales se establecerán los casos en los que el PLPIF podrá tener un formato reducido: Plan Local Reducido de Prevención de Incendios Forestales (PLRPIF).
+Mediante orden de la Conselleria competente se establecerán los casos en los que el PLPIF podrá tener un formato reducido: llamado "Plan Local Reducido de Prevención de Incendios Forestales" (PLRPIF). 
 
-Mediante orden de la conselleria con competencias en materia de prevención de incendios forestales se aprobarán las normas técnicas para la redacción de los PLPIF y las particularidades en la redacción de los PLRPIF.
+También por orden suya se aprobarán las normas técnicas para la redacción de los PLPIF y las particularidades en la redacción de los PLRPIF.
 
 Corresponde a la dirección territorial de la conselleria competente en prevención de incendios forestales la tramitación e instrucción de los expedientes de aprobación de los PLPIF. La dirección territorial emitirá un informe-propuesta sobre la adecuación del PLPIF a la planificación a la que está subordinado y las condiciones para su aprobación, que elevará a la dirección general competente.
 
@@ -543,11 +570,16 @@ Artículo 96. Usos y servicios forestales
 Son usos y servicios forestales, cualquier actividad o utilización del terreno forestal como espacio o soporte físico que tenga una finalidad forestal, entre las que destacan las siguientes:  
 
 - **Formaciones forestales**: mantenimiento y regeneración (arbóreas, arbustivas, de matorral o herbáceas), espontáneas o procedentes de siembra o plantación, que cumplan o puedan cumplir funciones ambientales, de regulación, biodiversidad, protectoras, productoras, culturales, paisajísticas o recreativas, así como las actividades de regeneración de zonas forestales degradadas.  
-- b) Actividades tales como la selvicultura, relacionadas con la obtención de los bienes derivados de los servicios de producción de los ecosistemas forestales, como maderas, leñas, cortezas, pastos, frutos, resinas, plantas aromáticas, plantas medicinales, setas y trufas, productos apícolas y en general, los demás productos y subproductos propios de los terrenos forestales. No tendrán la consideración de cambio de uso, las roturaciones y labrados necesarios para la realización y/o mantenimiento de repoblaciones y plantaciones forestales, realizadas según lo legalmente previsto.
-- Suministro de los servicios ambientales de regulación y culturales, proporcionados por los ecosistemas forestales, tales como la actividad cinegética, la actividad piscícola, el uso excursionista, turístico, recreativo y pedagógico de los montes. 
+
+- **Selvicultura**: maderas, leñas, cortezas, pastos, frutos, resinas, plantas aromáticas, plantas medicinales, setas y trufas, productos apícolas y en general, los demás productos y subproductos propios de los terrenos forestales. No tendrán la consideración de cambio de uso, las roturaciones y labrados necesarios para la realización y/o mantenimiento de repoblaciones y plantaciones forestales, realizadas según lo legalmente previsto.
+
+- **Servicios ambientales**: de regulación y culturales (actividad cinegética,  piscícola, uso excursionista, turístico, recreativo y pedagógico...)
+
 - Cultivos con finalidad cinegética, paisajística, de fomento de la biodiversidad o de protección contra incendios forestales, así como la actividad agrícola y ganadera con finalidad de protección contra incendios forestales.
-- Construcción de pistas o caminos forestales e infraestructuras necesarias para la provisión de los servicios ambientales, como áreas recreativas, observatorios forestales, etc., siempre que hayan estado previamente autorizadas.  
-- Otro uso o actividad relacionada, que no haga perder al suelo su carácter forestal.  
+
+- Pistas o caminos forestales e infraestructuras necesarias para la provisión de los servicios ambientales, como áreas recreativas, observatorios forestales, etc., siempre que hayan estado previamente autorizadas. 
+
+- **Otros**: uso o actividades relacionadas, que no haga perder al suelo su carácter forestal.  
 
 El desarrollo de usos forestales no implicará la pérdida de la condición de suelo forestal. 
 
@@ -555,13 +587,12 @@ El desarrollo de usos forestales no implicará la pérdida de la condición de s
 Artículo 97. Modificación sustancial de la cubierta vegetal sin cambio de  
 uso forestal  
 
-Para la realización de actuaciones en terreno forestal que supongan una modificación sustancial de la cubierta vegetal sin producirse cambio de uso forestal, tales como las previstas en el artículo 96, será necesaria la  autorización de la dirección territorial competente en materia forestal, cuando dichas actuaciones no estén previstas en el correspondiente ITGF expresamente aprobado. En el caso de estar previstas en dichos instrumentos, bastará la presentación de una declaración responsable. Al efecto, los ITGF únicamente podrán prever para su autorización mediante declaración responsable actuaciones de modificación de la cubierta vegetal que no estén sometidas a ninguno de los procedimientos de evaluación ambiental previstos en la normativa sectorial.  
+Para la realización de actuaciones en terreno forestal que supongan una modificación sustancial de la cubierta vegetal sin cambio de uso forestal (artículo 96...) se actuará de acuerdo a si se prevé o no en el ITGT
 
-Artículo 98. Obras, usos y aprovechamientos no forestales  
+- **Previsión**: autorización de la Dirección territorial competente
+- **No previsión**: declaración responsable (solo autorizable para actuaciones no sometidas a evaluación ambiental)
 
-En terreno forestal será compatible cualquier obra, uso o aprovechamiento que resulte conforme a la normativa urbanística en materia de suelo no urbanizable y cumpla con los requisitos legales previstos en materia de prevención de incendios forestales, así como cualquier otra disposición sectorial que pudiera resultar de aplicación.
-
-Artículo 99. Explotaciones mineras en terreno forestal  
+En terreno forestal será compatible cualquier obra, uso o aprovechamiento que resulte compatible con la normativa urbanística en materia de suelo no urbanizable y cumpla con los requisitos legales previstos en materia de prevención de incendios forestales, y cualquier otra disposición sectorial que pudiera resultar de aplicación.
 
 Las actividades mineras extractivas o de cantera realizadas a cielo abierto desarrolladas en montes o terrenos forestales de la Comunitat Valenciana, se regirán por su legislación específica.  
 
@@ -569,10 +600,7 @@ El solicitante de cualquier aprovechamiento de recursos naturales minerales desa
 
 El PRI deberá garantizar una posible gestión forestal ulterior de la superficie  afectada por la actividad minera.  
 
-No podrán desarrollarse extracciones mineras en montes demaniales, que supongan una pérdida definitiva de los valores que motivaron su inclusión en el Catálogo de Montes de Dominio Público y de Utilidad Pública o que supongan la pérdida de los valores que motivaron la afectación al uso o servicio público.  
-
-Así mismo, no podrán desarrollarse extracciones mineras en montes  
-protectores que supongan la pérdida definitiva de los valores que motivaron su inclusión en el Catálogo de Montes Protectores  
+No podrán desarrollarse extracciones mineras en montes demaniales o patrimoniales que supongan una pérdida definitiva de los valores que motivaron su inclusión en el Catálogo respectivo.  
 
 El PRI deberá ajustarse a unos contenidos mínimos que recojan los trabajos de restauración proyectados, según la estructura definida ([Real Decreto 975/2009](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9841)).  
 
@@ -583,16 +611,14 @@ materia forestal), sin perjuicio de que el técnico firmante del plan los haga s
 
 En virtud de los principios de coordinación e información mutua: 
 
-- Conselleria competente en minería: remitirá copia del PRI definitivamente aprobado al órgano competente en materia forestal. 
+- **Conselleria competente en minería**: remitirá copia del PRI definitivamente aprobado al órgano competente en materia forestal. 
 
-- El órgano competente en materia forestal remitirá anualmente a la administración sustantiva, su programación de inspecciones relativas al PRI de las actividades mineras ubicadas en terrenos forestales. Las inspecciones serán realizadas por el órgano competente en materia forestal en colaboración con los agentes medioambientales. Se elaborará un informe forestal que se remitirá a la conselleria competente en minería, a los efectos de que esta adopte las medidas que resulten procedentes, en su caso.  
-
+- **Órgano competente en materia forestal**: remitirá anualmente a la administración sustantiva, su programación de inspecciones relativas al PRI de las actividades mineras ubicadas en terrenos forestales. Las inspecciones serán realizadas por el órgano competente en materia forestal en colaboración con los agentes medioambientales. Se elaborará un informe forestal que se remitirá a la conselleria competente en minería, a los efectos de que esta adopte las medidas que resulten procedentes, en su caso.  
 
 La roturación de terrenos forestales motivada por un cambio de uso requerirá una autorización expresa o la presentación de una declaración responsable, según se establece en el presente artículo.  
 
 Requerirá la presentación de una declaración responsable la roturación de terrenos forestales motivada por un cambio de uso, prevista en un ITGF aprobado y en vigor. Al efecto, los ITGF únicamente podrán prever para su ejecución mediante declaración responsable la roturación de terrenos forestales para la recuperación y puesta en cultivo de antiguos bancales que  
-adquirieron la condición de monte por abandono del uso agrícola (artículo 2.d de la Ley 3/1993), y siempre que la actuación no esté sometida a ninguno de los procedimientos de evaluación  
-ambiental previstos en la normativa sectorial.  
+adquirieron la condición de monte por abandono del uso agrícola (artículo 2.d de la Ley 3/1993), y siempre que la actuación no esté sometida a ninguno de los procedimientos de evaluación ambiental previstos en la normativa sectorial.  
 
 Requerirá la presentación de una declaración responsable la roturación de terrenos forestales motivada por un cambio de uso, siempre que los terrenos formen parte de infraestructuras de prevención de incendios forestales previstas en planes locales de prevención de incendios forestales aprobados y en vigor y la actuación no esté sometida al procedimiento de evaluación  
 ambiental.  
@@ -603,28 +629,34 @@ declaración responsable para la recuperación de antiguos bancales que hayan ad
 - **Superficie a recuperar**: ≥1,5 hectáreas.  
 - **Producción**: en algún momento durante los últimos 20 años.  
 - **Incendio forestal**: no haber sido afectados por incendio forestal en los últimos 30 años.  
-- d) En caso de afectar a espacios naturales protegidos, no estar incluidos en áreas en las que esta actividad se encuentre expresamente prohibida por los sus instrumentos de ordenación ambiental.  
-- En el caso de afectar a la Red Natura 2000, no estar incluidos en áreas en las que esta actividad se encuentre expresamente prohibida por la norma de gestión vigente. En el caso de espacios que no cuenten con norma de gestión, se atenderá a la posible presencia, en cada caso, de hábitats de interés comunitario.  
+- **Espacios naturales protegidos**: no estar incluidos en áreas en las que esta actividad se encuentre expresamente prohibida por los sus instrumentos de ordenación ambiental.  
+- **Red Natura 2000**: no estar incluidos en áreas en las que esta actividad se encuentre expresamente prohibida por la norma de gestión vigente. En el caso de espacios que no cuenten con norma de gestión, se atenderá a la posible presencia, en cada caso, de hábitats de interés comunitario.  
 - **Especies de flora prioritarias**: de acuerdo con la norma sectorial vigente.  
 - Terrenos abancalados con muros de piedra o tierras niveladas con pendientes inferiores al 15 %.
 - Pistas de acceso a la parcela transitables para vehículos y maquinaria agrícola.
 - i) No existir colindancia con ninguna otra parcela autorizada al mismo titular durante los últimos 5 años para la recuperación de antiguos bancales por el procedimiento simplificado previsto en el presente apartado.  
 
-Con carácter previo a la presentación de la declaración responsable prevista en los apartados 3 y 4, deberá suscribirse un acta de verificación con el agente medioambiental de la zona, quien hará constar en la misma el cumplimiento de los requisitos en cada caso, así como las observaciones oportunas respecto a la ejecución de las actuaciones. Al efecto, el agente medioambiental podrá exigir el mantenimiento inalterado de determinados ejemplares de flora, así como la obligación de realizar trabajos de reconstrucción de hormas o cuantos extremos considere necesarios.  
+Antes de la presentación de la declaración responsable, deberá suscribirse un acta de verificación con el agente medioambiental de la zona, quien hará constar el cumplimiento de los requisitos, y las observaciones oportunas respecto a la ejecución de las actuaciones. También podrá exigir el mantenimiento inalterado de determinados ejemplares de flora, y la obligación de realizar trabajos de reconstrucción de hormas o cuantos extremos considere necesarios.  
 
 La Conselleria competente en materia forestal desarrollará y facilitará los correspondientes modelos de declaración responsable.  
 
 Para el resto de las roturaciones de terrenos forestales motivadas por un cambio de uso y no contempladas en los apartados 2 y 3, se requerirá una autorización expresa.  
 
 Las solicitudes de autorización para la roturación de terrenos forestales requerirán para su tramitación la presentación de la siguiente documentación:  
-- a) Impreso de solicitud normalizado, en el que figurarán los datos del propietario y de la parcela o parcelas en las que se pretende realizar la transformación. La conselleria competente en materia forestal mantendrá actualizados y disponibles modelos específicos de solicitud en la página web de la Generalitat.  
-- b) Croquis o plano de la parcela, con indicación de sus linderos y datos catastrales.  
-- c) Memoria detallada de los trabajos a ejecutar, con indicación expresa de las especies vegetales presentes en la actualidad y sus coberturas.Decreto 91/2023, de 22 de junio, del Consell
-- Certificado del ayuntamiento en el que se indique la compatibilidad del   cambio de uso forestal de la parcela con el planeamiento urbanístico vigente.  
-- En su caso, estudio de impacto ambiental.  
 
+- **Impreso de solicitud normalizado**: en el que figurarán los datos del propietario y de la parcela o parcelas en las que se pretende realizar la transformación (*la Conselleria de medio forestal mantendrá actualizados y disponibles modelos específicos de solicitud en la página web de la Generalitat*)
 
-Las solicitudes de autorización para la roturación de terrenos forestal se tramitarán por la dirección territorial de la conselleria competente en materia forestal. Para determinar la conveniencia o no de su autorización se atenderá a aspectos forestales y socioeconómicos, valorándose positivamente la recuperación de terrenos agrícolas que adquirieron la condición de monte por abandono del uso agrícola, la creación de discontinuidades o mosaicos favorables para la prevención y extinción de incendios, así como otros aspectos como la posible afección a especies de flora catalogadas o al estado de conservación de hábitats de interés comunitario o protegidos. Del mismo modo, se valorará positivamente la concurrencia de circunstancias como la explotación tradicional de recursos, la promoción de la actividad socioeconómica, la creación de empleo y la fijación de población en zonas deprimidas, desfavorecidas o de montaña.  
+- **Croquis o plano de la parcela**: con indicación de sus linderos y datos catastrales.  
+
+- **Memoria detallada de los trabajos a ejecutar**: con indicación expresa de las especies vegetales presentes en la actualidad y sus coberturas.
+
+- **Certificado del ayuntamiento**: en el que se indique la compatibilidad del   cambio de uso forestal de la parcela con el planeamiento urbanístico vigente.
+
+- **Estudio de impacto ambiental** (en su caso: Ley 21/2013)
+
+Las solicitudes de autorización para la roturación de terrenos forestal se tramitarán por la Dirección territorial competente.
+
+Para determinar la conveniencia o no de su autorización se atenderá a aspectos forestales y socioeconómicos, valorándose positivamente la recuperación de terrenos agrícolas que adquirieron la condición de monte por abandono del uso agrícola, la creación de discontinuidades o mosaicos favorables para la prevención y extinción de incendios, así como otros aspectos como la posible afección a especies de flora catalogadas o al estado de conservación de hábitats de interés comunitario o protegidos. Del mismo modo, se valorará positivamente la concurrencia de circunstancias como la explotación tradicional de recursos, la promoción de la actividad socioeconómica, la creación de empleo y la fijación de población en zonas deprimidas, desfavorecidas o de montaña.  
 
 En caso de ser necesario, con carácter previo a la resolución, deberá someterse el expediente al procedimiento de evaluación de impacto ambiental correspondiente.  
 
@@ -635,12 +667,11 @@ dirección general competente en materia forestal.
 
 Artículo 101. Plantaciones forestales temporales en terrenos agrícolas  
 
-Los titulares de terrenos agrícolas que quieran realizar plantaciones   forestales temporales podrán solicitar el reconocimiento del carácter agrícola de su parcela, al órgano competente en materia forestal, incluyéndose en el  
+Los titulares de terrenos agrícolas que quieran realizar plantaciones   forestales temporales podrán solicitar el reconocimiento del carácter agrícola de su parcela al órgano competente en materia forestal, incluyéndose en el  
 correspondiente Registro de Plantaciones Forestales Temporales.  
 
 Los titulares de los terrenos agrícolas en los que se realicen plantaciones  
 forestales temporales podrán solicitar la reversión a terrenos agrícolas, sin que dicha reversión tenga la consideración de cambio de uso, siempre y cuando la Conselleria con competencias en materia forestal haya reconocido el carácter agrícola de la parcela previo a la plantación forestal, de acuerdo con el procedimiento establecido en el apartado anterior.  
-
 
 Cuando el titular de la parcela tenga la intención de revertir el terreno a agrícola, presentará ante el órgano competente en materia forestal, una  declaración responsable en la que conste:  
 - La identificación del terreno que era agrícola y sobre el que se realizó la plantación forestal.  
@@ -651,10 +682,9 @@ Cuando el titular de la parcela tenga la intención de revertir el terreno a agr
 
 CAPÍTULO II  
 Uso recreativo en el medio forestal y natural  
-Sección 1ª. Disposiciones de carácter general  
-Artículo 102. Disposiciones de carácter general  
 
-Corresponde a la Conselleria competente regular la actividad recreativa y educativa en todo el territorio forestal como espacio de cultura, deporte y ocio, para garantizar el uso y disfrute sostenible de la naturaleza.  
+
+Corresponde a la Conselleria competente regular la actividad recreativa y educativa en todo el territorio forestal como espacio de cultura, deporte y ocio.  
 
 Se destina al uso público el conjunto de equipamientos, actividades y  servicios diseñados para tal fin existentes en los montes gestionados por la Generalitat.  
 
@@ -681,52 +711,53 @@ deberá indicar las siguientes características:
 
 Las instalaciones recreativas se definen en el anexo IV.  
 
-La estancia de noche en una zona de acampada requerirá la presentación de una declaración responsable. La estancia en refugios y campamentos requerirá una resolución de autorización específica, a través de una solicitud con una antelación mínima de 15 días (excepto para las fechas de Semana Santa, semana posterior a la Semana Santa, julio y agosto, que se presentarán  
-durante el mes de enero del mismo año en el que se pretenda desarrollar dicha actividad).  
+Las estancias se regularán de la siguiente forma: 
 
-No requerirá autorización ni declaración responsable, la estancia en áreas recreativas y la estancia de día en zonas de acampada, así como la utilización de cobijos forestales.  
+- **Noche en zona de acampada**: declaración responsable
 
-La adjudicación del uso de campamentos en los periodos de máxima  
-afluencia del apartado 2 se realizará en base a unos criterios, que se harán  
-públicos anualmente por el órgano competente. Entre estos criterios estará al menos el número de asistentes más próximo a la capacidad del campamento, y la valoración del plan de actividades a desarrollar.  
+- **Refugios y campamentos**: resolución de autorización específica, por solicitud, con la siguiente antelación mínima:
 
-Resolverá la adjudicación la persona titular de la dirección territorial competente en materia forestal.  
+	- **General**: 15 días previo
+	- **Semana Santa, su semana posterior, y julio y agosto**: durante el mes de enero (del mismo año).  
 
-Las solicitudes y declaraciones responsables se tramitarán por la dirección
-territorial correspondiente de la conselleria competente en materia forestal.  
-Estas podrán tramitarse a través de la página web de la conselleria competente  
-en materia forestal.  
+*No requerirá autorización ni declaración responsable, la estancia en áreas recreativas y la estancia de día en zonas de acampada, así como la utilización de cobijos forestales.*  
 
-En caso de fuerza mayor el órgano competente en materia forestal podrá  
-revocar las autorizaciones recogidas en el presente capítulo.  
+La adjudicación del uso de campamentos en los periodos de máxima afluencia se realizará en base criterios publicados anualmente por el órgano competente: al menos número de asistentes más próximo a la capacidad del campamento, y valoración del plan de actividades a desarrollar. Se resolverá por la persona titular de la Dirección territorial competente en materia forestal.  
 
+Las solicitudes y declaraciones responsables se tramitarán por la dirección territorial correspondiente, pudiendo hacerse a través de la página web de la Conselleria. En caso de fuerza mayor el órgano competente podrá revocar las autorizaciones otorgadas.
 
-No está permitida la acampada libre. La acampada itinerante estará permitida cuando venga motivada por marchas que discurran total o parcialmente por terreno forestal y se justifique la imposibilidad de pernoctar en una zona de acampada. Requerirá de una autorización específica de la persona titular de la dirección territorial correspondiente de la Conselleria competente. Junto con la solicitud, se deberá presentar un plano de detalle del recorrido o archivo del itinerario en soporte digital, con coordenadas UTM en el sistema de referencia y proyección oficial. En caso de que el acceso hasta el punto de inicio de la acampada itinerante se realice mediante vehículos, y estos deban permanecer estacionados en terreno  forestal hasta el final de la actividad, la solicitud se acompañará de la identificación de los vehículos que permanecerán estacionados y puntos en  
-que se estacionarán.  
+Respecto a la acampada, las regulaciones son las siguientes: 
 
-En el caso de acampadas itinerantes, solo se podrá pernoctar en el mismo lugar una noche, con un máximo de 9 personas por lugar y 3 tiendas.
+- **Libre**: no permitida
 
-La práctica del vivac (dormir o descansar durante la noche al raso o intemperie, usando o no elementos de abrigo, como saco de dormir o funda de vivac o los medios que proporciona el entorno sin alterarlo), requerirá la presentación de una declaración responsable ante la dirección territorial correspondiente de la Conselleria competente en materia forestal (sin perjuicio del régimen de intervención administrativa que pueda prever la normativa sectorial en materia de espacios naturales protegidos). El número máximo de personas es 9.  
+- **Itinerante**: permitida en marchas que discurran total o parcialmente por terreno forestal y se justifique la imposibilidad de pernoctar en una zona de acampada, solamente una vez por lugar y noche con un máximo de 9 personas y 3 tiendas. 
 
-En los supuestos mencionados en los apartados anteriores, se tendrá que  respetar el derecho de propiedad sin perjuicios de terceros, siendo responsable de cuantos daños y perjuicios se causen en los bienes de dominio público y privados.  
+	Requerirá de una autorización específica de la persona titular de la Dirección territorial correspondiente. Además de la solicitud, se deberá presentar un plano de detalle del recorrido o archivo del itinerario en soporte digital (coordenadas UTM en el sistema de referencia y proyección oficial). Si se va a realizar con vehículos estacionados en terreno forestal hasta el fin de la actividad, se identificarán estos y los puntos de estacionamiento.   
+
+- **Vivac** (dormir o descansar durante la noche al raso o intemperie, usando o no elementos de abrigo, como saco de dormir o funda de vivac o los medios que proporciona el entorno sin alterarlo): declaración responsable ante la Dirección territorial correspondiente, para un máximo de 9 personas (la Administración puede intervenir en caso de espacios naturales protegidos)
+
+En todo caso, habrá de respetarse el derecho de propiedad sin perjuicio de terceros, siendo responsable de los daños y perjuicios en los bienes públicos y privados.  
 
 
 Sección 4ª. Registro público de senderos  
 de la Comunitat Valenciana  
 Artículo 111. Registro público de senderos de la Comunitat Valenciana  
 
-Se consideran senderos aquellos itinerarios señalizados que, localizándose  durante la mayor parte de su recorrido en el medio natural y siguiendo en lo posible sendas, caminos, vías pecuarias, pistas forestales y otras vías  tradicionales, se encuentren inscritos en el registro público de senderos de la Comunitat Valenciana. Deberán clasificarse y señalizarse con arreglo a las tipologías y características que figuran en el ANEXO V.  
+Se consideran senderos:
 
-Además de su utilización para usos agropecuarios y forestales, se considera compatible con el uso excursionista y montañero de los senderos, la actividad ecuestre y otras formas de desplazamiento no motorizado, siempre que no esté expresamente prohibida.  
+>Aquellos itinerarios señalizados que, localizándose durante la mayor parte de su recorrido en el medio natural y siguiendo en lo posible sendas, caminos, vías pecuarias, pistas forestales y otras vías tradicionales, se encuentren inscritos en el registro público de senderos de la Comunitat Valenciana.
+
+Deberán clasificarse y señalizarse de acuerdo a determinadas tipologías y características (Anexo V).  
+Se consideran compatibles los usos agropecuarios y forestales, la actividad ecuestre, y otras formas de desplazamiento no motorizado (salvo prohibición expresa).
 
 La inscripción en el Registro requerirá la presentación de la siguiente documentación:
 
-- Información descriptiva del itinerario en sus características técnicas básicas.  
-- Plano de detalle del recorrido, así como un archivo del itinerario en soporte digital, con coordenadas UTM en el sistema de referencia y proyección oficial.  
-- Descripción de los trabajos de acondicionamiento necesarios.  
-- Compromiso de mantenimiento por parte del promotor.  
-- Certificado de pre-homologación, emitido por la Federación de Deportes de Montaña y Escalada de la Comunitat Valenciana.  
-- Declaración responsable que acredite la disponibilidad de los terrenos.  
+- **Descripción general**: información de sus características técnicas básicas
+- **Cartografía**: plano de detalle del recorrido, y archivo del itinerario en soporte digital (con coordenadas UTM en el sistema de referencia y proyección oficial).  
+- **Trabajos de acondicionamiento** (descripción)
+- **Compromiso de mantenimiento**: por el promotor
+- **Certificado de pre-homologación**: emitido por la [Federación de Deportes de Montaña y Escalada de la Comunitat Valenciana](https://www.femecv.com/) (FEMECV)
+- **Declaración responsable**: que acredite la disponibilidad de los terrenos.  
 
 Recibida la solicitud de inscripción en el Registro y una vez comprobado por  la dirección territorial competente en materia forestal, de la provincia en que se ubique el sendero, que reúne todos los documentos necesarios, así como la no afección a especies amenazadas, esta comunicará su inscripción provisional al interesado y a la dirección general competente en materia forestal.  
 
@@ -743,9 +774,11 @@ Sección 5ª. Circulación de vehículos por terrenos forestales
 Artículo 112. Pistas y sendas forestales  
 
 
-Son pistas forestales las vías de comunicación, de anchura igual o superior a 2 metros de firme, que discurren total o parcialmente por terrenos forestales (se excluyen todas las vías pertenecientes a la red de carreteras). Son sendas forestales, aquellas vías de anchura inferior a 2 metros que discurren total o parcialmente por terrenos forestales y que su principal fin es la función recreativa. 
+Son pistas forestales:
 
-La circulación con vehículos a motor por pistas forestales abiertas al tránsito general en montes públicos se considerará un uso común general, siempre que no se trate de pruebas deportivas, eventos o actividades descritas en los artículos 104 y 105.  
+>Las vías de comunicación, de anchura igual o superior a 2 metros de firme, que discurren total o parcialmente por terrenos forestales (se excluyen todas las vías pertenecientes a la red de carreteras). Son sendas forestales, aquellas vías de anchura inferior a 2 metros que discurren total o parcialmente por terrenos forestales y que su principal fin es la función recreativa. 
+
+La circulación con vehículos a motor por pistas forestales abiertas al tránsito general en montes públicos se considerará un uso común general (siempre que no se trate de pruebas deportivas, eventos o actividades descritas en los artículos 104 y 105)
 
 El titular de una pista forestal de titularidad pública destinada a un servicio público podrá restringir la circulación de vehículos a motor por la misma, o establecer las limitaciones o restricciones que considere necesarias.  
 
@@ -755,7 +788,7 @@ Se prohíbe la circulación con cualquier tipo de vehículo a motor por las send
 
 Los vehículos sin motor podrán circular por todas aquellas pistas y sendas en las que no esté prohibido este tipo de circulación.  
 
-La velocidad de circulación de cualquier tipo de vehículo por las pistas y sendas forestales que discurran por terrenos forestales queda limitada de modo general a 30 km/hora. Quedan exceptuadas de esta limitación, las competiciones o pruebas deportivas debidamente autorizadas, así como, los vehículos de servicios de urgencia públicos o privados.  
+La velocidad de circulación de cualquier tipo de vehículo por las pistas y sendas forestales que discurran por terrenos forestales queda limitada de manera general a 30 km/hora (salvo las competiciones o pruebas deportivas autorizadas, y los vehículos de servicios de urgencia).  
 
 No está permitida la circulación fuera de las pistas y sendas forestales. Queda exceptuada de la anterior prohibición la circulación necesaria para la realización de funciones de vigilancia o ejecución de trabajos autorizados, en especial los relacionados con el mantenimiento y aprovechamiento del monte, así como los de mantenimiento de infraestructuras de servicios declarados esenciales, o en los casos de emergencia o fuerza mayor.  
 
@@ -767,13 +800,13 @@ Artículo 114. Prioridad de paso
 
 La prioridad de paso es la siguiente: 
 
-1. Vehículos de emergencias o de servicio público (durante el ejercicio de sus funciones)
-2. Personas que se desplacen
-3. Paseantes a caballo
-4. Vehículos sin motor
-5. Vehículos con motor
+1. **Vehículos de emergencias o de servicio público** (durante el ejercicio de sus funciones)
+2. **Personas a pie**
+3. **Paseantes a caballo**
+4. **Vehículos sin motor**
+5. **Vehículos con motor**
 
-Preferentemente se estacionarán los vehículos a motor en las zonas debidamente habilitadas para tal fin. No podrán en ningún caso interrumpir el paso de los vehículos pesados de emergencias, aprovechamientos forestales y servicios del monte.  
+Los vehículos a motor en las zonas debidamente habilitadas para ello. No podrán interrumpir el paso de los vehículos pesados de emergencias, aprovechamientos forestales y servicios del monte.  
 
 Los vehículos estacionados no podrán impedir el ejercicio de los derechos establecidos en las servidumbres de paso, o de otra índole legalmente establecida, ni tampoco impedir el acceso a otras vías públicas o privadas.  
 
@@ -783,9 +816,8 @@ El estacionamiento en lugares habilitados se realizará sin sobrepasar las marca
 
 No está permitida la pernocta en vehículos fuera de los lugares habilitados para su estacionamiento (incluyendo caravanas, autocaravanas, y similares).
 
-Artículo 116. Cercados  
-Deberán respetarse los cercados, dejando siempre las porteras y las vallas de cierre en la misma posición en que se hayan encontrado.  
 
+Deberán respetarse los cercados, dejando las porteras y las vallas de cierre en la misma posición en que se hayan encontrado.  
 
 Artículo 117. Limitaciones  
 Podrá limitarse o prohibirse el tránsito de vehículos y personas en zonas determinadas, en función de su impacto negativo sobre el medio natural o por riesgo alto de incendios forestales. Será la persona titular de la dirección general con competencias por razón de la materia y mediante resolución motivada quien establezca las restricciones acordadas.
@@ -793,13 +825,17 @@ Podrá limitarse o prohibirse el tránsito de vehículos y personas en zonas det
 
 #### Incendios forestales
 
-Son medidas y acciones en materia de prevención de incendios forestales, las dirigidas a reducir el número de incendios, las destinadas a prevenir la iniciación de estos y a reducir la superficie afectada por los incendios, mediante medidas y acciones destinadas a prevenir la propagación de estos, a facilitar su extinción, a limitar al máximo sus efectos perjudiciales o a reducir su impacto sobre las personas, los bienes, el patrimonio natural o el medio ambiente.
+Son medidas y acciones en materia de prevención de incendios forestales, las dirigidas a 
 
-Dichas medidas y acciones se concretarán en los planes territoriales de prevención de incendios forestales, en los programas de actuación en materia de prevención de incendios forestales previstos en el presente reglamento y en las infraestructuras de prevención de incendios forestales.
+| Objetivos                                                    | Instrumentos                                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| - Número<br>- Prevención y Extinción<br>- Efectos e impactos | - Planes territoriales<br>- Programas de actuación<br>- Infraestructuras |
 
-Son de interés público de primer orden las medidas y acciones contempladas en planes, programas o proyectos vigentes para la prevención de incendios forestales.
+*Impactos sobre las personas, los bienes, el patrimonio natural, o el medio ambiente.*
 
-La ejecución de estas medidas y acciones en prevención de incendios forestales será prevalente cuando entren en conflicto con otros instrumentos de gestión o protección del territorio. 
+Son de interés público de primer orden las medidas y acciones contempladas en planes, programas o proyectos vigentes. Su ejecución será prevalente cuando entren en conflicto con otros instrumentos de gestión o protección del territorio.
+
+
 
 
 Artículo 128. Obligaciones de los propietarios forestales y entidades locales en relación con la prevención de incendios forestales
@@ -820,21 +856,21 @@ Artículo 129. Infraestructuras de prevención de incendios forestales
 
 Se consideran infraestructuras de prevención de incendios forestales las siguientes:
 
-- Observatorios forestales para vigilancia y detección de incendios y todas sus instalaciones.
-- Depósitos de agua destinados a la prevención y extinción de incendios forestales, sus dispositivos hidrantes y redes de abastecimiento.
-- infraestructuras e instalaciones de defensa contra incendios forestales en zonas de interfaz urbano forestal.
-- Pistas forestales incluidos en algún instrumento de planificación territorial en materia de prevención de incendios forestales. 
-- Áreas cortafuegos y otras actuaciones realizadas sobre la vegetación en puntos o áreas estratégicas, así como la modificación del modelo de combustible forestal, destinadas a alterar el comportamiento del fuego, dificultar o ralentizar la propagación de este y facilitar su extinción con seguridad y eficacia.
+- **Observatorios forestales** para vigilancia y detección de incendios y todas sus instalaciones.
+- **Depósitos de agua** destinados a la prevención y extinción de incendios forestales, sus dispositivos hidrantes y redes de abastecimiento.
+- **Infraestructuras e instalaciones de defensa** contra incendios forestales en zonas de interfaz urbano forestal.
+- **Pistas forestales** incluidos en algún instrumento de planificación territorial en materia de prevención de incendios forestales. 
+- **Áreas cortafuegos** y otras actuaciones realizadas sobre la vegetación en puntos o áreas estratégicas, así como la modificación del modelo de combustible forestal, destinadas a alterar el comportamiento del fuego, dificultar o ralentizar la propagación de este y facilitar su extinción con seguridad y eficacia.
 - Líneas de suministro eléctrico a infraestructuras de prevención de incendios. 
-- Aeródromos de la Generalitat destinados a la prevención y extinción de incendios forestales mediante el uso de aeronaves y sus edificaciones, instalaciones y equipos.
-- Redes de comunicaciones digitales de emergencia y seguridad de la Generalitat y sus instalaciones.
-- Otro elemento distinto de los anteriores y que estén contemplado en un plan territorial de prevención de incendios.
+- **Aeródromos de la Generalitat** destinados a la prevención y extinción de incendios forestales mediante el uso de aeronaves y sus edificaciones, instalaciones y equipos.
+- **Redes de comunicaciones digitales** de emergencia y seguridad de la Generalitat y sus instalaciones.
+- **Otros** elemento distinto de los anteriores y que estén contemplado en un plan territorial de prevención de incendios.
 
 *A los efectos de utilización del dominio público forestal, las infraestructuras de prevención de incendios forestales tendrán la consideración de uso común especial, quedando sujetas al régimen de autorización administrativa. En cualquier caso, quedarán exentas de cualquier tipo de tasa o canon.*
 
 Artículo 130. Declaración de riesgo de incendio forestal por circunstancias sobrevenidas
 
-La dirección general con competencias en materia de prevención de incendios forestales, de manera conjunta con la dirección general competente en emergencias y protección civil, ante situaciones de riesgo de incendio por circunstancias sobrevenidas por aumentos significativos de la temperatura, elevada velocidad del viento sostenida en el tiempo, extrema sequía, otros riesgos naturales extraordinarios, así como por acumulación de personas o cualquier otra circunstancia que pueda suponer un aumento de las posibilidades de que se produzca un incendio forestal, podrá declarar la situación de riesgo de incendio forestal por circunstancias sobrevenidas. Dicha declaración deberá estar acotada en un determinado ámbito temporal y territorial.
+La Dirección general con competencias en materia de prevención de incendios forestales, de manera conjunta con la dirección general competente en emergencias y protección civil, ante situaciones de riesgo de incendio por circunstancias sobrevenidas por aumentos significativos de la temperatura, elevada velocidad del viento sostenida en el tiempo, extrema sequía, otros riesgos naturales extraordinarios, así como por acumulación de personas o cualquier otra circunstancia que pueda suponer un aumento de las posibilidades de que se produzca un incendio forestal, podrá declarar la situación de riesgo de incendio forestal por circunstancias sobrevenidas. Dicha declaración deberá estar acotada en un determinado ámbito temporal y territorial.
 
 Declarado el estado de riesgo de incendio forestal por circunstancias sobrevenidas, los órganos competentes para la autorización de los distintos usos o actividades que afecten a terreno forestal, podrán suspender, en el ámbito de sus competencias, las autorizaciones o usos que afecten a terrenos forestales o a zonas de influencia forestal.
 
@@ -846,21 +882,26 @@ y en la Zona de Influencia Forestal
 Sección 1ª. Disposiciones generales
 Artículo 131. Consideración general uso del fuego
 
-El régimen de usos, restricciones y/o prohibiciones establecidas en este reglamento sobre el uso del fuego en los terrenos forestales y en la Zona de Influencia Forestal deberá entenderse sin perjuicio de las limitaciones en materia de quema de residuos vegetales generados en el entorno agrario o silvícola (Ley 7/2022).
+*El régimen de usos del fuego, restricciones y/o prohibiciones en los terrenos forestales y en la Zona de Influencia Forestal deberá entenderse sin perjuicio de las limitaciones en materia de quema de residuos vegetales generados en el entorno agrario o silvícola (Ley 7/2022).*
 
 
 Sección 2ª. Usos prohibidos
 Artículo 132. Acciones o actividades con uso del fuego, prohibidas en terrenos forestales y Zona de Influencia Forestal
 
-Queda prohibido de manera general encender fuego en los terrenos forestales y en la Zona de Influencia Forestal fuera de los supuestos expresamente previstos o autorizados para ello. En particular las siguientes acciones o actividades: 
+Queda prohibido de manera general encender fuego fuera de los supuestos expresamente previstos o autorizados para ello. En particular las siguientes acciones o actividades: 
 
-- Arrojar o abandonar fósforos, cerillas, cigarros, colillas u objetos incandescentes o en combustión. Queda totalmente prohibida la utilización de globos chinos, farolillos voladores, globos de luz, velas flotantes, linternas voladoras u otros dispositivos similares dado el elevado nivel de riesgo que comporta una llama sin dirección ni control alguno, a merced del viento.
-- Encender fuego con la única finalidad de cocinar o calentarse fuera de los lugares preparados y autorizados al efecto.
-- La instalación o mantenimiento de vertederos, depósitos o contenedores de residuos que incumplan las condiciones legalmente establecidas para su instalación.
-- Arrojar o abandonar sobre el terreno papeles, plásticos, vidrios o cualquier tipo de residuo o basura y, en general, material combustible o susceptible de originar un incendio, fuera de las zonas establecidas y autorizadas al efecto.
+- **Elementos peligrosos**: arrojar o abandonar fósforos, cerillas, cigarros, colillas u objetos incandescentes o en combustión, la utilización de globos chinos, farolillos voladores, globos de luz, velas flotantes, linternas voladoras y dispositivos similares.
+
+- **Cocinar o calentarse** (fuera de los lugares preparados y autorizados para ello).
+
+- **Vertederos** (instalación o mantenimiento)
+- **Residuos combustibles** (fuera de las zonas establecidas y autorizadas): papeles, plásticos, vidrios...
+
 - El lanzamiento de cohetes, globos o artefactos de cualquier clase que contengan fuego, o puedan producirlo, fuera de los emplazamientos autorizados en el Registro de emplazamientos para actos y festejos tradicionales que pueden usar fuego o artefactos pirotécnicos en suelo forestal o en Zona de Influencia Forestal, y de los usos permitidos establecidos en los artículos siguientes.
-- La quema de márgenes de cultivo a menos de 50 metros de terreno forestal en cualquier época del año.
-- La quema de residuos vegetales generados en el entorno agrario o selvícola durante el periodo comprendido entre el 1 de junio y el 15 de octubre, ambos inclusive, salvo que esta actividad se contemple en un plan local de quemas aprobado por el órgano competente.
+
+- **Márgenes de cultivo**: a menos de 50 metros de terreno forestal (en cualquier época del año).
+
+- **Quema de residuos vegetales**: generados en el entorno agrario o silvícola entre el 1 de junio y el 15 de octubre (ambos inclusive) (salvo disposición expresa en un plan local).
 
 Para el periodo comprendido entre el Jueves Santo y los 11 días naturales siguientes (ambos inclusive) quedan prohibidas, como medida precautoria general, en los montes o terrenos forestales y en la Zona de Influencia Forestal, las acciones o actividades siguientes:
 
@@ -877,8 +918,7 @@ En los días y zonas para los que el nivel de preemergencia ante el riesgo de in
 Quedan exceptuados de la suspensión prevista en el apartado anterior las obras, trabajos y aprovechamientos forestales, a los que les resulte de aplicación el «pliego general de normas de seguridad en prevención de incendios forestales a observar en la ejecución de obras, trabajos y
 aprovechamientos forestales, que se realicen en terreno forestal o en sus inmediaciones», contemplado en el artículo 141, que se regularán por lo dispuesto en dicho pliego.
 
-En estos días y en las zonas que así se determine, podrá restringirse o suspenderse la circulación de personas y/o vehículos por las sendas y pistas forestales. Dicha restricción o suspensión se acordará mediante resolución por la dirección general competente en materia de prevención de incendios forestales.
-
+En estos días y en las zonas que así se determine, podrá restringirse o suspenderse la circulación de personas y/o vehículos por las sendas y pistas forestales por resolución por la Dirección general competente.
 
 
 ### Decreto 91/2023
@@ -953,7 +993,7 @@ Su tipología es la siguiente (artículo 4 de la Ley 3/1995), de acuerdo con su 
 
 Los abrevaderos, descansaderos, majadas y demás lugares asociados al tránsito ganadero tendrán la superficie que determine el acto administrativo de clasificación de vías pecuarias.
 
-En la Comunidad Valenciana la competencia de su gestión es exclusiva de la Generalitat Valenciana (artículo X del Estatuto de Autonomía), de acuerdo a las siguientes actuaciones:
+En la Comunidad Valenciana la competencia de su gestión es exclusiva de la Generalitat Valenciana ([artículo 49.1.10 del Estatuto de Autonomía](https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235&p=20221228&tn=1#acuarentaynueve)), de acuerdo a las siguientes actuaciones:
 
 - **Investigación de situación**: terrenos donde se presuman pertenecen
 

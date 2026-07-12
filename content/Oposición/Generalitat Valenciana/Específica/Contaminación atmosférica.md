@@ -120,9 +120,9 @@ Corresponderá a las Comunidades Autónomas determinar en qué términos la modi
 
 ##### Artículo 15. Contaminación intercomunitaria y transfronteriza.
 
-Cuando una instalación pueda tener repercusiones significativas sobre la calidad del aire de otra comunidad autónoma, de otro Estado miembro de la Unión Europea o de terceros Estados, el órgano competente de la comunidad autónoma donde vaya a ubicarse aquélla remitirá una copia de la solicitud de autorización y de toda la documentación que sea relevante a la comunidad autónoma afectada o al Ministerio de Asuntos Exteriores y Cooperación, para su remisión al Estado potencialmente afectado, para que puedan formular alegaciones antes de que recaiga resolución definitiva.
+Cuando una instalación pueda tener repercusiones significativas sobre la calidad del aire de otra Comunidad Autónoma o  Estado, el órgano competente de la comunidad autónoma donde vaya a ubicarse aquélla remitirá una copia de la solicitud de autorización y de toda la documentación que sea relevante a la comunidad autónoma afectada o al Ministerio de Asuntos Exteriores y Cooperación, para su remisión al Estado potencialmente afectado, para que puedan formular alegaciones antes de que recaiga resolución definitiva.
 
-La resolución que finalmente se adopte será comunicada a la comunidad autónoma afectada o, a través del Ministerio de Asuntos Exteriores y de Cooperación, al Estado afectado.
+La resolución que finalmente se adopte será comunicada a la Comunidad Autónoma afectada o -a través del Ministerio de Asuntos Exteriores y de Cooperación-, al Estado afectado.
 
 El Ministerio de Asuntos Exteriores y de Cooperación mantendrá informado al Ministerio de Medio Ambiente sobre las actuaciones desarrolladas, y éste trasladará a la Comunidad Autónoma afectada la citada información.
 
@@ -243,35 +243,33 @@ Se desarrolló a través del [Real Decreto 102/2011](https://www.boe.es/buscar/a
 
 Este real decreto tiene por objeto:
 
-- a) Definir y establecer objetivos de calidad del aire, de acuerdo con el anexo III de la Ley 34/2007, con respecto a las concentraciones de dióxido de azufre, dióxido de nitrógeno y óxidos de nitrógeno, partículas, plomo, benceno, monóxido de carbono, ozono, arsénico, cadmio, níquel y benzo(a)pireno en el aire ambiente.
+- **Objetivos de calidad del aire** (definición y establecimiento): para las concentraciones de SO2, NO2 y NOx, Pm, Pb, C6H6, CO, As, Cd, Ni y B(a)P en el aire ambiente.
 
-- b) Regular la evaluación, el mantenimiento y la mejora de la calidad del aire en relación con las sustancias enumeradas en el apartado anterior y los hidrocarburos aromáticos policíclicos (HAP) distintos al benzo(a)pireno.
+- **Calidad del aire**: evaluación, mantenimiento y mejora, para las sustancias con objetivos y para los hidrocarburos aromáticos policíclicos (HAP) distintos al benzo(a)pireno.
 
-- c) Establecer métodos y criterios comunes de evaluación de las concentraciones de las sustancias reguladas en el apartado 1, el mercurio y los HAP y de los depósitos de arsénico, cadmio, mercurio, níquel y HAP.
+- Evaluación: métodos y criterios comunes, para las sustancias coon objetivos, c) Establecer métodos y criterios comunes de evaluación de las concentraciones de las sustancias reguladas en el apartado 1, el mercurio y los HAP y de los depósitos de arsénico, cadmio, mercurio, níquel y HAP.
 
 - d) Determinar la información a la población y a la Comisión Europea sobre las concentraciones y los depósitos de las sustancias mencionadas en los apartados anteriores, el cumplimiento de sus objetivos de calidad del aire, los planes de mejora y demás aspectos regulados en la presente norma.
 
-- e) Establecer, para amoniaco (NH3), de acuerdo con el anexo III de la Ley 34/2007, métodos y criterios de evaluación y establecer la información a facilitar a la población y a intercambiar entre las administraciones.
+- **Amoníaco** (NH3): métodos y criterios de evaluación, e información para la población y entre la Adminitraciones.
 
-- Todo ello con la finalidad de evitar, prevenir y reducir los efectos nocivos de las sustancias mencionadas sobre la salud humana, el medio ambiente en su conjunto y demás bienes de cualquier naturaleza.
-
-##### Artículo 2. Definiciones.
+La finalidad es evitar, prevenir y reducir los efectos nocivos de las sustancias mencionadas sobre la salud humana, el medio ambiente en su conjunto y demás bienes de cualquier naturaleza.
 
 A efectos de este real decreto se entenderá por:
 
-- **Aglomeración**: conurbación de población superior a 250.000 habitantes o bien, cuando la población sea igual o inferior a 250.000 habitantes, con una densidad de población por km2 que determine la administración competente y justifique que se evalúe y controle la calidad del aire ambiente.
+- **Aglomeración**: conurbación de población superior a 250.000 habitantes (o inferior pero con una densidad superior a la que determine la Administración competente)
 
-- **Aire ambiente**: el aire exterior de la baja troposfera, excluidos los lugares de trabajo.
+- **Aire ambiente**: exterior de la baja troposfera (excluidos los lugares de trabajo)
 
 - **Aportaciones procedentes de fuentes naturales**: emisiones de contaminantes no causadas directa ni indirectamente por actividades humanas, incluyendo fenómenos naturales como las erupciones volcánicas, las actividades sísmicas o geotérmicas, los incendios forestales no intencionados, los fuertes vientos, los aerosoles marinos, la resuspensión atmosférica y el transporte de partículas naturales procedentes de regiones áridas.
 
-- **“Arsénico”, “cadmio”, “níquel” y “benzo(a)pireno”**: niveles en aire ambiente de estos elementos en la fracción PM10.
+- **“Arsénico”, “cadmio”, “níquel” y “benzo(a)pireno”**: sus niveles en aire ambiente en la fracción PM10.
 
-- **Compuestos orgánicos volátiles** (COV): todos los compuestos orgánicos procedentes de fuentes antropogénicas y biogénicas, distintos del metano, que puedan producir oxidantes fotoquímicos por reacción con óxidos de nitrógeno en presencia de luz solar.
+- **Compuestos orgánicos volátiles** (COV): todos los procedentes de fuentes antropogénicas y biogénicas, distintos del metano, que puedan producir oxidantes fotoquímicos por reacción con óxidos de nitrógeno en presencia de luz solar.
 
-- **Contaminante**: cualquier sustancia presente en el aire ambiente que pueda tener efectos nocivos sobre la salud humana, el medio ambiente en su conjunto y demás bienes de cualquier naturaleza.
+- **Contaminante**: cualquier sustancia presente en el aire ambiente que pueda tener efectos nocivos sobre la salud humana, el medio ambiente y demás bienes de cualquier naturaleza.
 
-- **Dato agregado**: dato generado a partir de datos verificados siguiendo los criterios de agregación y cálculo definidos en la sección J del anexo I, al objeto de calcular los parámetros estadísticos y verificar el cumplimiento de los objetivos de calidad del aire establecidos en este real decreto.
+- **Dato agregado**: dato generado a partir de datos verificados siguiendo los criterios de agregación y cálculo (sección J del anexo I), para calcular los parámetros estadísticos y verificar el cumplimiento de los objetivos de calidad del aire establecidos en este real decreto.
 
 - **Dato básico**: nivel de concentración o depósito de un contaminante específico a la máxima resolución temporal considerada en este real decreto, y no inferior a la resolución horaria, a excepción de los contaminantes recogidos en la disposición transitoria que tienen resolución treintaminutal.
 
@@ -297,7 +295,7 @@ A efectos de este real decreto se entenderá por:
 
 - **Mercurio gaseoso total**: el vapor de mercurio elemental, Hg0, y el mercurio gaseoso reactivo o divalente, Hg2+, es decir, las especies de mercurio solubles en agua con una presión de vapor suficientemente elevada para existir en fase gaseosa.
 
-- **Nivel**: la concentración de un contaminante en el aire ambiente o su depósito en superficies en un momento determinado.
+- **Nivel**: concentración de un contaminante en el aire ambiente o su depósito en superficies en un momento determinado.
 
 - **Nivel crítico**: nivel fijado con arreglo a conocimientos científicos por encima del cual pueden producirse efectos nocivos para algunos receptores como las plantas, árboles o ecosistemas naturales, pero no para las personas.
 
@@ -309,15 +307,15 @@ A efectos de este real decreto se entenderá por:
 
 - **Obligación en materia de concentración de la exposición**: nivel fijado sobre la base del indicador medio de exposición, con el fin de reducir los efectos nocivos para la salud humana que debe alcanzarse en un período determinado.
 
-- **Óxidos de nitrógeno**: la suma, en partes por mil millones en volumen de monóxido de nitrógeno y dióxido de nitrógeno, expresada como concentración másica de dióxido de nitrógeno en microgramos por metro cúbico, µg/m3.
+- **Óxidos de nitrógeno**: la suma, en partes por mil millones en volumen de monóxido de nitrógeno y dióxido de nitrógeno, expresada como concentración másica de dióxido de nitrógeno en microgramos por metro cúbico (µg/m3).
 
-- **Planes de calidad del aire**: planes que contienen medidas para mejorar la calidad del aire de forma que los niveles de los contaminantes estén por debajo de los valores límite o de los valores objetivo.
+- **Planes de calidad del aire**: contienen medidas para mejorar la calidad del aire de forma que los niveles de los contaminantes estén por debajo de los valores límite o de los valores objetivo.
 
-- **PM10**: partículas que pasan a través del cabezal de tamaño selectivo, definido en el método de referencia para el muestreo y la medición de PM10 de la norma UNE-EN 12341 (Aire ambiente. Método de medición gravimétrico normalizado para la determinación de la concentración másica PM10 o PM2,5 de la materia particulada en suspensión), para un diámetro aerodinámico de 10 µm con una eficiencia de corte del 50 %.
+- **PM10**: partículas en suspensión que atraviesan un cabezal con un diámetro aerodinámico de 10 µm con una eficiencia de corte del 50 % (de acuerdo al método de referencia de la norma UNE-EN 12341)
 
-- **PM2,5**: partículas que pasan a través del cabezal de tamaño selectivo, definido en el método de referencia para el muestreo y la medición de PM2,5 de la norma UNE-EN 12341 (Aire ambiente. Método de medición gravimétrico normalizado para la determinación de la concentración másica PM10 o PM2,5 de la materia particulada en suspensión), para un diámetro aerodinámico de 2,5 µm con una eficiencia de corte del 50 %.
+- **PM2,5**: partículas en suspensión que atraviesan un cabezal con un diámetro aerodinámico de 2,5 µm con una eficiencia de corte del 50 % (de acuerdo al método de referencia de la norma UNE-EN 12341)
 
-- **Sustancias precursoras del ozono**: sustancias que contribuyen a la formación de ozono en la baja atmósfera.
+- **Sustancias precursoras del ozono**: contribuyen a su formación en la baja atmósfera.
 
 - **Ubicaciones de fondo urbano**: lugares situados en zonas urbanas cuyos niveles sean representativos de la exposición de la población urbana en general.
 
@@ -338,35 +336,30 @@ A efectos de este real decreto se entenderá por:
 - **Zona**: porción de territorio delimitada por la administración competente y utilizada para evaluación y gestión de la calidad del aire.
 
 
-El Ministerio para la Transición Ecológica y el Reto Demográfico, a través de la Dirección General de Calidad y Evaluación Ambiental, realizará las siguientes actuaciones:
 
-- a) Adoptará las medidas de coordinación que, en aplicación del presente real decreto, resulten necesarias para facilitar a la Comisión Europea los datos e informaciones derivados de la normativa de la Unión Europea y para llevar a cabo programas europeos de garantía de calidad de las mediciones organizados por la Comisión Europea.
+|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ministerio de medio ambiente<br>(Dirección General de Calidad y Evaluación Ambiental) | - **Medidas de coordinación**: para facilitar a la Comisión Europea los datos e informaciones derivados de la normativa de la Unión Europea y para llevar a cabo programas europeos de garantía de calidad de las mediciones organizados por la Comisión Europea.<br><br>- **Medidas de cooperación**: con los demás Estados miembros y con la Comisión Europea .<br><br>- **Planes nacionales de mejora de la calidad del aire** (artículo 24.5): con la participación de las administraciones competentes.<br><br>- d) Recopilará la información técnica sobre la contaminación atmosférica de fondo y la facilitará, por una parte, a los organismos internacionales pertinentes para el cumplimiento de las obligaciones derivadas de Convenios u otro tipo de compromisos internacionales sobre contaminación transfronteriza y, por otra, a las comunidades autónomas y, en su caso, las entidades locales, para su uso como complemento para la evaluación y gestión de la calidad de aire en sus respectivos territorios.<br><br>- e) Propondrá las medidas necesarias para coordinar las actuaciones que deben llevarse a cabo en el supuesto del artículo 5.1.h) de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera.<br><br>- f) Propondrá la adopción por parte de la Comisión de Cooperación en Materia de Calidad Ambiental de medidas coordinadas en materia de calidad del aire.<br><br>- g) Elaborará un sistema de control y garantía de calidad que asegure la exhaustividad, coherencia, transparencia, comparabilidad y confianza en todo el proceso objeto de sus actuaciones.<br><br>- h) Integrará en el Sistema Español de Información, Vigilancia y Prevención de la Contaminación Atmosférica, creado por la Ley 34/2007, de 15 de noviembre, toda la información a que den lugar las actuaciones anteriores. |
+| Agencia Estatal de Meteorología                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-- b) Propondrá las medidas de cooperación con los demás Estados miembros y con la Comisión Europea en materia de calidad del aire.
+El Ministerio de medio ambiente (a través de la Dirección General de Calidad y Evaluación Ambiental), realizará las siguientes actuaciones:
 
-- c) Elaborará, con la participación de las administraciones competentes, los Planes nacionales de mejora de la calidad del aire señalados en el apartado 5 del artículo 24.
 
-- d) Recopilará la información técnica sobre la contaminación atmosférica de fondo y la facilitará, por una parte, a los organismos internacionales pertinentes para el cumplimiento de las obligaciones derivadas de Convenios u otro tipo de compromisos internacionales sobre contaminación transfronteriza y, por otra, a las comunidades autónomas y, en su caso, las entidades locales, para su uso como complemento para la evaluación y gestión de la calidad de aire en sus respectivos territorios.
-
-- e) Propondrá las medidas necesarias para coordinar las actuaciones que deben llevarse a cabo en el supuesto del artículo 5.1.h) de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera.
-
-- f) Propondrá la adopción por parte de la Comisión de Cooperación en Materia de Calidad Ambiental de medidas coordinadas en materia de calidad del aire.
-
-- g) Elaborará un sistema de control y garantía de calidad que asegure la exhaustividad, coherencia, transparencia, comparabilidad y confianza en todo el proceso objeto de sus actuaciones.
-
-- h) Integrará en el Sistema Español de Información, Vigilancia y Prevención de la Contaminación Atmosférica, creado por la Ley 34/2007, de 15 de noviembre, toda la información a que den lugar las actuaciones anteriores.
 
 Por su parte, la Agencia Estatal de Meteorología, adscrita al Ministerio para la Transición Ecológica y el Reto Demográfico, como responsable de la gestión de la red EMEP/VAG/CAMP de contaminación atmosférica de fondo, implantará un sistema de control y garantía de calidad que asegure la exhaustividad, coherencia, transparencia, comparabilidad y confianza de los resultados obtenidos en dicha red y realizará las mediciones indicativas de partículas PM2,5 descritas en el artículo 8; las mediciones indicativas de metales pesados e hidrocarburos aromáticos policíclicos descritas en el artículo 9 y las mediciones de amoniaco en estaciones rurales de fondo señaladas en el artículo 12.
 
-El Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III, adscrito al Ministerio de Economía, Industria y Competitividad, a los efectos del artículo 3 de la Directiva 2008/50/CE del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, relativa a la calidad del aire ambiente y a una atmósfera más limpia en Europa, actuará como Laboratorio Nacional de Referencia y, como tal, realizará las siguientes actuaciones:
+- 
 
-- a) Participará en los ejercicios de intercomparación comunitarios.
+El **Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III**, adscrito al Ministerio de Economía, Industria y Competitividad, a los efectos del artículo 3 de la Directiva 2008/50/CE del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, relativa a la calidad del aire ambiente y a una atmósfera más limpia en Europa, actuará como Laboratorio Nacional de Referencia y, como tal, realizará las siguientes actuaciones:
 
-- b) Coordinará a escala nacional la correcta utilización de los métodos de referencia y la demostración de la equivalencia de los métodos que no sean de referencia.
+- **Intercomparación**: participación en los ejercicios al respecto de la Unión
 
-- c) Propondrá métodos de referencia nacionales cuando no existan dichos métodos en el ámbito de la Unión Europea.
+- **Metodología**: coordinación del uso nacional de los de referencia y demostración de la equivalencia de los que no lo sean.
 
-- d) Asistirá a la Dirección General de Calidad y Evaluación Ambiental y Medio Natural en el desempeño de sus actuaciones.
+- Métodos de referencia: proposición cuando no existan en la Unión
+
+- Asistencia técnica: a la Dirección General de Calidad y Evaluación Ambiental.
 
 Para ello, deberá:
 
@@ -380,146 +373,164 @@ Para ello, deberá:
 
 5.º Participar en la labor realizada por la Asociación Europea de Laboratorios Nacionales de Referencia creada por la Comisión Europea.
 
-Las comunidades autónomas, en el ámbito de sus respectivas competencias, y las entidades locales cuando corresponda, según lo previsto en el artículo 26 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en los artículos 41 y 42 de la Ley 14/1986, de 25 de abril, General de Sanidad, en los artículos 5, 8 y 10 de la Ley 34/2007, de 15 de noviembre y en la legislación autonómica:
+Las Comunidades Autónomas (y en su caso las entidades locales):
 
 - a) Designarán a los órganos competentes, laboratorios, institutos u organismos técnico-científicos, encargados de la aplicación de las normas sobre calidad del aire ambiente y, en particular, de la garantía de la exactitud de las mediciones y de los análisis de los métodos de evaluación. Dichos órganos deberán cumplir lo establecido en el apartado III del anexo V.
 
-- b) Realizarán en su ámbito territorial la delimitación y clasificación de las zonas y aglomeraciones en relación con la evaluación y la gestión de la calidad del aire ambiente; así como la toma de datos y evaluación de las concentraciones de los contaminantes regulados, y el suministro de información al público.
+- Gestión territorial: clasificación territorial en zonas y aglomeraciones, toda de datos, evaluación de las concentraciones de los contaminantes, e información al público.
 
 - c) Adoptarán las medidas necesarias para mantener la calidad del aire, cuando sea buena, y mejorarla en los demás casos y para garantizar que las concentraciones de los contaminantes regulados no superen los objetivos de calidad del aire, así como las medidas de urgencia para que las concentraciones de los contaminantes regulados vuelvan a situarse por debajo de los umbrales de alerta y de información y comunicarán la información correspondiente al público en caso de superación de éstos. En particular, aprobarán los planes de mejora de calidad del aire definidos en el artículo 24.1 y 24.6 y los planes de acción a corto plazo señalados en el artículo 25.
 
-- d) Aprobarán los sistemas de medición, consistentes en métodos, equipos, redes y estaciones.
+- **Sistemas de medición**: aprobación (métodos, equipos, redes y estaciones).
 
-- e) Colaborarán entre sí en el supuesto de que se sobrepasen los objetivos de calidad del aire fijados en un ámbito territorial superior al de una comunidad autónoma, bajo la coordinación del Ministerio para la Transición Ecológica y el Reto Demográfico.
+- **Colaboración administrativa** (con la coordinación del Ministerio): si se sobrepasan los objetivos de calidad en un ámbito superior al de una Comunidad Autónoma 
 
-- f) Podrán establecer objetivos de calidad del aire más estrictos que los fijados en este real decreto.
+- **Objetivos de calidad**: establecimiento de nuevos, más estrictos
 
-Las administraciones públicas intercambiarán los correspondientes datos e informaciones para la evaluación y correcta gestión de la calidad del aire a través del Sistema Español de Información, Vigilancia y Prevención de la contaminación atmosférica.
+Las Administraciones Públicas intercambiarán los correspondientes datos e informaciones para la evaluación y correcta gestión de la calidad del aire a través del Sistema Español de Información, Vigilancia y Prevención de la contaminación atmosférica.
 
-
-Los objetivos de calidad del aire para cada uno de los contaminantes regulados son los que se fijan en el anexo I. Para su determinación se seguirán los criterios de agregación y cálculo que figuran en la sección J de dicho anexo.
+Los objetivos de calidad del aire para cada uno de los contaminantes regulados (Anexo I) se determinan según los criterios de agregación y cálculo (Anexo I.J).
 
 Las Comunidades Autónomas dividirán todo su territorio en zonas y aglomeraciones. En todas esas zonas y aglomeraciones deberán llevarse a cabo actividades de evaluación y gestión de la calidad del aire para los contaminantes de las Secciones primera y segunda del Capítulo II.
 
-
-
 #### Evolución de la calidad del aire
 
-
-#### Sección 1.ª Evaluación de la calidad del aire en relación al dióxido de azufre, el dióxido de nitrógeno y los óxidos de nitrógeno, las partículas, el plomo, el benceno y el monóxido de carbono, el arsénico, el cadmio, el níquel, el mercurio, el benzo(a)pireno y los demás hidrocarburos aromáticos policíclicos (HAP)
+#### Sección 1. Evaluación de la calidad del aire en relación al dióxido de azufre, el dióxido de nitrógeno y los óxidos de nitrógeno, las partículas, el plomo, el benceno y el monóxido de carbono, el arsénico, el cadmio, el níquel, el mercurio, el benzo(a)pireno y los demás hidrocarburos aromáticos policíclicos (HAP)
 
 ##### Artículo 6. Evaluación de la calidad del aire ambiente.
 
-1. Las comunidades autónomas, y las entidades locales cuando corresponda según lo previsto en los artículos 5.3 y 10.1 de la Ley 34/2007, clasificarán cada zona o aglomeración de su territorio, definidas según el artículo 5, en relación con los umbrales de evaluación del anexo II y realizarán la evaluación de la calidad del aire para el dióxido de azufre, el dióxido de nitrógeno y los óxidos de nitrógeno, las partículas, el plomo, el benceno y el monóxido de carbono, el arsénico, el cadmio, el níquel y el benzo(a)pireno en todas las zonas y aglomeraciones de su territorio, y de acuerdo a los principios del anexo III.
+Las Comunidades Autónomas (y en su caso entidades locales: artículos 5.3 y 10.1 de la Ley 34/2007), clasificarán cada zona o aglomeración de su territorio (artículo 5) respecto a los umbrales de evaluación (Anexo II) y realizarán la evaluación de la calidad del aire de acuerdo a los principios (Anexo III), para los siguientes contaminantes: 
 
-2. La clasificación con respecto a los umbrales superior e inferior de evaluación de cada zona o aglomeración se revisará por lo menos cada cinco años con arreglo al procedimiento establecido en el apartado II del anexo II. Esa revisión tendrá lugar antes de lo establecido si se producen cambios significativos en las actividades que puedan tener incidencia sobre las concentraciones en el aire ambiente de los contaminantes expresados.
+- Dióxido de azufre (SO2)
+- Dióxido de nitrógeno (NO2) y óxidos de nitrógeno (NOx)
+- Partículas (PM)
+- Plomo (Pb)
+- Benceno (C6H6)
+- Monóxido de carbono (CO)
+- Arsénico (As), cadmio (Cd), níquel (Ni)
+- Benzo(a)pireno (B(a)P)
 
-3. La evaluación de la calidad del aire ambiente se realizará, dependiendo del nivel de los contaminantes con respecto a los umbrales a los que se refiere el anexo II, utilizando mediciones fijas, técnicas de modelización, campañas de mediciones representativas, mediciones indicativas o investigaciones, o una combinación de todos o algunos de estos métodos.
+La clasificación con respecto a los umbrales superior e inferior de evaluación de cada zona o aglomeración se revisará por lo menos cada cinco años con arreglo al procedimiento establecido en el apartado II del anexo II. Esa revisión tendrá lugar antes de lo establecido si se producen cambios significativos en las actividades que puedan tener incidencia sobre las concentraciones en el aire ambiente de los contaminantes expresados.
 
-4. Será obligatorio efectuar mediciones de la calidad del aire en lugares fijos en las zonas y aglomeraciones donde los niveles superen los umbrales superiores de evaluación establecidos en el anexo II. Dichas mediciones fijas podrán complementarse con modelización o mediciones indicativas para obtener información adecuada sobre la distribución espacial de la calidad del aire ambiente.
+La evaluación de la calidad del aire ambiente se realizará utilizando mediciones fijas, técnicas de modelización, campañas de mediciones representativas, mediciones indicativas o investigaciones, o una combinación de varios o de todos estos métodos (dependiendo del nivel de contaminantes respecto a los umbrales de evaluación: Anexo II).
 
-5. Si los niveles detectados para el dióxido de azufre, el dióxido de nitrógeno y los óxidos de nitrógeno, las partículas, el plomo, el benceno y el monóxido de carbono, están comprendidos entre los umbrales inferior y superior de evaluación del anexo II podrá utilizarse una combinación de mediciones fijas y técnicas de modelización y/o mediciones indicativas. Si los niveles detectados para el arsénico, el cadmio, el níquel y el benzo(a)pireno) están comprendidos entre los umbrales inferior y superior de evaluación del anexo II podrá utilizarse una combinación de mediciones, incluidas las indicativas a que se refiere la sección I del anexo VI, y técnicas de modelización
+- **Superación de umbrales superiores de evaluación**: lugares fijos (podrán complementarse con modelización o mediciones indicativas para obtener información sobre la distribución espacial).
 
-6. En todas las zonas y aglomeraciones donde el nivel de contaminantes se halle por debajo del umbral inferior de evaluación establecido para esos contaminantes, será suficiente con utilizar técnicas de modelización para la evaluación de la calidad del aire ambiente.
+- **Entre los umbrales inferior y superior**: 
 
-##### Artículo 7. Mediciones.
+	- **SO2, NO2 y NOx, PM, Pb, C6H6 y CO**: combinación de mediciones fijas y técnicas de modelización y/o mediciones indicativas. 
 
-1. Para la medición de las concentraciones de los distintos contaminantes, la ubicación de los puntos de muestreo se ajustará al contenido del anexo III; los criterios de determinación del número mínimo de puntos de muestreo para la medición fija de las concentraciones se ajustarán al contenido del anexo IV; los objetivos de calidad de los datos y presentación de resultados se ajustarán al contenido de los anexos V y VI; y los métodos de referencia para la evaluación de las concentraciones se ajustarán al contenido del anexo VII.
+	- **As, Cd, Ni y B(a)P**: combinación de mediciones, incluidas las indicativas (sección I del anexo VI), y técnicas de modelización
 
-2. Además, cuando de acuerdo con el artículo 7.2.b) de la Ley 34/2007 se haya fijado la obligación de contar con estaciones de medida de los niveles de contaminación, dichas estaciones deberán cumplir con los criterios de emplazamiento señalados en el anexo III y en los apartados I.b y III.b del anexo IV referidos a fuentes puntuales.
+- **Debajo del umbral superior**: técnicas de modelización
 
-3. En las zonas y aglomeraciones en que la información sobre dióxido de azufre, dióxido de nitrógeno y óxidos de nitrógeno, partículas, plomo, benceno y monóxido de carbono proporcionada por las estaciones de medición fijas se complete con información procedente de otras fuentes, tales como inventarios de emisiones, métodos de medición indicativa y modelos de la calidad del aire, el número de estaciones de medición fijas especificado en el apartado I del anexo IV podrá reducirse hasta en un 50 %, siempre y cuando se cumplan las condiciones siguientes:
+Para la medición de las concentraciones, se tomarán la ubicación de los puntos de muestreo (Anexo III), los puntos mínimos para las mediciones fijas (Anexo IV), los objetivos de calidad de los datos (Anexo V???) y presentación de resultados (Anexo VI????); y los métodos de referencia (Anexo VII).
 
-a) Los métodos suplementarios aporten información suficiente para la evaluación de la calidad del aire en lo que respecta a los valores límite o los umbrales de alerta, así como información adecuada para el público.
+Además, cuando de acuerdo con el artículo 7.2.b) de la Ley 34/2007 se haya fijado la obligación de contar con estaciones de medida de los niveles de contaminación, dichas estaciones deberán cumplir con los criterios de emplazamiento señalados en el anexo III y en los apartados I.b y III.b del anexo IV referidos a fuentes puntuales.
+
+En las zonas y aglomeraciones en que la información sobre dióxido de azufre, dióxido de nitrógeno y óxidos de nitrógeno, partículas, plomo, benceno y monóxido de carbono proporcionada por las estaciones de medición fijas se complete con información procedente de otras fuentes, tales como inventarios de emisiones, métodos de medición indicativa y modelos de la calidad del aire, el número de estaciones de medición fijas especificado en el apartado I del anexo IV podrá reducirse hasta en un 50 %, siempre y cuando se cumplan las condiciones siguientes:
+
+- **Métodos suplementarios** aporten información suficiente para la evaluación de la calidad del aire en lo que respecta a los valores límite o los umbrales de alerta, así como información adecuada para el público.
 
 b) el número de puntos de muestreo que vaya a instalarse y la resolución espacial de otras técnicas resulten suficientes para determinar la concentración del contaminante de que se trate conforme a los objetivos de calidad de los datos especificados en el apartado I del anexo V y posibiliten que los resultados de la evaluación se ajusten a los criterios señalados en el apartado II del anexo V.
 
 Los resultados de la modelización y/o la medición indicativa se tendrán en cuenta para la evaluación de la calidad del aire en relación con los valores límite y objetivo.
 
-4. En las zonas y aglomeraciones en las que la información sobre arsénico, cadmio, níquel y benzo(a)pireno proporcionada por las estaciones de medición fijas se complete con información procedente de otras fuentes, tales como inventarios de emisiones, métodos de medición indicativa y modelos de la calidad del aire, el número de estaciones de medición fijas y la resolución espacial de otras técnicas deberán ser suficientes para determinar el nivel de dichos contaminantes atmosféricos de conformidad con el apartado II del anexo III y el apartado I del anexo VI.
+En las zonas y aglomeraciones en las que la información sobre arsénico, cadmio, níquel y benzo(a)pireno proporcionada por las estaciones de medición fijas se complete con información procedente de otras fuentes (inventarios de emisiones, métodos de medición indicativa, modelos de la calidad del aire...), el número de estaciones de medición fijas y la resolución espacial de otras técnicas deberán ser suficientes para determinar el nivel de dichos contaminantes atmosféricos (apartado II del anexo III, y apartado I del anexo VI).
 
-##### Artículo 8. Criterios adicionales para las partículas PM2,5.
+Además de las evaluaciones indicadas (artículo 6), el Ministerio de Medio Ambiente (en colaboración con las Comunidades Autónomas) establecerá puntos de muestreo para mediciones indicativas en ubicaciones rurales de fondo alejadas de fuentes significativas de contaminación atmosférica con el objetivo de facilitar, como mínimo, información acerca de la concentración másica total y la especiación química de las concentraciones de partículas PM2,5, en medias anuales, y empleando los criterios siguientes:
 
-Además de las evaluaciones indicadas en el artículo 6, el Ministerio de Medio Ambiente, y Medio Rural y Marino, en colaboración con las comunidades autónomas, establecerá puntos de muestreo para mediciones indicativas en ubicaciones rurales de fondo alejadas de fuentes significativas de contaminación atmosférica con el objetivo de facilitar, como mínimo, información acerca de la concentración másica total y la especiación química de las concentraciones de partículas PM2,5, en medias anuales, y empleando los criterios siguientes:
+- Un punto de muestreo cada 100 000 km2.
+- b) Se podrá acordar con los Estados limítrofes el establecimiento de una o varias estaciones de medición comunes que abarquen las zonas colindantes relevantes con el fin de conseguir la resolución espacial necesaria.
+- c) Cuando proceda, las actividades de vigilancia deberán coordinarse con la Estrategia de vigilancia continuada y medición del Programa de cooperación para la vigilancia continua y la evaluación del transporte a gran distancia de contaminantes atmosféricos en Europa (EMEP).
+- d) El apartado I del anexo V y las especificaciones de los sistemas de control y garantía de calidad se aplicarán en relación con los objetivos de calidad de los datos para las mediciones de la concentración másica de las partículas y el anexo VIII se aplicará en su integridad.
 
-a) Se instalará un punto de muestreo cada 100 000 km2.
 
-b) Se podrá acordar con los Estados limítrofes el establecimiento de una o varias estaciones de medición comunes que abarquen las zonas colindantes relevantes con el fin de conseguir la resolución espacial necesaria.
+Para evaluar la contribución del benzo(a)pireno al aire ambiente, las Comunidades Autónomas medirán otros hidrocarburos aromáticos policíclicos en un número limitado de lugares, con una toma de muestras junto a ese contaminante, y eligiendo la forma que puieda identificarse la variación geográfica y las tendencias a largo plazo (apartados II, III y IV del Anexo III). Esos hidrocarburos (mínimos??????) son los siguientes:
 
-c) Cuando proceda, las actividades de vigilancia deberán coordinarse con la Estrategia de vigilancia continuada y medición del Programa de cooperación para la vigilancia continua y la evaluación del transporte a gran distancia de contaminantes atmosféricos en Europa (EMEP).
+- **Benzo(a)antraceno**
+- **Benzo(b)fluoranteno**
+- **Benzo(j)fluoranteno**
+- **Benzo(k)fluoranteno**
+- **Indeno(1,2,3-cd)pireno**
+- **Dibenzo(a,h)antraceno**
 
-d) El apartado I del anexo V y las especificaciones de los sistemas de control y garantía de calidad se aplicarán en relación con los objetivos de calidad de los datos para las mediciones de la concentración másica de las partículas y el anexo VIII se aplicará en su integridad.
+- El Ministerio de Medio Ambiente (en colaboración con las Comunidades Autónomas) establecerá un punto de medición cada 100.000 km2 para la medición indicativa, en el aire ambiente, del arsénico, cadmio, mercurio gaseoso total, níquel, benzo(a)pireno, y de los demás hidrocarburos aromáticos policíclicos, ***así como de sus depósitos totales*** (de todos????).
+	- Arsénico
+	- Cadmio
+	- Mercurio gaseoso total
+	- Niquel
+	- Benzo(a)pireno
+	- Otros hidrocarburos aromáticos policíclicos
+	- Mercurio gaseoso divalente y particulado (recomendado)
 
-##### Artículo 9. Criterios adicionales para arsénico, cadmio, mercurio, níquel e hidrocarburos aromáticos policíclicos.
 
-1. Para evaluar la contribución del benzo(a)pireno al aire ambiente, las comunidades autónomas medirán otros hidrocarburos aromáticos policíclicos en un número limitado de lugares. Los compuestos que deberán medirse serán como mínimo los siguientes: benzo(a)antraceno, benzo(b)fluoranteno, benzo(j)fluoranteno, benzo(k)fluoranteno, indeno(1,2,3-cd)pireno y dibenzo(a,h)antraceno. Los lugares de toma de muestra de estos hidrocarburos aromáticos policíclicos se situarán junto a los de benzo(a)pireno y se elegirán de forma que pueda identificarse la variación geográfica y las tendencias a largo plazo. Para ello se aplicarán los apartados II, III y IV del anexo III.
+| Organismo                                                               | Contaminantes                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Comunidades Autónomas (y entidades locales, en su casos)                | - Dióxido de azufre (SO2)<br>- Dióxido de nitrógeno (NO2) y óxidos de nitrógeno (NOx)<br>- Partículas (PM)<br>- Plomo (Pb)<br>- Benceno (C6H6)<br>- Monóxido de carbono (CO)<br>- Arsénico (As), cadmio (Cd), níquel (Ni)<br>- Benzo(a)pireno (B(a)P)                                                              |
+| Comunidades Autónomas                                                   | - Benzo(a)antraceno<br>- Benzo(b)fluoranteno<br>- Benzo(j)fluoranteno<br>- Benzo(k)fluoranteno<br>- Indeno(1,2,3-cd)pireno<br>- Dibenzo(a,h)antraceno**                                                                                                                                                            |
+| Ministerio de Medio Ambiente (concentraciones atmosféricas y depósitos) | - Arsénico<br>- Cadmio<br>- Mercurio gaseoso total<br>- Niquel<br>- Benzo(a)pireno<br><br>- Benzo(a)antraceno<br>- Benzo(b)fluoranteno<br>- Benzo(j)fluoranteno<br>- Benzo(k)fluoranteno<br>- Indeno(1,2,3-cd)pireno<br>- Dibenzo(a,h)antraceno**<br><br>- Mercurio gaseoso (recomendado): divalente y particulado |
 
-2. Independientemente de los niveles en aire ambiente, el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, en colaboración con las comunidades autónomas, establecerá un punto de medición cada 100.000 km2 para la medición indicativa, en el aire ambiente, del arsénico, cadmio, mercurio gaseoso total, níquel, benzo(a)pireno, y de los demás hidrocarburos aromáticos policíclicos contemplados en el apartado 1, así como de sus depósitos totales. También se recomienda la medición de mercurio gaseoso divalente y particulado, de forma coordinada con la Estrategia de vigilancia continuada y medición del Programa Concertado de Seguimiento y de Evaluación del Transporte a Gran Distancia de los Contaminantes Atmosféricos en Europa (en adelante Programa EMEP, European Monitoring and Evaluation Programme). En tal caso, los lugares de medición para estos contaminantes deberán seleccionarse de manera que pueda identificarse la variación geográfica y las tendencias a largo plazo. A tal fin, se aplicarán los apartados II, III y IV del anexo III.
+También se recomienda la medición de mercurio gaseoso divalente y particulado, de manera coordinada con el Programa EMEP (Convenio de Ginebra sobre contaminación atmosférica transfronteriza en Europa), con lugares seleccionados para identificar su variación geográfica y tendencias a largo plazo (apartados II, III y IV del Anexo III).
 
 #### Sección 2.ª Evaluación de la calidad del aire en relación al ozono
 
 ##### Artículo 10. Evaluación de las concentraciones de ozono y de las sustancias precursoras.
 
-1. Las comunidades autónomas, y las entidades locales cuando corresponda según lo previsto en los artículos 5.3 y 10.1 de la Ley 34/2007, clasificarán cada zona o aglomeración de su territorio, definidas según el artículo 5, en relación con los valores objetivos del anexo I y realizarán la evaluación de la calidad del aire para el ozono en todas las zonas y aglomeraciones de su territorio.
+Las Comunidades Autónomas (y entidades locales en su caso: artículos 5.3 y 10.1 de la Ley 34/2007) clasificarán cada zona o aglomeración de su territorio (artículo 5) en relación con los valores objetivos (Anexo I) y realizarán la evaluación de la calidad del aire para el ozono en todas las zonas y aglomeraciones de su territorio.
 
-2. En aquellas zonas y aglomeraciones en las cuales, durante alguno de los cinco años anteriores de mediciones, las concentraciones de ozono hubiesen superado un objetivo a largo plazo, serán obligatorias las mediciones fijas continuas. Estas mediciones fijas podrán constituir la única fuente de información o podrán complementarse con información procedente de modelización y/o mediciones indicativas.
+En aquellas zonas y aglomeraciones en las cuales, durante alguno de los cinco años anteriores de mediciones, las concentraciones de ozono hubiesen superado un objetivo a largo plazo, serán obligatorias las mediciones fijas continuas. Estas mediciones fijas podrán constituir la única fuente de información o podrán complementarse con información procedente de modelización y/o mediciones indicativas.
 
 Cuando se disponga de datos correspondientes a un período inferior a cinco años para determinar las superaciones, las Administraciones competentes podrán combinar campañas de medición de corta duración en los períodos y lugares en que la probabilidad de observar niveles elevados de contaminación sea alta, de acuerdo con los resultados obtenidos de los inventarios de emisiones y la modelización.
 
-3. En el resto de zonas y aglomeraciones distintas de las enumeradas en el primer párrafo del apartado 2, se podrán complementar las mediciones fijas continuas con información procedente de modelización y/o mediciones indicativas.
+En el resto de zonas y aglomeraciones distintas de las enumeradas en el primer párrafo del apartado 2, se podrán complementar las mediciones fijas continuas con información procedente de modelización y/o mediciones indicativas.
 
 ##### Artículo 11. Mediciones de ozono y de las sustancias precursoras.
 
-1. Los criterios para determinar la ubicación de los puntos de muestreo para la medición del ozono son los que se establecen en el anexo IX. Los objetivos de calidad de los datos se ajustarán a lo especificado en el anexo V.
+Se establecen criterios para determinar la ubicación de los puntos de muestreo para la medición del ozono (Anexo IX), y los objetivos de calidad de los datos (Anexo V), el número mínimo de puntos fijos de muestreo para su medición continua en cada zona o aglomeración en que la medición sea la única fuente de información (apartado I del Anexo X).
 
-2. En el apartado I del anexo X se establece el número mínimo de puntos fijos de muestreo para la medición continua del ozono en cada zona o aglomeración en la que la medición sea la única fuente de información para evaluar la calidad del aire.
+Se deberán hacer también mediciones del dióxido de nitrógeno en al menos el 50 por 100 de los puntos de muestreo de ozono exigidos en el apartado I del anexo X. Las mediciones del dióxido de nitrógeno serán mediante técnicas en continuo (salvo en las estaciones rurales de fondo: apartado I del anexo IX), donde podrán utilizarse otros métodos de medición.
 
-3. Se deberán hacer también mediciones del dióxido de nitrógeno en al menos el 50 por 100 de los puntos de muestreo de ozono exigidos en el apartado I del anexo X. Las mediciones del dióxido de nitrógeno serán mediante técnicas en continuo, salvo en las estaciones rurales de fondo definidas en el apartado I del anexo IX, donde podrán utilizarse otros métodos de medición.
+En las zonas y aglomeraciones en las que la información procedente de los puntos de muestreo para las mediciones en lugares fijos se complemente con información obtenida por modelización o mediciones indicativas, podrá reducirse el número total de puntos de muestreo especificado en el apartado I del anexo X, siempre que se cumplan las siguientes exigencias:
 
-4. En las zonas y aglomeraciones en las que la información procedente de los puntos de muestreo para las mediciones en lugares fijos se complemente con información obtenida por modelización o mediciones indicativas, podrá reducirse el número total de puntos de muestreo especificado en el apartado I del anexo X, siempre que se cumplan las siguientes exigencias:
+- **Métodos complementarios**: proporcionen un nivel adecuado de información para la evaluación de la calidad del aire con respecto a los valores objetivo, los objetivos a largo plazo y a los umbrales de información y de alerta.
+- Que el número de puntos de muestreo que se determine y la resolución espacial de otras técnicas sea suficiente para conocer la concentración de ozono de acuerdo con los objetivos de calidad de los datos especificados en el apartado I del anexo V y permita obtener los resultados de evaluación especificados en el apartado II del anexo V.
+- Que el número de puntos de muestreo de cada zona o aglomeración sea, como mínimo, uno por cada dos millones de habitantes o uno cada 50.000 km2, seleccionando el que proporcione un mayor número de puntos de muestreo.
+- Que cada zona o aglomeración contenga al menos un punto de muestreo
+- Que se mida el dióxido de nitrógeno en todos los puntos de muestreo restantes excepto en las estaciones rurales de fondo.
 
-a) Que los métodos complementarios proporcionen un nivel adecuado de información para la evaluación de la calidad del aire con respecto a los valores objetivo, los objetivos a largo plazo y a los umbrales de información y de alerta.
+Se tendrán en cuenta los resultados de la modelización o de las mediciones indicativas para evaluar la calidad del aire en relación con los valores objetivo.
 
-b) Que el número de puntos de muestreo que se determine y la resolución espacial de otras técnicas sea suficiente para conocer la concentración de ozono de acuerdo con los objetivos de calidad de los datos especificados en el apartado I del anexo V y permita obtener los resultados de evaluación especificados en el apartado II del anexo V.
+En las zonas y aglomeraciones en las que, durante cada uno de los cinco años anteriores de mediciones, las concentraciones sean inferiores a los objetivos a largo plazo, el número de estaciones de medición continua se determinará de conformidad con lo establecido en el apartado II del anexo X.
 
-c) Que el número de puntos de muestreo de cada zona o aglomeración sea, como mínimo, uno por cada dos millones de habitantes o uno cada 50.000 km2, seleccionando el que proporcione un mayor número de puntos de muestreo.
+Los compuestos orgánicos volátiles (COV) se determinarán, como mínimo, en una estación urbana o suburbana de cada una de las ciudades con una población superior a 500.000 habitantes. Para ello, se tendrá en cuenta el anexo XI, el resto de exigencias establecidas en la normativa comunitaria y el Programa EMEP y los criterios de macroimplantación del apartado I del anexo IX.
 
-d) Que cada zona o aglomeración contenga al menos un punto de muestreo, y
+Se establecen los métodos de referencia para la medición del ozono y de los óxidos de nitrógeno (apartados 8 y 2 de la sección A del anexo VII, respectivamente), u otros métodos (condiciones de la sección B del anexo VII).
 
-e) Que se mida el dióxido de nitrógeno en todos los puntos de muestreo restantes excepto en las estaciones rurales de fondo.
-
-En tal caso, se tendrán en cuenta los resultados de la modelización o de las mediciones indicativas para evaluar la calidad del aire en relación con los valores objetivo.
-
-5. En las zonas y aglomeraciones en las que, durante cada uno de los cinco años anteriores de mediciones, las concentraciones sean inferiores a los objetivos a largo plazo, el número de estaciones de medición continua se determinará de conformidad con lo establecido en el apartado II del anexo X.
-
-6. Los compuestos orgánicos volátiles (COV) se determinarán, como mínimo, en una estación urbana o suburbana de cada una de las ciudades con una población superior a 500.000 habitantes. Para ello, se tendrá en cuenta el anexo XI, el resto de exigencias establecidas en la normativa comunitaria y el Programa EMEP y los criterios de macroimplantación del apartado I del anexo IX.
-
-7. Los métodos de referencia que se tendrán en cuenta para la medición del ozono y de los óxidos de nitrógeno son los que se establecen en los apartados 8 y 2, respectivamente, de la sección A del anexo VII u otros métodos en las condiciones de la sección B del anexo VII.
-
-En cuanto a los COV, las comunidades autónomas, y en su caso las entidades locales, comunicarán al Ministerio de Medio Ambiente, y Medio Rural y Marino los métodos que utilizan para su muestreo y medición, y que se ajustarán a lo dispuesto en el apartado IV del anexo XI.
+Las Comunidades Autónomas (y en su caso, las entidades locales), comunicarán al Ministerio los métodos que utilizan para el muestreo y medición de los compuestos orgánicos volátiles (que se ajustarán al apartado IV del anexo XI).
 
 #### Sección 3.ª Evaluación de la calidad del aire en relación con el amoniaco
 
 ##### Artículo 12. Mediciones de las concentraciones de amoniaco.
 
-1. El Ministerio de Medio Ambiente, y Medio Rural y Marino, en colaboración con las comunidades autónomas, determinará 5 puntos rurales de fondo para la medición de niveles en aire ambiente del amoníaco, repartidos uniformemente por el territorio español. Estas medidas se coordinarán con la Estrategia de vigilancia continuada y medición del Programa EMEP.
+El Ministerio de Medio Ambiente (en colaboración con las Comunidades Autónomas), determinará 5 puntos rurales de fondo para la medición de niveles en aire ambiente del amoníaco, repartidos uniformemente por el territorio español. Estas medidas se coordinarán con la Estrategia de vigilancia continuada y medición del Programa EMEP.
 
-2. Además, las autoridades competentes garantizarán al menos un punto para la medición de amoniaco en un área de intensidad elevada de tráfico en todas las ciudades con un número de habitantes superior a 500 000.
+Además, las autoridades competentes garantizarán al menos un punto para la medición de amoniaco en un área de intensidad elevada de tráfico en todas las ciudades con un número de habitantes superior a 500 000.
 
-3. La ubicación de los puntos de muestreo para la medición de las concentraciones de amoniaco, los objetivos de calidad de los datos, y las técnicas de análisis para la evaluación de las concentraciones se ajustarán al contenido del anexo XII.
+La ubicación de los puntos de muestreo para la medición de las concentraciones de amoniaco, los objetivos de calidad de los datos, y las técnicas de análisis para la evaluación de las concentraciones se ajustarán al contenido del anexo XII.
 
 
 #### Gestión de la calidad del aire
 
-Los valores límite, incrementados donde proceda por los márgenes de tolerancia, y los niveles críticos establecidos en el anexo I no deberán superarse a partir de las fechas señaladas en dicho anexo.
+Los valores límite, incrementados donde proceda por los márgenes de tolerancia, y los niveles críticos (Anexo I) no deberán superarse a partir de las fechas señaladas en dicho anexo.
 
 Con respecto a los valores objetivos y objetivos a largo plazo, las administraciones competentes tomarán todas las medidas necesarias que no conlleven costes desproporcionados para asegurarse que se alcanzan, y no se superan, de acuerdo con las fechas señaladas en dicho anexo I.
 
 Todo ello se hará teniendo en cuenta un enfoque integrado de la protección del medio ambiente, que no se causen efectos negativos y significativos sobre el medio ambiente de los demás Estados miembros de la Unión Europea ni de otros países, y que no se contravenga la legislación sobre protección de la salud y seguridad de los trabajadores y trabajadoras en el lugar de trabajo.
 
-2. Las comunidades autónomas elaborarán listas diferenciadas por contaminantes donde se incluyan las zonas y aglomeraciones siguientes:
+Las Comunidades Autónomas elaborarán listas diferenciadas por contaminantes donde se incluyan las zonas y aglomeraciones siguientes:
 
-- a) Aquellas en que los niveles de los contaminantes regulados sean inferiores a sus valores límite o niveles críticos.
+- Aquellas en que los niveles de los contaminantes regulados sean inferiores a sus valores límite o niveles críticos.
 
 - b) Las que tengan los niveles de uno o más de los contaminantes regulados comprendidos entre los valores límite y dichos valores límite incrementados en su margen de tolerancia, en los casos en los que se aplique éste.
 
@@ -539,15 +550,13 @@ Igualmente, elaborarán una lista de las zonas y aglomeraciones con su situació
 
 En las zonas y aglomeraciones en que los niveles de uno o más de los contaminantes regulados superen su valor límite incrementado en el margen de tolerancia o, si éste no está establecido, el valor límite, las administraciones competentes adoptarán planes de actuación para reducir los niveles y cumplir así dichos valores límite en los plazos fijados, de acuerdo con lo establecido en el Capítulo IV.
 
-##### Artículo 15. Medidas aplicables en las zonas en que no se superan los valores límite.
-
 En aquellas zonas o aglomeraciones en que los niveles de los contaminantes regulados sean inferiores a sus valores límite, se adoptarán las medidas necesarias para mantener esta situación, de forma que se obtenga la mejor calidad del aire posible.
 
 ##### Artículo 16. Medidas aplicables en las zonas en que se superen los valores objetivo y los objetivos a largo plazo de ozono.
 
-1. En las zonas y aglomeraciones donde se supere el valor objetivo, las Administraciones competentes adoptarán los planes necesarios para garantizar que se cumpla dicho valor objetivo en la fecha señalada en el anexo I, salvo cuando no pueda conseguirse mediante medidas que no conlleven costes desproporcionados. En todo caso, estas medidas deberán ser compatibles con el Programa nacional de techos nacionales de emisión elaborado en el marco de la Directiva 2001/81/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2001, sobre techos nacionales de emisión de determinados contaminantes atmosféricos.
+En las zonas y aglomeraciones donde se supere el valor objetivo, las Administraciones competentes adoptarán los planes necesarios para garantizar que se cumpla dicho valor objetivo en la fecha señalada en el anexo I, salvo cuando no pueda conseguirse mediante medidas que no conlleven costes desproporcionados. En todo caso, estas medidas deberán ser compatibles con el Programa nacional de techos nacionales de emisión elaborado en el marco de la Directiva 2001/81/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2001, sobre techos nacionales de emisión de determinados contaminantes atmosféricos.
 
-2. En las zonas y aglomeraciones en las que los niveles de ozono en el aire ambiente sean superiores a los objetivos a largo plazo pero inferiores o iguales a los valores objetivo regulados en el anexo I, las Administraciones competentes elaborarán y ejecutarán medidas para reducir los niveles y cumplir así dichos objetivos a largo plazo. Estas medidas serán eficaces en relación con su coste y, cuando menos, deberán ser coherentes con todos los planes que se elaboren de conformidad con lo establecido en el apartado anterior y con la restante normativa sobre la materia que también resulte de aplicación.
+En las zonas y aglomeraciones en las que los niveles de ozono en el aire ambiente sean superiores a los objetivos a largo plazo pero inferiores o iguales a los valores objetivo regulados en el anexo I, las Administraciones competentes elaborarán y ejecutarán medidas para reducir los niveles y cumplir así dichos objetivos a largo plazo. Estas medidas serán eficaces en relación con su coste y, cuando menos, deberán ser coherentes con todos los planes que se elaboren de conformidad con lo establecido en el apartado anterior y con la restante normativa sobre la materia que también resulte de aplicación.
 
 ##### Artículo 17. Medidas aplicables en las zonas en las que se cumplen los objetivos a largo plazo de ozono.
 
@@ -555,68 +564,67 @@ En las zonas y aglomeraciones donde los niveles de ozono cumplan los objetivos a
 
 ##### Artículo 18. Medidas aplicables en las zonas en que se superen los valores objetivo para arsénico, cadmio, níquel y benzo(a)pireno.
 
-1. En las zonas y aglomeraciones en las que se hayan rebasado los valores objetivo fijados en el anexo I, las administraciones competentes especificarán dónde se registran las superaciones y las fuentes que contribuyen a las mismas.
+En las zonas y aglomeraciones en las que se hayan rebasado los valores objetivo fijados en el anexo I, las administraciones competentes especificarán dónde se registran las superaciones y las fuentes que contribuyen a las mismas.
 
-2. Además, las comunidades autónomas deberán demostrar que se aplican todas las medidas necesarias que no generen costes desproporcionados, dirigidas en particular a las fuentes de emisión principales, para reducir los niveles y cumplir los valores objetivo. En el caso de las instalaciones industriales reguladas por la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, ello significa la aplicación de las mejoras técnicas disponibles.
+Además, las comunidades autónomas deberán demostrar que se aplican todas las medidas necesarias que no generen costes desproporcionados, dirigidas en particular a las fuentes de emisión principales, para reducir los niveles y cumplir los valores objetivo. En el caso de las instalaciones industriales (Real Decreto Legislativo 1/2016), ello significa la aplicación de las mejoras técnicas disponibles.
 
 ##### Artículo 19. Medidas aplicables en las zonas en que no se superen los valores objetivo para arsénico, cadmio, níquel y benzo(a)pireno.
 
-En las zonas y aglomeraciones en las que los niveles sean inferiores a sus respectivos valores objetivo las comunidades autónomas adoptarán las medidas necesarias para mantener esa situación, de forma que se obtenga la mayor calidad posible del aire.
+En las zonas y aglomeraciones en que los niveles de arsénico (As), el cadmio (Cd), el níquel (Ni) y benzo(a)pireno (B(a)P) sean inferiores a sus respectivos valores objetivo, las Comunidades Autónomas adoptarán las medidas necesarias para mantener esa situación, de forma que se obtenga la mayor calidad posible del aire.
 
 ##### Artículo 20. Medidas aplicables por superación o previsión de superación de los umbrales de activación, de información o de alerta.
 
-1. Cuando se supere o se prevea que se va a superar el umbral de información o de alerta del anexo I, las administraciones competentes adoptarán las medidas necesarias de urgencia e informarán a la población por radio, televisión, prensa o Internet o dispositivos móviles, entre otros medios posibles, de los niveles registrados o previstos y de las medidas que se vayan a adoptar, de acuerdo con el artículo 28.
+En caso de superación de umbrales (Anexo I), se procederá de la siguiente forma: 
 
-Se velará por proporcionar al público información sobre la calidad del aire en tiempo real, siguiendo preferentemente la metodología recogida en el Índice Nacional de Calidad del Aire, regulado por la Orden TEC/351/2019, de 18 de marzo, por la que se aprueba el Índice Nacional de Calidad del Aire.
+- **Cualquier umbral**: las administraciones competentes en la gestión de la calidad del aire informarán a las competentes en sanidad y protección civil, en tiempo real, por los medios que consideren oportunos. Las entidades locales y la Agencia Estatal de Meteorología informarán a la administración de la Comunidad Autónoma en estaciones bajo su gestión en tiempo real..
 
-2. Cuando se superen o se prevea que se van a superar cualquiera de los umbrales previstos en el anexo I, las administraciones competentes en materia de gestión de la calidad del aire informarán de dicha superación a las administraciones competentes en materia de sanidad y protección civil, en tiempo real por los medios que consideren oportunos.
+- **Información o alerta**: las administraciones competentes adoptarán las medidas necesarias de urgencia e informarán a la población (por radio, televisión, prensa o Internet o dispositivos móviles...) de los niveles registrados o previstos y de las medidas que se vayan a adoptar (artículo 28).
 
-3. Las entidades locales y la Agencia Estatal de Meteorología también informarán a la administración de la comunidad autónoma correspondiente cuando registren superaciones de los umbrales previstos en el anexo I en estaciones con envío de datos en tiempo real bajo su gestión.
+	Se velará por proporcionar al público información sobre la calidad del aire en tiempo real, siguiendo preferentemente la metodología recogida en el Índice Nacional de Calidad del Aire (Orden TEC/351/2019).
 
-4. Las administraciones competentes facilitarán al Ministerio para la Transición Ecológica y el Reto Demográfico, para su envío a la Comisión Europea, información sobre los niveles registrados en caso de superación de los umbrales de alerta y sobre la duración de los períodos durante los que se hayan superado los umbrales, así como de los umbrales de información recogidos en el anexo I apartado H.II.
+	Las administraciones competentes facilitarán al Ministerio información sobre los niveles registrados y la duración de superación de los umbrales de alerta (para su envío a la Comisión Europea), así como de lo umbrales de información (apartado H.II del Anexo I) (COMPROBAR QUE ES ESE ANEXO EN CONCRETO: ¿para todos los de información...?)
 
 ##### Artículo 21. Objetivo nacional de reducción de la exposición a partículas PM2,5 para la protección de la salud humana.
 
-1. El indicador medio de exposición (IME) a partículas PM2,5 se evaluará conforme a lo establecido en la sección A del anexo XIII.
+El indicador medio de exposición (IME) a partículas PM2,5 se evaluará conforme a lo establecido (sección A del anexo XIII).
 
-2. Las autoridades competentes tomarán todas las medidas necesarias que no conlleven gastos desproporcionados para reducir la exposición a partículas PM2,5 con el fin de cumplir el objetivo nacional de reducción de la exposición fijado en la sección B del anexo XIII a más tardar en el año señalado en dicho anexo.
+Las autoridades competentes tomarán todas las medidas necesarias que no conlleven gastos desproporcionados para reducir la exposición a partículas PM2,5 con el fin de cumplir el objetivo nacional de reducción de la exposición fijado en la sección B del anexo XIII a más tardar en el año señalado en dicho anexo.
 
-3. Las autoridades competentes garantizarán que el IME para el año 2015, establecido de conformidad con la sección A del anexo XIII, no supere la obligación en materia de concentración de la exposición establecida en la sección C de dicho anexo.
+Las autoridades competentes garantizarán que el IME para el año 2015 (sección A del anexo XIII) no supere la obligación en materia de concentración de la exposición (sección C del Anexo XIII).
 
 ##### Artículo 22. Aportaciones procedentes de fuentes naturales.
 
-1. Las comunidades autónomas elaborarán anualmente listas con las zonas y aglomeraciones en las que las superaciones de los valores límite de un contaminante sean atribuibles a fuentes naturales. Igualmente, facilitarán al Ministerio de Medio Ambiente, y Medio Rural y Marino información acerca de las concentraciones y las fuentes y las pruebas que demuestren que dichas superaciones son atribuibles a fuentes naturales.
+Las Comunidades Autónomas elaborarán anualmente listas con las zonas y aglomeraciones en las que las superaciones de los valores límite de un contaminante por fuentes naturales, y facilitarán al Ministerio información obre la concentraciones, fuentes y pruebas sobre ello
 
-2. Las superaciones atribuibles a fuentes naturales según el apartado anterior no se considerarán superaciones a los efectos de lo dispuesto en el presente real decreto y no originarán la obligación de ejecutar planes de actuación.
-
-3. En el caso de las partículas, se utilizará para la demostración y sustracción de los niveles atribuibles a fuentes naturales la metodología descrita en el anexo XIV.
+*Las superaciones por estas causas no suponen incumplimiento de objetivos de calidad ni obligarán a ejecutar planes de actuación. Las partículas tienen una metodología específica (Anexo XIV).*
 
 ##### Artículo 23. Prórroga de los plazos de cumplimiento y exención de la obligación de aplicar ciertos valores límite.
 
-1. Cuando en una zona o aglomeración determinada no puedan respetarse los valores límite de dióxido de nitrógeno o benceno en los plazos fijados en el anexo I, la autoridad competente podrá solicitar prorrogar esos plazos por un máximo de cinco años para esa zona o aglomeración concreta, con la condición de que se haya establecido un plan de calidad del aire de conformidad con el artículo 24 para la zona o aglomeración a la que vaya a aplicarse la prórroga; dicho plan de calidad del aire irá acompañado de la información indicada en la sección B del anexo XV en relación con los contaminantes de que se trate y demostrará que van a respetarse los valores límite antes del final de la prórroga.
+ Cuando en una zona o aglomeración determinada no puedan respetarse los valores límite de dióxido de nitrógeno o benceno en los plazos fijados en el anexo I, la autoridad competente podrá solicitar prorrogar esos plazos por un máximo de cinco años para esa zona o aglomeración concreta, con la condición de que se haya establecido un plan de calidad del aire de conformidad con el artículo 24 para la zona o aglomeración a la que vaya a aplicarse la prórroga; dicho plan de calidad del aire irá acompañado de la información indicada en la sección B del anexo XV en relación con los contaminantes de que se trate y demostrará que van a respetarse los valores límite antes del final de la prórroga.
 
-2. Cuando en una zona o aglomeración determinada no puedan respetarse los valores límite de PM10 especificados en el anexo I debido a las características de dispersión propias de esos lugares, las condiciones climáticas adversas o las contribuciones transfronterizas, la autoridad competente podrá solicitar la exención de aplicar esos valores límite hasta el 11 de junio de 2011 como máximo, siempre que se cumplan las condiciones recogidas en el apartado 1 y que demuestre que se han adoptado todas las medidas adecuadas, a escala nacional, regional y local, para respetar los plazos.
+Cuando en una zona o aglomeración determinada no puedan respetarse los valores límite de PM10 especificados en el anexo I debido a las características de dispersión propias de esos lugares, las condiciones climáticas adversas o las contribuciones transfronterizas, la autoridad competente podrá solicitar la exención de aplicar esos valores límite hasta el 11 de junio de 2011 como máximo, siempre que se cumplan las condiciones recogidas en el apartado 1 y que demuestre que se han adoptado todas las medidas adecuadas, a escala nacional, regional y local, para respetar los plazos.
 
-3. Cuando se aplique lo dispuesto en los apartados 1 ó 2, la autoridad competente se asegurará de que la superación del valor límite de cada contaminante no supera el margen máximo de tolerancia especificado para cada uno de los contaminantes en el anexo I.
+Cuando se aplique lo dispuesto en los apartados 1 ó 2, la autoridad competente se asegurará de que la superación del valor límite de cada contaminante no supera el margen máximo de tolerancia especificado para cada uno de los contaminantes en el anexo I.
 
-4. Las comunidades autónomas y, en su caso, las entidades locales, notificarán al Ministerio de Medio Ambiente, y Medio Rural y Marino los supuestos en los que, a su juicio, sean de aplicación los apartados 1 y 2. Dicha notificación se realizará siguiendo las directrices establecidas en la «Comunicación de la Comisión sobre las notificaciones de las prórrogas de los plazos de cumplimiento de ciertos valores límite y las exenciones de la obligación de aplicarlos en virtud del artículo 22 de la Directiva 2008/50/CE sobre la calidad del aire ambiente y una atmósfera más limpia en Europa» (COM(2008) 403) e irá acompañada del plan de calidad del aire mencionado en el apartado 1 y de toda la información necesaria para que la Comisión Europea examine si se cumplen o no las condiciones pertinentes. El Ministerio de Medio Ambiente, y Medio Rural y Marino, a su vez, transmitirá toda esta información a la Comisión Europea.
+Las comunidades autónomas y, en su caso, las entidades locales, notificarán al Ministerio de Medio Ambiente, y Medio Rural y Marino los supuestos en los que, a su juicio, sean de aplicación los apartados 1 y 2. Dicha notificación se realizará siguiendo las directrices establecidas en la «Comunicación de la Comisión sobre las notificaciones de las prórrogas de los plazos de cumplimiento de ciertos valores límite y las exenciones de la obligación de aplicarlos en virtud del artículo 22 de la Directiva 2008/50/CE sobre la calidad del aire ambiente y una atmósfera más limpia en Europa» (COM(2008) 403) e irá acompañada del plan de calidad del aire mencionado en el apartado 1 y de toda la información necesaria para que la Comisión Europea examine si se cumplen o no las condiciones pertinentes. El Ministerio de Medio Ambiente, y Medio Rural y Marino, a su vez, transmitirá toda esta información a la Comisión Europea.
 
-5. Si la Comisión Europea no plantea ninguna objeción, las condiciones pertinentes para la aplicación de los apartados 1 ó 2 se considerarán cumplidas. Si se planteasen objeciones, las autoridades competentes adaptarán sus planes de calidad del aire o presentarán otros nuevos y se entenderá que no ha lugar a la prórroga o exención solicitada.
+Si la Comisión Europea no plantea ninguna objeción, las condiciones pertinentes para la aplicación de los apartados 1 ó 2 se considerarán cumplidas. Si se planteasen objeciones, las autoridades competentes adaptarán sus planes de calidad del aire o presentarán otros nuevos y se entenderá que no ha lugar a la prórroga o exención solicitada.
 
 
 #### Planes de calidad del aire
 
-Cuando en determinadas zonas o aglomeraciones los niveles de contaminantes en el aire ambiente superen cualquier valor límite o valor objetivo, así como el margen de tolerancia correspondiente a cada caso, las comunidades autónomas aprobarán planes de calidad del aire para esas zonas y aglomeraciones con el fin de conseguir respetar el valor límite o el valor objetivo correspondiente especificado en el anexo I.
+Las Comunidades autónomas aprobarán planes de calidad del aire en las zonas y aglomeraciones en que se superen los valores límite u objetivo, o el margen de tolerancia correspondiente (Anexo I), 
+
 
 En caso de superarse los valores límite para los que ya ha vencido el plazo de cumplimiento, los planes de calidad del aire establecerán medidas adecuadas, de modo que el período de superación sea lo más breve posible. Los planes de calidad del aire podrán incluir además medidas específicas destinadas a proteger a los sectores vulnerables de la población, incluidos los niños.
 
 Para su elaboración se contará con la colaboración de los titulares de las actividades industriales potencialmente involucradas y afectadas por las medidas incluidas en los mismos y por su puesta en aplicación.
 
-Esos planes de calidad del aire contendrán al menos la información indicada en la sección A del anexo XV y podrán incluir medidas adoptadas de conformidad con el artículo 25. Esos planes serán transmitidos al Ministerio de Medio Ambiente, y Medio Rural y Marino para su comunicación a la Comisión Europea de acuerdo a la Decisión 2004/224/CE, o la normativa europea que la sustituya, antes de que transcurran dos años desde el final del año en que se observó la primera superación.
+Esos planes de calidad del aire contendrán al menos la información indicada en la sección A del anexo XV y podrán incluir medidas (artículo 25). Serán transmitidos al Ministerio, para su comunicación a la Comisión Europea (Decisión 2004/224/CE o normativa europea que la sustituya), antes de 2 años desde el final del año en que se observó la primera superación.
 
 Cuando deban elaborarse o ejecutarse planes de calidad del aire respecto de diversos contaminantes, se elaborarán y ejecutarán, cuando así proceda, planes integrados que abarquen todos los contaminantes en cuestión.
 
-Lo anterior no será de aplicación en el caso de superación de los valores objetivo del arsénico, el cadmio, el níquel y el benzo(a)pireno si las comunidades autónomas demuestran que se cumplen las condiciones del artículo 18.2.
+Lo anterior no será de aplicación en el caso de superación de los valores objetivo del arsénico, el cadmio, el níquel y el benzo(a)pireno si las Comunidades Autónomas demuestran que se cumplen las condiciones (del artículo 18.2) (COMPROBARRRRR).
 
 Los órganos correspondientes de las Administraciones Públicas cuyas competencias pudieran verse afectados por el ámbito de aplicación de los planes regulados en este artículo, deberán facilitar al órgano autonómico competente para su aprobación, durante su proceso de elaboración, la información que precise sobre una actividad o una infraestructura que desarrollen en el ejercicio de sus competencias o en una zona de su competencia exclusiva, incluyendo cuantos datos, documentos o medios probatorios se hallen a su disposición, así como un pronunciamiento al respecto de las medidas que se pretenden adoptar en el plan que se está elaborando para la reducción de la contaminación atmosférica en la zona de que se trate.
 
@@ -624,27 +632,26 @@ En este sentido, las entidades locales, a instancia del órgano autonómico comp
 
 En el caso de que las medidas de control para reducir la contaminación atmosférica que se establezcan en el plan que, en su caso, elabore cada Comunidad Autónoma, suponga realizar actuaciones en actividades, instalaciones o zonas situadas en el territorio de otra Comunidad Autónoma, de acuerdo con lo establecido en el Título I de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración General del Estado y las comunidades autónomas que corresponda acordarán la realización de planes conjuntos de actuación para el logro de objetivos de reducción de la contaminación atmosférica establecidos en este artículo.
 
-A estos efectos, corresponderá a la Conferencia Sectorial en materia de medio ambiente, bajo la coordinación del Ministerio de Medio Ambiente, y Medio Rural y Marino, la iniciativa para acordar la realización de planes conjuntos, la aprobación de su contenido, así como el seguimiento y evaluación multilateral de su puesta en práctica.
+A estos efectos, corresponderá a la Conferencia Sectorial en materia de medio ambiente (bajo la coordinación del Ministerio), la iniciativa para acordar la realización de planes conjuntos, la aprobación de su contenido, así como el seguimiento y evaluación multilateral de su puesta en práctica.
 
-Independientemente de lo anterior, y de acuerdo a sus competencias, la Administración General del Estado elaborará Planes nacionales de mejora de la calidad del aire para aquellos contaminantes en que se observe comportamientos similares en cuanto a fuentes, dispersión y niveles en varias zonas o aglomeraciones. Estos Planes nacionales contendrán, siempre que sea posible, la información indicada en la sección A del anexo XV y serán tenidos en cuenta por las comunidades autónomas para la elaboración de sus planes.
+Además, la Administración General del Estado elaborará Planes nacionales de mejora de la calidad del aire para aquellos contaminantes en que se observe comportamientos similares en cuanto a fuentes, dispersión y niveles en varias zonas o aglomeraciones, incluyendo si es posible determinada información (sección A del anexo XV), para su consideración por las Comunidades Autónomas en su planificación.
 
-Las entidades locales, en el ámbito de sus competencias, cuando corresponda según lo previsto en el artículo 16 de la Ley 34/2007, podrán elaborar sus propios planes, que tendrán en cuenta los de las respectivas comunidades autónomas, los nacionales y, en la medida de lo posible, se ajustarán al contenido de la sección A del anexo XV.
+Las entidades locales, cuando corresponda (artículo 16 de la Ley 34/2007) (COMPROBAR) podrán elaborar sus propios planes, de acuerdo a los autonómico y nacionales, y a determinada información (sección A del anexo XV).
 
-Se asegurará la coherencia de todos los planes con el Plan Nacional de Reducción de Emisiones de Grandes Instalaciones de Combustión, el Plan Nacional de Techos Nacionales de Emisión, los Planes de Ruido Ambiental y los Planes de Lucha contra el Cambio Climático, maximizando en cualquier caso el beneficio medioambiental conjunto.
+*Se asegurará la coherencia de todos estos planes con el Plan Nacional de Reducción de Emisiones de Grandes Instalaciones de Combustión, el Plan Nacional de Techos Nacionales de Emisión, los Planes de Ruido Ambiental y los Planes de Lucha contra el Cambio Climático, maximizando en cualquier caso el beneficio medioambiental conjunto.*
 
-##### Artículo 25. Planes de acción a corto plazo.
 
-Las comunidades autónomas y, en su caso, las entidades locales cuando corresponda según lo previsto en el artículo 5 de la Ley 34/2007, de 15 de noviembre:
+Las comunidades autónomas (y, en su caso, las entidades locales: artículo 5 de la Ley 34/2007), podrán elaborar planes de acción a corto plazo, con medidas concretas, para evitar el riesgo de superación de los siguientes límites:
 
-- a) Deberán elaborar planes de acción a corto plazo que contemplarán, en todo caso, las medidas que obligatoriamente deban adoptarse por las administraciones competentes en relación al control de las fuentes de emisión que determinan o influyen en el incremento del riesgo para aquellos supuestos en los que en una zona o en una aglomeración determinada exista el riesgo de que el nivel de contaminantes supere uno o más de los umbrales de alerta especificados en el anexo I, con el objetivo de reducir el riesgo de superación o su duración.
+- **Umbrales de alerta** (obligatorio) (Anexo I) referidas a las fuentes de emisión
 
-- b) Podrán elaborar planes de acción a corto plazo que contemplarán en su caso, las medidas que deban adoptarse cuando dicho riesgo se refiera a uno o varios valores límite o valores objetivo, especificados en las secciones A a H del anexo I, con el objetivo de reducir el riesgo correspondiente.
+- **Valores límite u objetivo** (opcional) (secciones A a H del anexo I)
 
-Para la elaboración del plan de acción a corto plazo, se deberá tener en consideración lo previsto en el Plan Marco vigente de acción a corto plazo en caso de episodios de contaminación del aire ambiente al que se refiere el apartado 9. De manera particular, las medidas serán mantenidas, o incluso reforzadas en caso de condiciones meteorológicas desfavorables.
+Para ello, se deberá tener en consideración lo previsto en el Plan Marco vigente de acción a corto plazo en caso de episodios de contaminación del aire ambiente (apartado 9 DE QUE ARTICULO). Las medidas serán mantenidas, o incluso reforzadas en caso de condiciones meteorológicas desfavorables.
 
-Cuando exista un riesgo de superación del umbral de alerta del ozono indicado en el apartado II de la sección H del anexo I, se elaborarán planes de acción a corto plazo cuando se considere que hay una posibilidad significativa de reducción del riesgo o de la duración o gravedad de la situación, habida cuenta de las condiciones geográficas, meteorológicas y económicas. Para la elaboración del plan de acción a corto plazo, se deberá tener en cuenta la Decisión 2004/279/CE de la Comisión, de 19 de marzo de 2004, relativa a las directrices de aplicación de la Directiva 2002/3/CE del Parlamento Europeo y del Consejo relativa al ozono en el aire ambiente.
+Cuando exista un riesgo de superación del umbral de alerta del ozono (apartado II de la sección H del Anexo I), se elaborarán planes de acción a corto plazo cuando se considere que hay una posibilidad significativa de reducción del riesgo o de la duración o gravedad de la situación, habida cuenta de las condiciones geográficas, meteorológicas y económicas. Para la elaboración del plan de acción a corto plazo, se deberá tener en cuenta la Decisión 2004/279/CE de la Comisión, de 19 de marzo de 2004, relativa a las directrices de aplicación de la Directiva 2002/3/CE del Parlamento Europeo y del Consejo relativa al ozono en el aire ambiente.
 
-En el caso de que la superación de los umbrales sea consecuencia de las concentraciones de contaminantes secundarios, las medidas deberán incidir sobre sus precursores, siempre y cuando pueda establecerse una relación de causalidad entre dichas medidas y las concentraciones esperadas de los contaminantes secundarios.
+En el caso de que la superación de los umbrales sea consecuencia de las concentraciones de contaminantes secundarios, las medidas deberán incidir sobre sus precursores (siempre que pueda establecerse una relación de causalidad entre esas medidas y las concentraciones esperadas de los contaminantes secundarios)
 
 Cuando las autoridades competentes hayan elaborado un plan de acción a corto plazo, pondrán a disposición de la ciudadanía y de las organizaciones interesadas el contenido de los planes de acción específicos a corto plazo y la información sobre la ejecución de esos planes.
 
@@ -658,21 +665,19 @@ En todo caso, los gestores de las infraestructuras y las autoridades estatales c
 
 La Conferencia Sectorial de Medio Ambiente adoptará un Plan Marco de Acción a corto plazo para casos de episodios de contaminación, que establezca unos valores y unas actuaciones mínimos homogéneos para todas las administraciones competentes. Tras la adopción de dicho Plan Marco, los planes de acción a corto plazo y protocolos de actuación en caso de episodios de contaminación preexistentes y aquellos que se estuviesen elaborando deberán adaptarse a lo previsto en el mismo, en el plazo máximo de dieciocho meses desde su aprobación.
 
-El Ministerio para la Transición Ecológica y el Reto Demográfico, junto con las consejerías competentes en materia de medio ambiente de las comunidades autónomas y de las ciudades de Ceuta y Melilla, realizará un seguimiento del resultado de la aplicación de dicho Plan Marco. A estos efectos, las comunidades, ciudades autónomas y entidades locales cuando corresponda en el ámbito de sus competencias en gestión de calidad del aire, pondrán a disposición de la Comisión de Cooperación en Materia de Calidad Ambiental la información relevante sobre la aprobación y ejecución de estos planes. Así mismo, otras entidades locales que hayan aprobado y ejecutado estos planes informarán a la autoridad competente en la materia de su comunidad autónoma con objeto de que pueda informar a la Comisión de Cooperación en Materia de Calidad Ambiental.
+El Ministerio (junto con las consejerías competentes en medio ambiente de las Comunidades y ciudades Autónomas) realizará un seguimiento del resultado de la aplicación de dicho Plan Marco. A estos efectos, las comunidades, ciudades autónomas y entidades locales cuando corresponda en el ámbito de sus competencias en gestión de calidad del aire, pondrán a disposición de la Comisión de Cooperación en Materia de Calidad Ambiental la información relevante sobre la aprobación y ejecución de estos planes. Así mismo, otras entidades locales que hayan aprobado y ejecutado estos planes informarán a la autoridad competente en la materia de su comunidad autónoma con objeto de que pueda informar a la Comisión de Cooperación en Materia de Calidad Ambiental.
 
-11. Los planes de acción a corto plazo podrán, en determinados casos, establecer medidas eficaces para controlar y, si es necesario, reducir o suspender actividades que contribuyan de forma significativa a aumentar el riesgo de superación de los valores límite o los valores objetivo o umbrales de alerta respectivos. Esos planes de acción podrán incluir medidas relativas al tráfico de vehículos de motor, a obras de construcción, a buques amarrados y al funcionamiento de instalaciones industriales o el uso de productos y a la calefacción doméstica. En el marco de esos planes, también podrán preverse acciones específicas destinadas a proteger a los sectores vulnerables de la población, incluida la población infantil.
-
-##### Artículo 26. Contaminación transfronteriza.
-
-Cuando las concentraciones de contaminantes que superen los valores límite, más el margen de tolerancia, en su caso, los valores objetivo o los objetivos a largo plazo se deban principalmente a las emisiones de precursores en otros Estados miembros u otros países, las comunidades autónomas afectadas lo notificarán al Ministerio de Medio Ambiente, y Medio Rural y Marino, para su comunicación al Ministerio de Asuntos Exteriores y de Cooperación, a efectos de que se realicen las necesarias gestiones entre Estados para remediar la situación.
-
-Las medidas que se adopten como consecuencia de las gestiones señaladas en el apartado 1 podrán incluir la elaboración de planes comunes para reducir los niveles de contaminantes y cumplir los valores límite, los valores objetivo o los objetivos a largo plazo. En dichas medidas se tendrá en cuenta que los planes de acción a corto plazo que, en su caso, se elaboren de conformidad con lo establecido en el artículo 25, afectarán a las zonas colindantes de los Estados miembros u otros países implicados. El Ministerio de Asuntos Exteriores y de Cooperación garantizará que las zonas colindantes de otros Estados Miembros u otros países que hayan desarrollado a su vez planes de acción a corto plazo reciben toda la información adecuada.
-
-Cuando se produzcan superaciones del umbral de información o de los umbrales de alerta en zonas cercanas a las fronteras del Estado, las comunidades autónomas afectadas lo notificarán al Ministerio de Medio Ambiente, y Medio Rural y Marino, para su comunicación al Ministerio de Asuntos Exteriores y de Cooperación, a efectos de poner este hecho en conocimiento de los Estados miembros u otros países vecinos, a la mayor brevedad posible, para que pueda informarse debidamente a la población de dichos Estados.
+Los planes de acción a corto plazo podrán, en determinados casos, establecer medidas eficaces para controlar y, si es necesario, reducir o suspender actividades que contribuyan de forma significativa a aumentar el riesgo de superación de los valores límite o los valores objetivo o umbrales de alerta respectivos. Esos planes de acción podrán incluir medidas relativas al tráfico de vehículos de motor, a obras de construcción, a buques amarrados y al funcionamiento de instalaciones industriales o el uso de productos y a la calefacción doméstica. En el marco de esos planes, también podrán preverse acciones específicas destinadas a proteger a los sectores vulnerables de la población, incluida la población infantil.
 
 
+En cuanto a la contaminación transfronteriza, las Comunidades Autónomas lo notificarán al Ministerio de Medio Ambiente, para su comunicación al Ministerio de Exteriores, a fin de realizar las gestiones internacionales pertinentes. Se actuará de la siguiente forma de acuerdo al tipo de superación: 
 
-mediciones fijas, técnicas de modelización o campañas de medición
+- **Valores límite y objetivos**: si la causa son las emisiones de precursores de otros Estados, para elaborar medidas oportunas (inclusive planes comunes), considerando la afectación de los planes de acción a corto plazo (artículo 25) sobre terceros países. *El Ministerio de Exteriores garantizará que otros Estados que hayan desarrollado a su vez planes de acción a corto plazo reciben toda la información adecuada.*
+
+- **Umbral de información o alerta**: a la mayor brevedad posible, para la debida información a la población del país extranjero.
+
+
+
 
 
 ### Normativa autonómica
@@ -691,19 +696,17 @@ Además, mediante el [Decreto 228/2018](https://dogv.gva.es/datos/2018/12/24/pdf
 
 #### Disposiciones generales
 
-El decreto pretende desarrollar los procedimientos del sistema de control de las emisiones atmosféricas en la Comunidad Valenciana.
+El decreto pretende desarrollar los procedimientos del sistema de control de las emisiones atmosféricas en la Comunidad Valenciana. 
 
-Se aplica a todas las actividades potencialmente contaminadoras de la atmósfera (Anexo IV de la Ley 34/2007) que emitan contaminantes regulados (Anexo I de la misma Ley). 
+Se aplica a todas las actividades potencialmente contaminadoras de la atmósfera (Anexo IV de la Ley 34/2007) que emitan contaminantes regulados (Anexo I de la misma Ley). *Se exceptúan las actividades o sus partes dedicadas exclusivamente a investigación.*
 
-*Se exceptúan las actividades o sus partes dedicadas exclusivamente a investigación.*
-
-Se incluyen nuevas definiciones: 
+Aparecen nuevas definiciones: 
 
 - «**Autocontrol**»: comprobación por parte del responsable de la instalación del correcto funcionamiento de la misma, así como de los sistemas de prevención y control de la contaminación atmosférica con objeto de garantizar que se cumplen los valores límite de emisión y las condiciones establecidas en la autorización y en la normativa aplicable en materia de protección de la atmósfera.
 
-- «**Catálogo de Actividades Potencialmente Contaminadoras de la Atmósfera**» (CAPCA): relación de actividades establecidas en el anexo IV de la Ley 34/2007, de 15 de noviembre, de Calidad del Aire y Protección de la Atmósfera, o norma que la modifique o la sustituya. 
+- «**Catálogo de Actividades Potencialmente Contaminadoras de la Atmósfera**» (CAPCA)
 
-- «**Control**»: cualquier tipo de control, reglamentario o de autocontrol, realizado con objeto de garantizar que el nivel de emisión a la atmósfera es el adecuado.
+- «**Control**»: cualquiera (reglamentario o de autocontrol) para garantizar un adecuado nivel de emisión a la atmósfera.
 
 - «**Control reglamentario**»: comprobación y verificación por una entidad inscrita en el Registro de Entidades Colaboradoras en Materia de Calidad Ambiental de la Comunitat Valenciana, acreditada en el campo de la contaminación atmosférica, del correcto funcionamiento de los sistemas de prevención, corrección y seguimiento de la contaminación atmosférica, de los valores límite de emisión, y de las condiciones establecidas en la autorización y en la normativa aplicable en materia de protección de la atmósfera.
 
@@ -833,12 +836,11 @@ Disposiciones generales y prevención
 
 **Artículo 17. Niveles de emisión**
 
-Las personas titulares de las actividades afectadas por este decreto están obligadas a respetar los niveles de emisión de contaminantes a la atmósfera establecidos en la normativa estatal o autonómica vigente que les sea de aplicación. Asimismo, estarán obligadas, en su caso, a respetar los niveles de emisión establecidos en las autorizaciones de Emisión a la Atmósfera reguladas en el artículo 6 del presente decreto, o en su caso los fijados en la Autorización Ambiental Integrada.
+Las personas titulares de las actividades afectadas por este decreto están obligadas a respetar los niveles de emisión de contaminantes a la atmósfera establecidos en la normativa estatal o autonómica vigente que les sea de aplicación. Asimismo, estarán obligadas, en su caso, a respetar los niveles de emisión establecidos en las autorizaciones de Emisión a la Atmósfera (artículo 6) (o en su caso, los fijados en la Autorización Ambiental Integrada).
 
-Cuando no exista una normativa específica o documento de Mejores Técnicas Disponibles que regule los niveles de emisión de una determinada actividad, los límites que se fijen en la correspondiente autorización se establecerán de acuerdo con los criterios establecidos (artículo 5 del Real Decreto 100/2011), pudiendo utilizar como referencia los valores guía establecidos (Anexo III de este decreto).
+Cuando no exista una normativa específica o documento de Mejores Técnicas Disponibles que regule los niveles de emisión de una determinada actividad, los límites que se fijen en la correspondiente autorización se establecerán de acuerdo con los criterios (artículo 5 del Real Decreto 100/2011), pudiendo utilizar como referencia los valores guía (Anexo III de este decreto).
 
-Los contaminantes emitidos, de acuerdo con la naturaleza del proceso, por las actividades sujetas al procedimiento de notificación regulado en el artículo 13 de este decreto, que no tengan regulados los límites de emisión por una normativa estatal o autonómica vigente en materia de protección de la atmósfera, deberán respetar los niveles de emisión de contaminación a la atmósfera establecidos en el anexo III de este decreto, siempre y cuando existan técnicas disponibles que permitan alcanzar dichos límites.
-    
+Los contaminantes emitidos, de acuerdo con la naturaleza del proceso, por las actividades sujetas al procedimiento de notificación (artículo 13) que no tengan regulados los límites de emisión por una normativa estatal o autonómica vigente en materia de protección de la atmósfera, deberán respetar los niveles de emisión de contaminación a la atmósfera establecidos en el anexo III de este decreto, siempre y cuando existan técnicas disponibles que permitan alcanzar dichos límites.
 
 **Artículo 18. Procedimientos de mediciones reglamentarias**
 
@@ -848,8 +850,6 @@ En el caso de los gases de combustión, las mediciones podrán ser realizadas de
 
 Asimismo, si no existe ningún tipo de norma específica que regule el procedimiento de medición para un determinado contaminante, podrá realizarse siguiendo el procedimiento que la ECMCA considere adecuado, siempre y cuando se justifique técnicamente la representatividad de las medidas obtenidas.
 
-
-**Artículo 19. Libro de control de emisiones a la atmósfera**
 
 Todas las instalaciones en las que se desarrolle alguna de las actividades potencialmente contaminadoras de la atmósfera catalogadas con grupo asignado (A, B, ó C) deberán mantener actualizado un libro de control (en formato papel o electrónico), con registro e información de emisiones a la atmósfera (o inmisión, en el caso de emisiones no canalizadas): resultados de las mediciones y análisis de contaminantes en emisión que estará a disposición de la autoridad competente.
 
@@ -863,14 +863,9 @@ El libro contendrá los siguientes documentos:
 La persona titular de la instalación deberá mantener actualizada la información indicada en el libro de control. Asimismo, deberá conservar la información relativa a un periodo no inferior a 10 años.
 
 
-**Artículo 20. Notificación de emisiones al Registro de emisiones y transferencias de contaminantes (PRTR) e informe sobre compuestos orgánicos volátiles**
+Las personas titulares de las actividades potencialmente contaminadoras de la atmósfera cuyas instalaciones estén afectadas por el Real Decreto 508/2007, están obligadas a notificar anualmente sus emisiones al Registro de emisiones y transferencias de contaminantes (PRTR) (Reglamento 166/2006).
 
-Las personas titulares de las actividades potencialmente contaminadoras de la atmósfera cuyas instalaciones estén afectadas por el Real Decreto 508/2007, de 20 de abril, por el que se regula el suministro de información sobre emisiones del Reglamento E-PRTR, están obligadas a notificar anualmente sus emisiones al Registro de emisiones y transferencias de contaminantes (PRTR) (Reglamento 166/2006).
-
-Con independencia de lo establecido para los controles en los artículos 24 y 25 de este decreto, las instalaciones sometidas al Real Decreto 117/2003, de 31 de enero, sobre limitación de emisiones de compuestos orgánicos volátiles debidas al uso de disolventes en determinadas actividades, deberán remitir al órgano competente, antes del 28 de febrero de cada año, el plan de gestión de disolventes del año precedente para comprobar el cumplimiento de los valores límite de emisión, sin perjuicio de que pueda ser requerido por la autoridad competente en materia de medio ambiente siempre que se considere oportuno.
-
-
-
+Las instalaciones sometidas al Real Decreto 117/2003 (compuestos orgánicos volátiles), deberán remitir al órgano competente, antes del 28 de febrero de cada año, el plan de gestión de disolventes del año anterior, para comprobar el cumplimiento de los valores límite de emisión (sin perjuicio de que sea pedido por la autoridad competente cuando lo considere oportuno).
 
 Cuando se sobrepasen los objetivos de calidad del aire o exista riesgo de que esto ocurra, la Conselleria de medio ambiente (sin perjuicio de las competencias de las entidades locales) podrá exigir a las personas titulares de los focos contaminadores del entorno la adopción de medidas adicionales para la reducción de las emisiones o la mejora de la dispersión.
 
@@ -900,7 +895,7 @@ Si la entidad colaboradora determina que la actividad o instalación incumple lo
 
 **Artículo 24. Controles reglamentarios de emisiones**
 
-Las actividades potencialmente contaminadoras de la atmósfera con grupo asignado de acuerdo con el CAPCA serán sometidas a control reglamentario por una ECMCA, en el campo de la contaminación atmosférica, de acuerdo con la periodicidad establecida en su autorización ambiental integrada o en la autorización de emisiones a la atmósfera o, en su defecto, se adoptará la periodicidad establecida en el anexo V de este decreto.
+Las actividades potencialmente contaminadoras de la atmósfera con grupo asignado (CAPCA) serán sometidas a control reglamentario por una ECMCA, en el campo de la contaminación atmosférica, de acuerdo con la periodicidad establecida en su autorización ambiental integrada o en la autorización de emisiones a la atmósfera o, en su defecto, se adoptará la periodicidad establecida en el anexo V de este decreto.
 
 Si la ECMCA determina que existe algún tipo de incumplimiento en materia de contaminación atmosférica, deberá comunicarlo al órgano administrativo competente, de conformidad con lo establecido en el artículo 23 de este decreto, y la persona titular de la instalación tendrá la obligación de adoptar las medidas correctoras necesarias y llevar a cabo un nuevo control reglamentario. Dicha inspección deberá ser realizada por la misma ECMCA que determinó el incumplimiento, salvo en casos justificados, previa solicitud motivada del interesado y con autorización expresa del órgano administrativo competente, de conformidad con lo establecido en el apartado 2 del artículo 23.
 
@@ -920,24 +915,22 @@ Tanto las operaciones de autocontrol como sus resultados deberán figurar reseñ
 
 **Artículo 26. Modificación de la periodicidad de los controles**
 
-El órgano competente para otorgar la autorización de emisiones a la atmósfera, considerando las características particulares de la instalación, podrá modificar la periodicidad de los controles establecidos en los artículos 24 y 25, espaciándolos o haciéndolos más frecuentes, o solicitar la incorporación de medidores en continuo de las emisiones a la atmósfera.
+El órgano competente para otorgar la autorización de emisiones a la atmósfera, considerando las características particulares de la instalación, podrá modificar la periodicidad de los controles (artículos 24 y 25), espaciándolos o haciéndolos más frecuentes, o solicitar la incorporación de medidores en continuo de las emisiones a la atmósfera.
 
 Los datos de esos medidores en continuo deberán ser enviados telemáticamente al órgano competente en la tramitación de la autorización de emisiones a la atmósfera, si así se le requiere.
 
 Para determinar si una instalación que no está obligada a disponer de sistemas automáticos de medida por la normativa sectorial aplicable deberá disponer de medidores en continuo en sus principales focos de emisión, se analizarán los siguientes aspectos:
-    
 
-a) Si está sujeta al régimen de Autorización Ambiental Integrada y, además, está incluida dentro del grupo A del CAPCA, en sus principales focos de emisión.
+- **Sujeción a Autorización Ambiental Integrada** e inclusión en el grupo A del CAPCA en sus principales focos de emisión.
 
-b) Instalaciones que no estén incluidas en el apartado a), en aquellos focos en los que el caudal másico de contaminantes sea superior a los indicados a continuación:
-
-- SO2 > 75 Kg/h
-- NOX > 75 Kg/h
-- (Suma de SO2+NOX) > 1000 t/año
-- Partículas > 5 Kg/h
-- COV >10 Kg/h
-- HCI > 5 Kg/h
-- HF > 2 Kg/h
+- **Otras**, si el caudal másico de contaminantes es superior a los siguientes: 
+	- SO2 > 75 Kg/h
+	- NOX > 75 Kg/h
+	- (Suma de SO2+NOX) > 1000 t/año
+	- Partículas > 5 Kg/h
+	- COV >10 Kg/h
+	- HCI > 5 Kg/h
+	- HF > 2 Kg/h
 
 *Los sistemas de medición atmosférica en continuo deberán cumplir los requisitos establecidos en la norma UNE-EN 14181:2015. Emisiones de fuentes estacionarias. Aseguramiento de la calidad de los sistemas automáticos de medida (o la que la sustituya).*
 

@@ -743,22 +743,22 @@ Los gases de efecto invernadero regulado aparecen en el Anexo II:
 
 #### Autorizaciones de emisión
 
-#### CAPÍTULO II
 
-Toda instalación en la que se desarrolle alguna de las actividades y que genere las emisiones especificadas en el anexo I deberá contar con autorización de emisión de gases de efecto invernadero expedida en favor de su titular, salvo si la instalación está excluida del régimen comunitario con arreglo a la disposición adicional cuarta.
+Toda instalación en la que se desarrolle alguna de las actividades y que genere las emisiones especificadas (Anexo I) deberá contar con una autorización de emisión de gases de efecto invernadero expedida en favor de su titular (salvo si la instalación está excluida: disposición adicional cuarta), otorgada por el órgano autonómico competente. 
 
- La autorización de emisión de gases de efecto invernadero será otorgada por el órgano autonómico competente y tendrá el contenido siguiente:
-- Nombre y dirección del titular de la instalación.
-- Identificación, domicilio de la instalación y domicilio a efectos de notificaciones.
-- Una descripción básica de las actividades y emisiones de la instalación.
-- Un plan de seguimiento de las emisiones que cumpla los requisitos con arreglo a la normativa de la Unión Europea aplicable y a la normativa de desarrollo que se adopte.
-- Las obligaciones de suministro de información, de acuerdo con la normativa de la Unión Europea aplicable y, en su caso, con la normativa de desarrollo.
-- Las obligaciones sobre el uso de sistemas automatizados y formatos de intercambio de datos para armonizar la comunicación sobre el plan de seguimiento, el informe anual sobre las emisiones y las actividades de verificación entre el titular, el verificador y las autoridades competentes.
-- La obligación de entregar, en los cuatro meses siguientes al final de cada año natural, derechos de emisión en cantidad equivalente a las emisiones totales verificadas de la instalación durante el año anterior.
-- Fecha prevista de entrada en funcionamiento.
-- La obligación de abrir una cuenta de haberes de titular en el área española del Registro de la Unión Europea.
+El contenido mínimo es el siguiente:
 
-La autorización de emisión de gases de efecto invernadero, si así lo solicita su titular, podrá cubrir una o más instalaciones, siempre que éstas se ubiquen en un mismo emplazamiento, guarden una relación de índole técnica y cuenten con un mismo titular.
+- **Identificación del titular de la instalación**: nombre y dirección
+- **Notificaciones**: identificación, domicilio de la instalación y domicilio del titular
+- **Descripción básica** (actividades y emisiones de la instalación)
+- **Plan de seguimiento de emisiones**
+- **Suministro de información**
+- **Comunicación armonizada**: uso de sistemas automatizados y formatos de intercambio de datos, sobre el plan de seguimiento, el informe anual sobre las emisiones y las actividades de verificación entre el titular, el verificador y las autoridades competentes.
+- **Entrega de derechos**: en los cuatro meses siguientes al final de cada año natural, equivalente a las emisiones totales verificadas de la instalación durante el año anterior.
+- **Fecha prevista**: de entrada en funcionamiento.
+- **Cuenta de haberes de titular**: apertura obligatoria en el área española del Registro de la Unión Europea.
+
+*La autorización de emisión de gases de efecto invernadero, podrá cubrir varias instalaciones si así lo solicita su titular, siempre que éstas se ubiquen en un mismo emplazamiento, guarden una relación de índole técnica y cuenten con un mismo titular.*
 
 La autorización de emisión de gases de efecto invernadero se otorgará siempre que el órgano autonómico competente considere acreditado que el titular es capaz de garantizar el seguimiento y notificación de las emisiones con arreglo a lo dispuesto en los párrafos d), e) y e bis) del artículo 4.2. Transcurrido el plazo de tres meses sin haberse notificado resolución expresa, el interesado podrá entender desestimada su solicitud por silencio administrativo. No obstante, la instalación podrá seguir funcionando de manera provisional, siempre que haya establecido un sistema de seguimiento de emisiones conforme a lo dispuesto en esta Ley hasta tanto el órgano competente haya resuelto de forma expresa.
 
@@ -768,34 +768,33 @@ Sin perjuicio de lo anterior, en caso de que dicha modificación no sea consider
 
 Cualquier modificación del plan de seguimiento de las emisiones considerada significativa con arreglo a lo establecido en la normativa de la Unión Europea se someterá a la aprobación del órgano autonómico competente. Cuando el órgano autonómico competente considere que una modificación notificada como significativa por el titular de la instalación no tenga tal consideración con arreglo a lo establecido en la normativa de la Unión Europea, informará de dicha circunstancia al titular de la instalación.
 
-
-
 El titular de la instalación deberá dirigir la solicitud de autorización al órgano competente que designe la Comunidad Autónoma en cuyo territorio se ubique la instalación. La solicitud de autorización deberá contener documentación con la siguiente información:
 
-- Identificación y acreditación de ser titular de la instalación a los efectos de lo previsto en esta Ley.
-- Identificación y domicilio de la instalación.
-- Descripción de la instalación para la que se solicita autorización, así como de sus actividades, incluyendo la tecnología utilizada.
-- Las materias primas y auxiliares empleadas cuyo uso pueda producir emisiones de gases incluidos en el anexo I.
-- Las fuentes de emisión de gases enumerados en el anexo I existentes en la instalación.
-- Una propuesta de plan de seguimiento de emisiones que cumpla los requisitos exigidos por la normativa de la Unión Europea y nacional vigentes en cada momento.
+- **Titular**: identificación y acreditación
+- **Instalación**: identificación y domicilio.
+- **Descripción**: instalación, actividades, tecnología utilizada.
+- **Materias primas y auxiliares**: que puedan producir gases regulados (Anexo I)
+- **Fuentes de emisión**
+- **Propuesta de plan de seguimiento de emisiones**
 
-La solicitud se acompañará de un resumen explicativo de las indicaciones especificadas en el párrafo anterior.
+*La solicitud se acompañará de un resumen explicativo de las indicaciones especificadas en el párrafo anterior.*
 
 El titular deberá informar al órgano competente de cualquier proyecto de cambio en el carácter, el funcionamiento, el tamaño de la instalación, o de aquellos que supongan ampliación o reducción significativa de su capacidad, así como de todo cambio que afecte a la identidad o al domicilio del titular. En su caso, a la vista de la información remitida, el órgano autonómico competente modificará de oficio la autorización de emisión de gases de efecto invernadero en el plazo máximo de tres meses.
 
 ##### Artículo 7. Extinción de la autorización.
 
-Las autorizaciones de emisión de gases de efecto invernadero quedarán extinguidas en los supuestos de:
+Las autorizaciones de emisión de gases de efecto invernadero quedarán extinguidas en los siguientes supuestos:
 
-- Cierre de la instalación
-- Falta de puesta en funcionamiento de la instalación transcurridos tres meses desde la fecha de inicio de actividad prevista en la autorización, salvo causa justificada declarada por el órgano competente para otorgar la autorización
-- En los supuestos de sanción (artículo 30.1.a).3.º)
-- Suspensión de la actividad de la instalación durante un plazo superior a un año. Excepcionalmente, el órgano competente podrá demorar la extinción de la autorización hasta que transcurra un plazo máximo de dieciocho meses de suspensión de la actividad, de acuerdo con lo previsto en la normativa reglamentaria de desarrollo de esta ley y en el Derecho de la Unión Europea.
+- **Cierre** de la instalación
+- **Falta de puesta en funcionamiento**: después de 3 meses desde el inicio de la actividad (salvo causa justificada por el órgano competente para otorgarlo)
+- **Sanción** (artículo 30.1.a).3.º)
+- **Suspensión de la actividad**: por un plazo superior a un año. Excepcionalmente, el órgano competente podrá demorar la extinción de la autorización hasta que transcurra un plazo máximo de dieciocho meses de suspensión de la actividad, de acuerdo con lo previsto en la normativa reglamentaria de desarrollo de esta ley y en el Derecho de la Unión Europea.
 
-Las Comunidades Autónomas comunicarán a la Oficina Española de Cambio Climático, como órgano competente en materia de registro (artículo 25.3), las resoluciones de otorgamiento, modificación y extinción de las autorizaciones en el plazo de diez días desde la fecha de la resolución.
-
+Las Comunidades Autónomas comunicarán las resoluciones de otorgamiento, modificación y extinción de las autorizaciones a la Oficina Española de Cambio Climático (órgano competente de registro: artículo 25.3) en el plazo de diez días desde la fecha de la resolución.
 
 #### Derechos de emisión
+
+REVISAR QUE ES CORRECTO
 
 El derecho de emisión se configura como:
 
@@ -803,62 +802,48 @@ El derecho de emisión se configura como:
 
 La titularidad originaria de la totalidad de los derechos de emisión que se otorguen de manera gratuita a instalaciones ubicadas en territorio español y a los operadores aéreos cuya gestión corresponda a España, y la titularidad de los derechos de emisión subastados, corresponden a la Administración General del Estado, que los asignará, enajenará o suprimirá de conformidad con lo establecido en esta ley.
 
-El derecho de emisión tendrá carácter transmisible.
-
-La expedición, titularidad, transferencia, transmisión, entrega y supresión de los derechos de emisión deberá ser objeto de inscripción en el área española del Registro de la Unión Europea.
+La titularidad originaria de todos los derechos de emisión corresponde a la Administración General del Estado (COMPLETAR????). Sin embargo, estos tienen carácter transmisible. Su expedición, titularidad, transferencia, transmisión, entrega y supresión deberá ser objeto de inscripción en el área española del Registro de la Unión Europea.
 
 
 Los derechos de emisión expedidos a partir del 1 de enero de 2013 tendrán validez indefinida. Los expedidos a partir del 1 de enero de 2021 indicarán en qué periodo de comercio se expidieron, y serán válidos para las emisiones desde el primer año de ese periodo en adelante.
 
-Los periodos de comercio tendrán la duración que determine la normativa de la Unión Europea y podrán comprender más de un periodo de asignación.
-
-El periodo de comercio 2021-2030 se divide, en el ámbito de las instalaciones fijas, en dos periodos de asignación, siendo estos los siguientes: 2021-2025 y 2026-2030.
-
-
+Los periodos de comercio tendrán la duración que determine la normativa de la Unión Europea y podrán comprender más de un periodo de asignación. El de 2021-2030 se divide para las instalaciones fijas, en dos periodos de asignación: 2021-2025 y 2026-2030.
 
 #### Asignación de derechos de emisión
 
-La subasta es el método básico de asignación (de conformidad con la normativa de la Unión Europea). El porcentaje de derechos de emisión que se subasten será aquel que determine la Comisión Europea en aplicación de la normativa de la Unión Europea.
+La subasta es el método básico de asignación. El porcentaje de derechos de emisión que se subasten lo determina la Comisión Europea.
 
-Las subastas se desarrollarán con arreglo a la normativa de la Unión Europea y se regirán por los principios de libertad de concurrencia, publicidad, transparencia, no discriminación y eficiencia. En este sentido, el régimen de subastas se ajustará a los siguientes criterios:
+Las subastas se regirán por los principios de libertad de concurrencia, publicidad, transparencia, no discriminación y eficiencia, de acuerdo a los siguientes criterios:
 
-- Se deberá velar por que los titulares y, en particular, cualquier pequeña o mediana empresa incluida en el ámbito de aplicación de esta ley, tengan un acceso pleno, justo y equitativo.
-- Todos los participantes deberán tener acceso a la misma información al mismo tiempo y ningún participante deberá obstaculizar el desarrollo de las subastas.
-- La organización y participación en las subastas deberán ser eficientes desde el punto de vista de los costes y evitar todo coste administrativo innecesario.
-- La subasta garantizará que se conceda a los pequeños emisores el acceso a los derechos de emisión.
+- **Accesibilidad**: plena, justa, equitativa, para cualquier titular (en particular, pequeñas o medianas empresas).
+- **Igualdad**: acceso de todos los participantes a la misma información al mismo tiempo, sin obstaculizaciones
+- **Eficiencia**: de la organización y participación, desde los costes, evitando aquellos administrativos innecesarios
+- **Pequeños emisores**: garantía de concesión de acceso
 
-Corresponde a la Secretaría de Estado de Medio Ambiente velar por que la aplicación y gestión de las subastas de derechos de emisión de gases de efecto invernadero se lleven a cabo de acuerdo con lo que establezca la normativa de la Unión Europea y, en su caso, con la normativa de desarrollo de esta ley.
+Corresponde a la Secretaría de Estado de Medio Ambiente velar por que la aplicación y gestión de las subastas se realicen de acuerdo con la normativa de aplicación. Su titular desempeña la función de subastador.
 
-El titular de la Secretaría de Estado de Medio Ambiente desempeña la función de subastador, de acuerdo con la normativa de la Unión Europea en materia de subastas.
+En caso de cese de la capacidad de generación eléctrica por medidas nacionales adicionales, la Secretaría de Estado de Medio Ambiente podrá cancelar una cantidad máxima de los derechos de emisión a subastar hasta alcanzar el promedio de las emisiones verificadas de la instalación correspondiente en los cinco años anteriores al cese de capacidad, informando a la Comisión Europea de la cancelación prevista.
 
-En caso de cese de la capacidad de generación de electricidad como consecuencia de medidas nacionales adicionales, la Secretaría de Estado de Medio Ambiente podrá cancelar una cantidad máxima de los derechos de emisión a subastar hasta alcanzar el promedio de las emisiones verificadas de la instalación de que se trate en los cinco años anteriores al cese de capacidad. Dicho órgano informará a la Comisión Europea de la cancelación prevista de conformidad con la normativa de la Unión Europea en materia de subastas.
-
-En el plazo de un mes tras la celebración de cada subasta, la Secretaría de Estado de Medio Ambiente publicará un informe sobre el desarrollo de la misma, en particular detallando la aplicación de las normas de subasta, el acceso justo y libre por todos los operadores, la transparencia en su resolución, el cálculo de los precios y los aspectos técnicos y operativos de su celebración.
+La Secretaría de Estado de Medio Ambiente publicará un informe sobre el desarrollo de la subasta (aplicación de las normas, acceso justo y libre de todos los operadores, transparencia en su resolución, cálculo de precios y los aspectos técnicos y operativos de su celebración...) en el plazo de un mes desde su celebración.
 
 #### Sección 2.ª Asignación gratuita transitoria
 
 ##### Artículo 16. Instalaciones susceptibles de recibir asignación gratuita transitoria.
 
- Los sectores expuestos a un riesgo significativo de fuga de carbono serán los que haya determinado la Comisión Europea, de acuerdo con la normativa de la Unión.
+Los sectores expuestos a un riesgo significativo de fuga de carbono (REGLAMENTO PONER) recibirán todos los derechos de emisión de forma gratuita desde el 2021 hasta el 2030.
 
-En 2021 y en cada uno de los años siguientes hasta 2030, las instalaciones de sectores o subsectores expuestos a un riesgo significativo de fuga de carbono recibirán derechos de forma gratuita. El grado de asignación gratuita alcanzará en este caso el cien por cien de la cantidad determinada de acuerdo con las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión.
+Las instalaciones que no pertenezcan a estos sectores o subsectores y sean susceptibles de recibir asignación gratuita, la cantidad de derechos de emisión correspondientes a 2021 asignados de forma gratuita será hasta 2026 el treinta por ciento de la cantidad determinada de acuerdo con las normas de la Unión Europea armonizadas. Después de 2026 y hasta 2030, y a menos que se decida de otro modo en la revisión que se realice en virtud del artículo 30 de la Directiva 2003/87/CE, de 13 de octubre de 2003, ese porcentaje se irá reduciendo cada año en la misma cantidad con la finalidad de llegar en 2030 a una situación en la que no se asigne ningún derecho de emisión de forma gratuita, a excepción de la calefacción urbana, que mantendrá hasta 2030 el porcentaje del treinta por ciento de la cantidad determinada de acuerdo con las normas de la Unión Europea armonizadas.
 
-Para las instalaciones que no pertenezcan a sectores o subsectores expuestos a un riesgo significativo de fugas de carbono y sean susceptibles de recibir asignación gratuita, la cantidad de derechos de emisión correspondientes a 2021 asignados de forma gratuita será hasta 2026 el treinta por ciento de la cantidad determinada de acuerdo con las normas de la Unión Europea armonizadas. Después de 2026 y hasta 2030, y a menos que se decida de otro modo en la revisión que se realice en virtud del artículo 30 de la Directiva 2003/87/CE, de 13 de octubre de 2003, ese porcentaje se irá reduciendo cada año en la misma cantidad con la finalidad de llegar en 2030 a una situación en la que no se asigne ningún derecho de emisión de forma gratuita, a excepción de la calefacción urbana, que mantendrá hasta 2030 el porcentaje del treinta por ciento de la cantidad determinada de acuerdo con las normas de la Unión Europea armonizadas.
-
-Sin perjuicio de lo dispuesto en los párrafos primero y segundo de este apartado, a partir de 2021 no se asignarán derechos de emisión de forma gratuita a los generadores de electricidad, a las instalaciones de captura, a las conducciones para el transporte ni a los emplazamientos de almacenamiento de dióxido de carbono.
+A partir de 2021 no se asignarán derechos de emisión de forma gratuita a los generadores de electricidad, ni a las instalaciones de captura, conducciones de transporte ni emplazamientos de almacenamiento de dióxido de carbono.
 
 No obstante, en el caso de la electricidad producida mediante la combustión de gases residuales cuya emisión en el proceso de producción industrial no pueda ser evitada, reglamentariamente, de conformidad con lo previsto por la normativa de la Unión Europea, y siempre que dicha normativa así lo autorice, se asignarán derechos de emisión de forma gratuita a los titulares de las instalaciones de combustión de los gases residuales o a los titulares de las instalaciones de origen de dichos gases.
 
-Se asignarán derechos de emisión de forma gratuita a la calefacción urbana y a la cogeneración de alta eficiencia (Directiva 2012/27/UE). En cada anualidad, la asignación total a este tipo de instalaciones para la producción de calor se adaptará de acuerdo con las normas de la Unión Europea.
+Se asignarán derechos de emisión de forma gratuita a la calefacción urbana y a la cogeneración de alta eficiencia (Directiva 2012/27/UE), ajustando anualmente la asignación total de acuerdo a normativa de la Unión.
 
-De acuerdo con lo establecido en la normativa de la Unión Europea, no se asignará ningún derecho de forma gratuita a una instalación que haya cesado de funcionar, a menos que el titular de la instalación demuestre a la autoridad competente que dicha instalación reanudará la producción en un plazo especificado y razonable.
+No se asignará ningún derecho de forma gratuita a una instalación que haya cesado de funcionar, (a menos que el titular de la instalación demuestre a la autoridad competente que dicha instalación reanudará la producción en un plazo especificado y razonable).
 
 
-La metodología de asignación gratuita transitoria se regirá por las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión, así como por la normativa de desarrollo de esta ley que pudiera establecerse.
-
-Una cantidad de derechos de emisión será reservada como asignación gratuita para los nuevos entrantes en el periodo 2021-2030, de conformidad con lo establecido en la normativa de la Unión Europea. Esta reserva de nuevos entrantes es común y única para toda la Unión y se regirá por la normativa de esta.
-
-No se asignará ningún derecho de forma gratuita a ningún tipo de producción de electricidad por los nuevos entrantes.
+Una cantidad de derechos de emisión será reservada como asignación gratuita para los nuevos entrantes en el periodo 2021-2030 (esta reserva es común y única para toda la Unión). Se excluye de esto la producción de electricidad.
 
 ##### Artículo 19. Asignación gratuita individualizada de derechos de emisión.
 
@@ -901,27 +886,25 @@ Las resoluciones sobre la asignación individualizada de derechos de emisión se
 y acreditación de los verificadores
 ##### Artículo 21 bis. Seguimiento de las emisiones y de los niveles de actividad de las instalaciones fijas.
 
-A partir del 1 de enero de 2021 el seguimiento de las emisiones se realizará con base en el plan de seguimiento de emisiones incluido en la autorización de emisión de gases de efecto invernadero aprobado por el órgano autonómico competente, de conformidad con la normativa de la Unión Europea.
+A partir del 2021 el seguimiento de las emisiones se realizará con base en el plan de seguimiento de emisiones incluido en la autorización de emisión de gases de efecto invernadero aprobado por el órgano autonómico competente.
 
-Las instalaciones que hayan solicitado asignación gratuita de derechos de emisión realizarán el seguimiento de los niveles de actividad de las subinstalaciones en las que esté dividida cada instalación con base en el plan metodológico de seguimiento aprobado por la Oficina Española de Cambio Climático, de conformidad con la normativa de la Unión Europea y la normativa de desarrollo de esta ley.
+Las instalaciones que hayan solicitado asignación gratuita de derechos de emisión realizarán el seguimiento de los niveles de actividad de las subinstalaciones en las que esté dividida cada instalación con base en el plan metodológico de seguimiento aprobado por la Oficina Española de Cambio Climático.
 
-Reglamentariamente se determinarán los aspectos relacionados con el plan metodológico de seguimiento y sus modificaciones, de conformidad con la normativa de la Unión Europea de aplicación.
+Reglamentariamente se determinarán los aspectos relacionados con el plan metodológico de seguimiento y sus modificaciones.
 
 ##### Artículo 22. Notificación de información.
 
-El titular de la instalación deberá remitir al órgano autonómico competente, antes del 28 de febrero de cada año, el informe verificado sobre las emisiones del año precedente, que se ajustará a lo exigido en la autorización, (artículo 4.2.e) y en la parte A del anexo III).
+El titular de la instalación deberá remitir al órgano autonómico competente, antes del 28 de febrero de cada año, el informe verificado sobre las emisiones del año precedente (que se ajustará a lo exigido en la autorización: artículo 4.2.e) y parte A del anexo III.
 
 El titular de la instalación que tenga otorgada asignación gratuita de derechos de emisión deberá remitir a la Oficina Española de Cambio Climático, antes del 28 de febrero de cada año, un informe de nivel de actividad verificado de las subinstalaciones en las que esté dividida su instalación, en los términos establecidos en la normativa de la Unión Europea y en la normativa de desarrollo de esta ley.
 
-El contenido mínimo de los informes referidos en los apartados 1 y 2 se ajustará a lo establecido en la normativa de la Unión Europea y en la que se dicte en desarrollo de esta ley.
-
-Estos informes deberán ser verificados de conformidad con lo dispuesto en la parte A del anexo IV y la normativa de la Unión Europea sobre verificación y acreditación, y, en su caso, con arreglo a la normativa de desarrollo de esta ley. Dicha normativa será informada preceptivamente por la Comisión de Coordinación de Políticas de Cambio Climático.
+Estos informes deberán ser verificados (parte A del anexo IV...). La normativa de aplicación (de la Unión, de desarrollo...) será informada preceptivamente por la Comisión de Coordinación de Políticas de Cambio Climático.
 
 La normativa de desarrollo podrá prever requisitos para que los titulares de instalaciones notifiquen las emisiones asociadas a la fabricación de productos por industrias grandes consumidoras de energía que puedan estar sujetas a la competencia internacional y para que la información relativa a sus emisiones sea verificada de forma independiente. Esos requisitos pueden referirse a la notificación de los niveles de emisión por la generación de electricidad incluida en el régimen de la Unión Europea asociada a la fabricación de esos productos.
 
 La normativa de desarrollo en materia de seguimiento y notificación podrá incluir requisitos sobre el uso de sistemas automatizados y formatos de intercambio de datos para armonizar la comunicación para las instalaciones fijas.
 
-La información cubierta por el secreto profesional no podrá divulgarse a ninguna otra persona o autoridad excepto en virtud de las disposiciones legales, reglamentarias o administrativas aplicables.
+La información cubierta por el secreto profesional no podrá divulgarse (salvo por disposiciones aplicables).
 
 ##### Artículo 23. Valoración del informe verificado sobre las emisiones del año precedente.
 
@@ -939,9 +922,14 @@ La Comisión de Coordinación de Políticas de Cambio Climático podrá solicita
 
 ##### Artículo 24. Verificación de datos.
 
-El informe anual sobre los datos de emisiones, el informe sobre los datos de referencia para solicitar asignación gratuita, el informe sobre los datos de nuevo entrante y el informe de nivel de actividad deberán ser verificados de conformidad con la normativa de la Unión Europea que desarrolla los artículos 14 y 15 de la Directiva 2003/87/CE, de 13 de octubre de 2003.
+Los siguientes informes deberán ser verificados: 
 
-Los verificadores que desarrollen las actividades de verificación del artículo 24 deberán estar acreditados de conformidad con los requisitos establecidos en la normativa de la Unión Europea y, en particular, el Reglamento de Ejecución (UE) 2018/2067 de la Comisión de 19 de diciembre de 2018 relativo a la verificación de los datos y a la acreditación de los verificadores de conformidad con la Directiva 2003/87/CE del Parlamento Europeo y del Consejo.
+- Datos de emisiones (anual)
+- Datos de referencia para solicitar asignación gratuita
+- Datos de nuevo entrante
+- Nivel de actividad
+
+Los verificadores (artículo 24) deberán estar acreditados (Reglamento de Ejecución 2018/2067...).
 
 
 #### Verificación de datos 
@@ -956,13 +944,12 @@ Criterios de la verificación
 
 #### Principios generales
 
-Las emisiones de cada actividad enumerada en el anexo I estarán sujetas a verificación.
+Las emisiones de cada actividad (Anexo I) estarán sujetas a verificación. El proceso incluirá el examen del informe (artículo 22) y del seguimiento del año anterior. Estudiará la fiabilidad, crédito y exactitud de los sistemas de seguimiento y de los datos e información notificados relativos a las emisiones, en especial:
 
-El proceso de verificación incluirá el examen del informe elaborado de conformidad con el artículo 22 y del seguimiento del año anterior. Estudiará la fiabilidad, crédito y exactitud de los sistemas de seguimiento y de los datos e información notificados relativos a las emisiones, en especial:
-- Datos de la actividad notificados y las mediciones y cálculos relacionados.
-- Factores de emisión: elección y uso.
-- Cálculos en que se haya basado la determinación de las emisiones globales.
-- Si se ha recurrido a la medición, la conveniencia de esta opción y el uso de métodos de medición.
+- **Datos generales**: de la actividad notificados y las mediciones y cálculos relacionados.
+- **Factores de emisión**: elección y uso.
+- **Cálculos de emisiones globales**
+- **Información sobre medición** (en caso de haberse recurrido): conveniencia, método...
 
 Las emisiones notificadas sólo se validarán si se aportan datos e información fidedignos y dignos de crédito que permitan la determinación de las emisiones con un alto grado de certeza, para lo cual el titular tendrá que demostrar lo siguiente:
 
@@ -970,9 +957,7 @@ Las emisiones notificadas sólo se validarán si se aportan datos e información
 - Que la recogida de los datos se ha llevado a cabo de conformidad con las normas científicas aplicables.
 - Que la documentación pertinente de la instalación es completa y coherente.
 
-El verificador disfrutará de libre acceso a todos los emplazamientos y toda la información en relación con el objeto de la verificación.
-
-El verificador tendrá en cuenta si la instalación está registrada en el sistema comunitario de gestión y auditoría medioambientales (EMAS).
+El verificador disfrutará de libre acceso a todos los emplazamientos y toda la información en relación con el objeto de la verificación, y considerará si la instalación aparece registrada en el sistema comunitario de gestión y auditoría medioambientales (EMAS).
 
 #### Metodología
 
@@ -1002,27 +987,25 @@ El verificador será independiente del titular, llevará a cabo sus actividades 
 
 #### Exclusión de las instalaciones de pequeño tamaño
 
-El órgano autonómico competente podrá acordar (previo informe favorable del Ministerio para la Transición Ecológica y el Reto Demográfico), la exclusión, a partir del 1 de enero de 2021 y hasta el 31 de diciembre de 2025, de las instalaciones ubicadas en el territorio de su comunidad autónoma que tengan la consideración de pequeños emisores o sean hospitales, cuando los respectivos titulares de las instalaciones lo hayan solicitado y hayan acreditado el cumplimiento de los requisitos que se establecen en este apartado. A los efectos de lo dispuesto en esta disposición adicional serán pequeños emisores las instalaciones que hayan notificado a la autoridad competente emisiones inferiores a 25.000 toneladas equivalentes de dióxido de carbono, excluidas las emisiones de la biomasa, para cada uno de los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19, y que, cuando realicen actividades de combustión, tengan una potencia térmica nominal inferior a 35 MW.
+El órgano autonómico competente podrá acordar (previo informe favorable del Ministerio de Medio Ambiente), la exclusión del 2021-2025 de las instalaciones ubicadas en el territorio de su Comunidad Autónoma que tengan la consideración de pequeños emisores o sean hospitales, cuando los respectivos titulares de las instalaciones lo hayan solicitado y hayan acreditado el cumplimiento de los requisitos que se establecen en este apartado.
 
-Reglamentariamente se establecerá el plazo de presentación de las solicitudes de exclusión y cualquier otro aspecto que se considere pertinente, de acuerdo con la normativa de la Unión Europea.
+Se consideran pequeños emisores los siguientes: 
 
-La solicitud de exclusión deberá presentarse al órgano competente que designe la comunidad autónoma. Vendrá acompañada de documentación justificativa que acredite el cumplimiento de las siguientes condiciones:
+>Las instalaciones que hayan notificado a la autoridad competente emisiones inferiores a 25.000 toneladas equivalentes de dióxido de carbono (excluidas las emisiones de la biomasa) para cada uno de los tres años precedentes a la solicitud de asignación (artículo 19), y que, cuando realicen actividades de combustión, tengan una potencia térmica nominal inferior a 35 MW.
 
-- a) Que se aplicarán medidas de mitigación que conduzcan a una contribución a la reducción de emisiones equivalente a la prevista por la participación en el régimen de comercio de derechos de emisión.
+*Reglamentariamente se establecerá el plazo de presentación de las solicitudes de exclusión y cualquier otro aspecto que se considere pertinente.*
 
-	El Gobierno determinará mediante real decreto qué medidas de mitigación se consideran equivalentes a los efectos del párrafo anterior.
+La solicitud de exclusión deberá presentarse al órgano competente que designe la Comunidad Autónoma. Vendrá acompañada de documentación justificativa que acredite el cumplimiento de las siguientes condiciones:
 
-- b) Que se implantará un sistema de seguimiento y notificación de información sobre emisiones equivalentes a las previstas en esta ley.
+- **Medidas de mitigación**: que conduzcan a reducción de emisiones equivalente a la prevista por la participación en el régimen de comercio de derechos de emisión (el Gobierno determinará por Real Decreto cuáles es consideran equivalentes).
 
-A este respecto, el órgano autonómico competente podrá autorizar medidas simplificadas de seguimiento, notificación y verificación para las instalaciones cuyas emisiones medias anuales verificadas entre 2008 y 2012 sean inferiores a 5.000 toneladas anuales.
+- **Sistema de seguimiento y notificación**: de información sobre emisiones equivalentes.
 
-Asimismo, podrá autorizar a las instalaciones no incluidas en el régimen de la Unión Europea durante el periodo de aplicación de la exclusión requisitos simplificados para el seguimiento, la notificación y la verificación a fin de determinar las emisiones en los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19.
+*El órgano autonómico competente podrá autorizar medidas simplificadas de seguimiento, notificación y verificación para las instalaciones cuyas emisiones medias anuales verificadas entre 2008-2012 fueron inferiores a 5.000 toneladas anuales. Asimismo, podrá autorizar a las instalaciones no incluidas en el régimen de la Unión Europea durante el periodo de aplicación de la exclusión requisitos simplificados para determinar las emisiones en los tres años precedentes a la solicitud de asignación (artículo 19).
 
-El órgano competente, previo trámite de información pública no inferior a tres meses, remitirá el expediente completo al Ministerio para la Transición Ecológica y el Reto Demográfico, a más tardar dieciséis meses antes del comienzo del periodo de comercio de que se trate, para su tramitación a la Comisión Europea a efectos de lo dispuesto por el artículo 27 de la Directiva 2003/87/CE, de 13 de octubre de 2003.
+El órgano competente (previo trámite de información pública no inferior a tres meses) remitirá el expediente completo al Ministerio de Medio Ambiente (a más tardar 16 meses antes del comienzo del periodo de comercio en cuestión), para su tramitación a la Comisión Europea (artículo 27 de la Directiva 2003/87/CE) (si la Comisión no formula objeciones en un plazo de 6 meses, se considerará adoptada).
 
-Si en un plazo de seis meses desde la notificación a la Comisión Europea, esta no formula objeciones la exclusión se considerará adoptada.
-
-Las instalaciones excluidas quedarán sometidas al régimen de infracciones y sanciones previsto en el capítulo VIII, en cuanto afecte al cumplimiento de las obligaciones de seguimiento y suministro de la información sobre emisiones.
+Las instalaciones excluidas quedarán sometidas al régimen de infracciones y sanciones(capítulo VIII) en cuanto afecte al cumplimiento de las obligaciones de seguimiento y suministro de la información sobre emisiones.
 
 Lo establecido en esta disposición adicional no exime a los titulares de las instalaciones del cumplimiento de las obligaciones establecidas en esta ley hasta que se formalice la exclusión una vez obtenido la conformidad de la Comisión Europea.
 
@@ -1032,6 +1015,6 @@ Si una instalación excluida, cuando no se trate de un hospital, emitiera 25.000
 
 Las instalaciones que se reintroduzcan en el régimen de comercio de derechos de emisión permanecerán en el mismo hasta la finalización del periodo de asignación en curso. De conformidad con las normas de la Unión Europea de carácter transitorio para la armonización de la asignación gratuita de derechos de emisión, la instalación podrá solicitar asignación. Todos los derechos que se le expidan se concederán a partir del año de la reintroducción. Los derechos expedidos a estas instalaciones se deducirán de la cantidad que vaya a ser subastada.
 
-El Gobierno podrá excluir del régimen de comercio de derechos de emisión las instalaciones que emitan menos de 2.500 toneladas equivalentes de dióxido de carbono, sin contabilizar las emisiones de la biomasa, para cada uno de los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19, de acuerdo con lo que se establezca en desarrollo de la misma.
+El Gobierno podrá excluir del régimen de comercio de derechos de emisión las instalaciones que emitan menos de 2.500 toneladas equivalentes de dióxido de carbono (sin contabilizar las emisiones de la biomasa) para cada uno de los tres años precedentes a la solicitud de asignación (artículo 19).
 
- En el año 2023, el Ministerio para la Transición Ecológica y el Reto Demográfico realizará un informe sobre la aplicación hasta la fecha del régimen de exclusión de las instalaciones de bajas emisiones. A la vista de los resultados de este informe, el Gobierno, reglamentariamente, podrá extender la aplicación del régimen de exclusión a partir de 2026.
+ En el año 2023, el Ministerio realizará un informe sobre la aplicación hasta la fecha del régimen de exclusión de las instalaciones de bajas emisiones. En base a éste, el Gobierno, reglamentariamente, podrá extender la aplicación del régimen de exclusión a partir de 2026.
