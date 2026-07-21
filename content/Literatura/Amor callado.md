@@ -39,7 +39,7 @@ Y al llegar el final se sonreía.
 
 ### Paz
 
-No tienes que hacer ni decir nada. Es tu forma de ser lo que me reconcilia.
+No tienes que hacer ni decir nada: es tu forma de ser lo que me reconcilia.
 
 
 ### Lumen
