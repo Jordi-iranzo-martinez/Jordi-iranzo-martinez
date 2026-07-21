@@ -110,6 +110,6 @@ Pero no puede quitarse lo bailado. Aun con lo incómodo, de lejos, y a destiempo
 
 Solo escuchar la música es ya un pequeño milagro.
 
-Y también se puede bailar en solitario.
+Y se puede bailar en solitario.
 
 **FIN**
