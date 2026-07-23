@@ -22,14 +22,12 @@ El [Tratado de la Unión Europea](https://eur-lex.europa.eu/legal-content/ES/TXT
 
 #### Disposiciones comunes
 
-Las Partes constituyen una Unión Europea (que sucede a la Comunidad Europea) a quien atribuyen competencias para la consecución de objetivos comunes. 
+Las Partes constituyen una Unión Europea (sucesora de la Comunidad Europea), a quien atribuyen competencias para la consecución de objetivos comunes, en un proceso de cooperación de los pueblos de Europa, en el que las decisiones se tomarán de forma más abierta y próxima a los ciudadanos. La Unión se basa en el Tratado de la Unión y en el Tratado de Funcionamiento de la Unión.
 
-La Unión se basa en este tratado y en el de Funcionamiento. Este constituye una nueva etapa en el proceso creador de una unión cada vez más estrecha entre los pueblos de Europa, en la cual las decisiones serán tomadas de la forma más abierta y próxima a los ciudadanos que sea posible.
+| Valores                                                                                                                                                          | Finalidades                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| - Respeto de la dignidad humana<br>- Libertad<br>- Democracia<br>- Igualdad<br>- Estado de Derecho<br>- Respeto de los derechos humanos (incluidas las minorías) | - Paz<br>- Valores<br>- Bienestar de sus pueblos |
 
-|             |                                                                                                                                                                  |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Valores     | - Respeto de la dignidad humana<br>- Libertad<br>- Democracia<br>- Igualdad<br>- Estado de Derecho<br>- Respeto de los derechos humanos (incluidas las minorías) |
-| Finalidades | - Paz<br>- Valores<br>- Bienestar de sus pueblos                                                                                                                 |
 *Los valores son comunes a los Estados miembros en una sociedad caracterizada por el pluralismo, la no discriminación, la tolerancia, la justicia, la solidaridad y la igualdad entre mujeres y hombres*
 
 Los objetivos incluyen los siguientes: 
@@ -65,43 +63,38 @@ La Unión respetará la igualdad de los Estados miembros ante los Tratados, así
 
 Conforme al principio de cooperación leal, la Unión y los Estados miembros se respetarán y asistirán mutuamente en el cumplimiento de las misiones derivadas de los Tratados.
 
-Los Estados miembros adoptarán todas las medidas generales o particulares apropiadas para asegurar el cumplimiento de las obligaciones derivadas de los Tratados o resultantes de los actos de las instituciones de la Unión.
+Los Estados miembros adoptarán todas las medidas apropiadas (generales o particulares) para asegurar el cumplimiento de las obligaciones derivadas de los Tratados o resultantes de los actos de las instituciones de la Unión.
 
-Los Estados miembros ayudarán a la Unión en el cumplimiento de su misión y se abstendrán de toda medida que pueda poner en peligro la consecución de los objetivos de la Unión.
+Los Estados miembros ayudarán a la Unión en el cumplimiento de su misión y se abstendrán de toda medida que pueda poner en peligro la consecución de sus objetivos.
 
 
 La delimitación de las competencias de la Unión se rige por el principio de atribución, y su ejercicio por los de subsidiariedad y proporcionalidad.
 
-- **Atribución**: la Unión actúa dentro de los límites de las competencias que le atribuyen los Estados miembros en los Tratados para lograr los objetivos que éstos determinan (toda competencia no atribuida de esa forma corresponde a los Estados miembros)
+- **Atribución**: la Unión actúa dentro de los límites de las competencias que le atribuyen los Estados a través de los Tratados (todas aquellas no atribuidas corresponden a los Estados)
 
-- **Subsidiariedad**: en los ámbitos que no sean de su competencia exclusiva, la Unión intervendrá sólo en caso de que, y en la medida en que, los objetivos de la acción pretendida no puedan ser alcanzados de manera suficiente por los Estados miembros, ni a nivel central ni a nivel regional y local, sino que puedan alcanzarse mejor, debido a la dimensión o a los efectos de la acción pretendida, a escala de la Unión.
-
-	Las instituciones de la Unión aplicarán el principio de subsidiariedad de conformidad con el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad. Los Parlamentos nacionales velarán por el respeto del principio de subsidiariedad con arreglo al procedimiento establecido en el mencionado Protocolo.
+- **Subsidiariedad**: en los ámbitos que no sean de su competencia exclusiva, la Unión intervendrá únicamente en caso de que los objetivos no puedan ser alcanzados por los Estados miembros (escala central, regional, local), y que por sus dimensiones o efectos sea preferible una aproximación a escala de la Unión.
 
 - **Proporcionalidad**: el contenido y la forma de la acción de la Unión no excederán de lo necesario para alcanzar los objetivos de los Tratados.
 
-	Las instituciones de la Unión aplicarán el principio de proporcionalidad de conformidad con el Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad.
+*Las instituciones de la Unión actuarán de acuerdo al Protocolo sobre la aplicación de los principios de subsidiariedad y proporcionalidad. Los Parlamentos nacionales velarán por el respeto en la aplicación de la subsidiariedad*
 
 
-La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea (2000, revisada en el 2007), , la cual tendrá el mismo valor jurídico que los Tratados. Sus disposiciones no ampliarán sin embargo las competencias de la Unión.
+La Unión reconoce los derechos, libertades y principios enunciados en la Carta de los Derechos Fundamentales de la Unión Europea (2000, revisada en el 2007), la cual tendrá el mismo valor jurídico que los Tratados. *Sus disposiciones no ampliarán sin embargo las competencias de la Unión.*
 
 Los derechos, libertades y principios enunciados en la Carta se interpretarán con arreglo a las disposiciones generales del título VII de la Carta por las que se rige su interpretación y aplicación y teniendo debidamente en cuenta las explicaciones a que se hace referencia en la Carta, que indican las fuentes de dichas disposiciones.
 
-La Unión se adherirá al Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales (tampoco modificará sus competencias).
+La Unión se adherirá al Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales (1950) (que tampoco modificará sus competencias).
 
 Los derechos fundamentales del Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales y los que son fruto de las tradiciones constitucionales comunes a los Estados miembros formarán parte del Derecho de la Unión como principios generales.
 
-Artículo 7
 
-(antiguo artículo 7 TUE)
-
-A propuesta motivada de un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión, el Consejo, por mayoría de cuatro quintos de sus miembros y previa aprobación del Parlamento Europeo, podrá constatar la existencia de un riesgo claro de violación grave por parte de un Estado miembro de los valores contemplados en el artículo 2. Antes de proceder a esta constatación, el Consejo oirá al Estado miembro de que se trate y por el mismo procedimiento podrá dirigirle recomendaciones.
+A propuesta motivada de un tercio de los Estados miembros, del Parlamento Europeo o de la Comisión, el Consejo, por mayoría de cuatro quintos de sus miembros y previa aprobación del Parlamento Europeo, podrá constatar la existencia de un riesgo claro de violación grave por parte de un Estado miembro de los valores de la Unión (previa audiencia al Estado e cuestión), y podrá dirigirle recomendaciones.
 
 El Consejo comprobará de manera periódica si los motivos que han llevado a tal constatación siguen siendo válidos.
 
-El Consejo Europeo, por unanimidad y a propuesta de un tercio de los Estados miembros o de la Comisión y previa aprobación del Parlamento Europeo, podrá constatar la existencia de una violación grave y persistente por parte de un Estado miembro de los valores contemplados en el artículo 2 tras invitar al Estado miembro de que se trate a que presente sus observaciones.
+El Consejo Europeo, por unanimidad (a propuesta de un tercio de los Estados miembros o de la Comisión y previa aprobación del Parlamento Europeo) podrá constatar la existencia de una violación grave y persistente por parte de un Estado miembro de los valores de la Unión tras invitar al Estado miembro de que se trate a que presente sus observaciones.
 
-Cuando se haya efectuado la constatación contemplada en el apartado 2, el Consejo podrá decidir, por mayoría cualificada, que se suspendan determinados derechos derivados de la aplicación de los Tratados al Estado miembro de que se trate, incluidos los derechos de voto del representante del Gobierno de dicho Estado miembro en el Consejo. Al proceder a dicha suspensión, el Consejo tendrá en cuenta las posibles consecuencias de la misma para los derechos y obligaciones de las personas físicas y jurídicas.
+Cuando se haya efectuado la constatación contemplada en el apartado 2, el Consejo podrá decidir, por mayoría cualificada, que se suspendan determinados derechos derivados de la aplicación de los Tratados al Estado miembro de que se trate (incluidos los de voto del representante del Gobierno de dicho Estado en el Consejo). Al proceder a dicha suspensión, el Consejo tendrá en cuenta las posibles consecuencias de la misma para los derechos y obligaciones de las personas físicas y jurídicas.
 
 Las obligaciones del Estado miembro de que se trate derivadas de los Tratados continuarán, en cualquier caso, siendo vinculantes para dicho Estado.
 
@@ -157,22 +150,13 @@ Un acto legislativo podrá delegar en la Comisión los poderes para adoptar acto
 
 Los actos legislativos fijarán de forma expresa las condiciones de la delegación, que podrán ser las siguientes: 
 
+- **Revocaciones**: por el Parlamento Europeo o el Consejo
+- **Objeciones**: no entrará en vigor si el Parlamento 
 
-
-|   |   |
-|---|---|
- 
-|a)|el Parlamento Europeo o el Consejo podrán decidir revocar la delegación;|
-
-|   |   |
-|---|---|
- 
-|b)|el acto delegado no podrá entrar en vigor si el Parlamento Europeo o el Consejo han formulado objeciones en el plazo fijado en el acto legislativo.|
-
-A efectos de las letras a) y b), el Parlamento Europeo se pronunciará por mayoría de los miembros que lo componen y el Consejo lo hará por mayoría cualificada.
+*En ambos casos, el Parlamento lo realiza por mayoría absoluta y el Consejo por cualificada.*
 
 En el título de los actos delegados figurará el adjetivo «delegado» o «delegada».
 
 Los Estados miembros adoptarán las medidas de ejecución de los actos jurídicamente vinculantes de la Unión. Cuando se requieran condiciones uniformes conferirán competencias a la Comisión (de manera general), o al Consejo (en casos específicos justificados, y en aquellos previstos en los artículos 24 y 26 del Tratado de la Unión Europea). El Parlamento Europeo y el Consejo establecerán previamente los mecanismos de control (por Reglamento).
 
-Las recomendaciones se realizan por de manera general por el Consejo (a propuesta de la Comisión o por unanimidad, de acuerdo a normativa), y en casos concretos por la Comisión, y el Banco Central Europeo.
+Las recomendaciones se realizan de manera general por el Consejo (a propuesta de la Comisión o por unanimidad, de acuerdo a normativa), y en casos concretos por la Comisión, y el Banco Central Europeo.

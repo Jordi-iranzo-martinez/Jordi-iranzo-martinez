@@ -450,7 +450,7 @@ La sede electrónica del registro de cada Administración Pública u Organismo, 
 
 ##### Artículo 32. Ampliación.
 
-La Administración podrá conceder (de oficio o a petición de los interesados) una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero. El acuerdo de ampliación deberá ser notificado a los interesados.
+La Administración podrá conceder (de oficio o a petición de los interesados) una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y no se perjudica derechos de terceros. El acuerdo de ampliación deberá ser notificado a los interesados.
 
 La ampliación de los plazos por el tiempo máximo permitido se aplicará en todo caso a los procedimientos tramitados por las misiones diplomáticas y oficinas consulares, así como a aquellos que, sustanciándose en el interior, exijan cumplimentar algún trámite en el extranjero o en los que intervengan interesados residentes fuera de España.
 
@@ -460,30 +460,28 @@ Cuando una incidencia técnica haya imposibilitado el funcionamiento ordinario d
 
 *Cuando como consecuencia de un ciberincidente se hayan visto gravemente afectados los servicios y sistemas utilizados para la tramitación de los procedimientos y el ejercicio de los derechos de los interesados que prevé la normativa vigente, la Administración podrá acordar la ampliación general de plazos de los procedimientos administrativos.*
 
-##### Artículo 33. Tramitación de urgencia.
 
-Cuando razones de interés público lo aconsejen, se podrá acordar (de oficio o a petición de la persona interesada) la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario (salvo los relativos a la presentación de solicitudes y recursos).
-
-No cabrá recurso alguno contra el acuerdo que declare la aplicación de la tramitación de urgencia al procedimiento, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.
+Cuando razones de interés público lo aconsejen, se podrá acordar (de oficio o a petición de la persona interesada) la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario (salvo los relativos a la presentación de solicitudes y recursos). No cabrá recurso contra el acuerdo que declare la aplicación (sin perjuicio del procedente contra la resolución que ponga fin al procedimiento).
 
 
 #### Actos administrativos
 
-Los actos administrativos que dicten las Administraciones Públicas (de oficio o a instancia del interesado), se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido, y su contenido de acuerdo al ordenamiento jurídico, determinado y adecuado a sus fines.
+Los actos administrativos que dicten las Administraciones Públicas (de oficio o a instancia del interesado), se producirán por el órgano competente, ajustándose a los requisitos y al procedimiento, y su contenido de acuerdo al ordenamiento jurídico, determinado y adecuado a sus fines.
 
-Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (artículo 35):
+Serán motivados, con sucinta referencia de hechos y fundamentos de derecho (artículo 35), los siguientes:
 
 - **Limitaciones**: derechos subjetivos o intereses legítimos.
-- Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión.
-- Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.
-- Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales (artículo 56).
+- **Resoluciones genéricas**: procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión.
+- **Divergencia**: del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.
+- **Suspensión y medidas provisionales** (artículo 56).
 - Los acuerdos de aplicación de la tramitación de urgencia, de ampliación de plazos y de realización de actuaciones complementarias.
 - **Rechazo de pruebas**: propuestas por los interesados.
-- Los actos que acuerden la terminación del procedimiento por la imposibilidad material de continuarlo por causas sobrevenidas, así como los que acuerden el desistimiento por la Administración en procedimientos iniciados de oficio.
-- Las propuestas de resolución en los procedimientos de carácter sancionador, así como los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial.
-- Los actos que se dicten en el ejercicio de potestades discrecionales, así como los que deban serlo en virtud de disposición legal o reglamentaria expresa.
+- **Finalización excepcional**: acuerdos de la Administración por imposibilidad material sobrevenida, y desistimiento en procedimientos iniciados de oficio.
+- **Resoluciones especiales**: procedimientos de carácter sancionador o de responsabilidad patrimonial (incluidas las propuestas de resolución de las primeras).
+- **Resoluciones especiales**: de carácter sancionador, así como los actos que resuelvan procedimientos de carácter sancionador o de responsabilidad patrimonial.
+- **Otras**: en el ejercicio de potestades discrecionales, y en virtud de disposición legal o reglamentaria expresa.
 
-La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias, debiendo, en todo caso, quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte.
+La motivación de los actos que pongan fin a los procedimientos selectivos y de concurrencia competitiva se realizará de conformidad con lo que dispongan las normas que regulen sus convocatorias (debiendo quedar acreditados en el procedimiento los fundamentos de la resolución que se adopte)
 
 Los actos administrativos se producirán por escrito a través de medios electrónicos (a menos que su naturaleza exija otra forma más adecuada de expresión y constancia).
 
@@ -502,7 +500,7 @@ La eficacia quedará demorada cuando así lo exija el contenido del acto o esté
 
 Las normas y actos dictados por los órganos de las Administraciones Públicas en el ejercicio de su propia competencia deberán ser observadas por el resto de los órganos administrativos, aunque no dependan jerárquicamente entre sí o pertenezcan a otra Administración.
 
-Cuando una Administración Pública tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y aquélla entienda que es ilegal, podrá requerir a ésta previamente para que anule o revise el acto de acuerdo con lo dispuesto en el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso- Administrativa, y, de rechazar el requerimiento, podrá interponer recurso contencioso-administrativo. En estos casos, quedará suspendido el procedimiento para dictar resolución.
+Cuando una Administración Pública tenga que dictar, en el ámbito de sus competencias, un acto que necesariamente tenga por base otro dictado por una Administración Pública distinta y aquélla entienda que es ilegal, podrá requerir a ésta previamente para que anule o revise el acto (artículo 44 de la Ley 29/1998), y, de rechazar el requerimiento, podrá interponer recurso contencioso-administrativo. En estos casos, quedará suspendido el procedimiento para dictar resolución.
 
 
 El órgano que dicte las resoluciones y actos administrativos los notificará a los interesados cuyos derechos e intereses sean afectados por aquéllos en el plazo de diez días a partir de la fecha en que el acto haya sido dictado. Deberá contener lo siguiente:
@@ -536,13 +534,14 @@ Adicionalmente, el interesado podrá identificar un dispositivo electrónico y/o
 En ningún caso se efectuarán por medios electrónicos las siguientes notificaciones:
 
 - **Elementos no digitalizables**: a) Aquellas en las que el acto a notificar vaya acompañado de elementos que no sean susceptibles de conversión en formato electrónico.
+
 - **Medios de pago**: cheques...
 
 En los procedimientos iniciados a solicitud del interesado, la notificación se practicará por el medio señalado al efecto por aquel. Esta notificación será electrónica en los casos en los que exista obligación de relacionarse de esta forma con la Administración.
 
 Cuando no fuera posible realizar la notificación de acuerdo con lo señalado en la solicitud, se practicará en cualquier lugar adecuado a tal fin, y por cualquier medio que permita tener constancia de la recepción por el interesado o su representante, así como de la fecha, la identidad y el contenido del acto notificado.
 
-En los procedimientos iniciados de oficio, a los solos efectos de su iniciación, las Administraciones Públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales en aplicación de lo previsto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+En los procedimientos iniciados de oficio las Administraciones Públicas podrán recabar los datos sobre el domicilio del interesado recogidos en el Padrón Municipal (Ley 7/1985) mediante consulta a las bases de datos del Instituto Nacional de Estadística.
 
 Cuando el interesado o su representante rechace la notificación de una actuación administrativa, se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento.
 
@@ -582,6 +581,7 @@ Los interesados podrán acceder a las notificaciones desde el Punto de Acceso Ge
 Los actos administrativos serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente. En todo caso, los actos administrativos serán objeto de publicación, surtiendo ésta los efectos de la notificación, en los siguientes casos:
 
 - **Pluralidad indeterminada de personas** Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos, siendo, en este último caso, adicional a la individualmente realizada.
+
 - **Procedimiento selectivo o concurrencia competitiva**: de cualquier tipo. En este caso, la convocatoria del procedimiento deberá indicar el medio donde se efectuarán las sucesivas publicaciones, careciendo de validez las que se lleven a cabo en lugares distintos.
 
 La publicación de un acto deberá contener los mismos elementos que las notificaciones (artículo 40.2). Será también aplicable a la publicación (artículo 40.3).
@@ -600,12 +600,12 @@ Adicionalmente y de manera facultativa, las Administraciones podrán establecer 
 
 Los actos de las Administraciones Públicas son nulos de pleno derecho en los casos siguientes:
 
-- Contrarios a derechos y libertades constitucionales
+- **Inconstitucionales**: contrarios a derechos y libertades
 - **Órgano incompetente**: por razón de la materia o del territorio.
 - **Contenido imposible**.
 - **Infracción penal**: constitutivos o dictados por consecuencia de ésta.
-- e) Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.
-- f) Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.
+- **Improcedentes**: prescinción total y absoluta del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.
+- **Ilegales**: f) Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.
 - **Otros** (expresos en una disposición con rango de Ley)
 
 También serán nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
@@ -619,7 +619,7 @@ La realización de actuaciones administrativas fuera del tiempo establecido para
 
 La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero, ni de las partes que le sean independientes (salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado)
 
-Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.
+Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de éste.
 
 El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.
 
@@ -678,19 +678,19 @@ Iniciado el procedimiento, el órgano administrativo competente para resolver, p
 
 Antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir el procedimiento, de oficio o a instancia de parte, en los casos de urgencia inaplazable y para la protección provisional de los intereses implicados, podrá adoptar de forma motivada las medidas provisionales que resulten necesarias y proporcionadas. Las medidas provisionales deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
 
-En todo caso, dichas medidas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.
+*Las medidas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.*
 
-Podrán acordarse las siguientes medidas provisionales (de acuerdo a la Ley 1/2000):
+Podrán acordarse las siguientes (de acuerdo a la Ley 1/2000):
 
-- Suspensión temporal de actividades.
-- Prestación de fianzas.
-- Retirada o intervención de bienes productivos o suspensión temporal de servicios por razones de sanidad, higiene o seguridad, el cierre temporal del establecimiento por estas u otras causas previstas en la normativa reguladora aplicable.
-- Embargo preventivo de bienes, rentas y cosas fungibles computables en metálico por aplicación de precios ciertos.
-- El depósito, retención o inmovilización de cosa mueble.
-- La intervención y depósito de ingresos obtenidos mediante una actividad que se considere ilícita y cuya prohibición o cesación se pretenda.
-- Consignación o constitución de depósito de las cantidades que se reclamen.
-- La retención de ingresos a cuenta que deban abonar las Administraciones Públicas.
-- Otras medidas que, para la protección de los derechos de los interesados, prevean expresamente las leyes, o que se estimen necesarias para asegurar la efectividad de la resolución.
+- **Suspensión temporal** de actividades.
+- **Fianzas** (PRESTACION???)
+- **Retirada o intervención** de bienes productivos o suspensión temporal de servicios por razones de sanidad, higiene o seguridad, el cierre temporal del establecimiento por estas u otras causas previstas en la normativa reguladora aplicable.
+- **Embargo preventivo** de bienes, rentas y cosas fungibles computables en metálico por aplicación de precios ciertos.
+- **Depósito, retención o inmovilización** de cosa mueble.
+- **Intervención y depósito** de ingresos obtenidos mediante una actividad que se considere ilícita y cuya prohibición o cesación se pretenda.
+- **Consignación o depósito** de las cantidades que se reclamen.
+- **Retención de ingresos** a cuenta que deban abonar las Administraciones Públicas.
+- **Otras** medidas que, para la protección de los derechos de los interesados, prevean expresamente las leyes, o que se estimen necesarias para asegurar la efectividad de la resolución.
 
 No se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes.
 
@@ -734,7 +734,7 @@ Respecto al Inicio del procedimiento a solicitud del interesado, las solicitudes
 
 - **Identificación**: de la persona interesada (nombre y apellidos) y de su representante.
 - **Medio de las notificaciones**: medio electrónico, o lugar físico. Adicionalmente, los interesados podrán aportar su dirección de correo electrónico y/o dispositivo electrónico con el fin de que las Administraciones Públicas les avisen del envío o puesta a disposición de la notificación
-- Hechos, razones y petición en que se concrete, con toda claridad, la solicitud
+- **Hechos, razones y petición** en que se concrete, con toda claridad, la solicitud
 - **Lugar y fecha**
 - **Firma**: firma de la persona solicitante (o acreditación de la autenticidad de su voluntad por otro medio)
 - **Destinatario**: órgano, centro o unidad administrativa, y su correspondiente código de identificación
@@ -773,10 +773,9 @@ En los procedimientos iniciados a solicitud de los interesados, el órgano compe
 
 Si alguno de los sujetos a los que hace referencia el artículo 14.2 y 14.3 presenta su solicitud presencialmente, las Administraciones Públicas requerirán al interesado para que la subsane a través de su presentación electrónica. A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que haya sido realizada la subsanación.
 
-
 Se entenderá por declaración responsable:
 
->el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida, y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante el período de tiempo inherente a dicho reconocimiento o ejercicio.
+>El documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida, y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante el período de tiempo inherente a dicho reconocimiento o ejercicio.
 
 Estos requisitos deberán estar recogidos de manera expresa, clara y precisa en la correspondiente declaración responsable. Las Administraciones podrán requerir en cualquier momento que se aporte la documentación que acredite el cumplimiento de los mencionados requisitos y el interesado deberá aportarla.
 
@@ -803,7 +802,7 @@ Se entiende por "expediente administrativo":
 
 >el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.
 
-Los expedientes tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos que contenga cuando se remita. Asimismo, deberá constar en el expediente copia electrónica certificada de la resolución adoptada.
+Tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos que contenga cuando se remita. Deberá constar en el expediente copia electrónica certificada de la resolución.
 
 Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes Normas Técnicas de Interoperabilidad, y se enviará completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga. La autenticación del citado índice garantizará la integridad e inmutabilidad del expediente electrónico generado desde el momento de su firma y permitirá su recuperación siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos.
 
