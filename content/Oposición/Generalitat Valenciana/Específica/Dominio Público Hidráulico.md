@@ -67,29 +67,27 @@ Los planes hidrológicos de cuenca que hayan sido elaborados o revisados al ampa
 
 
 
-##### Artículo 40 bis. Definiciones.
+Se incluyen las siguientes definiciones (artículo 40 bis):
 
-A los efectos de la planificación hidrológica y de la protección de las aguas objeto de esta Ley, se entenderá por:
+- **Aguas continentales**: todas aquellas en la superficie del suelo y subterráneas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
 
-- **Aguas continentales**: todas las aguas en la superficie del suelo y todas las aguas subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
+- **Aguas superficiales**: continentales (excepto subterráneas), de transición y costeras, y (solo para el estado químico), territoriales
 
-- **Aguas superficiales**: las aguas continentales, excepto las aguas subterráneas ; las aguas de transición y las aguas costeras, y, en lo que se refiere al estado químico, también las aguas territoriales.
-
-- **Aguas subterráneas**: todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+- **Aguas subterráneas**: todas aquellas bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
 
 - **Acuífero**: una o más capas subterráneas de roca o de otros estratos geológicos que tienen la suficiente porosidad y permeabilidad para permitir ya sea un flujo significativo de aguas subterráneas o la extracción de cantidades significativas de aguas subterráneas.
 
 - **Masa de agua superficial**: una parte diferenciada y significativa de agua superficial, como un lago, un embalse, una corriente, río o canal, parte de una corriente, río o canal, unas aguas de transición o un tramo de aguas costeras.
 
-- **Masa de agua subterránea**: un volumen claramente diferenciado de aguas subterráneas en un acuífero o acuíferos.
+- **Masa de agua subterránea**: volumen diferenciado en un acuífero o acuíferos.
 
-- **Masa de agua artificial**: una masa de agua superficial creada por la actividad humana.
+- **Masa de agua artificial**: creada por la actividad humana.
 
 - **Masa de agua muy modificada**: una masa de agua superficial que, como consecuencia de alteraciones físicas producidas por la actividad humana, ha experimentado un cambio sustancial en su naturaleza.
 
 - **Servicios relacionados con el agua**: todas las actividades relacionadas con la gestión de las aguas que posibilitan su utilización, tales como la extracción, el almacenamiento, la conducción, el tratamiento y la distribución de aguas superficiales o subterráneas, así como la recogida y depuración de aguas residuales, que vierten posteriormente en las aguas superficiales. Asimismo, se entenderán como servicios las actividades derivadas de la protección de personas y bienes frente a las inundaciones.
 
-- **Usos del agua**: las distintas clases de utilización del recurso, así como cualquier otra actividad que tenga repercusiones significativas en el estado de las aguas. A efectos de la aplicación del principio de recuperación de costes, los usos del agua deberán considerar, al menos, el abastecimiento de poblaciones, los usos industriales y los usos agrarios.
+- **Usos del agua**: clases de utilización del recurso, y cualquier otra actividad que tenga repercusiones significativas en el estado de las aguas. A efectos de la aplicación del principio de recuperación de costes, los usos del agua deberán considerar, al menos, el abastecimiento de poblaciones, los usos industriales y los usos agrarios.
 
 #### Zonas protegidas
 
@@ -147,9 +145,9 @@ Al objeto de la protección de las aguas el presente real decreto establece:
 
 - **Indicadores de los elementos de calidad**: condiciones de referencia y límites de clases de estado de todos ellos (biológicos, fisicoquímicos e hidromorfológicos) para clasificar el estado o potencial ecológico de las masas de agua superficiales.
 
-- Disposiciones mínimas para el intercambio de información sobre estado y calidad de las aguas entre la Administración General del Estado y las administraciones con competencias en materia de aguas: en aras del cumplimiento de legislación que regula los derechos de acceso a la información y de participación pública.
+- **Intercambio de información**: disposiciones mínimas sobre estado y calidad de las aguas entre la Administración General del Estado y las administraciones con competencias en materia de aguas (Ley 27/2006).
 
-Los criterios de este real decreto se entienden como requisitos mínimos y serán de aplicación a todas las aguas superficiales (artículo 3) (y en lo referente al intercambio de información, además, a las aguas subterráneas)
+*Los criterios de este real decreto se entienden como requisitos mínimos y serán de aplicación a todas las aguas superficiales (artículo 3) (y en lo referente al intercambio de información, además, a las aguas subterráneas)*
 
 Se incluyen las siguientes definiciones:
 
@@ -181,51 +179,51 @@ Se incluyen las siguientes definiciones:
 
 - **Contaminante específico**: contaminante vertido en cantidades significativas en una cuenca y no incluido en el anexo IV. Las NCA de estos contaminantes se calcularán conforme al procedimiento descrito en el anexo VII, cuando se trate de una sustancia preferente la NCA será, al menos, la prevista en el anexo V.
 
-- **Elemento de calidad**: Componente del ecosistema acuático cuya medida determina el estado de las aguas, se agrupan en elementos biológicos, hidromorfológicos, químicos y fisicoquímicos.
+- **Elemento de calidad**: componente del ecosistema acuático cuya medida determina el estado de las aguas, se agrupan en elementos biológicos, hidromorfológicos, químicos y fisicoquímicos.
 
-- **Estación de muestreo**: Conjunto de puntos de muestreo utilizados para la evaluación del estado de una masa de agua.
+- **Estación de muestreo**: conjunto de puntos de muestreo utilizados para la evaluación del estado de una masa de agua.
 
-- **Estado de las aguas superficiales**: La expresión general del estado de una masa de agua superficial determinado por el peor valor de su estado ecológico y de su estado químico.
+- **Estado de las aguas superficiales**: expresión general del estado de una masa de agua superficial determinado por el peor valor de su estado ecológico y químico.
 
-- **Estado ecológico**: Una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a las aguas superficiales clasificado con arreglo a este real decreto.
+- **Estado ecológico**: expresión de la calidad del ecosistema acuático (estructura y funcionamiento)
 
 - **Estado ecológico deficiente**: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos muestran indicios de alteraciones importantes respecto a los correspondientes al tipo de masa de agua superficial y en que las comunidades biológicas pertinentes se desvíen considerablemente de las comunidades normalmente asociadas con el tipo de masa de agua superficial en condiciones inalteradas.
 
-- **Estado ecológico malo**: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos muestran indicios de alteraciones graves respecto a los correspondientes al tipo de masa de agua superficial y en que las comunidades biológicas pertinentes normalmente asociadas con el tipo de masa de agua superficial en condiciones inalteradas estén ausentes en amplias proporciones.
+- **Estado ecológico malo**: indicios de alteraciones graves respecto a los correspondientes al tipo de masa de agua superficial y en que las comunidades biológicas pertinentes normalmente asociadas con el tipo de masa de agua superficial en condiciones inalteradas estén ausentes en amplias proporciones.
 
-- **Estado ecológico moderado**: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos correspondientes al tipo de masa de agua superficial se desvían moderadamente de los valores normalmente asociados con el tipo de masa de agua superficial en condiciones inalteradas. Los valores muestran signos moderados de distorsión causada por la actividad humana y se encuentran significativamente más perturbados que en las condiciones correspondientes al buen estado.
+- **Estado ecológico moderado**: distorsiones leves de los valores normales debido a actividades humanas.
 
-- **Estado químico**: Una expresión de la calidad de las aguas superficiales que refleja el grado de cumplimiento de las NCA de las sustancias prioritarias y otros contaminantes del anexo IV de este real decreto.
+- **Estado químico**: expresión de la calidad de las aguas superficiales que refleja el grado de cumplimiento de las NCA de las sustancias prioritarias y otros contaminantes del anexo IV de este real decreto.
 
-- **Eutrofización**: Enriquecimiento excesivo de la concentración de nutrientes en las aguas. Se manifiesta por la proliferación masiva de algas planctónicas cuyo crecimiento y descomposición puede provocar alteraciones extremas en el contenido de oxígeno, limitación de la transparencia de las aguas y el incremento del consumo de oxígeno en las aguas profundas. De ello pueden derivarse trastornos en el equilibrio de las poblaciones biológicas presentes en el medio acuático y la degradación de la calidad del agua. La eutrofización puede ser natural o de origen antrópico.
+- **Eutrofización**: enriquecimiento excesivo de la concentración de nutrientes en las aguas. Se manifiesta por la proliferación masiva de algas planctónicas cuyo crecimiento y descomposición puede provocar alteraciones extremas en el contenido de oxígeno, limitación de la transparencia de las aguas y el incremento del consumo de oxígeno en las aguas profundas. De ello pueden derivarse trastornos en el equilibrio de las poblaciones biológicas presentes en el medio acuático y la degradación de la calidad del agua. La eutrofización puede ser natural o de origen antrópico.
 
-- **Incertidumbre de medida**: Parámetro no negativo asociado a un resultado analítico que caracteriza la dispersión de los valores cuantitativos atribuidos a un mensurando basándose en la información utilizada.
+- **Incertidumbre de medida**: parámetro no negativo asociado a un resultado analítico que caracteriza la dispersión de los valores cuantitativos atribuidos a un mensurando basándose en la información utilizada.
 
-- **Indicador**: Medida de un elemento de calidad que permite evaluar la calidad y el estado de las aguas.
+- **Indicador**: medida de un elemento de calidad que permite evaluar la calidad y el estado de las aguas.
 
-- **Límite de cuantificación**: En una determinación analítica, múltiplo constante del límite de detección que se puede determinar con un grado aceptable de exactitud y precisión. El límite de cuantificación se puede calcular utilizando un patrón o muestra adecuada y se puede obtener del punto de calibración más bajo en la curva de calibración, excluido el valor del blanco.
+- **Límite de cuantificación**: en una determinación analítica, múltiplo constante del límite de detección que se puede determinar con un grado aceptable de exactitud y precisión. El límite de cuantificación se puede calcular utilizando un patrón o muestra adecuada y se puede obtener del punto de calibración más bajo en la curva de calibración, excluido el valor del blanco.
 
-- **Límite de detección**: En una determinación analítica, valor de concentración o señal de salida por encima del cual se puede afirmar, con un nivel declarado de confianza, que una muestra es diferente de una muestra en blanco, entendiéndose por blanco aquella disolución que no contiene el analito de interés.
+- **Límite de detección**: en una determinación analítica, valor de concentración o señal de salida por encima del cual se puede afirmar, con un nivel declarado de confianza, que una muestra es diferente de una muestra en blanco, entendiéndose por blanco aquella disolución que no contiene el analito de interés.
 
-- **Lista de observación**: Conjunto de sustancias seleccionadas entre aquellas de las que la información disponible indique que pueden suponer un riesgo significativo para el medio acuático o a través de él y para las que los datos de seguimiento son insuficientes, por lo que deben recabarse datos a nivel de la Unión Europea. La Comisión Europea adoptará actos de ejecución para elaborar y actualizar esta lista, siendo el primero la [Decisión de Ejecución (UE) 2015/495 de la Comisión, de 20 de marzo de 2015](https://www.boe.es/buscar/doc.php?id=DOUE-L-2015-80539 "Abre nueva ventana"), por la que se establece una lista de observación de sustancias a efectos de seguimiento a nivel de la Unión en el ámbito de la política de aguas, de conformidad con la [Directiva 2008/105/CE del Parlamento Europeo y del Consejo](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana").
+- **Lista de observación**: conjunto de sustancias seleccionadas entre aquellas de las que la información disponible indique que pueden suponer un riesgo significativo para el medio acuático o a través de él y para las que los datos de seguimiento son insuficientes, por lo que deben recabarse datos a nivel de la Unión Europea. La Comisión Europea adoptará actos de ejecución para elaborar y actualizar esta lista ([Decisión de Ejecución 2015/495](https://www.boe.es/buscar/doc.php?id=DOUE-L-2015-80539 "Abre nueva ventana")...).
 
-- **Masa de agua artificial**: creada por la actividad humana.
+- **Masa de agua artificial**: aquella creada por la actividad humana.
 
 - **Masa de agua muy modificada**: cambio sustancial en la naturaleza por alteraciones físicas producidas por la actividad humana.
 
-- **Masa de agua superficial**: Una parte diferenciada y significativa de agua superficial, como un lago, un embalse, una corriente, río o canal, parte de una corriente, río o canal, unas aguas de transición o un tramo de aguas costeras.
+- **Masa de agua superficial**: parte diferenciada y significativa de agua superficial (lago, embalse, corriente, río o canal, o partes de estos tres últimos), aguas de transición, o un tramo de aguas costeras.
 
-- **Matriz**: un compartimento del medio acuático, que puede ser el agua, los sedimentos o la biota.
+- **Matriz**: compartimento del medio acuático (agua, sedimentos o biota).
 
 - **Muy buen estado ecológico**: estado sin alteraciones antropogénicas de los valores de los indicadores de los elementos de calidad químicos o fisicoquímicos e hidromorfológicos correspondientes al tipo de masa de agua superficial, o existen alteraciones de muy escasa importancia, en comparación con los normalmente asociados con ese tipo en condiciones inalteradas. Los valores de los indicadores de los elementos de calidad biológicos correspondientes a la masa de agua superficial reflejan los valores normalmente asociados con dicho tipo en condiciones inalteradas, y no muestran indicios de distorsión, o muestran indicios de escasa importancia. Éstas son las condiciones y comunidades específicas del tipo.
 
-- **Nivel de confianza**: Estimación cualitativa relativa a la evaluación del estado o potencial ecológico; o bien, estimación cuantitativa o probabilidad de que la clasificación de los elementos de calidad y la clasificación del estado o potencial ecológico, obtenida a partir de los indicadores o índices, se corresponda realmente con la clase asignada.
+- **Nivel de confianza**: estimación cualitativa relativa a la evaluación del estado o potencial ecológico; o bien, estimación cuantitativa o probabilidad de que la clasificación de los elementos de calidad y la clasificación del estado o potencial ecológico, obtenida a partir de los indicadores o índices, se corresponda realmente con la clase asignada.
 
 - **Norma de calidad ambiental** (NCA): concentración de un determinado contaminante o grupo de contaminantes en el agua, los sedimentos o la biota, que no debe superarse en aras de la protección de la salud humana y el medio ambiente. Este umbral puede expresarse como Concentración Máxima Admisible (NCA-CMA) o como Media Anual (NCA-MA).
 
-- **Órgano competente**: Cada uno de los organismos de cuenca, para las aguas superficiales continentales comprendidas en las demarcaciones hidrográficas que excedan del ámbito territorial de una comunidad autónoma, y las comunidades autónomas, para las aguas superficiales continentales de demarcaciones hidrográficas comprendidas íntegramente dentro del ámbito territorial respectivo, así como para las aguas costeras y de transición, sin perjuicio de las competencias del Estado en los puertos de interés general.
+- **Órgano competente**: cada uno de los organismos de cuenca, para las aguas superficiales continentales comprendidas en las demarcaciones hidrográficas que excedan del ámbito territorial de una comunidad autónoma, y las comunidades autónomas, para las aguas superficiales continentales de demarcaciones hidrográficas comprendidas íntegramente dentro del ámbito territorial respectivo, así como para las aguas costeras y de transición, sin perjuicio de las competencias del Estado en los puertos de interés general.
 
-- **Otros contaminantes**: Sustancias incluidas en el anexo IV que no son prioritarias ni peligrosas prioritarias, sino contaminantes para los cuales las NCA son idénticas a las establecidas en la legislación sobre sustancias peligrosas aplicable antes de la aprobación de la [Directiva 2008/105/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana"), relativa a las normas de calidad ambiental en el ámbito de la política de aguas.
+- **Otros contaminantes**: sustancias incluidas en el anexo IV que no son prioritarias ni peligrosas prioritarias, sino contaminantes para los cuales las NCA son idénticas a las establecidas en la legislación sobre sustancias peligrosas aplicable antes de la aprobación de la [Directiva 2008/105/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana"), relativa a las normas de calidad ambiental en el ámbito de la política de aguas.
 
 - **Potencial ecológico**: Una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a una masa de agua artificial o muy modificada.
 
@@ -241,11 +239,11 @@ Se incluyen las siguientes definiciones:
 
  - **Sustancia preferente**: Sustancia que presenta un riesgo significativo para las aguas superficiales españolas debido a su especial toxicidad, persistencia y bioacumulación o por la importancia de su presencia en el medio acuático. La relación de sustancias preferentes figura en el anexo V de este real decreto.
 
-- **Sustancia prioritaria**: Sustancia que presenta un riesgo significativo para el medio acuático comunitario, o a través de él, incluidos los riesgos de esta índole para las aguas utilizadas para la captación de agua potable, y reguladas a través del artículo 16 de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana"), por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas (Directiva Marco del Agua, DMA). Entre estas sustancias se encuentran las sustancias peligrosas prioritarias. La relación de sustancias prioritarias figura en el anexo IV de este real decreto.
+- **Sustancia prioritaria**: aquella que presenta un riesgo significativo para el medio acuático comunitario, o a través de él, incluidos los riesgos de esta índole para las aguas utilizadas para la captación de agua potable, y reguladas a través del artículo 16 de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana"), por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas (Directiva Marco del Agua, DMA). Entre estas sustancias se encuentran las sustancias peligrosas prioritarias. La relación de sustancias prioritarias figura en el anexo IV de este real decreto.
 
-- **Taxón de la biota**: Un taxón acuático particular dentro del rango taxonómico subfilum, «clase» o equivalente.
+- **Taxón de la biota**: acuático particular dentro del rango taxonómico subfilum, «clase» o equivalente.
 
-- **Zona de mezcla**: Zona adyacente a un punto de vertido donde las concentraciones de los diferentes constituyentes del mismo pueden no corresponder al régimen de mezcla completa del efluente y el medio receptor.
+- **Zona de mezcla**: adyacente a un punto de vertido donde las concentraciones de los diferentes constituyentes del mismo pueden no corresponder al régimen de mezcla completa del efluente y el medio receptor.
 
 
 #### Masas de agua
@@ -428,11 +426,11 @@ Si las aguas de baño son clasificadas como de calidad «insuficiente» durante 
 
 Artículo 13. Información al público.
 
-Todas las administraciones públicas tienen la obligación de informar (Ley 27/2006)
+Todas las administraciones públicas tienen la obligación de informar (Ley 27/2006). 
 
 Durante la temporada de baño las administraciones públicas, en el ámbito de sus competencias, difundirán al público interesado de forma activa, rápida y a través de mecanismos de fácil acceso, la información sobre la calidad de las aguas de baño y, en su caso, de la playa. Así mismo en un lugar de fácil acceso en las inmediaciones de cada zona de aguas de baño se facilitará la siguiente información:
 
-- Censo de las zonas de aguas de baño y descripción general de las aguas de baño y su playa, con indicación de las características y dotaciones de infraestructuras de la playa en lenguaje claro que no tenga carácter técnico.
+- **Censo** de las zonas de aguas de baño y descripción general de las aguas de baño y su playa, con indicación de las características y dotaciones de infraestructuras de la playa en lenguaje claro que no tenga carácter técnico.
 
 - Clasificación vigente de las aguas de baño, así como cualquier prohibición de baño o recomendación de abstenerse del mismo, mediante una señal o símbolo sencillo y claro.
 
@@ -487,7 +485,6 @@ Artículo 15. Participación del público.
 
 Las Administraciones públicas facilitarán la participación del público en la elaboración de determinados planes, programas y disposiciones de carácter general relacionados con el medio ambiente (artículo 16 de la Ley 27/2006). En particular, se proporcionará la información necesaria para que conozca el proceso de participación y se adopten las medidas para que puedan realizar sugerencias, observaciones o quejas (en especial sobre el censo anual de las zonas de aguas de baño).
 
-Disposición adicional primera. Métodos de análisis.
 
 Los laboratorios que controlen los parámetros (Anexo I) deberán tener al comienzo de la primera temporada de baño tras la entrada en vigor de este real decreto:
 

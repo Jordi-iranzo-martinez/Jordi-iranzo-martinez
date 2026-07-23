@@ -26,7 +26,82 @@ La norma básica estatal es la [Ley 42/2007](https://www.boe.es/buscar/act.php?i
 
 
 
-Tendrán la consideración de áreas protegidas por instrumentos internacionales todos aquellos espacios naturales que sean formalmente designados de conformidad con lo dispuesto en los Convenios y Acuerdos internacionales de los que sea parte España y, en particular, los siguientes:
+6. ***Ley 42/2007: Capítulo III “Espacios protegidos Red Natura 2000” del Título II “Catalogación, conservación y restauración de hábitats y espacios del patrimonio natural”. Ley 11/1994: Título I Disposiciones generales: Capítulo II BIS del Régimen general de los Espacios Protegidos Red Natura 2000, Capítulo V “Efectos de la declaración de Espacios Protegidos Red Natura 2000”; Título II Declaración de Espacios Naturales Protegidos y de Espacios Protegidos Red Natura 2000: Capítulo III “Procedimiento de selección y declaración de Espacios Protegidos Red Natura 2000”; Título III Ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000: Capítulo VI “Normas de gestión de zonas de la Red Natura 2000”. El Régimen especial de evaluación y autorizaciones de afección a la red Natura 2000 (Decreto 60/2012, de 5 de abril, del Consell)****
+
+
+
+COMPETENCIAS
+
+### Ley 11/1994
+
+En la Comunidad Valenciana, se regula mediante la [Ley 11/1994](https://dogv.gva.es/auto/dogv/docvpub/rlgv/1994/L_1994_11_ca_L_2016_07.pdf)
+
+| Títulos                                                | Contenido                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Disposiciones generales**                            | - Principios generales: objeto, finalidad<br>- **Clases de espacios naturales protegidos**<br>- **Régimen general de los espacios naturales protegidos**<br>- **Régimen general de los Espacios Protegidos Red Natura 2000**<br>- **Protección de otras áreas**<br>- **Efectos de la declaración de espacio natural protegido**<br>- **Efectos de la declaración de espacios protegidos Red Natura 2000** |
+| Declaración de espacios protegidos                     | - Procedimiento<br>- **Protección preventiva y perimetral**<br>- Selección y declaración de espacios Red Natura 2000                                                                                                                                                                                                                                                                                      |
+| Ordenación de recursos naturales y espacios protegidos | - Instrumentos<br>- Planes de ordenación<br>- Planes rectores de uso y gestión<br>- Planes especiales (derogado)<br>- Normas de protección (derogado)<br>- Normas de gestión de zonas Red Natura 2000                                                                                                                                                                                                     |
+| Gestión de espacios naturales protegidos               |                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Infracciones y sanciones                               | - Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                                                                                                                                                                                                                                                                                              |
+| Anexos                                                 | - I. Delimitación del Parque Natural del Marjal de Pego-Oliva                                                                                                                                                                                                                                                                                                                                             |
+
+El objeto establecer el régimen general aplicable en la Comunitat Valenciana de los espacios naturales protegidos: 
+
+>Áreas o hitos geográficos que contengan elementos o sistemas naturales de particular valor, interés o singularidad (acción y evolución de la naturaleza, actividad humana...) que se consideren merecedores de una protección especial.
+
+*Los Parques Nacionales se regirán por su norma de creación correspondiente.*
+
+La finalidad de la Ley es la protección, conservación, restauración, mejora y uso sostenible de los espacios naturales de la Comunidad Valenciana.
+
+La administración de la Generalitat Valenciana y las entidades locales acomodarán su actuación a los siguientes criterios:
+
+- **Ecosistemas o ambientes relevantes**: preservación (naturales y antropizados)
+- **Ecología**: mantenimiento de los procesos y relaciones que permiten el funcionamiento de los ecosistemas
+- **Recursos naturales**: conservación, uso sostenible, y ecodesarrollo
+- **Diversidad genética**
+- **Paisajes**: singularidad y belleza
+- **Valores científicos y culturales** (medio natural)
+- **Uso social**: estudio, enseñanza y disfrute ordenado
+
+
+Según los recursos naturales o biológicos y de los valores que contengan, los espacios naturales protegidos en la Comunitat Valenciana se incluirán en una de las siguientes categorías:
+
+- **Parques naturales**: por su representatividad ecológica, singularidad biológica o geomorfológica, paisajes... con valores extraordinarios (ecología, ciencia, educación, cultura, estética) que ameritan su integración en redes supraautonómicas (nacionales, internacionales).
+
+- **Reservas naturales**: preservación íntegra de ecosistemas, comunidades o elementos (biológicos o geomorfológicos) de la influencia humana, por su rareza, fragilidad, importancia o singularidad
+
+- **Monumentos naturales**: espacios o elementos de la naturaleza (incluidas las formaciones geomorfológicas y yacimientos paleontológicos), de notoria singularidad, rareza o belleza, con valores científicos, culturales o paisajísticos. No se admitirá ningún uso o actividad (ni las tradicionales que supongan un riesgo a la conservación de sus valores declarados).*
+
+- **Paisajes protegidos**: por una relación armoniosa de las actividades humanas y el medio natural, o por sus valores estéticos o culturales. La protección se realizará a la conservación de las relaciones y procesos (naturales, socioeconómicos), que han contribuido a su mantenimiento y formación. Se contabilizará el desarrollo de actividades rurales tradicionales con el uso social (estudio, enseñanza, y disfrute ordenado de sus valores).*
+
+- **Parajes naturales municipales**: valores naturales de interés local
+
+- **Zonas húmedas catalogadas**: 
+
+*Estas denominaciones podrán aplicarse únicamente a los espacios naturales protegidos que se declaren expresamente como tales. Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría.*
+
+Son espacios protegidos de la Red Natura los siguientes: 
+
+- **Lugares de Importancia Comunitaria** (LIC): constribución al mantenimiento o restablecimiento del estado de conservación favorable de los tipos de hábitats naturales y los hábitat de las especies de interés comunitario (Anexos I y II de la Ley 42/2007, respectivamente).
+
+- **Zonas Especiales de Conservación** (ZEC): lugares de importancia comunitaria ordenados mediante un instrumento de gestión específico.
+
+- **Zonas de Especial Protección para las Aves** (ZEPA): para la conservación de las especies de aves (Anexo IV de la Ley 42/2007), y de las migratorias regulares.
+
+Cuando el espacio natural que deba ser protegido incluya territorios de otra Comunidad Autónoma, la Generalitat propondrá al Estado la declaración de espacio natural protegido y las medidas de participación en la gestión del espacio natural del que se trate.
+
+La Generalitat podrá proponer al Estado la declaración de parque nacional para los espacios naturales valencianos que pueda ser considerados de interés general (Ley 42/2007, Ley 30/2014).
+
+Asimismo, se hará en los ámbitos internacionales que corresponda para alcanzar la catalogación a la que sea merecedor el espacio natural en cuestión.
+
+Además, existen otras áreas, como zonas húmedas y cuevas: 
+
+- **Zonas húmedas**: las marismas, marjales, turberas o aguas rasas (permanentes o temporales, de aguas estancadas o corrientes, dulces, salobres o salinas, naturales o artificiales), y cualquier otro espacio de características análogas (con independencia de la denominación que reciba).
+
+- **Cuevas**: 
+
+
+Además, existen espacios naturales protegidos por instrumentos internacionales, designados por Convenios y Acuerdos de los que España es parte ([artículo 50 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a50)). En particular: 
 
 - **Humedales de Importancia Internacional**: del Convenio relativo a los Humedales de Importancia Internacional especialmente como Hábitat de Aves Acuáticas
 
@@ -49,77 +124,14 @@ El régimen de protección de estas áreas será el establecido en los correspon
 El Ministerio de Medio Ambiente elaborará (con la participación de las Comunidades autónomas, en el marco del Plan Estratégico Estatal del Patrimonio Natural y la Biodiversidad) unas directrices de conservación de las áreas protegidas por instrumentos internacionales. Constituirán el marco orientativo para la planificación y gestión de dichos espacios. Serán aprobadas mediante acuerdo de la Conferencia Sectorial de Medio Ambiente.
 
 
-6. ***Ley 42/2007: Capítulo III “Espacios protegidos Red Natura 2000” del Título II “Catalogación, conservación y restauración de hábitats y espacios del patrimonio natural”. Ley 11/1994: Título I Disposiciones generales: Capítulo II BIS del Régimen general de los Espacios Protegidos Red Natura 2000, Capítulo V “Efectos de la declaración de Espacios Protegidos Red Natura 2000”; Título II Declaración de Espacios Naturales Protegidos y de Espacios Protegidos Red Natura 2000: Capítulo III “Procedimiento de selección y declaración de Espacios Protegidos Red Natura 2000”; Título III Ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000: Capítulo VI “Normas de gestión de zonas de la Red Natura 2000”. El Régimen especial de evaluación y autorizaciones de afección a la red Natura 2000 (Decreto 60/2012, de 5 de abril, del Consell)****
+En resumen:
 
-
-
-COMPETENCIAS
-
-### Ley 11/1994
-
-En la Comunidad Valenciana, se regula mediante la [Ley 11/1994](https://dogv.gva.es/auto/dogv/docvpub/rlgv/1994/L_1994_11_ca_L_2016_07.pdf)
-
-| Títulos                                                | Contenido                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Disposiciones generales**                            | - Principios generales: objeto, finalidad<br>- **Clases de espacios naturales protegidos**<br>- **Régimen general de los espacios naturales protegidos**<br>- **Régimen general de los Espacios Protegidos Red Natura 2000**<br>- **Protección de otras áreas**<br>- **Efectos de la declaración de espacio natural protegido**<br>- **Efectos de la declaración de espacios protegidos Red Natura 2000** |
-| Declaración de espacios protegidos                     | - Procedimiento<br>- **Protección preventiva y perimetral**<br>- Selección y declaración de espacios Red Natura 2000                                                                                                                                                                                                                                                                                      |
-| Ordenación de recursos naturales y espacios protegidos | - Instrumentos<br>- Planes de ordenación<br>- Planes rectores de uso y gestión<br>- Planes especiales (derogado)<br>- Normas de protección (derogado)<br>- Normas de gestión de zonas Red Natura 2000                                                                                                                                                                                                     |
-| Gestión de espacios naturales protegidos               |                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Infracciones y sanciones                               | - Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                                                                                                                                                                                                                                                                                              |
-| Anexos                                                 | - I. Delimitación del Parque Natural del Marjal de Pego-Oliva                                                                                                                                                                                                                                                                                                                                             |
-
-El objeto establecer el régimen general aplicable a los espacios naturales protegidos en la Comunitat Valenciana: áreas o hitos geográficos que contengan elementos o sistemas naturales de particular valor, interés o singularidad (acción y evolución de la naturaleza, actividad humana...) que se consideren merecedores de una protección especial.
-
-*Los espacios naturales declarados por Ley de las Cortes Generales en el ámbito de la Comunidad Valenciana se regirán por la norma de creación correspondiente.*
-
-La finalidad de la Ley es la protección, conservación, restauración, mejora y uso sostenible de los espacios naturales de la Comunidad Valenciana. La administración de la Generalitat Valenciana y las entidades locales acomodarán su actuación a los siguientes criterios:
-
-- **Ecosistemas o ambientes relevantes**: preservación (naturales y antropizados)
-- **Ecología**: mantenimiento de los procesos y relaciones que permiten el funcionamiento de los ecosistemas
-- **Recursos naturales**: conservación, uso sostenible, y ecodesarrollo
-- **Diversidad genética**
-- **Paisajes**: singularidad y belleza
-- **Valores científicos y culturales** (medio natural)
-- **Uso social**: estudio, enseñanza y disfrute ordenado
-
-Según los recursos naturales o biológicos y de los valores que contengan, los espacios naturales protegidos en la Comunitat Valenciana se incluirán en una de las siguientes categorías:
-
-- Parques naturales
-- Reservas naturales
-- Monumentos naturales
-- Paisajes protegidos
-- Parajes naturales municipales
-- Zonas húmedas catalogadas
-
-*La denominación de parque natural, paraje natural, paraje natural municipal, reserva natural, monumento natural, sitio de interés o paisaje protegido podrá aplicarse únicamente a los espacios naturales protegidos que se declaren expresamente como tales con arreglo a lo previsto en esta ley.*
-
-*Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría.*
-
-Son espacios protegidos de la Red Natura los siguientes: 
-
-- Lugares de Importancia Comunitaria
-- Zonas Especiales de Conservación
-- Zonas de Especial Protección para las Aves
-
-Cuando el espacio natural que deba ser protegido incluya territorios de otra Comunidad Autónoma, la Generalitat propondrá al Estado la declaración de espacio natural protegido y las medidas de participación en la gestión del espacio natural del que se trate.
-
-La Generalitat podrá proponer al Estado la declaración de parque nacional para los espacios naturales valencianos que pueda ser considerados de interés general (Ley 42/2007, Ley 30/2014).
-
-Asimismo, se hará en los ámbitos internacionales que corresponda para alcanzar la catalogación a la que sea merecedor el espacio natural en cuestión.
-
-
-***El objeto (artículo 1) es el establecimiento del régimen de los espacios naturales protegidos (incluida la Red Natura 2000): áreas o hitos geográficos que se consideren merecedores de protección especial por contener elementos o sistemas naturales de particular valor, interés o singularidad (naturales y antrópicos). (Los espacios naturales declarados por ley de les Corts se regirán por su norma específica.)***
-
-***Esto se realiza para una finalidad (artículo 2) de protección, conservación, restauración, mejora, y uso sostenible: ecosistemas, procesos, recursos naturales, biodiversidad, paisajes, valores científicos y culturales, uso social (estudio, enseñanza, disfrute).***
-
-Las clases de espacios naturales protegidos son las siguientes (artículo 3):
-
-| Ámbito                           | Clasificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Autonómico                       | - Parques naturales<br>- Reservas naturales<br>- Monumentos naturales<br>- Paisajes protegidos<br>- Parajes naturales municipales<br>- Zonas húmedas catalogadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Comunitario<br>(Red Natura 2000) | - Lugares de Importancia Comunitaria (LIC)<br>- Zonas Especiales de Conservación (ZEC)<br>- Zonas de Especial Protección para las Aves (ZEPA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Otras áreas                      | - Zonas Húmedas<br>- Cuevas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Internacional                    | - Humedales de Importancia Internacional (Convenio de Ramsar)<br>- Sitios naturales de la Lista del Patrimonio Mundial (Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural)<br>- Áreas protegidas del Convenio OSPAR (Convenio para la protección del medio ambiente marino del Atlántico del nordeste)<br>- Zonas Especialmente Protegidas de Importancia para el Mediterráneo (ZEPIM) (Protocolo de Barcelona del Convenio para la protección del medio marino y de la región costera del Mediterráneo)<br>- Geoparques (declarados por la UNESCO)<br>- Reservas de la Biosfera (declaradas por la UNESCO)<br>- Reservas biogenéticas (del Consejo de Europa) |
+| Ámbito                             | Clasificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Autonómico                         | - Parques naturales<br>- Reservas naturales<br>- Monumentos naturales<br>- Paisajes protegidos<br>- Parajes naturales municipales<br>- Zonas húmedas catalogadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Unión Europea<br>(Red Natura 2000) | - Lugares de Importancia Comunitaria (LIC)<br>- Zonas Especiales de Conservación (ZEC)<br>- Zonas de Especial Protección para las Aves (ZEPA)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Otras áreas                        | - Zonas Húmedas (en general)<br>- Cuevas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Internacional                      | - Humedales de Importancia Internacional (Convenio de Ramsar)<br>- Sitios naturales de la Lista del Patrimonio Mundial (Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural)<br>- Áreas protegidas del Convenio OSPAR (Convenio para la protección del medio ambiente marino del Atlántico del nordeste)<br>- Zonas Especialmente Protegidas de Importancia para el Mediterráneo (ZEPIM) (Protocolo de Barcelona del Convenio para la protección del medio marino y de la región costera del Mediterráneo)<br>- Geoparques (declarados por la UNESCO)<br>- Reservas de la Biosfera (declaradas por la UNESCO)<br>- Reservas biogenéticas (del Consejo de Europa) |
 
 *Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría. Las áreas protegidas por instrumentos internacionales aparecen en el [artículo 50 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a50).
 
@@ -158,27 +170,9 @@ El régimen general de los espacios naturales protegidos es el siguiente:
 *La orientación a los usos tradicionales agrícolas en los espacios protegidos y su determinación se realizarán en colaboración con la administración agraria y se recogerán en el correspondiente instrumento de ordenación ambiental.*
 
 
-
-- ***Parques Naturales**: representatividad ecológica, singularidad biológica o geomorfológica, paisajes... con valores extraordinarios (ecología, ciencia, educación, cultura, estética) que ameritan su integración en redes supraautonómicas (nacionales, internacionales). Las actividades se orientarán a los usos tradicionales (agricultura, ganadería, silvicultura), el aprovechamiento sostenible de los recursos, y el uso ordenado.*
-
-- ***Parajes naturales municipales**: valores naturales de interés local*
-
-- ***Reservas naturales**: preservación íntegra de ecosistemas, comunidades o elementos (biológicos o geomorfológicos) de la influencia humana, por su rareza, fragilidad, importancia o singularidad*
-
-- ***Monumentos naturales**: espacios o elementos de la naturaleza (incluidas las formaciones geomorfológicas y yacimientos paleontológicos), de notoria singularidad, rareza o belleza, con valores científicos, culturales o paisajísticos. No se admitirá ningún uso o actividad (ni las tradicionales que supongan un riesgo a la conservación de sus valores declarados).*
-
-- ***Paisajes protegidos**: por una relación armoniosa de las actividades humanas y el medio natural, o por sus valores estéticos o culturales. La protección se realizará a la conservación de las relaciones y procesos (naturales, socioeconómicos), que han contribuido a su mantenimiento y formación. Se contabilizará el desarrollo de actividades rurales tradicionales con el uso social (estudio, enseñanza, y disfrute ordenado de sus valores).*
-
-- ***Zonas de especial protección para las aves** (ZEPA): para la conservación de las especies de aves (Anexo IV de la Ley 42/2007), y de las migratorias regulares.* 
-
-- ***Lugares de Importancia Comunitaria** (LIC): contribuyen al mantenimiento o restablecimiento del estado de conservación favorable de los tipos de hábitats naturales y los hábitat de las especies de interés comunitario (Anexos I y II de la Ley 42/2007, respectivamente).*
-
-- ***Zonas de Especial Conservación** (ZEC): lugares de importancia comunitaria que han sido ordenados mediante un instrumento de gestión específico.
-
-
 ### Protección de otras áreas
 
-Son zonas húmedas las marismas, marjales, turberas o aguas rasas (permanentes o temporales, de aguas estancadas o corrientes, dulces, salobres o salinas, naturales o artificiales), y cualquier otro espacio de características análogas (con independencia de la denominación que reciba).
+#### Zonas húmedas
 
 Deberán ser preservadas de actividades susceptibles de provocar su recesión y degradación, a cuyo fin los terrenos incluidos en las mismas serán clasificados en todo caso como suelo no urbanizable sujeto a especial protección (Ley 4/1992). *La clasificación de suelo se mantendrá aún en el supuesto de desecación (total o parcial, por cualquier causa).*
 
@@ -186,10 +180,12 @@ Deberán ser preservadas de actividades susceptibles de provocar su recesión y 
 
 El Consell (a propuesta de la Conselleria de Medio Ambiente) aprobará mediante acuerdo un catálogo de zonas húmedas en el que se incluya lo siguiente:
 
-- Delimitación de dichas zonas
-- Cuencas en que el planeamiento urbanístico deberá adoptar especiales precauciones para garantizar su conservación
-- Cuencas donde la planificación hidrológica habrá de prever las necesidades y requisitos para la restauración y conservación de la zona húmeda en la que viertan
-- Actuaciones hidrológicas en el ámbito de las competencias autonómicas deberán prever las necesidades y requisitos para la restauración y conservación de la zona húmeda a la que afecten.
+- **Delimitación** de dichas zonas
+- **Cuencas** en que el planeamiento urbanístico deberá adoptar especiales precauciones para garantizar su conservación
+- **Cuencas** donde la planificación hidrológica habrá de prever las necesidades y requisitos para la restauración y conservación de la zona húmeda en la que viertan
+- **Actuaciones hidrológicas** en el ámbito de las competencias autonómicas deberán prever las necesidades y requisitos para la restauración y conservación de la zona húmeda a la que afecten.
+
+#### Cuevas
 
 Con carácter general, se consideran protegidas todas las cuevas, simas y demás cavidades subterráneas sitas en el territorio de la Comunidad Valenciana. 
 
@@ -249,6 +245,8 @@ La selección o declaración de los espacios protegidos Red Natura 2000 comporta
 - **Servidumbre de instalación de señales** (artículo 23)
 
 - **Utilización de bienes incluidos** (esta Ley (artículo 20...), normas de gestión (capítulo VI del título III)...)
+
+
 
 #### Declaración de espacios naturales protegidos
 

@@ -18,18 +18,11 @@ En España se regula por la [Ley 26/2007](https://www.boe.es/buscar/act.php?id=B
 
 #### Ámbito de aplicación
 
-Esta ley se aplicará a los daños medioambientales y a las amenazas inminentes de que tales daños ocurran, de determinadas actividades: 
+Esta ley se aplicará a los daños medioambientales y a las amenazas inminentes de que tales daños ocurran, para determinadas actividades: 
 
-- **Actividades reguladas** (Anexo III): siempre
-- **Otras actividades**: medidas de prevención, evitación y reparación.
+- **Reguladas** (Anexo III): siempre (se asumirá que ha causado daño si ha podido causarlo, salvo prueba en contrario)
 
-Se presumirá, salvo prueba en contrario, que una actividad económica o profesional de las enumeradas en el anexo III ha causado el daño o la amenaza inminente de que dicho daño se produzca cuando, atendiendo a su naturaleza intrínseca o a la forma en que se ha desarrollado, sea apropiada para causarlo.
-
-Esta ley también se aplicará a los daños medioambientales y a las amenazas inminentes de que tales daños ocurran, cuando hayan sido causados por las actividades económicas o profesionales distintas de las enumeradas en el anexo III, en los siguientes términos:
-
-- a) Cuando medie dolo, culpa o negligencia, serán exigibles las medidas de prevención, de evitación y de reparación.
-
-- b) Cuando no medie dolo, culpa o negligencia, serán exigibles las medidas de prevención y de evitación.
+- **Otras**: medidas de prevención, evitación y reparación cuando medie dolo, culpa o negligencia (solo las dos primeras en su defecto).
 
 *Esta Ley sólo se aplicará a los daños medioambientales o a su amenaza inminente causados por una contaminación de carácter difuso, cuando sea posible establecer un vínculo causal entre los daños y las actividades de operadores concretos.*
 
@@ -38,19 +31,16 @@ Esta ley también se aplicará a los daños medioambientales y a las amenazas in
 - *Militar: actos derivados de conflicto armado, hostilidades, guerra civil o insurrección.*
 - *Fenómenos naturales: de carácter excepcional, inevitable e irresistible.*
 - *Defensa nacional o seguridad internacional, y protección contra los desastres naturales (único propósito)*
+- *Convenios internacionales (Anexo IV)*
+- *Riesgos nucleares: causados por las actividades que empleen materiales cuya utilización esté regulada por normativa derivada del Tratado constitutivo de la Comunidad Europea de la Energía Atómica, ni a los incidentes o a las actividades cuyo régimen de responsabilidad esté establecido por alguno de los convenios internacionales enumerados en el anexo V, incluidas sus eventuales modificaciones futuras, vigentes en España.*
 
-Esta ley no se aplicará a los siguientes daños:
+*En el caso de obras públicas de interés general, competencia de la Administración General del Estado, esta ley se aplicará a los siguientes:* 
 
-- **Convenios internacionales** (Anexo IV)
-- **Riesgos nucleares**: causados por las actividades que empleen materiales cuya utilización esté regulada por normativa derivada del Tratado constitutivo de la Comunidad Europea de la Energía Atómica, ni a los incidentes o a las actividades cuyo régimen de responsabilidad esté establecido por alguno de los convenios internacionales enumerados en el anexo V, incluidas sus eventuales modificaciones futuras, vigentes en España.
+- ***Especies y hábitats protegidos, aguas, suelo, ribera del mar y de las rías, y amenazas inminentes de esos daños**: por actividades del Anexo III.*
 
-En el caso de obras públicas de interés general, competencia de la Administración General del Estado, esta ley se aplicará a los siguientes: 
+- ***Especies y hábitats protegidos**: actividades no del Anexo III, si ha habido culpa o negligencia del operador.*
 
-- **Especies y hábitats protegidos, aguas, suelo, ribera del mar y de las rías, y amenazas inminentes de esos daños**: por actividades del Anexo III.
-
-- **Especies y hábitats protegidos**: actividades no del Anexo III, si ha habido culpa o negligencia del operador.
-
-La normativa autonómica en la materia podrá determinar la aplicación de lo dispuesto en el párrafo anterior a las obras públicas de especial relevancia e interés equivalentes a las de interés general del Estado, cuya titularidad y competencia corresponda a las comunidades autónomas.
+*La normativa autonómica podrá determinar su aplicación a las obras públicas de especial relevancia e interés equivalentes a las de interés general del Estado, cuya titularidad y competencia corresponda a las comunidades autónomas.*
 
 
 ##### Atribución de responsabilidades
@@ -75,11 +65,16 @@ La Administración pública que hubiera adjudicado un contrato o autorizado una 
 - **Muerte o extinción de las personas responsables**: sus deberes (en particular, sus obligaciones pecuniarias subsiguientes) se transmitirán y exigirán de acuerdo a lo dispuesto para las obligaciones tributarias.
 
 - **Responsables solidarios y subsidiarios**: 
+- 
 	- Solidarios: los sujetos a los que se refiere el [artículo 42.2 de la Ley 58/2003](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana")
+
 	- Subsidiarios:
-		- - Los gestores y administradores de hecho y de derecho de las personas jurídicas cuya conducta haya sido determinante de la responsabilidad de éstas.
+		- Los gestores y administradores de hecho y de derecho de las personas jurídicas cuya conducta haya sido determinante de la responsabilidad de éstas.
+
 		- Los gestores o administradores de aquellas personas jurídicas que hayan cesado en sus actividades, en cuanto a los deberes y obligaciones pendientes en el momento de dicho cese, siempre que no hubieren hecho lo necesario para su cumplimiento o hubieran adoptado acuerdos o tomado medidas causantes del incumplimiento.
+
 		- Los que sucedan por cualquier concepto al responsable en la titularidad o en el ejercicio de la actividad causante del daño, con los límites y las excepciones previstos en el [artículo 42.1.c) de la Ley 58/2003, de 17 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23186#a42 "Abre nueva ventana").
+
 		- Los integrantes de administraciones concursales y los liquidadores de personas jurídicas que no hubieran realizado lo necesario para el cumplimiento de los deberes y las obligaciones devengados con anterioridad a tales situaciones.
 
 *Los responsables subsidiarios lo serán especialmente respecto a las obligaciones pecunarias, que se declararán y exigirán en los procedimientos de ejecución, en los términos establecidos en la legislación tributaria y de recaudación de ingresos de Derecho público.*
@@ -109,12 +104,12 @@ Cuando concurran las circunstancias previstas en los apartados 1 y 2, el operado
 Cuando el operador no esté obligado a sufragar los costes de las medidas por la actuación de un tercero ajeno o por una orden o instrucción (artículo 14.1) podrá recuperarlos de la siguiente forma:
 
 - **Acciones de repetición**: frente a terceros (artículo 16) (*la autoridad competente también podrá exigírselo).*
+
 - **Responsabilidad patrimonial**:de la Administración en que se encuentre la autoridad pública que impartió la orden o la instrucción. 
 
 Si demuestra que no ha incurrido en culpa, dolo o negligencia (artículo 14.2), tendrá derecho a su recuperación de acuerdo a la normativa autonómica (salvo que se trate de bienes de dominio estatal, en cuyo caso actuará el Fondo estatal de reparación: artículo 34).
 
-
-El operador que hubiera adoptado medidas de prevención, de evitación de nuevos daños o de reparación podrá ejercer acciones de repetición contra cualesquiera otras personas que, al amparo de ésta o de cualquier otra norma, sean causantes o responsables, con o sin culpa, del daño medioambiental o de la amenaza de daño medioambiental que haya motivado la adopción de aquellas medidas.
+El operador que hubiera adoptado medidas de prevención, evitación o reparación podrá ejercer acciones de repetición contra cualesquiera otras personas que, al amparo de ésta o de cualquier otra norma, sean causantes o responsables, con o sin culpa, del daño medioambiental o de la amenaza de daño medioambiental que haya motivado la adopción de aquellas medidas.
 
 Cuando el daño o la amenaza de daño sean causados por el uso de un producto, el operador podrá reclamar al fabricante, al importador o al suministrador el importe de los costes en que haya incurrido, siempre y cuando el operador se haya ajustado estrictamente en el desarrollo de su actividad a las condiciones establecidas para el uso del producto y a la normativa vigente en el momento de producirse la emisión o el hecho causante del daño medioambiental.
 
@@ -132,10 +127,24 @@ Aparece en el capítulo III
 ##### Artículo 17. Obligaciones del operador en materia de prevención y de evitación de nuevos daños.
 
 
-|                        | Obligaciones del operador                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Prevención y evitación | Ante una amenaza inminente de daños medioambientales originada por cualquier actividad económica o profesional, el operador tiene el deber de adoptar sin demora y sin necesidad de advertencia, de requerimiento o de acto administrativo previo las medidas preventivas apropiadas.<br><br>Asimismo, cuando se hayan producido daños medioambientales causados por cualquier actividad económica o profesional, el operador de tal actividad tiene el deber de adoptar en los mismos términos las medidas apropiadas de evitación de nuevos daños, con independencia de que esté o no sujeto a la obligación de adoptar medidas de reparación por aplicación de lo dispuesto en esta ley.<br><br>Para la determinación de las medidas de prevención y de evitación de nuevos daños se atenderá, en la medida de lo posible, a los criterios establecidos en el punto 1.3 del anexo II, sin perjuicio de los criterios adicionales que con el mismo objetivo establezcan las comunidades autónomas.<br><br>Los operadores pondrán en conocimiento inmediato de la autoridad competente todos los aspectos relativos a los daños medioambientales o a la amenaza de tales daños, según lo dispuesto en el artículo 9.2, así como las medidas de prevención y evitación adoptadas.<br><br>De no desaparecer la amenaza de daño a pesar de haberse adoptado las medidas de prevención o de evitación de nuevos daños, el operador lo pondrá en conocimiento inmediato de la autoridad competente.<br><br><br>Las autoridades competentes adoptarán medidas para impulsar la realización voluntaria de análisis de riesgos medioambientales entre los operadores de cualquier actividad susceptible de ocasionar daños medioambientales, para lograr una adecuada gestión del riesgo medioambiental de la actividad. |
-| Reparación             | El operador de cualquiera de las actividades económicas o profesionales enumeradas en el anexo III que cause daños medioambientales como consecuencia del desarrollo de tales actividades está obligado a ponerlo en conocimiento inmediato de la autoridad competente y a adoptar las medidas de reparación que procedan de conformidad con lo dispuesto en esta ley, aunque no haya incurrido en dolo, culpa o negligencia.<br><br>El operador de una actividad económica o profesional no enumerada en el anexo III que cause daños medioambientales como consecuencia del desarrollo de tal actividad está obligado a ponerlo en conocimiento inmediato de la autoridad competente y a adoptar las medidas de evitación y, sólo cuando medie dolo, culpa o negligencia, a adoptar las medidas reparadoras.<br><br>En todo caso, quedan obligados a la adopción de medidas de reparación los operadores que hubieran incumplido los deberes relativos a las medidas de prevención y de evitación de daños.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+Los operadores deben adoptar las siguientes medidas (sin demora ni advertencia, requerimiento o de acto administrativo previo):
+
+- **Preventivas**: ante una amenaza inminente de daños medioambientales
+- **Evitación**: cuando éstos ya se hayan producido.
+
+*Para su determinación, se atenderá determinados criterios mínimos (punto 1.3 del Anexo II).*
+
+Pondrán en conocimiento inmediato de la autoridad competente (artículo 9.2) los aspectos relativos a estas situaciones, las medidas adoptadas, y su no desaparición tras aplicarlas (en su caso).
+
+Las autoridades competentes adoptarán medidas para impulsar la realización voluntaria de análisis de riesgos medioambientales entre los operadores de cualquier actividad susceptible de ocasionar daños medioambientales, para lograr una adecuada gestión del riesgo medioambiental de la actividad.
+
+
+
+Cuando se hayan producido daños medioambientales, el operador debe ponerlo en conocimiento inmediato de la autoridad competente, y realizar las medidas de reparación de las todas las actividades reguladas (Anexo III), y otras no incluidas si existe dolo, culpa o negligencia, así como en caso de incumplir las medidas de prevención y evitación de daños.
+
+
+
+
 
 
  De conformidad con lo dispuesto en el artículo 19, cuando se hayan producido daños medioambientales, el operador, sin demora y sin necesidad de advertencia, de requerimiento o de acto administrativo previo:
@@ -150,7 +159,7 @@ Cuando se hayan producido varios daños medioambientales, de manera tal que resu
 
 A tal efecto, la autoridad competente tendrá en cuenta, entre otros aspectos, la naturaleza, el alcance y la gravedad de cada daño medioambiental, así como las posibilidades de recuperación natural.
 
-En todo caso, tendrán carácter preferente en cuanto a su aplicación las medidas destinadas a la eliminación de riesgos para la salud humana.
+Tendrá carácter preferente la aplicación de las medidas destinadas a la eliminación de riesgos para la salud humana.
 
 
 |                        | Potestades administrativas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -171,9 +180,9 @@ Por requerirlo la más eficaz protección de los recursos naturales, y de los se
 
 - Que no se haya podido identificar al operador responsable y no quepa esperar a ello sin peligro de que se produzcan daños medioambientales.
 - Que haya diversos operadores responsables y no sea posible una distribución eficaz en el tiempo y en el espacio que garantice la correcta ejecución de las medidas.
-- Que se requieran estudios, conocimientos o medios técnicos que así lo aconsejen
+- Estudios, conocimientos o medios técnicos que así lo aconsejen
 - Que sean necesarias actuaciones en bienes de las Administraciones públicas o en los de propiedad privada de terceros que hagan difícil o inconveniente su realización por el operador responsable.
-- Que la gravedad y la trascendencia del daño así lo exijan.
+- Gravedad y trascendencia
 
 En casos de emergencia, la autoridad competente podrá actuar sin necesidad de tramitar el procedimiento previsto en esta ley para fijar las medidas reparadoras, de evitación o de prevención de los daños medioambientales o para exigir su adopción.
 
@@ -192,9 +201,11 @@ Las garantías financieras aparecen en el capítulo IV:
 
 ##### Artículo 24. Constitución de una garantía financiera obligatoria.
 
-Los operadores de las actividades incluidas en el anexo III, sin perjuicio de las exenciones previstas en el artículo 28, deberán disponer de una garantía financiera que les permita hacer frente a la responsabilidad medioambiental inherente a la actividad que pretendan desarrollar. Para el resto de operadores, la constitución de la garantía financiera tendrá carácter voluntario.
+La garantía financiera es obligatoria para los operadores de actividades reguladas (Anexo III, con las excepciones del artículo 28), y voluntaria para el resto.
 
-La cantidad que, como mínimo, deberá quedar garantizada y que no limitará en sentido alguno las responsabilidades establecidas en la ley, será determinada por el operador según la intensidad y extensión del daño que la actividad del operador pueda causar, de conformidad con los criterios que se establezcan reglamentariamente.
+La cantidad mínima garantizada será determinada por el operador según la intensidad y extensión del daño de la actividad, de acuerdo a criterios técnicos ([Real Decreto 2090/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-20680)).
+
+
 
 Los operadores deberán comunicar a la autoridad competente la constitución de la garantía financiera a la que vengan obligados de acuerdo con el apartado primero de este artículo. La fijación de la cuantía de esta garantía partirá del análisis de riesgos medioambientales de la actividad, o de las tablas de baremos, que se realizarán de acuerdo a la metodología que reglamentariamente se establezca por el Gobierno. La autoridad competente establecerá los correspondientes sistemas de control que le permitan comprobar el cumplimiento de estas obligaciones.
 
@@ -202,11 +213,10 @@ Los operadores deberán comunicar a la autoridad competente la constitución de 
 
 La cuantía garantizada estará destinada específica y exclusivamente a cubrir las responsabilidades medioambientales del operador que se deriven de su actividad económica o profesional.
 
-La garantía regulada en esta sección será ajena e independiente de la cobertura de cualquier otra responsabilidad, ya sea penal, civil, administrativa o de otros hechos cualesquiera y, en consecuencia, no quedará reducida o agotada por gastos, reclamaciones o exigencias no relacionadas con dichas responsabilidades medioambientales, ni podrá aplicarse a ningún fin distinto del que ha justificado su constitución. Asimismo, la cuantía garantizada será independiente de la que pueda respaldar actividades que sean objeto de autorizaciones diferentes, otorgadas tanto por la autoridad medioambiental como por otras. Tampoco podrán ser objeto de pignoración o hipoteca, total o parcial.
+La garantía regulada en esta sección será ajena e independiente de la cobertura de cualquier otra responsabilidad (penal, civil, administrativa u otros hechos), y no quedará reducida o agotada por gastos, reclamaciones o exigencias no relacionadas con dichas responsabilidades medioambientales, ni podrá aplicarse a ningún fin distinto del que ha justificado su constitución. Asimismo, la cuantía garantizada será independiente de la que pueda respaldar actividades que sean objeto de autorizaciones diferentes, otorgadas tanto por la autoridad medioambiental como por otras. Tampoco podrán ser objeto de pignoración o hipoteca, total o parcial.
 
-##### Artículo 26. Modalidades.
 
-La garantía financiera podrá constituirse a través de cualquiera de las siguientes modalidades, que podrán ser alternativas o complementarias entre sí, tanto en su cuantía, como en los hechos garantizados:
+La garantía financiera podrá constituirse a través de cualquiera de las siguientes modalidades (alternativas o complementarias entre sí en su cuantía o en hechos garantizados):
 
 - **Póliza de seguro**: suscrita con una entidad aseguradora autorizada para operar en España ([Ley 50/1980](https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501 "Abre nueva ventana")). Corresponderán al Consorcio de Compensación de Seguros determinadas funciones (artículo 33)
 
@@ -214,22 +224,20 @@ La garantía financiera podrá constituirse a través de cualquiera de las sigui
 
 - **Reserva técnica**: mediante la dotación de un fondo «ad hoc» con materialización en inversiones financieras respaldadas por el sector público.
 
-La garantía financiera que se suscriba podrá contemplar las condiciones limitativas o delimitativas del daño previstas en este capítulo u otras que reglamentariamente se determinen.
+La garantía financiera que se suscriba podrá contemplar las condiciones limitativas o delimitativas del daño.
 
-Tendrá la consideración de sujeto garantizado el operador de la actividad económica o profesional, pudiendo asimismo figurar como sujetos garantizados adicionales los subcontratistas, los profesionales que colaboren con dicho operador en la realización de la actividad autorizada y la persona o entidad titular de las instalaciones en las que se realice la actividad.
+Tendrá la consideración de sujeto garantizado el operador de la actividad económica o profesional, pudiendo asimismo figurar de manera adicional los subcontratistas, profesionales colaboradores con dicho operador en la realización de la actividad autorizada y la persona o entidad titular de las instalaciones en las que se realice la actividad.
 
-##### Artículo 28. Exenciones de constitución de garantía financiera obligatoria.
 
 Quedan exentos de constituir garantía financiera obligatoria:
 
-- Los operadores de aquellas actividades susceptibles de ocasionar daños cuya reparación se evalúe por una cantidad inferior a 300.000 euros.
+- **Reparaciones menores** (menos de 300.000 euros): siempre.
 
-- Los operadores de actividades susceptibles de ocasionar daños cuya reparación se evalúe por una cantidad comprendida entre 300.000 y 2.000.000 de euros que acrediten mediante la presentación de certificados expedidos por organismos independientes, que están adheridos con carácter permanente y continuado, bien al sistema comunitario de gestión y auditoría medioambientales (EMAS), bien al sistema de gestión medioambiental UNE-EN ISO 14001 vigente.
+- **Reparaciones medias** (300.000 a 2.000.000): si están adheridos de manera permanente y continuada al sistema comunitario de gestión y auditoría medioambientales (EMAS), o UNE-EN ISO 14001
 
-- La utilización de los productos fitosanitarios y biocidas a los que se refiere el apartado 8.c) y d) del anexo III, con fines agropecuarios y forestales, quedando por tanto exentos de efectuar la comunicación prevista en el artículo 24.3.
+- **Utilización de productos fitosanitarios y biocidas** (apartado 8.c y 8.d del Anexo III): con fines agropecuarios y forestales (no tienen que hacer comunicación: artículo 24.3).
 
-- Los operadores de las actividades que se establezcan reglamentariamente atendiendo a su escaso potencial de generar daños medioambientales y bajo nivel de accidentalidad, quedando igualmente exentos de efectuar la comunicación prevista en el artículo 24.3.
-
+- **Otras**: determinadas reglamentariamente (Real Decreto 2090/2008) de acuerdo a su escaso potencial de generar daños medioambientales y bajo nivel de accidentalidad (tampoco tienen que hacer comunicación: 24.3).
 
 El contenido de la garantía que se preste a través de las modalidades (artículo 26) deberá contemplar la cobertura de los siguientes costes:
 
@@ -237,12 +245,11 @@ El contenido de la garantía que se preste a través de las modalidades (artícu
 
 - b) Los derivados de las obligaciones del operador reguladas en los artículos 19 y 20. En la medida que dichos daños afecten a las aguas, a las especies silvestres y a sus hábitats o a las riberas del mar y de las rías, los gastos garantizados se limitan a los encuadrados dentro del concepto de «reparación primaria» definido en el apartado 1.a) del anexo II.
 
-
 La cobertura de la garantía financiera obligatoria nunca será superior a 20.000.000 de euros. En cualquier caso, la constitución de esta garantía por la cobertura máxima no exime a los operadores de comunicar la constitución de dicha garantía financiera a la autoridad competente (artículo 24.3).
 
-El Ministerio de Medio Ambiente (oída la Dirección General de Seguros y Fondos de Pensiones) podrá promulgar disposiciones por las que se regule el contenido mínimo y las limitaciones que serán admisibles, tales como sublímites, exclusiones o franquicias a cargo del titular de la actividad, de forma que se conjuguen adecuadamente el interés de las administraciones públicas en que los titulares de las actividades sometidas a la obligación cuenten con suficiente cobertura para todos los aspectos posibles de su responsabilidad medioambiental, con la oferta de garantías disponible en cada momento en los mercados financieros.
+El Ministerio de Medio Ambiente (oída la Dirección General de Seguros y Fondos de Pensiones) podrá promulgar disposiciones por las que se regule el contenido mínimo y las limitaciones admisibles (sublímites, exclusiones, franquicias...) a cargo del titular de la actividad, de forma que se conjuguen adecuadamente el interés de las administraciones públicas en que los titulares de las actividades sometidas a la obligación cuenten con suficiente cobertura para todos los aspectos posibles de su responsabilidad medioambiental, con la oferta de garantías disponible en cada momento en los mercados financieros.
 
-La garantía deberá quedar constituida de modo que, desde la fecha de efectividad de su exigencia, que se fijará reglamentariamente, queden cubiertos por ella todos los eventos causantes de daño medioambiental que se inicien después de dicha fecha. El operador deberá mantener la garantía en vigor durante todo el periodo de actividad y hasta su cese efectivo. La autoridad competente establecerá los correspondientes sistemas de control que permitan constatar la vigencia de tales garantías, a cuyo efecto las entidades aseguradoras, las entidades financieras y los propios operadores deberán proporcionar a la autoridad competente la información necesaria.
+La garantía deberá quedar constituida de modo que, desde la fecha de efectividad de su exigencia (que se fijará reglamentariamente) queden cubiertos por ella todos los eventos causantes de daño medioambiental que se inicien después de dicha fecha. El operador deberá mantener la garantía en vigor durante todo el periodo de actividad y hasta su cese efectivo. La autoridad competente establecerá los correspondientes sistemas de control que permitan constatar la vigencia de tales garantías, a cuyo efecto las entidades aseguradoras, las entidades financieras y los propios operadores deberán proporcionar a la autoridad competente la información necesaria.
 
 El agotamiento de las garantías o su reducción en más de un 50 por ciento determinará la obligación del operador de reponerlas en un plazo de seis meses desde la fecha en la que se conozca o sea estimado con un grado de certidumbre razonable el importe de la obligación garantizada.
 
@@ -255,21 +262,15 @@ Podrá limitarse el ámbito temporal de la garantía, de forma que queden inclui
 
 - c) Que la reclamación al operador por la contaminación haya tenido lugar dentro del periodo de garantía o dentro del plazo de tres años a contar desde la terminación de la misma.
 
-A los efectos de lo dispuesto en el apartado anterior, se considerará hecho generador la contaminación que se produzca de forma accidental y aleatoria, es decir, que sea extraordinaria y que no se haya generado por ninguna de las siguientes causas:
+Se considerará hecho generador la contaminación que se produzca de forma accidental y aleatoria (extraordinaria) que no se haya generado por ninguna de las siguientes causas:
 
-- De forma intencionada.
-
+- Intencionada
 - Como consecuencia normal y prevista de la posesión de edificios, instalaciones o equipos al servicio de la actividad autorizada.
-
-- Como consecuencia de un hecho previsto y consentido por el operador, ocurrido dentro del recinto en el que se lleva a cabo dicha actividad o en el ámbito geográfico para el que la actividad ha sido autorizada.
-
-- Por incumplimiento conocido por el asegurado, o que no podía ser ignorado por el mismo, de la normativa obligatoria aplicable a la actividad asegurada, tanto en materia medioambiental, como en cualquier otra materia.
-
-- Por mala utilización consciente o falta o defecto de mantenimiento, reparación o reposición de las instalaciones o mecanismos y sus componentes.
-
-- Por abandono o falta prolongada de uso de instalaciones, sin tomar las medidas adecuadas para evitar el deterioro de sus condiciones de protección o seguridad.
-
-- Como consecuencia de alborotos populares, motines, huelgas, disturbios internos, sabotaje y actos de terrorismo o de bandas armadas.
+- Hecho previsto y consentido por el operador, ocurrido dentro del recinto en el que se lleva a cabo dicha actividad o en el ámbito geográfico para el que la actividad ha sido autorizada.
+- Incumplimiento conocido por el asegurado, o que no podía ser ignorado por el mismo, de la normativa obligatoria aplicable a la actividad asegurada, tanto en materia medioambiental, como en cualquier otra materia.
+- Mala utilización consciente o falta o defecto de mantenimiento, reparación o reposición de las instalaciones o mecanismos y sus componentes.
+- Abandono o falta prolongada de uso de instalaciones, sin tomar las medidas adecuadas para evitar el deterioro de sus condiciones de protección o seguridad.
+- Alborotos populares, motines, huelgas, disturbios internos, sabotaje y actos de terrorismo o de bandas armadas.
 
 ##### Artículo 33. Fondo de compensación de daños medioambientales del Consorcio de Compensación de Seguros.
 
@@ -284,12 +285,9 @@ Las responsabilidades del Fondo se corresponderán en cada caso con los importes
 
 ##### Artículo 34. Fondo estatal de reparación de daños medioambientales.
 
-Se crea un Fondo estatal de reparación de daños medioambientales destinado a sufragar los costes derivados de medidas de prevención, de evitación o de reparación de los bienes de dominio público de titularidad estatal cuando sea de aplicación lo dispuesto en el artículo 7.3, en conexión con los artículos 14.2 y 15.2. Será gestionado por el Ministerio de Medio Ambiente y se dotará con recursos procedentes de los Presupuestos Generales del Estado.
+Se crea un Fondo estatal de reparación de daños medioambientales para sufragar los costes derivados de medidas de prevención, de evitación o de reparación de los bienes de dominio público de titularidad estatal cuando sea de aplicación lo dispuesto en el artículo 7.3, en conexión con los artículos 14.2 y 15.2. Será gestionado por el Ministerio de Medio Ambiente y se dotará con recursos procedentes de los Presupuestos Generales del Estado.
 
-Las Comunidades Autónomas podrán participar en la financiación y gestión del Fondo estatal de reparación de daños medioambientales, a través de cualquiera de los instrumentos de colaboración previstos en el [título I de la Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#ti "Abre nueva ventana"), de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
-En tales supuestos, el ámbito de cobertura de dicho Fondo podrá ampliarse a otros daños medioambientales, en los términos que prevean los referidos instrumentos de colaboración.
-
+Las Comunidades Autónomas podrán participar en la financiación y gestión del Fondo estatal de reparación de daños medioambientales, a través de cualquiera de los instrumentos de colaboración (Ley 39/2015). En tales supuestos, el ámbito de cobertura podrá ampliarse a otros daños medioambientales (en los términos que prevean los referidos instrumentos de colaboración).
 
 ##### Infracciones y sanciones
 
@@ -301,7 +299,7 @@ Podrán ser sancionadas por los hechos constitutivos de las infracciones adminis
 
 Son infracciones administrativas las acciones y las omisiones que se tipifican en los artículos siguientes, así como las que, en su caso, establezca la legislación autonómica de desarrollo de esta ley.
 
-Si un mismo hecho u omisión fuera constitutivo de dos o más infracciones, se tomará en consideración únicamente aquella que comporte mayor sanción.
+Si un mismo hecho u omisión fuera constitutivo de dos o más infracciones, se tomará en consideración únicamente la que comporte mayor sanción.
 
 No podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente, en los casos en los que se aprecie identidad del sujeto, hecho y fundamento. En los supuestos en los que las infracciones pudieran ser constitutivas de delito o de falta, la autoridad competente pasará el tanto de la culpa a la jurisdicción competente y se abstendrá de proseguir el procedimiento sancionador mientras la autoridad judicial no se haya pronunciado.
 
@@ -309,41 +307,36 @@ De no haberse estimado la existencia de delito o de falta, el Ministerio Fiscal 
 
 La tramitación de un procedimiento sancionador por las infracciones reguladas en este capítulo no postergará la exigencia de las obligaciones de adopción de medidas de prevención, de evitación de nuevos daños o de reparación previstas en esta ley, que serán independientes de la sanción que, en su caso, se imponga.
 
-##### Artículo 37. Clasificación de las infracciones.
 
 Las infracciones tipificadas en esta ley se clasifican en muy graves y en graves.
 
-|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Muy graves | a) No adoptar las medidas preventivas o de evitación exigidas por la autoridad competente al operador en aplicación del artículo 17, cuando ello tenga como resultado el daño que se pretendía evitar.<br><br>b) No ajustarse a las instrucciones recibidas de la autoridad competente en aplicación del artículo 18 a la hora de poner en práctica las medidas preventivas o de evitación a que esté obligado el operador, cuando ello tenga como resultado el daño que se pretendía evitar.<br><br>c) No adoptar las medidas reparadoras exigibles al operador en aplicación de los artículos 19 y 20, cuando ello tenga como resultado un detrimento de la eficacia reparadora de tales medidas.<br><br>d) No ajustarse a las instrucciones recibidas de la autoridad competente en aplicación del artículo 21 al poner en práctica las medidas reparadoras a que esté obligado el operador, cuando ello tenga como resultado un detrimento de la eficacia reparadora de tales medidas.<br><br>e) No informar a la autoridad competente de la existencia de un daño medioambiental o de una amenaza inminente de daño producido o que pueda producir el operador y de los que tuviera conocimiento, o hacerlo con injustificada demora, cuando ello tuviera como consecuencia que sus efectos se agravaran o llegaran a producirse efectivamente.<br><br>f) El incumplimiento de la obligación de concertar en los términos previstos en esta ley las garantías financieras a que esté obligado el operador, así como el hecho de que no se mantengan en vigor el tiempo que subsista dicha obligación.                                                                                                                                                                       |
-| graves     | a) No adoptar las medidas preventivas o de evitación exigidas por la autoridad competente al operador en aplicación del artículo 17, cuando no sea constitutiva de infracción muy grave.<br><br>b) No ajustarse a las instrucciones recibidas de la autoridad competente en aplicación del artículo 18 al poner en práctica las medidas preventivas o las de evitación a que esté obligado el operador, cuando no sea constitutiva de infracción muy grave.<br><br>c) No adoptar las medidas reparadoras exigidas al operador por la autoridad competente en aplicación del artículo 19, cuando no sea constitutiva de infracción muy grave.<br><br>d) No ajustarse, a las instrucciones recibidas de la autoridad competente en aplicación del artículo 21 a la hora de poner en práctica las medidas reparadoras a que esté obligado el operador, cuando no sea constitutiva de infracción muy grave.<br><br>e) No informar a la autoridad competente de la existencia de un daño medioambiental o de una amenaza inminente de daño producido o que pueda producir el operador y de los que tuviera conocimiento, o hacerlo con injustificada demora, cuando no sea constitutiva de infracción muy grave.<br><br>f) No facilitar la información requerida por la autoridad competente al operador, o hacerlo con retraso, de acuerdo con lo previsto en los artículos 18 y 21.<br><br>g) No prestar el operador afectado la asistencia que le fuera requerida por la autoridad competente para la ejecución de las medidas reparadoras, preventivas o de evitación, de acuerdo con lo establecido en el artículo 9.<br><br>h) La omisión, la resistencia o la obstrucción de aquellas actuaciones que fueren de obligado cumplimiento, de acuerdo con lo previsto en esta ley. |
+|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Muy graves | - No medidas preventivas o de evitación exigidas (artículo) y se haya producido daño.<br><br>- No ajustarse a las instrucciones de la autoridad competente sobre prevención y evitación (artículo 18) y daño<br><br>- No medidas reparadoras (artículos 19 y 20) y detrimento de su eficacia<br><br>- No instrucciones de la autoridad competente sobre medidas reparadoras (artículo 21) y detrimento de su eficacia.<br><br>- No información a la autoridad competente sobre daño medioambiental, amenaza inminente, y daños (producidos o agravados).<br><br>e) No informar a la autoridad competente de la existencia de un daño medioambiental o de una amenaza inminente de daño producido o que pueda producir el operador y de los que tuviera conocimiento, o hacerlo con injustificada demora, cuando ello tuviera como consecuencia que sus efectos se agravaran o llegaran a producirse efectivamente.<br><br>- No concertación de las garantías financieras o no mantenimiento en vigor<br><br>f) El incumplimiento de la obligación de concertar en los términos previstos en esta ley las garantías financieras a que esté obligado el operador, así como el hecho de que no se mantengan en vigor el tiempo que subsista dicha obligación. |
+| Graves     | - No medidas preventivas o de evitación exigidas (artículo 17), sin daño<br><br>- No instrucciones de autoridad competente sobre prevención y evitación (artículo 18), sin daño<br><br>- No medidas reparadoras (artículos 19), sin pérdida de su eficacia<br><br>- No ajustarse a las instrucciones de la autoridad competente sobre medidas reparadoras (artículo 21), sin pérdida de eficacia.<br><br>- No información a la autoridad competente de daño medioambiental o amenaza inminente (producido o conocido), o demora injustificada<br><br>e) No informar a la autoridad competente de la existencia de un daño medioambiental o de una amenaza inminente de daño producido o que pueda producir el operador y de los que tuviera conocimiento, o hacerlo con injustificada demora, cuando no sea constitutiva de infracción muy grave.<br><br>- No información requerida por la autoridad competente o hacerlo con retraso (artículos 18 y 21).<br><br>- No asistencia al operador afectado cuando fue requerido para la ejecución de las medidas (artículo 9)<br><br>- Omisión, resistencia u obstrucción de actuaciones obligatorias                                                                                                          |
 
-Las infracciones tipificadas en el artículo 37 darán lugar a la imposición de todas o algunas de las siguientes sanciones:
+Las infracciones (artículo 37) darán lugar a la imposición de todas o algunas de las siguientes sanciones:
 
-|           |                                                                                                                      |
-| --------- | -------------------------------------------------------------------------------------------------------------------- |
-| Muy grave | - **Multa**: de 50.001 a 2.000.000 de euros.<br>- **Pérdida de autorización**: extinción o suspensión de 1 a 2 años. |
-| Graves    | - **Multa**: de 10.001 a 500.000 de euros.<br>- **Pérdida de autorización**: suspensión hasta 1 año                  |
+| Clasificación | Sanciones                                                                                                            |
+| ------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Muy grave     | - **Multa**: de 50.001 a 2.000.000 de euros.<br>- **Pérdida de autorización**: extinción o suspensión de 1 a 2 años. |
+| Graves        | - **Multa**: de 10.001 a 500.000 de euros.<br>- **Pérdida de autorización**: suspensión hasta 1 año                  |
 
-
-Si se ocasionaran daños medioambientales o se agravaran los ya producidos como consecuencia de la omisión, retraso, resistencia u obstrucción por parte del operador en el cumplimiento de obligaciones previstas en esta ley, cuya inobservancia fuera constitutiva de una infracción, el operador estará obligado, en todo caso, a adoptar las medidas de prevención, de evitación y de reparación reguladas en esta ley, con independencia de la sanción que corresponda.
+Si se ocasionaran daños medioambientales o se agravaran los ya producidos como consecuencia de la omisión, retraso, resistencia u obstrucción por parte del operador en el cumplimiento de sus obligaciones, cuya inobservancia fuera constitutiva de una infracción, el operador estará obligado, en todo caso, a adoptar las medidas de prevención, de evitación y de reparación reguladas en esta ley, con independencia de la sanción que corresponda.
 
 Anualmente las autoridades competentes darán a conocer, una vez firmes, las sanciones impuestas por las infracciones cometidas de la ley, los hechos constitutivos de tales infracciones, así como la identidad de los operadores responsables.
 
 
-En la imposición de sanciones las Administraciones públicas deberán guardar la debida adecuación entre la gravedad del hecho y la sanción, considerando a tal efecto los criterios establecidos en el [artículo 131 de la Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a131 "Abre nueva ventana").
+En la imposición de sanciones las Administraciones públicas deberán guardar la debida adecuación entre la gravedad del hecho y la sanción, considerando a tal efecto los principios de la potestad sancionadora ([capítulo III del título preliminar de la Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#ciii)).
 
-#### Prescripción de infracciones y de sanciones.
-
+Las infracciones y sanciones prescriben en los siguientes tiempos:
 
 |            | Infracciones | Sanciones |
 | ---------- | ------------ | --------- |
 | Muy graves | 3 años       | 3 años    |
 | Graves     | 2 años       | 2 años    |
 
-- **Infracciones**: día en el que la infracción se hubiese cometido (o, cuando se trate de una actividad continuada, desde su finalización).
-
-- **Sanciones**: ***día siguiente*** a aquel en el que adquiera firmeza la resolución por la que se impone la sanción.
+*El cómputo de plazos de las infracciones será desde el día en que se hubiese cometido (cuando se trate de una actividad continuada, desde su finalización), y el de las sanciones, a partir del siguiente a aquel en que adquiera firmeza la resolución por la que se impone.*
 
 
 ### Ley 27/2006

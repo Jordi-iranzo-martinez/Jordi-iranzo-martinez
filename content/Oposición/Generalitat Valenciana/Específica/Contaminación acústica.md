@@ -81,23 +81,23 @@ Los ayuntamientos podrán desarrollar las prescripciones mediante ordenanzas mun
 
 La acción de la Generalitat y de las administraciones locales se basará en el ejercicio coordinado de sus competencias, conforme a los principios de prevención, reducción y corrección (por este orden). Los poderes públicos adoptarán las medidas necesarias para:
 
-- **Investigación**: a) Promover la investigación en técnicas de medida, análisis, evaluación y minimización del ruido, para lo cual la Generalitat incluirá estas actuaciones en el programa del Centro de Tecnologías Limpias.
+- **Investigación**: en técnicas de medida, análisis, evaluación y minimización del ruido, para lo cual la Generalitat incluirá estas actuaciones en el programa del Centro de Tecnologías Limpias.
 
-- **Mejores técnicas disponibles**: b) Fomentar la implantación de maquinaria, instalaciones y aparatos que generen el menor impacto acústico, mediante el empleo de la mejor tecnología disponible y económicamente viable.
+- **Mejores técnicas disponibles**: maquinaria, instalaciones y aparatos que generen el menor impacto acústico (si son económicamente viables).
 
-- **Certificaciones**: c) Controlar, a través de las correspondientes certificaciones técnicas, la implantación de los aislamientos acústicos necesarios para conseguir niveles de inmisión sonora admisibles.
+- **Certificaciones técnicas**: control de la implantación de los aislamientos acústicos necesarios para conseguir niveles de inmisión sonora admisibles.
 
-- **Planificación**: d) Elaborar y aplicar una planificación racional que tenga por objeto la ordenación acústica del municipio, distinguiendo las áreas que requieren una especial protección por la sensibilidad acústica de los usos que en ellas se desarrollan, de aquellas otras que estarán sujetas a una mayor intensidad sonora por las actividades que en las mismas se desarrollan.
+- **Planificación**: elaboración y aplicación una planificación racional que tenga por objeto la ordenación acústica del municipio, distinguiendo las áreas que requieren una especial protección por la sensibilidad acústica de los usos que en ellas se desarrollan, de aquellas otras que estarán sujetas a una mayor intensidad sonora por las actividades que en las mismas se desarrollan.
 
 - **Información**: e) Facilitar información sobre las consecuencias del ruido sobre la salud de las personas y sobre los usos y prácticas cotidianos que permitan disminuir los niveles acústicos.
 
-- **Formación y educación ambiental**:f) Elaborar y desarrollar programas de formación y educación ambiental dirigidos a los ciudadanos en general y a los agentes sobre los que tiene mayor incidencia la contaminación acústica.
+- **Formación y educación ambiental**: elaboración y desarrollo de programas para la ciudadanía en general y los agentes con mayor incidencia en la contaminación acústica.
 
 - **Diálogo y participación**: entre las Administraciones Públicas, los agentes económicos y sociales y los ciudadanos.
 
-- **Instrumentos económicos**: h) Desarrollar instrumentos económicos destinados a fomentar la implantación en las empresas de programas, procedimientos y tecnologías destinados a la prevención, reducción y control de sus emisiones sonoras.
+- **Instrumentos económicos**: desarrollo de aquellos destinados a fomentar la implantación en las empresas de programas, procedimientos y tecnologías destinados a la prevención, reducción y control de sus emisiones sonoras.
 
-- **Medidas en espacios naturales**: i) Adoptar las medidas necesarias, en el marco de la legislación específica, a fin de garantizar una buena calidad acústica de los espacios naturales protegidos de la Comunitat Valenciana.
+- **Medidas en espacios naturales protegidos**
 
 
 #### Valoración del ruido y vibraciones y niveles de perturbación
@@ -149,10 +149,6 @@ Ninguna fuente sonora podrá emitir o transmitir niveles de ruido y vibraciones 
     Se prohíbe el funcionamiento de elementos y actividades que transmitan vibraciones detectables directamente (sin instrumentos de medida), en el interior de edificios destinados a uso sanitario, docente o residencial.
 
 
-
-
-
-
 **Perturbaciones**
 
 Ninguna fuente sonora podrá emitir o transmitir niveles de ruido y vibraciones superiores a los límites establecidos
@@ -179,12 +175,12 @@ La planificación tiene por objeto la identificación de los problemas y el esta
 
 El Plan Acústico de Acción Autonómica es el instrumento de coordinación de las actuaciones de las Administraciones contra el ruido, fomentar la adopción de medidas para su prevención y la reducción de las emisiones sonoras por encima de los máximos legalmente previstos, concienciar y formar a los ciudadanos y potenciar la investigación e implantación de nuevas tecnologías para conseguir la reducción o eliminación de la contaminación acústica. Elaborado por la Conselleria y aprobado por Acuerdo del Consell: 
 
-- Medidas de prevención y reducción de la contaminación acústica: investigación eincorporación de mejoras tecnológicas en las construcciones e instalaciones, en el desarrollo de actividades y en los procesos de producción y productos finales constitutivos de fuentes sonoras.
-- Programas de concienciación social de los ciudadanos y de formación de empresarios y trabajadores en las acciones contra el ruido.
-- Medidas correctoras a fin de garantizar los niveles de inmisión previstos en el título II de esta ley.
-- Medidas de financiación para llevar a cabo dichas actuaciones.
-- Modelos orientativos de ordenanzas municipales.
-- Medidas de prevención y reducción de la contaminación acústica del tráfico rodado
+- **Medidas de prevención y reducción**: investigación eincorporación de mejoras tecnológicas en las construcciones e instalaciones, en el desarrollo de actividades y en los procesos de producción y productos finales constitutivos de fuentes sonoras.
+- **Programas de concienciación social** de los ciudadanos y de formación de empresarios y trabajadores en las acciones contra el ruido.
+- **Medidas correctoras** a fin de garantizar los niveles de inmisión previstos en el título II de esta ley.
+- **Medidas de financiación** para llevar a cabo dichas actuaciones.
+- **Modelos orientativos de ordenanzas municipales**.
+- **Medidas sobre el tráfico rodado** (prevención y reducción)
 
 
 Los Planes acústicos municipales permiten la identificación de las áreas acústicas del municipio en según su uso existente o previsto y sus condiciones acústicas, así como la adopción de medidas que permitan la progresiva reducción de sus niveles sonoros para situarlos por debajo de los previstos en la presente ley
@@ -207,17 +203,16 @@ El procedimiento incluye las etapas siguientes:
 
 *En los instrumentos de planeamiento urbanístico deberá contemplarse la información y las propuestas contenidos en los planes acústicos municipales. En defecto de éstos, los instrumentos de planeamiento urbanístico o territorial incorporarán un estudio acústico en su ámbito de ordenación mediante la utilización de modelos matemáticos predictivos que permitan evaluar su impacto acústico y adoptar las medidas adecuadas para su reducción.*
 
-Los mapas acústicos tienen por objeto analizar los niveles de ruido existentes en el término municipal y proporcionar información acerca de las fuentes sonoras causantes de la
-contaminación acústica. Distinguirán entre zonas rústicas y urbanas, estableciendo áreas diferenciadas por el uso (existente o previsto), las fuentes que generan la contaminación acústica o las condiciones de calidad sonora que requieran los valores existentes en ellas:
+Los mapas acústicos tienen por objeto analizar los niveles de ruido existentes en el término municipal y proporcionar información sobre las fuentes sonoras causantes de la contaminación acústica. Distinguirán entre zonas rústicas y urbanas, estableciendo áreas diferenciadas por el uso (existente o previsto), las fuentes que generan la contaminación acústica o las condiciones de calidad sonora que requieran los valores existentes en ellas:
 
-- Principales vías de comunicación
-- Áreas industriales y recreativas, donde se producirá la implantación de estos usos, teniendo en cuenta los mayores niveles de ruido que genere
-- Áreas residenciales y comerciales
-- Áreas especialmente protegidas por estar destinadas a usos sanitarios y docentes
-- Áreas especialmente protegidas por los valores medioambientales que residen en las mismas y que precisan estar preservados de la contaminación acústica
-- Áreas de los centros históricos
+- **Principales vías de comunicación**
+- **Áreas industriales y recreativas**, donde se producirá la implantación de estos usos, teniendo en cuenta los mayores niveles de ruido que genere
+- **Áreas residenciales y comerciales**
+- **Áreas destinadas a usos sanitarios y docentes**
+- **Áreas especialmente protegidas por sus valores medioambientales****
+- **Áreas de los centros históricos**
 
-En cada zona y área contendrán los resultados de las mediciones y análisis de niveles de ruido, identificando las fuentes, y en concreto el ruido de tráfico (el principal emisor urbano), distinguiendo los niveles de intensidad por calles. Además, se realizará un diagnóstico de la situación general y para cada área. 
+En cada zona y área contendrán los resultados de las mediciones y análisis de niveles de ruido, identificando las fuentes (en concreto el ruido de tráfico: principal emisor urbano), distinguiendo los niveles de intensidad por calles. Y se realizará un diagnóstico de la situación (en general y para cada área). 
 
 
 ZONAS ACUSTICAMENTE SATURADAS
@@ -262,7 +257,7 @@ Las condiciones acústicas de las actividades comerciales, industriales, y de se
 
 **Artículo 16. Actividades colindantes con edificios de uso residencial**
 
-Los titulares de las actividades (artículo 35 de la Ley 7/2002) que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial, además de respetar los límites establecidos en el mismo, están obligados a que los elementos constructivos y de insonorización de que se dote a los recintos en que se alojen actividades o instalaciones industriales, comerciales y de servicios, posean el aislamiento necesario para evitar que se superen los límites de transmisión al exterior o al interior de otras dependencias o locales, del ruido que se origine en su interior.
+Los titulares de las actividades (artículo 35 de la Ley 7/2002) que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial están también obligados a que los elementos constructivos y de insonorización de los recintos en que se alojen actividades o instalaciones industriales, comerciales y de servicios, posean el aislamiento necesario para evitar que se superen los límites de transmisión al exterior o al interior de otras dependencias o locales, del ruido que se origine en su interior.
 
 
 Conforme a lo establecido en los artículos 8.2 y 35.3 de la Ley 7/2002, 
@@ -273,10 +268,13 @@ El estudio acústico (artículo 36 de la Ley 7/2002) deberá ser firmado por té
 
 En el estudio acústico se analizarán en detalle:
 
-- **Nivel de ruido en el estado preoperacional**, mediante la elaboración de un informe de los niveles sonoros expresados como LAeq,t en el ambiente exterior del entorno de la actividad, infraestructura o instalación, tanto en el periodo diurno como en el nocturno.
-- **Nivel de ruido estimado en el estado de explotación**, mediante la predicción de los niveles sonoros en el ambiente exterior durante los periodos diurno y nocturno.
-- **Evaluación de la influencia previsible de la actividad**, mediante comparación del nivel acústico en los estados preoperacional y operacional, con los valores límite definidos en el presente reglamento para las zonas o áreas acústicas que sean aplicables.
-- **Definición de las medidas correctoras de la transmisión de ruidos o vibraciones a implantar en la nueva actividad**, en caso de resultar necesarias como consecuencia de la evaluación efectuada, y previsión de los efectos esperados. A tal efecto, deberá tenerse en cuenta las prescripciones para prevenir la transmisión de vibraciones a las que se refiere el artículo 16 del presente decreto.
+- **Nivel de ruido en el estado preoperacional**: mediante la elaboración de un informe de los niveles sonoros expresados como LAeq,t en el ambiente exterior del entorno de la actividad, infraestructura o instalación, tanto en el periodo diurno como en el nocturno.
+
+- **Nivel de ruido estimado en el estado de explotación**: mediante la predicción de los niveles sonoros en el ambiente exterior durante los periodos diurno y nocturno.
+
+- **Evaluación de la influencia previsible de la actividad**: mediante comparación del nivel acústico en los estados preoperacional y operacional, con los valores límite definidos en el presente reglamento para las zonas o áreas acústicas que sean aplicables.
+
+- **Definición de las medidas correctoras de la transmisión de ruidos o vibraciones a implantar en la nueva actividad**: en caso de resultar necesarias como consecuencia de la evaluación efectuada, y previsión de los efectos esperados. A tal efecto, deberá tenerse en cuenta las prescripciones para prevenir la transmisión de vibraciones a las que se refiere el artículo 16 del presente decreto.
 
 En los proyectos de actividades se considerarán las posibles molestias por ruido que, por efectos indirectos, puedan ocasionarse en las inmediaciones de su implantación, con objeto de proponer y diseñar las medidas correctoras adecuadas para evitarlas o disminuirlas. A estos efectos, deberá prestarse especial atención a las actividades que generan tráfico elevado de vehículos, como almacenes, locales públicos y, especialmente, actividades previstas en zonas de elevada densidad de población o con calles estrechas de difícil maniobra y/o con escasos espacios de aparcamiento y aquellas que requieren operaciones de carga o descarga.
 
@@ -317,7 +315,6 @@ En el proyecto presentado para obtener la licencia de actividad y funcionamiento
 En aquellos locales en los que el nivel sonoro sea superior a 90 dB(A) deberá colocarse, en sus accesos, un aviso, en las dos lenguas oficiales de la Comunitat Valenciana, perfectamente visible y legible a una distancia de cinco metros, que diga lo siguiente: 
 
 > "El nivel de ruido existente en este local puede ser perjudicial para su salud".
-
 
 Los niveles máximos de potencia sonora que los locales al aire libre puedan producir no deben transmitir en viviendas o locales contiguos o próximos niveles sonoros de recepción superiores a los establecidos (artículo 40 de la Ley 7/2002, sin perjuicio de la Ley 4/2003), en cuyo caso la administración competente podrá acordar la suspensión temporal de la licencia o autorización.
 
