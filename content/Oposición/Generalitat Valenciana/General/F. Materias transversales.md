@@ -144,17 +144,17 @@ Además, se incluyen las características siguientes:
 
 	Al objeto de hacer efectivas las disposiciones contenidas en esta Ley y que se garantice la integración de modo efectivo de la perspectiva de género en su actividad ordinaria, los poderes públicos, en la elaboración de sus estudios y estadísticas, deberán:
 	
-	a) Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos que lleven a cabo.
+	- Incluir sistemáticamente la variable de sexo en las estadísticas, encuestas y recogida de datos que lleven a cabo.
 	
-	b) Establecer e incluir en las operaciones estadísticas nuevos indicadores que posibiliten un mejor conocimiento de las diferencias en los valores, roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, su manifestación e interacción en la realidad que se vaya a analizar.
+	-  Establecer e incluir en las operaciones estadísticas nuevos indicadores que posibiliten un mejor conocimiento de las diferencias en los valores, roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, su manifestación e interacción en la realidad que se vaya a analizar.
 	
-	c) Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de la incidencia de otras variables cuya concurrencia resulta generadora de situaciones de discriminación múltiple en los diferentes ámbitos de intervención.
+	- Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de la incidencia de otras variables cuya concurrencia resulta generadora de situaciones de discriminación múltiple en los diferentes ámbitos de intervención.
 	
-	d) Realizar muestras lo suficientemente amplias como para que las diversas variables incluidas puedan ser explotadas y analizadas en función de la variable de sexo.
+	- Realizar muestras lo suficientemente amplias como para que las diversas variables incluidas puedan ser explotadas y analizadas en función de la variable de sexo.
 	
-	e) Explotar los datos de que disponen de modo que se puedan conocer las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres en los diferentes ámbitos de intervención.
+	- Explotar los datos de que disponen de modo que se puedan conocer las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres en los diferentes ámbitos de intervención.
 	
-	f) Revisar y, en su caso, adecuar las definiciones estadísticas existentes con objeto de contribuir al reconocimiento y valoración del trabajo de las mujeres y evitar la estereotipación negativa de determinados colectivos de mujeres.
+	- Revisar y, en su caso, adecuar las definiciones estadísticas existentes con objeto de contribuir al reconocimiento y valoración del trabajo de las mujeres y evitar la estereotipación negativa de determinados colectivos de mujeres.
 	
 	Sólo excepcionalmente, y mediante informe motivado y aprobado por el órgano competente, podrá justificarse el incumplimiento de alguna de las obligaciones anteriormente especificadas.
 
@@ -205,16 +205,20 @@ En la Comunidad Valenciana se ha desarrollado a través de la [Ley 9/2003](https
 | Instituciones                          | - Consejo Valenciano de las Mujeres<br>- Defensoría de la Igualdad de Género                                                                           |
 
 
-La presente ley tiene por objeto regular y hacer efectivo el principio de igualdad de mujeres y hombres en la Comunidad Valenciana, establecer los principios generales que deben orientar dicha igualdad, determinar las acciones básicas que deben ser implementadas, así como establecer la organización administrativa de la igualdad de oportunidades entre mujeres y hombres en la Comunidad Valenciana.
+La presente ley tiene por objeto 
 
+- regular y hacer efectivo el principio de igualdad de mujeres y hombres en la Comunidad Valenciana
+- establecer los principios generales que deben orientar dicha igualdad
+- determinar las acciones básicas que deben ser implementadas
+- así como establecer la organización administrativa de la igualdad de oportunidades entre mujeres y hombres en la Comunidad Valenciana.
 
 Los principios generales incluyen los siguientes:
 
-- a) Son contrarias al ordenamiento jurídico las actuaciones públicas o los comportamientos privados que sean discriminatorios.
+- **Prohibición de la discriminación**: son contrarias al ordenamiento jurídico todas las actuaciones públicas o comportamientos privados
 
-- No toda desigualdad es constitutiva de discriminación. No hay una prohibición general que impida establecer cualquier diferencia, lo que se prohíbe es la desigualdad que carece de justificación objetiva, racional y razonable.
+- **Desigualdad aceptable**: no todas son discriminación ni hay una prohibición general que impida la diferenciación, si tiene una justificación objetiva, racional y razonable
 
-- Cuando se disponga una diferencia de trato deben emplearse los medios que resulten proporcionados y adecuados o congruentes con los fines que se persiguen.
+- **Proporcionalidad**: las diferencias de trato deben emplear medios proporcionados y adecuados o congruentes con los fines perseguidos.
 
 El ámbito de la ley será de aplicación en todo el ámbito territorial de la Comunidad Valenciana, en todas las actuaciones referidas a la planificación, acciones, gestión y ejecución de actuaciones en materia de igualdad de oportunidades entre mujeres y hombres.
 
@@ -231,17 +235,17 @@ El Consell de la Generalitat informará a las Corts Valencianes de las actuacion
 
 
 Artículo 4 bis. Informes de impacto de género 
+
 Los proyectos normativos incorporarán un informe de impacto por razón de género que se elaborará por el departamento o centro directivo que propone el anteproyecto de ley o proyecto de norma, plan o programa de acuerdo con las instrucciones y directrices que dicte el órgano competente en la materia, y deberá acompañar la propuesta desde el inicio del proceso de tramitación.
 
 
 TÍTULO II. De la Actuación Administrativa
 
 CAPÍTULO I. Educación para la igualdad
-Artículo 5. Ideario educativo y valores constitucionales
 
-La Ley de Ordenación General del Sistema Educativo sienta los principios para avanzar hacia un sistema coeducativo, entendido como modelo de enseñanza basado en la formación en igualdad entre sexos, el rechazo de toda forma de discriminación y la garantía de una orientación académica y profesional no sesgada por el género.
+- **Ideario educativo y valores constitucionales**: La Ley de Ordenación General del Sistema Educativo sienta los principios para avanzar hacia un sistema coeducativo, entendido como modelo de enseñanza basado en la formación en igualdad entre sexos, el rechazo de toda forma de discriminación y la garantía de una orientación académica y profesional no sesgada por el género.
 
-Por ello, desde el sistema coeducativo de enseñanza se potenciará la igualdad real de mujeres y hombres, en todas sus dimensiones: curricular, escolar y otras.
+	Por ello, desde el sistema coeducativo de enseñanza se potenciará la igualdad real de mujeres y hombres, en todas sus dimensiones: curricular, escolar y otras.
 
 - **Derecho a la educación e igualdad de oportunidades**: El Consell de la Generalitat adoptará las medidas necesarias para garantizar la oferta de enseñanza no reglada, especialmente para las mujeres de las zonas rurales, con el objetivo de que desarrollen sus capacidades en relación a su salud, a las microempresas, a la agricultura y a sus derechos legales.
 
@@ -260,60 +264,46 @@ CAPÍTULO II. Igualdad y participación política
 
 - **Representación paritaria de mujeres y hombres**: Las Corts Valencianes y el Consell de la Generalitat procurarán en el nombramiento o designación de personas, para constituir o formar parte de órganos o instituciones, que exista una presencia paritaria de mujeres y hombres.
 
-- **Espacios electorales**
-	El Consell de la Generalitat favorecerá la presencia de mujeres en las candidaturas presentadas a las Corts Valencianes por los partidos políticos y agrupaciones electorales. Los medios de comunicación de titularidad pública tendrán en cuenta en la disposición del tiempo gratuito aquellas candidaturas con presencia equilibrada de mujeres y hombres, respetando, en todo caso, las previsiones de la Ley Electoral Valenciana.
+- **Espacios electorales**: El Consell de la Generalitat favorecerá la presencia de mujeres en las candidaturas presentadas a las Corts Valencianes por los partidos políticos y agrupaciones electorales. Los medios de comunicación de titularidad pública tendrán en cuenta en la disposición del tiempo gratuito aquellas candidaturas con presencia equilibrada de mujeres y hombres, respetando, en todo caso, las previsiones de la Ley Electoral Valenciana.
 
 
-- **Subvenciones electorales**
-
-	Las subvenciones electorales de la Generalitat reconocidas por ley se incrementarán en un 10 por ciento para los escaños obtenidos por mujeres, siempre que dicho incremento resulte compatible con las previsiones de la Ley Electoral Valenciana. Este mismo porcentaje se aplicará en la subvención para cada uno de los votos conseguidos por las candidaturas que se adecuen a lo dispuesto en el artículo anterior de esta ley, cuando tal porcentaje resulte compatible con las previsiones de la Ley Electoral Valenciana.
+- **Subvenciones electorales**: las subvenciones electorales de la Generalitat reconocidas por ley se incrementarán en un 10 por ciento para los escaños obtenidos por mujeres, siempre que dicho incremento resulte compatible con las previsiones de la Ley Electoral Valenciana. Este mismo porcentaje se aplicará en la subvención para cada uno de los votos conseguidos por las candidaturas que se adecuen a lo dispuesto en el artículo anterior de esta ley, cuando tal porcentaje resulte compatible con las previsiones de la Ley Electoral Valenciana.
 
 CAPÍTULO III. Igualdad en el ámbito laboral
 
-- **Acceso al empleo en condiciones de igualdad**
+- **Acceso al empleo en condiciones de igualdad**: En relación con el trabajo, la presente ley amparará todas las medidas adecuadas para el cumplimiento de la igualdad en el acceso al empleo.
 
-	En relación con el trabajo, la presente ley amparará todas las medidas adecuadas para el cumplimiento de la igualdad en el acceso al empleo.
+- **Igualdad y mujeres con discapacidad**: La Generalitat garantizará que las medidas de apoyo a la inserción laboral contemplen especialmente a las mujeres discapacitadas, sobre todo en aquellos aspectos que puedan redundar en el mejor mantenimiento de su estado de salud o evitación de empeoramiento del mismo, así como en la conciliación familiar y crianza de las hijas y los hijos.
 
-- **Igualdad y mujeres con discapacidad**
-	La Generalitat garantizará que las medidas de apoyo a la inserción laboral contemplen especialmente a las mujeres discapacitadas, sobre todo en aquellos aspectos que puedan redundar en el mejor mantenimiento de su estado de salud o evitación de empeoramiento del mismo, así como en la conciliación familiar y crianza de las hijas y los hijos.
-
-- **Medidas de fomento del empleo**
-	El Consell de la Generalitat, incorporará a los Planes de Empleo Valenciano medidas específicas de igualdad para favorecer el acceso de las mujeres a su primer trabajo, facilitará el acceso a un empleo a mujeres mayores de 45 años que no hayan desarrollado nunca un trabajo fuera del hogar, y facilitará el retorno al mercado de trabajo a aquellas mujeres que lo abandonaron para cuidar a su descendencia, personas mayores y otras personas dependientes a su cargo.
+- **Medidas de fomento del empleo**: El Consell de la Generalitat, incorporará a los Planes de Empleo Valenciano medidas específicas de igualdad para favorecer el acceso de las mujeres a su primer trabajo, facilitará el acceso a un empleo a mujeres mayores de 45 años que no hayan desarrollado nunca un trabajo fuera del hogar, y facilitará el retorno al mercado de trabajo a aquellas mujeres que lo abandonaron para cuidar a su descendencia, personas mayores y otras personas dependientes a su cargo.
 
 	Se establecerán y activarán programas integrales de formación profesional, de fomento de empleo y conciliación de vida familiar y laboral, para la incorporación de las mujeres a puestos de trabajo, profesionales y sectores de la economía valenciana en los que estén infrarrepresentadas. Estos programas serán específicos y prioritarios para aquellas mujeres con riesgo de exclusión social.
 
-- **Red Valenciana de Igualdad**
-	La Generalitat implementa un servicio específico de promoción de la igualdad a través de la Red Valenciana de Igualdad que, además de la incorporación de la perspectiva de género en las políticas públicas municipales, el asesoramiento y la sensibilización de las mujeres, y la prevención de la violencia de género, se encarga de informar a empresas y entidades en la elaboración e implementación de planes de igualdad dentro de sus organizaciones laborales, así como de elaborar los correspondientes informes técnicos para la obtención del visado.
+- **Red Valenciana de Igualdad**: La Generalitat implementa un servicio específico de promoción de la igualdad a través de la Red Valenciana de Igualdad que, además de la incorporación de la perspectiva de género en las políticas públicas municipales, el asesoramiento y la sensibilización de las mujeres, y la prevención de la violencia de género, se encarga de informar a empresas y entidades en la elaboración e implementación de planes de igualdad dentro de sus organizaciones laborales, así como de elaborar los correspondientes informes técnicos para la obtención del visado.
 
-- **Conciliación de vida familiar y laboral**
-	La administración autonómica ampliará la red pública de escuelas infantiles y guarderías laborales en las empresas, o prestaciones económicas equivalentes, en los períodos extraescolares, con el fin de hacer compatible el trabajo con la maternidad y la paternidad a aquellas trabajadoras y trabajadores con descendencia de menos de tres años de edad y en período de vacaciones a los mayores de tres años.
+- **Conciliación de vida familiar y laboral**: La administración autonómica ampliará la red pública de escuelas infantiles y guarderías laborales en las empresas, o prestaciones económicas equivalentes, en los períodos extraescolares, con el fin de hacer compatible el trabajo con la maternidad y la paternidad a aquellas trabajadoras y trabajadores con descendencia de menos de tres años de edad y en período de vacaciones a los mayores de tres años.
 
-- **Flexibilidad de horarios**
-	Las administraciones públicas incentivarán a las empresas que faciliten la inclusión, en los convenios colectivos de empresa y de ámbito superior, de acuerdos sobre la flexibilidad de horarios en función de las necesidades familiares del personal a su servicio.
+- **Flexibilidad de horarios**: Las administraciones públicas incentivarán a las empresas que faciliten la inclusión, en los convenios colectivos de empresa y de ámbito superior, de acuerdos sobre la flexibilidad de horarios en función de las necesidades familiares del personal a su servicio.
 
-- **Permisos parentales**
-	Con el fin de fomentar el permiso parental compartido, la administración autonómica pondrá en marcha campañas de sensibilización y tomará medidas que incentiven a las empresas y al personal a su servicio.
+- **Permisos parentales**: Con el fin de fomentar el permiso parental compartido, la administración autonómica pondrá en marcha campañas de sensibilización y tomará medidas que incentiven a las empresas y al personal a su servicio.
 
-- Los planes de igualdad en las empresas
+- **Planes de igualdad en las empresas**: la administración autonómica incentivará a las empresas que establezcan planes de igualdad que tengan por objeto corregir las desigualdades de género, incorporen medidas innovadoras para hacer realidad la igualdad en su organización, y proporcionen servicios que faciliten la conciliación de vida familiar y laboral del personal a su servicio.
+	
+	Se consideran planes de igualdad:
+	
+	>Aquellos documentos en los que se vertebran las estrategias de las entidades para la consecución real y efectiva del principio de igualdad de oportunidades entre mujeres y hombres, y que necesariamente deberán contener medidas concretas para hacer efectivo dicho principio.
+	
+	Para obtener las correspondientes ayudas previstas para las empresas, sus planes de igualdad, tendrán ser visados por el centro directivo de la administración de la Generalitat Valenciana con competencias en materia de mujeres e igualdad de género.
+	
+	El visado podrá obtenerse previa solicitud por parte de las empresas, teniendo que presentar en caso de su obtención, un informe de evaluación de resultados a mitad del periodo de la vigencia del plan de igualdad, y otro a su finalización ante este organismo. Transcurrido el plazo seis meses sin que se haya dictado resolución expresa, se entenderá desestimada la solicitud
+	
+	Las empresas u organizaciones participadas mayoritariamente con capital público deberán elaborar un plan de igualdad.
 
-La administración autonómica incentivará a las empresas que establezcan planes de igualdad que tengan por objeto corregir las desigualdades de género, incorporen medidas innovadoras para hacer realidad la igualdad en su organización, y proporcionen servicios que faciliten la conciliación de vida familiar y laboral del personal a su servicio.
+- **Discriminación salarial**: Los departamentos de la administración autonómica competente en materia de empleo, establecerán instrumentos adecuados al servicio de la Inspección de Trabajo para controlar y hacer cumplir a las personas empleadoras el principio de igualdad de remuneración de mujeres y hombres por un mismo trabajo o por trabajos de igual valor, así como cualesquiera otra medida que considere necesaria para asegurar el principio de igualdad de remuneración.
 
-A los efectos de esta ley, se consideran planes de igualdad aquellos documentos en los que se vertebran las estrategias de las entidades para la consecución real y efectiva del principio de igualdad de oportunidades entre mujeres y hombres, y que necesariamente deberán contener medidas concretas para hacer efectivo dicho principio.
+- **Programas de inserción socio-laboral para las víctimas de malos tratos**: La administración autonómica implantará programas de inserción socio-laboral individualizados para las víctimas de malos tratos que posibiliten su incorporación efectiva al mercado laboral.
 
-Para obtener las correspondientes ayudas previstas para las empresas, sus planes de igualdad, tendrán ser visados por el centro directivo de la administración de la Generalitat Valenciana con competencias en materia de mujeres e igualdad de género.
-
-El visado podrá obtenerse previa solicitud por parte de las empresas, teniendo que presentar en caso de su obtención, un informe de evaluación de resultados a mitad del periodo de la vigencia del plan de igualdad, y otro a su finalización ante este organismo. Transcurrido el plazo seis meses sin que se haya dictado resolución expresa, se entenderá desestimada la solicitud
-
-Las empresas u organizaciones participadas mayoritariamente con capital público deberán elaborar un plan de igualdad.
-
-Artículo 21. La discriminación salarial
-Los departamentos de la administración autonómica competente en materia de empleo, establecerán instrumentos adecuados al servicio de la Inspección de Trabajo para controlar y hacer cumplir a las personas empleadoras el principio de igualdad de remuneración de mujeres y hombres por un mismo trabajo o por trabajos de igual valor, así como cualesquiera otra medida que considere necesaria para asegurar el principio de igualdad de remuneración.
-
-Artículo 22. Programas de inserción socio-laboral para las víctimas de malos tratos
-La administración autonómica implantará programas de inserción socio-laboral individualizados para las víctimas de malos tratos que posibiliten su incorporación efectiva al mercado laboral.
-
-- **Acoso sexual**: 
-En el ámbito de sus competencias, la Administración autonómica incorporará y aplicará en las relaciones laborales el código de conducta contra el acoso sexual recogido en la Recomendación de la Comisión de las Comunidades Europeas de 27 de noviembre de 1991, relativa a la protección de la dignidad de la mujer y del hombre en el trabajo, y en los planes de igualdad elaborados por las empresas.
+- **Acoso sexual**: En el ámbito de sus competencias, la Administración autonómica incorporará y aplicará en las relaciones laborales el código de conducta contra el acoso sexual recogido en la Recomendación de la Comisión de las Comunidades Europeas de 27 de noviembre de 1991, relativa a la protección de la dignidad de la mujer y del hombre en el trabajo, y en los planes de igualdad elaborados por las empresas.
 
 - **Negociación colectiva**: la administración autonómica, a través del registro de convenios colectivos, informará la aplicación del principio de igualdad de géneros. Cuando a través del registro de convenios se observara la existencia de un convenio que contenga cláusulas que pudieran ser contrarias al principio de igualdad reconocido en la Constitución española y desarrollado por la presente ley, la autoridad competente adoptará las medidas oportunas previstas en la legislación laboral.
 
@@ -328,9 +318,7 @@ CAPÍTULO IV. Bienestar y Familia
 
 CAPÍTULO V. Igualdad de oportunidades en el marco de la sociedad de la información 
 
-- Acceso a las nuevas tecnologías
-
-	La Generalitat facilitará el acceso de las mujeres al manejo de las nuevas tecnologías de la comunicación e información, con especial incidencia en la población femenina.
+- **Acceso a las nuevas tecnologías**: La Generalitat facilitará el acceso de las mujeres al manejo de las nuevas tecnologías de la comunicación e información, con especial incidencia en la población femenina.
 
 	Para ello, promoverá programas específicos que involucren a las mujeres en la sociedad de la información a través de programas formativos que permitan la adquisición de conocimientos en el manejo de las nuevas tecnologías.
 
@@ -349,50 +337,35 @@ CAPÍTULO VI. De la violencia contra las mujeres
 	1 La administración autonómica promoverá la investigación sobre las causas de la violencia contra las mujeres e implantará medidas para impedirla y reparar sus efectos.
 	2 El Consell de la Generalitat promoverá, en el marco de las ayudas a la investigación, el estudio en la Comunidad Valenciana de un seguimiento de los procesos iniciados por malos tratos, agresiones sexuales y acoso sexual y de las resoluciones dictadas por Juzgados y Tribunales, prestando especial atención a las medidas cautelares adoptadas, y al razonamiento de las sentencias o autos.
 
-- **Asistencia a las víctimas de violencia de género**
-
-	Las administraciones públicas valencianas ofrecerán, en el ámbito de sus competencias,asistencia jurídica y psicológica especializada y gratuita a las víctimas de la violencia de género.
+- **Asistencia a las víctimas de violencia de género**: Las administraciones públicas valencianas ofrecerán, en el ámbito de sus competencias,asistencia jurídica y psicológica especializada y gratuita a las víctimas de la violencia de género.
 
 
-- **Seguimiento e información sobre las actuaciones en materia de violencia contra las mujeres**
-
-	El Gobierno remitirá a las Cortes Valencianas, al menos con carácter anual, un informe en que preceptivamente se contengan:
+- **Seguimiento e información sobre las actuaciones en materia de violencia contra las mujeres**: El Gobierno remitirá a las Cortes Valencianas, al menos con carácter anual, un informe en que preceptivamente se contengan:
 	
-	- a) Los recursos humanos asistenciales y económicos destinados por la Administración autonómica a la prevención de los malos tratos y a la protección de la mujeres víctimas de ellos.
-	- ) Información sobre el número de denuncias presentadas por malos tratos a mujeres.
-	- c) Las actuaciones desarrolladas por la Administración autonómica para dar asistencia a las mujeres maltratadas.
-	- d) Los procedimientos penales iniciados sobre violencia doméstica, con indicación de su número, la clase de procedimiento penal, el delito o falta imputado y la intervención de la Administración autonómica en dichos procedimientos. La reproducción de las sentencias firmes condenatorias sobre violencia doméstica, cuando se cuente con el consentimiento de la víctima o, cuando ésta no pudiere prestarlo, con el consentimiento de las personas perjudicadas. En todo caso, se respetará la intimidad de la víctima, su entorno familiar y, fundamentalmente, la intimidad de las/los menores afectadas/os.
+	- Recursos humanos asistenciales y económicos destinados por la Administración autonómica a la prevención de los malos tratos y a la protección de la mujeres víctimas de ellos.
+	- Información sobre el número de denuncias presentadas por malos tratos a mujeres.
+	- Actuaciones desarrolladas por la Administración autonómica para dar asistencia a las mujeres maltratadas.
+	- Procedimientos penales iniciados sobre violencia doméstica, con indicación de su número, la clase de procedimiento penal, el delito o falta imputado y la intervención de la Administración autonómica en dichos procedimientos. La reproducción de las sentencias firmes condenatorias sobre violencia doméstica, cuando se cuente con el consentimiento de la víctima o, cuando ésta no pudiere prestarlo, con el consentimiento de las personas perjudicadas. En todo caso, se respetará la intimidad de la víctima, su entorno familiar y, fundamentalmente, la intimidad de las/los menores afectadas/os.
 	- e) Las actuaciones llevadas a cabo para la readaptación de los agresores.
 	- f) Las actividades llevadas a cabo por el Consell de la Generalitat en materia de prevención y sensibilización contra la violencia hacia las mujeres.
 
-- **Personación de la Administración autonómica en los  procedimientos por malos tratos**
+- **Personación de la Administración autonómica en los  procedimientos por malos tratos**: La Conselleria con competencias en materia de mujer podrá proponer al Consell de la Generalitat el ejercicio de la acción popular, a través del Gabinete Jurídico de la Generalitat o de abogadas/os colegiadas/os, en los supuestos de agresiones físicas domésticas en los que se cause la muerte o lesiones graves a mujeres residentes en la Comunidad Valenciana.
 
-	La Conselleria con competencias en materia de mujer podrá proponer al Consell de la Generalitat el ejercicio de la acción popular, a través del Gabinete Jurídico de la Generalitat o de abogadas/os colegiadas/os, en los supuestos de agresiones físicas domésticas en los que se cause la muerte o lesiones graves a mujeres residentes en la Comunidad Valenciana.
+- **Protocolos de coordinación en los casos de malos tratos**: La Generalitat adoptará protocolos de actuación cuya finalidad sea garantizar una actuación coordinada y eficaz de los diversos órganos y entidades que intervengan o presten asistencia en los supuestos de malos tratos. Del mismo modo, se promoverán fórmulas de colaboración con las restantes administraciones públicas valencianas con competencias en la materia. Se tendrán en cuenta los aspectos ya recogidos en el Plan de Igualdad de Oportunidades.
 
-- **Protocolos de coordinación en los casos de malos tratos**
-	La Generalitat adoptará protocolos de actuación cuya finalidad sea garantizar una actuación coordinada y eficaz de los diversos órganos y entidades que intervengan o presten asistencia en los supuestos de malos tratos. Del mismo modo, se promoverán fórmulas de colaboración con las restantes administraciones públicas valencianas con competencias en la materia. Se tendrán en cuenta los aspectos ya recogidos en el Plan de Igualdad de Oportunidades.
+- **Prestaciones para vivienda**: Las mujeres víctimas de malos tratos que hayan tenido que abandonar su domicilio, tendrán acceso preferente a las viviendas sociales o, en su caso, tendrán preferencia en la percepción de una prestación económica específica para el alquiler de una vivienda, cuando no dispongan de recursos propios suficientes.
 
-- **Prestaciones para vivienda**
-	Las mujeres víctimas de malos tratos que hayan tenido que abandonar su domicilio, tendrán acceso preferente a las viviendas sociales o, en su caso, tendrán preferencia en la percepción de una prestación económica específica para el alquiler de una vivienda, cuando no dispongan de recursos propios suficientes.
-
-- **Protección a las víctimas de malos tratos**
-	La Generalitat adoptará sistemas especiales de protección a las víctimas de malos tratos, en aquellas situaciones en las que se presuma que puedan ser objeto de un grave riesgo físico.
+- **Protección a las víctimas de malos tratos**: La Generalitat adoptará sistemas especiales de protección a las víctimas de malos tratos, en aquellas situaciones en las que se presuma que puedan ser objeto de un grave riesgo físico.
 
 CAPÍTULO VII. Igualdad y medios de comunicación
-- **Imagen de la mujer y pluralidad de roles**
 
-	Los medios de comunicación de titularidad pública, y aquellos en los que participen o subvencionen las administraciones públicas valencianas, transmitirán en su programación una imagen de las mujeres que se corresponda con la pluralidad de roles y funciones ejercidos por ellas en la sociedad.
+- **Imagen de la mujer y pluralidad de roles**: Los medios de comunicación de titularidad pública, y aquellos en los que participen o subvencionen las administraciones públicas valencianas, transmitirán en su programación una imagen de las mujeres que se corresponda con la pluralidad de roles y funciones ejercidos por ellas en la sociedad.
 
-- **Programación y valores constitucionales**
-	En la programación de los medios de comunicación señalados en el artículo anterior se promoverán la igualdad, la tolerancia, el rechazo a la violencia, la dignidad de las personas y los valores constitucionales.
+- **Programación y valores constitucionales**: n la programación de los medios de comunicación señalados en el artículo anterior se promoverán la igualdad, la tolerancia, el rechazo a la violencia, la dignidad de las personas y los valores constitucionales.
 
-- **Publicidad no sexista en la Comunitat Valenciana** 
-	La Generalitat velará, de manera específica, por el cumplimiento del principio de igualdad y no discriminación en la publicidad en los medios de comunicación social o cualquier otro medio de difusión.
+- **Publicidad no sexista en la Comunitat Valenciana** : La Generalitat velará, de manera específica, por el cumplimiento del principio de igualdad y no discriminación en la publicidad en los medios de comunicación social o cualquier otro medio de difusión.
 
-
-- **Sobre la erradicación de la violencia**
-
-	El Consell de la Generalitat garantizará en los medios de comunicación audiovisual de titularidad pública, la emisión de programas cuyo objetivo sea erradicar la violencia contra las mujeres, el acoso sexual y la explotación sexual de la mujer. Así mismo, se programará la emisión de campañas institucionales sostenidas en el tiempo de sensibilización contra la violencia de género
+- **Sobre la erradicación de la violencia**: El Consell de la Generalitat garantizará en los medios de comunicación audiovisual de titularidad pública, la emisión de programas cuyo objetivo sea erradicar la violencia contra las mujeres, el acoso sexual y la explotación sexual de la mujer. Así mismo, se programará la emisión de campañas institucionales sostenidas en el tiempo de sensibilización contra la violencia de género
 
 TÍTULO III. Igualdad y Administración Pública
 
@@ -400,25 +373,17 @@ TÍTULO III. Igualdad y Administración Pública
 
 - **Igualdad en la promoción interna**: Las administraciones públicas establecerán planes plurianuales de los distintos departamentos con el fin de promover el acceso de las mujeres a la promoción interna de la función pública. Cada departamento deberá fijar en los respectivos planes los indicadores y objetivos.
 
-- **Fomento de la igualdad en el ámbito de la contratación**
-
-	En caso de empate en la puntuación obtenida por dos o más empresas a las que les hubiera correspondido la máxima puntuación, tendrán preferencia en la adjudicación de los contratos administrativos de la Generalitat, las proposiciones de los licitadores que con la solvencia técnica de la empresa presenten un plan de igualdad previamente aprobado por cualquier administración pública u órgano competente, siempre que las mismas igualen en sus términos a las más ventajosas desde el punto de vista de los criterios objetivos que sirven de base para la adjudicación.
+- **Fomento de la igualdad en el ámbito de la contratación**: En caso de empate en la puntuación obtenida por dos o más empresas a las que les hubiera correspondido la máxima puntuación, tendrán preferencia en la adjudicación de los contratos administrativos de la Generalitat, las proposiciones de los licitadores que con la solvencia técnica de la empresa presenten un plan de igualdad previamente aprobado por cualquier administración pública u órgano competente, siempre que las mismas igualen en sus términos a las más ventajosas desde el punto de vista de los criterios objetivos que sirven de base para la adjudicación.
 	
 	Sin perjuicio de lo establecido en el apartado anterior, el órgano de contratación podrá acordar el establecimiento de otros criterios adicionales de desempate de las empresas, incluida su prelación. 
 	
 	La adopción de cualquier criterio adicional deberá constar, en todo caso, en el anuncio de licitación. 
 
-- **Acoso sexual**
+- **Acoso sexual**: La administración autonómica incorporará en el Régimen de la Función Pública Valenciana el código de conducta contra el acoso sexual recogido en la Recomendación de la Comisión de las Comunidades Europeas de 27 de noviembre de 1991, relativa a la protección de la dignidad de la mujer y del hombre en el trabajo.
 
-	La administración autonómica incorporará en el Régimen de la Función Pública Valenciana el código de conducta contra el acoso sexual recogido en la Recomendación de la Comisión de las Comunidades Europeas de 27 de noviembre de 1991, relativa a la protección de la dignidad de la mujer y del hombre en el trabajo.
+- **El lenguaje no-sexista en los escritos administrativos**: Las administraciones públicas valencianas pondrán en marcha los medios necesarios para que toda norma o escrito administrativo respeten en su redacción las normas relativas a la utilización de un lenguaje no-sexista.
 
-- **El lenguaje no-sexista en los escritos administrativos**
-
-	Las administraciones públicas valencianas pondrán en marcha los medios necesarios para que toda norma o escrito administrativo respeten en su redacción las normas relativas a la utilización de un lenguaje no-sexista.
-
-- **Datos estadísticos e investigaciones**
-
-	El Consell de la Generalitat, impulsará la desagregación de datos por sexos en todas las estadísticas e investigaciones que se lleven a cabo en la Comunitat Valenciana, profundizará en el estudio e investigación sobre la realidad social desde una perspectiva de género, y dará cuenta de la evolución de los índices de igualdad de mujeres y hombres en el ámbito de la Comunitat Valenciana.
+- **Datos estadísticos e investigaciones**: El Consell de la Generalitat, impulsará la desagregación de datos por sexos en todas las estadísticas e investigaciones que se lleven a cabo en la Comunitat Valenciana, profundizará en el estudio e investigación sobre la realidad social desde una perspectiva de género, y dará cuenta de la evolución de los índices de igualdad de mujeres y hombres en el ámbito de la Comunitat Valenciana.
 
 
 TÍTULO IV. Instituciones de Protección del Derecho
@@ -432,15 +397,17 @@ TÍTULO IV. Instituciones de Protección del Derecho
 ---
 Las medidas incluyen las siguientes: 
 
-| Ámbito                     | Medidas                                                                                                                                                                                                                                                                                                                                           |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Educación                  | - Ideario educativo<br>- Derecho a la educación e igualdad de oportunidades<br>- Conciliación familiar y laboral<br>- Formación (para la igualdad)<br>- Universidad (igualdad de oportunidades)                                                                                                                                                   |
-| Igualdad                   | - Representación paritaria<br>- Espacios electorales<br>- Subvenciones                                                                                                                                                                                                                                                                            |
-| Laboral                    | - Acceso<br>- Discapacidad<br>- Fomento<br>- Red Valenciana de Igualdad<br>- Conciliación de la vida familiar y laboral<br>- Flexibilidad de horarios<br>- Permisos parentales<br>- Planes de igualdad de empresas<br>- Discriminación salarial<br>- Programas de inserción socio-laboral (víctimas)<br>- Acoso sexual<br>- Negociación colectiva |
-| Familia                    | - Personas dependientes<br>- Feminización de la pobreza<br>- Plan Integral de la Familia e Infancia                                                                                                                                                                                                                                               |
-| Sociedad de la información | - Acceso a nuevas tecnologías<br>- Campañas de información e igualdad con discapacidad<br>- Servicios de traducción<br>- Acceso a la información y comunicación<br>- Participación                                                                                                                                                                |
-| Violencia                  | - Investigación<br>- Asistencia (víctimas)<br>- Seguimiento e información de actuaciones<br>- Personación de la Administración autonómica (procedimientos de malos tratos)<br>- Protocolos de coordinación (malos tratos)<br>- Prestaciones para vivienda<br>- Protección a las víctimas                                                          |
-| Medios de comunicación     | - Imagen de la mujer y pluralidad de roles<br>- Programación y valores constitucionales<br>- Publicidad no sexista<br>- Erradicación de la violencia                                                                                                                                                                                              |
+| Ámbito                                  | Medidas                                                                                                                                                                                                                                                                                                                                           |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Educación                               | - Ideario educativo<br>- Igualdad de oportunidades<br>- Conciliación familiar y laboral<br>- Formación (para la igualdad)<br>- Universidad (igualdad de oportunidades)                                                                                                                                                                            |
+| Igualdad                                | - Representación paritaria<br>- Espacios electorales<br>- Subvenciones                                                                                                                                                                                                                                                                            |
+| Laboral                                 | - Acceso<br>- Discapacidad<br>- Fomento<br>- Red Valenciana de Igualdad<br>- Conciliación de la vida familiar y laboral<br>- Flexibilidad de horarios<br>- Permisos parentales<br>- Planes de igualdad de empresas<br>- Discriminación salarial<br>- Programas de inserción socio-laboral (víctimas)<br>- Acoso sexual<br>- Negociación colectiva |
+| Familia                                 | - Personas dependientes<br>- Feminización de la pobreza<br>- Plan Integral de la Familia e Infancia                                                                                                                                                                                                                                               |
+| Sociedad de la información              | - Acceso a nuevas tecnologías<br>- Campañas de información e igualdad con discapacidad<br>- Servicios de traducción<br>- Acceso a la información y comunicación<br>- Participación                                                                                                                                                                |
+| Violencia                               | - Investigación<br>- Asistencia (víctimas)<br>- Seguimiento e información de actuaciones<br>- Personación de la Administración autonómica (procedimientos de malos tratos)<br>- Protocolos de coordinación (malos tratos)<br>- Prestaciones para vivienda<br>- Protección a las víctimas                                                          |
+| Medios de comunicación                  | - Imagen de la mujer y pluralidad de roles<br>- Programación y valores constitucionales<br>- Publicidad no sexista<br>- Erradicación de la violencia                                                                                                                                                                                              |
+| Administración Pública                  | - Procesos de formación y promoción de puestos de trabajo<br>- Promoción interna<br>- Contratación<br>- Acoso sexua<br>- Lenguaje no-sexista en escritos administrativos<br>- Datos estadísticos e investigaciones                                                                                                                                |
+| Instituciones de Protección del Derecho | - Consejo Valenciano de las Mujeres<br>- Defensoría de la Igualdad de Género                                                                                                                                                                                                                                                                      |
 
 
 ### Ley 4/2023

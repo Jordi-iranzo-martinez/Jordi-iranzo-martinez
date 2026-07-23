@@ -57,7 +57,7 @@ Refleja, a su vez, los siguientes fundamentos de actuación:
 Este Estatuto se aplica al personal funcionario y en lo que proceda al personal laboral al servicio de las siguientes Administraciones Públicas:
 
 - Administración General del Estado
-- Las Administraciones de las comunidades autónomas y de las ciudades de Ceuta y Melilla
+- Las Administraciones de las Comunidades autónomas y de las ciudades de Ceuta y Melilla
 - Administraciones locales
 - Los organismos públicos, agencias y demás entidades de derecho público con personalidad jurídica propia, vinculadas o dependientes de cualquiera de las Administraciones Públicas
 - Universidades Públicas
@@ -80,10 +80,10 @@ Las disposiciones de este Estatuto sólo se aplicarán directamente cuando así 
 - Otros Órganos Constitucionales del Estado y estatutarios autonómicos
 - Administración de Justicia: Jueces, Magistrados, Fiscales y demás personal funcionario
 - Fuerzas Armadas (militar)
-- Fuerzas y Cuerpos de Seguridad.
-- Personal retribuido por arancel.
-- Centro Nacional de Inteligencia.
-- Banco de España y Fondo de Garantía de Depósitos de Entidades de Crédito.
+- Fuerzas y Cuerpos de Seguridad
+- Personal retribuido por arancel
+- Centro Nacional de Inteligencia
+- Banco de España y Fondo de Garantía de Depósitos de Entidades de Crédito
 
 El personal funcionario de la Sociedad Estatal Correos y Telégrafos se regirá por sus normas específicas y supletoriamente por lo dispuesto en este Estatuto. Su personal laboral se regirá por la legislación laboral y demás normas convencionalmente aplicables.
 
@@ -195,6 +195,7 @@ Las situaciones administrativas de los funcionarios de carrera (título VI) incl
 
 
 - **Suspensión de funciones**: 
+
 
 
 
@@ -337,15 +338,13 @@ Los convenios colectivos podrán determinar la aplicación de este capítulo al 
 
 #### Régimen disciplinario
 
-Los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el presente título y en las normas que las leyes de Función Pública dicten en desarrollo de este Estatuto.
+Los funcionarios públicos y el personal laboral quedan sujetos al siguiente régimen disciplinario básico, incluyendo los siguientes:
 
-Los funcionarios públicos o el personal laboral que indujeren a otros a la realización de actos o conductas constitutivos de falta disciplinaria incurrirán en la misma responsabilidad que éstos.
+- **Responsables**: por acción o emisión
+- **Inductores**: incurrirán en la misma responsabilidad que éstos. 
+- **Encubridores**: para faltas muy graves o graves si se producen daños para la Administración o los ciudadanos.
 
-Igualmente, incurrirán en responsabilidad los funcionarios públicos o personal laboral que encubrieren las faltas consumadas muy graves o graves, cuando de dichos actos se derive daño grave para la Administración o los ciudadanos.
-
-El régimen disciplinario del personal laboral se regirá, en lo no previsto en el presente título, por la legislación laboral.
-
-##### Artículo 94. Ejercicio de la potestad disciplinaria.
+*El personal laboral se regirá supletoriamente por la legislación laboral.*
 
 Las Administraciones Públicas corregirán disciplinariamente las infracciones del personal a su servicio cometidas en el ejercicio de sus funciones y cargos (sin perjuicio de la responsabilidad patrimonial o penal).
 
@@ -357,39 +356,62 @@ La potestad disciplinaria se ejercerá de acuerdo con los siguientes principios:
 - **Culpabilidad**
 - **Presunción de inocencia**
 
-Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad, se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.
+*Cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad, se suspenderá su tramitación y se pondrá en conocimiento del Ministerio Fiscal.*
 
 Los hechos declarados probados por resoluciones judiciales firmes vinculan a la Administración.
 
+Las faltas disciplinarias pueden ser muy graves, graves y leves.
 
-Las faltas disciplinarias pueden ser muy graves, graves y leves:
+Las muy graves incluyen las siguientes: 
 
-|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Muy graves | a) El incumplimiento del deber de respeto a la Constitución y a los respectivos Estatutos de Autonomía de las comunidades autónomas y ciudades de Ceuta y Melilla, en el ejercicio de la función pública.<br><br>b) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, identidad sexual, características sexuales, lengua, opinión, lugar de nacimiento o vecindad, sexo o cualquier otra condición o circunstancia personal o social, así como el acoso por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, expresión de género, características sexuales, y el acoso moral y sexual.<br><br>- **Abandono del servicio**: y no hacerse cargo voluntariamente de las tareas o funciones encomendadas.<br><br>- **Acuerdos ilegales**: perjuicio grave a la Administración o a los ciudadanos.<br><br>e) La publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.<br><br>- **Negligencia en la custodia de secretos oficiales**, declarados así por Ley o clasificados como tales, que sea causa de su publicación o que provoque su difusión o conocimiento indebido.<br><br>g) El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas.<br><br>- **No imparcialidad**, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.<br><br>- **Desobediencia abierta**: a un superior (salvo ilegalidad).<br><br>- **Beneficio indebido** (prevalencia de su condición de empleado público)<br><br>k) La obstaculización al ejercicio de las libertades públicas y derechos sindicales.<br><br>l) La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.<br><br>m) El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.<br><br>n) El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad.<br><br>ñ) La incomparecencia injustificada en las Comisiones de Investigación de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas.<br><br>- **Acoso laboral**<br><br>- **Otras**: tipificadas en ley de las Cortes Generales, asamblea legislativa autónoma correspondiente, o los convenios colectivos |
-| Graves     | establecidas por ley de las Cortes Generales o de la asamblea legislativa de la correspondiente comunidad autónoma o por los convenios colectivos en el caso de personal laboral, atendiendo a las siguientes circunstancias:<br><br>a) El grado en que se haya vulnerado la legalidad.<br><br>b) La gravedad de los daños causados al interés público, patrimonio o bienes de la Administración o de los ciudadanos.<br><br>c) El descrédito para la imagen pública de la Administración.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Leves      | Las leyes de Función Pública que se dicten en desarrollo del presente Estatuto determinarán el régimen aplicable a las faltas leves, atendiendo a las anteriores circunstancias.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+- **Incumplimiento de la Constitución y los respectivos Estatutos de Autonomía** (en el ejercicio de la función pública)
+
+b) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, identidad sexual, características sexuales, lengua, opinión, lugar de nacimiento o vecindad, sexo o cualquier otra condición o circunstancia personal o social, así como el acoso por razón de sexo, origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, expresión de género, características sexuales, y el acoso moral y sexual.
+
+- **Abandono del servicio**: y no hacerse cargo voluntariamente de las tareas o funciones encomendadas.
+
+- **Acuerdos ilegales**: perjuicio grave a la Administración o a los ciudadanos.
+
+e) La publicación o utilización indebida de la documentación o información a que tengan o hayan tenido acceso por razón de su cargo o función.
+
+- **Negligencia en la custodia de secretos oficiales**, declarados así por Ley o clasificados como tales, que sea causa de su publicación o que provoque su difusión o conocimiento indebido.
+
+g) El notorio incumplimiento de las funciones esenciales inherentes al puesto de trabajo o funciones encomendadas.
+
+- **No imparcialidad**, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.
+
+- **Desobediencia abierta**: a un superior (salvo ilegalidad).
+
+- **Beneficio indebido** (prevalencia de su condición de empleado público)
+
+- Obstaculización del ejercicio de las libertades públicas y derechos sindicales.
+
+- La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.
+
+- El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.
+
+- El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad.
+
+- **Incomparecencia injustificada en Comisiones de Investigación**: de las Cortes Generales y de las asambleas legislativas de las comunidades autónomas.
+
+- **Acoso laboral**
+
+- **Otras**: tipificadas en ley de las Cortes Generales, asamblea legislativa autónoma correspondiente, o los convenios colectivos
+
+Las infracciones graves y leves se establecerán por Ley de Cortes Generales o asamblea legislativa autonómica (por los convenios colectivos para las faltas graves del personal laboral), atendiendo a las siguientes circunstancias:
+
+- **Vulneración**: grado respecto a la legalidad
+- **Gravedad**: daños al interés público, patrimonio o bienes de la Administración o de los ciudadanos
+- **Descrédito**: para la imagen pública de la Administración
 
 
+Por razón de las faltas cometidas podrán imponerse las siguientes sanciones (de acuerdo a una determinada gradación):
 
+|           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sanciones | - **Separación del servicio** (revocación de nombramiento para los interinos): por faltas muy graves.<br><br>- **Despido disciplinario** (personal laboral): por faltas muy graves, comportando inhabilitación para nuevo contrato con funciones similares (procederá su readmisión cuando el despido se haya declarado improcedente)<br><br>- **Suspensión firme de funciones** (de empleo y sueldo en el caso del personal laboral): durante máximo 6 años.<br><br>- **Traslado forzoso**, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca.<br><br>- **Demérito**: penalización a efectos de carrera, promoción o movilidad voluntaria.<br><br>- **Apercibimiento**<br><br>- **Otra**: de acuerdo con la ley |
+| Gradación | - Intencionalidad<br>- Descuido o negligencia que se revele en la conducta<br>- Daño al interés público<br>- Reiteración o reincidencia<br>- Participación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-Por razón de las faltas cometidas podrán imponerse las siguientes sanciones:
-
-- **Separación del servicio** (revocación de nombramiento para los interinos): por faltas muy graves.
-
-- **Despido disciplinario** (personal laboral): por faltas muy graves, comportando inhabilitación para nuevo contrato con funciones similares (procederá su readmisión cuando el despido se haya declarado improcedente)
-
-- **Suspensión firme de funciones** (de empleo y sueldo en el caso del personal laboral): durante máximo 6 años.
-
-- **Traslado forzoso**, con o sin cambio de localidad de residencia, por el período que en cada caso se establezca.
-
-- **Demérito**: penalización a efectos de carrera, promoción o movilidad voluntaria.
-
-- **Apercibimiento**
-
-- **Otra**: de acuerdo con la ley.
-
-El alcance de cada sanción se establecerá teniendo en cuenta el grado de intencionalidad, descuido o negligencia que se revele en la conducta, el daño al interés público, la reiteración o reincidencia, así como el grado de participación.
 
 La prescripción de las faltas y sanciones es la siguiente:
 
@@ -450,27 +472,25 @@ En la Comunidad Valenciana se ha desarrollado a través de la [Ley 4/2021](https
 
 El objeto de la presente ley es la ordenación y regulación de la función pública valenciana, así como de sus instrumentos de gestión y la determinación del régimen jurídico del personal incluido en su ámbito de aplicación, con el alcance que en cada caso se establece, en el ejercicio de las competencias atribuidas por la Constitución Española y por el Estatut d’Autonomia de la Comunitat Valenciana, en el marco de la legislación básica estatal.
 
-Artículo 2. Principios informadores
-
 Los principios y fundamentos de actuación que ordenan la función pública valenciana como instrumento para la gestión y realización de los intereses generales que tiene encomendados la administración son los siguientes:
 
-- Servicio a la ciudadanía y a los intereses generales.
-- Sometimiento pleno a la ley y al derecho.
-- Economía, eficacia y eficiencia.
-- Igualdad efectiva de mujeres y hombres, así como no discriminación en todas sus facetas, fomentando la conciliación de la vida personal, familiar y laboral y la corresponsabilidad en las tareas derivadas de la vida personal.
-- Objetividad, profesionalidad, transparencia, integridad, imparcialidad y austeridad.
+- **Servicio público**: a la ciudadanía y a los intereses generales.
+- **Legalidad**: sometimiento pleno a la ley y al derecho.
+- **Economía, eficacia y eficiencia**.
+- **Igualdad** efectiva de mujeres y hombres, así como no discriminación en todas sus facetas, fomentando la conciliación de la vida personal, familiar y laboral y la corresponsabilidad en las tareas derivadas de la vida personal.
+- **Objetividad, profesionalidad, transparencia, integridad, imparcialidad y austeridad**.
 - Desarrollo y cualificación profesional permanente del personal empleado público.
 - Evaluación y responsabilidad en la gestión.
-- Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas.
-- Negociación colectiva y participación, a través de las y los representantes del personal empleado público, en la determinación de las condiciones de trabajo.
+- **Jerarquía**: en la atribución, ordenación y desempeño de las funciones y tareas.
+- **Negociación colectiva y participación**, a través de las y los representantes del personal empleado público, en la determinación de las condiciones de trabajo.
 - Implementación de las herramientas informáticas necesarias para hacer efectivo el derecho de las personas físicas y la obligación, en su caso, de las mismas y del personal empleado público, de relacionarse electrónicamente con las administraciones públicas, así como para la prestación del servicio en condiciones adecuadas.
-- Ética profesional en el desempeño del servicio público.
+- **Ética profesional** en el desempeño del servicio público.
 - Igualdad, mérito, capacidad, publicidad y transparencia en el acceso y en la promoción profesional.
-- Eficacia en la planificación y gestión integrada de los recursos humanos, en particular, la ordenación y racionalización de los sistemas de acceso, la provisión de puestos de trabajo, la carrera profesional y el sistema retributivo.
-- Adecuación de los sistemas retributivos a los puestos de trabajo y a las funciones y tareas desempeñadas.
-- Igualdad de oportunidades, no discriminación y accesibilidad universal en el empleo público de las personas con discapacidad o diversidad funcional.
-- Cooperación y coordinación entre las administraciones públicas en general y de la Comunitat Valenciana en particular, en la regulación y gestión del empleo público.
-- Promoción de la estabilidad en el empleo público.
+- **Eficacia** en la planificación y gestión integrada de los recursos humanos, en particular, la ordenación y racionalización de los sistemas de acceso, la provisión de puestos de trabajo, la carrera profesional y el sistema retributivo.
+- **Adecuación de los sistemas retributivos** a los puestos de trabajo y a las funciones y tareas desempeñadas.
+- **Igualdad de oportunidades, no discriminación y accesibilidad universal** en el empleo público de las personas con discapacidad o diversidad funcional.
+- **Cooperación y coordinación** entre las administraciones públicas en general y de la Comunitat Valenciana en particular, en la regulación y gestión del empleo público.
+- **Promoción de la estabilidad** en el empleo público.
 
 La función pública valenciana está constituida por el conjunto de personas que prestan servicios retribuidos en la misma mediante una relación regulada por la normativa administrativa o laboral.
 
@@ -482,19 +502,19 @@ Artículo 3. Ámbito subjetivo de aplicación
 
 La presente ley se aplica al personal funcionario, al personal laboral empleado público cuando así lo disponga expresamente, y al personal eventual en los términos y con las limitaciones previstas en el artículo 20 de la misma en lo que sea compatible con la naturaleza de su relación jurídica, que presta sus servicios en:
 
-- Administración de la Generalitat, que comprende el conjunto de órganos y unidades administrativas en los que se estructuran los servicios centrales y periféricos de la presidencia de la Generalitat y de cada una de las consellerias.
+- **Administración de la Generalitat**, que comprende el conjunto de órganos y unidades administrativas en los que se estructuran los servicios centrales y periféricos de la presidencia de la Generalitat y de cada una de las consellerias.
 
-- Organismos públicos de la Generalitat a que se refiere el artículo 2.3.a de la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones.
+- **Organismos públicos de la Generalitat** a que se refiere el artículo 2.3.a de la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones.
 
-- Consorcios adscritos a la Generalitat.
+- **Consorcios adscritos a la Generalitat**
 
-- Administraciones de las entidades locales de la Comunitat Valenciana, así como los consorcios adscritos a las mismas, los organismos autónomos locales y las entidades públicas empresariales locales, con respeto a lo establecido en sus respectivos estatutos y en la normativa sectorial autonómica, en aquellos aspectos no reservados a la legislación del Estado, con las especificidades previstas en la disposición adicional décima de esta ley.
+- **Administraciones de las entidades locales de la Comunitat Valenciana**, así como los consorcios adscritos a las mismas, los organismos autónomos locales y las entidades públicas empresariales locales, con respeto a lo establecido en sus respectivos estatutos y en la normativa sectorial autonómica, en aquellos aspectos no reservados a la legislación del Estado, con las especificidades previstas en la disposición adicional décima de esta ley.
 
-- Universidades públicas de la Comunitat Valenciana, en relación exclusivamente con su personal de administración y servicios, en todo lo que no esté expresamente regulado por la legislación orgánica de universidades y sus disposiciones de desarrollo.
+- **Universidades públicas de la Comunitat Valenciana**, en relación exclusivamente con su personal de administración y servicios, en todo lo que no esté expresamente regulado por la legislación orgánica de universidades y sus disposiciones de desarrollo.
 
-1. El personal docente no universitario y el personal estatutario que desempeñe su función en los centros e instituciones sanitarias del servicio valenciano de salud se regirá por lo dispuesto en su normativa específica y, subsidiariamente, en aquellas materias no reguladas en dicha normativa, por la presente ley, a excepción de los artículos relativos a las retribuciones complementarias, la movilidad interadministrativa y la promoción profesional. No obstante lo anterior, las previsiones de la evaluación del desempeño del artículo 137 serán de aplicación a este personal.
+El personal docente no universitario y el personal estatutario que desempeñe su función en los centros e instituciones sanitarias del servicio valenciano de salud se regirá por lo dispuesto en su normativa específica y, subsidiariamente, en aquellas materias no reguladas en dicha normativa, por la presente ley, a excepción de los artículos relativos a las retribuciones complementarias, la movilidad interadministrativa y la promoción profesional. No obstante lo anterior, las previsiones de la evaluación del desempeño del artículo 137 serán de aplicación a este personal.
 
-2. El personal investigador al servicio de la Generalitat se regirá por su legislación específica y, en lo no dispuesto en ella, por la presente ley y demás legislación general aplicable según el tipo de personal.
+El personal investigador al servicio de la Generalitat se regirá por su legislación específica y, en lo no dispuesto en ella, por la presente ley y demás legislación general aplicable según el tipo de personal.
 
 La presente ley se aplicará al personal funcionario o laboral empleado público gestionado por la conselleria competente en materia de sanidad, sin perjuicio de que puedan dictarse disposiciones reglamentarias específicas para adecuarla a las peculiaridades propias de dicho sector.
 
@@ -510,15 +530,15 @@ Las disposiciones de esta ley solo se aplicarán directamente cuando así lo dis
 
 Las previsiones de la presente ley y de su normativa reglamentaria de desarrollo referidas a la Administración de la Generalitat, con las salvedades previstas en los apartados 2, 3 y 4 del artículo 3, serán de aplicación asimismo a:
 
-a) Las personas y puestos adscritos a los organismos autónomos de la Generalitat. Se exceptúa de esta previsión, en el caso de que las leyes de creación de estos organismos establezcan la posibilidad de disponer de personal laboral propio, tanto a este personal como a los puestos de trabajo a los que estén adscritos.
+- Las personas y puestos adscritos a los organismos autónomos de la Generalitat. Se exceptúa de esta previsión, en el caso de que las leyes de creación de estos organismos establezcan la posibilidad de disponer de personal laboral propio, tanto a este personal como a los puestos de trabajo a los que estén adscritos.
 
-b) Las personas y puestos de naturaleza funcionarial adscritos al resto de los organismos públicos de la Generalitat a que se refiere el artículo 2.3.a de la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones.
+- Las personas y puestos de naturaleza funcionarial adscritos al resto de los organismos públicos de la Generalitat a que se refiere el artículo 2.3.a de la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones.
 
-c) Los puestos de los consorcios adscritos a la Generalitat procedentes de la Administración de la Generalitat y sus organismos autónomos y, en su caso, las personas que los ocupan.
+- Los puestos de los consorcios adscritos a la Generalitat procedentes de la Administración de la Generalitat y sus organismos autónomos y, en su caso, las personas que los ocupan.
 
-Sin perjuicio de lo dispuesto en el artículo 8.2 de la presente ley, corresponderá a la conselleria competente en materia de función pública, además de la gestión de las personas y puestos de trabajo de la Administración de la Generalitat, la de las personas y puestos de trabajo incluidos en el apartado anterior con la salvedad prevista en el apartado a del mismo.
+	Sin perjuicio de lo dispuesto en el artículo 8.2 de la presente ley, corresponderá a la conselleria competente en materia de función pública, además de la gestión de las personas y puestos de trabajo de la Administración de la Generalitat, la de las personas y puestos de trabajo incluidos en el apartado anterior con la salvedad prevista en el apartado a del mismo.
 
-La gestión de los puestos y del personal docente no universitario y del estatutario corresponderá, respectivamente, a la conselleria competente en materia de educación y a la conselleria competente en materia de sanidad.
+	La gestión de los puestos y del personal docente no universitario y del estatutario corresponderá, respectivamente, a la conselleria competente en materia de educación y a la conselleria competente en materia de sanidad.
 
 
 #### Personal al servicio de las Administraciones Públicas
@@ -545,7 +565,7 @@ HAY MÁS (ES BASTANTE COPIA)
 
 Todas las personas tienen derecho a acceder al empleo público mediante  procedimientos en los que se garanticen los siguientes principios:
 
-- **Igualdad, mérito y capacidad.**
+- **Igualdad, mérito y capacidad**
 - **Publicidad de las convocatorias y de sus bases**
 - **Transparencia**
 - **Imparcialidad y profesionalidad** de las personas que formen parte de los órganos de selección
@@ -569,7 +589,7 @@ Los procedimientos se iniciarán mediante convocatoria pública. Las bases de la
 - **Sistema selectivo** aplicable, con indicación del tipo de pruebas concretas, el programa de materias sobre las que versarán y, en su caso, la relación de los méritos, así como los criterios y las normas de valoración.
 
 	Todos los programas de materias deberán incluir contenidos sobre el principio de igualdad efectiva de mujeres y hombres en los diversos ámbitos de la función pública.
-- Composición del órgano técnico de selección
+- Composición del órgano de selección
 - Determinación, en su caso, de las características del curso selectivo o periodo de prácticas.
 - **Distribución porcentual de los dos sexos** en el cuerpo y, en su caso, escala, agrupación profesional funcionarial, agrupación de puestos de trabajo o grupo profesional correspondientes.
 
@@ -591,11 +611,11 @@ Tratándose de personas nacionales de otros Estados, no hallarse inhabilitado o 
 equivalente que impida en los mismos términos en su Estado el acceso al
 empleo público.
 
-- **Titulación** exigida, o bien cumplir los requisitos para su obtención en la fecha de finalización del plazo de presentación de solicitudes de participación, salvo para el acceso a la agrupación profesional funcionarial prevista en el artículo 30.
-- **Requisitos** que, en su caso, puedan ser exigibles de conformidad con la normativa que les resulte de aplicación.
-- **Competencia lingüística** en los conocimientos de valenciano que se determine reglamentariamente, respetando el principio de proporcionalidad y adecuación entre el nivel de exigencia y las funciones correspondientes.
+- **Titulación** exigida, o bien cumplir los requisitos para su obtención en la fecha de finalización del plazo de presentación de solicitudes de participación (salvo para el acceso a la agrupación profesional funcionarial: artículo 30).
+- **Requisitos**.
+- **Competencia lingüística** de valenciano que se determine reglamentariamente, respetando el principio de proporcionalidad y adecuación entre el nivel de exigencia y las funciones correspondientes.
 
-Asimismo, quienes superen las pruebas selectivas deberán acreditar, mediante el correspondiente certificado médico oficial, que poseen las capacidades y aptitudes físicas y psíquicas que sean necesarias para el desempeño de las correspondientes funciones o tareas.
+Asimismo, quienes superen las pruebas selectivas deberán acreditar mediante certificado médico oficial, que poseen las capacidades y aptitudes físicas y psíquicas que sean necesarias para el desempeño de las correspondientes funciones o tareas.
 
 *Solo podrán exigirse otros requisitos específicos de acceso si guardan relación objetiva y proporcionada con las funciones a asumir y las tareas a desempeñar y son establecidos de una manera abstracta y general.*
 
@@ -635,20 +655,7 @@ Los sistemas selectivos aplicables a la selección de personal funcionario de ca
 	
 	Tendrá carácter ordinario y preferente debiendo reservarse por acuerdo del Consell al menos el 50 % de los puestos de la oferta pública de empleo anual, en el conjunto de empleo público de la Generalitat.
 
-6. La oposición consistirá en la realización de una o más pruebas de capacidad
-adecuadas para determinar la aptitud de cada aspirante en relación con las
-funciones y tareas a desempeñar. Dichas pruebas podrán consistir en la
-comprobación de sus conocimientos tanto teóricos como, en su caso, prácticos
-y de la capacidad analítica, de forma oral o escrita, en la realización de
-ejercicios que demuestren la posesión de habilidades y destrezas, en la
-comprobación de los conocimientos de valenciano y de otros idiomas y, en su
-caso, en la superación de pruebas físicas, que deberán respetar el principio de
-no discriminación por razón de sexo especialmente en la configuración de sus
-baremos. Atendiendo a las características del procedimiento selectivo y al tipoLey 4/202177 de 276
-de prueba a superar, las bases de la convocatoria podrán disponer que se
-determine mediante sorteo el ejercicio concreto a realizar por quienes sean
-aspirantes.
-
+6. La oposición consistirá en la realización de una o más pruebas de capacidad adecuadas para determinar la aptitud de cada aspirante en relación con las funciones y tareas a desempeñar. Dichas pruebas podrán consistir en la comprobación de sus conocimientos tanto teóricos como, en su caso, prácticos y de la capacidad analítica, de forma oral o escrita, en la realización de ejercicios que demuestren la posesión de habilidades y destrezas, en la comprobación de los conocimientos de valenciano y de otros idiomas y, en su caso, en la superación de pruebas físicas, que deberán respetar el principio de no discriminación por razón de sexo especialmente en la configuración de sus baremos. Atendiendo a las características del procedimiento selectivo y al tipo de prueba a superar, las bases de la convocatoria podrán disponer que se determine mediante sorteo el ejercicio concreto a realizar por quienes sean aspirantes.
 
 - **Concurso**: valoración de los méritos conforme al baremo previamente aprobado (solo aplicará a la selección de funcionarios de carrera de manera excepcional cuando lo establezca la Ley).
 
@@ -700,17 +707,9 @@ Las organizaciones sindicales que formen parte de las mesas de negociación corr
 
 En el ámbito de la administración de la Generalitat, y adscrito a la Escola Valenciana d’Administració Pública, se podrá constituir un órgano especializado y permanente para la selección de su personal. En todo caso, anexo en las bases de la convocatoria de cada procedimiento de selección, deberá publicarse el texto de los temarios correspondientes en la web de la conselleria.
 
-Los órganos de selección no podrán proponer el acceso a la condición de personal funcionario de un número superior de personas aprobadas al de
-vacantes convocadas, excepto cuando así lo prevea la propia convocatoria.
-No obstante lo anterior, y con la finalidad de asegurar la cobertura de las
-vacantes convocadas, siempre que los órganos de selección hayan propuesto
-el nombramiento de igual número de aspirantes que el de vacantes
-convocadas, cuando se produzcan renuncias o concurra alguna de las causas
-de pérdida de la condición de personal funcionario en las personas propuestas
-antes de su nombramiento o toma de posesión, el órgano convocante requerirá
-del órgano de selección relación complementaria de aspirantes aprobados que
-sigan a las personas propuestas, para su posible nombramiento como personal
+Los órganos de selección no podrán proponer el acceso a la condición de personal funcionario de un número superior de personas aprobadas al de vacantes convocadas, excepto cuando así lo prevea la propia convocatoria. No obstante lo anterior, y con la finalidad de asegurar la cobertura de las vacantes convocadas, siempre que los órganos de selección hayan propuesto el nombramiento de igual número de aspirantes que el de vacantes convocadas, cuando se produzcan renuncias o concurra alguna de las causas de pérdida de la condición de personal funcionario en las personas propuestas antes de su nombramiento o toma de posesión, el órgano convocante requerirá del órgano de selección relación complementaria de aspirantes aprobados que sigan a las personas propuestas, para su posible nombramiento como personal
 funcionario de carrera.
+
 Idénticas previsiones serán de aplicación en los procedimientos de selección
 de personal laboral.
 
@@ -761,69 +760,21 @@ La jubilación del personal funcionario podrá ser:
 En la Administración de la Generalitat, para las solicitudes de prolongación
 de la permanencia en el servicio activo del personal funcionario se atenderá a
 lo siguiente:
-a) La solicitud de prolongación de la permanencia en el servicio activo se
-dirigirá al órgano competente en materia de función pública con una antelación
-mínima de dos meses y máxima de cuatro meses a la fecha en que proceda la
-jubilación forzosa por edad.
-b) Siempre con el límite de los setenta años de edad, procederá la prórroga en
-el servicio activo, a instancia de la persona interesada, cuando, en el momento
-de cumplir la edad de jubilación ordinaria, no haya completado el periodo
-mínimo de cotización exigido legalmente para causar derecho a la pensión
-íntegra de jubilación, esto es, los años de cotización necesarios para poder
-recibir el cien por cien de la pensión de jubilación. Esta prórroga no podrá
-prolongarse más allá del día en el que el interesado complete el tiempo de
-cotización necesario para causar este derecho a la pensión íntegra de
-jubilación, estando su concesión supeditada a que quede acreditado que reúne
-la capacidad funcional necesaria para ejercer la profesión o desarrollar las
-actividades correspondientes a su nombramiento mediante resolución,
-dictamen o informe médico emitido por la unidad administrativa a la que
-correspondan las funciones en materia de prevención de riesgos laborales
-sobre las condiciones psicofísicas y las aptitudes personales de la persona
-solicitante.
-En el caso de que no sea posible la continuidad de la persona interesada en su
-puesto de trabajo, de acuerdo con sus condiciones psicofísicas y aptitudes
-personales según lo dispuesto en el párrafo anterior, la prolongación de la
-permanencia en el servicio activo quedará condicionada a la existencia de
-puestos de trabajo vacantes en su grupo o subgrupo de clasificación
-profesional, cuyas funciones asignadas sean compatibles con sus condiciones
-personales.
-c) Si la persona solicitante dispone de cotizaciones suficientes para causar
-derecho a la pensión íntegra de jubilación, la resolución de aceptación o
-denegación de la prolongación deberá fundamentarse en los siguientes
-extremos, sin que baste la invocación genérica a la potestad organizativa de la
-administración:
-1.º Informe emitido por el órgano que ostente la jefatura superior de personal
-en la presidencia de la Generalitat, conselleria, organismo público, consorcio o
-universidad pública en el que preste servicios la persona funcionaria que
-solicite prolongar la permanencia en el servicio activo, en el que se valore la
-permanencia en la situación de servicio activo en los últimos tres años, su
-implicación en los objetivos fijados por la organización, el rendimiento o los
-resultados obtenidos, así como los resultados negativos de la evaluación del
-desempeño en los últimos tres años y, en su caso, el absentismo observado
-durante los tres años inmediatamente anteriores a la fecha de la solicitud.
-2.º Resolución, dictamen o informe médico emitido por la unidad administrativa
-a la que correspondan las funciones en materia de prevención de riesgos
-laborales sobre las condiciones psicofísicas y las aptitudes personales de la
-persona solicitante.
-3.º La dirección general competente en materia de función pública desestimará
-las solicitudes de prolongación, por razones organizativas, funcionales o
-económicas basadas en la racionalización de estructura y de austeridad en el
-gasto público, cuando existan planes de ordenación o disposiciones normativas
-con incidencia presupuestaria que suspendan circunstancialmente la concesión
-de autorizaciones de prolongación de la permanencia en el servicio activo, en
-cuyo caso no se solicitarán los informes previstos en los apartados anteriores.
-d) La resolución estimatoria de la prolongación de la permanencia en el servicio
-activo será objeto de revisión anualmente, emitiéndose, por el órgano
-competente, resolución de confirmación en la misma o de jubilación forzosa,
-según proceda, atendiendo y fundamentándose esta en los mismos extremos
-que se señalan en este número.Ley 4/202186 de 276
-24. Procederá la jubilación del personal funcionario por la declaración de
-incapacidad permanente para el ejercicio de las funciones propias de los
-puestos de su cuerpo, escala, agrupación profesional funcionarial, o por el
-reconocimiento de una pensión de incapacidad permanente absoluta o
-incapacidad permanente total, en relación con el ejercicio de las funciones
-propias de los puestos de su cuerpo, escala o agrupación profesional
-funcionarial.
+
+- La solicitud de prolongación de la permanencia en el servicio activo se dirigirá al órgano competente en materia de función pública con una antelación mínima de dos meses y máxima de cuatro meses a la fecha en que proceda la jubilación forzosa por edad.
+
+- Siempre con el límite de los setenta años de edad, procederá la prórroga en el servicio activo, a instancia de la persona interesada, cuando, en el momento de cumplir la edad de jubilación ordinaria, no haya completado el periodo mínimo de cotización exigido legalmente para causar derecho a la pensión íntegra de jubilación, esto es, los años de cotización necesarios para poder recibir el cien por cien de la pensión de jubilación. Esta prórroga no podrá prolongarse más allá del día en el que el interesado complete el tiempo de cotización necesario para causar este derecho a la pensión íntegra de jubilación, estando su concesión supeditada a que quede acreditado que reúne la capacidad funcional necesaria para ejercer la profesión o desarrollar las actividades correspondientes a su nombramiento mediante resolución, dictamen o informe médico emitido por la unidad administrativa a la que correspondan las funciones en materia de prevención de riesgos laborales sobre las condiciones psicofísicas y las aptitudes personales de la persona solicitante.
+
+	En el caso de que no sea posible la continuidad de la persona interesada en su puesto de trabajo, de acuerdo con sus condiciones psicofísicas y aptitudes personales según lo dispuesto en el párrafo anterior, la prolongación de la permanencia en el servicio activo quedará condicionada a la existencia de puestos de trabajo vacantes en su grupo o subgrupo de clasificación profesional, cuyas funciones asignadas sean compatibles con sus condiciones personales.
+
+- Si la persona solicitante dispone de cotizaciones suficientes para causar derecho a la pensión íntegra de jubilación, la resolución de aceptación o denegación de la prolongación deberá fundamentarse en los siguientes extremos, sin que baste la invocación genérica a la potestad organizativa de la administración:
+
+- 1.º Informe emitido por el órgano que ostente la jefatura superior de personal en la presidencia de la Generalitat, conselleria, organismo público, consorcio o universidad pública en el que preste servicios la persona funcionaria que solicite prolongar la permanencia en el servicio activo, en el que se valore la permanencia en la situación de servicio activo en los últimos tres años, su implicación en los objetivos fijados por la organización, el rendimiento o los resultados obtenidos, así como los resultados negativos de la evaluación del desempeño en los últimos tres años y, en su caso, el absentismo observado durante los tres años inmediatamente anteriores a la fecha de la solicitud.
+- 2.º Resolución, dictamen o informe médico emitido por la unidad administrativa a la que correspondan las funciones en materia de prevención de riesgos laborales sobre las condiciones psicofísicas y las aptitudes personales de la persona solicitante.
+- 3.º La dirección general competente en materia de función pública desestimará las solicitudes de prolongación, por razones organizativas, funcionales o económicas basadas en la racionalización de estructura y de austeridad en el gasto público, cuando existan planes de ordenación o disposiciones normativas con incidencia presupuestaria que suspendan circunstancialmente la concesión de autorizaciones de prolongación de la permanencia en el servicio activo, en cuyo caso no se solicitarán los informes previstos en los apartados anteriores. 
+- d) La resolución estimatoria de la prolongación de la permanencia en el servicio activo será objeto de revisión anualmente, emitiéndose, por el órgano competente, resolución de confirmación en la misma o de jubilación forzosa, según proceda, atendiendo y fundamentándose esta en los mismos extremos que se señalan en este número.
+
+Procederá la jubilación del personal funcionario por la declaración de incapacidad permanente para el ejercicio de las funciones propias de los puestos de su cuerpo, escala, agrupación profesional funcionarial, o por el reconocimiento de una pensión de incapacidad permanente absoluta o incapacidad permanente total, en relación con el ejercicio de las funciones propias de los puestos de su cuerpo, escala o agrupación profesional funcionarial.
 
 Artículo 74. Rehabilitación de la condición de personal funcionario 
 
@@ -839,9 +790,10 @@ la solicitud.
 Artículo 75. Adquisición y pérdida de la condición de personal laboral fijo
 
 La condición de laboral fijo se adquiere por el cumplimiento sucesivo de los siguientes requisitos:
+
 - **Superación del procedimiento selectivo**
 - **Formalización del contrato**
-- **Juramento o promesa** de acatamiento a la Constitución, al Estatut d’Autonomia de la Comunitat Valenciana y al resto del ordenamiento jurídico.
+- **Juramento o promesa**: de acatamiento a la Constitución, al Estatut d’Autonomia de la Comunitat Valenciana y al resto del ordenamiento jurídico.
 
 No podrá formalizarse el contrato de trabajo con aquellas personas que no acrediten, una vez superado el procedimiento selectivo, que reúnen los requisitos y condiciones exigidos en la convocatoria, quedando sin efecto las actuaciones relativas a su contratación.
 
@@ -852,112 +804,73 @@ normativa laboral.
 
 #### Derechos, deberes e incompatibilidades
 
-Artículo 100. Responsabilidad por la gestión de los servicios  
+El personal empleado público es responsable de la buena gestión de los servicios encomendados, y procurará resolver los obstáculos que dificulten el cumplimiento de sus funciones. 
 
-El personal empleado público es responsable de la buena gestión de los  
-servicios encomendados, y procurará resolver los obstáculos que dificulten el  
-cumplimiento de sus funciones, sin perjuicio de la responsabilidad que  
-corresponde a sus superiores jerárquicos.  
+La Administración exigirá del personal a su servicio la responsabilidad en que hubieran incurrido por dolo, culpa o negligencia grave, mediante la instrucción del correspondiente procedimiento con audiencia de la persona interesada y de acuerdo con lo establecido en la legislación reguladora de la responsabilidad patrimonial de las Administraciones Públicas.  
 
-Artículo 101. Responsabilidad patrimonial  
-
-Sin perjuicio de su responsabilidad por el funcionamiento de los servicios  
-públicos contemplada en el artículo 106.2 de la Constitución, y del deber de  
-resarcir los daños y perjuicios causados, la Administración exigirá del personal  
-a su servicio la responsabilidad en que hubieran incurrido por dolo, culpa o  
-negligencia grave, mediante la instrucción del correspondiente procedimiento  
-con audiencia de la persona interesada y de acuerdo con lo establecido en la  
-legislación reguladora de la responsabilidad patrimonial de las Administraciones  
-Públicas.  
-
-Artículo 102. Comunicación al Ministerio Fiscal  
-
-Lo dispuesto en los artículos anteriores se entenderá sin perjuicio de dar  
-conocimiento de los hechos al Ministerio Fiscal por si pudieran ser constitutivos  
-de infracción penal.  
+*Lo dispuesto en los artículos anteriores se entenderá sin perjuicio de dar conocimiento de los hechos al Ministerio Fiscal por si pudieran ser constitutivos de infracción penal.*  
 
 Sección 2ª. Régimen de incompatibilidades  
 Artículo 103. Régimen de incompatibilidades  
-1. El personal comprendido en el ámbito de aplicación de esta ley no podrá  
-compatibilizar sus actividades con el desempeño, por sí o mediante sustitución,  
-de cualquier cargo, profesión o actividad, públicos o privados, por cuenta propia  
-o ajena, retribuidos o meramente honoríficos, si impide o menoscaba el exacto  
-cumplimiento de sus deberes, compromete su imparcialidad o independencia o  
-perjudica los intereses generales.  
 
-La aplicación del régimen de incompatibilidades se ajustará a la legislación 
-básica estatal en esta materia y a la normativa autonómica de desarrollo.
+El personal comprendido en el ámbito de aplicación de esta ley no podrá compatibilizar sus actividades con el desempeño, por sí o mediante sustitución, de cualquier cargo, profesión o actividad, públicos o privados, por cuenta propia o ajena, retribuidos o meramente honoríficos, si impide o menoscaba el exacto cumplimiento de sus deberes, compromete su imparcialidad o independencia o perjudica los intereses generales.  
 
-La competencia para resolver las declaraciones de compatibilidad   corresponde:  
+La aplicación del régimen de incompatibilidades se ajustará a la legislación básica estatal en esta materia y a la normativa autonómica de desarrollo.
+
+La competencia para resolver las declaraciones de compatibilidad corresponde a los siguientes órganos:  
 
 - **Titular de la Conselleria de Sanidad**: personal cuya gestión corresponda a dicha conselleria y desarrolle su actividad principal adscrito a ese departamento, organismos o entidades  dependientes.  
+
 - **Titular de la Conselleria de Educación**: personal docente no universitario que desarrolle su actividad principal adscrito a dicho departamento, organismos o entidades dependientes.
-- Titular de la Conselleria de Función Pública: personal que desarrolla su actividad principal en la Administración de la Generalitat (artículo 5)
+
+- **Titular de la Conselleria de Función Pública**: personal que desarrolla su actividad principal en la Administración de la Generalitat (artículo 5)
+
 - **Órgano designado expresamente**: entes del sector público instrumental (artículo 2.3 de la Ley 1/2015).  
+
 - **Rector de la Universidad**: si la actividad principal se desarrolla en las universidades públicas de la Comunitat Valenciana, organismos o entidades dependientes de la misma.  
+
 - **Pleno de la Corporación**: entidades locales
+
 - **Consell**: cuando se superen los límites de remuneración (artículo 7.1 de la Ley 53/1984), en atención a razones de especial interés para el servicio
 
-Asimismo, el Consell podrá excepcionalmente, para supuestos concretos y mediante acuerdo, autorizar la pertenencia a más de dos consejos de administración u órganos de gobierno de entidades o empresas públicas o privadas.  
+El Consell podrá, excepcionalmente, para supuestos concretos y mediante acuerdo, autorizar la pertenencia a más de dos consejos de administración u órganos de gobierno de entidades o empresas públicas o privadas.  
+
 
 CAPÍTULO V  
 La formación de los empleados públicos  
 Artículo 104. La formación en el empleo público  
 
-Las políticas de formación son parte integrante de las políticas de recursos  
-humanos de la Administración de la Generalitat.  
+Las políticas de formación son parte integrante de las políticas de recursos humanos de la Administración de la Generalitat. 
 
 Se entiende por formación:
 
->el aprendizaje planificado para la adquisición, retención y transferencia de conocimientos, destrezas, actitudes y valores que mejoren el servicio público y el desarrollo del personal empleado público.
+>El aprendizaje planificado para la adquisición, retención y transferencia de conocimientos, destrezas, actitudes y valores que mejoren el servicio público y el desarrollo del personal empleado público.
 
-La   formación perseguirá los objetivos de mejora del desempeño del puesto de  
-trabajo y desarrollo y promoción profesional del personal empleado público. 
+La formación perseguirá los objetivos de mejora del desempeño del puesto de trabajo y desarrollo y promoción profesional del personal empleado público. 
 
-L’Escola Valenciana d’Administració Pública (EVAP) será el centro encargado de gestionar las acciones formativas de la Administración de la Generalitat y del sector público instrumental de la Generalitat en los términos que se establezcan en los instrumentos de colaboración que pudieran suscribirse o por encomienda del Consell.  
+*L’Escola Valenciana d’Administració Pública* (EVAP) será el centro encargado de gestionar las acciones formativas de la Administración de la Generalitat y de su sector público instrumental (en los términos de los instrumentos o por encomienda del Consell). 
 
-Asimismo, la EVAP coordinará las acciones formativas planificadas por los  
-otros centros de formación de personal empleado público existentes en la  
-Generalitat.
-
+Asimismo, la EVAP coordinará las acciones formativas planificadas por los otros centros de formación de personal empleado público existentes en la Generalitat.
 
 A tal fin, para el cumplimiento de sus objetivos, corresponderá a la EVAP:  
 
-a) Diseñar, organizar, coordinar y homologar las acciones formativas del  
-personal empleado público de la administración de la Generalitat, que incluirán  los cursos de habilitación necesarios para el desempeño de determinados  
-puestos de trabajo, los cursos específicos de formación para la pertenencia a  
-una agrupación de puestos, la capacitación por competencias profesionales,  
-así como los cursos de capacitación para el desempeño de nuevas funciones  
-en los casos que proceda, fomentando y priorizando la formación en línea para  
-su aprovechamiento por todo el personal empleado público en igualdad de  
-oportunidades.  
+- Diseñar, organizar, coordinar y homologar las acciones formativas del personal empleado público de la administración de la Generalitat, que incluirán  los cursos de habilitación necesarios para el desempeño de determinados puestos de trabajo, los cursos específicos de formación para la pertenencia a una agrupación de puestos, la capacitación por competencias profesionales, así como los cursos de capacitación para el desempeño de nuevas funciones en los casos que proceda, fomentando y priorizando la formación en línea para su aprovechamiento por todo el personal empleado público en igualdad de oportunidades.  
 
-b) Coordinar y, en su caso, homologar las acciones formativas impartidas por  
-otros órganos o centros de la Generalitat con competencias en materia de  
-formación, así como de otras administraciones públicas y de las organizaciones  
-sindicales que suscriban los correspondientes acuerdos.  
+- Coordinar y, en su caso, homologar las acciones formativas impartidas por otros órganos o centros de la Generalitat con competencias en materia de formación, así como de otras administraciones públicas y de las organizaciones sindicales que suscriban los correspondientes acuerdos.  
 
-c) Coordinar y desarrollar, en su caso, directa o indirectamente, actividades de  
-preparación de aspirantes a participar en las pruebas selectivas para la  
-promoción interna o el acceso a la función pública.  
-d) Planificar, convocar y gestionar los cursos de formación derivados de los  
-procesos de selección y promoción del personal empleado público de la  
-Administración de la Generalitat.  
-e) Colaborar en la formación y perfeccionamiento del personal de las  
-Instituciones de la Generalitat mencionadas en el artículo 20.3 del Estatut  
-d’Autonomia de la Comunitat Valenciana y de otras administraciones públicas,  
-en los términos que se establezcan en los instrumentos de colaboración que  
-pudieran suscribirse o por encomienda del Consell.14  
-f) Gestionar y coordinar las ayudas destinadas a la financiación de planes de  
-formación para el empleo promovidas por las entidades locales de la Comunitat  
-Valenciana, en el marco del Acuerdo de formación para el empleo de las  
-administraciones públicas (AFEDAP).  
+- Coordinar y desarrollar, en su caso, directa o indirectamente, actividades de preparación de aspirantes a participar en las pruebas selectivas para la promoción interna o el acceso a la función pública.  
 
+- Planificar, convocar y gestionar los cursos de formación derivados de los procesos de selección y promoción del personal empleado público de la Administración de la Generalitat.  
 
-La formación del personal directivo público profesional previsto en el artículo  
-21.1 de la presente ley, será competencia de la EVAP, que diseñará, convocará, gestionará y homologará acciones de formación específica de conformidad con la normativa que resulte de aplicación y de acuerdo con las directrices que al respecto establezca la conselleria competente en materia de función pública. En su caso, dicha formación se podrá realizar también a través de programas previamente homologados por la EVAP. La formación del restante personal directivo público profesional podrá ser así mismo organizada y certificada por la EVAP previo convenio suscrito al efecto.  
+- Colaborar en la formación y perfeccionamiento del personal de las Instituciones de la Generalitat mencionadas en el artículo 20.3 del Estatut d’Autonomia de la Comunitat Valenciana y de otras administraciones públicas, en los términos que se establezcan en los instrumentos de colaboración que pudieran suscribirse o por encomienda del Consell.
 
-En los supuestos en que las entidades locales prevean una fase de formación como parte del proceso selectivo de su personal empleado público, podrán conveniar, con la conselleria competente en materia de función pública la participación de la EVAP en la realización de tales cursos selectivos, que podrán ser comunes para varios ayuntamientos.  
+- Gestionar y coordinar las ayudas destinadas a la financiación de planes de formación para el empleo promovidas por las entidades locales de la Comunitat Valenciana, en el marco del Acuerdo de formación para el empleo de las administraciones públicas (AFEDAP).  
+
+La formación del personal directivo público profesional previsto en el artículo 21.1 de la presente ley, será competencia de la EVAP, que diseñará, convocará, gestionará y homologará acciones de formación específica de conformidad con la normativa que resulte de aplicación y de acuerdo con las directrices que al respecto establezca la conselleria competente en materia de función pública. 
+
+En su caso, dicha formación se podrá realizar también a través de programas previamente homologados por la EVAP. La formación del restante personal directivo público profesional podrá ser así mismo organizada y certificada por la EVAP previo convenio suscrito al efecto.  
+
+En los supuestos en que las entidades locales prevean una fase de formación como parte del proceso selectivo de su personal empleado público, podrán conveniar, con la conselleria competente en materia de función pública la participación de la EVAP en la realización de tales cursos selectivos, que podrán ser comunes para varios ayuntamientos. 
 
 La EVAP fomentará la colaboración con las entidades locales de la Comunitat Valenciana y los entes del sector público instrumental en la formación y perfeccionamiento de su personal empleado público.  
 
@@ -965,22 +878,15 @@ Asimismo, para facilitar el acceso de la ciudadanía a la formación especializa
 
 La EVAP fomentará la formación en igualdad tanto en el acceso al empleo público como a lo largo de la carrera profesional. Para ello la formación deberá incluir contenidos sobre igualdad efectiva y prohibición de cualquier tipo de discriminación de mujeres y hombres.  
 
-Para la mejor consecución de sus fines la EVAP podrá convocar y otorgar  
-becas, ayudas y otras medidas de fomento, así como promover la colaboración de personal docente y de profesionales ajenos a la Administración de la  
-Generalitat para el desarrollo de sus acciones formativas o divulgativas.
+Para la mejor consecución de sus fines la EVAP podrá convocar y otorgar becas, ayudas y otras medidas de fomento, así como promover la colaboración de personal docente y de profesionales ajenos a la Administración de la Generalitat para el desarrollo de sus acciones formativas o divulgativas.
 
 Todo el personal empleado público tendrá la oportunidad de realizar aportaciones en el diseño de los planes formativos para la mejora de los métodos de trabajo y de los procesos administrativos, a través de un mecanismo de participación libre y no jerarquizado.  
 
 La selección del profesora que impartan cursos en la EVAP se regirá por los principios de libre concurrencia, igualdad, mérito, capacidad y publicidad.  
 
-La convocatoria y resultados de dichos procedimientos de selección se  
-publicarán en la web de la conselleria, así como la evaluación anual del  
-cumplimiento de los objetivos del plan estratégico.  
+La convocatoria y resultados de dichos procedimientos de selección se publicarán en la web de la conselleria, así como la evaluación anual del cumplimiento de los objetivos del plan estratégico.  
 
-La EVAP pondrá en marcha un plan de transferencia de conocimiento que  
-contenga medidas eficaces para transferir y retener el conocimiento de los  
-empleados y empleadas con más experiencia, en particular, de aquellos  
-empleados que tengan más próxima su jubilación.  
+La EVAP pondrá en marcha un plan de transferencia de conocimiento que contenga medidas eficaces para transferir y retener el conocimiento de los empleados y empleadas con más experiencia, en particular, de aquellos empleados que tengan más próxima su jubilación.  
 
 Artículo 105. Derecho a la formación  
 
@@ -1027,8 +933,7 @@ CAPÍTULO I
 Disposiciones generales
 Artículo 107. Movilidad del personal funcionario de carrera
 
-Se garantiza el derecho a la movilidad voluntaria del personal funcionario de carrera incluido en el ámbito de aplicación de la presente ley, de acuerdo con
-los sistemas previstos en la misma.
+Se garantiza el derecho a la movilidad voluntaria del personal funcionario de carrera.
 
 En el marco de lo previsto en los planes de igualdad, las administraciones públicas, organismos públicos, consorcios y universidades públicas incluidas en el ámbito de aplicación subjetivo de esta ley fomentarán en especial el acceso de las mujeres a los puestos de niveles superiores
 
@@ -1042,15 +947,10 @@ La resolución que acuerde la comisión de servicios, determinará si se percibe
 
 Cuando la misión sea por un período superior a seis meses y la retribución corra a cargo de la administración pública, organismo público, consorcio o universidad pública en la que presta sus servicios, su situación seguirá siendo la de servicio activo, autorizándose una comisión de servicios en el organismo internacional, gobierno o entidad pública extranjera.  
 
-De conformidad con lo dispuesto en el artículo 141.1.b de la presente ley,  
-cuando obtenga la autorización de su administración para realizar una misión  
-por un período superior a seis meses en organismos internacionales, gobiernos  
-o entidades públicas extranjeras o en programas de cooperación internacional  
-pero la retribución del mismo corra a cargo de estos organismos o programas,  
-procederá la declaración de la situación administrativa de servicios especiales.  
+De conformidad con lo dispuesto en el artículo 141.1.b de la presente ley, cuando obtenga la autorización de su administración para realizar una misión por un período superior a seis meses en organismos internacionales, gobiernos o entidades públicas extranjeras o en programas de cooperación internacional pero la retribución del mismo corra a cargo de estos organismos o programas, procederá la declaración de la situación administrativa de servicios especiales.  
 
-En todo caso se garantizará el principio de publicidad en el procedimiento de  
-tramitación y concesión de estas comisiones.  
+En todo caso se garantizará el principio de publicidad en el procedimiento de tramitación y concesión de estas comisiones.  
+
 
 Artículo 120. Adscripción provisional  
 
@@ -1062,26 +962,11 @@ La adscripción provisional es una forma temporal de provisión de puestos de  t
 
 *Reglamentariamente se determinará el procedimiento y requisitos para su concesión.*  
 
-3. La adscripción provisional será comunicada al órgano que disponga de la  
-vacante, con carácter previo a su incorporación. En todo caso, la adscripción  
-provisional a puestos de trabajo cuya forma de provisión sea la de libre  
-designación se realizará a propuesta del órgano competente, de conformidad  
-con lo dispuesto en el artículo 115.1.  
+La adscripción provisional será comunicada al órgano que disponga de la vacante, con carácter previo a su incorporación. En todo caso, la adscripción provisional a puestos de trabajo cuya forma de provisión sea la de libre designación se realizará a propuesta del órgano competente, de conformidad con lo dispuesto en el artículo 115.1.  
 
-En todo caso, para el desempeño en adscripción provisional de un puesto de  
-trabajo, el personal funcionario designado deberá pertenecer al mismo cuerpo,  
-escala, agrupación profesional funcionarial o, en su caso, agrupación de  
-puestos, de conformidad con lo previsto en el artículo 40.3 de la presente ley, y  
-reunir los requisitos de aquél reflejados en las correspondientes relaciones de  
-puestos de trabajo.  
-5. El puesto asignado con carácter provisional, salvo que esté sujeto a reserva  
-legal, se convocará para su provisión definitiva, y el personal adscrito tendrá  
-obligación de participar en la convocatoria solicitando, al menos, el puesto que  
-ocupa provisionalmente. Si no concurriera, no podrá continuar ejerciendo el  
-puesto mediante esta forma de provisión, procediendo la dirección general  
-competente en materia de función pública a su adscripción provisional a otro  
-puesto, de acuerdo con los criterios fijados en la presente ley.19  
-19 El apartado 5 del artículo 120 se modifica por el artículo 110 de la Ley 7/2021, de 29 de diciembre.Ley 4/2021132 de 276
+En todo caso, para el desempeño en adscripción provisional de un puesto de trabajo, el personal funcionario designado deberá pertenecer al mismo cuerpo, escala, agrupación profesional funcionarial o, en su caso, agrupación de puestos, de conformidad con lo previsto en el artículo 40.3 de la presente ley, y reunir los requisitos de aquél reflejados en las correspondientes relaciones de puestos de trabajo.  
+
+El puesto asignado con carácter provisional, salvo que esté sujeto a reserva legal, se convocará para su provisión definitiva, y el personal adscrito tendrá obligación de participar en la convocatoria solicitando, al menos, el puesto que ocupa provisionalmente. Si no concurriera, no podrá continuar ejerciendo el puesto mediante esta forma de provisión, procediendo la dirección general competente en materia de función pública a su adscripción provisional a otro puesto, de acuerdo con los criterios fijados en la presente ley.
 
 No se podrá incurrir en vulneración del principio de igualdad de oportunidades de mujeres y hombres ni en la discriminación directa o indirecta en la asignación provisional de puestos de trabajo.  
 
@@ -1099,8 +984,7 @@ Artículo 122. Nombramiento provisional por mejora de empleo20
 
 El personal funcionario de carrera que reúna los requisitos de titulación podrá desempeñar, en casos de urgente e inaplazable necesidad cuando concurran causas razonadas de interés público, en los supuestos previstos en el artículo 18, apartado 2, de la presente ley, un puesto de trabajo no ocupado adscrito a un cuerpo, escala, agrupación profesional funcionarial o agrupación de puestos de trabajo encuadrada en los mismos, distinto al de pertenencia mediante nombramiento provisional por mejora de empleo.  
 
-Los nombramientos por mejora de empleo se efectuarán en puestos de trabajo correspondientes a la categoría de entrada con las excepciones que reglamentariamente se determinen con el fin de garantizar la adecuada  
-prestación del servicio público.  
+Los nombramientos por mejora de empleo se efectuarán en puestos de trabajo correspondientes a la categoría de entrada con las excepciones que reglamentariamente se determinen con el fin de garantizar la adecuada prestación del servicio público.  
 
 A la funcionaria o funcionario que sea nombrado provisionalmente por mejora de empleo se le reservará durante el tiempo de desempeño temporal el puesto de trabajo del que, en su caso, fuera titular, considerándosele, sin perjuicio de lo dispuesto en los apartados siguientes, como de servicio activo en su cuerpo, escala, agrupación profesional funcionarial o agrupación de puestos de trabajo.
 
@@ -1113,54 +997,27 @@ Reglamentariamente se regulará el procedimiento y resto de requisitos para efec
 
 El cese del personal en mejora de empleo se produce en los supuestos establecidos en el artículo 18, apartado 8, de esta ley.  
 
-Este cese se puede acordar también por cumplimiento inadecuado de las  
-funciones atribuidas al puesto o rendimiento insuficiente que no comporte  
-inhibición y que impida realizar con eficacia estas funciones. Este  
-incumplimiento o rendimiento insuficiente se concretará en un informe motivado  
-del servicio al que esté adscrita la persona y de la subsecretaría u órgano  
-responsable del organismo correspondiente, previa audiencia a la persona  
-interesada.
+Este cese se puede acordar también por cumplimiento inadecuado de las funciones atribuidas al puesto o rendimiento insuficiente que no comporte inhibición y que impida realizar con eficacia estas funciones. Este incumplimiento o rendimiento insuficiente se concretará en un informe motivado del servicio al que esté adscrita la persona y de la subsecretaría u órgano responsable del organismo correspondiente, previa audiencia a la persona interesada.
 
-El personal en mejora de empleo permanecerá un periodo mínimo, que se  
-determinará reglamentariamente, en el puesto en el que ha sido nombrado,  
-siempre y cuando no se produzca la provisión reglamentaria del puesto por  
-personal funcionario de carrera del cuerpo, escala, agrupación profesional  
-funcionarial o agrupación de puestos de trabajo de que se trate, o concurra  
-alguna otra causa de cese.
+El personal en mejora de empleo permanecerá un periodo mínimo, que se determinará reglamentariamente, en el puesto en el que ha sido nombrado, siempre y cuando no se produzca la provisión reglamentaria del puesto por personal funcionario de carrera del cuerpo, escala, agrupación profesional funcionarial o agrupación de puestos de trabajo de que se trate, o concurra alguna otra causa de cese.
 
-No se podrá permanecer más de dos años en mejora de empleo en los  
-puestos de trabajo vacantes.
+No se podrá permanecer más de dos años en mejora de empleo en los puestos de trabajo vacantes.
 
-Artículo 123. Cambio de puesto por motivos de salud, de discapacidad o  
-diversidad funcional  
+Artículo 123. Cambio de puesto por motivos de salud, de discapacidad o diversidad funcional  
 
-Se podrá adscribir el personal funcionario de carrera que lo solicite a puestos de trabajo, tanto en la misma unidad administrativa o localidad como en  
-diferente, cuando por motivos de salud, de discapacidad o diversidad funcional  
-no le sea posible realizar adecuadamente las tareas asignadas a su puesto de  
-trabajo. Este sistema de provisión de puestos tendrá preferencia sobre los  
+Se podrá adscribir el personal funcionario de carrera que lo solicite a puestos de trabajo, tanto en la misma unidad administrativa o localidad como en diferente, cuando por motivos de salud, de discapacidad o diversidad funcional no le sea posible realizar adecuadamente las tareas asignadas a su puesto de trabajo. Este sistema de provisión de puestos tendrá preferencia sobre los 
 nombramientos de personal funcionario interino o mejora de empleo.  
 
-Dicha solicitud deberá ser valorada por el órgano competente en materia de  
-prevención de riesgos laborales, que informará sobre la procedencia de  
-adaptación o, en su defecto, cambio de puesto de trabajo, ante la situación  
-puesta de manifiesto.  
+Dicha solicitud deberá ser valorada por el órgano competente en materia de prevención de riesgos laborales, que informará sobre la procedencia de adaptación o, en su defecto, cambio de puesto de trabajo, ante la situación puesta de manifiesto.  
 
 Reglamentariamente se determinará el procedimiento y los requisitos para su concesión, tramitando de forma preferente las solicitudes de las personas que estén en situación de incapacidad temporal.  
 
-La adscripción estará condicionada a la existencia de puestos vacantes que  
-tengan asignadas unas retribuciones complementarias iguales o inferiores a las del puesto de procedencia y al cumplimiento, en su caso, del resto de  
-requisitos del mismo.  
+La adscripción estará condicionada a la existencia de puestos vacantes que tengan asignadas unas retribuciones complementarias iguales o inferiores a las del puesto de procedencia y al cumplimiento, en su caso, del resto de requisitos del mismo.  
 
-El cambio no podrá implicar merma retributiva para el personal funcionario, el  
-cual percibirá las retribuciones básicas del cuerpo, agrupación profesional o  
-escala a la que pertenece, el nivel competencial reconocido y el componente  
-de complemento de desempeño del puesto de trabajo del puesto de  
-procedencia, salvo que dé su conformidad a ser adscrito a un puesto que tenga  
+El cambio no podrá implicar merma retributiva para el personal funcionario, el cual percibirá las retribuciones básicas del cuerpo, agrupación profesional o escala a la que pertenece, el nivel competencial reconocido y el componente de complemento de desempeño del puesto de trabajo del puesto de procedencia, salvo que dé su conformidad a ser adscrito a un puesto que tenga  
 asignada una jornada de trabajo inferior.  
-En los supuestos en que el personal tenga necesidades formativas para el  
-desempeño de las nuevas funciones, el organismo competente en la formación  
-del personal empleado público, organizará cursos de capacitación en las  
-nuevas tareas a desempeñar.  
+
+En los supuestos en que el personal tenga necesidades formativas para el desempeño de las nuevas funciones, el organismo competente en la formación del personal empleado público, organizará cursos de capacitación en las nuevas tareas a desempeñar.  
 
 Las previsiones contenidas en los apartados precedentes serán de aplicación a las víctimas acreditadas de acoso sexual, por razón de sexo, moral o laboral.  
 
@@ -1168,17 +1025,11 @@ Las previsiones de este artículo será igualmente de aplicación al personal te
 
 El personal funcionario de carrera que sea adscrito a un puesto de un cuerpo, agrupación profesional o escala distinto al de pertenencia, podrá participar en los procesos específicos que se convoquen para acceder al cuerpo, agrupación profesional funcionarial o escala a la que pertenece el puesto al que ha sido adscrito.  
 
-Artículo 124. Otros supuestos de adscripción por motivos de salud,  
-discapacidad o diversidad funcional o rehabilitación  
-8. Las administraciones públicas, los organismos públicos, los consorcios y las  
-universidades públicas incluidas en el ámbito subjetivo de aplicación de esta  
-ley podrán adscribir el personal funcionario a puestos de trabajo en diferente  
-unidad administrativa o localidad, con una solicitud previa fundamentada en  
-motivos de salud, discapacidad o diversidad funcional o rehabilitación.
+Artículo 124. Otros supuestos de adscripción por motivos de salud, discapacidad o diversidad funcional o rehabilitación  
 
-Así mismo, podrá solicitarse esta adscripción por motivos de salud o  
-rehabilitación del cónyuge o pareja de hecho, o de un familiar de primer grado a  
-su cargo.  
+Las administraciones públicas, los organismos públicos, los consorcios y las universidades públicas incluidas en el ámbito subjetivo de aplicación de esta ley podrán adscribir el personal funcionario a puestos de trabajo en diferente unidad administrativa o localidad, con una solicitud previa fundamentada en motivos de salud, discapacidad o diversidad funcional o rehabilitación.
+
+Así mismo, podrá solicitarse esta adscripción por motivos de salud o rehabilitación del cónyuge o pareja de hecho, o de un familiar de primer grado a su cargo.  
 
 La concesión estará sujeta a los siguientes requisitos:  
 
@@ -1186,13 +1037,12 @@ La concesión estará sujeta a los siguientes requisitos:
 
 - **Puestos vacantes**: que tengan asignadas unas retribuciones complementarias iguales o inferiores a las del puesto de procedencia y al cumplimiento, en su caso, del resto de requisitos del mismo.  
 
-Reglamentariamente se determinará el procedimiento para su concesión.  
+*Reglamentariamente se determinará el procedimiento para su concesión.*  
 
 Las previsiones de este artículo serán igualmente de aplicación al personal temporal.  
 
 
-Artículo 125. Traslado por violencia de género y por razón de violencia  
-terrorista  
+Artículo 125. Traslado por violencia de género y por razón de violencia terrorista  
 
 Las empleadas públicas víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde venían prestando sus servicios para hacer efectiva su protección o el derecho a la asistencia social integral, tendrán derecho a solicitar el traslado provisional a otro puesto propio de su cuerpo, escala o agrupación profesional funcionarial o, en su caso, grupo profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura.  
 
@@ -1203,15 +1053,11 @@ Este traslado tendrá la consideración de forzoso, a efectos de la percepción 
 traslados, y su duración vendrá condicionada al mantenimiento de las  
 circunstancias y coyuntura de riesgo que dieron lugar al mismo.  
 
-Las situaciones de violencia que dan lugar al reconocimiento de este derecho
-se acreditarán de acuerdo con lo previsto en el artículo 23 de la Ley orgánica
-1/2004, de 28 de diciembre, de medidas de protección integral contra la
-violencia de género
+Las situaciones de violencia que dan lugar al reconocimiento de este derecho se acreditarán de acuerdo con lo previsto en el artículo 23 de la Ley orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género
 
  El personal empleado público tendrá derecho al traslado a otro puesto de trabajo por razón de violencia terrorista en los términos previstos en la normativa estatal de carácter básico.  
 
-A estos efectos, se deberán comunicar las vacantes a las personas  
-solicitantes.  
+A estos efectos, se deberán comunicar las vacantes a las personas solicitantes.  
 
 En las actuaciones y procedimientos relacionados con la violencia de género o violencia terrorista se garantizará la intimidad de las víctimas, en especial sus datos personales, los de sus descendientes y los de cualquier persona que esté bajo su guarda o custodia.  
 
@@ -1224,19 +1070,15 @@ Artículo 126. Comisión de servicios forzosa
 
 Cuando se acredite que por necesidades del servicio sea de urgente provisión un puesto de trabajo y no haya sido posible su cobertura por alguna de las formas de movilidad voluntaria previstas en este título, o la cobertura por personal temporal, podrá adscribirse en comisión de servicios, con carácter forzoso, a personal funcionario de la misma conselleria, de la presidencia de la Generalitat, o de los organismos y entes dependientes de las mismas. En este caso, se destinará, en los términos que se establezcan reglamentariamente, en primer lugar, al personal destinado en la misma localidad, en segundo lugar, al que le suponga menos dificultades para conciliar dicho destino con su vida personal y familiar y, en última instancia, al de menor antigüedad. En igualdad de condiciones, se destinará al personal de menor edad.  
 
-Si el puesto desempeñado en comisión de servicios tuviera asignadas unas 
-retribuciones inferiores a las del puesto del que es titular, dicho personal  
-percibirá mientras permanezca en tal situación, un complemento personal  
-transitorio por la diferencia, en los términos y con los requisitos previstos legal y reglamentariamente.  
+Si el puesto desempeñado en comisión de servicios tuviera asignadas unas retribuciones inferiores a las del puesto del que es titular, dicho personal percibirá mientras permanezca en tal situación, un complemento personal transitorio por la diferencia, en los términos y con los requisitos previstos legal y reglamentariamente.  
 
-Esta comisión de servicios, en caso de traslado a diferente localidad, dará   lugar a contraprestación indemnizatoria en los términos previstos  
-reglamentariamente.  
+Esta comisión de servicios, en caso de traslado a diferente localidad, dará lugar a contraprestación indemnizatoria en los términos previstos reglamentariamente.  
 
-La comisión de servicios forzosa tendrá una duración máxima de seis  
-meses, prorrogable por otros seis.  
+La comisión de servicios forzosa tendrá una duración máxima de seis meses, prorrogable por otros seis.  
+
 Artículo 127. Reasignación de efectivos  
 
-El personal funcionario cuyo puesto sea objeto de supresión como consecuencia de un plan de ordenación de personal u otras medidas de racionalización de la organización administrativa y de personal, podrá ser destinado a otro puesto de trabajo por el procedimiento de reasignación de efectivos. La reasignación de efectivos se realizará a puestos de trabajo adscritos a su cuerpo, escala o agrupación profesional funcionarial.  
+El personal funcionario cuyo puesto sea objeto de supresión como consecuencia de un plan de ordenación de personal u otras medidas de racionalización de la organización administrativa y de personal, podrá ser destinado a otro puesto de trabajo por el procedimiento de reasignación de efectivos. La reasignación de efectivos se realizará a puestos de trabajo adscritos a su cuerpo, escala o agrupación profesional funcionarial.
 
 En el caso de que los puestos estén adscritos a una agrupación de puestos de trabajo, para que la reasignación pueda realizarse será necesaria la previa realización de los cursos específicos de formación que a tal fin sean organizados por la EVAP, salvo que el personal afectado haya acreditado dichos conocimientos en las correspondientes pruebas de acceso.  
 
@@ -1246,70 +1088,38 @@ La adscripción al puesto adjudicado por reasignación tendrá carácter definit
 
 El plan de ordenación de personal deberá prever el número de puestos que se suprimen, las características de los puestos a los que se destina a los efectivos de personal, y las razones objetivas que justifican la reasignación.  
 
-Los planes de ordenación de personal deberán incluir, con carácter preceptivo,  
-una memoria justificativa motivada que incluya un análisis de las  
-disponibilidades y necesidades de personal, su cualificación y las medidas que  
-deban adoptarse en el plan de empleo, así como un informe económico-  
-financiero y un informe de impacto de género.  
-Los planes de ordenación de personal deberán incluir también la temporalidad  
-de los mismos, y establecer los plazos de ejecución de las medidas adoptadas.  
+Los planes de ordenación de personal deberán incluir, con carácter preceptivo, una memoria justificativa motivada que incluya un análisis de las disponibilidades y necesidades de personal, su cualificación y las medidas que deban adoptarse en el plan de empleo, así como un informe económico-financiero y un informe de impacto de género.  
+
+Los planes de ordenación de personal deberán incluir también la temporalidad de los mismos, y establecer los plazos de ejecución de las medidas adoptadas.  
 
 En la Administración de la Generalitat, aprobado el plan de ordenación de personal y publicado en el Diari Oficial de la Generalitat Valenciana, la conselleria con competencias en materia de función pública, a propuesta de la presidencia de la Generalitat, consellerias, organismos públicos o consorcios afectados, ejecutará la reasignación en el plazo de seis meses, que será obligatoria para puestos en el mismo municipio, y voluntaria cuando sea en distinto municipio e implique cambio de residencia, y que serán en ambos casos de similares características, funciones y retribuciones. Durante esta fase se percibirán las retribuciones del puesto de trabajo que desempeñaba. En el caso de que el nuevo puesto de trabajo asignado tenga unas retribuciones superiores, el personal funcionario percibirá las correspondientes a este nuevo puesto de trabajo.  
 
-Notificada a la persona afectada la reasignación obligatoria, dispondrá de un  
-mes para tomar posesión de su nuevo destino.  
+Notificada a la persona afectada la reasignación obligatoria, dispondrá de un mes para tomar posesión de su nuevo destino.  
 
 El personal que no acepte la reasignación voluntaria quedará adscrito, durante el plazo máximo de un año, a la Conselleria con competencias en materia de función pública, mediante las relaciones específicas de puestos de reasignación.
 
 El personal funcionario que, superada la fase de reasignación de efectivos, no haya obtenido un puesto de trabajo, continuará adscrito a la conselleria con competencias en materia de función pública en la situación de expectativa de destino, durante el plazo máximo de un año, con las retribuciones establecidas en el artículo 163.  
 
-Cuando la reasignación implique cambio de residencia, el personal tendrá   derecho a una indemnización consistente en el abono de los gastos de viaje,  
-incluidos los de su familia, tres dietas por la persona interesada y cada  
-miembro de su familia que efectivamente se traslade y los gastos de transporte  
-de mobiliario y enseres, así como el pago de tres mensualidades de la totalidad  
-de sus retribuciones, excepto el complemento de actividad profesional y, en su  
-caso, las gratificaciones por servicios extraordinarios, sin perjuicio de otras  
-ayudas que el plan pudiera establecer.  
+Cuando la reasignación implique cambio de residencia, el personal tendrá derecho a una indemnización consistente en el abono de los gastos de viaje, incluidos los de su familia, tres dietas por la persona interesada y cada miembro de su familia que efectivamente se traslade y los gastos de transporte de mobiliario y enseres, así como el pago de tres mensualidades de la totalidad de sus retribuciones, excepto el complemento de actividad profesional y, en su  
+caso, las gratificaciones por servicios extraordinarios, sin perjuicio de otras ayudas que el plan pudiera establecer.  
 
 Artículo 128. Adscripción temporal  
 
-Quien sea titular de la subsecretaría de la presidencia de la Generalitat o de  
-las distintas consellerias, así como de los órganos que ostenten la dirección  
-superior de personal de los respectivos organismos públicos adscritos a las  
-mismas, en casos excepcionales y por necesidades de adecuada prestación  
-del servicio público, podrán, dentro del ámbito organizativo de su competencia  
-y siempre que no suponga cambio de localidad, adscribir temporalmente al  
-personal funcionarial a órganos o unidades administrativas distintas, en las  
-que, por causa de su mayor volumen temporal, acumulación de cargas de  
-trabajo, existencia de programas de duración concreta u otras circunstancias  
-análogas, sus competencias o funciones no puedan ser atendidas con  
-suficiencia por el personal dependiente de la misma.  
+Quien sea titular de la subsecretaría de la presidencia de la Generalitat o de las distintas consellerias, así como de los órganos que ostenten la dirección superior de personal de los respectivos organismos públicos adscritos a las mismas, en casos excepcionales y por necesidades de adecuada prestación del servicio público, podrán, dentro del ámbito organizativo de su competencia y siempre que no suponga cambio de localidad, adscribir temporalmente al  
+personal funcionarial a órganos o unidades administrativas distintas, en las que, por causa de su mayor volumen temporal, acumulación de cargas de trabajo, existencia de programas de duración concreta u otras circunstancias análogas, sus competencias o funciones no puedan ser atendidas con suficiencia por el personal dependiente de la misma.  
 
 Las medidas previstas en el párrafo anterior podrán adoptarse, en las mismas condiciones, mediante acuerdo subscrito entre los titulares de las subsecretarías de la presidencia de la Generalitat o de las distintas consellerias, o en su caso de los órganos que ostenten la dirección superior de personal de las respectivas entidades adscritas a las mismas, o, en su caso, por acuerdo del Consell.
 
-La adscripción temporal a la que se refiere el apartado anterior, se realizará  
-por el plazo que resulte imprescindible en tanto concurran las circunstancias  
-que han dado lugar a la misma y como máximo por un plazo de un año,  
-prorrogable por otro más, para el desempeño de funciones propias del cuerpo,  
-escala o agrupación profesional funcionarial al que pertenece la persona  
-adscrita temporalmente, no pudiendo ser de aplicación al personal titular u  
-ocupante de puestos de trabajo con rango de subdirección general o jefatura  
-de servicio.  
+La adscripción temporal a la que se refiere el apartado anterior, se realizará por el plazo que resulte imprescindible en tanto concurran las circunstancias que han dado lugar a la misma y como máximo por un plazo de un año, prorrogable por otro más, para el desempeño de funciones propias del cuerpo, escala o agrupación profesional funcionarial al que pertenece la persona  
+adscrita temporalmente, no pudiendo ser de aplicación al personal titular u ocupante de puestos de trabajo con rango de subdirección general o jefatura de servicio.  
 
-Así mismo, en conformidad con su normativa específica, no podrá ser aplicable  
-la adscripción temporal al personal empleado público cuyo puesto de trabajo  
-tenga una vinculación con los órganos de representación establecidos  
-legalmente o cuando se acredite que concurre alguna de las situaciones de  
-protección de víctimas de violencia de género, víctimas de terrorismo o cambio  
+Así mismo, en conformidad con su normativa específica, no podrá ser aplicable la adscripción temporal al personal empleado público cuyo puesto de trabajo tenga una vinculación con los órganos de representación establecidos legalmente o cuando se acredite que concurre alguna de las situaciones de protección de víctimas de violencia de género, víctimas de terrorismo o cambio  
 de lugar por motivos de salud, discapacidad o diversidad funcional.  
 
-La resolución de adscripción temporal, deberá ser motivada con arreglo a  
-criterios objetivos, tanto en relación con la necesidad de la misma, como con el personal que resulte afectado, una vez oído el órgano de representación  
-unitaria correspondiente. Asimismo, será comunicada a las organizaciones  
-sindicales representativas en el ámbito de la Mesa Sectorial de la Función  
+La resolución de adscripción temporal, deberá ser motivada con arreglo a criterios objetivos, tanto en relación con la necesidad de la misma, como con el personal que resulte afectado, una vez oído el órgano de representación unitaria correspondiente. Asimismo, será comunicada a las organizaciones sindicales representativas en el ámbito de la Mesa Sectorial de la Función  
 Pública.  
 
-A todos los efectos, se entenderá que, en el sentido previsto en el artículo 69 dea Ley 5/1983, de 30 de diciembre, del Consell, la jefatura de personal de las funcionarias y los funcionarios adscritos temporalmente, será la de la presidencia de la Generalitat, conselleria u organismo público en el que desempeñan sus funciones.  
+A todos los efectos, se entenderá que, en el sentido previsto en el artículo 69 de la Ley 5/1983, de 30 de diciembre, del Consell, la jefatura de personal de las funcionarias y los funcionarios adscritos temporalmente, será la de la presidencia de la Generalitat, conselleria u organismo público en el que desempeñan sus funciones.  
 
  En cualquiera de los supuestos se continuarán percibiendo las mismas  
 retribuciones que se recibían en el momento de materializarse la adscripción  
@@ -1319,59 +1129,28 @@ servicio a que se tenga derecho, en su caso.
 
 CAPÍTULO IV  
 Movilidad interadministrativa e intersectorial  
+
 Artículo 129. Movilidad interadministrativa  
 
-1.El personal funcionario podrá acceder a puestos de trabajo de otras  
-administraciones públicas, organismos públicos, consorcios o universidades  
-públicas, de acuerdo con los requisitos y condiciones que se determinen en las  
-listas de puestos de trabajo y de conformidad con el principio de reciprocidad y  
-lo dispuesto en la legislación básica del Estado y convenios de conferencia  
-sectorial u otros instrumentos de colaboración que se puedan subscribir.  
+El personal funcionario podrá acceder a puestos de trabajo de otras  administraciones públicas, organismos públicos, consorcios o universidades públicas, de acuerdo con los requisitos y condiciones que se determinen en las listas de puestos de trabajo y de conformidad con el principio de reciprocidad y lo dispuesto en la legislación básica del Estado y convenios de conferencia sectorial u otros instrumentos de colaboración que se puedan subscribir.  
 
-A tal fin, el Consell impulsará la formalización de los instrumentos de  
-colaboración correspondientes que garanticen en términos de reciprocidad y de  
-manera efectiva la movilidad del personal empleado público en el territorio de la  
-Comunitat Valenciana.  
+El Consell impulsará la formalización de los instrumentos de colaboración correspondientes que garanticen en términos de reciprocidad y de manera efectiva la movilidad del personal empleado público en el territorio de la Comunitat Valenciana.  
 
-Esta reciprocidad se entenderá que existe entre la administración del Consell y  
-las administraciones locales situadas en el territorio de la Comunitat Valenciana  
-a que se refiere el artículo 3, incluidas las universidades valencianas, siempre  
-respetando la autonomía de las administraciones locales y universidades, que  
-podrán decidir si abren o no sus plazas a otras administraciones.  
-Sin embargo, excepcionalmente, aquellos puestos de trabajo que estén  
-vacantes, previo ofrecimiento público al personal funcionario de la  
-administración de la Generalitat, el órgano competente en materia de función  
-pública autorizará la cobertura temporal, en comisión de servicios, por personal  
-funcionario de otras administraciones públicas, previa solicitud de la 
-subsecretaría u órgano equivalente al que esté adscrito el puesto, sin que  
-comporte reclasificar el puesto.
+Esta reciprocidad se entenderá que existe entre la administración del Consell y las administraciones locales situadas en el territorio de la Comunitat Valenciana a que se refiere el artículo 3, incluidas las universidades valencianas, siempre respetando la autonomía de las administraciones locales y universidades, que podrán decidir si abren o no sus plazas a otras administraciones.  
 
-Los puestos de trabajo susceptibles de provisión por personal funcionario de
-carrera de otras administraciones públicas, organismos públicos, consorcios o universidades públicas, se cubrirán por los distintos procedimientos de  
-provisión vigentes, con los efectos que legal y reglamentariamente se  
-establezcan.  
+Sin embargo, excepcionalmente, aquellos puestos de trabajo que estén vacantes, previo ofrecimiento público al personal funcionario de la administración de la Generalitat, el órgano competente en materia de función pública autorizará la cobertura temporal, en comisión de servicios, por personal funcionario de otras administraciones públicas, previa solicitud de la 
+subsecretaría u órgano equivalente al que esté adscrito el puesto, sin que comporte reclasificar el puesto.
 
-En el marco de los acuerdos que se puedan suscribir entre administraciones  
-públicas, organismos públicos, consorcios o universidades públicas con el fin  
-de facilitar la movilidad del personal de las mismas, se tendrá especial  
-consideración a los supuestos de movilidad geográfica de las empleadas  
-públicas víctimas de violencia de género.  
-Estos acuerdos podrán contemplar la posibilidad de la modificación de la  
-adscripción del puesto de trabajo de la interesada a la nueva localidad si así lo  
-solicita y previo informe de los órganos competentes en cada caso.  
+Los puestos de trabajo susceptibles de provisión por personal funcionario de carrera de otras administraciones públicas, organismos públicos, consorcios o universidades públicas, se cubrirán por los distintos procedimientos de provisión vigentes, con los efectos que legal y reglamentariamente se establezcan.  
 
-El personal funcionario de carrera de una administración pública, organismo  
-público, consorcio o universidad pública, que obtenga destino en otra distinta a  
-través de los procedimientos de movilidad, quedará respecto de su  
-administración pública, organismo público, consorcio o universidad pública de  
-origen en la situación administrativa de servicio en otras administraciones  
+En el marco de los acuerdos que se puedan suscribir entre administraciones públicas, organismos públicos, consorcios o universidades públicas con el fin de facilitar la movilidad del personal de las mismas, se tendrá especial consideración a los supuestos de movilidad geográfica de las empleadas públicas víctimas de violencia de género.  
+
+Estos acuerdos podrán contemplar la posibilidad de la modificación de la adscripción del puesto de trabajo de la interesada a la nueva localidad si así lo solicita y previo informe de los órganos competentes en cada caso.  
+
+El personal funcionario de carrera de una administración pública, organismo público, consorcio o universidad pública, que obtenga destino en otra distinta a través de los procedimientos de movilidad, quedará respecto de su administración pública, organismo público, consorcio o universidad pública de origen en la situación administrativa de servicio en otras administraciones  
 públicas.  
 
-Los efectos en los supuestos de remoción o supresión del puesto de trabajo  
-obtenido por concurso, o de cese del puesto obtenido por libre designación,  
-serán los previstos en la normativa estatal de carácter básico.  
-24 El apartado 1 del artículo 129 se modifica por el artículo 101 de la Ley 7/2021, de 29 de diciembre.
-
+Los efectos en los supuestos de remoción o supresión del puesto de trabajo obtenido por concurso, o de cese del puesto obtenido por libre designación, serán los previstos en la normativa estatal de carácter básico.  
 Artículo 130. Movilidad intersectorial
 
 La Comissió Intersectorial de l’Ocupació Pública de la Generalitat (artículo 10) podrá proponer criterios en el ejercicio de sus competencias para que el personal funcionario docente, estatutario, de la Administración de la Generalitat o perteneciente a los cuerpos al servicio de la Administración de Justicia, pueda acceder a determinados puestos con funciones de otros ámbitos sectoriales de la Generalitat en atención a las características del correspondiente puesto de trabajo y en los términos que se establezcan reglamentariamente.  
@@ -1379,20 +1158,17 @@ La Comissió Intersectorial de l’Ocupació Pública de la Generalitat (artícu
 
 #### Promoción profesional
 
-
 Artículo 131. Promoción profesional del personal funcionario de carrera.
 Concepto y principios
 
 El personal funcionario de carrera tiene derecho a la promoción profesional mediante un conjunto ordenado de oportunidades de ascenso y expectativas de progreso que deberán respetar los principios de publicidad, igualdad, mérito y capacidad.
 
-A tal objeto, se establecerán mecanismos que posibiliten el derecho a la promoción profesional de modo que se conjugue la actualización y perfeccionamiento del personal funcionario de carrera con la mejora de la prestación del servicio público.
-
-
+Se establecerán mecanismos que posibiliten el derecho a la promoción profesional de modo que se conjugue la actualización y perfeccionamiento del personal funcionario de carrera con la mejora de la prestación del servicio público.
 
 La promoción profesional del personal funcionario de carrera se llevará a cabo
 mediante la aplicación de las siguientes modalidades (de manera aislada o simultánea):
 
-- **Carrera horizontal**: progresión profesional a través de un sistema de grados, sin necesidad de cambiar de puesto de trabajo.
+- **Carrera horizontal**: progresión profesional a través de un sistema de grados (establecidos reglamentariamente), sin necesidad de cambiar de puesto de trabajo, de acuerdo a su trayectoria y actuación profesional, la calidad de sus trabajos, los conocimientos adquiridos, y la evaluación del desempeño, así como otros establecidos reglamentariamente por la función y la experiencia. Con carácter general, la progresión será consecutiva. Una vez reconocidos, serán objeto de consolidación.
 
 - **Carrera vertical**: adquisición de un mayor nivel competencial, mediante la obtención de puestos de trabajo con destino definitivo.
 
@@ -1401,35 +1177,13 @@ mediante la aplicación de las siguientes modalidades (de manera aislada o simul
 - **Promoción interna horizontal**, a través del acceso a otro cuerpo o escala de un grupo o subgrupo de igual clasificación profesional.
 
 
-Artículo 133. Carrera horizontal del personal funcionario de carrera
-3. La carrera horizontal supone el reconocimiento individualizado del desarrollo
-profesional alcanzado por el personal funcionario de carrera como
-consecuencia de la valoración de su trayectoria y actuación profesional, de la
-calidad de los trabajos realizados, de los conocimientos adquiridos y del
-resultado de la evaluación del desempeño, así como de aquellos otros méritos
-y aptitudes que puedan establecerse reglamentariamente por razón de la
-especificidad de la función desarrollada y de la experiencia adquirida.
-4. A tal objeto, reglamentariamente se establecerá un sistema de grados de
-desarrollo profesional, regulándose los requisitos y la forma de acceso a cada
-uno de los grados, así como las retribuciones asignadas a los mismos. Con
-carácter general, la progresión será consecutiva.
-5. Los grados de desarrollo profesional, una vez reconocidos, serán objeto de
-consolidación, sin perjuicio de lo dispuesto en la regulación del régimen
-disciplinario para la sanción de demérito.Ley 4/2021146 de 276
-6. A través de la Comissió Intersectorial de l’Ocupació Pública de la Generalitat
-se facilitará, en caso de movilidad intersectorial del personal funcionario de
-carrera, el reconocimiento mutuo de los diferentes grados de desarrollo
-profesional
-7. El personal funcionario interino de la Administración de la Generalitat tendrá
-derecho a la percepción de la retribución correspondiente al complemento de
-carrera administrativa que corresponda según el tiempo de servicios prestados,
-siempre que cumpla con los requisitos previstos en la normativa de aplicación.
+A través de la Comissió Intersectorial de l’Ocupació Pública de la Generalitat se facilitará, en caso de movilidad intersectorial del personal funcionario de carrera, el reconocimiento mutuo de los diferentes grados de desarrollo profesional
+
+El personal funcionario interino de la Administración de la Generalitat tendrá derecho a la percepción de la retribución correspondiente al complemento de carrera administrativa que corresponda según el tiempo de servicios prestados, siempre que cumpla con los requisitos previstos en la normativa de aplicación. 
+
 Artículo 134. Carrera vertical del personal funcionario de carrera
-8. La carrera vertical del personal funcionario de carrera consiste en la
-obtención con destino definitivo de puestos de trabajo que, según su
-clasificación, pueden conllevar una mayor responsabilidad o dificultad técnica y
-que supondrá el reconocimiento, con los efectos previstos en esta ley, del nivel
-competencial correspondiente.
+
+La carrera vertical del personal funcionario de carrera consiste en la obtención con destino definitivo de puestos de trabajo que, según su clasificación, pueden conllevar una mayor responsabilidad o dificultad técnica y que supondrá el reconocimiento, con los efectos previstos en esta ley, del nivel competencial correspondiente.
 
 El nivel competencial se adquiere por el ejercicio de puestos de trabajo que tengan asignado un mismo componente competencial, durante dos años continuados o durante tres con interrupción.
 
@@ -1442,22 +1196,13 @@ El personal funcionario de carrera podrá acceder, mediante promoción interna, 
 
 Las ofertas de empleo público de Generalitat reservarán al turno de promoción interna un porcentaje no inferior al 40 % de las vacantes que se convoquen a oposición o concurso-oposición.
 
-La promoción interna se hará efectiva mediante los procedimientos selectivos
-que a tal efecto se convoquen, cuya participación estará en todo caso abierta a
-cualquiera de las modalidades previstas en los apartados c y d, del artículo
-132, con respeto a los principios de publicidad, igualdad, mérito y capacidad,
-así como a los que rigen con carácter general el acceso a la función pública.
-Dichas pruebas podrán llevarse a cabo en convocatorias independientes de las
-de ingreso cuando, por conveniencia de la planificación general del personal,
-así lo acuerde el Consell.
+La promoción interna se hará efectiva mediante los procedimientos selectivos que a tal efecto se convoquen, cuya participación estará en todo caso abierta a cualquiera de las modalidades previstas en los apartados c y d, del artículo 132, con respeto a los principios de publicidad, igualdad, mérito y capacidad, así como a los que rigen con carácter general el acceso a la función pública. 
+
+Dichas pruebas podrán llevarse a cabo en convocatorias independientes de las de ingreso cuando, por conveniencia de la planificación general del personal, así lo acuerde el Consell.
 
 Podrá participar en los procedimientos de promoción interna el personal funcionario de carrera perteneciente a otros cuerpos o escalas, siempre que cumpla los requisitos establecidos en este artículo.
 
-Para concurrir a las pruebas de promoción interna deberán reunirse los
-requisitos exigidos para el acceso, haber prestado servicios efectivos en la
-administración pública, organismo público, consorcio o universidad pública
-correspondiente durante, al menos, dos años en el cuerpo o escala desde la
-que se accede, así como superar las correspondientes pruebas selectivas.
+Para concurrir a las pruebas de promoción interna deberán reunirse los requisitos exigidos para el acceso, haber prestado servicios efectivos en la administración pública, organismo público, consorcio o universidad pública correspondiente durante, al menos, dos años en el cuerpo o escala desde la que se accede, así como superar las correspondientes pruebas selectivas.
 
 ***26 Téngase en cuenta que, en virtud del artículo único del Decreto Ley 4/2024, de 26 de marzo, del***
 ***Consell, por el que se adoptan medidas extraordinarias para la reducción de la temporalidad en el ámbito***
@@ -1475,38 +1220,22 @@ La promoción interna del personal perteneciente a la agrupación profesional fu
 
 Artículo 136. Promoción profesional del personal laboral
 
-El personal laboral tendrá derecho a la promoción profesional que se hará
-efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores (Real decreto legislativo 2/2015), o en los convenios colectivos.
+El personal laboral tendrá derecho a la promoción profesional que se hará efectiva a través de los procedimientos previstos en el Estatuto de los Trabajadores (Real decreto legislativo 2/2015), o en los convenios colectivos.
 
-Artículo 137. Evaluación del desempeño
-
-La evaluación del desempeño es:
+La Evaluación del desempeño es:
 
 >el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados con el fin de individualizar y diferenciar la contribución del personal empleado público.
 
-Las administraciones públicas, organismos públicos, consorcios y
-universidades públicas sujetas al ámbito subjetivo de aplicación de esta ley
-implantarán sistemas que permitan la evaluación del desempeño del personal
-empleado público a su servicio, mediante la valoración de la conducta
+Las administraciones públicas, organismos públicos, consorcios y universidades públicas sujetas al ámbito subjetivo de aplicación de esta ley implantarán sistemas que permitan la evaluación del desempeño del personal empleado público a su servicio, mediante la valoración de la conducta
 profesional y la medición del rendimiento o los resultados obtenidos.
 
-Los sistemas de evaluación se orientarán a la mejor gestión de las administraciones públicas, organismos públicos, consorcios y universidades
-públicas, al progreso y desarrollo profesional del personal empleado público,
-favoreciendo la motivación del mismo mediante su implicación en los objetivos previamente fijados por la organización conforme se establezca
-reglamentariamente.
+Los sistemas de evaluación se orientarán a la mejor gestión de las administraciones públicas, organismos públicos, consorcios y universidades públicas, al progreso y desarrollo profesional del personal empleado público, favoreciendo la motivación del mismo mediante su implicación en los objetivos previamente fijados por la organización conforme se establezca reglamentariamente.
 
-Los instrumentos que conformen los sistemas de evaluación se adecuarán en todo caso a criterios de transparencia, publicidad, objetividad, fiabilidad y relevancia de contenidos, de imparcialidad y no discriminación, y se aplicarán
-sin menoscabo de los derechos del personal empleado público.
+Los instrumentos que conformen los sistemas de evaluación se adecuarán en todo caso a criterios de transparencia, publicidad, objetividad, fiabilidad y relevancia de contenidos, de imparcialidad y no discriminación, y se aplicarán sin menoscabo de los derechos del personal empleado público.
 
-El procedimiento y la periodicidad para la evaluación y la composición y
-funcionamiento de los órganos encargados de la misma, así como los efectos
-de su resultado sobre la carrera horizontal, la formación, la provisión de
-puestos de trabajo y, en su caso, la percepción del complemento de actividad
-profesional, será el establecido reglamentariamente.
+El procedimiento y la periodicidad para la evaluación y la composición y funcionamiento de los órganos encargados de la misma, así como los efectos de su resultado sobre la carrera horizontal, la formación, la provisión de puestos de trabajo y, en su caso, la percepción del complemento de actividad profesional, será el establecido reglamentariamente.
 
-La continuidad del personal funcionario de carrera en los puestos de trabajo obtenidos por concurso quedará vinculada al resultado de la evaluación de
-acuerdo con el sistema y el procedimiento que se determine reglamentariamente, dándose audiencia a la persona interesada y a través de
-la correspondiente resolución motivada.
+La continuidad del personal funcionario de carrera en los puestos de trabajo obtenidos por concurso quedará vinculada al resultado de la evaluación de acuerdo con el sistema y el procedimiento que se determine reglamentariamente, dándose audiencia a la persona interesada y a través de la correspondiente resolución motivada.
 
 
 #### Situaciones administrativas del personal funcionario de carrera
@@ -1527,10 +1256,7 @@ El personal funcionario de carrera puede hallarse en alguna de las siguientes si
 
 - **Suspensión de funciones**: 
 
-El personal funcionario de carrera en situación administrativa distinta a la de
-servicio activo podrá cambiar de situación administrativa siempre que reúna los
-requisitos exigidos en cada caso, sin necesidad de reingreso previo al servicio
-activo.
+*El personal funcionario de carrera en situación administrativa distinta a la de servicio activo podrá cambiar de situación administrativa siempre que reúna los requisitos exigidos en cada caso, sin necesidad de reingreso previo al servicio activo.*
 
 La resolución que reconozca a una funcionaria o funcionario una situación administrativa diferente de la de servicio activo, deberá informar a la persona interesada del régimen de reingreso al mismo.
 
@@ -1549,163 +1275,68 @@ CAPÍTULO II
 Servicio activo
 Artículo 140. Servicio activo
 
+El disfrute de licencias, permisos, vacaciones o los períodos de duración de la incapacidad temporal para el servicio del personal funcionario de carrera no variarán la situación de servicio activo.
+  
+Cuando el personal funcionario de carrera, por encargo de su administración pública, organismo público, consorcio o universidad pública, y de acuerdo con los intereses de este, pase temporalmente a prestar servicios en otra administración pública, organismo público, consorcio o universidad pública, con objeto de obtener un perfeccionamiento en técnicas profesionales y de la
+administración, se considerará situación de servicio activo y sus retribuciones corresponderán a la administración pública, organismo público, consorcio o universidad pública de origen.
+ 
+Cuando el personal funcionario de carrera de la Administración de la Generalitat, pase a desempeñar puestos de trabajo cuya gestión corresponda a las consellerias con competencias en materia de sanidad y educación y no proceda su declaración en otra situación administrativa, el órgano competente en materia de función pública dictará resolución en la que se declare la permanencia en situación de activo del personal funcionario especificando el nuevo sector de destino, al cual le corresponderá la gestión de dicho personal.
 
-1. El disfrute de licencias, permisos, vacaciones o los períodos de duración de
-la incapacidad temporal para el servicio del personal funcionario de carrera no
-variarán la situación de servicio activo.
-2. Cuando el personal funcionario de carrera, por encargo de su administración
-pública, organismo público, consorcio o universidad pública, y de acuerdo con
-los intereses de este, pase temporalmente a prestar servicios en otra
-administración pública, organismo público, consorcio o universidad pública, con
-objeto de obtener un perfeccionamiento en técnicas profesionales y de la
-administración, se considerará situación de servicio activo y sus retribuciones
-corresponderán a la administración pública, organismo público, consorcio o
-universidad pública de origen.
-3. Cuando el personal funcionario de carrera de la Administración de la
-Generalitat, pase a desempeñar puestos de trabajo cuya gestión corresponda a
-las consellerias con competencias en materia de sanidad y educación y no
-proceda su declaración en otra situación administrativa, el órgano competente
-en materia de función pública dictará resolución en la que se declare la permanencia en situación de activo del personal funcionario especificando el
-nuevo sector de destino, al cual le corresponderá la gestión de dicho personal.
-
-l personal funcionario de carrera en esta situación tiene todos los derechos inherentes a su condición y queda sujeto a los deberes y responsabilidades derivados de la misma.
+El personal funcionario de carrera en esta situación tiene todos los derechos inherentes a su condición y queda sujeto a los deberes y responsabilidades derivados de la misma.
 
 En tanto el personal funcionario interino ocupe un puesto de trabajo de conformidad con los procedimientos previstos en la normativa de aplicación, se considerará que está en activo en la administración pública, organismo público, consorcio o universidad pública donde preste servicios.
+
 
 CAPÍTULO III
 Servicios especiales
 Artículo 141. Servicios especiales
-6. El personal funcionario de carrera será declarado en la situación de servicios
-especiales:
-a) Cuando adquiera la condición de personal funcionario al servicio de
-organizaciones internacionales o de carácter supranacional.
-b) Cuando obtenga la autorización de su administración pública, organismo
-público, consorcio o universidad pública para realizar una misión por un período
-superior a seis meses en organismos internacionales, gobiernos o entidades
-públicas extranjeras o en programas de cooperación internacional y la
-retribución del mismo corra a cargo de estos organismos o programas.
-Si la misión fuera iniciativa de su administración pública, organismo público,
-consorcio o universidad pública y la retribución a su cargo, su situación seguirá
-siendo la de servicio activo, de conformidad con lo dispuesto en el artículo
-anterior, siendo de aplicación lo previsto en el artículo 119.2.
-c) Cuando sea nombrado miembro del Gobierno de la Nación, del Consell o de
-los órganos de gobierno de otras comunidades autónomas y ciudades de
-Ceuta y Melilla, miembros de las instituciones de la Unión Europea o de lasLey 4/2021153 de 276
-organizaciones internacionales o sea nombrado alto cargo de las citadas
-administraciones públicas o instituciones.
-A estos efectos, se entenderá por alto cargo quien haya sido nombrado como
-tal por decreto del Consell u órganos análogos correspondientes del resto de
-administraciones públicas o instituciones.
-d) Cuando sea nombrado para desempeñar puestos o cargos en organismos
-públicos o entidades dependientes o vinculadas a las administraciones públicas
-que, de conformidad con lo que se establezca en la correspondiente normativa
-organizativa de cada administración, estén asimilados en su rango
-administrativo a altos cargos.
-e) Cuando sea adscrito a los servicios del Tribunal Constitucional, del Defensor
-o Defensora del Pueblo, Síndic o Síndica de Greuges o destinados al Tribunal
-de Cuentas en los términos previstos en el artículo 93.3 de la Ley 7/1988, de 5
-de abril, de Funcionamiento del Tribunal de Cuentas.
-f) Cuando accedan a la condición de diputada o diputado, senadora o senador
-de las Cortes Generales, diputada o diputado de las Corts Valencianes o
-miembro de las asambleas legislativas de otras comunidades autónomas y se
-perciban retribuciones periódicas por la realización de la función. Quienes
-pierdan dicha condición por la disolución de las correspondientes cámaras o
-terminación del mandato de las mismas, podrán permanecer en la situación de
-servicios especiales hasta su nueva constitución, siempre que estén incluidos
-en alguna de las listas electorales de los partidos o asociaciones electorales
-que concurran a las elecciones.
-g) Cuando sea elegido por las Corts Valencianes, las Cortes Generales o las
-asambleas legislativas de las comunidades autónomas para formar parte de los
-órganos constitucionales o de los órganos estatutarios de las mismas u otros
-cuya elección corresponda al Congreso de los Diputados, al Senado o a las
-asambleas legislativas de las comunidades autónomas.
-h) Cuando desempeñe cargos electivos retribuidos y de dedicación exclusiva
-en las asambleas de las ciudades de Ceuta y Melilla y en las entidades localesLey 4/2021154 de 276
-o cuando se desempeñen responsabilidades de órganos superiores y directivos
-municipales o cuando se desempeñen responsabilidades de miembros de los
-órganos locales para el conocimiento y la resolución de las reclamaciones
-económico-administrativas.
-i) Cuando sea designado para formar parte del Consejo General del Poder
-Judicial o de los consejos de justicia de las comunidades autónomas.
-j) Cuando sea designado como personal eventual por ocupar puestos de
-trabajo con funciones expresamente calificadas como de confianza o
-asesoramiento y no opten por permanecer en servicio activo.
-k) Cuando sea designado personal asesor de los grupos parlamentarios de las
-Cortes Generales, de las asambleas legislativas de las comunidades
-autónomas o de los grupos municipales.
-l) Cuando sea activado como persona reservista voluntaria para prestar
-servicios en las Fuerzas Armadas.
-m) Cuando ostente cargo electivo a nivel provincial, autonómico o estatal en las
-organizaciones sindicales más representativas.27
-7. El personal funcionario interino puede ser declarado en la situación de
-servicios especiales con los efectos previstos en el artículo 142 de esta ley,
-excepto lo relativo a la promoción interna y ascensos del apartado 2 y el
-apartado 3, que no resultan de aplicación a este personal.
-La situación de servicios especiales se mantendrá únicamente mientras no
-concurra ninguna de las causas de cese previstas para este personal en la
-presente ley.
 
-El reingreso al servicio activo habrá de solicitarse en el plazo de un mes desde el día siguiente al de la finalización de la causa que dio lugar a la situación de servicios especiales. El incumplimiento de esta obligación
-determinará la pérdida del derecho a la reserva del puesto de trabajo.
+El personal funcionario de carrera será declarado en la situación de servicios especiales:
+- Cuando adquiera la condición de personal funcionario al servicio de organizaciones internacionales o de carácter supranacional.
+- Cuando obtenga la autorización de su administración pública, organismo público, consorcio o universidad pública para realizar una misión por un período superior a seis meses en organismos internacionales, gobiernos o entidades públicas extranjeras o en programas de cooperación internacional y la retribución del mismo corra a cargo de estos organismos o programas.
+	Si la misión fuera iniciativa de su administración pública, organismo público, consorcio o universidad pública y la retribución a su cargo, su situación seguirá siendo la de servicio activo, de conformidad con lo dispuesto en el artículo anterior, siendo de aplicación lo previsto en el artículo 119.2.
+
+- Cuando sea nombrado miembro del Gobierno de la Nación, del Consell o de los órganos de gobierno de otras comunidades autónomas y ciudades de Ceuta y Melilla, miembros de las instituciones de la Unión Europea o de las organizaciones internacionales o sea nombrado alto cargo de las citadas administraciones públicas o instituciones.
+	A estos efectos, se entenderá por alto cargo quien haya sido nombrado como tal por decreto del Consell u órganos análogos correspondientes del resto de administraciones públicas o instituciones.
+- Cuando sea nombrado para desempeñar puestos o cargos en organismos públicos o entidades dependientes o vinculadas a las administraciones públicas que, de conformidad con lo que se establezca en la correspondiente normativa organizativa de cada administración, estén asimilados en su rango administrativo a altos cargos.
+- Cuando sea adscrito a los servicios del Tribunal Constitucional, del Defensor o Defensora del Pueblo, Síndic o Síndica de Greuges o destinados al Tribunal de Cuentas en los términos previstos en el artículo 93.3 de la Ley 7/1988, de 5 de abril, de Funcionamiento del Tribunal de Cuentas.
+- Cuando accedan a la condición de diputada o diputado, senadora o senador de las Cortes Generales, diputada o diputado de las Corts Valencianes o miembro de las asambleas legislativas de otras comunidades autónomas y se perciban retribuciones periódicas por la realización de la función. Quienes pierdan dicha condición por la disolución de las correspondientes cámaras o terminación del mandato de las mismas, podrán permanecer en la situación de servicios especiales hasta su nueva constitución, siempre que estén incluidos en alguna de las listas electorales de los partidos o asociaciones electorales que concurran a las elecciones.
+
+	Cuando sea elegido por las Corts Valencianes, las Cortes Generales o las asambleas legislativas de las comunidades autónomas para formar parte de los órganos constitucionales o de los órganos estatutarios de las mismas u otros cuya elección corresponda al Congreso de los Diputados, al Senado o a las asambleas legislativas de las comunidades autónomas.
+
+- Cuando desempeñe cargos electivos retribuidos y de dedicación exclusiva en las asambleas de las ciudades de Ceuta y Melilla y en las entidades locales o cuando se desempeñen responsabilidades de órganos superiores y directivos municipales o cuando se desempeñen responsabilidades de miembros de los órganos locales para el conocimiento y la resolución de las reclamaciones económico-administrativas.
+- Cuando sea designado para formar parte del Consejo General del Poder Judicial o de los consejos de justicia de las comunidades autónomas.
+- Cuando sea designado como personal eventual por ocupar puestos de trabajo con funciones expresamente calificadas como de confianza o asesoramiento y no opten por permanecer en servicio activo.
+- Cuando sea designado personal asesor de los grupos parlamentarios de las Cortes Generales, de las asambleas legislativas de las comunidades autónomas o de los grupos municipales
+- Cuando sea activado como persona reservista voluntaria para prestar servicios en las Fuerzas Armadas.
+- Cuando ostente cargo electivo a nivel provincial, autonómico o estatal en las organizaciones sindicales más representativas.
+- 
+El personal funcionario interino puede ser declarado en la situación de servicios especiales con los efectos previstos en el artículo 142 de esta ley, excepto lo relativo a la promoción interna y ascensos del apartado 2 y el apartado 3, que no resultan de aplicación a este personal.
+
+La situación de servicios especiales se mantendrá únicamente mientras no concurra ninguna de las causas de cese previstas para este personal en la presente ley.
+
+El reingreso al servicio activo habrá de solicitarse en el plazo de un mes desde el día siguiente al de la finalización de la causa que dio lugar a la situación de servicios especiales. El incumplimiento de esta obligación determinará la pérdida del derecho a la reserva del puesto de trabajo.
 
 
-Artículo 142. Efectos de la situación administrativa de servicios
-especiales
+Artículo 142. Efectos de la situación administrativa de servicios especiales
 
-Quienes se encuentren en situación de servicios especiales percibirán las
-retribuciones del puesto o cargo que desempeñen y no las que les
-correspondan como personal funcionario de carrera, sin perjuicio del derecho a
-percibir los trienios que tengan reconocidos en cada momento.
+Quienes se encuentren en situación de servicios especiales percibirán las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como personal funcionario de carrera, sin perjuicio del derecho a percibir los trienios que tengan reconocidos en cada momento.
 
-La situación de servicios especiales supone el cómputo del tiempo de
-permanencia en la misma a efectos de reconocimiento de antigüedad,
-promoción interna, ascensos y derechos en el régimen de Seguridad Social
-que les sea de aplicación. No será aplicable al personal funcionario público
-que, habiendo ingresado al servicio de las Instituciones comunitarias europeas,
-o al de entidades y organismos asimilados, ejercite el derecho de transferencia
-establecido en el Estatuto de los funcionarios de las comunidades europeas.
+La situación de servicios especiales supone el cómputo del tiempo de permanencia en la misma a efectos de reconocimiento de antigüedad, promoción interna, ascensos y derechos en el régimen de Seguridad Social que les sea de aplicación. No será aplicable al personal funcionario público
+que, habiendo ingresado al servicio de las Instituciones comunitarias europeas, o al de entidades y organismos asimilados, ejercite el derecho de transferencia establecido en el Estatuto de los funcionarios de las comunidades europeas.
 
-El personal funcionario que haya sido declarado en la situación de servicios
-especiales no sufrirá menoscabo alguno en el derecho a la promoción
-profesional, por haber sido nombrado durante un período mínimo de dos años
-consecutivos o tres con interrupción, alto cargo, miembro del poder judicial o de
-otros órganos constitucionales o estatutarios o haber sido elegido alcaldesa o
-alcalde, retribuidos y con dedicación exclusiva, presidenta o presidente de
-diputaciones o de cabildos o consejos insulares, diputada o diputado o
-senadora o senador de las Cortes Generales, diputada o diputado de les Corts
-Valencianes o miembro de las asambleas legislativas de las comunidades
-autónomas. Este personal funcionario recibirá el mismo tratamiento en la
-consolidación del nivel competencial y conjunto de complementos que el que
-se establezca para quienes hayan sido titulares de direcciones generales u
-otros órganos superiores o directivos de la Administración de la Generalitat.
+El personal funcionario que haya sido declarado en la situación de servicios especiales no sufrirá menoscabo alguno en el derecho a la promoción profesional, por haber sido nombrado durante un período mínimo de dos años consecutivos o tres con interrupción, alto cargo, miembro del poder judicial o de otros órganos constitucionales o estatutarios o haber sido elegido alcaldesa o
+alcalde, retribuidos y con dedicación exclusiva, presidenta o presidente de diputaciones o de cabildos o consejos insulares, diputada o diputado o senadora o senador de las Cortes Generales, diputada o diputado de les Corts Valencianes o miembro de las asambleas legislativas de las comunidades autónomas. Este personal funcionario recibirá el mismo tratamiento en la consolidación del nivel competencial y conjunto de complementos que el que se establezca para quienes hayan sido titulares de direcciones generales u otros órganos superiores o directivos de la Administración de la Generalitat.
 
 
 Artículo 143. Reingreso al servicio activo desde la situación administrativa de servicios especiales
 
-La situación de servicios especiales dará derecho a la reserva del mismo
-puesto de trabajo si este hubiera sido obtenido mediante concurso. Cuando el
-puesto de trabajo desempeñado con anterioridad hubiera sido obtenido por
-libre designación u ocupado en adscripción provisional, este derecho se
-entenderá referido a un puesto de trabajo de su cuerpo, escala o agrupación
-profesional funcionarial, y en caso de que estuviera incluido en una agrupación
-de puestos de trabajo, a un puesto de la misma, con las retribuciones
-correspondientes a su nivel competencial reconocido y en idéntica localidad.
-El reingreso al servicio activo del personal declarado en esta situación
-administrativa y que no ostente derecho a la reserva del mismo puesto de
-trabajo, tendrá las mismas garantías retributivas que las establecidas en el
-artículo 116.6 de la presente ley, para los supuestos de cese del personal
-funcionario de carrera.
+La situación de servicios especiales dará derecho a la reserva del mismo puesto de trabajo si este hubiera sido obtenido mediante concurso. Cuando el puesto de trabajo desempeñado con anterioridad hubiera sido obtenido por libre designación u ocupado en adscripción provisional, este derecho se entenderá referido a un puesto de trabajo de su cuerpo, escala o agrupación
+profesional funcionarial, y en caso de que estuviera incluido en una agrupación de puestos de trabajo, a un puesto de la misma, con las retribuciones correspondientes a su nivel competencial reconocido y en idéntica localidad. El reingreso al servicio activo del personal declarado en esta situación administrativa y que no ostente derecho a la reserva del mismo puesto de trabajo, tendrá las mismas garantías retributivas que las establecidas en el artículo 116.6 de la presente ley, para los supuestos de cese del personal funcionario de carrera.
 
-El reingreso al servicio activo habrá de solicitarse en el plazo de un mes, a
-contar desde el día siguiente al de la finalización de la causa que dio lugar a la
-situación de servicios especiales. El incumplimiento de esta obligación
-determinará la declaración en la situación de excedencia voluntaria por interés
-particular.
-La administración pública, organismo público, consorcio o universidad pública
-estarán obligados a asignar un puesto de trabajo en el plazo de un mes desde
-la presentación de la solicitud de reingreso al servicio activo. En caso de no ser
-asignado ningún puesto, se considerará al interesado en servicio activo con
-todos los derechos inherentes al mismo.
+El reingreso al servicio activo habrá de solicitarse en el plazo de un mes, a contar desde el día siguiente al de la finalización de la causa que dio lugar a la situación de servicios especiales. El incumplimiento de esta obligación determinará la declaración en la situación de excedencia voluntaria por interés particular.
+
+La administración pública, organismo público, consorcio o universidad pública estarán obligados a asignar un puesto de trabajo en el plazo de un mes desde la presentación de la solicitud de reingreso al servicio activo. En caso de no ser asignado ningún puesto, se considerará al interesado en servicio activo con todos los derechos inherentes al mismo.
 
 CAPÍTULO IV
 Servicio en otras administraciones públicas
@@ -1742,77 +1373,58 @@ interesada.
 CAPÍTULO V
 Excedencias voluntarias
 
-
 encuentre bajo su guarda o custodia que, por razones de edad, accidente,  
 enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe  
 actividad retribuida.  
-2. El período de excedencia será único por cada sujeto causante. Cuando un  
-nuevo sujeto causante diera origen a una nueva excedencia, el inicio del  
-período de la misma pondrá fin al que se viniera disfrutando.  
-3. Esta excedencia constituye un derecho individual del personal funcionario.  
-En el caso de que más de una funcionaria o funcionario generasen el derecho  
-a disfrutarla por un mismo sujeto causante, se podrá limitar su ejercicio  
-simultáneo por razones justificadas relacionadas con el funcionamiento de los  
-servicios.  
 
-Artículo 154. Efectos de la excedencia voluntaria por cuidado de  
-familiares  
-4. El tiempo de permanencia en esta situación será computable a efectos de  
-antigüedad, promoción profesional y derechos en el Régimen de Seguridad  
-Social que les sea aplicable.  
+El período de excedencia será único por cada sujeto causante. Cuando un  nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.  
+
+Esta excedencia constituye un derecho individual del personal funcionario. En el caso de que más de una funcionaria o funcionario generasen el derecho a disfrutarla por un mismo sujeto causante, se podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.  
+
+Artículo 154. Efectos de la excedencia voluntaria por cuidado de familiares  
+
+El tiempo de permanencia en esta situación será computable a efectos de antigüedad, promoción profesional y derechos en el Régimen de Seguridad Social que les sea aplicable.  
+
 Cuando el sujeto causante de la excedencia prevista en el presente artículo  
 sea el cónyuge o pareja de hecho legalmente constituida, el tiempo de  
 permanencia en esta situación no será computable a efectos de derechos en el  
 Régimen de Seguridad Social que les sea de aplicación, en tanto la legislación  
 estatal aplicable no lo permita.  
-5. El puesto de trabajo obtenido con destino definitivo se reservará durante los  
-tres años de duración de la excedencia.  
-6. El puesto de trabajo que se estuviera desempeñando con carácter  
-provisional, por no disponer de puesto en propiedad, se reservará durante los  
-tres años de duración de la excedencia siempre que no sea objeto de provisión  
-con destino definitivo o, en su caso, se reincorpore su titular.Ley 4/2021162 de 276
 
-7. El personal funcionario interino puede disfrutar de esta excedencia, si bien la  
-reserva del puesto de trabajo se mantendrá únicamente mientras no concurra  
-ninguna de las causas de cese previstas para este personal en la presente ley.  
-5. El personal funcionario en esta situación podrá participar en los cursos de  
-formación que organice la administración.  
+El puesto de trabajo obtenido con destino definitivo se reservará durante los tres años de duración de la excedencia.  
+
+El puesto de trabajo que se estuviera desempeñando con carácter provisional, por no disponer de puesto en propiedad, se reservará durante los tres años de duración de la excedencia siempre que no sea objeto de provisión con destino definitivo o, en su caso, se reincorpore su titular.
+
+El personal funcionario interino puede disfrutar de esta excedencia, si bien la reserva del puesto de trabajo se mantendrá únicamente mientras no concurra ninguna de las causas de cese previstas para este personal en la presente ley.  
+
+El personal funcionario en esta situación podrá participar en los cursos de formación que organice la administración.  
+
+
 Artículo 155. Excedencia voluntaria por razón de violencia de género  
-6. Las funcionarias víctimas de violencia de género, para hacer efectiva su  
-protección o su derecho a la asistencia social integral, tendrán derecho a esta  
-excedencia, sin tener que haber prestado un tiempo mínimo de servicios  
-previos y sin que les sea exigible plazo de permanencia en la misma.  
-7. La condición de víctima de violencia de género se acreditará de acuerdo con  
-lo previsto en el artículo 23 de la Ley orgánica 1/2004, de 28 de diciembre, de  
-Medidas de Protección Integral contra la Violencia de Género.  
-Artículo 156. Efectos de la excedencia voluntaria por razón de violencia  
-de género  
-8. Durante los seis primeros meses las funcionarias declaradas en la situación  
-de excedencia voluntaria por razón de violencia de género tendrán derecho a la  
-reserva del puesto de trabajo obtenido con destino definitivo o de aquel que se  
-estuviera desempeñando con carácter provisional por no disponer de puesto en  
-propiedad. Este periodo será computable a efectos de antigüedad, promoción  
-profesional y derechos del régimen de Seguridad Social que sea aplicable.  
-Ello no obstante, cuando de las actuaciones de tutela judicial resultase que la  
-efectividad del derecho de protección de la víctima lo exigiere, se podrá  
-prorrogar por períodos de tres meses, con un máximo de dieciocho meses, con  
-idénticos efectos a los señalados anteriormente. Asimismo, transcurrido este  
-periodo, se mantendrá únicamente el derecho a la reserva del puesto de  
-trabajo en los términos previstos en el párrafo anterior, hasta que se produzca  
-el cese de la situación de violencia que generó la excedencia.Ley 4/2021163 de 276
 
-9. Durante los tres primeros meses de esta excedencia la funcionaria tendrá  
-derecho a percibir las retribuciones íntegras y, en su caso, durante los dos  
-primeros, las prestaciones familiares por hija o hijo a cargo.  
-3. Las funcionarias interinas pueden disfrutar de esta excedencia, si bien la  
-reserva del puesto de trabajo se mantendrá únicamente mientras no concurra  
-ninguna de las causas de cese previstas para este personal en la presente ley.  
+Las funcionarias víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a esta excedencia, sin tener que haber prestado un tiempo mínimo de servicios previos y sin que les sea exigible plazo de permanencia en la misma.  
+
+La condición de víctima de violencia de género se acreditará de acuerdo con lo previsto en el artículo 23 de la Ley orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.  
+
+Artículo 156. Efectos de la excedencia voluntaria por razón de violencia de género  
+
+Durante los seis primeros meses las funcionarias declaradas en la situación de excedencia voluntaria por razón de violencia de género tendrán derecho a la reserva del puesto de trabajo obtenido con destino definitivo o de aquel que se estuviera desempeñando con carácter provisional por no disponer de puesto en propiedad. Este periodo será computable a efectos de antigüedad, promoción profesional y derechos del régimen de Seguridad Social que sea aplicable.  
+Ello no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho meses, con idénticos efectos a los señalados anteriormente. Asimismo, transcurrido este periodo, se mantendrá únicamente el derecho a la reserva del puesto de trabajo en los términos previstos en el párrafo anterior, hasta que se produzca  
+el cese de la situación de violencia que generó la excedencia.
+
+Durante los tres primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, durante los dos primeros, las prestaciones familiares por hija o hijo a cargo.  
+
+Las funcionarias interinas pueden disfrutar de esta excedencia, si bien la reserva del puesto de trabajo se mantendrá únicamente mientras no concurra ninguna de las causas de cese previstas para este personal en la presente ley.  
+
+
 Artículo 157. Excedencia voluntaria por razón de violencia terrorista  
+
 En los términos previstos por la normativa estatal básica el personal funcionario  
 que haya sufrido daños físicos o psíquicos como consecuencia de la actividad  
 terrorista, así como el personal amenazado, tendrá derecho a disfrutar de un  
 periodo de excedencia en las mismas condiciones que las víctimas de violencia  
 de género.  
+
 Artículo 158. Excedencia voluntaria incentivada  
 4. El personal funcionario de carrera incluido en un proceso de reasignación de  
 efectivos podrá solicitar ser declarado en situación de excedencia voluntaria  
@@ -1843,68 +1455,38 @@ reingresar antes del cumplimiento del plazo máximo de cinco años si así lo
 acuerdan ambas partes, siempre que hayan transcurrido dos años desde su  
 concesión y previa devolución de la parte proporcional de las cantidades  
 percibidas por el tiempo que reste.  
+
+
 CAPÍTULO VI  
 Excedencia forzosa  
 Artículo 160. Excedencia forzosa  
+
 La declaración de excedencia forzosa se producirá en los casos siguientes:  
-a) Cuando el personal funcionario declarado en situación de suspensión firme  
-con pérdida del puesto de trabajo solicite el reingreso tras cumplir la sanción  
-impuesta y este no sea posible por falta de puesto de trabajo vacante con  
-dotación presupuestaria.  
-b) Cuando el personal funcionario que se encuentre en situación de expectativa  
-de destino agote el período máximo fijado para dicha situación por causa no  
-imputable a la administración pública, organismo público, consorcio o  
-universidad pública, así como cuando incumpla las obligaciones impuestas en  
-el artículo 163.  
-c) Cuando el personal funcionario en excedencia voluntaria sin reserva de  
-puesto de trabajo solicite el reingreso tras la finalización de la misma y, una vez trascurrido el plazo previsto para el reingreso, éste no sea posible por falta de  
-puesto de trabajo.  
 
-Artículo 161. Efectos y reingreso al servicio activo en el supuesto de  
-excedencia forzosa  
+- Cuando el personal funcionario declarado en situación de suspensión firme con pérdida del puesto de trabajo solicite el reingreso tras cumplir la sanción impuesta y este no sea posible por falta de puesto de trabajo vacante con dotación presupuestaria.  
+- Cuando el personal funcionario que se encuentre en situación de expectativa de destino agote el período máximo fijado para dicha situación por causa no imputable a la administración pública, organismo público, consorcio o universidad pública, así como cuando incumpla las obligaciones impuestas en el artículo 163.  
+- Cuando el personal funcionario en excedencia voluntaria sin reserva de puesto de trabajo solicite el reingreso tras la finalización de la misma y, una vez trascurrido el plazo previsto para el reingreso, éste no sea posible por falta de puesto de trabajo.  
 
- El personal declarado en la situación administrativa de excedencia forzosa  
-tiene derecho a percibir las retribuciones básicas y, en su caso, las  
-prestaciones familiares por hija o hijo a cargo. El tiempo que permanezcan en  
-esta situación será computable a efectos de antigüedad y de derechos del  
-Régimen de Seguridad Social que sea aplicable.  
-No obstante lo anterior, en el caso de que las retribuciones que deba percibir el  
-personal declarado en esta situación sean inferiores a la cuantía fijada como  
-salario mínimo interprofesional, deberán ser complementadas hasta alcanzar  
-dicha cuantía.  
-2. Este personal tiene obligación de participar en los concursos convocados a  
-puestos de su cuerpo, escala o agrupación profesional funcionarial o en su  
-caso, de su agrupación de puestos de trabajo, de su localidad, declarándoles  
-en caso de no hacerlo, en situación de excedencia voluntaria por interés  
-particular. Asimismo, deberán aceptar los destinos que se les ofrezcan en  
-puestos de su cuerpo, escala o agrupación profesional funcionarial o, en su  
-caso, de su agrupación de puestos de trabajo, ubicados en la misma localidad  
-donde desempeñaron su puesto anterior y participar en los cursos de  
-capacitación que se les ofrezcan.  
+Artículo 161. Efectos y reingreso al servicio activo en el supuesto de excedencia forzosa  
 
- Mientras esté en situación de excedencia forzosa no podrá desempeñar  
-puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial  
-o laboral. Si obtiene puesto de trabajo en dicho sector, pasará a la situación  
-administrativa correspondiente.
+El personal declarado en la situación administrativa de excedencia forzosa tiene derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hija o hijo a cargo. El tiempo que permanezcan en esta situación será computable a efectos de antigüedad y de derechos del Régimen de Seguridad Social que sea aplicable.  
+
+No obstante lo anterior, en el caso de que las retribuciones que deba percibir el personal declarado en esta situación sean inferiores a la cuantía fijada como salario mínimo interprofesional, deberán ser complementadas hasta alcanzar dicha cuantía.  
+
+Este personal tiene obligación de participar en los concursos convocados a puestos de su cuerpo, escala o agrupación profesional funcionarial o en su caso, de su agrupación de puestos de trabajo, de su localidad, declarándoles en caso de no hacerlo, en situación de excedencia voluntaria por interés particular. Asimismo, deberán aceptar los destinos que se les ofrezcan en puestos de su cuerpo, escala o agrupación profesional funcionarial o, en su caso, de su agrupación de puestos de trabajo, ubicados en la misma localidad donde desempeñaron su puesto anterior y participar en los cursos de capacitación que se les ofrezcan.  
+
+Mientras esté en situación de excedencia forzosa no podrá desempeñar puestos de trabajo en el sector público bajo ningún tipo de relación funcionarial o laboral. Si obtiene puesto de trabajo en dicho sector, pasará a la situación administrativa correspondiente.
 
 CAPÍTULO VII  
 Expectativa de destino  
 Artículo 162. Expectativa de destino  
 
-El personal funcionario cuyo puesto de trabajo haya sido suprimido como  
-consecuencia de la aplicación de una medida de redistribución de efectivos o  
-de racionalización de la organización administrativa y de personal reguladas  
-por esta ley y no hayan obtenido otro puesto de trabajo, podrá ser declarado en  
-la situación de expectativa de destino.  
+El personal funcionario cuyo puesto de trabajo haya sido suprimido como consecuencia de la aplicación de una medida de redistribución de efectivos o de racionalización de la organización administrativa y de personal reguladas por esta ley y no hayan obtenido otro puesto de trabajo, podrá ser declarado en la situación de expectativa de destino.  
 
-Asimismo, procederá esta situación cuando, de acuerdo con el  
-procedimiento establecido, se produzca una modificación de las relaciones de  
-puestos de trabajo y no sea posible mantener al personal funcionario en activo  
-en el cuerpo, escala o agrupación profesional funcionarial o, en su caso, en la  
-agrupación de puestos de trabajo, que le corresponda por falta de puesto de  
-trabajo con dotación presupuestaria.  
-Artículo 163. Efectos y reingreso al servicio activo en el supuesto de  
-expectativa de destino  
+Asimismo, procederá esta situación cuando, de acuerdo con el procedimiento establecido, se produzca una modificación de las relaciones de puestos de trabajo y no sea posible mantener al personal funcionario en activo en el cuerpo, escala o agrupación profesional funcionarial o, en su caso, en la agrupación de puestos de trabajo, que le corresponda por falta de puesto de  
+trabajo con dotación presupuestaria. 
+
+Artículo 163. Efectos y reingreso al servicio activo en el supuesto de expectativa de destino  
 
 El personal funcionario declarado en esta situación percibirá las retribuciones  
 básicas, el complemento de carrera, el nivel competencial adquirido o en  
@@ -1927,24 +1509,17 @@ Artículo 164. Suspensión de funciones
 
 El personal funcionario declarado en la situación de suspensión quedará privado durante el tiempo de permanencia en la misma del ejercicio de sus funciones y de todos los derechos inherentes a dicha condición. La suspensión podrá ser provisional o firme.  
 
-Podrá acordarse la suspensión de funciones con carácter provisional con  
-ocasión de la tramitación de un procedimiento judicial o disciplinario en los  
-términos que se establecen en esta ley para asegurar la eficacia de la  
-resolución que pudiera recaer.  
-La suspensión provisional como medida cautelar en la tramitación de un  
-procedimiento disciplinario no podrá exceder de seis meses, salvo en caso de  
-paralización del procedimiento imputable a la persona interesada. La  
-suspensión provisional podrá acordarse también durante la tramitación de un  
-procedimiento judicial, y se mantendrá por el tiempo a que se extienda la  
-prisión provisional u otras medidas decretadas que determinen la imposibilidad  
+Podrá acordarse la suspensión de funciones con carácter provisional con ocasión de la tramitación de un procedimiento judicial o disciplinario en los términos que se establecen en esta ley para asegurar la eficacia de la resolución que pudiera recaer.  
+
+
+La suspensión provisional como medida cautelar en la tramitación de un procedimiento disciplinario no podrá exceder de seis meses, salvo en caso de paralización del procedimiento imputable a la persona interesada. La suspensión provisional podrá acordarse también durante la tramitación de un procedimiento judicial, y se mantendrá por el tiempo a que se extienda la prisión provisional u otras medidas decretadas que determinen la imposibilidad  
 de desempeñar el puesto de trabajo.  
 
 La suspensión firme se impondrá cuando proceda en virtud de sentencia dictada en causa criminal o sanción disciplinaria firmes. Determinará la pérdida del puesto de trabajo cuando exceda de seis meses.
 
 La suspensión firme como consecuencia de sentencia judicial firme se impondrá en los términos de la misma.  
 
-Artículo 165. Efectos y reingreso al servicio activo en el supuesto de  
-suspensión de funciones  
+Artículo 165. Efectos y reingreso al servicio activo en el supuesto de suspensión de funciones  
 
 El personal funcionario suspenso provisional tendrá derecho a percibir durante la suspensión las retribuciones básicas y, en su caso, las prestaciones familiares por hija o hijo a cargo.  
 
@@ -1977,10 +1552,7 @@ CAPÍTULO I
 Disposiciones generales
 Artículo 167. Responsabilidad disciplinaria
 
-Incurrirá en responsabilidad disciplinaria el personal empleado público que,
-en el ejercicio de sus funciones, realice un acto o una conducta tipificada como falta, induzca directamente a otro a su realización o encubra las faltas
-consumadas muy graves o graves cuando se derive daño grave para la
-administración o la ciudadanía.
+Incurrirá en responsabilidad disciplinaria el personal empleado público que, en el ejercicio de sus funciones, realice un acto o una conducta tipificada como falta, induzca directamente a otro a su realización o encubra las faltas consumadas muy graves o graves cuando se derive daño grave para la administración o la ciudadanía.
 
 Así mismo, el personal empleado público que induzca a otro a la realización de actos o conductas tipificadas como falta, o bien, encubra las faltas consumadas muy graves o graves cuando se derive daño grave para la administración o la ciudadanía, incurrirá en la misma responsabilidad que quienes los realicen.
 
@@ -2392,7 +1964,7 @@ Artículo 190. Participación institucional.
 
 Se considera participación institucional:
 
->la defensa y promoción en el seno de la administración de los intereses generales, comunes, sectoriales e intersectoriales, que corresponde a todo el personal empleado público y sus empleadoras y empleadores, distintos de los que derivan de su derecho a la negociación colectiva, que tiene su propia regulación sustantiva y procedimental.
+>La defensa y promoción en el seno de la administración de los intereses generales, comunes, sectoriales e intersectoriales, que corresponde a todo el personal empleado público y sus empleadoras y empleadores, distintos de los que derivan de su derecho a la negociación colectiva, que tiene su propia regulación sustantiva y procedimental.
 
 La participación institucional del personal empleado público se efectuará a través de los órganos de control y seguimiento, foros y comisiones constituidos al efecto y con participación de las organizaciones sindicales
 
@@ -2456,59 +2028,56 @@ El [Decreto 42/2019](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2019/D_2019_042_
 Este decreto tiene por objeto regular las condiciones de trabajo del personal funcionario de la Administración de la Generalitat entendida en los términos establecidos en el artículo 4 de la LOGFPV.
 
 
-
-
 Artículo 2. Definiciones
-A los efectos de lo dispuesto en este decreto y de las normas que lo desarrollen, se entenderá por:
 
-- Pareja de hecho: persona que respecto de la persona de referencia mantiene una relación que puede acreditar a través de la inscripción en un registro público oficial de uniones de hecho.
-- Familiar de primer grado en línea directa, por consanguinidad o afinidad: madres y padres, hijas e hijos, madres y padres políticos, cónyuge o pareja de hecho de la hija o hijo e hijas e hijos del cónyuge o pareja de hecho, sin perjuicio de lo que pudiera establecer la normativa civil.
-- Familiar de segundo grado en línea directa o colateral, por consanguinidad: hermanos y hermanas, abuelos y abuelas, nietos y nietas; o por afinidad: abuelos, abuelas y nietos, nietas del cónyuge o pareja de hecho y cuñados o cuñadas entendiendo por tal, el cónyuge o pareja de hecho de la hermana o hermano o bien, la hermana o hermano del cónyuge o pareja de hecho, sin perjuicio de lo que pudiera establecer la normativa civil.
-- Necesitar especial dedicación o atención continuada: supone que es preciso que el sujeto reciba tratamiento, atención, cuidados o asistencia continuada por terceras personas debido a problemas de salud, entendida esta última como bienestar físico, psíquico y social. Asimismo, se entenderán incluidas en esta situación las personas que tengan reconocida la situación de dependencia en cualquiera de sus grados.
-- Informe del órgano competente de la administración sanitaria: informe de la inspectora o inspector médico de zona o, si el tratamiento se recibe en el hospital, el informe del facultativo responsable del paciente.
-- Tener a su cargo: relación de dependencia que no implica convivencia.
-- Cuidado directo: relación de dependencia que implica convivencia.
-- Enfermedad grave: incluye la hospitalización, la intervención quirúrgica sin hospitalización que precise reposo domiciliario o aquella enfermedad cuya gravedad o necesidad de atención continuada sea acreditada por el facultativo responsable del paciente.
-- Guarda legal o custodia: Guarda con fines de adopción o acogimiento, tanto temporal como permanente, así como guarda legal de otra persona.
-- Bajo la denominación de víctima de violencia terrorista se entiende incluido al personal funcionario que haya sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, su cónyuge o persona con análoga relación de afectividad, y las hijas e hijos de las personas heridas y fallecidas, siempre que ostenten la condición de personal funcionario y de víctimas de terrorismo de acuerdo con la legislación vigente, así como aquellas funcionarias y funcionarios amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo, previo reconocimiento del Ministerio del Interior o de sentencia judicial firme.
-- Relación de dependencia: Estado en que se encuentran las personas que, por razones derivadas de la edad, la enfermedad o la diversidad funcional, precisan de la atención de otra u otras personas para realizar actividades básicas de la vida diaria.
+Se establecen las siguientes definiciones:
+
+- **Pareja de hecho**: persona que respecto de la persona de referencia mantiene una relación que puede acreditar a través de la inscripción en un registro público oficial de uniones de hecho.
+
+- **Familiar de primer grado en línea directa, por consanguinidad o afinidad**: madres y padres, hijas e hijos, madres y padres políticos, cónyuge o pareja de hecho de la hija o hijo e hijas e hijos del cónyuge o pareja de hecho, sin perjuicio de lo que pudiera establecer la normativa civil.
+
+- **Familiar de segundo grado en línea directa o colateral, por consanguinidad**: hermanos y hermanas, abuelos y abuelas, nietos y nietas; o por afinidad: abuelos, abuelas y nietos, nietas del cónyuge o pareja de hecho y cuñados o cuñadas entendiendo por tal, el cónyuge o pareja de hecho de la hermana o hermano o bien, la hermana o hermano del cónyuge o pareja de hecho, sin perjuicio de lo que pudiera establecer la normativa civil.
+
+- **Necesitar especial dedicación o atención continuada**: supone que es preciso que el sujeto reciba tratamiento, atención, cuidados o asistencia continuada por terceras personas debido a problemas de salud, entendida esta última como bienestar físico, psíquico y social. Asimismo, se entenderán incluidas en esta situación las personas que tengan reconocida la situación de dependencia en cualquiera de sus grados.
+
+- **Informe del órgano competente de la administración sanitaria**: informe de la inspectora o inspector médico de zona o, si el tratamiento se recibe en el hospital, el informe del facultativo responsable del paciente.
+
+- **Tener a su cargo**: relación de dependencia que no implica convivencia.
+
+- **Cuidado directo**: relación de dependencia que implica convivencia.
+
+- **Enfermedad grav**e: incluye la hospitalización, la intervención quirúrgica sin hospitalización que precise reposo domiciliario o aquella enfermedad cuya gravedad o necesidad de atención continuada sea acreditada por el facultativo responsable del paciente.
+
+- **Guarda legal o custodia**: Guarda con fines de adopción o acogimiento, tanto temporal como permanente, así como guarda legal de otra persona.
+
+- **Víctima de violencia terrorista** se entiende incluido al personal funcionario que haya sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, su cónyuge o persona con análoga relación de afectividad, y las hijas e hijos de las personas heridas y fallecidas, siempre que ostenten la condición de personal funcionario y de víctimas de terrorismo de acuerdo con la legislación vigente, así como aquellas funcionarias y funcionarios amenazados en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo, previo reconocimiento del Ministerio del Interior o de sentencia judicial firme.
+
+- **Relación de dependencia**: Estado en que se encuentran las personas que, por razones derivadas de la edad, la enfermedad o la diversidad funcional, precisan de la atención de otra u otras personas para realizar actividades básicas de la vida diaria.
 
 
 Artículo 3. Acreditaciones
 Sin perjuicio de su acreditación por cualquiera de los medios admitidos en Derecho, con carácter general:
-a) La situación de convivencia ha de ser acreditada mediante certificado de empadronamiento
-expedido por el ayuntamiento de residencia.
-b) La condición de discapacidad o diversidad funcional ha de ser acreditada mediante
-resolución o certificación oficial del grado de discapacidad expedida por la conselleria
-competente en la materia o, en su caso, órgano equivalente de otras administraciones públicas.
-c) El grado de parentesco y la relación familiar se acreditará con el libro o libros de familia,
-certificación del Registro Civil o bien con la inscripción en cualquier registro público oficial de
-uniones de hecho.Decreto 42/2019, de 22 de marzo, del Consell4 de 26
-d) La guarda legal ha de acreditarse mediante la decisión administrativa de guarda con fines de
-adopción o acogimiento, tanto temporal como permanente o mediante sentencia judicial que
-otorgue al personal funcionario la tutela o cualquier otra institución de guarda legal, debiendo
-acreditarse asimismo en este último supuesto la aceptación del cargo conforme a lo
-establecido en la normativa civil.
-e) La situación de violencia de género se acreditará de acuerdo con lo previsto en el artículo 23
-de la Ley orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la
-Violencia de Género.
-f) La condición de familia numerosa, deberá acreditarse mediante el título oficial actualizado de
-familia numerosa expedido por el órgano competente.
-g) La condición de familia monoparental, se acreditará mediante el título correspondiente
-expedido por la conselleria con competencias en la materia.
-h) La situación de especial dedicación se acreditará mediante informe del órgano que resulte
-competente de la administración sanitaria o de los servicios sociales en el que se indique dicha
-circunstancia. Asimismo, mediante resolución de reconocimiento de la situación de
-dependencia.
-i) La enfermedad grave deberá acreditarse mediante justificante de hospitalización en
-institución sanitaria o domiciliaria que incluya la duración de la misma; justificante médico de la
-intervención quirúrgica sin hospitalización que incluya el periodo de reposo domiciliario; o
-informe expedido por el facultativo responsable del paciente en el que conste la gravedad de la
-enfermedad cuando no exista hospitalización.
-j) Las personas interesadas no estarán obligadas a aportar documentos que hayan sido
-elaborados por cualquier administración, en los términos previstos en el artículo 28 de la Ley
-39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones
-públicas.
+
+- **Convivencia**: certificado de empadronamiento del Ayuntamiento.
+
+- **Discapacidad o diversidad funcional**: resolución o certificación oficial del grado expedida por la Conselleria competente (o, en su caso, órgano equivalente de otras administraciones públicas).
+
+- **Parentesco y relación familiar**: libro o libros de familia, certificación del Registro Civil o inscripción en cualquier registro público oficial de uniones de hecho.
+
+- **Guarda legal**: decisión administrativa de guarda con fines de adopción o acogimiento, tanto temporal como permanente o mediante sentencia judicial que otorgue al personal funcionario la tutela o cualquier otra institución de guarda legal, debiendo acreditarse asimismo en este último supuesto la aceptación del cargo conforme a lo establecido en la normativa civil.
+
+- **Situación de violencia de género**: de acuerdo con lo previsto en el artículo 23 de la Ley orgánica 1/2004.
+
+- **Familia numerosa**: título oficial actualizado expedido por el órgano competente.
+
+- **Familia monoparental**: título correspondiente expedido por la Conselleria competente
+
+- **Situación de especial dedicación**: informe del órgano que resulte competente de la administración sanitaria o de los servicios sociales en el que se indique dicha circunstancia. Asimismo, mediante resolución de reconocimiento de la situación de dependencia
+
+- **Enfermedad grave**: justificante de hospitalización en institución sanitaria o domiciliaria que incluya la duración de la misma; justificante médico de la intervención quirúrgica sin hospitalización que incluya el periodo de reposo domiciliario; o informe expedido por el facultativo responsable del paciente en el que conste la gravedad de la enfermedad cuando no exista hospitalización.
+
+*Las personas interesadas no estarán obligadas a aportar documentos que hayan sido elaborados por cualquier Administración (artículo 28 de la Ley 39/2015).*
+
 
 CAPÍTULO II
 Condiciones generales de trabajo
@@ -2531,50 +2100,35 @@ Se considerarán puestos de especial dedicación aquellos que tengan asignado un
 | C2                                                       | E015                                                               |
 | APF                                                      | E013                                                               |
 
+Cuando las necesidades urgentes del servicio así lo exijan, previa la oportuna justificación de las circunstancias y razones organizativas que concurran en cada caso concreto, el personal podrá ser requerido por las personas titulares de los órganos o unidades administrativas de las que dependa para realizar una jornada especial semanal superior a las establecidas en los apartados anteriores.
+
+Una vez desaparezca la necesidad urgente por la que fue requerido, el exceso de horario será compensado a razón de dos horas por cada hora de exceso, o dos y media si el requerimiento se realiza en un día inhábil. La citada compensación podrá disfrutarse dentro de los tres meses naturales siguientes a aquel en que se haya generado el exceso horario y acumularse en jornadas completas. Para ello se tendrán en cuenta las preferencias del personal y las necesidades del servicio. Si estas impiden la compensación dentro de los tres meses, el plazo podrá ampliarse excepcionalmente tres meses más.
+
+El personal que tenga concedida una reducción de jornada no podrá ser requerido para realizar una jornada laboral superior a la que tenga reconocida.
+
+En todo caso, entre el final de una jornada y el comienzo de la siguiente mediarán, como mínimo, doce horas.
 
 
-3. Cuando las necesidades urgentes del servicio así lo exijan, previa la oportuna justificación de
-las circunstancias y razones organizativas que concurran en cada caso concreto, el personal
-podrá ser requerido por las personas titulares de los órganos o unidades administrativas de las
-que dependa para realizar una jornada especial semanal superior a las establecidas en los
-apartados anteriores.
-Una vez desaparezca la necesidad urgente por la que fue requerido, el exceso de horario será
-compensado a razón de dos horas por cada hora de exceso, o dos y media si el requerimiento
-se realiza en un día inhábil. La citada compensación podrá disfrutarse dentro de los tres meses
-naturales siguientes a aquel en que se haya generado el exceso horario y acumularse en
-jornadas completas. Para ello se tendrán en cuenta las preferencias del personal y las
-necesidades del servicio. Si estas impiden la compensación dentro de los tres meses, el plazo
-podrá ampliarse excepcionalmente tres meses más.
-4. El personal que tenga concedida una reducción de jornada no podrá ser requerido para
-realizar una jornada laboral superior a la que tenga reconocida.
-5. En todo caso, entre el final de una jornada y el comienzo de la siguiente mediarán, como
-mínimo, doce horas.
-Artículo 5. Obligaciones del personal con jornada laboral de treinta y siete horas y treinta
-minutos semanales
-6. El personal que por el componente de desempeño del complemento de puesto de trabajo,
-tenga asignada la jornada semanal prevista en el apartado 2 del artículo anterior, está sujeto a
-incompatibilidad para ejercer cualquier otra actividad pública o privada, salvo las legalmente
-exceptuadas del régimen de incompatibilidades y las que la Ley permita autorizar por
-excepción.
-7. El personal que ocupe un puesto de trabajo que tenga asignado un componente de
-desempeño del complemento de puesto de trabajo igual o superior al E045 podrá ser requerido
-para la realización de una jornada superior cuando así lo exijan las necesidades del servicio, en
-función de la mayor responsabilidad inherente a dichos puestos de trabajo. En este caso no
-procederá la compensación horaria prevista en el artículo 4.3, ni compensación alguna en
-concepto de gratificaciones por razón del servicio y por servicios extraordinarios salvo lo
-dispuesto en el Decreto 24/1997, de 11 de febrero, del Consell.
+Artículo 5. Obligaciones del personal con jornada laboral de treinta y siete horas y treinta minutos semanales
+
+El personal que por el componente de desempeño del complemento de puesto de trabajo, tenga asignada la jornada semanal prevista en el apartado 2 del artículo anterior, está sujeto a incompatibilidad para ejercer cualquier otra actividad pública o privada, salvo las legalmente exceptuadas del régimen de incompatibilidades y las que la Ley permita autorizar por  excepción.
+
+El personal que ocupe un puesto de trabajo que tenga asignado un componente de desempeño del complemento de puesto de trabajo igual o superior al E045 podrá ser requerido para la realización de una jornada superior cuando así lo exijan las necesidades del servicio, en función de la mayor responsabilidad inherente a dichos puestos de trabajo. En este caso no procederá la compensación horaria prevista en el artículo 4.3, ni compensación alguna en concepto de gratificaciones por razón del servicio y por servicios extraordinarios salvo lo dispuesto en el Decreto 24/1997, de 11 de febrero, del Consell.
 
 Artículo 6. Cómputo anual de la jornada
 
 El cómputo anual de la jornada se calculará descontando a las horas anuales equivalentes a 52 semanas y un día de trabajo, las horas correspondientes a los siguientes conceptos:
-a) 22 días hábiles de vacaciones.
-b) 2 días de fiestas locales.
-c) 12 días de fiestas de ámbito superior.
-d) 6 días por permiso por asuntos propios más los días compensatorios que puedan aprobarse, en su caso.
+
+- **Vacaciones**: 22 días hábiles
+- **Fiestas locales**: 2 días
+- **Fiestas de ámbito superior**: 12 días
+- **Asuntos propios**: 6 días (además de los compensatorios, en su caso).
 
 Al cómputo del apartado anterior se descontarán, además:
-a) La semana de fiestas locales, a razón de 10 horas o 12 horas y 30 minutos, según sea jornada de 35 horas, o de 37 horas y 30 minutos, respectivamente.
-b) Dos horas y media semanales con base en la previsión contenida en el apartado 8 del artículo 13.
+
+- **Semana de fiestas locales**: a razón de 10 horas o 12 horas y 30 minutos (si la jornada laboral fuera de 35 h o 37,5 h)
+
+- Dos horas y media semanales con base en la previsión contenida en el apartado 8 del artículo 13.
 
 Asimismo, deberán descontarse del cómputo anual 7 horas, o 7 horas y 30 minutos, según sea jornada de 35 horas, o de 37 horas y 30 minutos, respectivamente, por cada uno de los días 24 y 31 de diciembre, y por el día exento de asistencia al trabajo en la semana de fiestas locales.
 
@@ -2587,21 +2141,11 @@ Cada año natural la dirección general competente en materia de función públi
 Artículo 7. Reducciones de jornada
 
 Se tendrá derecho a la reducción de jornada hasta la mitad de la misma, con disminución proporcional de retribuciones:
-a) Por razones de guarda legal, cuando el personal tenga a su cargo algún niño o niña de 12
-años o menor, persona mayor que requiera especial dedicación, o persona con un grado de
-discapacidad física, psíquica o sensorial igual o superior al 33 % que no desempeñe actividad
-retribuida que supere el salario mínimo interprofesional.
-b) Por tener a su cargo al cónyuge o pareja de hecho o un familiar hasta el segundo grado de
-consanguinidad o afinidad que requiera especial dedicación.
-c) Personal que por tener reconocido un grado de discapacidad o por razón de larga o crónica
-enfermedad no pueda realizar su jornada laboral completa, extremo que deberá acreditarse
-inicialmente por la Unidad de Valoración Médica de Incapacidades y, en aquellos casos en que
-sea revisable, ratificarse de forma anual por dicha Unidad.
-d) Personal funcionario a quien le falte menos de cinco años para cumplir la edad de jubilación
-forzosa. Siempre que resulte compatible con el correcto funcionamiento de los servicios, se
-podrá autorizar que la reducción de jornada se acumule en jornadas completas, sin que dicha
-acumulación pueda suponer, en ningún caso, un periodo superior a seis meses continuados en
-un periodo de un año a contar desde el día de su inicio.
+
+- Por razones de guarda legal, cuando el personal tenga a su cargo algún niño o niña de 12 años o menor, persona mayor que requiera especial dedicación, o persona con un grado de discapacidad física, psíquica o sensorial igual o superior al 33 % que no desempeñe actividad retribuida que supere el salario mínimo interprofesional.
+- Por tener a su cargo al cónyuge o pareja de hecho o un familiar hasta el segundo grado de consanguinidad o afinidad que requiera especial dedicación.
+- Personal que por tener reconocido un grado de discapacidad o por razón de larga o crónica enfermedad no pueda realizar su jornada laboral completa, extremo que deberá acreditarse inicialmente por la Unidad de Valoración Médica de Incapacidades y, en aquellos casos en que sea revisable, ratificarse de forma anual por dicha Unidad.
+- Personal funcionario a quien le falte menos de cinco años para cumplir la edad de jubilación forzosa. Siempre que resulte compatible con el correcto funcionamiento de los servicios, se podrá autorizar que la reducción de jornada se acumule en jornadas completas, sin que dicha acumulación pueda suponer, en ningún caso, un periodo superior a seis meses continuados en un periodo de un año a contar desde el día de su inicio.
 
 El personal funcionario, que por nacimiento de hijas e hijos prematuros o por cualquier otra causa deba permanecer hospitalizado a continuación del parto, tendrá derecho a reducir su jornada de trabajo hasta un máximo de dos horas, con la disminución proporcional de sus retribuciones, sin perjuicio del permiso previsto en el artículo 28 de este decreto.
 
@@ -2610,18 +2154,13 @@ El personal que ocupe puestos de trabajo con componente de desempeño del comple
 Para la concesión de esta jornada reducida se requerirá que la persona solicitante acredite la existencia de circunstancias personales distintas de las previstas en el apartado 1 que justifiquen su necesidad, debiendo motivarse su denegación.
 
 Se podrá solicitar reducción de jornada de una hora diaria sin disminución de retribuciones por las causas siguientes:
-a) Por las causas previstas en los apartados a) b) y c) del número 1.
-No obstante, en el caso de guarda legal de niñas o niños de 12 años o menores, se podrá
-conceder únicamente cuando concurra alguno de los siguientes supuestos:
-1.º Que el menor requiera especial dedicación
-2.º Que la niña o niño tenga 3 años o menos
-3.º [anulado] 1
-4.º Que se trate de familia monoparental
-b) Durante un plazo máximo de 6 meses, a contar desde la fecha de finalización del permiso
-correspondiente, por adopción, acogimiento o guarda con fines de adopción, de un menor de
-más de 12 meses, que por sus circunstancias y experiencias personales debidamente
-acreditadas por los servicios sociales competentes o que, por provenir del extranjero, tengan
-especiales dificultades de inserción social y familiar.
+- Por las causas previstas en los apartados a) b) y c) del número 1.
+	No obstante, en el caso de guarda legal de niñas o niños de 12 años o menores, se podrá conceder únicamente cuando concurra alguno de los siguientes supuestos:
+	1.º Que el menor requiera especial dedicación
+	2.º Que la niña o niño tenga 3 años o menos
+	3.º [anulado] 1
+	4.º Que se trate de familia monoparental
+- Durante un plazo máximo de 6 meses, a contar desde la fecha de finalización del permiso correspondiente, por adopción, acogimiento o guarda con fines de adopción, de un menor de más de 12 meses, que por sus circunstancias y experiencias personales debidamente acreditadas por los servicios sociales competentes o que, por provenir del extranjero, tengan especiales dificultades de inserción social y familiar.
 
 
 Cuando por razones de enfermedad muy grave sea preciso atender el cuidado del cónyuge, pareja de hecho o de un familiar de primer grado, el personal funcionario tendrá derecho a solicitar una reducción de hasta el 50 % de la jornada laboral, con carácter retribuido y por el plazo máximo de un mes.
@@ -2653,50 +2192,39 @@ El personal acogido a las anteriores reducciones de jornada verá disminuida pro
 
 El personal que solicite dejar sin efecto una reducción de jornada no podrá comenzar a disfrutar otra por la misma causa hasta que transcurra, como mínimo, un mes desde que se dejó sin efecto la reducción anterior.
 
-Las reducciones de jornada que comporten disminución de retribuciones serán concedidas
-por la dirección general competente en materia de función pública. En el caso de que no
-comporten disminución de retribuciones, será el órgano competente en materia de personal de
-cada conselleria u organismo quien las conceda.
-28. El personal deberá informar al órgano competente en materia de personal con quince días de antelación de la fecha en que se reincorporará a su jornada ordinaria.
-29. Las previsiones del apartado 5 no serán de aplicación a las empleadas víctimas de violencia sobre la mujer ni al personal funcionario víctima de terrorismo que disfruten de una reducción de jornada por esta causa.
-30. En los supuestos en que el personal tenga derecho a solicitar una reducción de jornada de una hora diaria sin deducción de retribuciones, pero solicite un número de horas de reducción superior, dirigirá su solicitud a la dirección general competente en materia de función pública, la cual resolverá ambas reducciones descontando la hora diaria al número global de horas de reducción solicitadas.
+Las reducciones de jornada que comporten disminución de retribuciones serán concedidas por la dirección general competente en materia de función pública. En el caso de que no comporten disminución de retribuciones, será el órgano competente en materia de personal de cada conselleria u organismo quien las conceda.
+
+El personal deberá informar al órgano competente en materia de personal con quince días de antelación de la fecha en que se reincorporará a su jornada ordinaria.
+
+Las previsiones del apartado 5 no serán de aplicación a las empleadas víctimas de violencia sobre la mujer ni al personal funcionario víctima de terrorismo que disfruten de una reducción de jornada por esta causa.
+
+En los supuestos en que el personal tenga derecho a solicitar una reducción de jornada de una hora diaria sin deducción de retribuciones, pero solicite un número de horas de reducción superior, dirigirá su solicitud a la dirección general competente en materia de función pública, la cual resolverá ambas reducciones descontando la hora diaria al número global de horas de reducción solicitadas.
 
 Sección 2.ª Horario de trabajo
+
 Artículo 9. Horario de trabajo del personal de servicios burocráticos
 
-La jornada semanal en las dependencias administrativas se realizará, con carácter general, de lunes a viernes en régimen de horario flexible.
+La jornada semanal en las dependencias administrativas se realizará, con carácter general, de lunes a viernes en régimen de horario flexible:
 
-- **Tiempo fijo**: obligatoria para todo el personal entre las 09.00 y las 14.00 horas, de lunes a viernes.
-- **Parte variable**: constituida por la diferencia entre las horas totales y el tiempo fijo. Se deberá realizar con carácter general desde las 7:30h. Hasta las 19h de lunes a jueves y hasta las 16h los viernes. En general, a voluntad del personal.
+- **Tiempo fijo**: entre las 09.00 y las 14.00 horas, obligatorio para todo el personal
+
+- **Parte variable**: desde las 7:30 h, y hasta las 19h de lunes a jueves o las 16 h los viernes (en general a voluntad del personal)
 
 
 Artículo 10. Jornada y horarios especiales
 
-Se excluye de las jornadas y horarios regulados en los artículos anteriores a todo aquel personal que, por razón de la actividad desempeñada, tenga que realizar unas distintas, sin que en ningún caso se pueda exceder del cómputo anual de la jornada a realizar.
+Se excluye de las jornadas y horarios a todo el personal que, por razón de la actividad desempeñada, tenga que realizar unas distintas, sin que en ningún caso se pueda exceder del cómputo anual de la jornada a realizar.
 
-Las jornadas y horarios especiales que se establezcan por razón de la actividad los aprobará el órgano competente en materia de personal de cada conselleria u organismo autónomo, previa negociación con las organizaciones sindicales que tengan la condición de representativas en el ámbito correspondiente y tras ser oída la junta de personal que proceda, debiendo ser aprobados con anterioridad al uno de diciembre del año anterior a su entrada en vigor.
+Las jornadas y horarios especiales que se establezcan por razón de la actividad los aprobará el órgano competente en materia de personal de cada Conselleria u organismo autónomo, previa negociación con las organizaciones sindicales que tengan la condición de representativas en el ámbito correspondiente y tras ser oída la junta de personal que proceda, debiendo ser aprobados con anterioridad al uno de diciembre del año anterior a su entrada en vigor.
 
-En concreto, en los centros de trabajo en que se preste servicio a turnos, y en el caso de centros docentes con una programación por cursos respecto del personal no docente que preste sus servicios en los mismos, los cuadrantes de las jornadas especiales y los horarios se regirán por las siguientes previsiones, en los términos de los pactos o acuerdos alcanzados en
-las Mesas correspondientes:
-a) Los cuadrantes serán elaborados anualmente por la dirección territorial u órgano del que
-dependa a propuesta de la dirección del centro, previa negociación con las organizaciones
-sindicales que tengan la condición de representativas en el ámbito correspondiente y tras ser
-oída la junta de personal que proceda, debiendo ser aprobados por el órgano competente en
-materia de personal con anterioridad al uno de diciembre del año anterior a su entrada en vigor.
-b) En el caso de centros docentes con una programación por cursos, el cuadrante para el
-personal no docente que desempeñe su trabajo en los mismos se aprobará antes de finalizar el
-curso anterior a aquel en el que deba aplicarse. De igual forma, en el caso de cualquier otro
-centro que tenga una programación diferente a la anual, el horario se aprobará antes de
-terminar el ejercicio anterior al que corresponda aplicarse.Decreto 42/2019, de 22 de marzo, del Consell9 de 26
-c) En el supuesto de aquellos centros en que, como consecuencia de las características
-especiales de la actividad que se presta en los mismos, se justifique la necesidad de aprobar o
-ajustar el cuadrante en momentos diferentes del año, se podrá realizar respetando las
-garantías previstas en este artículo y siempre con carácter previo a su entrada en vigor.
-d) Asimismo, el cuadrante será expuesto de forma visible en cada centro de trabajo y en él
-constará, como mínimo, el departamento, nombre de la trabajadora o trabajador, categoría y
-turno de trabajo, especificando el horario de cada turno y el cómputo semanal, mensual o
-anual.
-e) El personal que debiera asistir a su puesto de trabajo los días 24, 31 de diciembre o el día exento de asistencia al trabajo de las fiestas locales, los verá compensados por dos días de descanso por cada uno de aquellos, o la parte proporcional que corresponda, en función de la jornada laboral que efectivamente realice.
+En concreto, en los centros de trabajo en que se preste servicio a turnos, y en el caso de centros docentes con una programación por cursos respecto del personal no docente que preste sus servicios en los mismos, los cuadrantes de las jornadas especiales y los horarios se regirán por las siguientes previsiones, en los términos de los pactos o acuerdos alcanzados en las Mesas correspondientes:
+
+- a) Los cuadrantes serán elaborados anualmente por la dirección territorial u órgano del que dependa a propuesta de la dirección del centro, previa negociación con las organizaciones sindicales que tengan la condición de representativas en el ámbito correspondiente y tras ser oída la junta de personal que proceda, debiendo ser aprobados por el órgano competente en materia de personal con anterioridad al uno de diciembre del año anterior a su entrada en vigor.
+- b) En el caso de centros docentes con una programación por cursos, el cuadrante para el personal no docente que desempeñe su trabajo en los mismos se aprobará antes de finalizar el curso anterior a aquel en el que deba aplicarse. De igual forma, en el caso de cualquier otro centro que tenga una programación diferente a la anual, el horario se aprobará antes de terminar el ejercicio anterior al que corresponda aplicarse.
+- c) En el supuesto de aquellos centros en que, como consecuencia de las características especiales de la actividad que se presta en los mismos, se justifique la necesidad de aprobar o ajustar el cuadrante en momentos diferentes del año, se podrá realizar respetando las garantías previstas en este artículo y siempre con carácter previo a su entrada en vigor
+- d) Asimismo, el cuadrante será expuesto de forma visible en cada centro de trabajo y en él constará, como mínimo, el departamento, nombre de la trabajadora o trabajador, categoría y turno de trabajo, especificando el horario de cada turno y el cómputo semanal, mensual o anual
+- e) El personal que debiera asistir a su puesto de trabajo los días 24, 31 de diciembre o el día exento de asistencia al trabajo de las fiestas locales, los verá compensados por dos días de descanso por cada uno de aquellos, o la parte proporcional que corresponda, en función de la jornada laboral que efectivamente realice.
+
 No obstante lo expuesto y respecto del personal que desempeñe su trabajo en centros de atención directa del ámbito de servicios sociales en régimen de turnos, se entenderá que únicamente tienen derecho a la compensación de dos días de descanso prevista en el párrafo anterior, aquellos que inicien su jornada laboral en los días citados.
 
 Regirá idéntico procedimiento para la aprobación del sistema de compensación horaria, siendo de aplicación, como mínimo, lo previsto en el artículo 4.3 de este decreto.
@@ -2708,15 +2236,12 @@ Artículo 11. Otras exclusiones
 
 Artículo 12. Recuperación de horas
 
-La diferencia en cómputo semanal entre la jornada que tenga que realizar el personal por razón del puesto que ocupe y la efectivamente prestada, sea por exceso o por defecto, podrá ser objeto de recuperación o compensación dentro del mes natural en que se haya producido, o de los dos meses siguientes al mismo.
+La diferencia en cómputo semanal entre la jornada que tenga que realizar el personal y la efectivamente prestada (por exceso o defecto) podrá ser objeto de recuperación o compensación dentro del mes natural en que se haya producido, o de los dos meses siguientes al mismo.
+
+El tiempo de asistencia a las acciones formativas, seminarios o jornadas de formación organizados por el órgano de la Generalitat competente en materia de formación o por las organizaciones sindicales firmantes del Acuerdo Administración-Sindicatos en materia de formación continua, computará como tiempo de trabajo a todos los efectos si tienen lugar dentro de la jornada laboral (no siendo objeto de recuperación, e incluirá el tiempo necesario para el desplazamiento hasta el lugar de impartición).
 
 
-El tiempo de asistencia a las acciones formativas, seminarios o jornadas de formación organizados por el órgano de la Generalitat competente en materia de formación o por las organizaciones sindicales firmantes del Acuerdo Administración-Sindicatos en materia de formación continua, computará como tiempo de trabajo a todos los efectos si tienen lugar dentro de la jornada laboral, no siendo objeto de recuperación, e incluirá el tiempo necesario para el desplazamiento hasta el lugar de impartición.
-
-Artículo 13. Fiestas
-
-El personal quedará exento de la asistencia al trabajo con motivo de las fiestas locales que se celebran en la Comunitat Valenciana los días que se señalan a continuación, sin perjuicio de lo previsto en el apartado 6 de este artículo:
-
+El personal quedará exento de la asistencia al trabajo con motivo de las fiestas locales que se celebran en la Comunitat Valenciana los días que se señalan a continuación (sin perjuicio de lo previsto en el apartado 6 de este artículo):
 
 - **18 de marzo**: centro de trabajo radique en la ciudad de Valencia o en aquellos otros municipios de la provincia donde se celebren fiestas de fallas.
 
@@ -2744,30 +2269,21 @@ Se estará exento de la asistencia al trabajo los días 24 y 31 de diciembre.
 
 
 Artículo 14. Flexibilidad de la permanencia obligatoria
+
 El horario de permanencia obligatoria del personal de servicios burocráticos podrá flexibilizarse en una hora diaria en los siguientes supuestos:
 
-a) Quienes tengan a su cuidado directo personas que requieran una especial dedicación.
-b) Quienes tengan a su cuidado directo hijos o hijas, o niños o niñas en acogimiento
-preadoptivo o permanente, de 14 años o menores de esa edad.
-c) Quienes tengan a su cargo a un familiar hasta el segundo grado por consanguinidad o
-afinidad, o persona legalmente bajo su guarda o custodia, con enfermedad grave debidamente
-acreditada con indicación expresa de la necesidad de cuidados específicos, o con un grado de
-discapacidad igual o superior al 65 %.
-d) Para las empleadas públicas en estado de gestación
-e) Para el personal que por razón de larga o crónica enfermedad no pueda realizar su jornada
-laboral completa, acreditado conforme establece el artículo 7.1.c.
+- a) Quienes tengan a su cuidado directo personas que requieran una especial dedicación.
+- Quienes tengan a su cuidado directo hijos o hijas, o niños o niñas en acogimiento preadoptivo o permanente, de 14 años o menores de esa edad.
+- Quienes tengan a su cargo a un familiar hasta el segundo grado por consanguinidad o afinidad, o persona legalmente bajo su guarda o custodia, con enfermedad grave debidamente acreditada con indicación expresa de la necesidad de cuidados específicos, o con un grado de discapacidad igual o superior al 65 %.
+- Empleadas públicas en gestación
+- Para el personal que por razón de larga o crónica enfermedad no pueda realizar su jornada laboral completa, acreditado conforme establece el artículo 7.1.c.
 
 El horario de permanencia obligatoria del personal, podrá flexibilizarse en dos horas diarias a solicitud de las personas interesadas en los siguientes supuestos:
-a) Quienes tengan a su cuidado directo hijos o hijas, así como niños o niñas en acogimiento
-preadoptivo o permanente, con diversidad funcional, con el fin de conciliar, cuando coincidan,
-los horarios de los centros educativos ordinarios de integración y de educación especial, así
-como de otros centros donde estas personas reciban atención, con los horarios de los puestos
-de trabajo.
-b) En el caso de ser padre o madre de familia numerosa, hasta el día en que cumpla 15 años
-de edad el o la menor de los hijos o hijas.
-c) En el caso de ser padre o madre de familia monoparental, hasta el día en que cumpla 15 años de edad el o la menor de los hijos o hijas.
-d) Las empleadas víctimas de violencia sobre la mujer, con la finalidad de hacer efectivo su derecho a la asistencia social integral, por el tiempo que acrediten los servicios sociales de atención o salud, según proceda.
-e) Las víctimas de violencia terrorista, en tanto sea necesario para hacer efectivo su protección o su derecho a la asistencia social integral, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentran sometidas. Además de dicha flexibilidad, se podrán adoptar otras formas de ordenación del tiempo de trabajo, como la adaptación del horario u otras que sean aplicables.
+- a) Quienes tengan a su cuidado directo hijos o hijas, así como niños o niñas en acogimiento preadoptivo o permanente, con diversidad funcional, con el fin de conciliar, cuando coincidan, los horarios de los centros educativos ordinarios de integración y de educación especial, así como de otros centros donde estas personas reciban atención, con los horarios de los puestos de trabajo.
+- En el caso de ser padre o madre de familia numerosa, hasta el día en que cumpla 15 años de edad el o la menor de los hijos o hijas.
+- En el caso de ser padre o madre de familia monoparental, hasta el día en que cumpla 15 años de edad el o la menor de los hijos o hijas.
+- Las empleadas víctimas de violencia sobre la mujer, con la finalidad de hacer efectivo su derecho a la asistencia social integral, por el tiempo que acrediten los servicios sociales de atención o salud, según proceda.
+- Las víctimas de violencia terrorista, en tanto sea necesario para hacer efectivo su protección o su derecho a la asistencia social integral, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentran sometidas. Además de dicha flexibilidad, se podrán adoptar otras formas de ordenación del tiempo de trabajo, como la adaptación del horario u otras que sean aplicables.
 
 La flexibilidad en el cumplimiento del horario regulada en el apartado anterior en ningún caso supondrá reducción de la jornada laboral, debiendo el personal recuperar dichas horas conforme a lo dispuesto en el artículo 12.
 
@@ -2778,7 +2294,6 @@ Artículo 15. Descanso semanal
 El personal tendrá derecho a 48 horas continuadas de descanso por cada período semanal trabajado. Si su aplicación impide la cobertura de los servicios que se prestan, se fijará este descanso, que en ningún caso será inferior a 36 horas continuadas, previa negociación con las organizaciones sindicales representativas, tras ser oído el órgano de representación unitaria correspondiente.
 
 En los centros de trabajo en que se preste el servicio a turnos, el disfrute del descanso semanal coincidirá, como mínimo, con un fin de semana al mes.
-
 
 Durante la jornada laboral se dispondrá de una pausa de treinta minutos de descanso, computable como de trabajo efectivo. El personal de servicios burocráticos o unidades de índole similar hará uso de ella, preferentemente, entre las 10 h y las 12 h. El personal se organizará en turnos con la supervisión de la persona responsable de la unidad administrativa para que las dependencias y servicios queden atendidos.
 
@@ -2791,20 +2306,19 @@ Artículo 18. Horario de las oficinas de atención al público
 
 Las oficinas de las sedes centrales de las consellerias, de las sedes principales de sus delegaciones, direcciones o servicios territoriales y las oficinas PROP, prestarán el servicio de información administrativa general y registro de documentos en horario general de apertura al público de 09.00h a 14.30h, de lunes a viernes.
 
-Los jueves, al menosen una oficina PROP de cada provincia, se prolongará el servicio de información administrativa general y registro de documentos desde las 14.30h hasta las 19.00h ininterrumpidamente. Este horario complementario será atendido por el personal que ocupe puestos de trabajo con funciones de realización del horario especial de la unidad de registro.
+Los jueves, al menosen una oficina PROP de cada provincia, se prolongará el servicio de información administrativa general y registro de documentos desde las 14.30h hasta las 19.00h ininterrumpidamente. 
+
+Este horario complementario será atendido por el personal que ocupe puestos de trabajo con funciones de realización del horario especial de la unidad de registro. 
+
 Las oficinas en que se prestará este servicio serán publicitadas por el órgano competente en la materia a través de la página web de la GVA.
 
-Durante la semana de fiestas locales correspondiente a cada emplazamiento, el horario de servicio de información administrativa general y registro de documentos será de 9 h a 14 h, de lunes a viernes.
+*Durante la semana de fiestas locales correspondiente a cada emplazamiento, el horario de servicio de información administrativa general y registro de documentos será de 9 h a 14 h, de lunes a viernes.*
 
 Del 15 de mayo al 15 de octubre (ambos inclusive) y en los periodos de vacaciones escolares de Navidad y Pascua, el horario de atención al público será el previsto en el apartado 1 de este artículo.
 
 Sin perjuicio de lo anterior, la persona titular de cada conselleria podrá disponer mediante orden el establecimiento de otros emplazamientos adicionales para la prestación del servicio de información administrativa general y de registro de documentos que contribuyan a reducir desplazamientos a la ciudadanía.
 
-Los órganos competentes en materia de personal podrán establecer, mediante resolución,
-un horario ampliado de registro para aquellos procedimientos que conlleven un gran volumen
-de documentación en un periodo determinado. Este horario específico se hará público y será
-vigente mientras dure el plazo de presentación de escritos, comunicaciones y otros
-documentos en el procedimiento correspondiente.
+Los órganos competentes en materia de personal podrán establecer, mediante resolución, un horario ampliado de registro para aquellos procedimientos que conlleven un gran volumen de documentación en un periodo determinado. Este horario específico se hará público y será vigente mientras dure el plazo de presentación de escritos, comunicaciones y otros documentos en el procedimiento correspondiente.
 
 Artículo 19. Justificación de ausencias
 
@@ -2829,78 +2343,63 @@ Las faltas de asistencia al trabajo, totales o parciales, de las empleadas públ
 Asimismo, tendrán la consideración de justificadas las faltas de asistencia al trabajo de las víctimas de violencia terrorista durante todo el tiempo que precisen para hacer efectivo su protección o su derecho a la asistencia social integral, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentran sometidas. 
 
 
-CAPÍTULO III
-Permisos
+CAPÍTULO III Permisos
 Artículo 20. Permisos del personal funcionario
-El personal, previa comunicación al órgano competente, podrá disfrutar de los permisos
-establecidos en los artículos siguientes en los términos previstos en los mismos, no siendo
-necesaria la autorización con carácter previo, excepto en el supuesto previsto en el artículo 40.
-Salvo que se establezca expresamente otra cosa el disfrute de los permisos determinados por
-un hecho causante se iniciará el primer día laborable tras dicho hecho.Decreto 42/2019, de 22 de marzo, del Consell13 de 26
-Artículo 21. Permiso por matrimonio o unión de hecho
 
-El personal podrá disfrutar de quince días naturales y consecutivos por razón de matrimonio o inscripción en el Registro de Uniones de Hecho de la Comunitat Valenciana o en cualquier otro registro público oficial de uniones de hecho.
+El personal, previa comunicación al órgano competente, podrá disfrutar de los permisos establecidos en los artículos siguientes en los términos previstos en los mismos, no siendo necesaria la autorización con carácter previo, excepto en el supuesto previsto en el artículo 40.
 
-Este permiso puede acumularse al período vacacional y a los días de asuntos propios y no se disfrutará necesariamente a continuación del hecho causante, pero siempre dentro de los 6 meses siguientes al matrimonio o inscripción en el Registro de Uniones de Hecho de la Comunitat Valenciana.
+Salvo que se establezca expresamente otra cosa el disfrute de los permisos determinados por un hecho causante se iniciará el primer día laborable tras dicho hecho.
 
-El personal que disfrute de este permiso por inscripción en un registro de uniones de hecho no podrá disfrutarlo de nuevo en caso de contraer matrimonio posteriormente con la misma persona.
+- **Permiso por matrimonio o unión de hecho**
 
-Asimismo, el personal tendrá derecho a permiso, tanto por el día de la celebración de su matrimonio o inscripción de su unión de hecho, como por el de un familiar dentro del segundo grado de consanguinidad o afinidad.
+	El personal podrá disfrutar de quince días naturales y consecutivos por razón de matrimonio o inscripción en el Registro de Uniones de Hecho de la Comunitat Valenciana o en cualquier otro registro público oficial de uniones de hecho.
+	
+	Este permiso puede acumularse al período vacacional y a los días de asuntos propios y no se disfrutará necesariamente a continuación del hecho causante, pero siempre dentro de los 6 meses siguientes al matrimonio o inscripción en el Registro de Uniones de Hecho de la Comunitat Valenciana.
+	
+	El personal que disfrute de este permiso por inscripción en un registro de uniones de hecho no podrá disfrutarlo de nuevo en caso de contraer matrimonio posteriormente con la misma persona.
+	
+	Asimismo, el personal tendrá derecho a permiso, tanto por el día de la celebración de su matrimonio o inscripción de su unión de hecho, como por el de un familiar dentro del segundo grado de consanguinidad o afinidad.
+	
+	Si el lugar en el que se realiza la celebración superara la distancia de 375 kilómetros, computados desde la localidad de residencia de dicho personal, el permiso será de dos días  naturales consecutivos.
 
-Si el lugar en el que se realiza la celebración superara la distancia de 375 kilómetros,
-computados desde la localidad de residencia de dicho personal, el permiso será de dos días
-naturales consecutivos.
+- **Permiso por técnicas prenatales y de preparación al parto**
 
-Artículo 22. Permiso por técnicas prenatales y de preparación al parto
+	Cuando deban realizarse dentro de la jornada de trabajo, se concederá permiso por el tiempo indispensable para la realización de exámenes prenatales y técnicas para la preparación al parto de las funcionarias embarazadas.
+	
+	Dentro de la jornada de trabajo el personal funcionario tendrá derecho a ausentarse para someterse a técnicas de fecundación o reproducción asistida por el tiempo necesario para su realización, previa justificación de la necesidad.
 
-Cuando deban realizarse dentro de la jornada de trabajo, se concederá permiso por el tiempo indispensable para la realización de exámenes prenatales y técnicas para la preparación al parto de las funcionarias embarazadas.
+- **Permiso por cuestiones relacionadas con la adopción o acogimiento o guarda con fines de adopción**
 
-Dentro de la jornada de trabajo el personal funcionario tendrá derecho a ausentarse para someterse a técnicas de fecundación o reproducción asistida por el tiempo necesario para su realización, previa justificación de la necesidad.
+	En los casos de adopción, acogimiento o guarda con fines de adopción se tendrá permiso para la asistencia a las preceptivas sesiones de información y preparación, así como para la realización de los preceptivos informes psicológicos y sociales previos a la declaración de idoneidad, que deban realizarse dentro de la jornada de trabajo.
 
-Artículo 23. Permiso por cuestiones relacionadas con la adopción o acogimiento o
-guarda con fines de adopción
+- **Permiso por nacimiento para la madre biológica**: de acuerdo al artículo 49, a) del TREBEP.
 
-En los casos de adopción, acogimiento o guarda con fines de adopción se tendrá permiso para
-la asistencia a las preceptivas sesiones de información y preparación, así como para la
-realización de los preceptivos informes psicológicos y sociales previos a la declaración de
-idoneidad, que deban realizarse dentro de la jornada de trabajo.
-Artículo 24. Permiso por nacimiento para la madre biológica
-Este permiso se concederá en los términos y condiciones previstos en el artículo 49, a) del
-TREBEP.
-Artículo 25. Permiso por adopción, guarda con fines de adopción o acogimiento, tanto
-temporal como permanente
+- **Permiso por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente**: concedida en los términos y condiciones previstos en el artículo 49, b) del TREBEP.
 
-Sin perjuicio de lo dispuesto en los apartados siguientes, este permiso se concederá en los términos y condiciones previstos en el artículo 49, b) del TREBEP.
+	Este permiso se ampliará en dos semanas en los supuestos de adopción o acogimiento de menores que por sus circunstancias y experiencias personales o que, por provenir del extranjero, tengan especiales dificultades de inserción social y familiar, debidamente acreditadas por los servicios sociales competentes.
 
-Este permiso se ampliará en dos semanas en los supuestos de adopción o acogimiento de menores que por sus circunstancias y experiencias personales o que, por provenir del extranjero, tengan especiales dificultades de inserción social y familiar, debidamente acreditadas por los servicios sociales competentes.
-
-El disfrute del permiso por adopción o acogimiento internacional de hasta dos meses de duración podrá fraccionarse o ser continuado, en función de la tramitación que se requiera en el país de origen de la persona adoptada.
+	El disfrute del permiso por adopción o acogimiento internacional de hasta dos meses de duración podrá fraccionarse o ser continuado, en función de la tramitación que se requiera en el país de origen de la persona adoptada.
 
 Artículo 26. Disfrute a tiempo parcial de los permisos por nacimiento para la madre biológica y por adopción, guarda con fines de adopción o acogimiento, tanto temporal como permanente
 
 - **Nacimiento para la madre biológica y por adopción, guarda con fines de adopción o acogimiento**: podrán disfrutarse a jornada completa o a tiempo parcial.
 
-Para que puedan disfrutarse a tiempo parcial, la persona interesada deberá solicitarlo con
-	una antelación de quince días hábiles, acompañando informe de la persona responsable de la
-	unidad administrativa en que estuviera destinada, en el que se acredite que quedan
-	debidamente cubiertas las necesidades del servicio.
-	El órgano competente, a la vista de la solicitud y del informe correspondiente, dictará resolución
-	con una antelación mínima de cinco días naturales a la fecha de disfrute pretendida. La falta de
-	resolución expresa en el plazo antedicho tendrá efectos estimatorios.
-	Dicha solicitud podrá realizarse tanto al inicio del descanso correspondiente como en un
-	momento posterior y podrá extenderse a todo el período de descanso o a parte del mismo, sin
-	perjuicio de lo dispuesto en el apartado siguiente.
-	
-	1. El disfrute a tiempo parcial del permiso se ajustará a las siguientes reglas:
-	a) Este derecho podrá ser ejercido por cualquiera de las dos personas progenitoras, y en cualquiera de los supuestos de disfrute simultáneo o sucesivo del periodo de descanso. 
+Para que puedan disfrutarse a tiempo parcial, la persona interesada deberá solicitarlo con 	una antelación de quince días hábiles, acompañando informe de la persona responsable de la 	unidad administrativa en que estuviera destinada, en el que se acredite que quedan 	debidamente cubiertas las necesidades del servicio. 
+
+El órgano competente, a la vista de la solicitud y del informe correspondiente, dictará resolución con una antelación mínima de cinco días naturales a la fecha de disfrute pretendida. La falta de resolución expresa en el plazo antedicho tendrá efectos estimatorios. 
+
+Dicha solicitud podrá realizarse tanto al inicio del descanso correspondiente como en un momento posterior y podrá extenderse a todo el período de descanso o a parte del mismo, sin perjuicio de lo dispuesto en el apartado siguiente.
+
+El disfrute a tiempo parcial del permiso se ajustará a las siguientes reglas:
+- a) Este derecho podrá ser ejercido por cualquiera de las dos personas  rogenitoras, y en cualquiera de los supuestos de disfrute simultáneo o sucesivo del periodo de descanso. 
 	En el supuesto de nacimiento, la madre biológica no podrá hacer uso de esta modalidad del permiso durante las seis semanas inmediatas posteriores al parto, que serán de descanso obligatorio.
-	b) El período de disfrute se aplicará proporcionalmente en función de la jornada de trabajo que se realice, la cual se fijará a elección de la persona interesada no pudiendo ser inferior, en ningún caso, a la mitad de su jornada ordinaria, ni superar la duración establecida para el permiso.
-	c) El disfrute del permiso será ininterrumpido. Una vez acordado solo podrá modificarse por iniciativa de la persona interesada y únicamente por causas relacionadas con su salud o la de la menor o el menor.
-	d) Durante el período de disfrute del permiso a tiempo parcial no podrá la persona beneficiaria prestar servicios extraordinarios fuera de la jornada de trabajo que realice como consecuencia de la concesión de este permiso.
-	
-	Cuando las necesidades del servicio lo permitan se concederá a la o al interesado la parte de jornada solicitada para el disfrute del permiso a tiempo parcial que convenga a sus intereses personales.
-	
-	El permiso a tiempo parcial será incompatible con el disfrute simultáneo por la misma persona de los permisos previstos por lactancia, nacimiento de hijas o hijos prematuros y con la reducción de jornada por razones de guarda legal.
+- b) El período de disfrute se aplicará proporcionalmente en función de la jornada de trabajo que se realice, la cual se fijará a elección de la persona interesada no pudiendo ser inferior, en ningún caso, a la mitad de su jornada ordinaria, ni superar la duración establecida para el permiso.
+- **Disfrute ininterrumpido**. Una vez acordado solo podrá modificarse por iniciativa de la persona interesada y únicamente por causas relacionadas con su salud o la de la menor o el menor.
+- d) Durante el período de disfrute del permiso a tiempo parcial no podrá la persona beneficiaria prestar servicios extraordinarios fuera de la jornada de trabajo que realice como consecuencia de la concesión de este permiso.
+
+Cuando las necesidades del servicio lo permitan se concederá a la o al interesado la parte de jornada solicitada para el disfrute del permiso a tiempo parcial que convenga a sus intereses personales.
+
+El permiso a tiempo parcial será incompatible con el disfrute simultáneo por la misma persona de los permisos previstos por lactancia, nacimiento de hijas o hijos prematuros y con la reducción de jornada por razones de guarda legal.
 
 - **Lactancia**: en los términos y condiciones previstos en el artículo 48, f) del TREBEP.
 
@@ -3177,7 +2676,7 @@ El personal tendrá derecho a adaptar el disfrute de sus vacaciones en caso de e
 
 ### Decreto 3/2017
 
-Y el [Decreto 3/2017](https://dogv.gva.es/va/resultat-dogv?signatura=2017/521&L=0&&texto=Reglamento+de+selecci%C3%B3n%2C%20provisi%C3%B3n+de+puestos+de+trabajo+y+movilidad+del+personal+de+la+funci%C3%B3n+p%C3%BAblica+valenciana.&solo_titulo=1&anyo_codigo=&codigo=&numero_dogv=&FECHA_INICIAL=24%2F01%2F2017&FECHA_FINAL=25%2F01%2F2017&tipo_disposicion=&organismo=) aprueba el Reglamento de selección, provisión de puestos de trabajo y movilidad del personal de la función pública valenciana
+Y el [Decreto 3/2017](https://dogv.gva.es/datos/2017/01/24/pdf/2017_521.pdf) aprueba el Reglamento de selección, provisión de puestos de trabajo y movilidad del personal de la función pública valenciana
 
 | Títulos                                        | Contenido                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3188,4 +2687,1453 @@ Y el [Decreto 3/2017](https://dogv.gva.es/va/resultat-dogv?signatura=2017/521&L=
 | Planificación y ordenación                     |                                                                                                                                                                                                                                                                               |
 | Comisión de Estudio de la Diversidad Funcional | - Comisión de Estudio de la Diversidad Funcional                                                                                                                                                                                                                              |
 
-CLAUDE
+TÍTULO I Disposiciones preliminares
+
+CAPÍTULO ÚNICO Objeto y ámbito de aplicación
+
+
+El objeto es el desarrollo de la Ley de Función Pública Valenciana en materia de selección de personal, movilidad y provisión de puestos de trabajo; así como los criterios y medidas de acción positiva para facilitar el acceso al empleo público de las personas con diversidad funcional y su participación en procesos de provisión de puestos de trabajo (artículo 4 del Real Decreto Legislativo 1/2013).
+
+
+Artículo 2. Principios de actuación
+
+En el acceso al empleo público y provisión de puestos de trabajo, se observarán los principios constitucionales de igualdad, mérito y capacidad, así como el resto de principios recogidos en la LOGFPV.
+
+El acceso al empleo público de las personas con diversidad funcional, así como su participación en procesos de provisión de puestos se realizará en condiciones que garanticen la igualdad de oportunidades con el resto de aspirantes.
+
+Asimismo, se garantizará el cumplimiento efectivo de las medidas específicas tendentes a alcanzar la igualdad de trato y de oportunidades entre mujeres y hombres, en los términos establecidos en la normativa y planes de igualdad vigentes.
+
+Para preservar la igualdad lingüística, en todos los procesos administrativos para el acceso al empleo público y para la provisión de puestos de trabajo, se garantizará el uso indistinto de cualquiera de las dos lenguas oficiales de la Comunitat.
+
+Artículo 3. Ámbito de aplicación
+
+Este decreto será de aplicación al personal funcionario de la Administración de la Generalitat (artículo 4 de la LOGFPV).
+
+El personal laboral que preste sus servicios en la Administración de la Generalitat, se regirá en esta materia, además de por la legislación laboral y las demás normas convencionalmente aplicables, por los preceptos de la LOGFPV y los de este decreto que así lo dispongan expresamente.
+
+Las disposiciones de este decreto, serán de aplicación al personal que desempeña funciones de administración o servicios en las universidades públicas de la Comunitat Valenciana así como al de las administraciones locales situadas en el territorio de la misma, en los términos previstos en la normativa estatal básica, la normativa sectorial aplicable, el TREBEP y la LOGFPV.
+
+En el caso de la administración local y las universidades públicas de la Comunitat Valenciana, las competencias o funciones atribuidas en este decreto a los órganos y unidades administrativas de la administración de la Generalitat, se entenderán referidas a sus respectivos órganos o unidades administrativas competentes, de acuerdo con la legislación que resulte de aplicación.
+
+Las competencias que se atribuyen en este decreto a los órganos de la Conselleria de función pública se entenderán referidas exclusivamente a los puestos y al personal de la Administración de la Generalitat cuya gestión corresponda a los mismos.
+
+Cuando en este decreto se hace referencia a cuerpos, agrupaciones profesionales funcionariales o escalas, se entenderá comprendida igualmente cualquier otra agrupación funcionarial propia de las administraciones públicas incluidas en su ámbito de aplicación.
+
+Las referencias que contiene este decreto al Diari Oficial de la Generalitat Valenciana se entenderán realizadas al diario oficial que corresponda, según cual sea la administración de la que proceda el acto a publicar.
+
+
+TÍTULO II
+Selección de personal
+CAPÍTULO I
+Personal funcionario de carrera y laboral fijo
+Sección primera
+Oferta de empleo público
+
+Artículo 4. Oferta de empleo público
+
+En la Administración de la Generalitat, las necesidades de personal con consignación presupuestaria a que se refiere el artículo 46 de la LOGFPV, se determinarán cada año por la conselleria competente en materia de función pública, mediante la elaboración de la correspondiente oferta de empleo público, que será aprobada por el Consell y publicada en el Diari Oficial de la Generalitat Valenciana en el primer trimestre.
+
+Aprobada la oferta de empleo público se convocarán, en el plazo máximo fijado en la misma, los correspondientes procedimientos selectivos para la cobertura de las vacantes incluidas y, en su caso, hasta un diez por ciento adicional.
+
+En la Administración de la Generalitat, la ejecución de la oferta de empleo público deberá desarrollarse dentro del plazo improrrogable de dos años.
+
+De acuerdo con lo dispuesto por el artículo 119.1 de la LOGFPV, en las ofertas de empleo público se reservará para el acceso por promoción interna, un porcentaje no inferior al 40 por ciento de las vacantes que se convoquen a oposición o concurso-oposición.
+
+Serán objeto de negociación los criterios generales de cada oferta de empleo público.
+
+Artículo 5. Reserva de vacantes para personas con diversidad funcional
+
+En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas que tengan reconocido un grado de discapacidad igual o superior al treinta y tres por ciento, siempre que superen las pruebas selectivas y acrediten el grado de discapacidad, así como la compatibilidad con el desempeño de las tareas y funciones correspondientes al cuerpo, agrupación profesional funcionarial o, en su caso, escala, o grupo profesional objeto de la convocatoria, de modo que, al menos, se alcance el dos por ciento de los efectivos totales.
+
+La reserva mínima a que se refiere el apartado anterior se desglosará del siguiente modo:
+- Un dos por ciento de las vacantes incluidas en la oferta, para ser cubiertas por personas con diversidad funcional de carácter intelectual.
+- Un cinco por ciento de las vacantes incluidas en la oferta, para ser cubiertas por personas con cualquier tipo de diversidad funcional.
+
+En la Administración de la Generalitat, el porcentaje de reserva contemplado en la letra a) del apartado anterior, se aplicará a las convocatorias de pruebas selectivas para el acceso a puestos correspondientes a agrupaciones profesionales funcionariales o grupos profesionales, que sean susceptibles de su desempeño por personas con este tipo de diversidad funcional.
+
+Sección segunda
+Sistemas de selección
+
+Artículo 6. Criterios generales de selección
+
+La selección del personal funcionario de carrera y laboral fijo, se realizará de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través de los sistemas selectivos de oposición, concurso o concurso-oposición.
+
+Los sistemas selectivos tendrán carácter abierto y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna y de las medidas de discriminación positiva previstas al amparo de la LOGFPV y la normativa vigente en esa materia.
+
+El sistema de concurso solo se aplicará a la selección de personal funcionario, con carácter excepcional, cuando así se establezca por ley de Les Corts.
+
+Los procedimientos de selección cuidarán especialmente la conexión entre el tipo de pruebas a superar y la adecuación al desempeño de las funciones y tareas de los puestos convocados.
+
+
+Artículo 7. La oposición
+
+La oposición es el sistema de selección consistente en la superación de las pruebas que se establezcan en la correspondiente convocatoria, y cuya finalidad es determinar la aptitud de las personas aspirantes en relación con las funciones o tareas propias de los puestos de trabajo convocados.
+
+Dichas pruebas podrán consistir en la comprobación de los conocimientos de forma oral o escrita. Cuando las pruebas sean orales, estas consistirán en la exposición de los temas del programa recogido en las bases de la convocatoria, extraídos al azar en acto público celebrado inmediatamente antes de la realización de la prueba.
+
+Cuando la oposición conste de varios ejercicios, la convocatoria determinará el carácter obligatorio o voluntario y eliminatorio o no de cada uno de ellos, y el sistema de puntuación. Será facultad del órgano técnico de selección la fijación de los criterios de evaluación de los resultados, salvo que se determine otra cosa en la convocatoria.
+
+
+Artículo 8. El concurso-oposición
+
+El concurso-oposición es el procedimiento de selección en el que, además de la fase de oposición a que se refiere el artículo anterior, se realiza una segunda fase en la que se evalúan los méritos de las personas aspirantes con arreglo al baremo que se determine en la convocatoria.
+
+En la fase de concurso se tendrán en cuenta los méritos señalados en la correspondiente convocatoria, entre los que figurarán, en todo caso, la experiencia profesional, posesión de titulaciones académicas oficiales, conocimiento de valenciano y de idiomas comunitarios.
+
+Asimismo podrá ser objeto de valoración la formación cuando así se determine en la correspondiente convocatoria y en los términos establecidos en la misma.
+
+Para que puedan ser valorados los méritos, deberán acreditarse debidamente en la forma prevista en la convocatoria.
+
+Solamente se procederá a puntuar el concurso en el caso de haber superado el nivel de aptitud establecido para todos y cada uno de los ejercicios de carácter eliminatorio de la fase de oposición.
+
+En cualquier caso, la máxima puntuación que pueda obtenerse en la fase de concurso no excederá nunca de un 40 por ciento de la puntuación total del concurso-oposición.
+
+
+El sistema de concurso consiste exclusivamente en la comprobación y valoración de los méritos de las personas aspirantes de acuerdo con el baremo incluido en la convocatoria.
+
+Sección tercera
+Inicio y desarrollo de los procesos selectivos
+
+Artículo 10. Las convocatorias
+
+Los procedimientos selectivos se iniciarán mediante convocatoria pública que deberá publicarse en el Diari Oficial de la Generalitat Valenciana.
+
+El órgano competente para convocar las pruebas de selección de personal de la Administración de la Generalitat será el conseller o consellera competente en materia de función pública.
+
+Las convocatorias podrán ser de carácter unitario para el acceso a distintos cuerpos, agrupaciones profesionales funcionariales y, en su caso, escalas o grupos profesionales que requieran unas capacidades, formación y conocimientos comunes, o de carácter específico para cada uno de ellos.
+
+Cuando las convocatorias lo prevean, se podrán establecer pruebas comunes sobre aquellas materias cuyo conocimiento se requiere con carácter general, y pruebas específicas que tengan relación con las funciones asignadas a cada uno de los cuerpos, agrupaciones profesionales funcionariales y, en su caso, escalas o grupos profesionales.
+
+Las convocatorias podrán establecer la conservación de la nota de los ejercicios, siempre que dicha nota supere el 60 % de la calificación máxima prevista en el correspondiente ejercicio. La validez de esta medida será aplicable a la convocatoria inmediata siguiente, siempre y cuando no haya transcurrido más de un año desde la publicación de la relación de personas aprobadas en el proceso selectivo precedente y la publicación de la nueva convocatoria.
+
+
+Artículo 11. Vacantes reservadas a personas con diversidad funcional 
+
+La convocatoria de las vacantes reservadas a personas con diversidad funcional se podrán realizar de forma conjunta o independiente a la de acceso libre y, en su caso, a la de acceso por promoción interna.
+
+Cuando se convoquen conjuntamente con otros turnos, las pruebas selectivas tendrán los mismos contenidos para todas las personas aspirantes con independencia del turno por el que se opte, sin perjuicio de las adaptaciones previstas en este decreto. En concreto, durante el proceso selectivo se dará un tratamiento diferenciado a las personas aspirantes que opten por las vacantes reservadas a personas con diversidad funcional, en lo que se refiere a llamamientos a los ejercicios y relaciones de personas admitidas y aprobadas.
+
+En la convocatoria se determinará la forma en que deba ser solicitada la opción por las vacantes reservadas a personas con diversidad funcional, así como, en su caso, las adaptaciones y ajustes razonables de tiempo que resulten necesarios para garantizar la realización de las pruebas selectivas en igualdad de condiciones.
+
+De acuerdo con lo previsto en las ofertas de empleo público, se podrán convocar procedimientos selectivos independientes para el acceso de personas con diversidad funcional, con pruebas selectivas específicas que se adapten a las circunstancias concretas que determinen dicha diversidad.
+
+Artículo 12. Convocatorias independientes y específicas para personas con diversidad funcional de carácter intelectual
+
+
+24. Con carácter general, las vacantes reservadas a personas con diversidad funcional de carácter intelectual a que se refiere el artículo 5.2.a de este decreto, se convocarán de forma específica mediante convocatoria independiente dirigida a las mismas. La participación en esta convocatoria no impedirá tomar parte en el resto de convocatorias para el acceso al mismo cuerpo, escala, agrupación profesional funcionarial o grupo profesional, correspondientes a una misma oferta.
+
+25. En estas convocatorias se procurará que exista una efectiva correlación entre los contenidos de las pruebas y el trabajo a desempeñar por  las personas aspirantes. Dichas pruebas, que podrán tener un carácter fundamentalmente práctico, se dirigirán a comprobar que las y los aspirantes poseen los repertorios básicos de conducta y los conocimientos imprescindibles que les permitan realizar las funciones propias del cuerpo, agrupación profesional funcionarial, escala, o grupo profesional.
+
+Artículo 13. Contenido de las convocatorias
+
+Las bases de la convocatoria deberán contener:
+- a) Número de plazas vacantes a cubrir, su clasificación profesional, cuerpo y, en su caso, escala.
+- b) Requisitos que deben reunir las y los aspirantes, con expresa mención de los que dispone la LOGFPV.
+- c) El sistema selectivo aplicable, con indicación del tipo de pruebas y criterios de calificación.
+- d) Puntuación mínima a alcanzar para la superación de cada ejercicio de las pruebas selectivas.
+- e) Programa de materias sobre el que versarán los ejercicios de carácter teórico o práctico.
+- f) Relación de los méritos, así como de los criterios y normas de valoración, en caso de concurso-oposición o concurso.
+- g) Composición del órgano técnico de selección.
+- h) La determinación, en su caso, de las características del curso selectivo o periodo de prácticas.
+- i) Modelo de solicitud, plazo y lugares de presentación, y autoridad u organismo al que debe dirigirse.
+- j) Número de vacantes reservadas para la promoción interna, en caso de convocatoria conjunta con la de acceso libre.
+- k) Número de vacantes reservadas a personas con diversidad funcional.
+- l) Orden de actuación del personal aspirante según el resultado del sorteo celebrado previamente, de acuerdo con lo previsto el artículo 17.1 de este decreto.
+- m) Forma en que se dirimirán los casos de empate entre aspirantes.
+- n) Identificación de las sedes y página web de la administración convocante donde se realizarán los anuncios y comunicaciones oportunas.
+- o) Aquellas otras previsiones exigidas por la normativa específica de aplicación a las mismas.
+
+Las convocatorias y sus bases vinculan a la administración, a los órganos de selección y a las personas que participan en las mismas.
+
+
+Artículo 14. Solicitudes de participación
+
+La solicitud de participación en las pruebas selectivas, ajustada al modelo normalizado que se indique en la convocatoria, deberá presentarse, por medios telemáticos, en el plazo de 20 días hábiles, contados a partir del día siguiente al de la publicación de la convocatoria en el Diari Oficial de la Generalitat Valenciana.
+
+Para ser admitidas y, en su caso, tomar parte en las pruebas selectivas correspondientes, las personas aspirantes presentarán una declaración responsable en la que manifiesten que reúnen todos y cada uno de los requisitos exigidos, referidos siempre a la fecha de expiración del plazo de presentación de solicitudes, debiendo acreditarlos posteriormente, en el caso de que fueran seleccionadas.
+
+Artículo 15. Listas de personas admitidas y excluidas
+
+Finalizado el plazo de presentación de solicitudes, la dirección general con competencias en materia de función pública publicará en el Diari Oficial de la Generalitat Valenciana la relación provisional de personas admitidas y excluidas, indicando en este último caso la causa de exclusión y concediendo un plazo de diez días hábiles contados a partir del siguiente a su publicación para que se puedan subsanar los defectos que hayan motivado la exclusión, o realizar las alegaciones que tengan por conveniente. 
+
+Concluido el plazo de alegaciones y subsanaciones y resueltas las mismas, la dirección general con competencias en materia de función pública elevará a definitiva la relación de personas admitidas y excluidas mediante resolución que se publicará igualmente en el Diari Oficial de la Generalitat Valenciana. Dicha publicación servirá de notificación a efectos de impugnaciones y recursos.
+
+En la misma resolución se indicará la fecha, lugar y hora de comienzo del primer ejercicio, que tendrá lugar en un plazo no inferior a quince días hábiles, así como el orden de llamamiento de las personas aspirantes, según el resultado del sorteo a que se refiere el artículo 17.1 de este decreto.
+
+
+Artículo 16. Anuncio de celebración de las pruebas selectivas
+
+Los resultados de cada uno de los ejercicios, los sucesivos llamamientos y convocatorias, y en definitiva cualquier decisión que adopte el órgano técnico de selección y que deba conocer el personal aspirante hasta la finalización de las pruebas selectivas o, en su caso, la fase de concurso, se expondrán en las sedes y página web que se señale en las bases de la convocatoria, bastando dicha exposición, en la fecha en que se inicie, como notificación a todos los efectos.
+
+El llamamiento para la sesión siguiente de un mismo ejercicio deberá realizarse con un plazo mínimo de antelación de veinticuatro horas desde el inicio de la sesión anterior, mientras que la convocatoria para un ejercicio distinto deberá respetar un plazo mínimo de dos días.
+
+Artículo 17. Normas generales para la celebración de las pruebas
+
+La consellera o el conseller que tenga atribuida la competencia en materia de función pública determinará, mediante un único sorteo público, el orden alfabético de actuación de las personas aspirantes en cada una de las pruebas selectivas de ingreso que se celebren durante el año. El resultado del sorteo se publicará en el Diari Oficial de la Generalitat Valenciana.
+
+Antes del inicio de cada ejercicio, y siempre que se estime conveniente durante el desarrollo del mismo, las personas que integren el órgano de selección, el personal ayudante o asesor comprobarán la identidad de las personas admitidas, mediante alguno de los documentos previstos en la convocatoria.
+
+Las personas admitidas quedarán decaídas en su derecho cuando se personen en los lugares de celebración una vez iniciadas las pruebas o por la inasistencia a las mismas, aun cuando se deba a causas justificadas.
+
+No obstante lo anterior, si se trata de pruebas orales u otras de carácter individual y sucesivo, el órgano de selección podrá apreciar las causas alegadas y admitir a la persona aspirante, siempre y cuando las mismas no hayan finalizado y dicha admisión no menoscabe el principio de igualdad con el resto del personal.
+
+Asimismo, si alguna de las aspirantes no pudiera completar el proceso selectivo a causa de embarazo de riesgo o parto, debidamente acreditado, su situación quedará condicionada a la finalización del mismo y a la superación de las fases que hayan quedado aplazadas, no pudiendo demorarse estas de manera que se menoscabe el derecho del resto de las personas aspirantes a una resolución del proceso ajustada a tiempos razonables, lo que deberá ser valorado por el órgano técnico de selección y, en todo caso, la realización de las mismas tendrá lugar antes de la publicación de la lista de aspirantes que han superado el proceso selectivo. Idéntica previsión resulta de aplicación a las víctimas de violencia de género cuando acrediten debidamente que no pueden asistir por motivos de seguridad.
+
+Las personas aspirantes deberán observar en todo momento las instrucciones de las personas integrantes del órgano técnico de selección o del personal ayudante o asesor durante la celebración de las pruebas, en orden al adecuado desarrollo de las mismas. Cualquier alteración en el normal desarrollo de las pruebas por parte de alguna persona aspirante, quedará reflejada en el acta correspondiente, pudiendo continuar dicha persona el desarrollo del ejercicio con carácter condicional hasta tanto resuelva el órgano de selección sobre el incidente.
+
+El órgano técnico de selección, cuando considere que existen circunstancias relacionadas con la aplicación de las bases de la convocatoria que pueden incidir directamente en la realización o calificación de las pruebas selectivas, informará de ellas al personal aspirante, sin que ello pueda suponer una alteración de las citadas bases.
+
+En aquellos procesos selectivos en los que existan pruebas físicas, estas establecerán baremos diferentes para hombres y mujeres cuando la naturaleza de las pruebas lo requiera o exista alguna justificación legítima y proporcionada del diferente trato. Todo ello en el marco de lo establecido en la normativa vigente en materia de igualdad de mujeres y hombres.
+
+Artículo 18. Relación de personas aprobadas
+
+Con el resultado de las calificaciones obtenidas en los procesos selectivos, el órgano técnico de selección expondrá en los lugares señalados en la convocatoria la relación definitiva de personas aprobadas por orden de puntuación, confeccionada según lo previsto en los apartados siguientes, que remitirá a la autoridad u órgano convocante para su publicación mediante resolución motivada en el Diari Oficial de la Generalitat Valenciana.
+
+La relación de personas que han aprobado la oposición se formará con quienes, habiendo realizado todos los ejercicios obligatorios, hayan superado los que tuvieran carácter eliminatorio, sumando para cada uno de ellos las puntuaciones obtenidas en todos los ejercicios, tanto obligatorios como voluntarios.
+
+ Cuando el sistema de selección sea el concurso-oposición, una vez finalizadas ambas fases, se procederá a obtener la lista de personas aspirantes aprobadas con todas los que hayan superado la fase de oposición según lo previsto en el apartado 2 de este artículo, a las que se les sumará la puntuación obtenida en la fase de concurso.
+
+La relación de personas aprobadas dará comienzo con la persona aspirante que haya obtenido de esta forma la puntuación total más alta, y finalizará, en su caso, cuando el número de personas incluidas en la misma coincida con el número de puestos convocados, excepto cuando la convocatoria prevea otra cosa. Si el número de personas aspirantes relacionadas fuera inferior al de plazas convocadas, las no cubiertas se declararán desiertas.
+
+Las personas aspirantes que, habiendo optado por las vacantes reservadas a personas con diversidad funcional, tengan una puntuación superior a la obtenida por otras u otros aspirantes de la convocatoria conjunta del turno libre o de promoción interna de un proceso selectivo, y no hubieran obtenido vacante en el citado cupo de reserva, serán incluidas por su orden de puntuación en el turno libre o de promoción interna al que corresponda la reserva.
+
+Los empates se resolverán en la forma prevista en la convocatoria. En todo caso, los empates se dirimirán en favor de las personas con diversidad funcional. Si el empate se produce entre dichas personas, se elegirá a quien tenga acreditado un mayor porcentaje de discapacidad.
+
+Cuando la convocatoria haya previsto la realización de un curso de formación o periodo de prácticas de carácter eliminatorio de acuerdo con lo previsto en el artículo 22 de este decreto, no se procederá a la publicación de la relación definitiva de personas aprobadas hasta la finalización de esta fase, debiendo sumarse la puntuación obtenida en el curso a la que obtuvieron en la fase de oposición o concurso-oposición.
+
+Los órganos técnicos de selección no podrán proponer el acceso a la condición de personal funcionario de un número superior de personas aprobadas al de vacantes convocadas, excepto cuando así lo prevea la propia convocatoria.
+
+No obstante lo anterior, y con la finalidad de asegurar la cobertura de las vacantes convocadas, siempre que los órganos de selección hayan propuesto el nombramiento de igual número de personas aspirantes que el de vacantes convocadas, cuando se produzcan renuncias, falta de acreditación de los requisitos exigidos en la convocatoria para ser nombrado personal funcionario de carrera o concurra alguna de las causas de pérdida de la condición de personal funcionario en las personas propuestas antes de su nombramiento o toma de posesión, el órgano convocante requerirá del órgano de selección relación complementaria de personas aspirantes aprobadas que sigan a las propuestas, para su posible nombramiento como personal funcionario de carrera.
+
+Idéntica previsión a la contenida en este apartado será de aplicación en los procedimientos de selección del personal laboral.
+
+
+Artículo 19. Presentación de documentos
+
+Publicada en el Diari Oficial de la Generalitat Valenciana la relación definitiva de personas seleccionadas, estas deberán, en el plazo de 20 días hábiles contados desde el siguiente al de la publicación, presentar la documentación que proceda a fin de acreditar que reúnen todos y cada uno de los requisitos exigidos en la convocatoria.
+
+Quienes tuvieran la condición de personal funcionario o de personal laboral al servicio de la administración convocante, en el plazo previsto en el apartado anterior, presentarán la documentación acreditativa que proceda o indicarán, en su caso, que las condiciones y requisitos exigidos en la convocatoria ya están inscritos en el Registro de Personal de esa administración
+
+No obstante lo anterior, el órgano convocante podrá solicitar que se vuelva a exigir una nueva acreditación de aquellos requisitos cuando lo considere conveniente por el tiempo transcurrido desde su obtención o porque guarden relación directa con las funciones o tareas del puesto a desempeñar.
+
+La convocatoria podrá establecer que el requisito de estar en posesión de las capacidades y aptitudes físicas o psíquicas que sean necesarias para el desempeño de las correspondientes funciones o tareas, sea comprobado directamente por el órgano competente en materia de prevención de riesgos laborales.
+
+Cuando de la documentación se dedujese que alguna de las personas seleccionadas carece de uno o varios de los requisitos exigidos, estas no podrán ser nombradas personal de la administración convocante, sin perjuicio de la responsabilidad en que pudieran haber incurrido por falsedad en sus solicitudes de participación.
+
+Si en el desarrollo de las pruebas selectivas para el acceso a cuerpos, escalas, agrupaciones profesionales funcionariales o grupos profesionales de la Administración de la Generalitat, se suscitaran dudas al órgano técnico de selección respecto a la compatibilidad funcional de una persona aspirante, se solicitará el correspondiente dictamen de la Comisión de Estudio de la Diversidad Funcional u órgano competente con funciones análogas, en cuyo caso, la persona aspirante podrá participar condicionadamente en el proceso selectivo, quedando en suspenso la resolución definitiva sobre la admisión o exclusión de las pruebas hasta la recepción del dictamen.
+
+Artículo 20. Conocimiento del valenciano
+
+La acreditación de los conocimientos de valenciano por las personas que hayan superado las pruebas selectivas, que dispone el artículo 53.2 de la LOGFPV, deberá realizarse mediante certificado expedido u homologado por la Junta Qualificadora de Coneixements de Valencià.
+
+El nivel exigible de dichos conocimientos será el que consta a continuación, en función del grupo o subgrupo al que acceda la persona que ha superado las pruebas selectivas correspondientes:
+
+- A1, A2, B: Grau Mitjà
+- C1, C2: Grau Elemental
+- Agrupaciones profesionales funcionariales: Coneixements orals 
+
+Quienes no puedan acreditar conocimientos de valenciano tras la superación de las pruebas selectivas de la forma indicada en el apartado anterior, deberán realizar el ejercicio específico que se convoque y, caso de no superarlo, asistir a los cursos de perfeccionamiento que a este fin se organicen.
+
+En la Administración de la Generalitat estos cursos serán convocados por el órgano competente, en el plazo de un año desde la toma de posesión, siendo obligatoria la participación en los mismos en tanto no se obtenga el nivel de conocimiento de valenciano previsto en el apartado 2 de este artículo.
+
+Lo establecido en los apartados anteriores no obsta a la exigencia, como requisito consignado en las relaciones de puestos de trabajo, de iguales o superiores conocimientos de valenciano para el desempeño de determinados puestos.
+
+Artículo 21. Adjudicación de puestos de trabajo
+
+Con carácter general, la adjudicación de destinos al personal de nuevo ingreso se efectuará de acuerdo con las peticiones de las personas interesadas, entre los puestos que han quedado vacantes tras el concurso previo del personal funcionario de carrera y según el orden de puntuación obtenido en el proceso selectivo, siempre que reúnan los requisitos determinados para cada puesto en las relaciones de puestos de trabajo.
+
+Estos destinos tendrán carácter definitivo.
+
+No obstante lo dispuesto en el apartado anterior, las personas aspirantes que opten a vacantes reservadas a personas con diversidad funcional dentro de una convocatoria ordinaria, podrán solicitar al órgano convocante la alteración del orden de prelación por motivos de dependencia personal, dificultades de desplazamiento u otras análogas, que deberán ser acreditados. El órgano convocante decidirá dicha alteración cuando se encuentre debidamente justificado, limitándose a realizar la mínima modificación en el orden de prelación necesaria para posibilitar el acceso a un puesto adecuado para la persona con diversidad funcional.
+
+Las personas que hayan superado el proceso selectivo, se incorporarán a un puesto de trabajo en un plazo máximo de seis meses desde la publicación de la resolución definitiva de personas aprobadas.
+
+
+Sección cuarta
+Cursos de formación y período de prácticas
+Artículo 22. Cursos de formación y períodos de prácticas
+
+En las respectivas convocatorias podrá establecerse motivadamente, que una vez superada la fase de la oposición o el concurso-oposición, las personas aspirantes deban realizar un curso de formación, período de prácticas o ambos conjuntamente.
+
+Las convocatorias determinarán si el curso de formación o periodo de prácticas tiene o no carácter eliminatorio en atención a las características del cuerpo, escala, agrupación profesional funcionarial o grupo profesional de que se trate. En todo caso, la calificación que determine la no superación de dicha fase deberá ser motivada. Asimismo, establecerán la duración total de esta fase.
+
+La calificación obtenida en los cursos de formación o período de prácticas que no tengan carácter eliminatorio, solo servirá para fijar el orden definitivo de puntuación de las personas aspirantes que han aprobado la oposición o concurso oposición, a los efectos de adjudicación de destino.
+
+Su no realización tendrá las consecuencias previstas en el apartado
+siguiente.
+
+Las personas aspirantes que no realicen o, en su caso, no superen esta fase cuando esta tenga carácter eliminatorio, perderán su derecho a ser nombrados personal funcionario de carrera en la correspondiente convocatoria.
+
+No obstante, se les reservará la puntuación obtenida en la oposición o concurso-oposición por una sola vez, pudiendo volver a ser nombrados personal funcionario en prácticas en el curso o periodo de prácticas inmediatamente posterior que se convoque para el acceso al mismo cuerpo, escala o agrupación profesional funcionarial. A estos efectos, deberán solicitar su participación en la correspondiente convocatoria.
+
+Artículo 23. Contenido y evaluación de los cursos de formación o
+periodo de prácticas
+
+Las convocatorias determinarán el contenido de los cursos de formación o periodo de prácticas.
+
+En la Administración de la Generalitat, la planificación, organización y ejecución del curso de formación a que se refiere el apartado anterior corresponde al Instituto Valenciano de Administración Pública.
+
+La evaluación de los cursos de formación y de los periodos de prácticas corresponderá al órgano técnico de selección.
+
+Artículo 24. Personal funcionario en prácticas
+
+Durante la realización del curso o periodo de prácticas, las personas aspirantes a cuerpos, escalas o agrupaciones profesionales funcionariales tendrán la consideración de personal funcionario en prácticas, percibiendo las retribuciones que establezca la normativa vigente.
+
+En la Administración de la Generalitat, la condición de personal funcionario en prácticas se adquiere mediante nombramiento de la persona titular de la conselleria competente en materia de función pública, que será publicado en el Diari Oficial de la Generalitat Valenciana, y se mantendrá hasta la finalización del curso de formación o periodo de prácticas.
+
+Si la persona aspirante fuera personal funcionario o laboral de la misma administración en servicio activo, se le concederá una licencia por estudios durante el tiempo que se prolongue el curso selectivo o el período de prácticas, percibiendo las retribuciones que le correspondan de conformidad con la normativa vigente.
+
+En todo caso, una vez finalizado el curso selectivo o periodo de prácticas, deberá reincorporarse a su puesto de trabajo de origen hasta la toma de posesión, en su caso, como personal funcionario de carrera en el nuevo cuerpo, escala o agrupación profesional funcionarial.
+
+Sección quinta
+Promoción interna del personal funcionario de carrera
+Artículo 25. Procedimientos de promoción interna
+
+La promoción interna del personal funcionario de carrera, en cualquiera de las modalidades previstas en la LOGFPV, horizontal, vertical y mixta, se hará efectiva mediante los procedimientos selectivos que a tal efecto se convoquen.
+
+El procedimiento podrá consistir en la superación de una oposición o de un concurso oposición.
+
+
+Artículo 26. Requisitos de participación
+
+Podrá participar en las convocatorias de promoción interna el personal funcionario de carrera que reúna los requisitos previstos en la LOGFPV y que pertenezca a los cuerpos y escalas que a continuación se determina para cada modalidad:
+
+
+- **Vertical**: el personal que pertenezca a un cuerpo o escala del grupo o subgrupo inmediatamente inferior al de las plazas convocadas, y que esté dentro del mismo itinerario profesional, todo ello sin perjuicio de lo dispuesto en el artículo 119.1 párrafo segundo de la LOGFPV. En las convocatorias se hará constar cuáles son los cuerpos o escalas cuyos integrantes podrán participar en el proceso selectivo mediante esta modalidad de promoción interna.
+
+- **Horizonta**l: el personal que pertenezca a otro cuerpo o escala del mismo grupo o subgrupo de clasificación profesional.
+
+- **Mixta**: el personal que pertenezca a un cuerpo o escala del grupo o subgrupo inmediatamente inferior al de las plazas convocadas, y que no esté dentro del mismo itinerario profesional.
+
+Cuando así lo requiera la naturaleza de los puestos convocados, las convocatorias podrán prever, de forma motivada, que la promoción interna se circunscriba a una o a dos de las modalidades anteriormente previstas.
+
+Cuando no haya ningún cuerpo o escala que pertenezca al mismo itinerario profesional que el de los puestos convocados, la convocatoria no contemplará la modalidad de promoción interna vertical. Asimismo, solo se podrá acceder a las agrupaciones profesionales funcionariales mediante la modalidad de promoción interna horizontal.
+
+Las convocatorias determinarán, en su caso, de qué pruebas o de qué materias quedará exento el personal que participe a través de cada una de estas modalidades de promoción interna, siempre que se trate de conocimientos que se puedan considerar suficientemente acreditados a través de las pruebas de ingreso al cuerpo o escala de origen.
+
+Las personas aspirantes que hayan superado el proceso selectivo, deberán presentar la documentación que proceda a fin de acreditar que reúnen todos y cada uno de los requisitos exigidos para el acceso al cuerpo, escala o agrupación profesional funcionarial de que se trate, salvo los que ya tuvieran anteriormente inscritos en el Registro de Personal de la administración convocante.
+
+No obstante lo anterior, el órgano convocante podrá solicitar que se vuelva a exigir una nueva acreditación de aquellos requisitos y condiciones de capacidad cuando lo considere conveniente por el tiempo transcurrido desde su obtención o porque guarden relación directa con las funciones o tareas del puesto a desempeñar.
+
+La participación del personal de las agrupaciones profesionales se regirá por lo establecido en esta sección para los cuerpos y escalas funcionariales, salvo las excepciones previstas en la LOGFPV.
+
+Artículo 27. Cursos de formación
+Las convocatorias de promoción interna podrán establecer la obligación para el personal de superar cursos de formación o periodo de prácticas.
+
+
+Sección sexta
+Órganos técnicos de selección
+Artículo 28. Nombramiento y composición
+
+Los órganos técnicos de selección tienen como misión la ejecución de los procesos selectivos y la evaluación de las pruebas, así como de los méritos de las personas aspirantes, en su caso, con arreglo a lo dispuesto en la respectiva convocatoria, en este decreto y demás normas de general aplicación.
+
+Los miembros de los órganos técnicos de selección serán nombrados por la persona titular de la conselleria que tenga atribuida la competencia en materia de función pública. Su composición será impar, no pudiendo ser inferior a cinco titulares con sus respectivos suplentes, atendiendo a criterios de paridad. Dichos nombramientos deberán publicarse en el Diari Oficial de la Generalitat Valenciana con una antelación mínima de un mes a la fecha de comienzo de las pruebas.
+
+El procedimiento para la designación de las personas que integran los órganos técnicos de selección de la Administración de la Generalitat, se determinará mediante orden de la conselleria competente en materia de función pública.
+
+El personal de elección o de designación política, el personal funcionario interino, el personal laboral no fijo, el personal directivo profesional y el personal eventual no podrán formar parte de los órganos de selección.
+
+La pertenencia a los órganos de selección será siempre a título individual, no pudiendo ostentarse esta en representación o por cuenta de nadie.
+
+No podrá formar parte de los órganos de selección el personal que hubiere realizado tareas de preparación de aspirantes en los cinco años anteriores a la publicación de la correspondiente convocatoria.
+
+De acuerdo con el principio de colaboración y cooperación entre administraciones, podrá formar parte de los órganos de selección de las entidades locales una o un vocal perteneciente a la Administración de la Generalitat.
+
+Artículo 29. Comisión de selección
+
+En las convocatorias que efectúe la Administración de la Generalitat, junto a los órganos técnicos de selección de cada uno de los cuerpos, escalas o agrupaciones profesionales funcionariales, se podrá nombrar una comisión de selección integrada por miembros de los órganos técnicos de selección y a la que corresponderá la elaboración y corrección de las pruebas comunes. Su composición será impar y su número no inferior a 3 titulares y 3 suplentes.
+
+La comisión de selección tendrá, en relación con dichas pruebas comunes, las competencias que este decreto atribuye a los órganos técnicos de selección y su funcionamiento se adecuará a lo previsto para estos.
+
+
+Artículo 30. Funcionamiento de los órganos técnicos de selección
+
+Para el mejor cumplimiento de su misión, los órganos técnicos de selección podrán solicitar y obtener el asesoramiento de especialistas en aquellas pruebas en que lo estimen necesario o conveniente, quienes se limitarán a prestar su colaboración en el ámbito de sus respectivas especialidades.
+
+Los órganos técnicos de selección tendrán la consideración de órganos colegiados de la administración y, como tales, estarán sometidos a la normativa de régimen jurídico que resulte de aplicación, así como a las causas generales de abstención y recusación contenidas en la mencionada normativa, las cuales serán de aplicación asimismo al personal asesor.
+
+En este sentido, quien ostente la secretaría del órgano técnico de selección, deberá levantar acta de todas sus sesiones, tanto de celebración de ejercicios como de corrección y evaluación de los mismos, así como de los puntos principales de las deliberaciones y el contenido de sus acuerdos, en las que se expondrán concisamente, aunque con claridad suficiente, la motivación de sus decisiones, que en lo concerniente al ejercicio de su competencia técnica, científica o profesional para evaluar a las personas aspirantes, estará referida al cumplimiento de las normas legales y reglamentarias y de los criterios que puedan haberse establecido en la convocatoria o por parte del órgano técnico de selección con carácter previo a la realización o valoración de las pruebas.
+
+Artículo 31. Revisión e impugnación de resoluciones
+
+Las resoluciones de los órganos técnicos de selección y de las comisiones de selección vinculan a la administración.
+
+Contra las resoluciones de los órganos técnicos de selección y de las comisiones de selección, así como contra sus actos de trámite que impidan continuar el procedimiento o produzcan indefensión podrá interponerse recurso de alzada ante la autoridad que los nombró.
+
+
+CAPÍTULO II
+Personal temporal
+Sección primera
+Selección del personal temporal
+Artículo 32. Criterios generales de selección del personal temporal
+ 
+ La selección del personal funcionario interino y, en su caso, del personal laboral temporal se realizará a través de las correspondientes bolsas de empleo temporal para la provisión de puestos de trabajo.
+
+En todo caso, este personal deberá reunir los requisitos generales de titulación y las demás condiciones exigidas para participar en las pruebas selectivas de acceso al correspondiente cuerpo, agrupación profesional funcionarial o escala o grupo profesional de personal laboral del puesto a cubrir.
+
+Artículo 33. Nombramientos de personal funcionario interino
+
+Los nombramientos de personal funcionario interino se efectuarán, con carácter general, en puestos de trabajo correspondientes a la categoría de entrada en el cuerpo, agrupación profesional funcionarial o escala correspondiente.
+
+A los efectos de lo dispuesto en este decreto, se entenderá por puestos correspondientes a la categoría de entrada aquellos que tengan asignado el menor nivel de complemento competencial del puesto de trabajo dentro del intervalo de niveles en que estén clasificados los puestos del cuerpo, escala o agrupación profesional funcionarial de que se trate.
+
+Excepcionalmente podrán efectuarse nombramientos de personal funcionario interino en otros puestos de trabajo que no sean los previstos en el apartado anterior, cuando por razones de ubicación territorial, especificidad de las funciones o déficit de efectivos de personal en el cuerpo, escala o agrupación profesional funcionarial de que se trate, se acredite documentalmente en el expediente la imposibilidad de cubrirlo con personal funcionario de carrera mediante alguno de los sistemas de provisión voluntaria previstos en este decreto y de efectuar un nombramiento por mejora de empleo.
+
+En todo caso, se dará cuenta de los nombramientos a la Comisión de Seguimiento de Bolsas de Empleo Temporal.
+
+En la Administración de la Generalitat no podrán efectuarse nombramientos de personal funcionario interino en puestos con rango de subdirección general o jefatura de servicio.
+
+Sección segunda
+Bolsas de empleo temporal de la Administración de la Generalitat
+Artículo 34. Constitución de las bolsas de empleo temporal
+
+Se constituirán bolsas de empleo temporal vinculadas al desarrollo de las ofertas de empleo público, para el desempeño temporal de puestos de trabajo de naturaleza funcionarial de la Administración de la Generalitat, en los supuestos previstos en el artículo 16.2 de la LOGFPV, que se regirán, sin perjuicio de lo dispuesto en este decreto, por las normas de constitución y funcionamiento que se dicten por la persona titular de la conselleria que tenga atribuida la competencia en materia de función pública.
+
+Dichas normas se dictarán previa negociación con las organizaciones sindicales y deberán respetar los principios de publicidad, igualdad, mérito y capacidad, sin que en ningún caso la valoración de la experiencia resulte desproporcionada.
+
+En los términos que se prevean en la orden a que se refiere el apartado anterior, podrá formar parte de las bolsas de empleo temporal vinculadas a la correspondiente oferta de empleo público:
+
+a) El personal aspirante que, habiendo participado en las pruebas de acceso al cuerpo, agrupación profesional funcionarial o escala de que se trate, hayan aprobado algún ejercicio.
+b) El personal funcionario interino o en mejora de empleo cesado, que haya participado en el proceso selectivo del cuerpo, escala o agrupación profesional funcionarial en que estaba clasificado el puesto que desempeñaba.
+c) El personal funcionario de carrera que, habiendo participado en el proceso selectivo del cuerpo, escala o agrupación profesional funcionarial, hubiera aprobado algún ejercicio en un proceso selectivo distinto del mismo cuerpo, escala o agrupación profesional funcionarial.
+
+Las bolsas de empleo temporal se constituirán por cuerpos, agrupaciones profesionales funcionariales o escalas y en los ámbitos territoriales que se considere conveniente.
+
+No obstante, atendiendo a la similitud de las funciones asignadas, podrán constituirse bolsas que agrupen a varios cuerpos, agrupaciones profesionales funcionariales o escalas.
+
+Como resultado de las convocatorias específicas para personal con diversidad funcional de carácter intelectual, se constituirán bolsas específicas para la cobertura con carácter temporal de los puestos reservados para ser desempeñados preferentemente por personas con este tipo de diversidad funcional. Estas bolsas se regirán por unas bases diferenciadas y adaptadas a sus circunstancias.
+
+En ausencia de bolsas de empleo temporal y hasta tanto se conformen las resultantes de la correspondiente oferta de empleo público, podrán constituirse bolsas a través de pruebas selectivas o por el sistema de baremación de méritos y experiencia, según se establezca en la normativa prevista en el apartado 1 de este artículo.
+
+Artículo 35. Funcionamiento de las bolsas de empleo temporal
+
+Cuando según la normativa vigente, proceda cubrir con carácter temporal uno o varios puestos de trabajo por personal perteneciente a las bolsas de empleo temporal, el órgano competente que por razones organizativas considere necesario cubrir el puesto, lo solicitará a la dirección general competente en materia de función pública, y esta citará a quien o quienes corresponda por turno de acuerdo con lo establecido en esta sección y la correspondiente orden de desarrollo.
+
+En las bolsas derivadas de una oferta de empleo público, los llamamientos se realizarán respetando el orden de prelación que vendrá determinado por la suma de la puntuación obtenida en la baremación de méritos que se establezca en la convocatoria de la bolsa correspondiente.
+
+No obstante, mediante orden de desarrollo, se podrán establecer excepciones a este orden de llamamiento, únicamente con el objeto de hacer efectiva la protección de las mujeres víctimas de violencia de género, y de personas víctimas de terrorismo, así como el derecho al cambio de puesto por motivos de salud del personal interino en los términos regulados en este decreto.
+
+Los méritos valorables, a los efectos de lo previsto en el apartado anterior, constarán en la orden prevista en el apartado primero del artículo 34, debiendo tener en cuenta para la puntuación, la concurrencia de grados de discapacidad iguales o superiores a un 33 %. Dicha orden establecerá asimismo, la forma en que deba ser acreditado el grado de discapacidad y la compatibilidad con el desempeño de las tareas y funciones propias del cuerpo, escala, agrupación o grupo profesional para el que haya sido convocada la bolsa de empleo temporal.
+
+Si se suscitaran dudas sobre la compatibilidad para ocupar el puesto de trabajo al que opte la persona con diversidad funcional, se solicitará dictamen de la Comisión de Estudio de la Diversidad Funcional que deberá especificar las causas por las que no le deba ser adjudicado el puesto, o las medidas necesarias para su adaptación.
+
+La falta de aceptación del nombramiento sin causa justificada o la renuncia al mismo una vez se haya tomado posesión del puesto a cubrir, supondrá la penalización correspondiente en la bolsa de trabajo.
+
+Mediante la orden por la que se regule el funcionamiento de las bolsas de empleo temporal se podrán establecer, entre otras, excepciones a esta penalización en orden a facilitar el acceso al empleo público de las personas con diversidad funcional, por motivos de salud de la persona participante en la bolsa, de su cónyuge o pareja de hecho o de un familiar de primer grado de consanguinidad o afínidad a su cargo, así como otros motivos de conciliación familiar y laboral.
+
+Las bolsas que se constituyan para el desempeño temporal de puestos de un cuerpo, agrupación profesional funcionarial o escala, se utilizarán indistintamente para el nombramiento de personal funcionario interino o el nombramiento provisional en mejora de empleo.
+
+A tal efecto, cuando el llamamiento se haga a quien tenga la condición de personal funcionario de carrera de un cuerpo, agrupación profesional funcionarial o escala de la Administración de la Generalitat distinto de aquel en que esté clasificado el puesto a cubrir, procederá realizar un nombramiento provisional por mejora de empleo. En caso contrario, se formalizará un nombramiento de personal funcionario interino.
+
+No obstante lo previsto en el apartado anterior, cuando sea necesaria la cobertura de un puesto de trabajo que no corresponda a la categoría de entrada en un determinado cuerpo, agrupación profesional funcionarial o escala, y este no haya podido ser provisto por personal funcionario de carrera, tendrá preferencia su provisión por mejora de empleo al nombramiento de personal interino.
+
+Las bolsas de trabajo que se constituyan deberán ser objeto de actualización en los términos previstos en la orden de desarrollo.
+
+Las previsiones contenidas en este capítulo serán de aplicación a las bolsas de empleo temporal que se constituyan para proveer puestos de trabajo de naturaleza laboral, a excepción de las referencias a la mejora de empleo.
+
+Artículo 36. Comisión de seguimiento de las bolsas de empleo temporal
+
+Se constituirá, como órgano de participación, una comisión de seguimiento de las Bolsas de Empleo Temporal, adscrita a la dirección general competente en materia de función pública, integrada por una persona representante de cada organización sindical con representación en la Mesa Sectorial de Función Pública, y el mismo número de representantes de la administración, que será la encargada del seguimiento de la constitución y funcionamiento de las bolsas de empleo temporal.
+
+
+Artículo 37. Bolsas de empleo temporal en la administración local
+En el ámbito de la Administración local, las bolsas de empleo temporal se regirán por las normas de constitución y funcionamiento que se dicten por el órgano competente de la respectiva entidad local, previa negociación con las organizaciones sindicales en el marco de la respectiva mesa de negociación. En todo caso, las disposiciones de este decreto respecto a la constitución de las bolsas de empleo temporal, serán de aplicación supletoria a la administración local. 
+
+
+TÍTULO III Provisión de puestos de trabajo y movilidad
+CAPÍTULO I Provisión de puestos de trabajo mediante concurso
+Sección primera
+Procedimiento para la provisión de puestos de trabajo mediante concurso
+
+Artículo 38. Convocatorias de concursos
+
+La convocatoria de provisión de puestos de trabajo por concurso corresponde a la dirección general competente en materia de función pública, previa planificación de las necesidades existentes, y deberá publicarse en el Diari Oficial de la Generalitat Valenciana.
+
+Las convocatorias de concursos comprenderán todos los puestos de trabajo que no tengan titular, adscritos a un cuerpo, agrupación profesional funcionarial o escala. Se excluyen de esta previsión los puestos ocupados provisionalmente por empleadas públicas víctimas de violencia de género o por personal adscrito por motivos de salud de acuerdo con lo previsto en el capítulo III del título III de este decreto.
+
+No obstante lo anterior, dentro de un determinado cuerpo, agrupación profesional funcionarial o escala, los concursos podrán ser convocados por niveles competenciales o por consellerias u organismos concretos.
+
+Para garantizar la promoción profesional de las personas con diversidad funcional de carácter intelectual, se podrán realizar convocatorias dirigidas exclusivamente al personal con este tipo de diversidad funcional.
+
+El concurso para la provisión de puestos de trabajo podrá ser general o específico, según se determine en la relación de puestos de trabajo.
+
+Artículo 39. Contenido mínimo de las convocatorias
+
+Las bases de las convocatorias de concursos, deberán contener los siguientes datos: 
+
+- Número, denominación, retribuciones complementarias vinculadas al puesto de trabajo, así como su adscripción orgánica y localidad
+- Cuerpo, agrupación profesional funcionarial o escala, así como, en su caso, el resto de requisitos exigidos para su desempeño en la relación de puestos de trabajo
+- Plazo de presentación de solicitudes
+- Méritos a valorar y el baremo con arreglo al cual se puntuarán los mismos
+- Forma en que se dirimirán los casos de empates entre las personas concursantes
+- Sistema de valoración de los conocimientos, capacidades y aptitudes relacionados con las funciones específicas asignadas al puesto de trabajo convocado, cuando se trate de concurso específico
+- Puntuación mínima necesaria, en su caso, para obtener la adjudicación de las vacantes
+- Composición de la comisión de valoración
+- Fase de resultas, en su caso
+
+Las convocatorias para personal con diversidad funcional de carácter intelectual se regirán por unas bases diferenciadas y adaptadas a sus circunstancias.
+
+Artículo 40. Méritos en los concursos generales
+
+En las convocatorias de concursos generales se valorarán los siguientes méritos:
+a) Antigüedad y pertenencia al cuerpo.
+1.º Antigüedad en las distintas administraciones públicas, computándose a estos efectos los servicios que se hubieran prestado con anterioridad a la adquisición de la condición de personal funcionario de carrera.
+2.º Tiempo de servicios prestados desde el ingreso en el cuerpo, escala o agrupación profesional funcionarial en que esté clasificado el puesto objeto de la convocatoria.
+Si el puesto estuviera clasificado para más de un cuerpo, escala o agrupación profesional funcionarial de distinto grupo o subgrupo profesional, la valoración de los servicios prestados en cada uno de ellos, se determinará mediante la orden por la que se aprueben los baremos a que se refiere el artículo 44.
+b) Grado de desarrollo profesional y nivel competencial reconocidos.
+A estos efectos, solo se valorará el nivel competencial reconocido que se encuentre dentro del intervalo correspondiente al grupo o subgrupo profesional en que esté clasificado el cuerpo, escala o agrupación profesional funcionarial al que estén adscritos los puestos objeto de la convocatoria.
+c) Formación.
+1.º Posesión de titulaciones académicas oficiales de igual o superior nivel al exigido para el acceso al cuerpo o escala en que esté clasificado el puesto objeto de la convocatoria.
+A estos efectos, no se valorarán aquellas titulaciones que sirvieron para acceder a dicho cuerpo o escala.
+2.º Los cursos de formación y perfeccionamiento recibidos o impartidos con anterioridad a la fecha de publicación de la convocatoria, y que hayan sido convocados, gestionados u homologados por el Instituto Valenciano de Administración Pública, por centros de formación de personal empleado público o por las organizaciones sindicales u otros promotores dentro del marco de los acuerdos de formación para el empleo de las administraciones públicas, vigentes en el momento de su realización. 
+Asimismo, en los términos previstos en los baremos correspondientes, se podrán valorar otros títulos expedidos por las universidades, siempre que no hubieran servido para el acceso al cuerpo o escala al que esté adscrito el puesto objeto de la convocatoria, y no hayan sido valorados en el ordinal 1.º de este apartado c.
+3.º Conocimiento del valenciano, acreditado mediante las certificaciones expedidas, homologadas o convalidadas por la Junta Qualificadora de Coneixements de Valencià.
+4.º Conocimiento de idiomas comunitarios. A estos efectos, solo se tendrán en cuenta los títulos, diplomas y certificados expedidos por las escuelas oficiales de idiomas, o sus equivalentes, así como los títulos, diplomas y certificados expedidos por universidades y otras instituciones españolas y extranjeras, de conformidad con el sistema de reconocimiento de competencias en lenguas extranjeras que establezca la
+autoridad educativa correspondiente.
+
+El desempeño como personal funcionario de carrera de puestos de igual o superior nivel competencial al de los puestos convocados.
+
+Asimismo, podrá valorarse la participación en actividades o equipos de mejora de los servicios prestados a la ciudadanía por la Administración de la Generalitat, siempre que estos grupos o equipos estén formalmente constituidos y la selección de las y los participantes, sea por motivos objetivos o mediante un sistema abierto.
+
+En las convocatorias de concursos podrá establecerse una puntuación que, como máximo, podrá alcanzar la que se determine en las mismas para la antigüedad, para quienes tengan la condición de víctima del terrorismo o de amenazados, en los términos fijados en el artículo 35 de la Ley 29/2011, de 22 de septiembre, de reconocimiento y protección integral a las víctimas del terrorismo, siempre que se acredite que la obtención del puesto sea preciso para la consecución de los fines de protección y asistencia social integral de estas personas. Asimismo podrá preverse una puntuación para víctimas de violencia de género.
+
+Artículo 41. Puntuación de méritos en los concursos generales
+
+La máxima puntuación que pueda asignarse a una persona concursante por cada uno de los méritos recogidos en el apartado 1 del artículo anterior, no deberá ser nunca superior a un 35 por 100 de la puntuación máxima que puede obtener por todos los méritos puntuables.
+
+Los baremos con arreglo a los que se deben valorar los méritos determinarán la forma de resolver la convocatoria en caso de existencia de empate. Para ello se tendrán en cuenta, entre otros, criterios de género y diversidad funcional.
+
+Artículo 42. Méritos en los concursos específicos
+
+Los concursos específicos constarán de dos fases. En la primera se valorarán los méritos enunciados en el artículo 40 conforme a los criterios establecidos en el mismo.
+
+En la segunda fase se valorarán otros méritos específicos que se determinarán en la convocatoria, referentes a la experiencia obtenida anteriormente en otros organismos o puestos con determinadas funciones o niveles de responsabilidad, actividades científicas, docentes, formativas, de investigación y publicaciones, y en general, cualesquiera otros siempre que los mismos no hayan sido valorados en la primera fase y estén relacionados con los conocimientos, capacidades y aptitudes referidas a las características de los puestos convocados.
+
+Para su valoración, la convocatoria podrá incluir la realización de pruebas de carácter práctico, memorias, entrevistas u otros sistemas similares.
+
+
+Artículo 43. Puntuación de méritos en los concursos específicos 
+
+Los méritos de la primera fase de los concursos específicos se valorarán conforme a lo previsto en el artículo 41, sin que la puntuación de los méritos específicos que se valoren en la segunda fase pueda exceder del 45 por 100 de la máxima que puede obtenerse por todos los méritos puntuables.
+
+Artículo 44. Baremos
+
+La administración negociará con los representantes de las organizaciones sindicales unos baremos adecuados a las características de cada conjunto homogéneo de puestos de trabajo, que contendrán los méritos que serán tenidos en cuenta para cada puesto o grupo de puestos, de acuerdo con los criterios previstos en este decreto. Dichos baremos a los que deberán ajustarse las convocatorias, se aprobarán mediante orden de la conselleria que tenga atribuidas las competencias en materia de función pública.
+
+La convocatoria de puestos de trabajo que deban proveerse por el sistema de concurso específico se regirá, en su primera fase, por los baremos propios de este sistema previstos en el apartado anterior. Asimismo, serán objeto de negociación los criterios generales a que deba someterse la segunda fase de esta forma provisión.
+
+Artículo 45. Requisitos y condiciones de participación
+
+Podrá participar en los concursos el personal funcionario de carrera que reúna los requisitos determinados en la convocatoria en la fecha que termine el plazo de presentación de las solicitudes de participación, cualquiera que sea su situación administrativa, excepto el personal suspenso en firme mientras dure la suspensión; el personal que, por sanción de demérito, esté imposibilitado para participar en procedimientos de provisión de los puestos convocados, mientras dure la sanción y el personal excedente voluntario por interés particular durante el plazo legal obligatorio de permanencia en dicha situación, si es de aplicación.
+
+El personal funcionario que hubiera obtenido un puesto por concurso no podrá participar en un nuevo concurso hasta que haya transcurrido un año desde la toma de posesión en aquel, excepto en los supuestos previstos en el artículo 101.3 de la LOGFPV.
+
+Deberá participar con carácter forzoso en el concurso, el personal funcionario de carrera que pertenezca al cuerpo, escala o agrupación profesional funcionarial de los puestos convocados que esté en excedencia forzosa.
+
+La obligación de participar en el concurso por parte de este personal viene limitada a puestos de su localidad. En caso de no participar, será declarado en la situación de excedencia voluntaria por interés particular.
+
+Asimismo, el personal adscrito provisionalmente a alguno de los puestos convocados deberá solicitar, al menos, el puesto que ocupa. Si no concursara, quedará en la situación de excedencia voluntaria por interés particular.
+
+Si la persona concursante no resulta adjudicataria de alguno de los puestos convocados y el que ocupa provisionalmente fuera adjudicado en el concurso, se le adscribirá a un nuevo puesto, de acuerdo con los criterios fijados en la LOGFPV y este decreto.
+
+Por razones de convivencia familiar, cuando dos personas participantes, pudieran estar interesadas en las vacantes que se anuncien en un determinado concurso para determinados municipios, podrán condicionar sus peticiones al hecho de que ambas obtengan destino en los mismos, entendiéndose, en caso contrario, anulada la petición formulada por ambas. Quienes se acojan a esta petición condicional deberán concretarlo en su solicitud y acreditarlo debidamente en el expediente. 
+
+El personal funcionario que obtenga un puesto de trabajo por concurso no podrá desempeñar provisionalmente en comisión de servicios otro puesto de trabajo hasta que transcurra un año de permanencia en el mismo, salvo que se dé alguno de los supuestos previstos en el apartado 3 del citado artículo 101 de la LOGFPV.
+
+Artículo 46. Presentación electrónica de solicitudes de participación
+
+En el ámbito de la Administración de la Generalitat, la presentación electrónica de las solicitudes de participación en los concursos, tendrá carácter obligatorio para todo el personal funcionario de carrera de la Administración de la Generalitat incluido en el ámbito de aplicación de este decreto, por lo que se presentarán a través de la sede electrónica de la Generalitat en el plazo de quince días hábiles contados desde el día siguiente a la publicación de la convocatoria en el Diari Oficial de la Generalitat Valenciana.
+
+Las solicitudes deberán relacionar, en todo caso, los méritos que se alegan indicando si se encuentran o no inscritos en el Registro de Personal de la administración convocante, presentando declaración responsable en caso de que no lo estén. Asimismo, se hará constar por orden de preferencia los puestos de trabajo incluidos en la convocatoria que se soliciten, así como, en su caso, la opción de participar en la fase de resultas.
+
+En el caso de que la documentación requerida no haya sido elaborada o no haya sido aportada anteriormente a cualquier administración, deberá aportarla en el plazo previsto en este apartado.
+
+
+Artículo 47. Acreditación de méritos alegados
+
+Los méritos alegados se valorarán previa comprobación con los datos que consten en el registro de personal.
+
+Para la adjudicación provisional de puestos, los méritos alegados que no estuvieran inscritos en el registro de personal de la administración convocante se valorarán de acuerdo con la declaración responsable del concursante.
+
+Para la adjudicación definitiva, los méritos que no estuvieran inscritos en el registro de personal de la administración convocante serán acreditados en la forma prevista en el artículo 49 de este decreto.
+
+No obstante, la comisión de valoración podrá solicitar a las personas participantes, en cualquier momento del procedimiento, aclaración sobre la documentación acreditativa de los mismos, con el objeto de comprobar su existencia o aclarar dudas sobre su interpretación.
+
+La no aportación de dicha documentación en el plazo que se indique caso de ser necesario, o la constatación por parte de la administración, a la vista de la documentación aportada, de la existencia de falsedades en los méritos alegados supondrá la exclusión de los méritos afectados en la valoración del concurso, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiera lugar.
+
+Artículo 48. Comisiones de valoración
+
+Las comisiones de valoración son órganos colegiados de carácter técnico, que tienen como misión comprobar y evaluar los méritos del personal concursante con arreglo a lo dispuesto en la convocatoria, este decreto y demás normativa que le sea aplicable.
+
+Las personas integrantes de las comisiones de valoración serán nombrados por la persona titular de la conselleria competente en materia de función pública de entre personal funcionario de carrera que tenga una clasificación profesional igual o superior a la requerida para los puestos de trabajo convocados, debiendo tener, al menos la mitad más una, una titulación correspondiente a la misma área de conocimientos de los puestos convocados. Si se trata de convocatoria de puestos laborales, dichos miembros podrán ser asimismo personal laboral, siempre y cuando cumplan los requisitos previstos en este artículo.
+
+Las personas miembros de la comisión de valoración serán nombradas en número impar de titulares, no inferior a cinco ni superior a once, con sus respectivas suplentes, atendiendo a criterios de paridad.
+
+Para el mejor cumplimiento de su misión, las comisiones de valoración podrán solicitar y obtener el asesoramiento de especialistas cuando lo estimen necesario o conveniente, quienes se limitarán a prestar su colaboración en el ámbito de sus respectivas especialidades.
+
+La administración facilitará las tareas de la comisión, proporcionándoles todo el apoyo administrativo que precisen para la resolución del concurso.
+
+ Las comisiones de valoración tendrán la consideración de órganos colegiados de la administración y, como tales, estarán sometidos a las normas contenidas en la normativa de régimen jurídico y procedimiento administrativo común de las administraciones públicas que resulte de aplicación. Las causas generales de abstención y recusación contenidas en la mencionada ley, serán de aplicación tanto a los miembros como a las personas asesoras de la comisión.
+
+Las comisiones de valoración levantarán acta de todas sus sesio nes, en las que constará de forma clara y detallada los criterios de valoración de méritos, así como de deliberación de los asuntos de su competencia, y en las que se expondrá con claridad suficiente la motivación de sus decisiones.
+
+Las resoluciones de las comisiones de valoración vinculan a las mismas y a la administración que solo podrá revisarlas por los medios y procedimientos previstos en la normativa reguladora del procedimiento administrativo común de las administraciones públicas.
+
+
+Artículo 49. Desarrollo de los concursos
+
+Finalizado el plazo de presentación de solicitudes, la dirección general competente en materia de función pública, tras la comprobación del cumplimiento de los requisitos de participación, proporcionará a la comisión de valoración las solicitudes presentadas con indicación de aquellos solicitantes que no cumplan los requisitos de participación.
+
+Recibida la documentación anterior, la comisión de valoración procederá a evaluar los méritos del personal concursante, y formulará una propuesta de adjudicación provisional que incluirá:
+- Una primera relación comprensiva de la totalidad del personal concursante, ordenada de mayor a menor puntuación total, con indicación para cada uno de ellos de la obtenida en cada uno de los apartados del baremo, así como, en su caso, el mérito o méritos alegados que deban ser acreditados documentalmente por no estar inscritos en el registro de personal de la administración convocante. Asimismo, en dicha relación se incluirá, en su caso, el puesto adjudicado a cada participante, teniendo en cuenta el orden de preferencia que hubieran hecho constar en su solicitud.
+- Una segunda relación de las personas que deban ser excluidas del concurso, con indicación de la causa que motive su exclusión. 
+
+Dichas relaciones serán expuestas al público en las sedes físicas o electrónicas designadas en la convocatoria, durante un plazo de diez días hábiles, en el que las personas concursantes podrán formular las reclamaciones que consideren oportunas.
+
+Dentro del mismo plazo, las personas adjudicatarias deberán aportar la documentación acreditativa de los méritos alegados cuando ello sea preceptivo de conformidad con la normativa vigente.
+
+Transcurrido el plazo previsto en el apartado anterior y resueltas, en su caso, las reclamaciones formuladas, la comisión elevará una propuesta de adjudicación definitiva a la dirección general competente en materia de función pública.
+
+Si como consecuencia de la documentación y las alegaciones presentadas se hubieran visto modificadas las relaciones previstas en el apartado anterior, la comisión, antes de elevar la propuesta, realizará a las nuevas personas adjudicatarias los requerimientos de subsanación que procedan.
+
+En el plazo máximo de seis meses contados a partir del día siguiente al de la publicación de la convocatoria, la dirección general competente en materia de función pública dictará la resolución aprobando la relación definitiva de adjudicación de puestos y la publicará en el Diari Oficial de la Generalitat Valenciana, sirviendo dicha publicación de notificación a las personas interesadas.
+
+Si en el desarrollo de un concurso para la provisión de puestos de trabajo de la Administración de la Generalitat, se suscitaran dudas a la comisión de valoración respecto a la compatibilidad funcional de alguna persona participante que tenga reconocido un grado de discapacidad, se solicitará dictamen de la Comisión de Estudio de la Diversidad Funcional u órgano competente con funciones análogas, que deberá especificar las causas por las que no le deba ser adjudicado el puesto o las medidas necesarias para su adaptación. En tal caso, la persona podrá participar condicionadamente en el concurso, quedando en suspenso el transcurso del plazo máximo para dictar la resolución que apruebe la relación definitiva hasta la recepción del dictamen.
+
+Artículo 50. Desistimiento y renuncia
+
+El personal que participe voluntariamente en un concurso de méritos podrá desistir de la totalidad de la solicitud de participación en el mismo, antes de que finalice el plazo de presentación de solicitudes, salvo que en la convocatoria se indique otra fecha posterior.
+
+No surtirá efecto alguno la renuncia al puesto adjudicado por el concurso salvo que, antes de finalizar el plazo de toma de posesión, se obtenga otro puesto por resolución de una convocatoria concurrente, tanto de concurso como de libre designación. En este caso, dentro de dicho plazo se deberá optar por uno de los puestos de trabajo adjudicados, entendiéndose que renuncia al resto de puestos adjudicados en las convocatorias concurrentes.
+
+A estos efectos, se entiende que dos convocatorias son concurrentes cuando en la fecha de finalización del plazo de presentación de solicitudes de participación de una de ellas, no se hubiera publicado la resolución de adjudicación de la otra.
+
+Asimismo, podrá desistirse de la participación en el concurso o renunciarse al puesto adjudicado cuando transcurran más de nueve meses entre la convocatoria y la resolución del concurso.
+
+
+Artículo 51. Fase de adjudicación de resultas
+
+Atendiendo a las circunstancias que concurran en una determinada convocatoria, se podrá prever una segunda fase de adjudicación o resultas, integrada por aquellos puestos de trabajo de similares características a las de los puestos ofertados, que resulten vacantes como consecuencia de que su titular haya obtenido otro destino en el concurso.
+
+Podrán participar en la fase de resultas quienes habiendo participado en la primera fase del concurso no hubieran resultado adjudicatarios de ningún puesto, siempre que así lo hubieran hecho constar en su solicitud.
+
+Asimismo, en la solicitud de participación se podrá optar por concurrir solo a la fase de resultas prevista en la convocatoria.
+
+De las resultas no podrán formar parte aquellos puestos en los que exista un impedimento legal para su adjudicación.
+
+Artículo 52. Toma de posesión
+
+En las resoluciones de adjudicación de los concursos se indicará la fecha en que deberá efectuarse el cese en los puestos de trabajo que estuvieran desempeñando las personas adjudicatarias, así como la fecha de toma de posesión de los destinos adjudicados, salvo casos de fuerza
+mayor debidamente justificados.
+
+No obstante lo previsto en el apartado anterior, la conselleria u organismo donde preste servicios la persona interesada podrá solicitar a la autoridad convocante el aplazamiento del cese por necesidades del servicio hasta un máximo de 20 días hábiles. Dicha solicitud será resuelta por la dirección general competente en materia de función pública oída la conselleria u organismo de destino, que establecerá la fecha de toma de posesión. 
+
+En los supuestos de nuevo ingreso, o de reingreso desde la situación de excedencia voluntaria, se dispondrá de un mes de plazo para tomar posesión de su destino. Si se hiciera uso de dicho plazo, durante el mismo no se devengará retribución alguna.
+
+Cuando se establezca un plazo de toma de posesión empezará a contarse a partir del día siguiente al del cese.
+ 
+En ningún caso el cambio de puesto de trabajo con motivo de la participación en un concurso o convocatoria por libre designación podrá comportar el percibo de indemnización de ningún tipo.
+
+
+
+Sección segunda
+Remoción del puesto de trabajo
+
+
+Artículo 53. Causas de remoción
+
+Procederá el inicio de expediente contradictorio de remoción del personal funcionario de carrera titular de un puesto de trabajo obtenido por el sistema de concurso, cuando concurra alguna de las causas previstas en la LOGFPV.
+
+
+Artículo 54. Procedimiento de remoción
+
+Corresponde el inicio y la instrucción del procedimiento contradictorio al titular de la subsecretaría o del órgano que ostente la jefatura superior de personal en el organismo al que esté adscrito el puesto.
+
+El acuerdo de inicio deberá formalizarse con el contenido mínimo siguiente:
+- La causa que motiva la incoación del procedimiento. Cuando esta se deba a la supresión del puesto de trabajo de que es titular la persona afectada o a una alteración sustancial de su contenido que modifique los supuestos que sirvieron de base a la convocatoria, se hará referencia expresa a la norma organizativa y, en su caso, resolución que amortice el puesto o modifique su clasificación.
+- Posibilidad de que la persona afectada acuerde con la administración la finalización del procedimiento y su adscripción provisional a otro puesto de trabajo.
+- Indicación del derecho a formular alegaciones y de los plazos para su ejercicio.
+
+El acuerdo de iniciación se notificará a la persona afectada que dispondrá de un plazo de diez hábiles para formular alegaciones y aportar cuantas pruebas y documentos estime pertinentes.
+
+Transcurrido el plazo señalado en el apartado anterior, el acuerdo de iniciación junto con las alegaciones y documentos aportados en su caso, será trasladado a la Junta de Personal correspondiente o, caso de no existir esta, al delegado o delegada de personal, que dispondrá de un plazo de quince días hábiles para manifestar cuanto tenga por conveniente.
+
+Finalizado el plazo para que la Junta de Personal o, caso de no existir esta, el delegado o delegada de personal, presente alegaciones, e inmediatamente antes de que el órgano instructor redacte propuesta de resolución debidamente motivada, se pondrán nuevamente de manifiesto las actuaciones a la persona interesada para que, en el plazo de 10 días hábiles, formule las alegaciones y aporte los documentos que estime pertinentes. Se podrá prescindir de este nuevo trámite de audiencia si no se hubieran presentado alegaciones en este plazo concedido al efecto.
+
+Finalizada la instrucción se formulará propuesta de resolución debidamente motivada que se remitirá, junto con las actuaciones practicadas, al órgano competente para resolver.
+
+La competencia para resolver el procedimiento de remoción corresponde al órgano que realizó el nombramiento, el cual deberá resolver y notificar la resolución en el plazo de seis meses.
+
+En todas las fases del procedimiento, el personal afectado podrá ser asistido por su sección sindical o persona que designe al efecto.
+
+Artículo 55. Remoción como consecuencia de la supresión del puesto
+de trabajo
+
+Cuando proceda el inicio de expediente de remoción como consecuencia de la supresión del puesto de trabajo, la resolución que declare la amortización del mismo demorará su eficacia a la fecha de terminación del procedimiento de remoción, declarándose entre tanto el puesto en situación de amortizable.
+
+Artículo 56. Acuerdos de remoción
+
+En cualquier momento de la tramitación del procedimiento de remoción, la administración y la persona afectada podrán acordar su finaliza
+
+ción y la adscripción provisional de esta a otro puesto de trabajo.
+Artículo 57. Efectos de la remoción
+
+El personal funcionario removido de su puesto de trabajo será adscrito provisionalmente a otro puesto de trabajo con las condiciones y garantías retributivas previstas en el artículo 103 de la LOGFPV.
+
+Cuando la remoción traiga causa de la alteración del contenido del puesto o su supresión, será de aplicación la garantía retributiva establecida en el párrafo segundo del artículo 64.2 de este decreto.
+
+
+CAPÍTULO II
+Provisión de puestos de trabajo mediante libre designación
+Artículo 58. Libre designación
+
+El sistema de libre designación consiste en la apreciación discrecional por el órgano competente de la idoneidad de las personas candidatas en relación con los requisitos exigidos para el desempeño del puesto.
+
+Únicamente podrán proveerse por este sistema, los puestos de trabajo previstos en el artículo 102.2 de la LOGFPV.
+
+Artículo 59. Contenido de la convocatoria
+La convocatoria para la provisión de puestos de trabajo contendrá los datos siguientes:
+- Número, denominación, retribuciones complementarias vinculadas al puesto de trabajo, así como adscripción orgánica y localidad.
+- Cuerpo o escala de adscripción, así como, en su caso, el resto de requisitos exigidos para su desempeño, según la relación de puestos de trabajo.
+- Plazo de presentación de solicitudes, sede electrónica y autoridad u órgano al que deben dirigirse.
+
+Artículo 60. Órgano convocante y publicación
+
+La convocatoria de provisión de puestos de trabajo por libre designación se efectuará por la dirección general competente en materia de función pública, por propia iniciativa o a propuesta de las consellerias u organismos donde se hallen adscritos y deberá publicarse en el Diari Oficial de la Generalitat Valenciana.
+
+Artículo 61. Presentación electrónica de solicitudes de participación
+
+En el ámbito de la Administración de la Generalitat, la presentación electrónica de las solicitudes de participación en las convocatorias de libre designación, tendrá carácter obligatorio para todo el personal funcionario de carrera de la Administración de la Generalitat incluido en el ámbito de aplicación de este decreto, por lo que se presentarán, dirigidas a la dirección general competente en materia de función pública, a través de la sede electrónica de la Generalitat en el plazo de 10 días naturales contados desde el día siguiente a la publicación de la convocatoria en el Diari Oficial de la Generalitat Valenciana.
+
+La solicitud deberá ir acompañada de un historial profesional de competencias y capacidades del personal aspirante.
+
+Para poder participar en las convocatorias de libre designación, no se exigirá un periodo mínimo de permanencia en el puesto de trabajo obtenido con destino definitivo.
+
+
+Artículo 62. Propuesta de adjudicación y resolución
+
+En la Administración de la Generalitat, la dirección general competente en materia de función pública comprobará el cumplimiento de los requisitos de participación y, si procede, requerirá a las personas interesadas para que en un plazo de diez días hábiles realicen las subsanaciones que procedan. Dicha dirección general emitirá informe preceptivo y vinculante en relación con las solicitudes que cumplen los requisitos y lo remitirá a la conselleria u organismo en que radique el puesto convocado.
+
+La conselleria u organismo proponente resolverá conforme a lo previsto en la LOGFPV.
+
+Las resoluciones de nombramiento se motivarán con referencia al cumplimiento por la persona elegida de los requisitos exigidos en la convocatoria, las circunstancias y aptitudes profesionales que se han tenido en cuenta para considerar que resulta la más idónea para el desempeño del puesto de trabajo, así como a la competencia para adoptarla, y se remitirán a la dirección general competente en materia de función pública para su publicación en el Diari Oficial de la Generalitat Valenciana.
+
+Dicha publicación servirá de notificación a todas las personas interesadas, a efectos de posibles impugnaciones o recursos.
+
+Artículo 63. Toma de posesión
+En la resolución de adjudicación se indicará el plazo de toma de posesión, siendo de aplicación las previsiones contenidas en el artículo 52.5 de este decreto.
+
+Artículo 64. Ceses
+
+El personal designado para ocupar puestos de trabajo por el procedimiento de libre designación podrá ser cesado con carácter discrecional por quien ostente la titularidad de la conselleria a la que esté adscrito el puesto de trabajo. La motivación de la resolución de cese se referirá a la competencia para adoptarla.
+
+De dicha resolución se dará traslado a la dirección general competente en materia de función pública dentro de los tres días siguientes a la fecha de cese.
+
+El personal funcionario de carrera de la Administración de la Generalitat cesado en un puesto de libre designación será adscrito, hasta tanto no obtenga otro con carácter definitivo, a un puesto de trabajo para el que reúna los requisitos, situado en la misma localidad o en otra distinta si así fuera solicitado por la persona interesada, y cuyo componente competencial no sea inferior en más de dos niveles al que tuviere reconocido.
+
+En todo caso, el personal funcionario de carrera de la Administración de la Generalitat tendrá derecho a percibir la cuantía asignada al nivel competencial que tenga reconocido.
+
+En tanto no se produzca la adscripción a un puesto en la forma que se determina en el apartado anterior, el personal funcionario quedará a disposición del órgano que ostente la jefatura superior del personal donde esté adscrito el puesto en el que cesa, que deberá atribuirle el desempeño provisional de funciones correspondientes a su cuerpo, agrupación profesional funcionarial o escala, y continuará percibiendo, hasta que sea nombrado para desempeñar otro puesto de trabajo y durante un plazo máximo de un mes, idénticas retribuciones a las que percibía hasta el referido cese, con excepción de las retribuciones complementarias previstas en los apartados c y d del artículo 76 de la LOGFPV.
+
+El personal que reingrese al servicio activo procedente de la situación administrativa de servicios especiales, cuando hubiera des empeñado con carácter inmediato a dicha situación un puesto por libre designación durante al menos dos años con destino definitivo, tendrá las mismas garantías establecidas en el apartado 2 de este artículo.
+
+CAPÍTULO III
+Adaptación o cambio de puesto por motivos de salud en la
+Administración de la Generalitat
+Artículo 65. Cambio de puesto por motivos de salud
+
+Podrá adscribirse al personal funcionario de carrera que lo solicite a puestos de trabajo, tanto en la misma como en distinta unidad administrativa o localidad, por motivos de especial sensibilidad a los riesgos derivados del puesto de trabajo actual o disminución manifiesta de la capacidad para el desempeño de las tareas asignadas al mismo, derivados de enfermedad física o psíquica, que impliquen un rendimiento insuficiente para el desempeño del puesto que no comporte inhibición, y que impidan realizar con eficacia dichas tareas.
+
+Este sistema de provisión de puestos tendrá preferencia sobre los nombramientos de personal funcionario interino o mejora de empleo.
+
+Artículo 66. Normas generales de procedimiento
+
+La solicitud de la persona interesada será presentada ante la dirección general competente en materia de función pública, de la que dará traslado al servicio competente en materia de prevención de riesgos laborales para que emita informe en el plazo de 20 días sobre la procedencia de adaptación del puesto o, en caso de no ser posible, la necesidad de cambio de puesto de trabajo de acuerdo con el procedimiento previsto en esta sección.
+
+Asimismo se remitirá copia de la solicitud a la conselleria u organismo al que esté adscrito el puesto, así como al órgano paritario de seguridad y salud correspondiente, con indicación de la fecha de petición del informe señalado en el párrafo anterior.
+
+Si el servicio competente en materia de prevención de riesgos laborales considera que no procede ninguna de las medidas de adaptación o cambio de puesto de trabajo previstas en esta sección, emitirá informe en este sentido del que dará traslado a la dirección general competente en materia de función pública para que dicte la resolución que corresponda.
+
+El hecho de que se esté tramitando a la persona interesada expediente de incapacidad no impedirá la tramitación del procedimiento de cambio de puesto de trabajo, pero si recayera resolución declarando la incapacidad laboral permanente, se dictará resolución dando por finalizado el procedimiento, o dejando sin efecto la adaptación o cambio de puesto de trabajo que se hubiera efectuado.
+
+El procedimiento de adaptación o cambio de puesto de trabajo por motivos de salud, que se tramitará con carácter preferente, deberá resolverse en el plazo máximo de tres meses, contados desde la fecha en que la solicitud tenga entrada en el órgano competente para resolver.
+
+Transcurrido dicho plazo sin haberse notificado resolución expresa, la solicitud podrá entenderse desestimada.
+
+El servicio competente en materia de prevención de riesgos laborales proporcionará información semestral al órgano paritario de seguridad y salud correspondiente, sobre los expedientes que se tramiten desagregados los datos con referencia al cuerpo, escala o agrupación profesional, género y edad. Asimismo, con carácter semestral, será informada la Comisión Sectorial de Seguridad y Salud en el Trabajo de los expedientes tramitados.
+
+Artículo 67. Adaptación del puesto de trabajo sin cambio de tareas
+
+En el supuesto de que el servicio competente en materia de prevención de riesgos laborales considere que la salud de la persona afectada quedará protegida con una adaptación de su puesto de trabajo, realizará las comprobaciones que estime oportunas con la conselleria u organismo al que esté adscrito el puesto con el objeto de determinar si es o no posible dicha adaptación y, caso de serlo, el contenido de la misma.
+
+Una vez realizadas las comprobaciones oportunas, si la propuesta fuera de adaptación del puesto sin cambio de tareas, se remitirá informe al órgano paritario de seguridad y salud que corresponda y a la conselleria u organismo correspondiente, en el que deberá constar el tipo de medidas a adoptar, a fin de que se proceda a dictar resolución y dar cumplimiento por el órgano competente en la materia.
+
+
+Artículo 68. Adaptación del puesto de trabajo con cambio de tareas 
+
+En el supuesto de que la adaptación conllevara un cambio de tareas del puesto de trabajo, una vez oída la persona interesada, se dará traslado del informe de prevención de riesgos laborales a la subsecretaría u órgano competente en materia de personal para que, de conformidad con lo previsto en el mismo, se dicte resolución por la que se asignen las nuevas tareas a la persona afectada.
+
+A tal efecto, el informe indicará de forma detallada tanto las tareas propias de su puesto de trabajo que no resultan compatibles con su estado de salud como aquellas que sí podría desempeñar.
+
+Artículo 69. Adscripción provisional a un puesto de trabajo por moti-
+vos de salud
+
+En el caso de que no sea posible la adaptación del puesto, el servicio competente en materia de prevención de riesgos laborales emitirá informe que será remitido a la unidad competente en materia de provisión de puestos de trabajo, en el que determinará este extremo e indicará la procedencia de un cambio de puesto de trabajo. A tal efecto deberán indicarse las características que debe reunir el nuevo puesto atendiendo a la patología que conste en el informe médico, siempre que no imposibiliten el ejercicio de sus tareas.
+
+Recibido el informe, se estudiará coordinadamente con la unidad competente en materia de prevención de riesgos laborales las vacantes existentes que puedan ser compatibles con el estado de salud de la persona afectada.
+
+Determinado el puesto compatible, se solicitará informe no vinculante de la conselleria u organismo afectado que, en el plazo de 10 días hábiles, deberá pronunciarse sobre la viabilidad del cambio y, en su caso, su incidencia en el funcionamiento del servicio.
+
+A la vista de los informes previstos en los apartados anteriores, y previa audiencia de la persona afectada, la dirección general competente en materia de función pública dictará resolución adscribiendo provisionalmente a la persona interesada a un puesto compatible con su estado de salud, de la que se dará traslado al órgano paritario de seguridad y salud laboral.
+
+Artículo 70. Criterios para la asignación de puesto
+
+La asignación del puesto en caso de cambio de adscripción, se llevará a cabo de acuerdo con los siguientes criterios:
+
+La adscripción se hará a un puesto de trabajo situado en la misma localidad de destino, y solo si no fuera posible se asignará un puesto en localidad distinta, previa aceptación de la persona interesada.
+
+Se realizará a un puesto del cuerpo, agrupación profesional funcionarial o escala del puesto de procedencia, salvo lo dispuesto en la disposición adicional quinta de este decreto.
+
+El cambio no puede suponer incremento retributivo, salvo cuando ello se deba a cambio de dedicación horaria. La merma de retribuciones por cualquier causa deberá ser expresamente aceptada por la persona interesada.
+
+La persona interesada debe reunir los requisitos del puesto y este deberá encontrarse vacante y sin reserva.
+
+Artículo 71. Adscripción definitiva de puesto de trabajo por motivos
+de salud
+
+Transcurridos dos años desde la fecha de adscripción a otro puesto, y previo informe del servicio competente en materia de prevención de riesgos laborales, la dirección general con competencias en materia de función pública resolverá la adscripción definitiva a dicho puesto cuando la persona interesada ocupara con tal carácter su puesto de origen.
+
+El personal funcionario adscrito con destino definitivo a un puesto por motivos de salud, deberá permanecer un mínimo de un año en el puesto de trabajo para poder participar en un concurso de provisión de puestos, excepto en los supuestos previstos en el artículo 101.3 de la LOGFPV.
+
+Artículo 72. Cambio de puesto del personal funcionario interino
+
+El cambio de puesto del personal funcionario interino por motivos de salud se realizará mediante un nuevo nombramiento de personal funcionario interino, siempre que concurran los siguientes requisitos:
+- Existencia de puesto vacante del cuerpo, agrupación profesional funcionarial o escala, salvo lo dispuesto en la disposición adicional quinta, con unas retribuciones complementarias iguales o inferiores a las del puesto de procedencia, que sea de necesaria cobertura, debidamente autorizada por la dirección general competente en materia de presupuestos y gastos.
+- Cumplimiento por parte de la persona interesada de los requisitos exigidos para el desempeño del puesto.
+- Informe previo del servicio competente en materia de prevención de riesgos laborales en el sentido indicado en los artículos 66 y 69 de este decreto
+
+Este supuesto de movilidad será de aplicación al personal laboral temporal en los términos previstos por la legislación laboral, las demás normas convencionalmente aplicables y supletoriamente, por lo previsto en este decreto.
+Artículo 73. Evaluaciones del servicio competente en materia de pre-
+vención
+
+El servicio competente en materia de prevención de riesgos laborales realizará revisiones cuando lo considere conveniente, de oficio o a solicitud de la persona interesada, con el objeto de comprobar si se mantienen las mismas circunstancias que motivaron la adaptación o cambio de puesto de trabajo, debiendo pronunciarse en los mismos términos previstos en los artículos anteriores.
+
+CAPÍTULO IV
+Otros sistemas de provisión de puestos de trabajo
+Artículo 74. Comisión de servicios
+
+Las comisiones de servicios procederán en cualquiera de los
+supuestos previstos en el apartado 1 del artículo 104 de la LOGFPV.
+
+En todo caso, para el desempeño en comisión de servicios de un puesto de trabajo, el personal funcionario deberá pertenecer al mismo cuerpo, agrupación profesional funcionarial o escala, salvo lo dispuesto en la disposición adicional quinta, y reunir los requisitos de aquel reflejados en la correspondiente relación de puestos de trabajo.
+
+En la Administración de la Generalitat, las comisiones de servi cios serán resueltas por la dirección general competente en materia de función pública a petición de la conselleria u organismo que pretenda cubrir un puesto por este procedimiento, previo informe favorable, en su caso, de la conselleria u organismo al que esté adscrito el puesto del que sea titular la persona propuesta, y con la conformidad de esta.
+
+Tanto la propuesta de adscripción en comisión de servicios como la de su revocación deberá ser motivada.
+
+En la administración local, las comisiones de servicios de puestos de trabajo entre entidades locales, se iniciarán con la petición de la entidad local de destino interesada, dirigida a la entidad local de origen.
+
+Se resolverán por el órgano competente de la respectiva entidad local de destino interesada, con la conformidad de la entidad local de origen donde la persona funcionaria preste sus servicios. En todo caso, deberá constar en el expediente la conformidad de la persona interesada, así como el cumplimiento de los requisitos previstos en este decreto.
+
+En el supuesto de comisiones de servicios en el ámbito de una misma administración local, el expediente se resolverá por la alcaldía-presidencia con la conformidad expresa de la persona interesada.
+
+No se podrá permanecer más de dos años en comisión de servicios en puestos de trabajo no reservados legalmente, cuya forma de provisión sea el de concurso de méritos.
+
+Los puestos de trabajo cubiertos temporalmente de este modo, serán incluidos, en su caso, en la siguiente convocatoria de provisión de puestos de iguales o similares características, salvo que ello lo impidan razones de orden legal o reglamentario, o por encontrarse pendientes del resultado de un procedimiento judicial.
+
+Si la forma de provisión de los puestos es la de libre designación, no se podrá permanecer en comisión de servicios más de seis meses. En este supuesto, la solicitud de comisión de servicios deberá acompañarse simultáneamente de la petición de convocatoria del puesto, salvo que exista un impedimento legal que impida su convocatoria pública, en cuyo caso se procederá a la misma, de forma inmediata, una vez desaparezca dicho impedimento.
+
+Resuelta la correspondiente convocatoria, si esta se declara desierta o la persona que ocupa el puesto en comisión de servicios no participa, no podrá continuar desempeñando el puesto mediante esta forma de provisión.
+
+A la persona en comisión de servicios se le reservará el puesto de trabajo de origen si lo hubiera obtenido por concurso, y percibirá las retribuciones del puesto en el que esté comisionada con cargo a las consignaciones presupuestarias correspondientes al mismo.
+
+Las comisiones de servicios finalizarán por la provisión definitiva del puesto, por la reincorporación de la persona titular si estuviesen sujetos a reserva legal, por el transcurso del tiempo en su caso establecido, por renuncia del personal comisionado o por revocación de la comisión.
+
+En la Administración de la Generalitat, la renuncia a la comisión de servicios deberá formalizarse por escrito ante la dirección general competente en materia de función pública y se comunicará por la persona interesada al órgano competente en materia de personal de la conselleria u organismo al que esté adscrito el puesto del que sea titular, con una antelación mínima de quince días a la fecha de efectividad señalada por la persona interesada. De no ser así, la renuncia tendrá efectos desde la fecha que determine la resolución de la dirección general.
+
+El personal funcionario que obtenga un puesto de trabajo por concurso no podrá desempeñar en comisión de servicios otro puesto de trabajo hasta que transcurra un año de permanencia en el mismo, salvo que se dé alguno de los supuestos previstos en el artículo 101.3 de la LOGFPV.
+
+El personal funcionario titular de un puesto obtenido por el sistema de libre designación que hubiera cesado, no podrá ser adscrito en comisión de servicios en tanto no obtenga otro puesto por concurso.
+
+Artículo 75. Adscripción provisional
+
+La adscripción provisional procedente en cualquiera de los supuestos previstos en la LOGFPV y en este decreto, será resuelta por la dirección general competente en materia de función pública, debiendo ser comunicada al órgano que disponga de la vacante, con carácter previo a la incorporación al puesto de la persona interesada.
+
+En todo caso, la adscripción provisional a puestos de trabajo cuya forma de provisión sea la de libre designación se realizará a propuesta de la persona titular de la conselleria u organismo autónomo a que esté adscrito el puesto de trabajo.
+
+Para el desempeño en adscripción provisional de un puesto de trabajo, el personal funcionario designado deberá pertenecer al mismo cuerpo o agrupación profesional funcionarial o escala, salvo lo dispuesto en la disposición adicional quinta, y reunir los requisitos de aquel reflejados en la correspondiente relación de puestos de trabajo.
+
+Una vez realizada la adscripción provisional a un puesto de trabajo en los supuestos de cese por libre designación o remoción de un puesto obtenido por concurso, y mientras la persona funcionaria no obtenga destino definitivo, únicamente podrá ser adscrita provisionalmente a otro puesto cuando se trate de asignarle uno con un componente competencial que no sea inferior en más de dos niveles al que tuviere reconocido, o por razones organizativas debidamente justificadas, siendo de aplicación, en su caso, la garantía del componente de desempeño del puesto de trabajo regulada en la disposición transitoria octava de este decreto.
+
+El puesto cuya forma de provisión sea el concurso, salvo que esté sujeto a reserva legal, se convocará para su provisión definitiva y el personal adscrito tendrá obligación de participar en la convocatoria, de conformidad con lo dispuesto en el artículo 45.4 de este decreto. 
+
+Los puestos cuya forma de provisión sea la libre designación, deberán ser convocados en el plazo máximo de seis meses desde que se hayan provisto dichos puestos por adscripción provisional, salvo que exista un impedimento legal que impida su convocatoria pública, en cuyo caso se procederá a la misma, de forma inmediata, una vez desaparezca dicho impedimento.
+
+La persona que ocupara un puesto de trabajo en adscripción provisional cuya provisión sea la libre designación no podrá continuar desempeñándolo si, habiendo participado en la correspondiente convocatoria para su provisión definitiva, esta se declara desierta.
+
+La dirección general competente en materia de función pública procederá a su adscripción provisional a otro puesto, de acuerdo con los criterios fijados en la ley y en este reglamento.
+En el supuesto de que la persona adscrita provisionalmente en un puesto de trabajo cuya provisión sea la libre designación no participara en la correspondiente convocatoria para su provisión definitiva, quedará en excedencia voluntaria por interés particular, de acuerdo con lo dispuesto en el artículo 105.5 de la LOGFPV.
+
+
+Artículo 76. Permuta
+
+En la Administración de la Generalitat, la permuta de destino entre dos personas funcionarias de carrera, podrá ser autorizada por la dirección general competente en materia de función pública, a instancia de las personas interesadas y previo informe favorable de las consellerias u organismos afectados, siempre y cuando concurran las siguientes circunstancias:
+
+-  Que las personas que lo solicitan estén en situación de servicio activo y sean titulares de los puestos de la Administración de la Generalitat obtenidos por concurso, desde los que se pretende permutar.
+- Que la gestión de los puestos corresponda a la conselleria competente en materia de función pública.
+- Que los puestos de trabajo sean de la misma naturaleza, pertenezcan al mismo cuerpo, agrupación profesional funcionarial o escala, salvo lo dispuesto en la disposición adicional quinta, y con los mismos requisitos, forma de provisión y retribuciones. A estos efectos, en lo que se refiere a las retribuciones, no se tendrá en cuenta el componente de desempeño del complemento del puesto de trabajo.
+- Que los puestos se encuentren ubicados en distinta localidad.
+- Que los puestos no tengan el rango de jefatura o equivalente, según disponga la normativa reglamentaria que regule la clasificación de puestos de trabajo de la Administración de la Generalitat.
+
+No podrá autorizarse la permuta en los siguientes supuestos:
+
+- Cuando ya se hubiera autorizado otra en favor de las mismas personas en los diez años anteriores.
+- Cuando la persona interesada hubiera solicitado su participación en un concurso de méritos pendiente de resolución.
+- Antes de que transcurra un año desde la toma de posesión de la persona interesada en el puesto de trabajo obtenido por concurso, salvo que se dé alguno de los supuestos previstos en el apartado 3 del artículo 101 de la LOGFPV.
+
+El personal funcionario deberá permanecer un mínimo de un año en el puesto de trabajo obtenido por permuta, salvo en el caso de supuestos de cambio de puesto de trabajo por motivos de salud, por violencia de género o violencia terrorista.
+
+Podrán entenderse desestimadas las solicitudes de permuta una vez transcurridos tres meses sin notificación de la resolución expresa contados desde la fecha en que la solicitud tenga entrada en el órgano competente para su resolución.
+
+La permuta de destino entre dos personas funcionarias de carrera de la administración local, podrá ser autorizada siempre y cuando concurran las siguientes circunstancias, sin perjuicio de los casos de no autorización previstos en este decreto:
+a) Que los puestos de trabajo sean de la misma naturaleza, grupo de titulación, requisitos, funciones, forma de provisión y retribuciones. A estos efectos, en lo que se refiere a las retribuciones, no se tendrán en cuenta las diferencias retributivas respecto del complemento de destino.
+b) Que los puestos se encuentren ubicados en distinta localidad.
+c) Que los puestos no tengan el rango de jefatura o equivalente.
+
+El procedimiento se iniciará a instancia de las personas funcionarias de carrera interesadas, dirigida a cada una de las entidades locales donde radiquen los puestos a permutar. Las personas solicitantes han de estar en servicio activo y ser titulares de un puesto de trabajo en la administración local con destino definitivo. El procedimiento para su resolución requiere la conformidad de las personas interesadas, informe favorable de la secretaría de las respectivas corporaciones locales afectadas y resolución de autorización por el órgano competente de las respectivas corporaciones locales.
+
+
+Artículo 77. Nombramiento provisional por mejora de empleo
+
+El personal funcionario de carrera podrá ser nombrado provisionalmente por mejora de empleo en los siguientes supuestos:
+- La existencia de un puesto de trabajo no ocupado.
+- La sustitución transitoria de la persona titular de un puesto de trabajo.
+- La ejecución de programas de carácter temporal y de duración determinada.
+- El exceso o acumulación de tareas, de carácter excepcional y circunstancial, por un plazo máximo de seis meses dentro de un periodo e doce.
+
+La selección del personal se realizará a través de las bolsas de empleo temporal para la provisión de puestos de trabajo previstas en el artículo 34 de este decreto.
+
+El personal funcionario de carrera deberá reunir los siguientes requisitos para que se pueda realizar un nombramiento por mejora de empleo:
+- Pertenecer a un cuerpo, agrupación profesional funcionarial o escala distinto al del puesto a cubrir.
+- Formar parte de la bolsa de empleo temporal correspondiente.
+- Reunir los requisitos de titulación para participar en las pruebas selectivas de acceso al correspondiente cuerpo o escala del puesto a cubrir.
+	En el caso de las agrupaciones profesionales funcionariales, será necesario el cumplimiento de los requisitos de acceso a las mismas.
+- Cumplir los requisitos adicionales que, en su caso, tenga el puesto de trabajo concreto en el que se vaya a realizar el nombramiento.
+
+Salvo cuando por razones de ubicación territorial, especificidad de las funciones o déficit de efectivos de personal en el cuerpo, escala o agrupación profesional funcionarial de que se trate, se acredite documentalmente en el expediente la imposibilidad de cubrirlo con personal funcionario de carrera mediante algún otro de los sistemas de provisión voluntaria previstos en este decreto, con carácter general, los nombramientos por mejora de empleo se efectuarán en puestos de trabajo correspondientes a la categoría de entrada en el cuerpo, agrupación profesional funcionarial o escala correspondiente, en los términos previstos en el artículo 33 para el personal funcionario interino.
+
+Para los procedimientos de acceso al empleo público, bien sea por turno libre, o por promoción interna, el tiempo de servicios prestados mediante nombramiento provisional por mejora de empleo, será valorado como experiencia profesional en el cuerpo, escala o agrupación profesional funcionarial en el que se han desempeñado.
+
+
+Artículo 78. Traslado por razón de violencia de género y por razón de
+violencia terrorista
+
+Las mujeres víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde venían prestando servicios para hacer efectiva su protección o el derecho a la asistencia social integral, tendrán derecho preferente a solicitar el traslado provisional a otro puesto propio de su cuerpo, agrupación profesional funcionarial, escala o grupo profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura.
+
+Si no existen vacantes en el cuerpo, agrupación profesional funcionarial, escala o grupo profesional del personal laboral de origen, los cambios de puesto de trabajo por motivo de violencia de género podrán concederse para distintos cuerpos, escalas o agrupaciones profesionales, dentro del mismo grupo o subgrupo profesional, sin que en ningún caso el cambio suponga menoscabo de sus derechos económicos ni la adscripción con carácter definitivo en el nuevo puesto de trabajo. La adscripción con carácter provisional se mantendrá hasta que desaparezcan o palien, de forma efectiva, las causas que han dado lugar a la adopción de esta medida, quedando reservado el puesto de trabajo del que fuera titular con destino definitivo, debiendo la persona afectada notificar el cambio de situación de producirse este.
+
+En este caso, la empleada pública deberá reunir el resto de requisitos exigidos para el desempeño del puesto de trabajo.
+
+La solicitud deberá indicar la localidad o localidades a las que solicita el traslado, y deberá ir acompañada de la orden de protección a favor de la víctima o, excepcionalmente en tanto se dicte esta, del informe del Ministerio Fiscal que indique la existencia de indicios de que la empleada pública es víctima de violencia de género.
+
+El personal funcionario que haya sufrido daños físicos o psíquicos como consecuencia de la actividad terrorista, su cónyuge o persona que haya convivido con análoga relación de afectividad, y los hijos e hijas de las personas heridas y fallecidas, siempre que ostenten la condición de personal funcionario y de víctimas del terrorismo de acuerdo con la legislación vigente, así como el personal funcionario amenazado en los términos del artículo 5 de la Ley 29/2011, de 22 de septiembre, de reconocimiento y protección integral a las víctimas del terrorismo, previo reconocimiento del Ministerio del Interior o de sentencia judicial firme, tendrán derecho al traslado a otro puesto de trabajo propio de su cuerpo, escala o grupo profesional, de análogas características, cuando la vacante sea de necesaria cobertura o, en caso contrario, dentro de la comunidad autónoma.
+
+En todo caso este derecho podrá ser ejercitado en tanto resulte necesario para la protección y asistencia social integral de la persona a la que se concede, ya sea por razón de las secuelas provocadas por la acción terrorista, ya sea por la amenaza a la que se encuentra sometida.
+
+En los supuestos previstos en los apartados anteriores, la dirección general competente en materia de función pública deberá comunicar las vacantes que, reuniendo las condiciones anteriores, se hallen ubicadas en la misma localidad o en aquellas que la persona interesada expresamente solicite.
+
+Una vez haya optado el personal afectado por alguno de los puestos
+vacantes ofertados, la dirección general competente en materia de fun-
+ción pública resolverá el traslado.
+
+Las previsiones de este artículo serán igualmente de aplicación al personal laboral fijo así como al personal funcionario interino y laboral temporal.
+
+Estos sistemas de provisión de puestos tendrán preferencia sobre los nombramientos de personal funcionario interino o mejora de empleo.
+
+En las actuaciones y procedimientos relacionados con la violencia de género o violencia terrorista se garantizará la intimidad de las víctimas, en especial, sus datos personales, los de sus descendientes y los de cualquier persona que esté bajo su guarda o custodia.
+
+Las previsiones de este artículo son de aplicación a las entidades locales de la Comunitat Valenciana. El procedimiento se iniciará a solicitud del personal empleado público, debiendo reunir los requisitos establecidos en este decreto. El órgano competente de la respectiva entidad local resolverá el traslado, previa la instrucción del correspondiente expediente, que deberá contener un trámite de comunicación de las vacantes y la conformidad de la empleada pública optando por alguno de los puestos de trabajo ofertados.
+
+CAPÍTULO V
+Movilidad forzosa
+Sección primera
+Medidas de movilidad forzosa de carácter definitivo
+Artículo 79. Reasignación de efectivos
+
+El personal funcionario que cese en un puesto de trabajo por supresión del mismo como consecuencia de un plan de ordenación de personal, será destinado a otro de la misma naturaleza, cuerpo, agrupación profesional o escala al que pertenezca, y del mismo nivel retributivo.
+
+El puesto de trabajo al que se acceda por el procedimiento de reasignación de efectivos tendrá carácter definitivo.
+
+Artículo 80. Cambio de adscripción de efectivos 
+
+Cuando un plan de ordenación de personal así lo determine, podrán llevarse a cabo cambios de adscripción de efectivos con carácter definitivo a otros puestos de la misma naturaleza, cuerpo, agrupación profesional o escala al que pertenezca, y del mismo nivel retributivo.
+
+Artículo 81. Cambio de adscripción de puestos de trabajo
+
+Cuando un plan de ordenación de personal así lo determine, podrán
+adscribirse con carácter definitivo puestos de trabajo a otras unidades o
+centros de destino de la misma o distinta conselleria u organismo.
+
+
+Artículo 82. Disposiciones comunes
+
+La reasignación y los cambios de adscripción previstos en los artículos anteriores, se efectuarán aplicando criterios objetivos relacionados con las aptitudes, formación, experiencia, antigüedad del personal afectado, conciliación de la vida personal y familiar y mayor proximidad entre el centro de trabajo en el que estaba adscrito y el centro de trabajo en el que debe pasar a prestar servicios como consecuencia de las medidas adoptadas. Estos criterios se concretarán en el plan de ordenación de personal.
+
+Las medidas señaladas en el apartado anterior, cuando tengan carácter forzoso, no podrán afectar al personal con un grado de discapacidad reconocido igual o superior al 75 %, ni a las víctimas acreditadas de violencia de género.
+
+Asimismo, podrá ser excluido de la aplicación de estas medidas el personal con un grado de discapacidad reconocido igual o superior al 33 % que lo solicite, siempre que se acredite, mediante dictamen de la Comisión de Estudio de la Diversidad Funcional u órgano competente con funciones análogas, que dicha diversidad funcional le imposibilita o dificulta gravemente la movilidad al centro de trabajo o edificio administrativo de nuevo destino.
+
+12. En la Administración de la Generalitat, la reasignación y los cam-
+bios de adscripción de efectivos o puestos de trabajo tendrán carácter
+obligatorio cuando sea en el mismo municipio y voluntario cuando sea
+en municipio distinto e implique cambio de residencia.
+13. El personal funcionario que, como consecuencia de la reasigna-
+ción o cambio de adscripción, deba cambiar de municipio de residen-
+cia, tendrá derecho a una indemnización consistente en el abono de los
+gastos de viaje, incluidos los de su familia, tres dietas por la persona
+interesada y cada miembro de su familia que efectivamente se traslade
+y los gastos de transporte de mobiliario y enseres, así como el pago
+de tres mensualidades de la totalidad de sus retribuciones, excepto el
+complemento de actividad profesional y, en su caso, las gratificaciones
+por servicios extraordinarios, sin perjuicio de otras ayudas que el plan
+pudiera establecer.
+14. Corresponde a la dirección general competente en materia de fun-
+ción pública ejecutar la reasignación y el cambio de adscripción de efec-
+tivos o puestos de trabajo con carácter definitivo, en el plazo máximo
+de seis meses y previa negociación con las organizaciones sindicales.
+En el supuesto de reasignación por supresión del puesto de trabajo, la
+resolución de amortización y el cese del personal afectado demorará su
+eficacia al momento en que sea efectiva la reasignación, declarándose
+entre tanto los puestos en proceso de reasignación, salvo lo previsto en
+el apartado séptimo de este artículo. Notificada a la persona afectada la
+reasignación obligatoria, dispondrá de un mes para tomar posesión en
+su nuevo destino.
+15. La reasignación y los cambios de adscripción de efectivos no
+pueden implicar una promoción interna automática mediante adscrip-
+ción directa de personas a cuerpos, escalas o agrupaciones profesionales
+funcionariales distintos a los que pertenezcan.
+16. Quienes no hayan obtenido un puesto de trabajo por el procedi-
+miento contemplado en el presente artículo, serán adscritos a la conse-
+lleria competente en materia de función pública, siendo declarados en
+la situación administrativa de expectativa de destino durante el plazo
+máximo de un año.
+Sección segunda
+Medidas de movilidad forzosa de carácter temporal
+Artículo 83. Comisión de servicios forzosa
+17. Cuando se acredite que por necesidades del servicio sea de urgen-
+te provisión un puesto de trabajo y no haya sido posible su cobertura
+por alguno de los sistemas de movilidad voluntaria previsto en la legis-
+lación vigente, podrá adscribirse en comisión de servicios, con carácter
+forzoso, a personal funcionario de la misma conselleria u organismo,
+perteneciente al mismo cuerpo, agrupación profesional funcionarial y,
+en su caso, escala en que esté clasificado el puesto que se precise cubrir.
+18. Si la necesidad pudiera ser satisfecha con personal que preste
+servicios en la misma localidad, se elegirá a quien obtenga menor pun-
+tuación en el apartado 1 del baremo previsto en el anexo de este decre-
+to. En caso de empate se elegirá a la persona de menor antigüedad de
+acuerdo con el apartado 2 del baremo. De persistir el empate, se elegirá
+a la persona de menor edad.
+19. En el caso de que la necesidad no pudiera ser satisfecha con per-
+sonal que preste servicios en la misma localidad, se elegirá al personal
+de la localidad o localidades más cercanas aplicando los mismos crite-
+rios de selección previstos en el apartado 2 de este artículo.
+20. No podrá ser destinado en comisión de servicios con carácter
+forzoso el personal con un grado de discapacidad reconocida igual o
+superior al 75 %, ni las víctimas acreditadas de violencia de género.
+Asimismo, podrá ser excluido de la aplicación de esta medida el
+personal con un grado de discapacidad igual o superior al 33 % que lo
+solicite, siempre que se acredite, mediante dictamen de la Comisión de
+Estudio de la Diversidad Funcional u órgano competente con funcio-
+nes análogas, que dicha diversidad funcional le imposibilita o dificulta
+gravemente la movilidad al centro de trabajo o edificio administrativo
+de nuevo destino.
+
+La comisión de servicios forzosa, en caso de traslado a diferente localidad, dará lugar a la contraprestación indemnizatoria prevista en la normativa vigente.
+
+La comisión de servicios forzosa tendrá una duración máxima de un año sin posibilidad de prórroga, y será acordada por la dirección general competente en materia de función pública a propuesta motivada y debidamente acreditada de la conselleria u organismo de procedencia, previa audiencia del personal afectado.
+
+Artículo 84. Adscripción temporal en la Administración de la Gene-
+ralitat
+1. Cuando la adscripción temporal a que hace referencia el artículo
+112 de la LOGFPV, corresponda a la persona titular de la subsecretaría
+o del órgano que ostente la jefatura superior de personal en el organismo
+al que esté adscrito el puesto, deberán acreditarse debidamente en el
+expediente las razones objetivas que concurran de entre las establecidas
+en el apartado 1 de dicho artículo, indicándose, en todo caso, los crite-
+rios que se han seguido para la selección de personal.
+2. En los casos en que la adscripción temporal corresponda a la
+secretaría autonómica o centro directivo con competencias en materia
+de personal, se deberá valorar, a partir de la información que se dis-
+ponga sobre distribución de cargas de trabajo, qué departamentos de la
+administración resultarían menos afectados por la cesión de personal del
+cuerpo, agrupación profesional funcionarial o escala de que se trate y
+el perfil profesional requerido para la adecuada prestación del servicio.
+3. En el supuesto previsto en el apartado anterior, una vez determi-
+nados los centros de destino, así como el número y perfil profesional
+de los efectivos a ceder, la selección del personal afectado se ajustará a
+los siguientes criterios:
+a) En caso de existir personal voluntario para la adscripción, tendrá
+preferencia el personal funcionario de carrera frente al personal fun-
+cionario interino. Dentro de cada uno de estos tipos de personal, se
+seleccionará al que obtenga mayor puntuación en la suma de los apar-
+tados 2 y 3 del baremo previsto en el anexo de este decreto. En caso de
+empate se elegirá a la persona que tenga mayor antigüedad. De persistir
+el empate, se elegirá a la persona de mayor edad y, en última instancia,
+se resolverá por sorteo.
+b) En caso de no existir personal voluntario, se seleccionará en pri-
+mer lugar al personal funcionario interino, y en segundo lugar, al de
+carrera. Dentro de cada uno de esos colectivos se aplicará el siguiente
+orden, eligiéndose, dentro de cada ordinal, a quien tuviera menor pun-
+tuación en la suma de los tres apartados del baremo previsto en el anexo
+de este decreto:
+1.º Personal que preste servicios en el mismo centro de trabajo o
+edificio administrativo.
+2.º Personal que preste servicios en otros centros de la misma loca-
+lidad.
+3.º Personal que preste servicios en otros centros de otras localida-
+des, por orden de proximidad.
+Los empates se dirimirán eligiendo a la persona que tenga menor
+antigüedad. De persistir el empate, se elegirá a la persona de menor
+edad y, en última instancia, se resolverá por sorteo.
+4. En todo caso, queda excluido de la adscripción temporal el per-
+sonal que tenga reconocido un grado de discapacidad igual o superior al
+75 %, así como las víctimas acreditadas de violencia de género.
+Asimismo, podrá ser excluido de la aplicación de esta medida el
+personal con un grado de discapacidad reconocido igual o superior al
+33 % que lo solicite, siempre que se acredite, mediante dictamen de la
+Comisión de Estudio de la Diversidad Funcional, que dicha diversidad
+funcional le imposibilita o dificulta gravemente la movilidad al centro
+de trabajo o edificio administrativo de nuevo destino.
+5. La adscripción temporal tendrá una duración máxima de un año,
+prorrogable por otro año más.
+6. La adscripción temporal solo conllevará, en su caso, la depen-
+dencia funcional a la conselleria u organismo de destino, con los efectos
+previstos en el apartado 5 del artículo 112 de la LOGFPV, manteniendo
+la persona adscrita el vínculo administrativo que tuviera respecto del
+puesto de trabajo que ocupara en el momento de resolverse la adscrip-
+ción.
+CAPÍTULO VI
+Movilidad interadministrativa
+Artículo 85. Criterios generales de movilidad interadministrativa
+7. El personal funcionario de carrera de la Administración de la
+Generalitat podrá obtener destino en otra administración pública a tra-
+vés de los procedimientos de movilidad interadministrativa, quedando
+en la situación administrativa que corresponda.
+
+8. Las necesidades de personal de la Administración de la Gene-
+ralitat podrán ser cubiertas por personal funcionario de otras adminis-
+traciones públicas, siempre que esta posibilidad se encuentre prevista
+expresamente en la relación de puestos de trabajo y en la correspondien-
+te convocatoria pública.
+9. Para su participación en la correspondiente convocatoria, y en
+tanto no se suscriban los convenios de conferencia sectorial u otros ins-
+trumentos de colaboración que regulen la movilidad interadministrativa,
+el personal procedente de otras administraciones públicas deberá apor-
+tar, junto a su solicitud, certificado de su administración de origen en el
+que se haga constar los siguientes extremos:
+a) Condición de personal funcionario de carrera y sector de admi-
+nistración, general o especial.
+b) Cuerpo, escala o agrupación de personal funcionario de carrera
+a la que pertenece, así como las funciones y requisitos de acceso a la
+misma.
+Si la administración de origen no estuviera estructurada en cuerpos,
+escalas o cualquier otra agrupación de funcionarios, se especificarán las
+funciones y características del puesto de trabajo que desempeñaba en su
+administración de origen.
+c) Titulación que le sirvió para acceder al cuerpo, escala o agrupa-
+ción al que pertenece.
+La no aportación de dicho certificado supondrá la exclusión de la
+persona participante en la convocatoria.
+10. El personal funcionario de otras administraciones públicas podrá
+prestar sus servicios en la Administración de la Generalitat median-
+te comisión de servicios, si así estuviera previsto expresamente en las
+relaciones de puestos de trabajo, y siempre que el cuerpo o escala de
+procedencia tenga atribuidas funciones coincidentes con las asignadas al
+cuerpo o escala en el que se pretende realizar su adscripción.
+A este efecto, el personal deberá presentar el certificado previsto en
+el apartado anterior.
+
+El personal procedente de otras administraciones públicas que en el momento de la toma de posesión en un puesto obtenido por concurso no acredite el conocimiento de valenciano mediante la presentación del certificado del nivel de valenciano expedido u homologado por la Junta Qualificadora de Coneixements de Valencià, que corresponda al grupo o subgrupo del citado puesto de conformidad con lo establecido en el apartado 2 del artículo 20, quedará obligado a asistir a los cursos de perfeccionamiento que a este fin organice la Administración de la Generalitat hasta la obtención de dicho nivel.
+
+En el marco de los acuerdos que se puedan suscribir entre administraciones públicas con el fin de facilitar la movilidad del personal de las mismas, se tendrá especial consideración a los supuestos de movilidad geográfica de las empleadas públicas víctimas de violencia de género, así como del personal funcionario víctima de violencia terrorista.
+
+El personal afectado por un plan de ordenación de personal podrá ser reasignado voluntariamente en otras administraciones públicas en los términos que establezcan los convenios que, a tal efecto, puedan suscribirse con ellas, con las garantías previstas en la LOGFPV al efecto y en este decreto.
+
+
+Artículo 86. Movilidad interadministrativa por el procedimiento de
+libre designación
+
+El personal procedente de otras administraciones públicas que obtenga un puesto por el sistema de libre designación, no adquiere la condición de personal funcionario de carrera de la Administración de la Generalitat.
+15. En el supuesto de cese del puesto obtenido por libre designación,
+la administración de destino, en el plazo máximo de un mes a contar
+desde el día siguiente al del cese, podrá acordar la adscripción de la
+persona funcionaria a otro puesto de la misma o le comunicará que no
+va a hacer efectiva dicha adscripción. En todo caso, durante este periodo
+se entenderá que continúa a todos los efectos en servicio activo en dicha
+administración.
+Transcurrido el plazo citado sin que se hubiera acordado su ads-
+cripción a otro puesto, o recibida la comunicación de que la misma no
+va a hacerse efectiva, la persona funcionaria deberá solicitar en el plazo
+máximo de un mes el reingreso al servicio activo en su administración
+de origen, la cual deberá asignarle un puesto de trabajo conforme a los
+sistemas de carrera y provisión de puestos vigentes en dicha administra-
+
+ción, con efectos económicos y administrativos desde la fecha en que se
+hubiera solicitado el reingreso.
+De no solicitarse el reingreso al servicio activo en el plazo indicado
+será declarada de oficio en situación de excedencia voluntaria por inte-
+rés particular, con efectos desde el día siguiente a que hubiese cesado
+en el servicio activo en la administración de destino.
+3. El personal de otras administraciones que cese en un puesto obte-
+nido por libre designación en la Administración de la Generalitat, podrá
+ser adscrito a otro puesto del mismo cuerpo o escala cuya provisión esté
+abierta a otras administraciones públicas.
+La adscripción del personal se realizará preferentemente en la
+misma localidad de destino del puesto en que haya cesado por libre
+designación.
+4. Al personal de otras administraciones públicas que cese por libre
+designación no le será de aplicación la garantía retributiva prevista en
+el artículo 64.2 de este decreto.
+
+CAPÍTULO VII Reingreso al servicio activo
+Artículo 87. Reingreso al servicio activo del personal que no tenga
+reserva de puesto de trabajo
+
+El reingreso al servicio activo del personal funcionario procedente de situaciones administrativas que no conlleven derecho a reserva de puesto de trabajo se efectuará mediante su participación en las convocatorias de provisión de puestos por los sistemas de concurso o libre designación.
+
+Asimismo, podrá efectuarse por adscripción provisional a un puesto vacante dotado presupuestariamente del mismo cuerpo, agrupación profesional funcionarial o escala, condicionado a las necesidades del servicio y siempre que cumpla los requisitos de aquel reflejados en las correspondientes relaciones de puestos de trabajo.
+
+El reingreso deberá solicitarse a la dirección general competente en materia de función pública en el plazo de un mes, contado a partir del día de finalización de la causa que dio lugar al pase a la situación administrativa en que se encuentre.
+El personal funcionario declarado en la situación de suspensión de funciones con pérdida de su puesto de trabajo, deberá solicitar el reingreso al servicio activo con un mes de antelación a la finalización del periodo de duración de la suspensión.
+
+En la Administración de la Generalitat, para efectuar el reingreso, la dirección general competente en materia de función pública tendrá en cuenta, con carácter preferente, los siguientes criterios:
+a) Adscripción provisional a un puesto en la localidad de último
+destino de la persona interesada o, en su defecto, en la más próxima.
+Cuando la localidad de residencia no coincida con la de último des-
+tino, la adscripción provisional se podrá efectuar en otra localidad.
+b) Adscripción provisional a un puesto de la conselleria de últi-
+mo destino de la persona interesada o en aquella donde existan más
+necesidades organizativas de provisión de puestos del cuerpo, escala o
+agrupación profesional funcionarial de que se trate.
+9. Los efectos del reingreso se producirán desde la fecha que esta-
+blezca la resolución de la dirección general competente en materia de
+función pública.
+La toma de posesión en el puesto se producirá como máximo en el
+plazo de un mes contado a partir del día siguiente a la notificación de la
+resolución de reingreso.
+10. El personal funcionario que solicitara el reingreso al servicio
+activo y no pudiera obtenerlo por falta de vacante dotada presupues-
+tariamente, propia de su cuerpo, agrupación profesional funcionarial
+o escala para la que cumpla los requisitos exigidos en la relación de
+puestos de trabajo, continuará en la situación administrativa que fue
+declarado hasta tanto exista vacante, salvo en el supuesto de suspensión
+de funciones con pérdida de puesto, que será declarado en excedencia
+forzosa si no se le reingresa tras cumplir la sanción impuesta.
+11. El reingreso procedente de la situación de servicios especiales
+sin reserva de su puesto de trabajo tendrá las garantías previstas en la
+normativa vigente en materia de función pública
+
+Artículo 88. Reingreso con reserva de puesto de trabajo
+1. El personal en situación de servicios especiales con reserva del
+mismo puesto de trabajo obtenido mediante concurso deberá solicitar el
+reingreso en el plazo de un mes, a partir de la fecha en que hayan cesado
+las circunstancias que dieron lugar a esa situación, salvo lo previsto en
+la letra f del apartado 1 del artículo 124 de la LOGFPV. Los efectos del
+reingreso se producirán desde la fecha que determine la resolución de la
+dirección general competente en materia de función pública.
+2. En los supuestos de reingreso desde la situación de excedencia
+voluntaria por cuidado de familiares, el personal funcionario deberá
+solicitar el reingreso al servicio activo con un mes de antelación a la
+fecha de finalización del periodo máximo de dicha excedencia.
+En el caso de solicitar la incorporación al servicio activo antes de
+haber agotado el periodo máximo de permanencia en esta excedencia,
+deberá presentar la solicitud ante la dirección general competente en
+materia de función pública, como mínimo, con un mes de antelación a la
+fecha señalada por la persona interesada para la efectividad del reingreso.
+De no ser así, este último tendrá efectos económicos y administra-
+tivos desde la fecha de resolución de reingreso.
+3. El personal funcionario procedente de la situación administrativa
+de suspensión de funciones con derecho a reserva de puesto de trabajo,
+se reincorporará a su puesto de trabajo en los términos previstos en
+la resolución que declare dicha situación, sin necesidad de solicitar el
+reingreso al servicio activo.
+De no ser así, será declarado en la situación de excedencia volunta-
+ria por interés particular, con los efectos previstos en la LOGFPV.
+Artículo 89. Efectos del silencio en las solicitudes de reingreso
+4. Podrán entenderse desestimadas las solicitudes de reingreso por
+adscripción provisional una vez transcurridos tres meses sin notificación
+de la resolución expresa contados desde la fecha en que la solicitud
+tenga entrada en el registro del órgano competente para su resolución.
+5. Las solicitudes de reingreso con reserva de puesto se entenderán
+estimadas, una vez transcurrido un mes sin notificación de la resolución
+expresa contados desde la fecha en que la solicitud haya tenido entrada
+en el registro del órgano competente para resolver.
+TÍTULO IV
+Nivel competencial
+Artículo 90. Disposiciones generales
+6. El personal funcionario de carrera adquirirá un nivel competen-
+cial, con arreglo a lo dispuesto en el artículo 118 de la LOGFPV y en
+este decreto, por el desempeño de uno o más puestos de trabajo que
+tengan asignado el mismo componente competencial durante dos años
+continuados o tres con interrupción.
+7. El reconocimiento del nivel competencial se realizará de oficio por
+la dirección general competente en materia de función pública, sin perjui-
+cio de la posibilidad de reconocerse a instancia del personal interesado.
+8. El personal funcionario en activo tiene derecho a percibir al
+menos el importe del componente competencial del puesto de trabajo
+correspondiente a su nivel competencial consolidado.
+9. Al personal funcionario de carrera que se integre en la Adminis-
+tración de la Generalitat mediante concurso abierto a otras administra-
+ciones públicas o por decreto de transferencias, se le respetará el nivel
+competencial que tuviera consolidado en su administración de origen
+sin necesidad de adoptar resolución expresa.
+La cuantía retributiva que pueda corresponder por este concepto, en
+ningún caso excederá de la prevista en la normativa para el nivel máxi-
+mo de componente competencial correspondiente al grupo o subgrupo
+de pertenencia.
+Artículo 91. Adquisición del nivel competencial
+10. El personal funcionario consolidará necesariamente como nivel
+inicial el correspondiente al componente competencial que tenga asig-
+nado el puesto de trabajo adjudicado tras la superación del proceso
+selectivo. Al personal funcionario de nuevo ingreso que, encontrándose
+en proceso de consolidación del nivel correspondiente al componente
+competencial del puesto de trabajo al que haya sido destinado, pase a
+desempeñar un puesto de trabajo de nivel superior, se le computará el
+
+tiempo prestado en este último a efectos de adquisición del nivel corres-
+pondiente al del componente competencial del puesto inicial.
+2. Si durante el tiempo en que el personal funcionario desempeña un
+puesto se modifica el componente competencial del mismo, el tiempo
+de desempeño se computará con el componente más alto en que dicho
+puesto hubiera estado clasificado.
+3. El personal funcionario que obtenga un puesto de trabajo supe-
+rior en dos o más niveles al correspondiente a su nivel competencial,
+consolidará cada dos años de servicios continuados el superior en dos
+niveles al que poseyera, sin que en ningún caso pueda superar el corres-
+pondiente al del puesto desempeñado.
+4. Cuando se obtenga destino con componente competencial supe-
+rior al del nivel en proceso de consolidación, el tiempo de servicios
+prestados en aquel le será computado para la consolidación del que se
+hallaba en proceso.
+Si, por el contrario, se obtiene destino con componente inferior al
+del nivel en proceso de consolidación, el tiempo de servicios prestados
+en puestos de componente competencial superior podrá computarse, a
+su instancia, para la consolidación del nivel correspondiente a aquel.
+Artículo 92. Normas para la adquisición del nivel competencial en
+determinados supuestos
+5. El tiempo prestado en comisión de servicios será tenido en cuenta
+a efectos de consolidación del nivel correspondiente al componente
+competencial del puesto del que se es titular, salvo que se obtuviera pos-
+teriormente destino definitivo en el puesto desempeñado en comisión de
+servicios o en otro del mismo o superior nivel, en cuyo caso, será tenido
+en cuenta para la consolidación del nivel correspondiente a este último,
+sin perjuicio de lo dispuesto en el apartado 3 del artículo anterior.
+No se computará el tiempo de desempeño en comisión de servicios
+cuando el puesto ocupado tuviera asignado un componente competen-
+cial inferior al correspondiente al nivel en proceso de consolidación.
+Las previsiones recogidas en el presente apartado serán de aplicación
+asimismo cuando se desempeñe un puesto en adscripción provisional.
+
+El tiempo de permanencia en la situación de servicios especiales o en excedencia por cuidado de familiares será computado, a efectos de consolidación del nivel competencial, como prestado en el último puesto desempeñado en la situación de servicio activo, o en el que durante el tiempo de permanencia en dicha situación se hubiera obtenido mediante procedimiento de provisión con convocatoria pública.
+
+El tiempo de servicios prestados con ocasión del nombramiento provisional por mejora de empleo será tomado en consideración para el reconocimiento del nivel competencial en proceso de consolidación en el grupo de pertenencia del personal funcionario, siempre y cuando el nivel propio del puesto desempeñado con nombramiento por mejora de empleo sea igual o superior a aquel.
+
+Cuando se acceda de un grupo de titulación a otro, bien sea
+mediante pruebas selectivas de acceso libre o por medio de la promo-
+ción interna, se podrá mantener, a opción de la persona interesada, el
+nivel competencial adquirido en el grupo de origen, siempre que este se
+encuentre incluido en el intervalo de niveles correspondiente al nuevo
+grupo. En caso contrario, se comenzará a consolidar el correspondiente
+al componente competencial del puesto asignado como si no se tuviera
+nivel alguno consolidado.
+
+Al personal funcionario que se encuentre en la fase de reasignación de efectivos prevista en el artículo 111 de la LOGFPV y al que se encuentre en situación de expectativa de destino, se le computará el tiempo transcurrido en dichas circunstancias a efectos de la adquisición del nivel competencial que tuviera en proceso de consolidación.
+
+
+TÍTULO V
+Planificación y ordenación del personal empleado público
+CAPÍTULO ÚNICO
+Planes de ordenación de personal
+Artículo 93. Contenido de los planes de ordenación de personal
+
+El plan de ordenación de personal (POP), como instrumento básico de planificación y ordenación de los recursos humanos, contendrá las actuaciones a desarrollar para la óptima utilización de los recursos humanos en los ámbitos correspondientes, mediante la dimensión adecuada de los efectivos existentes, su mejor distribución, formación, promoción profesional y movilidad, dentro de los límites presupuestarios.
+
+El plan de ordenación de personal incluirá los objetivos a conseguir en materia de personal, los efectivos y la estructura de recursos humanos que se consideren adecuados para cumplir tales objetivos, así como las medidas necesarias para ello, entre las que tendrán carácter preferente las de movilidad voluntaria, temporalidad y calendario de ejecución de las mismas, órganos competentes para llevarlas a cabo y demás aspectos previstos en la LOGFPV.
+
+En el caso de que el plan de ordenación de personal contemple medidas de reasignación de efectivos, cambios de adscripción temporal o definitiva de efectivos o cambios de adscripción de puestos de trabajo, deberá indicar el número y características de los puestos afectados y los criterios objetivos conforme a los que deban ejecutarse tales medidas, los cuales estarán relacionados con las aptitudes, formación, experiencia y antigüedad del personal afectado, conciliación de la vida personal y familiar y mayor proximidad entre el centro de trabajo al que se estaba adscrito y el centro de trabajo en el que se debe pasar a prestar servicios como consecuencia de las medidas adoptadas.
+
+Artículo 94. Tramitación de los planes de ordenación de personal
+
+El procedimiento para la aprobación del plan de ordenación de personal se iniciará por la dirección general competente en materia de función pública, por propia iniciativa o a propuesta de la conselleria o consellerias o del organismo u organismos afectados, cuyo personal sea gestionado por dicha dirección general.
+
+Corresponde a la dirección general competente en materia de función pública la iniciativa para la aprobación del plan en aquellos casos en que la ordenación de recursos afecte a varias consellerias u organismos, o bien se considere que las medidas a adoptar tienen un alcance general de carácter organizativo.
+
+El acuerdo de inicio y, en su caso, la propuesta de la conselleria u organismo incluirá:
+- Descripción de la situación inicial, con exposición de los problemas que el procedimiento trata de resolver o de las mejoras en la organización que con él se persiguen.
+- Análisis de las disponibilidades y necesidades de personal y su cualificación.
+- Exposición detallada y justificación de las medidas y del personal afectado por el proceso. Dentro de las medidas que se prevean tendrán carácter preferente las medidas de movilidad voluntaria sobre las medidas de movilidad forzosa.
+- Estudio económico-financiero de las repercusiones presupuestarias que va a suponer su puesta en práctica.
+
+Elaborado el plan por la dirección general competente en materia de función pública, deberá ser informado favorablemente por la dirección general que tenga atribuida la competencia en materia presupuestaria, y negociado con las organizaciones sindicales en los términos establecidos en la normativa vigente.
+
+El plan de ordenación de personal será aprobado por el Consell a propuesta de la persona titular de la conselleria competente en materia de recursos humanos, y publicado en el Diari Oficial de la Generalitat Valenciana.
+
+Aprobado y publicado el plan de ordenación de personal, se procederá a su ejecución en los términos y plazos previstos en el mismo.
+
+En la administración local, los plenos de las respectivas entidades aprobarán el plan de ordenación de personal, previa negociación con las organizaciones sindicales en el marco de la respectiva mesa de negociación. Su contenido mínimo se ajustará a lo dispuesto en este artículo, siendo preceptiva su publicación en el Diari Oficial de la Generalitat Valenciana.
+
+
+TÍTULO VI
+Comisión de Estudio de la Diversidad Funcional
+CAPÍTULO ÚNICO
+Comisión de Estudio de la Diversidad Funcional
+
+Artículo 95. Comisión de Estudio de la Diversidad Funcional 
+
+La Comisión de Estudio de la Diversidad Funcional es el órgano colegiado, adscrito orgánicamente a la conselleria competente en materia de función pública, al que corresponde prestar el asesoramiento necesario para hacer efectivo el acceso al empleo público y la promoción profesional de las personas con diversidad funcional en la Administración de la Generalitat, mediante la emisión de los dictámenes que le sean solicitados sobre cualquier materia relacionada con las previstas en este decreto.
+
+Artículo 96. Composición de la Comisión de Estudio de la Diversidad
+Funcional
+
+La Comisión de Estudio de la Diversidad Funcional estará integrada
+por los siguientes miembros:
+
+Una persona funcionaria, que ostentará la presidencia del órgano,
+designado por la dirección general competente en materia de función
+pública de entre las personas de su departamento que tengan al menos
+el rango de jefa de servicio.
+
+Seis vocales:
+
+- a) Dos representantes de la dirección general competente en materia de función pública, designados por su titular de entre personal funcionario adscrito a ese centro directivo.
+
+- b) Una persona representante de cada una de las tres disciplinas o especialidades que integran los centros de evaluación y orientación de discapacidades adscritos a la conselleria con competencias en la materia, que serán designadas de entre su personal por la persona titular de la dirección general competente en materia de integración de personas con discapacidad.
+
+- c) Una persona en representación de la unidad administrativa que tenga atribuidas las funciones de servicio de prevención propio, designada de entre el personal a su servicio por la dirección general competente en la materia.
+
+Ejercerá la secretaría, con voz y voto, una de las dos titulares de las vocalías designadas por la dirección general competente en materia de función pública.
+
+
+Artículo 97. Dictámenes de la Comisión de Estudio de la Diversidad
+Funcional
+
+La Comisión de Estudio de la Diversidad Funcional emitirá dictamen preceptivo en los siguientes casos:
+
+a) Cuando en un proceso selectivo o de provisión de puestos convocado por la conselleria competente en materia de función pública, se planteen dudas sobre la compatibilidad funcional de la persona participante que tenga reconocida una diversidad funcional, con respecto a las funciones y tareas que se han de desempeñar en los puestos de trabajo a los que optan.
+
+b) Cuando en las convocatorias para la constitución de bolsas de trabajo de la Administración en la Generalitat, se planteen dudas sobre la compatibilidad funcional de la persona solicitante que tenga reconocida una diversidad funcional, con respecto a las funciones y tareas que se han de desempeñar en los puestos de trabajo a los que se optan, y siempre y cuando no provengan de un proceso selectivo desde su condición de persona con diversidad funcional.
+c) Adopción de medidas de movilidad forzosa de carácter temporal que afecten a personal empleado público con diversidad funcional.
+
+En los supuestos previstos en las letras a y b de este apartado, corresponde solicitar el dictamen preceptivo al órgano técnico encargado de la ejecución del proceso de selección o provisión y a la Comisión de Seguimiento de las Bolsas de Trabajo, respectivamente. A la vista del dictamen, el órgano solicitante propondrá a la dirección general competente en materia de función pública la adopción de la resolución
+que proceda.
+
+La solicitud del dictamen previsto en la letra c corresponde al órgano competente para la adopción de la medida.
+
+En los casos no previstos en el apartado anterior, la dirección general competente en materia de función pública podrá solicitar dictamen de la Comisión de Estudio de la Diversidad Funcional cuando lo considere necesario.
+
+El dictamen preceptivo de la comisión deberá especificar motivadamente, en cada caso, las causas de la exclusión de la persona con diversidad funcional o las medidas necesarias de adaptación del puesto o del sistema de evaluación.
+
+Artículo 98. Régimen de funcionamiento de la Comisión de Estudio de
+la Diversidad Funcional
+
+El régimen de funcionamiento de la Comisión de Estudio de la Diversidad Funcional se ajustará a lo dispuesto para los órganos colegiados en las normas de procedimiento administrativo vigentes.

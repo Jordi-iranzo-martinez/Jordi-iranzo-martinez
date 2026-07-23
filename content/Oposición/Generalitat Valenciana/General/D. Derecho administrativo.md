@@ -800,7 +800,7 @@ Las Administraciones Públicas tendrán permanentemente publicados y actualizado
 
 Se entiende por "expediente administrativo":
 
->el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.
+>El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.
 
 Tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos que contenga cuando se remita. Deberá constar en el expediente copia electrónica certificada de la resolución.
 
@@ -877,7 +877,7 @@ Los informes serán facultativos y no vinculantes (salvo disposición expresa en
 
 De no emitirse el informe en plazo, y sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrán proseguir las actuaciones salvo cuando se trate de un informe preceptivo, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver el procedimiento en los términos establecidos en la letra d) del apartado 1 del artículo 22.
 
-4. Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se podrán proseguir las actuaciones.
+Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el procedimiento en orden a expresar el punto de vista correspondiente a sus competencias respectivas, y transcurriera el plazo sin que aquél se hubiera emitido, se podrán proseguir las actuaciones.
 
 El informe emitido fuera de plazo podrá no ser tenido en cuenta en la correspondiente resolución.
 
@@ -885,7 +885,7 @@ El informe emitido fuera de plazo podrá no ser tenido en cuenta en la correspon
 
 En el caso de los procedimientos de responsabilidad patrimonial será preceptivo solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable, no pudiendo exceder de diez días el plazo de su emisión.
 
-Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que se establezca en la correspondiente legislación autonómica, así como en aquellos casos que disponga la Ley Orgánica 3/1980, de 22 de abril, del Consejo de Estado, será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma.
+Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros (o a la que se establezca en la legislación autonómica, así como en los casos que disponga la Ley Orgánica 3/1980), será preceptivo solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma.
 
 A estos efectos, el órgano instructor, en el plazo de diez días a contar desde la finalización del trámite de audiencia, remitirá al órgano competente para solicitar el dictamen una propuesta de resolución, que se ajustará a lo previsto en el artículo 91, o, en su caso, la propuesta de acuerdo por el que se podría terminar convencionalmente el procedimiento.
 
@@ -897,7 +897,7 @@ En el caso de reclamaciones en materia de responsabilidad patrimonial del Estado
 
 ##### Artículo 82. Trámite de audiencia.
 
-Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para lo que se tendrán en cuenta las limitaciones previstas en su caso en la Ley 19/2013, de 9 de diciembre.
+Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes (Ley 19/2013).
 
 La audiencia a los interesados será anterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento.
 
@@ -986,9 +986,7 @@ El órgano instructor resolverá la finalización del procedimiento, con archivo
 - **Inexistencia de los hechos** que pudieran constituir la infracción.
 - **Hechos no acreditados**
 - Hechos probados no son infracción
-- No identificación: b) Cuando los hechos no resulten acreditados.
-- c) Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa.
-- d) Cuando no exista o no se haya podido identificar a la persona o personas responsables o bien aparezcan exentos de responsabilidad.
+- **No responsabilidad**: no identificación o exención.
 - **Prescripción**
 
 En el caso de procedimientos de carácter sancionador, una vez concluida la instrucción del procedimiento, el órgano instructor formulará una propuesta de resolución que deberá ser notificada a los interesados. La propuesta de resolución deberá indicar la puesta de manifiesto del procedimiento y el plazo para formular alegaciones y presentar los documentos e informaciones que se estimen pertinentes.
@@ -1005,14 +1003,10 @@ La resolución que ponga fin al procedimiento será ejecutiva cuando no quepa co
 
 Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente, si el interesado manifiesta a la Administración su intención de interponer recurso contencioso-administrativo contra la resolución firme en vía administrativa. Dicha suspensión cautelar finalizará cuando:
 
-- 
-a) Haya transcurrido el plazo legalmente previsto sin que el interesado haya interpuesto recurso contencioso-administrativo.
-
-b) Habiendo el interesado interpuesto recurso contencioso-administrativo:
-
-1.º No se haya solicitado en el mismo trámite la suspensión cautelar de la resolución impugnada.
-
-2.º El órgano judicial se pronuncie sobre la suspensión cautelar solicitada, en los términos previstos en ella.
+- Haya transcurrido el plazo legalmente previsto sin que el interesado haya interpuesto recurso contencioso-administrativo.
+- Habiendo el interesado interpuesto recurso contencioso-administrativo:
+	- No se haya solicitado en el mismo trámite la suspensión cautelar de la resolución impugnada.
+	- El órgano judicial se pronuncie sobre la suspensión cautelar solicitada, en los términos previstos en ella.
 
 Cuando las conductas sancionadas hubieran causado daños o perjuicios a las Administraciones y la cuantía destinada a indemnizar estos daños no hubiera quedado determinada en el expediente, se fijará mediante un procedimiento complementario, cuya resolución será inmediatamente ejecutiva. Este procedimiento será susceptible de terminación convencional, pero ni ésta ni la aceptación por el infractor de la resolución que pudiera recaer implicarán el reconocimiento voluntario de su responsabilidad. La resolución del procedimiento pondrá fin a la vía administrativa.
 
@@ -1020,7 +1014,7 @@ Cuando las conductas sancionadas hubieran causado daños o perjuicios a las Admi
 
 Una vez recibido, en su caso, el dictamen al que se refiere el artículo 81.2 o, cuando éste no sea preceptivo, una vez finalizado el trámite de audiencia, el órgano competente resolverá o someterá la propuesta de acuerdo para su formalización por el interesado y por el órgano administrativo competente para suscribirlo. Cuando no se estimase procedente formalizar la propuesta de terminación convencional, el órgano competente resolverá en los términos previstos en el apartado siguiente.
 
-Además de lo previsto en el artículo 88, en los casos de procedimientos de responsabilidad patrimonial, será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización, cuando proceda, de acuerdo con los criterios que para calcularla y abonarla se establecen en el artículo 34 de la Ley de Régimen Jurídico del Sector Público.
+Además de lo previsto en el artículo 88, en los casos de procedimientos de responsabilidad patrimonial, será necesario que la resolución se pronuncie sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización, cuando proceda, de acuerdo con los criterios que para calcularla y abonarla (artículo 34 de la Ley 40/2015).
 
 Transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular.
 
@@ -1099,13 +1093,12 @@ Salvo que reste menos para su tramitación ordinaria, los procedimientos adminis
 
 ##### Ejecución
 
-
 Las Administraciones Públicas no iniciarán ninguna actuación material de ejecución de resoluciones que limite derechos de los particulares sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico. El órgano que ordene un acto de ejecución material de resoluciones estará obligado a notificar al particular interesado la resolución que autorice la actuación administrativa.
 
 Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo que:
 
 - Suspensión de la ejecución del acto.
-- b) Se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.
+- Resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa (incluido el potestativo de reposición)
 - Disposición establezca lo contrario.
 - Aprobación o autorización superior.
 
