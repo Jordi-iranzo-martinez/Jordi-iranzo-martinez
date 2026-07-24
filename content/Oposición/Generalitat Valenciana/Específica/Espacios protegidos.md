@@ -5,8 +5,8 @@
 4. ***La Ley 11/1994 de espacios naturales protegidos de la Comunitat Valenciana: ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000. Instrumentos de ordenación de los recursos naturales y de gestión de Espacios Naturales Protegidos y de los Espacios Protegidos Natura 2000. Órganos de gestión y participación de los espacios naturales protegidos.***
 ---
 12. ***Ley 42/2007: Capítulo III “Espacios protegidos Red Natura 2000” del Título II “Catalogación, conservación y restauración de hábitats y espacios del patrimonio natural”. Ley 11/1994: Título I Disposiciones generales: Capítulo II BIS del Régimen general de los Espacios Protegidos Red Natura 2000, Capítulo V “Efectos de la declaración de Espacios Protegidos Red Natura 2000”; Título II Declaración de Espacios Naturales Protegidos y de Espacios Protegidos Red Natura 2000: Capítulo III “Procedimiento de selección y declaración de Espacios Protegidos Red Natura 2000”; Título III Ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000: Capítulo VI “Normas de gestión de zonas de la Red Natura 2000”. El Régimen especial de evaluación y autorizaciones de afección a la red Natura 2000 (Decreto 60/2012, de 5 de abril, del Consell)****
-13. ***Normativa internacional para conservación de especies amenazadas: principios fundamentales y ámbitos de aplicación. Convenio de Washington (CITES), y su traslación a la Unión Europea (Reglamento (CE) 338/97). Convenio de Berna relativo a la conservación de la vida silvestre y del medio natural en Europa. Convenio de Barcelona para la protección del mar Mediterráneo. Convenio de la Diversidad Biológica, principales características. El Protocolo de Nagoya y su aplicación en España (Real decreto 124/2017 de 24 de febrero, y deslinde de competencias estatal y autonómica).***
-
+13. ***Normativa internacional para conservación de especies amenazadas: principios fundamentales y ámbitos de aplicación. Convenio de Washington (CITES), y su traslación a la Unión Europea (Reglamento (CE) 338/97). Convenio de Berna relativo a la conservación de la vida silvestre y del medio natural en Europa. Convenio de Barcelona para la protección del mar Mediterráneo. Convenio de la Diversidad Biológica, principales características. El Protocolo de Nagoya y su aplicación en España (Real decreto 124/2017 de 24 de febrero, y deslinde de competencias estatal y autonómica).
+14. **Microrreservas de Flora, Decretos 218/1994 y 70/2009, del Consell; declaración y gestión de las Microrreservas de Flora de la Comunitat Valenciana.**
 ### Normativa estatal
 
 La norma básica estatal es la [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490)
@@ -76,13 +76,13 @@ Según los recursos naturales o biológicos y de los valores que contengan, los 
 
 - **Parajes naturales municipales**: valores naturales de interés local
 
-- **Zonas húmedas catalogadas**: 
+- **Zonas húmedas catalogadas**
 
 *Estas denominaciones podrán aplicarse únicamente a los espacios naturales protegidos que se declaren expresamente como tales. Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría.*
 
 Son espacios protegidos de la Red Natura los siguientes: 
 
-- **Lugares de Importancia Comunitaria** (LIC): constribución al mantenimiento o restablecimiento del estado de conservación favorable de los tipos de hábitats naturales y los hábitat de las especies de interés comunitario (Anexos I y II de la Ley 42/2007, respectivamente).
+- **Lugares de Importancia Comunitaria** (LIC): contribución al mantenimiento o restablecimiento del estado de conservación favorable de los tipos de hábitats naturales y los hábitat de las especies de interés comunitario (Anexos I y II de la Ley 42/2007, respectivamente).
 
 - **Zonas Especiales de Conservación** (ZEC): lugares de importancia comunitaria ordenados mediante un instrumento de gestión específico.
 
@@ -101,7 +101,7 @@ Además, existen otras áreas, como zonas húmedas y cuevas:
 - **Cuevas**: 
 
 
-Además, existen espacios naturales protegidos por instrumentos internacionales, designados por Convenios y Acuerdos de los que España es parte ([artículo 50 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a50)). En particular: 
+También hay espacios naturales protegidos por instrumentos internacionales, designados por Convenios y Acuerdos de los que España es parte ([artículo 50 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a50)). En particular: 
 
 - **Humedales de Importancia Internacional**: del Convenio relativo a los Humedales de Importancia Internacional especialmente como Hábitat de Aves Acuáticas
 
@@ -119,9 +119,9 @@ Además, existen espacios naturales protegidos por instrumentos internacionales,
 
 *La declaración o inclusión de áreas protegidas por instrumentos internacionales será sometida a información pública y posteriormente publicada en el Boletín Oficial del Estado junto con la información básica y un plano del perímetro abarcado.*
 
-El régimen de protección de estas áreas será el establecido en los correspondientes convenios y acuerdos internacionales, sin perjuicio de la vigencia de regímenes de protección, ordenación y gestión específicos cuyo ámbito territorial coincida total o parcialmente con dichas áreas, siempre que se adecuen a lo previsto en dichos instrumentos internacionales.
+El régimen de protección de estas áreas será el establecido en los correspondientes convenios y acuerdos internacionales ***sin perjuicio de la vigencia de regímenes de protección, ordenación y gestión específicos cuyo ámbito territorial coincida total o parcialmente con dichas áreas, siempre que se adecuen a lo previsto en dichos instrumentos internacionales***.
 
-El Ministerio de Medio Ambiente elaborará (con la participación de las Comunidades autónomas, en el marco del Plan Estratégico Estatal del Patrimonio Natural y la Biodiversidad) unas directrices de conservación de las áreas protegidas por instrumentos internacionales. Constituirán el marco orientativo para la planificación y gestión de dichos espacios. Serán aprobadas mediante acuerdo de la Conferencia Sectorial de Medio Ambiente.
+El Ministerio de Medio Ambiente elaborará (con la participación de las Comunidades autónomas, en el marco del Plan Estratégico Estatal del Patrimonio Natural y la Biodiversidad) unas directrices de conservación de las áreas protegidas por instrumentos internacionales, que constituirán el marco orientativo para la planificación y gestión de dichos espacios. Serán aprobadas mediante acuerdo de la Conferencia Sectorial de Medio Ambiente.
 
 
 En resumen:
@@ -133,19 +133,18 @@ En resumen:
 | Otras áreas                        | - Zonas Húmedas (en general)<br>- Cuevas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Internacional                      | - Humedales de Importancia Internacional (Convenio de Ramsar)<br>- Sitios naturales de la Lista del Patrimonio Mundial (Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural)<br>- Áreas protegidas del Convenio OSPAR (Convenio para la protección del medio ambiente marino del Atlántico del nordeste)<br>- Zonas Especialmente Protegidas de Importancia para el Mediterráneo (ZEPIM) (Protocolo de Barcelona del Convenio para la protección del medio marino y de la región costera del Mediterráneo)<br>- Geoparques (declarados por la UNESCO)<br>- Reservas de la Biosfera (declaradas por la UNESCO)<br>- Reservas biogenéticas (del Consejo de Europa) |
 
-*Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría. Las áreas protegidas por instrumentos internacionales aparecen en el [artículo 50 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a50).
+*Dentro del ámbito de un espacio natural protegido podrán existir otros espacios protegidos de distinta categoría.
+
 
 #### Régimen general de los espacios naturales protegidos
 
 El régimen general de los espacios naturales protegidos es el siguiente:
 
-- **Parques naturales**: áreas naturales que, en razón a la representatividad de sus ecosistemas o a la singularidad de su flora, su fauna, o de sus formaciones geomorfológicas, o bien a la belleza de sus paisajes, poseen unos valores ecológicos, científicos, educativos, culturales o estéticos, cuya conservación merece una atención preferente y se consideran adecuados para su integración en redes nacionales o internacionales de espacios protegidos.
+- **Parques naturales**: 
 	
 	Las actividades a realizar se orientarán hacia los usos tradicionales agrícolas, ganaderos y silvícolas, y al aprovechamiento de las producciones compatibles con las finalidades que motivaron la declaración, así como a su visita y disfrute con las limitaciones necesarias para garantizar la protección y las actividades propias de la gestión del espacio protegido. Los demás usos podrán ser objeto de exclusión en la medida en que entren en conflicto con los valores que se pretenda proteger.
 
-- **Parajes naturales municipales**: las zonas comprendidas en uno o varios términos municipales que presenten especiales valores naturales de interés local que requieran su protección, conservación y mejora y sean declaradas como tales a instancias de las entidades locales.
-
-	Únicamente se admitirán en estos parajes los usos y actividades compatibles con las finalidades que motivaron su declaración, excluyéndose la utilización urbanística de sus terrenos.
+- **Parajes naturales municipales**: Únicamente se admitirán en estos parajes los usos y actividades compatibles con las finalidades que motivaron su declaración, excluyéndose la utilización urbanística de sus terrenos.
 
 	El Gobierno Valenciano regulará las relaciones de cooperación, mutua asistencia y coordinación entre la administración de la Generalitat y los municipios que cuenten con parajes naturales municipales para la mejor gestión medioambiental de los mismos, por los correspondientes ayuntamientos.
 
@@ -225,10 +224,11 @@ Los notarios y registradores que autoricen o inscriban, respectivamente, escritu
 La utilización de los bienes incluidos en el ámbito de los espacios naturales protegidos se realizará de manera que resulte compatible con la protección, conservación y mejora de los mismos.
 
 Las limitaciones al uso de los bienes derivados de la declaración de espacio natural protegido o de los instrumentos de ordenación previstos en esta ley, dará lugar a indemnización cuando concurran simultáneamente estos requisitos:
-- Que incidan sobre derechos efectivamente incorporados al patrimonio del reclamante
-- Que afecten a usos o aprovechamientos legal y efectivamente ejercidos en el momento de la imposición de la restricción.
-- Que se produzca una lesión patrimonial efectiva, actual y cuantificable en términos monetarios.
-- Que se trate de limitaciones singulares no susceptibles de distribución entre los afectados.
+
+- Derechos efectivamente incorporados al patrimonio del reclamante
+- Usos o aprovechamientos legal y efectivamente ejercidos en el momento de la imposición de la restricción.
+- Lesión patrimonial efectiva, actual y cuantificable en términos monetarios.
+- Limitaciones singulares no susceptibles de distribución entre los afectados.
 
 El Consell podrá declarar como área de influencia socioeconómica el conjunto de términos municipales a los que afecte su ámbito territorial.
 
@@ -247,7 +247,6 @@ La selección o declaración de los espacios protegidos Red Natura 2000 comporta
 - **Utilización de bienes incluidos** (esta Ley (artículo 20...), normas de gestión (capítulo VI del título III)...)
 
 
-
 #### Declaración de espacios naturales protegidos
 
 La declaración de las figuras de parque natural, paraje natural, paraje natural municipal, reserva natural, monumento natural, sitio de interés y paisaje protegido se realizan por decreto del Consell (sin perjuicio de las declaraciones que puedan realizar las Cortes Valencianas mediante ley)
@@ -262,7 +261,7 @@ La declaración de las figuras de parque natural, paraje natural, paraje natural
 
 - **Declaración**: por el Consell, mediante decreto o acuerdo. Incluirán las normas de protección y ordenación de usos y actividades que deban ser objeto de aplicación inmediata.
 
-La iniciación del expediente de declaración de un espacio natural protegido y la iniciación del procedimiento para la elaboración de alguno de los instrumentos de ordenación de espacios naturales, determinará la aplicación, por ministerio de la ley, de todas o alguna de las siguientes medidas cautelares:
+La iniciación del expediente de declaración de un espacio natural protegido y la iniciación del procedimiento para la elaboración de alguno de los instrumentos de ordenación de espacios naturales, determinará la aplicación, por Ley, de todas o alguna de las siguientes medidas cautelares:
 
 - **Actos de modificación**: prohibición de aquellos que supongan una transformación sensible de la realidad física y biológica o hayan de dificultar o imposibilitar la consecución de los objetivos de la declaración de espacio natural protegido.
 
@@ -276,11 +275,9 @@ La iniciación del expediente de declaración de un espacio natural protegido y 
 
 - **Planeamiento urbanístico**: suspensión de la tramitación de aquél con posible incidencia sobre los valores naturales a proteger.
 
-
 El establecimiento de medidas cautelares podrá realizarse en cualquier momento a partir de la iniciación del expediente de declaración de espacio natural protegido o durante el procedimiento de elaboración de los instrumentos de ordenación previstos en esta ley. Tendrán una vigencia máxima de tres años.
 
 *La determinación de la forma en que las medidas cautelares deben aplicarse en cada caso se realizará mediante acuerdo del Consell (a propuesta de la Conselleria de Medio Ambiente). En cualquier caso, la prohibición de los actos de modificación tendrá carácter automático con la iniciación del expediente de declaración de espacio o aprobación de instrumentos de ordenación ambiental.* 
-
 
 La iniciación del expediente de aprobación de un plan de ordenación de los recursos naturales determinará automáticamente la exigencia de informe favorable de la Conselleria de Medio Ambiente para el otorgamiento de cualquier autorización, licencia o concesión que habilite para realizar actos de transformación de la realidad física o biológica en el ámbito del plan.
 
@@ -302,6 +299,12 @@ Artículo 29 bis. Propuesta, aprobación y publicidad de Lugares de Importancia 
 El procedimiento de selección y declaración de espacios protegidos Red Natura 2000 difiere según se trate de cada sitio.
 
 Para los lugares de importancia comunitaria se realizan los siguientes pasos:
+
+|             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| LIC         | 1. **Propuesta inicial**: de la Conselleria de medio ambiente a Generalitat Valenciana, basada en los criterios establecidos (Anexo III de la de la Ley 42/2007)<br><br>2. **Propuesta autonómica**: de la Generalitat Valenciana al Ministerio, indicando los hábitats naturales y las especies autóctonas de interés comunitario existentes.<br><br>3. **Información pública**<br><br><br>4. **Aprobación**: por el Consell y a su posterior remisión al Ministerio de medio ambiente<br><br>5. **Envío a la Unión**: del Ministerio de medio ambiente a la Comisión Europea, para su aprobación.<br><br>6. **Publicación**: en el Diari Oficial de la Comunitat Valenciana en el plazo máximo de seis meses, incluyendo sus límites geográficos, los hábitats y especies por los que se declara, aquellos considerados prioritarios, y el régimen preventivo que se les aplicará.                                                                                                                                                                                                                                                                                                                         |
+| ZEEC y ZEPA | 1. **Iniciación**: por orden de la Conselleria de medio ambiente. <br><br>2. **Proyecto de decreto**: por la Conselleria de medio ambiente, en el que se incluirá la delimitación gráfica del espacio protegido Red Natura 2000, una ficha descriptiva del espacio y los hábitats y especies que motivan su declaración, y una propuesta de las normas de gestión (artículo 47 ter).<br><br>3. **Participación pública**: información pública y audiencia a las corporaciones locales, entidades y asociaciones que ejerzan representación de los intereses afectados del proyecto de declaración del espacio y las normas de gestión, por un plazo mínimo de 45 días, para que puedan aportar observaciones y alegaciones.<br><br>4. **Propuesta de declaración**: de la Conselleria de medio ambiente al Consell, tras el trámite de participación pública, y elevación al Consell.<br><br>5. **Dictamen técnico**: del Consejo Asesor y de Participación de Medio Ambiente de la Comunitat Valenciana<br><br>6. **Aprobación**: por Decreto del Consell<br><br>7. **Publicación**: del decreto, en el Diari Oficial de la Comunitat Valenciana, con determinada información (apartado 3 de este artículo) |
+
 
 1. **Propuesta inicial**: de la Conselleria de medio ambiente a Generalitat Valenciana, basada en los criterios establecidos (Anexo III de la de la Ley 42/2007)
 
@@ -332,20 +335,19 @@ La declaración de zonas especiales de conservación y de zonas de especial prot
 
 7. **Publicación**: del decreto, en el Diari Oficial de la Comunitat Valenciana, con determinada información (apartado 3 de este artículo)
 
+Podrán establecerse zonas periféricas en los entornos de las Zonas Especiales de Conservación y en las Zonas de Especial Protección para las Aves para evitar o minimizar los impactos ambientales negativos procedentes del exterior sobre los hábitats y especies que han motivado su declaración.
 
-Podrán establecerse zonas periféricas en los entornos de las Zonas Especiales de Conservación y en las Zonas de Especial Protección para las Aves para evitar o minimizar los impactos ambientales negativos procedentes del exterior sobre los hábitats y especies que han motivado su declaración. La concreción de la delimitación y el régimen jurídico aplicable a estas zonas -que consistirá cómo mínimo en la aplicación del régimen de evaluación y autorización: artículo 14 quinquies), podrá establecerse en las normas de declaración de las mismas o en las normas de gestión (capítulo VI del título III).
+La concreción de la delimitación y el régimen jurídico aplicable a estas zonas -que consistirá cómo mínimo en la aplicación del régimen de evaluación y autorización: artículo 14 quinquies), podrá establecerse en las normas de declaración de las mismas o en las normas de gestión (capítulo VI del título III).
 
 #### Ordenación
 
 La ordenación ambiental en el ámbito de la Comunitat Valenciana se llevará a cabo mediante los siguientes instrumentos:
 
-- **Planes de ordenación de los recursos naturales** (PORN)
+- **Planes de ordenación de los recursos naturales** (PORN):
 
-- **Planes rectores de uso y gestión** (PRUG)
+- **Planes rectores de uso y gestión** (PRUG): marco de las actividades ligadas a la declaración del espacio natural protegido (investigación, uso público, conservación, protección y mejora de los valores ambientales...)
 
 - **Normas de gestión**
-
-La ordenación de los espacios naturales se llevará a cabo mediante los instrumentos que se señalan a continuación:
 
 | Espacio natural protegido                  | Ordenación                                                                           |
 | ------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -362,14 +364,14 @@ La ordenación de los espacios naturales se llevará a cabo mediante los instrum
 
 Los planes de ordenación de recursos naturales se regirán por la legislación básica en la materia (Ley 42/2007)
 
-En el área de amortiguación de impactos (fuera del espacio natural protegido), se estará a lo dispuesto en el respectivo plan de ordenación de los recursos naturales. Los planes serán obligatorios y ejecutivos en todo lo que afecte a la conservación, protección o mejora de la flora, la fauna, los ecosistemas, el paisaje o los recursos naturales.
+En el área de amortiguación de impactos (fuera del espacio natural protegido), se estará a lo dispuesto en el respectivo plan de ordenación de los recursos naturales. Estos serán obligatorios y ejecutivos en todo lo que afecte a la conservación, protección o mejora de la flora, la fauna, los ecosistemas, el paisaje o los recursos naturales.
 
 Prevalecerán sobre cualesquier otro instrumento de ordenación (territorial o física). En el acto de aprobación de estos planes se indicarán los instrumentos de ordenación territorial o física que deben ser modificados y los plazos para dicha modificación, así como las normas aplicables hasta
 tanto la misma tenga lugar.
 
 Las previsiones de los planes de ordenación de los recursos naturales tendrán carácter vinculante para cualesquiera otras actuaciones, planes o programas sectoriales en todo lo relativo a las materias a que se refiere el párrafo 1 de este artículo, y revestirán carácter indicativo en todo lo demás.
 
-os planes rectores de uso y gestión se atendrán a los criterios y directrices formulados en los planes de ordenación de los recursos naturales.
+Los planes rectores de uso y gestión se atendrán a los criterios y directrices formulados en los planes de ordenación de los recursos naturales.
 
 
 Corresponde a la Conselleria de Medio Ambiente la formulación de los planes de ordenación de los recursos naturales (previo informe de las Consellerias cuyas competencias puedan tener relación con su ámbito).
@@ -379,28 +381,28 @@ Elaborado el plan de ordenación de los recursos naturales, se someterá a infor
 A la luz de las observaciones e informes recibidos se redactará una propuesta de plan y se elevará al Consell para su aprobación mediante decreto.
 
 
-Los planes rectores de uso y gestión constituyen el marco en que han de desenvolverse las actividades directamente ligadas a la declaración del espacio natural protegido, y en particular la investigación, el uso público y la conservación, protección y mejora de los valores ambientales.
+
 
 En ausencia de plan de ordenación de los recursos naturales, establecen, además, el régimen de protección y ordenación de usos necesario para garantizar la conservación de los valores que motivaron la declaración del espacio natural protegido.
 
 
-Artículo 38. Ámbito
-
 El ámbito de los planes rectores de uso y gestión abarcará el territorio incluido dentro de los límites del espacio natural protegido y las correspondientes áreas de amortiguación de impactos.
 
-
-Artículo 39. Contenido 20
-
-Los planes rectores de uso y gestión se regirán por la legislación básica (Ley 42/2007) y contendrán como mínimo:
+Los planes rectores de uso y gestión se regirán por la legislación básica (Ley 42/2007) y contendrán los siguientes puntos mínimos:
 
 - **Usos y actividades**: normas de regulación 
+
 - **Recursos naturales y valores ambientales**: normas de gestión, protección, conservación y mejora
+
 - **Actividades de investigación**
+
 - **Uso público**: normas reguladoras.
+
 - **Zonificación** (artículo 33): coherente con la prevista en el plan de ordenación de recursos naturales (si las tuviera).
+
 - **Plan específico de prevención de incendios**
 
-Los planes rectores de uso y gestión tendrán carácter vinculante tanto para las Administraciones como para los particulares, prevalecerán sobre el planeamiento urbanístico y su aprobación llevará aparejada la revisión de oficio de los planes territoriales o sectoriales incompatibles con los mismos.
+Los planes rectores de uso y gestión tendrán carácter vinculante para las Administraciones y los particulares, prevalecerán sobre el planeamiento urbanístico y su aprobación llevará aparejada la revisión de oficio de los planes territoriales o sectoriales incompatibles con los mismos.
 
 En el acuerdo de aprobación de los planes rectores se señalarán los planes territoriales o sectoriales que deben ser modificados, los responsables de dicha modificación y los plazos en que la misma debe llevarse a cabo, así como las medidas que deban adoptarse en caso de incumplimiento.
 
@@ -414,9 +416,7 @@ Los planes rectores de uso y gestión se aprobarán en el plazo máximo de dos a
 
 
 
-Las normas de gestión de zonas especiales de conservación y de zonas de especial protección para las aves tienen por objeto establecer las medidas de conservación que sean necesarias para responder a las exigencias ecológicas de los tipos de hábitats naturales y de las especies presentes en tales zonas y para mantener o restablecer tales hábitats y especies en un estado de conservación favorable.
-
-Las normas de gestión de zonas especiales de conservación y de zonas de especial protección para las aves tendrán el siguiente contenido mínimo:
+Las normas de gestión de las ZECs y ZEPAs tienen por objeto establecer las medidas de conservación para responder a las exigencias ecológicas de los tipos de hábitats naturales y de las especies, y mantener o restablecerlos en un estado de conservación favorable. Tendrán el siguiente contenido mínimo:
 
 - **Ámbito de aplicación**: delimitación detallada
 
@@ -426,34 +426,35 @@ Las normas de gestión de zonas especiales de conservación y de zonas de especi
 
 - **Zonificación** del espacio protegido (en su caso)
 
-- Normas de aplicación directa para el desarrollo de las actividades a realizar en su ámbito, así como identificación, en su caso, de planes, programas y proyectos a los efectos de la aplicación del régimen especial de evaluación y autorización (artículo 14 quinquies).
+- **Normas de aplicación directa**: para el desarrollo de las actividades a realizar en su ámbito, así como identificación, en su caso, de planes, programas y proyectos a los efectos de la aplicación del régimen especial de evaluación y autorización (artículo 14 quinquies).
 
-- Directrices específicas de gestión de hábitats y especies, o previsión para su desarrollo e incorporación posterior, si fuera el caso.
+- **Directrices específicas**: de gestión de hábitats y especies, o previsión para su desarrollo e incorporación posterior, si fuera el caso.
 
 - **Conectividad e integración territorial**: previsiones (artículo 14 sexies).
 
 - **Programa de actuaciones necesarias para la ejecución del plan** (incluyendo estimación económica y responsabilidad sectorial)
 
-- Régimen de evaluación de los resultados de las medidas de conservación sobre los hábitats y especies presentes en dichas áreas.
+- **Régimen de evaluación** de los resultados de las medidas de conservación sobre los hábitats y especies presentes en dichas áreas.
 
-Las normas de gestión previstas en este artículo deberán identificar de manera clara qué aspectos de los instrumentos de ordenación ambiental de espacios naturales protegidos y de especies protegidas amenazadas deberán, en su caso, ser modificados a los efectos de procurar su adaptación a los objetivos de conservación.
+Deberán identificar de manera clara qué aspectos de los instrumentos de ordenación ambiental de espacios naturales protegidos y de especies protegidas amenazadas deberán, en su caso, ser modificados a los efectos de procurar su adaptación a los objetivos de conservación.
 
 Las normas de gestión podrán establecer, asimismo, los necesarios mecanismos de armonización de sus previsiones con los usos preexistentes en el territorio al que se apliquen, así como las medidas directas, tales como acuerdos con propietarios, indemnización, compra de terrenos u otras que, al amparo de lo previsto en la presente ley, sea necesario aplicar para garantizar su efectividad sin lesionar intereses legítimos.
 
-Las normas de gestión son vinculantes para las Administraciones Públicas y los particulares, prevaleciendo sobre el planeamiento territorial y urbanístico y cualquier otro instrumento sectorial de ordenación o gestión de recursos naturales
+Son vinculantes para las Administraciones Públicas y los particulares, prevaleciendo sobre el planeamiento territorial y urbanístico y cualquier otro instrumento sectorial de ordenación o gestión de recursos naturales.
 
 La aprobación de las normas de gestión de zonas especiales de conservación y zonas de especial protección para las aves se tramitará de manera simultánea a su declaración (artículo 29 ter)
 
 
-Artículo 48. Órganos de gestión
+En el acto de declaración de cada espacio natural protegido se establecerá el régimen de gestión aplicable al mismo. Son competentes los siguientes:
 
-En el acto de declaración de cada espacio natural protegido se establecerá el régimen de gestión aplicable al mismo.
+| Organismo                                           | Espacio natural protegido                                                                                                                                                                            |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dirección general competente (director-conservador) | - Parques naturales<br>- Reservas naturales                                                                                                                                                          |
+| Conselleria de medio ambiente                       | - Monumentos naturales<br>- Sitios de interés<br>- Paisajes protegidos<br>- Lugares de importancia comunitaria<br>- Zonas especiales de conservación<br>- Zonas de especial protección para las aves |
+| Corporaciones locales promotoras                    | - Parajes naturales municipales                                                                                                                                                                      |
 
-La gestión de los parques naturales y reservas naturales, corresponde a la dirección general competente en la materia, mediante el director-conservador.
 
-La gestión de monumentos naturales, sitios de interés, paisajes protegidos, lugares de importancia comunitaria, zonas especiales de conservación y zonas de especial protección para las aves podrán asumirla directamente los servicios de la conselleria competente en materia de medio ambiente.
 
- La gestión de los parajes naturales municipales corresponderá a las corporaciones locales que los hayan promovido.
 La solicitud municipal deberá contener el compromiso de afectar recursos suficientes para
 asumir su gestión, sin perjuicio de la colaboración de la Generalitat Valenciana.
 
@@ -468,18 +469,17 @@ La gestión parcial o total de los parques naturales, parajes naturales, reserva
 
 Artículo 50. Funciones del órgano colegiado
 
-El órgano colegiado (artículo 48.5) colaborará en la gestión de su correspondiente espacio natural respectivo mediante su función asesora y consultiva. Sin perjuicio del desarrollo de sus funciones en la norma de creación del espacio natural, le corresponde las siguientes:
+El órgano colegiado (artículo 48.5) colaborará en la gestión de su correspondiente espacio natural respectivo mediante su función asesora y consultiva. Le corresponde las siguientes funciones:
 
+- **Presupuesto de gestión**: del espacio natural protegido con carácter previo a su aprobación por el órgano gestor. Este presupuesto estará formado por las aportaciones de todos los miembros del órgano y otras aportaciones de terceras entidades, ya sean monetarias  en especie, debidamente valoradas, que deberán ser a tal fin reflejadas.
 
-- Informar el presupuesto de gestión del espacio natural protegido con carácter previo a su aprobación por el órgano gestor. Este presupuesto estará formado por las aportaciones de todos los miembros del órgano y otras aportaciones de terceras entidades, ya sean monetarias  en especie, debidamente valoradas, que deberán ser a tal fin reflejadas.
+- **Programa de gestión**: integrado por las actuaciones de los componentes del órgano colegiado y otros agentes, dirigidas a la mejora del espacio
 
-- Elaborar su programa de gestión, integrado por las actuaciones de los componentes del órgano colegiado y otros agentes, dirigidas a la mejora del espacio
+- **Informes preceptivos**: cuando se prevea expresamente la participación del órgano colegiado, así como aquellos otros informes que le sean solicitados.
 
-- Emitir los informes preceptivos cuando se prevea expresamente la participación del órgano colegiado, así como aquellos otros informes que le sean solicitados.
+- **Actuaciones e iniciativas**: tendentes a la consecución de los fines del espacio natural protegido, incluyendo los de difusión e información de los valores, así como programas de formación y educación ambiental.
 
-- Proponer las actuaciones e iniciativas tendentes a la consecución de los fines del espacio natural protegido, incluyendo los de difusión e información de los valores, así como programas de formación y educación ambiental.
-
-- Ser oído antes de la aprobación de la memoria anual de actividades y resultados, y proponer las medidas necesarias para mejorar su gestión.
+- **Audiencia**: antes de la aprobación de la memoria anual de actividades y resultados, y proposición de las medidas necesarias para mejorar su gestión.
 
 La composición del órgano colegiado se establecerá en la norma de declaración de cada espacio natural protegido. Formará parte el responsable de dinamización de dicho espacio e incluirá como mínimo representación de:
 
@@ -489,7 +489,7 @@ La composición del órgano colegiado se establecerá en la norma de declaració
 - **Grupos**: cuyos objetivos fundacionales coincidan con la finalidad del espacio natural protegido.
 - Personas y entidades que colaboren en la conservación de los valores naturales a través de la actividad científica, la acción social o la aportación de recursos de cualquier clase.
 
-Para el funcionamiento de cada órgano colegiado podrán establecerse en su seno las comisiones o grupos de trabajo que se considere necesario.
+Para el funcionamiento de cada órgano colegiado podrán establecerse las comisiones o grupos de trabajo que se consideren necesarios.
 
 
 El régimen jurídico (capítulo II y II bis) incluye el siguiente: 
@@ -518,7 +518,7 @@ Los derechos de tanteo y retracto (artículo 19) supone la preferencia de adquis
 
 La servidumbre de instalación de señales (artículo 23) será forzosa, realizada por la Conselleria de medio ambiente (previa audiencia a las personas interesadas), incluyendo para el paso (instalación), y acceso (conservación, mantenimiento, reposición), con indemnizaciones ([Ley de Expropiación Forzosa](https://www.boe.es/buscar/act.php?id=BOE-A-1954-15431)).
 
-El Consell podrá declarar áreas de influencia socioeconómica para los términos municipales a los que afecte un espacio natural protegido, para contribuir a su protección. La Generalitat prestará 
+El Consell podrá declarar áreas de influencia socioeconómica para los términos municipales a los que afecte un espacio natural protegido, para contribuir a su protección. ***La Generalitat prestará*** 
 
 
 Para los sitios de la Red Natura 2000 comprenderán además los siguientes (capítulo V de la Ley 11/1994):
@@ -542,11 +542,11 @@ La protección preventiva y perimetral
 
 La iniciación del expediente de declaración de un espacio natural protegido y la iniciación del procedimiento para la elaboración de alguno de los instrumentos de ordenación de espacios naturales previstos en esta ley, determinará la aplicación, por ministerio de la ley, de todas o alguna de las siguientes medidas cautelares:
 - a) Prohibición de realizar actos que supongan una transformación sensible de la realidad física y biológica o hayan de dificultar o imposibilitar la consecución de los objetivos de la declaración de espacio natural protegido.
-- Suspensión del otorgamiento de licencias municipales para las clases de actos que se especifiquen por entenderlos incluidos en el párrafo a) anterior.
-- Suspensión del otorgamiento de autorizaciones de aprovechamientos forestales y cinegé- ticos, así como de roturación y puesta en cultivo o transformación del mismo.
-- Suspensión del otorgamiento de permisos y concesiones mineras.
-- Paralización de explotaciones de recursos naturales en curso, de acuerdo con la legislación específica aplicable en cada caso.
-- Suspensión de la tramitación del planeamiento urbanístico con incidencia sobre los valores naturales objeto de protección.
+- **Suspensión del otorgamiento de licencias municipales** para las clases de actos que se especifiquen por entenderlos incluidos en el párrafo a) anterior.
+- **Suspensión del otorgamiento de autorizaciones de aprovechamientos forestales y cinegé- ticos**, así como de roturación y puesta en cultivo o transformación del mismo.
+- **Suspensión del otorgamiento de permisos y concesiones mineras.**
+- **Paralización de explotaciones** de recursos naturales en curso, de acuerdo con la legislación específica aplicable en cada caso.
+- **Suspensión de la tramitación del planeamiento urbanístico** con incidencia sobre los valores naturales objeto de protección.
 
 La determinación de la forma en que las medidas cautelares previstas en el párrafo anterior deben aplicarse en cada caso se realizará mediante acuerdo del Gobierno valenciano, a propuesta de la Conselleria de Medio Ambiente. En cualquier caso, la prohibición establecida en el apartado a) del párrafo 1 de este artículo tendrá carácter automático con la iniciación del expediente de declaración de espacio o aprobación de instrumentos de ordenación ambiental.
 
@@ -558,16 +558,12 @@ La iniciación del expediente de aprobación de un plan de ordenación de los re
 
 Reglamentariamente podrán establecerse los casos en que dicho informe deba sustituirse por una evaluación del impacto ambiental.
 
-Artículo 29. Áreas de amortiguación de impactos
 
-La declaración de espacio natural protegido podrá incluir la delimitación de áreas de amortiguación de impactos en las que se aplicarán medidas específicas destinadas a evitar impactos negativos sobre los espacios protegidos.
-
-El establecimiento o alteración de la delimitación de áreas de amortiguación de impactos y el régimen de protección aplicable en las mismas podrá asimismo llevarse a cabo en los instrumentos de ordenación del espacio protegido sin que tenga la consideración de modificación de la declaración de espacio natural protegido.
+La declaración de espacio natural protegido podrá incluir la delimitación de áreas de amortiguación de impactos en las que se aplicarán medidas específicas destinadas a evitar impactos negativos sobre los espacios protegidos. El establecimiento o alteración de su delimitación y el régimen de protección aplicable podrá asimismo llevarse a cabo en los instrumentos de ordenación del espacio protegido sin que tenga la consideración de modificación de la declaración de espacio natural protegido.
 
 El régimen de protección aplicable en estas áreas estará constituido por la regulación de usos y actividades que se establezca o la exigencia de evaluación de impacto ambiental o informe vinculante del órgano gestor del espacio protegido.
 
-La delimitación de las areas de amortiguación de impactos se basará en criterios geográficos, fisiográficos, ecológicos o funcionales y podrá tener carácter discontinuo.
-
+La delimitación de las áreas de amortiguación de impactos se basará en criterios geográficos, fisiográficos, ecológicos o funcionales y podrá tener carácter discontinuo.
 
 Respecto a los espacios Red Natura 2000 (capítulo III),  
 
@@ -579,32 +575,35 @@ Respecto a los espacios Red Natura 2000 (capítulo III),
 
 
 por los que se declara, los hábitats y especies prioritarios en él presentes y el régimen preventivo que se les aplicará.
-4. Una vez incluido el lugar en la lista oficial de lugares de importancia comunitaria por la Comisión Europea, será declarado por la Generalitat, lo antes posible y como máximo en un plazo de seis años, zona especial de conservación, junto con la aprobación del correspondiente instrumento de gestión, siguiendo el procedimiento establecido en el artículo siguiente.
+
+Una vez incluido el lugar en la lista oficial de lugares de importancia comunitaria por la Comisión Europea, será declarado por la Generalitat, lo antes posible y como máximo en un plazo de seis años, zona especial de conservación, junto con la aprobación del correspondiente instrumento de gestión, siguiendo el procedimiento establecido en el artículo siguiente.
 
 Artículo 29 ter. Declaración de zonas especiales de conservación y zonas de especial protección para las aves
 
-La declaración de zonas especiales de conservación y de zonas de especial protección para las aves se realizará mediante decreto del Consell.
+Las zonas especiales de conservación y de zonas de especial protección para las aves se realizará mediante decreto del Consell.
 
-El procedimiento para la declaración de las mencionadas zonas se iniciará mediante orden de la conselleria competente en materia de medio ambiente.
+1. **Iniciación**: por orden de la Conselleria de medio ambiente
 
-Iniciado el procedimiento, dicha consellería elaborará un proyecto de decreto de declaración, en el que se incluirá la delimitación gráfica del espacio protegido Red Natura 2000, una ficha descriptiva del espacio y los hábitats y especies que motivan su declaración, y una propuesta de normas de gestión, las cuales se redactarán de conformidad con lo establecido en el
-artículo 47 ter de la presente ley.
+2. **Proyecto de decreto**: por la Conselleria de medio amiente, en el que incluirá la delimitación gráfica del espacio protegido Red Natura 2000, una ficha descriptiva del espacio y los hábitats y especies que motivan su declaración, y una propuesta de normas de gestión (artículo 47).
 
-El proyecto de declaración del espacio y de aprobación de sus normas de gestión será sometido, por el plazo mínimo de cuarenta y cinco días, a los trámites de información pública y de audiencia a las corporaciones locales, entidades y asociaciones que ejerzan la representación de los intereses afectados por la declaración, sin perjuicio de otras formas y medios de participación ciudadana que puedan plantearse.
+3. **Información pública y audiencia**: proyecto de declaración del espacio y de aprobación de sus normas de gestión será sometido, por el plazo mínimo de cuarenta y cinco días, a los trámites de información pública y de audiencia a las corporaciones locales, entidades y asociaciones que ejerzan la representación de los intereses afectados por la declaración, sin perjuicio de otras formas y medios de participación ciudadana que puedan plantearse.
 
-A la vista de las observaciones y alegaciones recibidas durante el período de información pública y audiencia, la Conselleria de medio ambiente elevará al Consell la correspondiente propuesta de declaración mediante decreto (previo dictamen del Consejo Asesor y de Participación de Medio Ambiente de la Comunitat Valenciana).
+	A la vista de las observaciones y alegaciones recibidas durante el período de información pública y audiencia, la Conselleria de medio ambiente elevará al Consell la correspondiente propuesta de declaración mediante decreto (previo dictamen del Consejo Asesor y de Participación de Medio Ambiente de la Comunitat Valenciana).
+
+4. **Decreto**: por el Consell
+5. **Publicación**: en el Diari Oficial de la Comunitat Valenciana
 
 
-La publicación del decreto en el Diari Oficial de la Comunitat Valenciana expresará la información mencionada en el apartado 3 de este artículo.
-
-
-Artículo 29 quáter. Zonas periféricas
 Podrán establecerse zonas periféricas en la totalidad o en parte del entorno territorial inmediato de las zonas especiales de conservación y de las zonas de especial protección para las aves al objeto de evitar o minimizar los impactos ambientales negativos, procedentes del exterior, sobre los hábitats y especies que han motivado su declaración. La concreción de la delimitación y el régimen jurídico aplicable a estas zonas, que consistirá cómo mínimo en la aplicación del régimen de evaluación y autorización previsto en el artículo 14 quinquies, podrá establecerse en las normas de declaración de las mismas o en las normas de gestión reguladas en el capítulo VI del título III de esta ley
 
 
 ### Parajes Naturales Municipales
 
 El [Decreto 15/2016](https://mediambient.gva.es/documents/92720197/93837455/Decreto15-2016_+de_Regulacion_de_los_PNM_de_la_CV.pdf/0163a513-e51a-48dd-a956-cc341107d5ae) regula los Parajes Naturales Municipales de la Comunitat Valenciana, pertenecientes a uno o varios municipios, declarados por el Consell por sus valores (ecología, geología, paisaje, cultura...), entidad, y transcendencia local, o potencialidades para uso público.
+
+
+
+
 
 Se realizan para conservar y potenciar los valores, así como gestionarlos de manera sostenible y hacer un uso público del entorno. 
 
@@ -619,23 +618,236 @@ La iniciativa es de los Ayuntamientos interesados, dirigiendo a la Conselleria c
 La conselleria competente en materia de medio ambiente prestará soporte técnico a los ayuntamientos para la elaboración de la memoria justificativa del paraje natural municipal. En caso necesario, si los ayuntamientos no disponen de medios materiales suficientes, dicha Conselleria podrá asumir la elaboración técnica del citado documento en colaboración con aquellos.
 
 
+
+
+Son parajes naturales municipales:
+
+>Aquellos ámbitos territoriales, incluidos en uno o varios términos municipales, que el Consell, por iniciativa de la corporación o corporaciones locales afectadas territorialmente y a propuesta de la conselleria competente en materia de medio ambiente, declare como tales por sus especiales valores, de entidad y trascendencia locales, en los ámbitos ecológico, geológico, paisajístico o cultural, o bien atendiendo a sus potencialidades para el uso público ordenado del medio.
+
+
+Cumplen todas o algunas de las siguientes funciones:
+
+- **Conservación, regeneración y mejora** de los valores naturales y culturales que han motivado su declaración.
+
+- **Puesta en valor y uso sostenible** de dichos valores, contribuyendo con ello al desarrollo sostenible del municipio en términos económicos, sociales y culturales.
+
+- **Uso público** del entorno, compatible con los objetivos de conservación, en materia de disfrute ordenado del medio, educación ambiental y estudio de los valores ambientales y culturales.
+
+Iniciativa
+
+La iniciativa para la declaración de parajes naturales municipales corresponde a los ayuntamientos interesados en la misma, atendiendo a la existencia en sus municipios, a criterio de la corporación local, con la conformidad de la conselleria competente en materia de medio ambiente, de zonas que reúnan alguno de los valores y potencialidades de uso.
+
+El procedimiento para ejercer la iniciativa podrá comenzar de oficio, o a solicitud de personas o entidades interesadas (en particular, de los vecinos y los grupos, entidades o asociaciones que se ocupen y tengan por finalidad primordial la conservación del medio natural).
+
+Los ayuntamientos promotores presentarán a la Conselleria competente en materia de medio ambiente un acuerdo plenario con el siguiente contenido mínimo:
+
+- **Solicitud expresa** de declaración del paraje natural municipal.
+- **Manifestación de la intención de gestionar** el espacio natural protegido (Ley 11/1994 y presente decreto).
+- **Denominación** del espacio.
+- **Extensión** en hectáreas.
+- **Plano** con la delimitación propuesta para el paraje natural municipal.
+- **Exposición de motivos** que aconsejan la declaración del paraje natural municipal.
+
+Dicho acuerdo plenario adjuntará un documento técnico, denominado «memoria justificativa», con el siguiente contenido mínimo:
+
+- **Denominación, localización geográfica, delimitación y plano parcelario**: en el que se especifiquen las parcelas incluidas en el espacio propuesto. Se incluirá una relación de las parcelas con su referencia catastral. Esta documentación cartográfica deberá aportarse tanto en formato papel como en formato digital, utilizando archivos del tipo .shp con todas las capas que lo componen. El sistema de referencia cartográfica a utilizar será UTM HUSO 30 ETRS89.
+
+- **Méritos y potencialidades de uso**: que aconsejan la declaración del espacio protegido.
+
+- **Síntesis sucinta de la información**: disponible sobre el medio físico, el territorio, la estructura administrativa y el ambiente socioeconómico de la zona considerada.
+
+- **Posibles impactos o factores de riesgo** (actuales o potenciales): que puedan actuar sobre los valores ambientales o culturales, cinegéticos o piscícolas.
+
+- **Tratamiento en el planeamiento urbanístico municipal**: de los terrenos afectados. Previsiones para la adaptación del planeamiento en caso necesario.
+
+- **Régimen de titularidad**: de los terrenos.
+
+- **Mecanismo de gestión**: del paraje natural municipal.
+
+- **Mecanismos de financiación**: medios propios del ayuntamiento o en colaboración con organismos y entidades.
+
+Si el ámbito territorial del paraje afecta a varios municipios, se tendrá en cuenta lo siguiente:
+
+- **Acuerdos plenarios**: presentación simultánea por los respectivos Ayuntamientos
+
+- **Representación general**: una corporación local para todas ellas, especificada en cada acuerdo plenario, especificándose el mecanismo de coordinación interadministrativa.
+
+- **Memoria justificativa única**: de los valores del paraje natural municipal, elaborada conjuntamente por los ayuntamientos participantes, en el que se especifiquen los mecanismos de coordinación para la gestión conjunta del espacio.
+
+La Conselleria de medio ambiente prestará soporte técnico a los ayuntamientos para la elaboración de la memoria justificativa del paraje natural municipal (y en caso necesario, la elaborará).
+
+Una vez completada la documentación indicada en los apartados anteriores de este artículo, el ayuntamiento promotor la remitirá a la Conselleria de medio ambiente. Ésta procederá a su recepción y a verificar que se halla completa, procediendo, en caso contrario, a requerir al ayuntamiento para que en el plazo de 20 días proceda a la subsanación de las deficiencias encontradas.
+
+
+Artículo 4. Informe técnico
+
+En el plazo de un mes contado desde que la propuesta del ayuntamiento tenga entrada en la Conselleria de medio ambiente, emitirá informe técnico respecto a la viabilidad de la propuesta de paraje natural municipal formulada por el ayuntamiento promotor. 
+
+
+Artículo 5. Desestimación de la propuesta
+
+En caso de que el informe técnico resulte desfavorable (por deficiencias insalvables o no ajustarse a los requerimientos del espacio), la Conselleria de medio ambiente desestimará la propuesta, de manera motivada, notificando al promotor.
+
+Artículo 6. Tramitación del decreto de declaración
+
+Una vez concedido el criterio de conformidad favorable, la conselleria competente en materia de medio ambiente iniciará la elaboración y tramitación del decreto de declaración del paraje natural municipal.
+
+La Conselleria de medio ambiente someterá a información pública, por un período no inferior a cuarenta y cinco días, el proyecto de decreto de declaración del paraje natural municipal, mediante la inserción del mismo en el Diari Oficial de la Comunitat Valenciana (DOCV) y su remisión al ayuntamiento o ayuntamientos afectados, para que procedan a su vez a su exposición en sus dependencias.
+
+Cuando exista afección a terrenos privados, el ayuntamiento promotor deberá notificar individualmente el trámite a los propietarios de terrenos afectados, concediéndoles un plazo de cuarenta y cinco días para que aporten sus alegaciones.
+
+La Conselleria de medio ambiente dará audiencia a las entidades y asociaciones que ejerzan la representación de los intereses afectados por la declaración, concediéndoles, asimismo, un plazo de cuarenta y cinco días para que aporten sus alegaciones.
+
+La Conselleria de medio ambiente recabará de los organismos competentes aquellos informes técnicos sectoriales que resulten preceptivos, o que se estimen oportunos por la naturaleza del proyecto de decreto de declaración. Para ello, concederá a dichos organismos un plazo de treinta días hábiles, transcurridos los cuales sin haber recibido el informe solicitado, podrá proseguir la tramitación del
+procedimiento sin más demora.
+
+Las alegaciones que se formulen en dicho trámite serán, tras su estudio, informadas por la conselleria competente en materia de medio ambiente, la cual mantendrá informados a los ayuntamientos solicitantes de la evolución de la tramitación.
+
+La iniciación del expediente de declaración determinará la aplicación del régimen cautelar de protección establecido en el artículo 28.1.a de la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunitat Valenciana.
+
+Artículo 7. Declaración del paraje natural municipal
+
+La Conselleria de medio ambiente, tras la realización del trámite de información pública y el pronunciamiento sobre las alegaciones formuladas y sobre las eventuales modificaciones introducidas en el proyecto como resultado de dicho trámite, emitirá informe sobre el procedimiento de declaración del paraje.
+
+Dicho informe será elevado al Consell, junto con el correspondiente proyecto de decreto de declaración del paraje natural municipal, dentro del plazo máximo de tres meses contados desde la fecha del otorgamiento del criterio de conformidad favorable regulado en el artículo 4 de este decreto
+
+
+La declaración del paraje natural municipal se efectuará mediante decreto del Consell. Dicho decreto contendrá, como mínimo, los siguientes extremos:
+
+- **Exposición de motivos**
+- **Delimitación**: textual y gráfica.
+- **Normativa básica** de protección y ordenación de usos del paraje natural municipal.
+- **Composición del Consejo de Participación** del Paraje Natural Municipal, como órgano colegiado consultivo, colaborador y asesor en la gestión del espacio protegido. En dicho órgano existirá representación de la conselleria competente en materia de medio ambiente y del ayuntamiento o ayuntamientos promotores.
+- **Habilitación al ayuntamiento**: para dictar una ordenanza de gestión del paraje natural municipal, en la que se establecerá su ordenación pormenorizada y régimen de gestión, en el marco de la normativa básica de protección contenida en el decreto de declaración.
+
+
+Artículo 8. Régimen de gestión de los parajes naturales municipales
+
+La gestión de los parajes naturales municipales corresponde al Ayuntamiento promotor (en el caso de que sean promovidas por varios, de común acuerdo, con un mecanismo de coordinación)..
+
+El ayuntamiento o ayuntamientos promotores podrán, si lo consideran conveniente, designar a una persona encargada de las funciones de la dirección técnica y de la coordinación de las actividades de gestión del espacio protegido, la cual contará con la suficiente aptitud y preparación técnica para dicho cometido y podrá ser asistida, en caso necesario, por personal bajo su dirección. 
+
+El planeamiento urbanístico de los municipios incluidos en el ámbito del paraje deberá adaptarse a la normativa básica de protección y ordenación de usos establecida por el correspondiente decreto de declaración del paraje natural municipal. Mientras dicha adaptación no se produzca, en caso de conflicto prevalecerán las determinaciones establecidas en el citado decreto de declaración.
+
+El ayuntamiento o ayuntamientos promotores aprobarán, en el plazo de dos años contados desde la fecha de declaración, una ordenanza de gestión del paraje natural municipal. Dicha ordenanza contendrá la ordenación pormenorizada del paraje natural municipal y deberá ajustarse a lo dispuesto en la normativa básica de protección y ordenación contenida en el decreto de declaración. La ordenanza de gestión de los parajes naturales municipales tendrá como contenidos mínimos los siguientes:
+
+- **Zonificación** del espacio natural en función de la tipología de los hábitats que lo conforman y su estado de conservación y los usos existentes o previstos en el espacio natural protegido.
+ - **Actuaciones de conservación y mantenimiento** de los hábitats y especies existentes en el paraje natural municipal.
+- **Normas de ordenación de los usos tradicionales** existentes en el espacio natural.
+- **Normas de ordenación del uso público** y actuaciones a desarrollar para el correcto ejercicio del mismo.
+- **Previsión de las necesidades** de infraestructuras relacionadas con la gestión del paraje natural.
+- **Previsión de los recursos** necesarios para el desarrollo de las tareas de vigilancia del paraje natural.
+- **Régimen de las actividades educativas y científicas** a desarrollar en el ámbito del paraje natural.
+
+Una vez aprobada por el Pleno del ayuntamiento o ayuntamientos promotores la ordenanza de gestión del paraje natural municipal, se remitirá a la Conselleria de medio ambiente, la cual verificará que se ajusta a lo dispuesto en la normativa básica del decreto de declaración.
+
+En caso contrario, cursará el oportuno requerimiento al ayuntamiento o ayuntamientos promotores, iniciándose el procedimiento de control de actos y acuerdos previsto en la legislación reguladora del régimen local.
+
+En el caso de que el paraje natural municipal albergue suelos forestales en su ámbito, la gestión de los mismos estará a lo dispuesto en el artículo 23 de la Ley 43/2003. 
+
+Asimismo, y en consonancia con lo establecido en la referida Ley 43/2003 y en el Decreto 58/2013, de 3 de mayo, del Consell, por el que se aprobó el Plan de Acción Territorial Forestal de la Comunitat Valenciana, se deberá contar con un instrumento técnico forestal aprobado, siendo la aplicación de dicho instrumento supervisada por la conselleria competente en materia forestal. 
+
+En caso de que la entidad municipal promotora del paraje natural municipal pretenda llevar a cabo la gestión forestal de los terrenos de forma conjunta con los propietarios, deberá contar con la conformidad expresa de estos. En caso de que el paraje natural afecte a parte o a la totalidad de montes catalogados, si estos son de propiedad municipal, la gestión forestal deberá ser conforme al instrumento técnico de gestión forestal aprobado por la administración competente en la materia. En el caso de montes consorciados, convenidos o catalogados propiedad de la Generalitat, será la propia Generalitat la encargada de la gestión forestal de los mismos, de acuerdo con el correspondiente instrumento técnico de gestión forestal que se apruebe al respecto.
+
+
+
+Artículo 9. Cooperación de la conselleria competente en materia de medio ambiente en la gestión de los parajes naturales municipales
+
+La Conselleria de medio ambiente podrá prestar a los ayuntamientos promotores la asistencia técnica necesaria para la gestión de los parajes naturales municipales, incluyendo la programación y ejecución de determinadas actuaciones dotacionales y de ordenación y gestión. Para ello, podrá cooperar con los ayuntamientos mediante sus propios medios materiales y personales o a través de apoyo económico a estos últimos. Cuando la entidad o las características de las actuaciones así lo aconsejen, procederá la formalización de los correspondientes convenios de colaboración entre las instituciones
+implicadas.
+
+Las diputaciones provinciales podrán participar (a solicitud del correspondiente ayuntamiento, y en el marco de sus competencias en materia de medio ambiente) mediante sus recursos propios en la gestión de los parajes naturales municipales, bien mediante la ejecución directa de actuaciones o la financiación de las mismas.
+
+Asimismo, la Conselleria de medio ambiente fomentará, de común acuerdo con los ayuntamientos promotores, la participación en la gestión de los parajes naturales municipales de cualquier otro organismo o entidad, público o privado, que pueda tener interés en la gestión de aquellos.
+
+
+Artículo 10. Financiación
+
+La financiación de los parajes naturales municipales correrá por cuenta del ayuntamiento o ayuntamientos promotores (sin perjuicio de la posible colaboración económica de la Generalitat o de otros organismos de la administración local), así como de cualquier organismo o entidad, público o privado, que desee participar en dicha financiación.
+
+La participación económica de la Generalitat (Conselleria de medio ambiente) podrá ser directa (ayudas económicas a determinadas actuaciones gestoras promovidas por el ayuntamiento), o indirecta (ejecución de actuaciones o dotaciones con medios propios: artículo 9).
+
+
 ### Humedales
 
 Las Zonas Húmedas de la Comunitat Valenciana corresponden a marismas, marjales, turberas, o aguas rasas (permanentes o temporales, estancadas o corrientes, naturales o artificiales, dulces, salobres o salinas) y equivalentes (artículo 15 de la Ley 11/1994) ([ver en visor](https://visor.gva.es/visor/index.html?extension=422554,4148174,1017267,4564725&capasids=Orto_Actual;,Espacios_Protegidos;14,Espacios_Protegidos;13&tcapas=1.0,1.0,1.0&idioma=es)). 
+
+
 
 Deberán ser protegidas de actividades que puedan reducirlas o degradarlas, por lo que los terrenos se incluirán como suelo no urbanizable de especial protección ([Decreto Legislativo 1/2021](https://www.boe.es/buscar/act.php?id=DOGV-r-2021-90283): LOTUP), aún tras su desecación. Las instalaciones de actividades consolidadas con influencia en la calidad de las aguas adecuarán sus vertidos a criterios de calidad de la Conselleria de medio ambiente.
 
 El Consell (a propuesta de la Conselleria de medio ambiente) aprobará el [Catálogo de las Zonas Húmedas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-zonas-humedas) por Acuerdo ([Acuerdo de 10 de septiembre de 2002](https://dogv.gva.es/datos/2002/09/16/pdf/2002_A9833.pdf)), en el que se incluya su delimitación (zonas, cuencas con precauciones especiales), para su conservación, y regulación de la planificación hidrológica necesidades y requisitos de restauración y conservación).
 
-En la actualidad comprenden 55 espacios, 48 originales ([Acuerdo de 10 de septiembre de 2002](http://www.docv.gva.es/datos/2002/09/16/pdf/2002_A9833.pdf)) y 7 ampliados ([Acuerdo de 20 de mayo de 2022](https://dogv.gva.es/datos/2022/06/02/pdf/2022_5079.pdf)):
 
-|            | Humedales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Inicial    | 1. Marjal de Peñíscola<br>2. Parque Natural del Prat de Cabanes<br>3. Marjal de Nules-Burriana<br>4. Marjal i Estany d’Almenara<br>5. Marjal dels Moros<br>6. Marjal de Rafalell y Vistabella<br>7. Parque Natural de l’Albufera de València<br>8. Marjal i Estany de la Ribera Sud del Xúquer<br>9. Marjal de la Safor<br>10. Parque Natural de la Marjal de Pego-Oliva<br>11. Els Bassars-Clot de Galvany<br>12. Parque Natural del Fondo d’Elx<br>13. Els Carrissars d’Elx<br>14. El Hondo de Amorós<br>15. Desembocadura del Riu de la Sénia<br>16. Desembocadura del Riu de les Coves<br>17. Desembocadura del Millars<br>18. Clot de la Mare de Déu<br>19. Desembocadura y Frente Litoral del Xúquer<br>20. Desembocadura del Riu Xeraco<br>21. Desembocadura del Riu Bullents<br>22. Desembocadura y Frente Litoral del Riu Racons<br>23. Desembocadura del Riu de l’Algar<br>24. Desembocadura y Frente Litoral del Segura<br>25. Meandros Abandonados del Río Segura Meandro La Noria (Algorfa, La Jacarilla)<br>26. El Barchell<br>27. Nacimiento del Riu Verd<br>28. Ullal de l’Estany del Duc<br>29. Font dels Sants<br>30. Fonts de l’Algar<br>31. Dehesa de Soneja<br>32. Lagunas de Segorbe<br>33. Lavajos de Sinarcas<br>34. Laguna de San Benito<br>35. Laguna y Saleros de Villena<br>36. Laguna de Salinas<br>37. Salines de Calp<br>38. Saladar d’Aigua Amarga<br>39. Parque Natural de Las Salinas de Santa Pola<br>40. Parque Natural de Las Lagunas de La Mata-Torrevieja<br>41. Balsa de Chóvar<br>42. Embalse de Embarcaderos<br>43. Embalse de la Vallessa<br>44. Embalse del Bosquet de Moixent<br>45. Embalse de Relleu<br>46. Embalse de Tibi<br>47. Embalse de Elda<br>48. Embalse d’Elx |
-| Ampliación | 49. Albufera de Gaianes, en los términos municipales de Gaianes y Alcocer de Planes (Alicante).<br>50. Embalse de la Pedrera<br>51. Conjunto de El Prado-Rodriguillo<br>52. Laguna de Sant Mateu<br>53. El Quadre de Santiago<br>54. Laguna temporal del Rebalsado<br>55. Desembocadura del Rio Monnegre o Rio Seco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-Los 48 iniciales fueron incluidos en el Inventario Español de Zonas Húmedas (IEZH) ([resolución de 9 de marzo de 2011](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5372)). De los 76 humedales españoles en la Lista Ramsar ([ver la ficha de España en la Convención](https://rsis.ramsar.org/?__goaway_challenge=meta-refresh&__goaway_id=b3950cd2625d89514d4df8e003feaf00&__goaway_referer=https%3A%2F%2Fwww.ecosia.org%2F&f[0]=country_en_s%3ASpain&language=en)), XXXX se encuentran en la Comunidad Valenciana:  *L'Albufera de Valencia*, las [Salinas de Santa Pola](https://rsis.ramsar.org/ris/457), [El Hondo](https://rsis.ramsar.org/ris/455), Prat de Cabanes-Torreblanca, y la Marjal de Pego-Oliva.
+El Catálogo ha considerado hasta doce valores diferenciados, agrupados en cuatro bloques:
 
-También se han incluido en la Lista Ramsar algunos de ellos, como Ría los humedales de Villaviciosa, Lagunas de Campotejar, Lagunas de las Moreras, Saladas de Sástago-Bujaraloz y Tremedales de Orihuela ([Resolución de 25 de enero de 2011](http://www.boe.es/boe/dias/2011/02/04/pdfs/BOE-A-2011-2102.pdf)):  (en la Lista Ramsar aparecen más: ver ficha del Convenio)
+| Categoría                 | Valores                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bióticos (A)              | - A1. **Naturalísticos**: reflejan el estado actual y potencial de los sistemas naturales de la zona en su conjunto.<br><br>- A2. **Específicos**: existencia de especies legalmente protegidas.<br><br>- A3. **Estructurantes**: posición de la zona en relación con otras zonas o enclaves y con espacios naturales de interés, posibilitando la conexión directa o indirecta entre los mismos                                                                                                                                                                                             |
+| Económicos (B)            | - B1. **Agropecuarios y Extractivos**: consideran la existencia de actividades (agricultura, ganadería, extracción de turba...) siempre que sean compatibles o incluso necesarias para el mantenimiento de la misma.<br><br>- B2. **Turístico-recreativos y cinegéticos** (siempre que sean compatibles con su conservación).<br><br>- B3. **Hídricos**: aportación a su formación y mantenimiento, y a sus posibilidades de utilización (en cantidad y calidad)                                                                                                                             |
+| Culturales (C)            | - C1. **Paisajísticos**: consideran la calidad visual, teniendo en cuenta su representatividad, singularidad, y su aportación en relación con otros paisajes del entorno.<br><br>- C2. **Patrimoniales o etnológicos**: elementos o conjuntos de interés histórico-artístico, y de aquellos representativos de formas de vida patrimonio etnológico valenciano.<br><br>- C3. **Didáctico-científicos**, que contemplan la existencia de elementos o conjuntos que permitan explicar procesos naturales o histórico-culturales de relevancia, en el campo de la educación o la investigación. |
+| Protección de riesgos (D) | - D1. **Contención de la intrusión marina, erosión costera y otros**: en los que se considera la aportación del humedal costero frente a la intrusión o la de los frentes litorales asociados respecto a la erosión de la costa. Incluirá también<br>otras funciones como la estabilización microclimática.<br><br>- D2. **Minoración de daños por inundación**: disminución de la peligrosidad de avenidas absorbiendo volúmenes y disminuyendo su velocidad.<br><br>- D3. **Contención de contaminantes**: absorber o fijar, evitar su dispersión, depuración...                           |
+
+La determinación de los criterios de catalogación se fundamente en dos principios claves:
+
+- **Discrecionalidad técnica**
+- **Cautela**
+
+La conjunción de ambos principios y para cada uno de los doce valores identificados se efectúa, en cada zona inventariada, una calificación cualitativa, mediante un panel de expertos multidisciplinar y con base a la información previa y conocimientos personales que se poseen de las mismas.
+
+La necesaria homogeneización en la calificación final se logra mediante diversas rondas en las que se aportan datos o fundamentos y aproximan posiciones, hasta lograr el consenso en la citada calificación.
+
+Por cada valor identificado se contemplan hasta cuatro posibilidades de calificación en orden decreciente (con la siguiente ponderación): relevante (x11), significativo (x3), presente (x1) y ausente. Para su inclusión, la puntuación mínima es de 11.
+
+La delimitación definitiva de las zonas húmedas catalogadas se efectúa de acuerdo con los siguientes criterios:
+
+- **Correspondencia con los valores calificados**: especialmente con los "relevantes" y "significativos".
+
+- **Exclusión de áreas irreversiblemente transformadas**, en las que su recuperación, caso de ser posible, supondría el empleo de medios técnicos o económicos absolutamente desproporcionados o consecuencias sociales inasumibles.
+
+- **Ajuste a límites reconocibles**: que faciliten su identificación, control y gestión, (caminos, acequias, parcelas, vallados...)
+
+Es importante advertir que, en general, los valores que se reconocen en un humedal son muy diversos y que su reflejo espacial no es uniforme, por lo que no es exigible que todas y cada una de las porciones de terreno que lo componen contengan homogéneamente los mismos valores ni, sobre todo, la misma calificación.
+
+Por último y en lo concerniente a la delimitación de las denominadas "cuencas" y según lo dispuesto por el apartado 4º del ya citado artículo 15 de la Ley 11/1994, se ha adoptado, por analogía con los "perímetros de influencia o protección" de los actuales Planes Rectores de Uso y Gestión desarrollados en los Parques Naturales que son zonas húmedas, un perímetro de 500 metros en torno a la delimitación del humedal.
+
+Partiendo del hecho incuestionable de que las cuencas superficiales vertientes tienen en los humedales de la Comunidad un escaso significado en lo que alimentación e influencia se refiere, al estar casi todas ellas sustancialmente alteradas en su régimen natural (en el que por otro lado la componente subterránea suele ser más relevante), el perímetro adoptado se considera, en principio, más que suficiente puesto que lo es para espacios que tienen la consideración de parques; no obstante, posteriores avances en el conocimiento hidrológico e hidráulico de los humedales permitirán perfilar dicho perímetro o "cuenca" de afección.
+
+La caracterización de todas y cada una de las zonas húmedas catalogadas se efectúa de manera sistemática mediante una ficha cuyo contenido es el siguiente:
+- **Código y denominación** de la zona húmeda
+- **Descripción de la misma**: grupo al que pertenece, extensión, términos municipales donde se ubica, usos del suelo predominantes y singularidades.
+- **Funcionamiento**: alimentación, descarga, calidad del agua y afecciones al régimen natural.
+- **Régimen del suelo**: clasificación urbanística predominante y existencia de protecciones específicas.
+- **Cuadro de valoración**: calificación para cada uno de los valores considerados.
+- **Esquema de emplazamiento**: situación de la zona en relación con los límites municipales, núcleos de población y principales carreteras.
+- **Vista de la zona**: fotografía de algún ambiente representativo de la misma.
+
+Las delimitaciones gráficas de todas las zonas así como sus "cuencas", se concretan en planos a escala 1/10.000 sobre cartografía fotogramétrica, con excepción de las que corresponden a Espacios Naturales Protegidos que se remiten a las delimitaciones contenidas en sus decretos de declaración.
+
+Estas delimitaciones gráficas se concretan, en fichas individualizadas para cada una de las zonas, mediante coordenadas cartográficas UTM, acompañadas de un croquis con referencias de algunas de las mismas, como elemento de referencia.
+
+En la actualidad comprenden 55 espacios, 48 originales ([Acuerdo de 10 de septiembre de 2002](http://www.docv.gva.es/datos/2002/09/16/pdf/2002_A9833.pdf)) y 7 ampliados ([Acuerdo de 20 de mayo de 2022](https://dogv.gva.es/datos/2022/06/02/pdf/2022_5079.pdf)) (en negrita los ampliados). Se han clasificado en los siguientes grupos:
+
+| Categoría                                 | Humedales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Albuferas y marjales litorales            | 1. [Marjal de Peñíscola](https://mediambient.gva.es/documents/20550900/175086213/Ficha-01.pdf/0a71e5ca-6540-fb0a-e7ad-eb591b94355c?t=1670930482963)<br>2. [Parque Natural del Prat de Cabanes](https://mediambient.gva.es/documents/20550900/175086213/Ficha-02.pdf/9bb4491c-6a71-eb04-7e80-b96e2f4b14b1?t=1670930482556)<br>3. [Marjal de Nules-Burriana](https://mediambient.gva.es/documents/20550900/175086213/Ficha-03.pdf/57b9358e-4368-3a09-9bdc-94cd8edf9622?t=1670930482042)<br>4. *[Marjal i Estany d’Almenara](https://mediambient.gva.es/documents/20550900/175086213/Ficha-04.pdf/411139f6-c7db-0642-bacf-0649389537ad?t=1670930481530)*<br>5. *[Marjal dels Moros](https://mediambient.gva.es/documents/20550900/175086213/Ficha-05.pdf/30c9be6c-40a9-a0f1-e556-2d54914470be?t=1670930481133)*<br>6. [Marjal de Rafalell y Vistabella](https://mediambient.gva.es/documents/20550900/175086213/ficha-06.pdf/499e2e8a-3528-8894-0c3c-7eb771ddee5c?t=1670930480641)<br>7. [Parque Natural de *l’Albufera de València*](https://agricultura.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-07%20nueva.pdf)<br>8. *[Marjal i Estany de la Ribera Sud del Xúquer](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-08.pdf)*<br>9. [Marjal de la Safor](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-09.pdf)<br>10. [Parque Natural de la Marjal de Pego-Oliva](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-10.pdf)<br>11. *[Els Bassars-Clot de Galvany](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-11.pdf)*<br>12. [Parque Natural del *Fondo d’Elx*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-12.pdf)<br>13. *[Els Carrissars d’Elx](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-13.pdf)*<br>14. [El Hondo de Amorós](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-14.pdf)<br>49. ***[Albufera de Gaianes](https://mediambient.gva.es/documents/20550900/175086211/49+Albufera_Gaianes_cs.pdf/b656984a-5ef1-4ada-b740-18973e98ec01?t=1667895719054)***<br>52. ****[Quadro de Santiago](https://mediambient.gva.es/documents/20550900/175086211/52+Quadre_Santiago_cs.pdf/0158f029-5713-4371-9e8d-234e1d674367?t=1667895830057)*** |
+| Ambientes fluviales y litorales asociados | 15. [Desembocadura del *Riu de la Sénia*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-15.pdf)<br>16. [Desembocadura del *Riu de les Coves*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-16.pdf)<br>17. [Desembocadura del Millars](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-17.pdf)<br>18. *[Clot de la Mare de Déu](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-18.pdf)*<br>19. [Desembocadura y Frente Litoral del *Xúquer*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-19.pdf)<br>20. [Desembocadura del *Riu Xeraco*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-20.pdf)<br>21. [Desembocadura del *Riu Bullents*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-21.pdf)<br>22. [Desembocadura y Frente Litoral del *Riu Racons*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-22.pdf)<br>23. [Desembocadura del *Riu de l’Algar*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-23.pdf)<br>24. [Desembocadura y Frente Litoral del Segura](https://mediambient.gva.es/documents/20550900/175086211/24+Desembocadura_Segura_cs.pdf/59c26f83-5221-4c40-baa9-b6dabae2ea4c?t=1667895909555)<br>25. [Meandros Abandonados del Río Segura](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-25.pdf)<br>55. **[Rio Seco-*Montegre](https://mediambient.gva.es/documents/20550900/175086211/55+Riu+Sec_Montnegre_cs.pdf/6e5fb5d5-7ee1-445d-89fb-6e3c6937b1f8?t=1667895791100)***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Manantiales                               | 26. [El Barchell](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-26.pdf)<br>27. [Nacimiento del *Riu Verd*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-27.pdf)<br>28. *[Ullal de l’Estany del Duc](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-28.pdf)*<br>29. *[Font dels Sants](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-29.pdf)*<br>30. *[Fonts de l’Algar](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-30.pdf)*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Lagunas y humedales de interior           | 31. [Dehesa de Soneja](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-31.pdf)<br>32. [Lagunas de Segorbe](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-32.pdf)<br>33. [Lavajos de Sinarcas](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-33.pdf)<br>34. [Laguna de San Benito](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-34.pdf)<br>35. [Laguna y Saleros de Villena](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-35.pdf)<br>36. [Laguna de Salinas](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-36.pdf)<br>51. **[El Prado-Rodriguillo](https://mediambient.gva.es/documents/20550900/175086211/51+Prado_Rodriguillo_cs.pdf/7bb87370-7974-430e-add9-24e54f74a322?t=1667895855253)**<br>52. **[Laguna de San Mateo](https://mediambient.gva.es/documents/20550900/175086211/53+Llacuna_Sant+Mateu_cs.pdf/d9984b47-9d57-4c54-9706-d2d29b25ee96?t=1667895871877)**<br>53. **[Rebalsador-El Prao](https://mediambient.gva.es/documents/20550900/175086211/54+Rebalsador_Prao_cs.pdf/edfc0023-d485-4756-b439-0d915bdf32c1?t=1667895811160)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Saladares litorales                       | 37. *[Salines de Calp](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-37.pdf)*<br>38. [Saladar *d’Aigua Amarga*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-38.pdf)<br>39. [Parque Natural de Las Salinas de Santa Pola](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-39.pdf)<br>40. [Parque Natural de Las Lagunas de La Mata-Torrevieja](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-40.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Embalses de fluctuación escasa            | 41. [Balsa de Chóvar](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-41.pdf)<br>42. [Embalse de Embarcaderos](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-42.pdf)<br>43. [Embalse de *la Vallessa](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-43.pdf)*<br>44. [Embalse del *Bosquet de Moixent*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-44.pdf)<br>45. [Embalse de *Relleu*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-45.pdf)<br>46. [Embalse de Elda](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-46.pdf)<br>47. [Embalse de Tibi](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-47.pdf)<br>48. [Embalse *d’Elx*](https://agroambient.gva.es/estatico/areas/espacios/zonas_humedas/zon/Ficha-48.pdf)<br>50. [Embalse de la Pedrera](https://mediambient.gva.es/documents/20550900/175086211/50+Emb_La+Pedrera_cs.pdf/89387977-afb0-471c-a4f4-99ea2a13df2e?t=1667895893626)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+
+![[Pasted image 20260723164853.png]]
+
+
+
+METER TAMBIEN POR EXTENSIONES (ha)
+
+
+Los 48 iniciales fueron incluidos en el Inventario Español de Zonas Húmedas (IEZH) ([resolución de 9 de marzo de 2011](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5372)) (no así los 7 adicionales).
+
+De los 76 humedales españoles en la Lista Ramsar ([ver la ficha de España en la Convención](https://rsis.ramsar.org/?__goaway_challenge=meta-refresh&__goaway_id=b3950cd2625d89514d4df8e003feaf00&__goaway_referer=https%3A%2F%2Fwww.ecosia.org%2F&f[0]=country_en_s%3ASpain&language=en)), ocho se encuentran en la Comunidad Valenciana: [*L'Albufera de Valencia*](https://rsis.ramsar.org/ris/454), [El Hondo](https://rsis.ramsar.org/ris/455), [Lagunas de La Mata-Torrevieja](https://rsis.ramsar.org/ris/456), [Salinas de Santa Pola](https://rsis.ramsar.org/ris/457), [Prat de Cabanes-Torreblanca](https://rsis.ramsar.org/ris/458), [Marjal de Pego-Oliva](https://rsis.ramsar.org/ris/708), y [Marjal de Almenara](https://rsis.ramsar.org/ris/2338).
 
 València es la única ciudad de España con el certificado Ciudad Humedal del Convenio de Ramsar, por la gestión de *l'Albufera de València*.
 
@@ -646,9 +858,9 @@ De manera general, se protegen las cuevas, simas, y cavidades subterráneas de l
 
 Se prohíbe toda alteración o destrucción de sus características físicas, la extracción no autorizada de cualquier clase de materiales naturales o artificiales de su interior y la introducción de desechos y objetos que pudieran alterar sus condiciones ecológicas.
 
-- hjk
-- jljm
-
+- **Cambios físicos**: alteración o destrucción de sus características
+- **Extracción no autorizada**: de cualquier clase de materiales de su interior (naturales o artificiales)
+- **Contaminación**: introducción de desechos y objetos que pudieran alterar sus condiciones ecológicas
 
 La autorización para la realización de actividades en cuevas corresponderá a los organismos que en cada caso resulten competentes en función de los valores a proteger.
 
@@ -656,15 +868,127 @@ El Consell aprobará un catálogo, en el que se identificarán y localizarán la
 
 | Capítulos               | Contenido                                                                                                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Disposiciones generales | - Objeto y fines<br>- Regímenes de protecci                                                                                                                        |
+| Disposiciones generales | - Objeto y fines<br>- Regímenes de protección                                                                                                                      |
 | Régimen general         | - Protección general<br>- Autorizaciones<br>- Descubrimientos fortuitos<br>- Régimen de Evaluación de Impacto Ambiental<br>- Glosario de términos                  |
 | Régimen especial        | - Catálogo de Cuevas de la Comunitat Valenciana<br>- Zonas perimetrales de protección<br>- Afección a la Red Natura                                                |
 | Régimen sancionador     |                                                                                                                                                                    |
 | Anexos                  | - I. Cuevas del Catálogo<br>- II. Cartografía<br>- III. Criterios de selección de las cuevas del Catálogo<br>- IV. Ficha de cavidades<br>- V. Glosario de términos |
 
+CAPITULO I Disposiciones generales
+
+Artículo 1. Objeto y fines 
+
+El objeto de la presente norma es el desarrollo del régimen de protección de las cuevas que se contempla en el artículo 16 de la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunitat Valenciana, con la finalidad de lograr una mayor efectividad en la protección y conservación de los hábitats cavernarios y del medio ambiente subterráneo y la aprobación del Catálogo de Cuevas de la Comunitat Valenciana.
+
+Artículo 2. Regímenes de protección de las cuevas
+
+Los regímenes de protección de las cuevas son de dos tipos:
+
+- **General**: todas las cuevas de la Comunitat Valenciana (artículo 16 de la Ley 11/1994, desarrollado en el capítulo II del presente decreto).
+
+- **Especial**: para determinadas cuevas (capítulo III del presente Decreto).
+
+
+Los diferentes tipos de cavidades subterráneas de la Comunitat Valenciana, definidos atendiendo al glosario de términos que figura como anexo V de este decreto, quedan sometidos al régimen general de protección.
+
+Se prohíbe toda alteración o destrucción de las características físicas de las cavidades subterráneas, así como la extracción o la introducción de cualquier clase de materiales naturales o artificiales afectando a las mismas, salvo que se cuente con la autorización prevista en el artículo siguiente.
+
+Artículo 4. Régimen de autorizaciones
+
+Cualquier actuación que pueda afectar la integridad física o el equilibrio ambiental de una cavidad subterránea requerirá la autorización expresa y motivada de la Conselleria competente en materia de medio ambiente, sin perjuicio de las competencias propias de la Conselleria competente en materia de cultura cuando concurran, además, elementos o valores relevantes ligados al patrimonio cultural valenciano. Particularmente, requieren dicha autorización:
+
+- El muestreo sistemático de rellenos kársticos, así como las excavaciones arqueológicas y /o paleontológicas realizadas en zonas interiores de las cavidades y que requieran para ello de instalaciones de iluminación no ligera ni individual, tendidos o equipamiento especial.
+
+- La recolección, captura, manejo o extracción de ejemplares de flora o de fauna, con fines científicos.
+
+- Las visitas o actividades que tengan lugar en cavidades subterráneas o junto a ellas, y que supongan afluencia de público o de grupos numerosos. Se incluyen aquí tanto las actividades de carácter lúdico, religioso o cultural organizadas por entidades sin ánimo de lucro, como aquellas otras ofertadas por empresas o entidades con ánimo de lucro. Queda excluida de esta consideración la práctica espeleológica habitual y respetuosa con el medio ambiente subterráneo, así como la actividad docente relacionada con dicha práctica y las visitas habituales de tipo turístico y religioso que tengan lugar en cavidades acondicionadas al efecto incluidas en el Catálogo de Cuevas de la Comunitat Valenciana a que se refiere el artículo 8 de este decreto, sin perjuicio de las determinaciones sobre dichas visitas habituales que puedan establecer las Normas de Gestión previstas en el mismo artículo.
+
+Dicha autorización se entiende sin perjuicio de las autorizaciones sectoriales y de las licencias municipales que sean preceptivas para determinadas actividades.
+
+Las solicitudes de autorización deberán presentarse acompañadas de la siguiente documentación:
+
+- **Identificación del solicitante**
+- **Plano o croquis** de localización de la actividad, itinerario y medios de acceso, duración, fechas o plazos previstos
+- **Descripción de la actuación, visita o actividad prevista**: incluyendo, en su caso, características técnicas, equipo técnico, presupuesto, periodo de ejecución de la misma y cualquier otra información que resulte necesaria para definir y conocer su alcance
+- **Proyecto o memoria técnica**
+- **Justificación de la actuación** solicitada y análisis de posibles alternativas
+- Evaluación de efectos ambientales y adopción de medidas protectoras y correctoras
+- **Plan de vigilancia ambiental**
+
+Para las actuaciones que deban someterse al procedimiento de Evaluación de Impacto Ambiental, la preceptiva Declaración o Estimación de Impacto Ambiental suplirá la autorización a que refiere este artículo.
+
+El cerramiento de cavidades requerirá, preceptivamente, el informe previo favorable de la Conselleria competente en materia de medio ambiente. Las solicitudes de informe deberán detallar la localización y el tipo de cerramiento proyectado.
+
+Artículo 5. Descubrimientos fortuitos
+
+En el caso particular de ser alcanzadas nuevas cavidades en frentes de explotación de canteras o de desmontes de obra civil, los responsables de la obra quedan obligados a comunicar de inmediato el hecho a la administración competente en materia de espacios naturales, adoptando las medidas necesarias para su conservación hasta que puedan ser inspeccionadas y determinar si contienen elementos o características de relevante interés y, consecuentemente, poder evaluar la conveniencia de adoptar las medidas de protección pertinentes. En el plazo de 15 días desde la notificación del hallazgo, la Conselleria competente en materia de medio ambiente deberá pronunciarse sobre lo que proceda, ya emitiendo autorización para la prosecución de las obras, con las condiciones que hubiere lugar, o bien comunicando al interesado la necesidad de establecer un plazo mayor, cuando la trascendencia o importancia del hallazgo así lo requiera.
+
+El hallazgo o descubrimiento fortuito de cuevas o simas en el curso de excavaciones, labranza u otras prácticas rutinarias en terrenos privados o públicos deberá ser oportunamente comunicado por los autores o propietarios de los terrenos a la Conselleria competente en materia de medio ambiente, a fin de que tales cavidades puedan ser debidamente reconocidas e inventariadas.
+
+Artículo 6. Régimen de Evaluación de Impacto Ambiental
+
+Las actuaciones que incidan en cuevas y requieran licencia de actividad o de obra se someterán al procedimiento de Evaluación de Impacto Ambiental, en cuyo caso, la preceptiva Declaración o Estimación de Impacto Ambiental suplirá la autorización a que refiere el artículo 4 de este decreto. A tal efecto, los anexos I y II del Decreto 162/1990, de 15 de octubre, del Consell, por el que se aprobó el Reglamento para la ejecución de la Ley 2/1989, de 3 de marzo, de Impacto Ambiental, quedan ampliados de conformidad con los siguientes supuestos:
+
+- **Declaración de Impacto Ambiental** los proyectos de nueva habilitación o adecuación de cuevas para el acceso y uso público, y cualquier otro proyecto que tenga por objeto el aprovechamiento de agua u otros recursos de las cuevas, o que requiera instalaciones permanentes en el interior de las mismas.
+
+- **Estimación de Impacto Ambiental** los proyectos de sustitución de instalaciones, modificación de infraestructuras, ampliaciones o instalación de nuevos equipamientos, cuando afecten a cavidades habilitadas para el acceso público.
+
+- Proyecto o actuación que comporte la alteración física, total o parcial de alguna cueva o sima, o que suponga un riesgo manifiesto sobre la misma, deberá ser sometido al procedimiento de Evaluación de Impacto Ambiental, salvo en aquellos casos de hallazgos fortuitos en que, de acuerdo con lo regulado en esta disposición, se adopte un pronunciamiento diferente por parte de la Conselleria competente por razón de la materia.
+
+
+Artículo 7. Glosario de términos
+
+Se incluye un glosario de términos especializados en el Anexo V.
+
+- **Abrigo, balma, covacha o coveta**: son términos no totalmente equivalentes que se utilizan para referirse a cavidades de escasa profundidad o recorrido. Unas veces con bocas amplias (abrigos), pero otras con bocas pequeñas o angostas. A menudo poseen valores culturales destacables (incluso excepcionales) y, generalmente, valores ambientales reducidos, aunque hay notables excepciones en el aspecto ambiental (endemismos vegetales, rellenos kársticos singulares...).
+
+- **Avenc o sima**: cavidad con acceso mediante pozo o con un desarrollo predominantemente vertical o escalonado. El término sima es propio del castellano y el de avenc lo es del valenciano, aunque en las dos lenguas se utilizan ambos términos cuando tienen carácter de topónimo.
+
+- **Caverna o cueva turística**: aquélla que se encuentra habilitada para permitir el acceso público, ya sea con fines propiamente turísticos o por razón de tradiciones populares y religiosas, disponiendo, para ello, de unas mínimas infraestructuras y condiciones de seguridad, además de control del número de visitantes (no siempre) y autorizaciones administrativas pertinentes.
+
+- **Cueva**: en sentido general se aplica a cualquier tipo de cavidad subterránea en el karst. Más específicamente, se aplica a cavidades naturales de desarrollo predominantemente horizontal (cuevas o cavernas), en contraposición a las simas, que tienen un desarrollo predominantemente vertical.
+
+- **Dolina y Torca**: depresiones topográficas cerradas, en forma de concavidades subaéreas de fondo llano o en embudo y de contornos suaves o escarpados. Son formas características del paisaje kárstico, formadas por disolución o hundimiento (colapso kárstico). En la Comunitat Valenciana, el topónimo torca se aplica más a dolinas de bordes escarpados (también clotes en el Alto Palancia), a diferencia de lo que sucede en la zona cantábrica peninsular, donde torca es sinónimo de sima.
+
+- **Colapso kárstico**: hundimiento repentino o rápido del terreno, producido por el desplome remontante de una bóveda de galería o sala subterránea. El resultado de este proceso es la formación de una sima de hundimiento. Las causas de los colapsos pueden ser totalmente naturales o, a menudo, desencadenadas o favorecidas por efectos antrópicos relacionados con la explotación de acuíferos (fluctuaciones piezométricas intensas y persistentes, fugas en canales de riego, bombeos prolongados de aguas turbias, etc.).
+
+- **Conjunto de cavidades**: algunos sectores montañosos son especialmente prolíficos en la presencia de cavidades –casi siempre simas, pudiendo alcanzarse densidades de varias decenas de ellas en pocas hectáreas. El principal interés de estas cavidades es, a menudo, su conjunto en un sector muy karstificado, independientemente de que alguna de esas simas presente por sí misma otros valores singulares.
+
+	Con esta denominación también se suele aludir a grupos de varias bocas, más o menos interconectadas interiormente; así como a diversas cavidades próximas entre sí y que formen parte de un mismo complejo espeleológico, aparato kárstico o esquema evolutivo, tanto si se encuentran directamente conectadas (a nivel espeleológico) como si no.
+
+- **Minas y galerías artificiales de interés natural**: se trata de aquéllas cavidades de origen artificial o mixto (muchas veces conectadas con tramos de cavidades de origen natural), excavadas en la antigüedad y que reúnen condiciones adecuadas o interesantes para el estudio del karst o como hábitat subterráneo, equiparable a otras cavidades naturales. Generalmente, los usos que motivaron su excavación concluyeron hace muchas décadas o siglos, salvo en el caso de determinadas galerías de captación y drenaje de aguas que se encuentran funcionales desde épocas remotas. Conviene excluir directamente de esta consideración, con carácter general, los túneles viales, las redes de saneamiento, los sondeos de captación de aguas subterráneas, las conducciones de transvases modernos y otras obras subterráneas funcionales.
+
+- **Sima**: ver avenc
+
+- **Sumidero**: pérdida o lugar de infiltración masiva de agua superficial, generalmente a través de cavidades que pueden ser ya cuevas o simas penetrables o ya conductos infranqueables.
+
+- **Surgencia**: manantial kárstico; generalmente se aplica cuando el agua emerge a través de una cueva o un conducto kárstico reconocible. Se habla de resurgencia cuando está directamente relacionada con pérdidas o sumideros de cursos superficiales conocidos, y de exurgencia cuando no se da esta circunstancia, tratándose en este caso de descarga de un acuífero de alimentación autóctona
+
+
+CAPITULO III
+Régimen especial de protección
+
+
+
+
 #### Catálogo de Cuevas
 
 El [Catálogo de Cuevas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-cuevas) (Anexo I) incluye 133 (ver con el [visor](https://visor.gva.es/visor/?extension=266612,4141882,1164192,4594245&capasids=Orto_Actual;,Espacios_Protegidos;1&tcapas=1.0,1.0)):
+
+Artículo 8. Catálogo de Cuevas de la Comunitat Valenciana
+
+De conformidad con lo establecido en el artículo 16, apartado 4, de la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunitat Valenciana, 
+
+Se aprueba el Catálogo de Cuevas de la Comunitat Valenciana (artículo 16.3 de la Ley 11/1994).
+
+
+Modelo de ficha para las cavidades incluidas en el Catálogo de cuevas de la Comunitat Valenciana
+
+
+
+Las cavidades incluidas en dicho Catálogo (listado del Anexo I, cartografía del Anexo II, criterios del Anexo III), gozarán de un régimen de especial protección.
+
+
 
 | Provincias | Cuevas catalogadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -676,7 +1000,7 @@ El [Catálogo de Cuevas de la Comunitat Valenciana](https://mediambient.gva.es/e
 | ------------------------------------------ | --------------------------------------------------- |
 | Número de cuevas catalogadas por provincia | Distribución porcentual de las cuevas por provincia |
 
-Los criterios de selección para su inclusión son los siguientes (Anexo III): 
+Los criterios incluyen los siguientes (Anexo III):
 
 | Tipología     | Criterios                                                                                |
 | ------------- | ---------------------------------------------------------------------------------------- |
@@ -685,437 +1009,93 @@ Los criterios de selección para su inclusión son los siguientes (Anexo III):
 | Espeleometría | - I. Recorrido<br>- II. Desnivel<br>- III. Mayores salas y conductos                     |
 | Antrópicos    | Cavidades habilitadas                                                                    |
 
-### Decreto 60/2012
+La Conselleria de medio ambiente puede establecer Normas de Gestión para la adecuada protección de las cavidades subterráneas del Catálogo.
 
-El [Decreto 60/2012](https://dogv.gva.es/datos/2012/04/10/pdf/2012_3481.pdf) establece el régimen especial de evaluación y autorizaciones de afección a la Red Natura 2000 (basado en el artículo 46 de la Ley 42/2007)
+Para cada una de las catalogadas, la Conselleria competente en medio ambiente elaborará una ficha descriptiva básica de acuerdo al modelo oficial (Anexo IV).
 
-| Capítulos                                                                                              | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Disposiciones generales                                                                                | - Objeto<br>- Definiciones<br>- Ámbito territorial de aplicación<br>- Ámbito material de aplicación<br>- Órgano competente para realizar la evaluación Red Natura 2000                                                                                                                                                                                                                                                                                                        |
-| Régimen general                                                                                        | - Evaluación de repercusiones: obligación, valoración preliminar, valoraciones preliminares y normas de gestión, estudio de afecciones, declaración de repercusiones, deber de información<br><br>- Aprobación, autorización o conformidad: obligación, excepciones, inexistencia de soluciones alternativas, razones imperiosas de interés público de primer orden, medidas compensatorias, comunicación al órgano gestor sobre la aprobación del plan, programa o proyecto. |
-| Incardinación en otros procedimientos de evaluación                                                    | - Planes y programas: evaluación ambiental (ordinaria y simplificada)<br>- Proyectos: evaluación, impacto, estimación, sólo sometidos por decisión del órgano ambiental                                                                                                                                                                                                                                                                                                       |
-| Procedimiento cuando otros procedimientos de evaluacion no sean<br>aplicables                          | - Planes, programas y proyectos previstos<br>- Procedimiento                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Constatación de la evaluación de repercusiones en grandes proyectos cofinanciados por la Unión Europea | - Constatación del cumplimiento de la obligación de evaluar sus repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la Unión Europea                                                                                                                                                                                                                                                                                                     |
+- **Término municipal**:
+- **Nombre de la cavidad**:
+- **Coordenadas UTM**:
+- **Accesibilidad**:
+- **Terreno geológico**:
+- **Descripción somera y espeleometría**:
+- **Propiedad y calificación del terreno**:
+- **Características ambientales**:
+- **Fragilidad**:
+- **Valores culturales / afecciones legales / otros datos / bibliografía**:
+- **Propuesta de actuación**:
+- **Topografía de la cavidad**:
+- **Observaciones**:
+- **Última fecha de actualización del contenido de la ficha**:
+
+La lista podrá ser modificada en cualquier momento, incorporando nuevas o suprimiendo alguna de ellas, en el caso de que nuevos estudios o informes técnicos así lo recomienden, a propuesta de la Conselleria competente en materia de medio ambiente. Dicha modificación requerirá el mismo procedimiento. No se considerará revisión ni modificación del Catálogo la incorporación de nueva información a las fichas descriptivas.
 
 
-El objeto es regular el régimen especial de evaluación y aprobación, autorización o conformidad de planes, programas y proyectos que puedan afectar a espacios de la Red Natura 2000 (en desarrollo de lo establecido en el artículo 45.4 y siguientes de la Ley 42/2007, y en los artículos 14 quáter.1.c) y 14 quáter.2 y 14 quinquies de la Ley 11/1994)
 
-Se establecen las siguientes definiciones
+Para conservar las la conservación de las cavidades del Catálogo, se definen los siguientes ámbitos de protección perimetral:
 
-- **Evaluación de repercusiones sobre la Red Natura 2000**: proceso que permite valorar de modo específico y con el debido detalle los efectos de los planes, programas y proyectos sobre los espacios de la Red Natura 2000, en particular sobre los hábitats y especies que motivaron su declaración como tales y sus objetivos de conservación, mediante la realización de una valoración preliminar de repercusiones y, en su caso, la realización de una evaluación detallada y adecuada, a través de la elaboración de un estudio de afecciones a la Red Natura 2000 y la emisión de una declaración de repercusiones sobre la Red Natura 2000.
-
-- **Plan o programa**: el conjunto de estrategias, directrices y propuestas que prevé una administración pública, para satisfacer necesidades sociales, no ejecutables directamente, sino a través de su desarrollo por medio de un conjunto de proyectos.
-
-- **Proyecto**: la realización de trabajos de construcción o de otras instalaciones u obras, y otras intervenciones en el medio natural y el paisaje, incluidas las destinadas a la explotación de los recursos del suelo. 
-
-- **Red Natura 2000**: red ecológica coherente compuesta por los lugares de importancia comunitaria, las zonas especiales de conservación y las zonas de especial protección para las aves, constituida con el objeto de garantizar el mantenimiento o, en su caso, el restablecimiento en un estado de conservación favorable de determinados tipos de hábitats naturales y de hábitats de especies.
-
-- **Espacios Red Natura 2000**: los espacios que integran la Red Natura 2000, esto es, las zonas de especial protección para las aves, los lugares de importancia comunitaria y las zonas especiales de conservación.
-
-- **Zona de Especial Protección para las Aves** (ZEPA): aquellos espacios del territorio de la Comunitat Valenciana declarados como tales por ser los más adecuados en número y superficie para la conservación de las especies de aves incluidas en el anexo IV de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y de las aves migratorias de presencia regular, y para aplicar en ellos medidas especiales de conservación de sus hábitats al objeto de asegurar su supervivencia y su reproducción.
-
-- **Lugar de Importancia Comunitaria** (LIC): aquellos espacios del territorio de la Comunitat Valenciana propuestos por la Generalitat para formar parte de la Red Natura 2000, hayan sido ya aprobados como tales por la Comisión Europea o estén pendientes de su aprobación, porque contribuyen, de forma apreciable, al mantenimiento o, en su caso, al restablecimiento del estado de conservación favorable de los tipos de hábitat naturales y los hábitat de las especies de interés comunitario, que figuran respectivamente en los anexos I y II de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
-
-- **Zona de Especial Conservación** (ZEC): aquellos espacios que, habiendo sido aprobados previamente como lugares de importancia comunitaria, se declaren como tales para aplicar las medidas de conservación necesarias para el mantenimiento o el restablecimiento en un estado de conservación favorable de los hábitats naturales y /o las poblaciones de las especies por los cuales se seleccionó el lugar. 
-
-- **Especies que motivaron la declaración de un espacio Red Natura 2000**: las especies listadas en las fichas de cada espacio Red Natura 2000 elaboradas de conformidad con el formulario normalizado de datos aprobado por la decisión de la Comisión de 18 de diciembre de 1996 (97/226/CE) o disposición que la sustituya, en su versión más actualizada y efectivamente enviada al Ministerio que ostente las competencias en materia de medio ambiente para su comunicación a la Comisión Europea.
-
-- **Hábitats y especies prioritarios**: aquellos hábitats naturales y especies de interés comunitario marcados con un asterisco en los anexos I y II de la Ley 42/2007, por:
-	– Ser tipos de hábitats naturales amenazados de desaparición cuya conservación supone una especial responsabilidad, habida cuenta de la importancia de la proporción de su área de distribución natural incluida en el territorio europeo de los estados miembros de la Unión Europea.
-	– Ser especies que están en peligro cuya conservación supone una especial responsabilidad, habida cuenta de la importancia de la proporción de su área de distribución natural incluida en el territorio europeo de los estados miembros de la Unión Europea.
-
-- **Objetivos de conservación de un Espacio Red Natura 2000**: niveles poblacionales de las diferentes especies así como superficie y calidad de los hábitats que tienen que tener un espacio para alcanzar un estado de conservación favorable.
-
-- **Norma de gestión de un espacio Red Natura**: instrumentos de gestión, aprobados en aplicación del artículo 45.1 de la Ley 42/2007, de 13 de diciembre, y de los artículos 14, quáter 1.a) 47 bis y 47 ter de la Ley 11/1994, de 27 de diciembre, de Espacios Naturales Protegidos de la Comunitat Valenciana, que contienen las medidas de conservación aplicables a ZEPA y ZEC y explicitan sus objetivos de conservación.
-
--  **Integridad de un espacio Red Natura 2000**: coherencia de la estructura y función ecológicas de un espacio Red Natura 2000 en toda su superficie, o los hábitats, complejos de hábitats y/o poblaciones de especies que han motivado su selección y/o designación. 
-
-- **Razones imperiosas de interés público de primer orden**: razones que permitirían la autorización o aprobación excepcional de planes, programas o proyectos que afecten a la integridad de la Red Natura 2000, al demostrarse que tales planes, programas o proyectos son indispensables a largo plazo:
-	1º En el marco de medidas o políticas destinadas a proteger valores fundamentales para la vida de los ciudadanos (salud, seguridad, medio ambiente, etc.).
-	2º En el marco de políticas fundamentales para el Estado o la sociedad.
-	3º En el marco de la realización de actividades de naturaleza económica o social para cumplir obligaciones específicas de servicio público.
-
-- **Medidas preventivas o protectoras y correctoras**. Medidas incluidas en un plan o proyecto para reducir o atenuar y para eliminar o suprimir los efectos ambientales negativos de un plan, programa o proyecto.
-
-- **Medidas compensatorias para garantizar la coherencia global de la Red Natura 2000**. Medidas específicas, incluidas en un plan o proyecto, que tienen por objeto compensar, lo más exactamente posible, su impacto negativo sobre el hábitat o la especie que motivó la declaración de un espacio Red Natura 2000, con la finalidad de garantizar que la coherencia global de la Red Natura 2000 quede protegida.
-
-- **Promotor**: en el caso de proyectos, cualquier persona física o jurídica, pública o privada, que se proponga realizar un proyecto. En el caso de planes y programas: aquel órgano de una administración pública estatal, autonómica o local, que inicia el procedimiento para la elaboración y adopción de un plan o programa (órgano promotor).
-
-- **Órgano sustantivo**: aquel órgano de la administración pública estatal, autonómica o local competente para autorizar, para aprobar o, en su caso, para controlar la actividad a través de una declaración responsable o una comunicación, de los proyectos que deban someterse a evaluación de impacto ambiental.
-	Cuando un proyecto se vea afectado por diversos conceptos que precisen autorización, aprobación o, en su caso, control de la actividad y que se hubieren de otorgar o ejercer por distintos órganos de la administración pública estatal, autonómica o local, se considerará órgano sustantivo aquel que ostente las competencias sobre la actividad a cuya finalidad se orienta el proyecto, con prioridad sobre los órganos que ostentan competencias sobre actividades instrumentales o complementarias respecto de aquellas.
+- **General**: para cada una, mediante un círculo de una hectárea de superficie (radio de 56,4 m) centrado en cada boca. Se consideran actividades no permitidas aquellas que puedan representar un menoscabo de las características geológicas o biológicas de la cavidad de que se trate.
 	
-- **Órgano ambiental**: en el caso de proyectos, aquel órgano de la administración pública estatal o autonómica competente para evaluar el impacto ambiental de los proyectos.
+	Cualquier actuación que represente un cambio de los usos actuales del suelo, modificaciones del hábitat, afección previsible sobre el nivel freático o alteración topográfica, deberá contar, previamente a su realización, con informe favorable de la Conselleria competente en materia de medio ambiente.
+	
+	*Cuando el perímetro de protección general incluya suelo clasificado como urbano, el planeamiento urbanístico deberá adoptar las oportunas precauciones para garantizar la preservación de las características geológicas y biológicas de la cavidad. Se consideran permitidas las actividades previstas en el planeamiento urbanístico para este tipo de suelo.*
 
-	En el caso de planes y programas, el órgano de la administración pública estatal o autonómica que en colaboración con el órgano promotor vela por la integración de los aspectos ambientales en la elaboración de los planes y programas.
+- **Especiales**: establecidas en las Normas de gestión (artículo 8.3), de manera motivada, para los siguientes supuestos: 
 
-- **Órgano gestor de la Red Natura 2000**: órgano de la administración autonómica competente para realizar la evaluación de repercusiones sobre la Red Natura 2000 de los planes, programas y proyectos que pretendan realizarse en el ámbito territorial de aplicación de este decreto.
+	- **Del hábitat**: en el caso de albergar poblaciones de quirópteros de interés o para la conservación de sus valores.
+	
+		Estos perímetros, cuyas características, delimitación y superficie serán las adecuadas para el cumplimiento de los objetivos perseguidos, se establecerán a partir de la boca principal de la cavidad, y contarán con las medidas de protección y gestión que se establezca en las mencionadas normas.
 
+	- **De la cavidad**: proyección de su topografía conocida en la superficie del terreno. La planificación territorial y urbanística, y los proyectos de infraestructuras, lo tendrán en cuenta, adoptándose, en su caso, las medidas necesarias para su la protección.
 
-Será de aplicación a todos los planes, programas y proyectos que pretendan realizarse en el territorio de la Comunitat Valenciana (incluidos los espacios marítimo-terrestres, y aquellos marinos en los que la Generalitat ejerza competencias: artículos 6, 36 y 45.1 de la Ley 42/2007), siempre que cumplan con los siguientes requisitos de localización:
+Las Normas de Gestión de las cavidades incluidas en el Catálogo de Cuevas de la Comunitat Valenciana que afecten territorialmente a Lugares de Interés Comunitario de la Comunitat Valenciana (LIC) o a Zonas de Especial Protección para las Aves (ZEPA), tendrán la consideración de Plan de Gestión (artículo 6.1 de la Directiva 92/43/CEE) para ese ámbito.
 
-- **Espacios**: en su interior o en sus zonas periféricas de protección.
-- **Áreas de conectividad** (previstas en las normas de gestión).
-- **Dominio público hidráulico o zonas de servidumbre de cuencas fluviales**: que atraviesen o desemboquen en espacios Red Natura 2000.
-- **Otros**: pero estén expresamente indicados en las normas de gestión.
+El régimen sancionador será el establecido en la Ley 11/1994 (sin perjuicio de lo exigible en vía penal, civil o de cualquier otro orden en que pudiera incurrir)
 
-Quedan sometidos a lo establecido en el presente decreto todos los planes y programas (incluidos los de reducido ámbito territorial), y toda sus modificaciones, que cumplan los siguientes requisitos:
+#### Decreto 218/1994
 
-1. Elaboración o aprobación por una Administración Pública
-2. Exigida por una disposición legal o reglamentaria o establecida por acuerdo del Consejo de Ministros, del Consell o del pleno de una corporación local.
+El [decreto 218/1994](https://dogv.gva.es/auto/dogv/docvpub/rlgv/1994/D_1994_218_ca_D_2009_070.pdf) crea y regula la figura de protección denominada microrreserva de flora:
 
-*Asimismo, quedan sometidos a lo establecido en el presente decreto los proyectos públicos o privados que se indican en el anexo.*
+>Aquella parte del territorio terrestre o marítimo cuya gestión ambiental compete a la Generalitat que, cumpliendo las condiciones previstas en el artículo 3 de este decreto, sea declarada específicamente como tal mediante una orden de la Conselleria de Medio Ambiente, a fin de garantizar un adecuado estudio y seguimiento científico a largo plazo de las especies y comunidades vegetales allí contenidas.
 
-El órgano competente para evaluar las repercusiones sobre la Red Natura 2000 de los planes, programas y proyectos será el órgano gestor de la Red Natura 2000: en concreto, la Dirección general con competencia en estos espacios (Conselleria de medio ambiente).
+Son requisitos para su declaración tener una extensión inferior a 20 hectareas y una elevada concentración de plantas raras, endémicas, amenazadas o de elevado interés científico. 
 
-*Lo establecido en los apartados anteriores se entenderá sin perjuicio de las competencias de evaluación del Ministerio cuando la autorización o aprobación sea la Administración General del Estado.*
+Se añaden además las siguientes características generales según el suelo:
 
+- **Privados**: prohibición, salvo petición expresa de sus propietarios
+- **Públicos no adscritos al Catálogo de Montes de Utilidad Pública**: comunicación y audiencia previa a la entidad propietaria del terreno
+- **Ayuntamientos o diputaciones**: acuerdo favorable de dichos entes.
+- **Dominios públicos hidráulicos o de costas**: comunicación previa a los organismos gestores de la Administración General del Estado
 
-Régimen general de evaluación de repercusiones y de aprobación, autorización o conformidad de planes, programas y proyectos que puedan afectar a la Red Natura 2000
+La declaración comportará las siguientes prohibiciones generales (salvo resolución expresa favorable de la Dirección General de Conservación)
 
-SECCIÓN PRIMERA
-Régimen de evaluación de repercusiones sobre la Red Natura 2000
+- **Extracción de raíces o partes subterráneas** (únicamente autorizable por motivos científicos, conservacionistas o educativos)
+- **Contaminación**: deposición de residuos, vertido de líquidos... que pueda causar daños graves a las plantas
+- **Extracciones**: de agua (aquellas en medio acuático) (salvo concesión aprobada por la Confederación Hidrográfica anterior a la aprobación de este decreto) o suelo y rocas (medio terrestre), con riesgo de afecciones
+- **Perjuicios a las partes aéreas**: recolección, destrucción o extracción (salvo para mejora de especies raras, endémicas o amenazadas, y casos establecidos en la norma de declaración por motivos de conservación o investigación científica)
+- **Acampada y tránsito de vehículos**
+- **Introducciones**: especies vegetales (en general), y de invertebrados o vegetales que puedan suponer plagas o enfermedades (a las plantas de la microrreserva)
+- **Otras**: establecidas en las normas de declaración (previo acuerdo favorable de las entidades propietarias de los terrenos)
+- **Ganadería**: descansaderos habituales de ganado (parcial o completo), cerramientos para ovejas, cabras, vacas... (temporales o permanentes)
 
-Cualquier plan, programa o proyecto incluido en el ámbito de aplicación territorial y material de este decreto que, sin tener relación directa con la gestión de las ZEPA, los LIC o las ZEC o sin ser necesario para la misma, pueda afectar directa o indirectamente de forma apreciable a los mencionados espacios, ya sea individualmente o en combinación con otros planes y proyectos, se someterá a una detallada y adecuada evaluación de sus repercusiones en tales espacios, teniendo en cuenta los hábitats y especies que motivaron su selección y/o declaración y los objetivos de conservación de los mismos.
+*No supondrá limitaciones adicionales para la ganadería, la caza, o las actividades agrícolas o forestales adicionales (salvo los casos establecidos en las normas de declaración para la conservación de especies amenazadas o investigación científica).*
 
-Artículo 7. Valoración preliminar de repercusiones
+Las normas de declaración deberán incluir un plan de gestión (general, aprovechamiento científico). 
 
-Al efecto de concretar si es precisa la evaluación detallada y adecuada, el órgano gestor de la Red Natura 2000, a la vista de la información proporcionada por el promotor y teniendo en cuenta la información disponible en su poder, realizará una valoración preliminar de repercusiones –en adelante valoración preliminar– en la que concretará:
+El inicio corresponde a la Dirección General de biodiversidad (de oficio o a petición de las personas propietarias de los terrenos), con un plazo de 3 meses (silencio administrativo negativo). 
 
-- Cuáles son los hábitats y especies que motivaron la declaración del espacio o espacios Red Natura en cuestión.
+Durante su tramitación se dará audiencia a los siguientes colectivos y entidades:
 
-- Si el plan, programa o proyecto, en su totalidad o en parte, puede ser considerado un plan, programa o proyecto de gestión del espacio Red Natura 2000 o necesario para dicha gestión.
+- **Propietarios** de los terrenos.
+- **Investigadores** (conservación): entidades o centros con líneas
+- **Titulares** de aprovechamientos
+- **Colectivos conservacionistas**: cuyo ámbito territorial usual de actuación abarque el término municipal donde se pretenda declarar la microrreserva.
+- ***Ministerio de medio ambiente**: cuando las zonas estén incluidas en el dominio público marítimo-terrestre o hidráulico (total o parcialmente)*
+- ***Entidades públicas gestoras de la servidumbre pública de vías de comunicación**: cuando estén incluidas en éstas (total o parcialmente)*
 
-- Si existe probabilidad de que el plan o proyecto afecte de modo apreciable a un espacio Red Natura 2000 y a sus objetivos de conservación.
+Las microrreservas serán señalizadas según se especifique reglamentariamente.
 
-- Si, a la vista de lo indicado en los apartados anteriores, deben evaluarse detalladamente las repercusiones del plan, programa o proyecto sobre el espacio o espacios Red Natura 2000, de acuerdo con lo previsto en este decreto.
+Las solicitudes para realizar actividades reguladas (artículo 4) se resolverán en el plazo de tres meses (silencio administrativo negativo).
 
-Si la valoración preliminar indica que deben evaluarse detalladamente las repercusiones sobre la Red Natura 2000, por existir probabilidad de efectos apreciables, deberá concretar, además:
+Las infracciones se sancionarán de acuerdo con la Ley (artículo 38 de la Ley 4/1989).
 
-- **Aspectos del estudio de afecciones** (artículo 9) al objeto de evaluar adecuadamente la incidencia del plan, programa o proyecto nsobre el espacio o espacios en cuestión, con indicación de si deberán analizarse los efectos acumulativos que pudieran producirse por la presencia en el área de otros planes, programas o proyectos ya ejecutados, en fase de ejecución o en fase de aprobación, los cuales deberán ser indicados expresamente.
-
-- **Modalidades, plazos y términos de información y consultas** na los que deberá, si se estima necesario, someterse el plan, programa o proyecto, en el caso en que sea de aplicación o se prevea que puede ser de aplicación el procedimiento de evaluación previsto en el capítulo IV nde este decreto o se trate de un proyecto sometido obligatoriamente a estimación de impacto ambiental.
-
-Si la valoración preliminar indica que no será preciso realizar la evaluación detallada de las repercusiones sobre la Red Natura 2000, por no existir probabilidad de efectos apreciables, el plan, programa o proyecto podrá continuar su tramitación de conformidad con lo establecido en su legislación reguladora, sin necesidad de sustanciar el resto de trámites previstos en este capítulo. Lo anterior se entenderá sin perjuicio de las obligaciones del promotor de:
-- Someter el plan, programa o proyecto a evaluación ambiental o a evaluación de impacto ambiental si así se ha establecido en la legislación reguladora de dichos procedimientos.
-- Obtener todas las concesiones, autorizaciones y licencias o remitir las declaraciones responsables o comunicaciones previas que sean precisas en cumplimiento de la legislación vigente.
-
-La valoración preliminar prevista en este artículo tiene el carácter de preceptiva y vinculante y deberá ser emitida lo antes posible y en todo caso en el plazo máximo de un mes desde que tenga entrada la solicitud o el expediente en el órgano gestor de la Red Natura 2000. La Resolución que la contenga será motivada y pública.
-
-Las normas de gestión de los espacios Red Natura 2000 podrán indicar expresamente los tipos de planes, programas y proyectos que, entrando en el campo de aplicación material del presente decreto, no deberán someterse a evaluación detallada de sus efectos sobre la Red Natura 2000 por:
-
-- Ser planes, programas o proyectos de gestión del espacio o necesarios para la misma.
-- No presentar probabilidad de efectos apreciables (considerando los objetivos)
-
-*En estos casos, no será necesaria la emisión de la valoración preliminar ni la sustanciación del resto de trámites.*
-
-Las normas de gestión de los espacios Red Natura 2000 también podrán indicar expresamente tipos de planes, programas y proyectos que deberán obligatoriamente y en todo caso someterse a evaluación detallada de conformidad con lo establecido en el presente decreto, por presentar una clara probabilidad de efectos apreciables sobre el espacio o espacios Red Natura 2000.
-En estos casos sí será necesario emitir la valoración preliminar, al objeto de indicar qué aspectos deberán ser especialmente considerados en el estudio de afecciones, previsto en el artículo siguiente, con el fin de evaluar detallada y adecuadamente la incidencia del plan, programa o proyecto.
-
-Artículo 9. Estudio de afecciones a la Red Natura 2000
-
-En caso de ser precisa la evaluación detallada de las repercusiones de los planes, programas y proyectos sobre la Red Natura 2000, por así haberse establecido en la valoración preliminar o en las normas de gestión previstas en el artículo anterior, el promotor de un plan, programa o proyecto, deberá confeccionar un estudio de afecciones sobre la Red Natura 2000, en el que:
-
-- Se realice una descripción del proyecto y su ubicación, con descripción de las diferentes alternativas consideradas.
-
-- Se identifiquen y describan adecuadamente los elementos que motivaron la declaración del espacio o espacios Red Natura 2000 que pudieran verse afectados por el plan, programa o proyecto.
-
-- Se identifiquen, describan y evalúen los efectos previsibles del plan, programa o proyecto sobre los elementos que motivaron la declaración del espacio Red Natura 2000 y sus objetivos de conservación. Además de los efectos directos o indirectos del plan, programa o proyecto, también deberán identificarse, describirse y evaluarse los efectos acumulativos que pudieran producirse por la presencia en el área de otros planes, programas o proyectos ya ejecutados, en fase de ejecución o en fase de aprobación que hayan sido señalados por la valoración preliminar.
-
-- Se aporte el elenco de medidas preventivas y correctoras previstas para atajar los posibles efectos negativos del plan, programa o proyecto.
-
-
-En el caso de que a pesar de la aplicación de las medidas preventivas y correctoras exista afección a la integridad del espacio Red Natura 2000, el estudio de afecciones del promotor, deberá proporcionar, además:
-
-- **Propuesta de programa de medidas compensatorias**: para garantizar la coherencia de la Red Natura 2000 (artículo 16). 
-
-- **Explicación detallada sobre la inexistencia de soluciones alternativas** (artículo 14.1).
-
-- **Justificación de las razones imperiosas de primer orden** (artículos 13 y 15)
-
-El órgano gestor de la Red Natura 2000 emitirá una declaración de repercusiones sobre la Red Natura 2000 en la que se deberá contener:
-
-- Valoración de la idoneidad del estudio de afecciones:
-
-	- 1º Los datos relativos a la descripción e identificación de los elementos que motivaron la declaración del espacio o espacios Red Natura 2000 que puedan verse afectados por el plan, programa o proyecto.
-
-	- 2º La identificación, descripción y evaluación de los efectos previsibles del plan, programa o proyecto sobre los espacios Red Natura 2000 y sus objetivos de conservación.
-
-	- 3º Las medidas preventivas y correctoras propuestas por el promotor para evitar repercusiones negativas apreciables. 
-
-- Su pronunciamiento expreso sobre la existencia o no de afecciones a la integridad del espacio o espacios Red Natura 2000.
-
-En este punto, podrán establecerse condiciones que de cumplirse en sus estrictos términos, determinarían la inexistencia de afecciones a la integridad del espacio o espacios Red Natura 2000.
-
-
-Si la declaración de repercusiones indica la existencia de afecciones a la integridad del espacio o espacios Red Natura 2000, será de aplicación el régimen de aprobación, autorización o conformidad excepcional previsto en la sección siguiente de este capítulo. Para procurar una correcta aplicación del mismo, la declaración de repercusiones deberá contener además: 
--  La valoración del órgano gestor de la Red Natura 2000 respecto de la inexistencia de soluciones alternativas y la existencia de las razones imperiosas de interés público de primer orden expuestas por el promotor que podrían llegar a justificar la aprobación excepcional del proyecto.
-
-- El programa de medidas compensatorias que será necesario adoptar para garantizar la coherencia de la mencionada Red, con indicación del momento en que deberán comenzar a ejecutarse y del momento en que deberán estar operativas.
-
-Si la declaración de repercusiones concluye que no existirán afecciones a la integridad del espacio o espacios Red Natura 2000, el plan, programa o proyecto podrá ser aprobado o autorizado o consentido por el órgano promotor o sustantivo sin necesidad de acudir al régimen de aprobación, autorización o conformidad excepcional previsto en la sección siguiente de este capítulo. Lo anterior se entenderá sin perjuicio de la obligación del promotor de obtener todas las concesiones, autorizaciones y licencias o de remitir las declaraciones responsables o comunicaciones previas que sean precisas en cumplimiento de la legislación vigente.
-
-La declaración de repercusiones tiene el carácter preceptivo y vinculante y deberá ser emitida lo antes posible (plazo máximo de dos meses desde que tenga entrada el estudio de afecciones a la Red Natura 2000 en el órgano gestor de la Red Natura 2000). La resolución que la contenga será motivada y deberá ser objeto de publicación en el Diari Oficial de la Comunitat Valenciana.
-
-El plazo establecido en el apartado anterior podrá ser interrumpido en el caso de que el órgano gestor de la Red Natura 2000 estime que es necesario que el estudio de afecciones sea completado con información adicional, por el tiempo que medie entre el requerimiento que realice al promotor y la efectiva presentación por parte de éste de la documentación adicional.
-
-
-El órgano gestor de la Red Natura 2000 proporcionará (de oficio o a petición de los promotores de planes, programas y proyectos) aquellos documentos o informaciones que obren en su poder y que puedan resultar necesarios para facilitar el correcto cumplimiento de las obligaciones establecidas en este decreto.
-
-
-SECCIÓN SEGUNDA
-
-Régimen de aprobación, autorización o conformidad
-
-Artículo 12. Obligación de no aprobación, no autorización o no conformidad
-
-A la vista de las conclusiones de la evaluación, plasmadas bien en la valoración preliminar, bien en la declaración de repercusiones sobre la Red Natura 2000, y sin perjuicio de lo dispuesto en los artículos siguientes, los órganos competentes para aprobar o autorizar los planes, programas o proyectos, o para controlar una actividad a través de la recepción de una declaración responsable o una comunicación previa, solo podrán manifestar su conformidad con los mismos tras haberse asegurado de que no causarán perjuicio a la integridad del espacio o espacios Red Natura 2000 en cuestión.
-
-Artículo 13. Excepciones a la obligación de no aprobación, no autorización o no conformidad
-
-Excepcionalmente se podrá dar la aprobación, la autorización o la conformidad a planes, programas o proyectos con repercusiones negativas sobre los espacios Red Natura 2000, por afectar a su integridad, si se da la concurrencia de los siguientes requisitos acumulativos:
-- Inexistencia de soluciones alternativas
-- Razones imperiosas de interés público de primer orden, incluidas razones de índole social o económica.
-- Adopción de cuantas medidas compensatorias sean necesarias para garantizar que la coherencia global de la Red Natura 2000 quedeprotegida.
-
-
-Se entenderá por solución alternativa, aquella que por su ubicación, trazado, escala, diseño o proceso evita los perjuicios a la integridad del espacio Red Natura 2000.
-
-*En caso de no existir ninguna, deberá escogerse aquella que genere menos perjuicios a su integridad.*
-
-
-La concurrencia de razones imperiosas de interés público de primer orden sólo podrá declararse para cada supuesto concreto mediante Ley o acuerdo del motivado Consejo de Ministros o del Consell, publicado en el correspondiente Boletín Oficial del Estado o Diari Oficial de la Comunitat Valenciana.
-
- En caso de que el espacio considerado albergue un tipo de hábitat natural y/o una especie prioritarios (Anexos I y II de la Ley 42/2007), únicamente se podrán alegar las siguientes razones:
-- Salud humana y seguridad pública
-- Consecuencias positivas de primordial importancia para el medio ambiente.
-- **Otras** ((((((((de índole social y económico...)))))))) (previa consulta a la Comisión Europea).
-
-
-La realización o ejecución de cualquier plan, programa o proyecto que pueda afectar negativamente a especies incluidas en los anexos II o IV de la citada Ley 42/2007, de 13 de diciembre, que hayan sido catalogadas como en peligro de extinción, únicamente se podrá llevar a cabo cuando concurra alguna de las razones citadas en el apartado anterior.
-Artículo 16. Adopción de medidas compensatorias para garantizar la coherencia global de la Red Natura 2000
-
-
-Se considerarán medidas compensatorias aquellas medidas que garanticen de forma efectiva la coherencia global de la Red Natura 2000, por lo que deberán:
-
-- **Objeto**: Dirigirse, en proporciones comparables, a la conservación y restablecimiento de los hábitats, procesos ecológicos y especies afectadas negativamente.
-
-- **Ubicación**: misma región biogeográfica (hábitats y especies de los anexos I y II de la Ley 42/2007) o dentro del área de distribución natural, la ruta migratoria o la zona de invernada (aves del anexo I de la Ley 42/2007) u otras especies de aves de llegada regular.
-
-- **Funciones**: comparables a las que justificaron la selección o declaración del espacio Red Natura 2000 afectado.
-
-- **Integridad**: de la red funcional, conectividad ecológica...
-
-Las medidas compensatorias se aglutinarán en un Programa de medidas compensatorias que deberá indicar:
-
-- **Objeto**: hábitats, especies y procesos ecológicos cuya afectación a compensar, con indicación clara de los objetivos ecológicos que se pretenden conseguir.
-- **Elenco**: con indicación de su ubicación geográfica.
-- **Análisis de la viabilidad técnica**: en función con sus objetivos ecológicos.
-- **Análisis de la viabilidad jurídica y/o financiera**: en función de los plazos previstos.
-- **Calendario de aplicación**: y una justificación de los plazos en los que se espera que estén operativas y el momento en que el objetivo ecológico se verá alcanzado.
-- **Programa presupuestario** y el compromiso de liberar las partidas necesarias en los plazos adecuados para lograr el éxito de las medidas compensatorias.
-- **Programa de seguimiento**
-
-*Las medidas compensatorias adoptadas serán remitidas, por el cauce correspondiente, a la Comisión Europea.*
-
-
-Artículo 17. Comunicación al órgano gestor de la Red Natura 2000 de la aprobación del plan, programa o proyecto 
-
-Al objeto de que el órgano gestor de la Red Natura 2000 pueda realizar un adecuado seguimiento de las condiciones que se pudieran haber establecido y al objeto de facilitar el cumplimiento de la obligación, establecida en el artículo 6 de este decreto, de valorar y, en su caso, evaluar convenientemente los efectos que sobre los espacios Red Natura 2000 puedan producirse por la acumulación de diferentes planes, programas y proyectos:
-- Los órganos competentes para aprobar, autorizar o dar la conformidad a planes, programas o proyectos que hayan sido objeto de la emisión de valoraciones preliminares y de declaraciones de repercusiones sobre la Red Natura 2000 deberán comunicar al órgano gestor de los espacios Red Natura 2000 las resoluciones de aprobación o autorización que emitan.
-- Los promotores de los planes, programas y proyectos que hayan sido objeto de la emisión de valoraciones preliminares y declaraciones de repercusiones sobre la Red Natura 2000 deberán comunicar al órgano gestor de los espacios Red Natura 2000 el inicio de la ejecución de los mismos, así como el inicio, desarrollo y final de de ejecución de las medidas compensatorias que, en su caso, se hayan establecido para garantizar la coherencia global de la Red Natura 2000.
-
-CAPÍTULO III Incardinación de la evaluación de repercusiones sobre la Red
-Natura 2000 en otros procedimientos de evaluación vigentes
-
-Artículo 18. Incardinación de la evaluación de repercusiones sobre la Red Natura 2000 en otros procedimientos de evaluación vigentes
-
-La evaluación de las repercusiones de los planes, programas y proyectos sobre los espacios Red Natura 2000 y, en su caso, el diseño de las medidas compensatorias, se llevará a cabo en el marco de los procedimientos legalmente establecidos para la evaluación de impacto ambiental de proyectos y para evaluación ambiental de planes y programas de conformidad con lo establecido en las secciones siguientes.
-
-En el caso de planes, programas y proyectos excluidos de seguir todos o algunos de los trámites previstos en los procedimientos de evaluación ambiental y de evaluación de impacto ambiental, la evaluación de las repercusiones sobre la Red Natura 2000 y el diseño, en su caso, de las medidas  compensatorias, se realizará de conformidad con lo establecido en el capítulo IV de este decreto.
-
-En el caso de planes y programas, el análisis de las repercusiones se integrará en el procedimiento de evaluación ambiental (Ley 21/2013)
-
-
-
-
-Artículo 20. Evaluación de planes y programas que constituyan el marco para proyectos sometidos a evaluación ambiental en las materias mencionadas en el artículo 3.2 de la Ley 9/2006, de 28 de abril. 
-
-Para el caso de planes y programas sometidos directamente a evaluación ambiental por constituir el marco para proyectos sometidos a evaluación de impacto ambiental en las materias citadas en el artículo 3.2.a) de la Ley 9/2006, de 28 de abril, se seguirán las reglas siguientes:
-
-- **Valoración preliminar**: se emitirá en la fase de consultas previas a la emisión del documento de referencia prevista en el artículo 9 de la Ley 9/2006, de 28 de abril.
-	A tal efecto el órgano ambiental consultará preceptivamente al órga	no gestor de la Red Natura 2000 e incluirá en el documento de referencia lo indicado en la valoración preliminar. En el caso de que esta valoración preliminar haya indicado que es necesaria una evaluación detallada de repercusiones del plan o programa sobre la Red Natura 2000, el órgano ambiental le indicará expresamente al órgano promotor la necesidad de realizar el estudio de afecciones a la Red Natura 2000.
-
-- **Informe de sostenibilidad ambiental** (artículo 8 de la ley 9/2006), deberá contener de modo separado y claramente identificable el estudio de afecciones a la Red Natura 2000, el cual deberá tener el contenido marcado en el artículo 9 de este decreto y seguir las indicaciones proporcionadas por el órgano gestor de la Red Natura 2000 en su valoración preliminar.
-
-- **Declaración de repercusiones**: c) Será preceptivo consultar al órgano gestor de la Red Natura 2000 para que emita la declaración de repercusiones sobre la Red Natura
-
-Dicha consulta se realizará una vez finalizada la fase de puesta a disposición del público y consultas sobre la versión preliminar y el informe de sostenibilidad ambiental del plan o programa (artículo 10 de la Ley 9/2006).
-
-Para realizarla, el órgano promotor remitirá al órgano gestor de la Red Natura 2000 la versión preliminar del plan o programa, el informe de sostenibilidad ambiental y un informe sobre las alegaciones e informes presentados que hagan referencia a la Red Natura 2000. La declaración de repercusiones sobre la Red Natura 2000, una vez emitida, será enviada al órgano promotor y al órgano ambiental, para que puedan dar cumplimiento a lo establecido en el apartado d) siguiente.
-
-- La memoria ambiental contendrá un apartado específico dedicado a la repercusión del plan o programa sobre la Red Natura 2000. Dicho apartado se redactará teniendo en cuenta la valoración preliminar, cuando se haya declarado en ella que no era precisa la evaluación detallada sobre la Red Natura 2000, o la declaración de repercusiones, cuando sí haya sido necesaria la mencionada evaluación. En este último caso, este apartado de la memoria ambiental indicará de manera clara, siguiendo lo indicado en la mencionada declaración de repercusiones: 
-	- 1º Si el proyecto afecta o no a la integridad del espacio Red Natura 2000, teniendo en cuenta las medidas preventivas y correctoras fijadas.
-	- 2º En caso de afección, deberá indicar los hábitat y especies afectados, justificar la ausencia de alternativas, explicitar las razones imperiosas de interés público de primer orden que podrían llegar a justificar la aprobación del plan o programa, y contener el programa de medidas compensatorias que deberán tomarse para garantizar la coherencia de la Red Natura 2000, con indicación del momento en que dichas medidas deben comenzar a ejecutarse y el momento en que deben estar operativas.
-
-
-Para el caso de los planes y programas previstos en el artículo 3.3 de la Ley 9/2006, de 28 de abril, esto es, los planes y programas que establezcan el uso de zonas de reduido ámbito territorial, planes y programas que constituyan modificaciones menores de planes y programas preexistentes, y otros planes y programas distintos a los previstos en el artículo anterior, se seguirán las reglas siguientes:
-
-- a) La valoración preliminar se emitirá en la fase de consultas previas a la determinación, por parte del órgano ambiental, de la necesidad o no de que el plan o programa se someta a evaluación ambiental, previstas en el artículo 4.2 de la Ley 9/2006, de 28 de abril.
-	A tal efecto el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 y tendrá en cuenta la valoración preliminar a la hora de valorar si el plan o programa presenta efectos ambientales y de tomar su decisión sobre sometimiento o no sometimiento a evaluación ambiental.
-- b) En el caso de que el órgano ambiental decida someter el plan o programa a evaluación ambiental y la valoración preliminar haya indicado que es necesaria una evaluación detallada de repercusiones sobre la Red Natura 2000, el órgano ambiental incorporará en el documento de referencia previsto en el artículo 9 de la Ley 9/2006, de 28 de abril lo indicado en la valoración preliminar y le indicará al promotor la necesidad de realizar el estudio de afecciones sobre la Red Natura 2000.
-
-	A partir de este momento se seguirán las reglas procedimentales establecidas en los apartados b) a d) del artículo anterior.
-- c) En el caso de que el órgano ambiental decida no someter el plan o programa a evaluación ambiental, se seguirá el procedimiento de evaluación establecido en el capítulo IV de este decreto.
-
-Artículo 22. Evaluación de proyectos
-
-En el caso de proyectos, la evaluación Red Natura 2000 se integrará, del modo previsto en los artículos siguientes, en los procedimientos de evaluación de impacto ambiental y estimación ambiental (Ley 21/2013, Ley 2/1989, y Decreto 162/1990)
-
-Artículo 23. Evaluación de proyectos sometidos obligatoriamente a valuación de impacto ambiental
-
-Para el caso de proyectos sometidos obligatoriamente a evaluación de impacto ambiental (Anexo I del Real Decreto Legislativo 1/2008, Anexo I del Decreto 162/1990, y apartados c) y d) del anexo del presente decreto), se seguirán las reglas siguientes: 
-
-- **Valoración preliminar**: se emitirá en la fase de consultas previas para la determinación de la amplitud y el nivel de detalle que deberá tener el estudio de impacto ambiental, previstas en el artículo 8 del Real Decreto Legislativo 1/2008, de 11 de enero.
-	A tal efecto, el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 e incorporará en la determinación de la amplitud y el nivel de detalle que deberá tener el estudio de impacto ambiental lo indicado en la valoración preliminar. En el caso de que esta valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, el órgano ambiental le indicará al promotor la necesidad de realizar el estudio de afecciones a la Red Natura 2000.
-- **Estudio de impacto ambiental**: deberá contener de modo separado y claramente identificable el estudio de afecciones a la Red Natura 2000, el cual deberá tener el contenido marcado en el artículo 9 de este decreto y seguir las indicaciones proporcionadas por el órgano gestor de la Red Natura 2000 en su valoración preliminar.
-- c) Cuando el órgano sustantivo evacúe el trámite de información pública, deberán proporcionar al público, además de la información prevista en el artículo 9.2 del Real Decreto Legislativo 1/2008, de 11 de enero, información sobre:
-	- 1º Si es precisa o no la evaluación detallada de repercusiones sobre la Red Natura 2000
-	- 2º En caso afirmativo, la obligación legal que recae en el órgano sustantivo de abstenerse de autorizar o aprobar el proyecto si de la evaluación resulta que habrá afección al espacio Red Natura 2000, en tanto no se acredite la inexistencia de alternativas, no se haya declarado por ley o por acuerdo de Consejo de Ministros o del Consell la existencia de razones de interés público de primer orden y no se hayan fijado medidas compensatorias que garanticen la coherencia global de la Red Natura 2000.
-
-- **Declaración de repercusiones**: d) Será preceptivo consultar al órgano gestor de la Red Natura 2000 para que emita la declaración de repercusiones sobre la Red Natura
-
-	Dicha consulta se realizará una vez finalizada la fase de consultas e información pública (artículo 9 del Real Decreto Legislativo 1/2008). Para realizarla, el órgano sustantivo remitirá al órgano gestor de la Red Natura 2000 el estudio de impacto ambiental y un informe sobre las alegaciones e informes presentados que hagan referencia a la Red Natura 2000. La declaración de repercusiones sobre la Red Natura 2000, una vez emitida, será enviada al órgano sustantivo  y al órgano ambiental.
-
-- La declaración de impacto ambiental contendrá un apartado específico dedicado a la repercusión del proyecto sobre la Red Natura 2000. 
-	Dicho apartado se redactará teniendo en cuenta la valoración preliminar, cuando se haya declarado en ella que no era precisa la evaluación detallada sobre la Red Natura 2000, o la declaración de repercusiones, cuando sí haya sido necesaria la mencionada evaluación. En este último caso, este apartado de la declaración de impacto ambiental indicará de manera clara, siguiendo lo indicado en la mencionada declaración de repercusiones:
-
-	- 1º Si el proyecto afecta o no a la integridad del espacio Red Natura 2000, teniendo en cuenta las medidas preventivas y correctoras fijadas.
-	- En caso de afección, deberá indicar los hábitat y especies afectados, justificar la ausencia de alternativas, explicitar las razones imperiosas de interés público de primer orden que podrían llegar a justificar la aprobación del proyecto, y contener las medidas compensatorias que deberán tomarse para garantizar la coherencia de la Red Natura 2000, con indicación del momento en que dichas medidas deben comenzar a ejecutarse y el momento en que deben estar operativas.
-
-
-Artículo 24. Evaluación de proyectos sometidos obligatoriamente a estimación de impacto ambiental
-
-Para el caso de proyectos sometidos obligatoriamente a estimación de impacto ambiental (Anexo II del Decreto 162/1990, o en las normas e instrumentos indicados en el anexo, letras c) y d) del presente decreto, se seguirán las
-reglas siguientes:
-
-- a) La valoración preliminar se emitirá en la fase de consultas previas previstas en el artículo 18 del Decreto 162/1990, de 15 de octubre, del Consell, si el promotor realiza al órgano ambiental la consulta potestativa prevista en el artículo 17 del mencionado decreto. A tal efecto, el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 e incorporará lo indicado en la valoración preliminar en el documento que determine los aspectos más significativos que deban tenerse en cuenta en la elaboración del estudio de impacto ambiental. En el caso de que esta valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, el órgano ambiental le indicará al promotor la necesidad de realizar el estudio de afecciones a la Red Natura 2000.
-En el caso de que el promotor no considere conveniente realizar al órgano ambiental la consulta potestativa prevista en el artículo 17 del Decreto 162/1990, de 15 octubre, del Consell, la emisión de la valoración preliminar deberá ser solicitada por el promotor directamente al órgano gestor de la Red Natura 2000 con carácter previo a la elaboración del estudio de impacto ambiental, para lo cual deberá proporcionarle información sobre la naturaleza, características y ubicación del plan, programa o proyecto.
-
-
-- b) Si la evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000 es necesaria, el estudio de impacto ambiental (artículo 30 del Decreto 162/1990), deberá contener de modo separado y claramente identificable el estudio de afecciones a la Red Natura 2000, el cual deberá tener el contenido (artículo 9 ) y seguir las indicaciones proporcionadas por el órgano gestor de la Red Natura 2000 en su valoración preliminar.
-
-- c) Cuando, de conformidad con lo establecido en el artículo 31.1 del Decreto 162/1990, de 15 de octubre, del Consell, el órgano sustantivo evacúe el trámite de información pública, deberá proporcionar al público información sobre:
-
-	- 1º Si es precisa o no la evaluación de repercusiones sobre la Red Natura 2000.
-	- 2º En caso afirmativo, la obligación legal que recae en el órgano sustantivo de abstenerse de autorizar o dar su conformidad al proyecto si de la evaluación resulta que habrá afección al espacio Red Natura 2000, en tanto no se acredite la inexistencia de alternativas, no se haya declarado por ley o por acuerdo de Consejo de Ministros o del Consell la existencia de razones de interés público de primer orden y no se hayan fijado medidas compensatorias. 
-
-- d) Será preceptivo consultar al órgano gestor de la Red Natura 2000 para que emita la declaración de repercusiones sobre la Red Natura
-
-Dicha consulta se realizará una vez finalizada la fase de información pública, en su caso. Para realizarla, el órgano sustantivo remitirá al órgano gestor de la Red Natura 2000 el estudio de impacto ambiental, así como las alegaciones e informes presentados que hagan referencia
-a la Red Natura 2000, si la información pública tuvo lugar. La declaración de repercusiones sobre la Red Natura 2000, una vez emitida, será enviada al órgano sustantivo y al órgano ambiental.
-
-- La estimación de impacto ambiental contendrá un apartado específico dedicado a la repercusión del proyecto sobre la Red Natura 2000. 
-
-Dicho apartado se redactará teniendo en cuenta la valoración preliminar, cuando se haya declarado en ella que no era precisa la evaluación detallada sobre la Red Natura 2000, o la declaración de repercusiones, cuando sí haya sido necesaria la mencionada evaluación. En este último caso, este apartado de la estimación de impacto ambiental indicará de manera clara, siguiendo lo indicado en la mencionada declaración:
-
-- 1º. Si el proyecto afecta o no a la integridad del espacio Red Natura 2000, teniendo en cuenta las medidas preventivas y correctoras fijadas.
--  2º En caso de afección, deberá indicar los hábitat y especies afectados, justificar la ausencia de alternativas, explicitar las razones imperiosas de interés público de primer orden que podrían llegar a justificar la aprobación del proyecto, y contener las medidas compensatorias que deberán tomarse para garantizar la coherencia de la Red Natura 2000, con indicación del momento en que dichas medidas deben comenzar a ejecutarse y el momento en que deben estar operativas.
-
-Artículo 25. Proyectos que sólo deben someterse a procedimiento de evaluación de impacto ambiental por decisión del órgano ambiental
-
-Para el caso de proyectos no contenidos en el anexo I del Real Decreto Legislativo 1/2008, de 11 de enero, estén o no listados en su anexo II, siempre y cuando no se trate de proyectos sometidos a estimación de impacto ambiental, se seguirán las reglas siguientes:
-
-- La valoración preliminar se emitirá en la fase de consultas para la determinación de sometimiento o no sometimiento a evaluación de impacto ambiental prevista en el artículo 17.2 del Real Decreto Legislativo 1/2008, de 11 de enero.
-	- A tal efecto, el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 y tendrá en cuenta para tomar su decisión de sometimiento o no sometimiento a evaluación de impacto ambiental lo indicado en la valoración preliminar.
-- b) En el caso de que el órgano ambiental decida someter el proyecto a evaluación de impacto ambiental y la valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, el órgano ambiental incorporará en la determinación de la amplitud y el nivel de detalle que deberá tener el estudio de impacto ambiental lo indicado en la valoración preliminar y le indicará al promotor la necesidad de realizar el estudio de afecciones sobre la Red Natura 2000.
-
-	A partir de este momento se seguirán las reglas establecidas en las letras b) y siguientes del artículo 23 de este decreto.
-- c) En el caso de que el órgano ambiental decida no someter el proyecto al resto de trámites del procedimiento de evaluación de impacto ambiental y la valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, se seguirá el procedimiento de evaluación establecido en el capítulo siguiente.
-
-
-CAPÍTULO IV
-Procedimiento de evaluación de repercusiones sobre la Red Natura 2000 cuando otros procedimientos de evaluación no sean aplicables
-
-
-Artículo 26. Planes, programas y proyectos que se someterán al procedimiento de evaluación previsto en este capítulo
-
-
-Procedimiento de evaluación de repercusiones sobre la Red Natura 2000 cuando otros procedimientos de evaluación no sean aplicables
-
-Se someterán al procedimiento previsto en este capítulo los siguientes planes y programas:
-
-- **Defensa nacional o protección civil en casos de emergencia**: quedan excluidos o único objeto la defensa nacional o la protección civil en casos de emergencia, excluidos de someterse a evaluación ambiental en aplicación de lo dispuesto en el artículo 3.4 de la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente.
-- Los planes y programas para los que el órgano ambiental (artículo 3.3 y 4 de la Ley 9/2006, y  artículo 21 del presente decreto), haya decidido que no es preciso que se sometan al resto de trámites del procedimiento de evaluación ambiental.
-
-Se someterán al procedimiento previsto en este capítulo los siguientes proyectos:
-
-- Los proyectos relacionados con los objetivos de la defensa nacional que no deban someterse a procedimiento de evaluación de impacto ambiental (disposición adicional primera del Real Decreto Legislativo 1/2008).
-
-- Los proyectos que vayan a ser aprobados específicamente por una ley del Estado o de la Generalitat y que no deban someterse a procedimiento de evaluación de impacto ambiental (disposición adicional primera del Real Decreto Legislativo 1/2008, y artículo 3 del Decreto 162/1990)
-
-- **Motivos excepcionales**: por acuerdo motivado del Consejo de Ministros o del Consell (disposición adicional segunda del Real Decreto Legislativo 1/2008, y disposición final segunda de la Ley 2/1989).
-
-- **Proyectos de centros penitenciarios** (disposición adicional primera del Real Decreto Legislativo 1/2008)
-
-- Los proyectos para los que el órgano ambiental, de conformidad con lo establecido en el artículo 3.2 del Real Decreto Legislativo 1/2008, de 11 de enero y el artículo 25 del presente decreto haya decidido que no es preciso que se sometan al resto de trámites del procedimiento de evaluación de impacto ambiental.
-
-Artículo 27. Procedimiento
-
-- Inicio: los promotores de los planes, programas y proyectos solicitarán del órgano gestor de la Red Natura 2000, la emisión de la valoración preliminar prevista en el artículo 7 de este decreto. Para ello acompañarán a la solicitud información relativa a la naturaleza, características y ubicación del plan, programa o proyecto. 
-
-En el caso de planes o programas la solicitud y la información serán presentadas por el órgano promotor del plan o programa. 
-En el caso de proyectos, la solicitud y la información serán presentadas ante el órgano con competencia sustantiva para aprobarlos o autorizarlos, el cual la remitirá al órgano gestor de la Red Natura 2000.
-No será precisa la presentación de la solicitud y la información mencionadas en los párrafos anteriores cuando se trate de planes, programas y proyectos previstos en los apartados 1.b) y 2.e) del artículo anterior, dado que la valoración preliminar ya habrá sido emitida en virtud de lo
-establecido en los artículos 19 y 25 de este decreto.
-- **Valoración preliminar**: el órgano gestor de la Red Natura 2000 emitirá la valoración preliminar en el plazo y con el contenido y los efectos previstos en el artículo 7 de este decreto, salvo en los supuestos de planes, programas y proyectos previstos en los apartados 1.b) y 2.e) del artículo anterior, dado que la valoración preliminar ya habrá sido emitida (artículos 19 y 25).
-
-- **Estudio de afecciones a la Red Natura 2000**: si la valoración preliminar indica que será necesario realizar una evaluación de las repercusiones sobre la Red Natura 2000, el promotor deberá realizar el estudio de afecciones previsto en el artículo 9 de este decreto.
-
-En el caso de planes y programas el estudio de afecciones se elaborará y se remitirá por el órgano promotor al órgano gestor de la Red Natura 2000.
-
-En el caso de proyectos el estudio de afecciones se elaborará y
-presentará ante el órgano con competencia sustantiva para aprobarlos,
-autorizarlos o controlarlos.
-
-Consulta al público interesado y administraciones interesadas: el estudio de afecciones será puesto a disposición del público interesado y de administraciones afectadas por el órgano promotor en el caso de planes y programas, y por el órgano con competencia sustantiva en el
-caso de proyectos, del modo, durante el plazo y en los términos que indique la valoración preliminar.
-
-Quedan excluidos de realizar este trámite los planes, programas y proyectos relacionados con la defensa nacional, así como los proyectos relacionados con centros penitenciarios (artículos 26.1.a, 26.2.a, y 26.2d).
-
-- **Remisión del expediente**: el órgano promotor, en el caso de planes y programas, o el órgano sustantivo, en el caso de proyectos, remitirán al órgano gestor de la Red Natura 2000 el estudio de afecciones, así como un informe de alegaciones en caso de que haya sido preciso realizar el trámite de consulta, al objeto de que emita la declaración de repercusiones sobre la Red Natura 2000.
-
-- **Declaración de repercusiones sobre la Red Natura 2000**: el órgano gestor de la Red Natura 2000 emitirá la declaración de repercusiones sobre la Red Natura 2000 en el plazo y con el contenido y efectos previstos en el artículo 10 de este decreto.
-
-
-CAPÍTULO V
-Constatación de la realizacion de la evaluacion de repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la unión europea
-
-Artículo 28. Constatación del cumplimiento de la obligación de evaluar sus repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la Unión Europea
-
-A los efectos de dar cumplimiento a lo establecido en el artículo 40 del Reglamento CE nº 1083/2006, del Consejo, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión, y al artículo
-40.2 y anexos XXI y XXII del Reglamento (CE) nº 1828/2006 de la Comisión que desarrolla el anterior, o normativa comunitaria posterior que los sustituya, 
-
-Cuando sea necesario acreditar el cumplimiento de las exigencias de evaluación de los efectos de los grandes proyectos de infraestructuras e inversión productiva sobre los espacios de la Red Natura 2000, se seguirán las reglas siguientes:
-- a) La declaración de la autoridad responsable del seguimiento de los lugares de la Red Natura 2000 será emitida por el órgano gestor de la Red Natura 2000. Para su emisión, será necesario que:
-	- 1º Se haya instado, de conformidad con las reglas de procedimiento previstas en este decreto, y se haya emitido por el órgano gestor de la Red Natura 2000 la valoración preliminar prevista en el artículo 7 del mismo.
-	- 2º Que dicha valoración preliminar indique que no existe probabilidad de efectos apreciables sobre los espacios integrantes de la Red Natura 2000.
-
-En el caso de proyectos a los que sea de aplicación lo establecido en los artículos 23 a 25 de este decreto, podrá solicitarse la emisión de la mencionada declaración una vez haya sido ya emitida la valoración preliminar en el contexto de los procedimientos de evaluación de impacto ambiental o de estimación ambiental.
-
-En el caso de proyectos enunciados en el artículo 26.2 de este decreto podrán solicitarse y tramitarse de modo conjunto las peticiones de emisión de valoraciones preliminares y de declaraciones de autoridad responsable.
-
-Lo dispuesto en los tres párrafos anteriores no será de aplicación en el caso de proyectos para los que los instrumentos de gestión de los espacios Red Natura 2000 hayan determinado que quedan excluidos de la obligación de evaluar sus repercusiones sobre la Red Natura 2000, de conformidad con lo establecido en el artículo 8 de este decreto. En estos casos, podrá solicitase la emisión de la declaración de la autoridad responsable en cualquier momento.
-
-- El resumen de las conclusiones de la evaluación adecuada realizada de conformidad con lo establecido en el artículo 6.3 de la Directiva 92/43/CE se acreditará mediante la presentación directa de la declaración de impacto ambiental o de la declaración de repercusiones sobre la Red Natura 2000, sin necesidad de solicitar del órgano gestor ningún tipo de declaración adicional.
-- Cuando sea preciso aportar a los servicios de la Comisión Europea competentes en política regional, información sobre las eventuales medidas compensatorias que haya sido preciso adoptar, las medidas compensatorias que se indiquen en el formulario de información sobre los proyectos que pueden tener un efecto negativo significativo en los lugares de la Red Natura 2000, notificados a la Comisión (Dirección General de Medio Ambiente) en virtud de la Directiva 92/43/CEE, deberán corresponderse con las medidas compensatorias indicadas en la declaración de impacto ambiental o en la declaración de repercusiones sobre la Red Natura 2000
-
-ANEXO. Proyectos sometidos al régimen de evaluación, autorización o conformidad previsto en este decreto
-
-1. Los enunciados en los anexos I y II del Real Decreto Legislativo 1/2008.
-2. Los enunciados en los anexos I y II del Decreto 162/1990.
-3. Los indicados en el artículo 63 de la Ley 3/1993 y en el artículo 24 de la Ley 10/2004
-4. Declaración de impacto ambiental o estimación ambiental en los planes de ordenación de los recursos naturales y los planes rectores de uso y gestión de los espacios naturales protegidos, cuando su ámbito territorial presente coincidencia, total o parcial, con el ámbito de aplicación territorial previsto en el presente decreto.
-5. Autorización ambiental integrada (Ley 2/2006 y sus normas de desarrollo)
-6. Licencia ambiental y comunicación ambiental (Ley 2/2006 y sus normas de desarrollo): en suelo distinto al clasificado como urbano consolidado.
-7. Defensa nacional
-8. Otro proyecto que sea expresamente indicado en las normas de gestión de los espacios de la Red Natura 2000 por presentar probabilidad de afección apreciable a la Red Natura 2000

@@ -27,107 +27,75 @@ La norma básica estatal es la [Ley 34/2007](https://www.boe.es/buscar/act.php?i
 
 #### Competencias de las Administraciones Públicas
 
+Las competencias de las Administraciones públicas son las siguientes ([artículo 5](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a5)):
 
-
-Las competencias son las siguientes ([artículo 5](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a5)):
-
-| Administración        | Competencias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Estado                | - Objeto (actualización): contaminantes regulados (Anexo I) y actividades potencialmente contaminadoras de la atmósfera (Anexo IV)<br>- Objetivos de calidad del aire, umbrales de alerta e información, valores límite de emisión<br>- Requisitos de los sistemas de evaluación de la calidad del aire: estaciones, redes, métodos...<br>- Planes y programas estatales (normativa comunitaria, acuerdos internacionales...)<br>- Información nacional: inventarios españoles de emisiones, contaminación de fondo...<br>- [Sistema español de información, vigilancia y prevención de la contaminación atmosférica](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-.html) (coordinación)<br>- Medidas para situaciones adversas supraautonómicas (coordinación, para la coherencia de las actuaciones) |
-| Comunidades Autónomas | - Evaluación de la calidad del aire<br>- Objetivos de calidad y valores límite de emisión más estrictos (posibilidad)<br>- Planes y programas de mejora de la calidad del aire<br>- Control e inspección<br>- Criterios comunes de actuación: para sus organismos de control autorizados (OCAs), y sus relaciones con las administraciones de la Comunidad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Entidades locales     | - Adaptación de las ordenanzas y el planeamiento urbanístico<br>- Sistema de control y garantía de calidad: exhaustividad, coherencia, transparencia, comparabilidad y confianza (mediciones o estimaciones, informes de contaminantes, implantación de recomendaciones...)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Administración        | Competencias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Estado                | - **Contaminación general** (actualización): contaminantes regulados (Anexo I) y actividades potencialmente contaminadoras de la atmósfera (Anexo IV)<br>- **Objetivos de calidad del aire**<br>- **Umbrales de información y alerta**<br>- **Valores límite de emisión**<br>- **Requisitos de los sistemas de evaluación de la calidad del aire**: estaciones, redes, métodos...<br>- **Planificación estatal**: planes y programas por normativa comunitaria, acuerdos internacionales...<br>- **Información nacional**: inventarios españoles de emisiones, contaminación de fondo...<br>- **[Sistema español de información, vigilancia y prevención de la contaminación atmosférica](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-.html)** (coordinación)<br>- **Medidas para situaciones adversas supraautonómicas** (coordinación, para la coherencia de las actuaciones) |
+| Comunidades Autónomas | - **Evaluación de la calidad del aire**<br>- **Objetivos de calidad** (posibilidad, más restrictivos)<br>- **Valores límite de emisión** (posibilidad, más restrictivos)<br>- **Planificación**: mejora de la calidad del aire<br>- **Control e inspección**<br>- **Criterios comunes de actuación**: para sus organismos de control autorizados (OCAs), y sus relaciones con las administraciones de la Comunidad                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Entidades locales     | - **Adaptación normativa**: ordenanzas y planeamiento urbanístico<br>- **Sistema de control y garantía de calidad**: exhaustividad, coherencia, transparencia, comparabilidad y confianza (mediciones o estimaciones, informes de contaminantes, implantación de recomendaciones...)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 *Además, las Comunidades Autónomas participarán con el Estado en las actualización de contaminantes atmosféricos y actividades, establecimiento de objetivos de calidad, umbrales de alerta e información, valores límite de emisión, requisitos mínimos de los sistemas de evaluación (contaminantes humanos y fuentes naturales), elaboración de los planes y programas estatales...*
 
 
-
 #### Evaluación y gestión de la calidad
 
-[CAPÍTULO II. Evaluación y gestión de la calidad del aire](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#cii)
+El Gobierno (con la participación de las Comunidades Autónomas) revisará al menos cada cinco años la relación de contaminantes (Anexo I) según determinadas directrices (Anexo II), y establecerá de acuerdo a los factores (Anexo III) los objetivos de calidad del aire y las condiciones y plazos para alcanzarlos.
 
-- [Artículo 9. Contaminantes atmosféricos y objetivos de calidad del aire.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a9)
-- [Artículo 10. Evaluación de la calidad del aire.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a10)
-- [Artículo 11. Zonificación del territorio.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a11)
+Las Administraciones públicas adoptarán las medidas necesarias para mantener y mejorar la calidad del aire, y cumplir los objetivos. Cuando estos se sobrepasen (o exista un riesgo de que ocurra) la Comunidad Autónoma adoptará las medidas adecuadas para evitar o mitigar la contaminación.
 
-El Gobierno (con la participación de las Comunidades Autónomas) revisará al menos cada cinco años la relación de contaminantes (Anexo I) según las directrices (Anexo II), y establecerá de acuerdo a los factores (Anexo III) los objetivos de calidad del aire y las condiciones y plazos para alcanzarlos.
-
-Las Administraciones públicas adoptarán las medidas necesarias para mantener y mejorar la calidad del aire, y cumplir los objetivos. 
-
-Cuando se sobrepasen los objetivos de calidad del aire o exista un riesgo de que esto ocurra, la comunidad autónoma competente adoptará las medidas adecuadas para evitar o mitigar la contaminación.
-
-*Las administraciones públicas estarán obligadas a velar por que la calidad del aire se mantenga dentro de los límites legales establecidos. Los ciudadanos y las organizaciones sociales que velen por la salud y la preservación del medio ambiente podrán demandarlo legalmente.*
-
+*Las administraciones públicas estarán obligadas a velar por que la calidad del aire se mantenga dentro de los límites establecidos en la normativa. Los ciudadanos y las organizaciones sociales que velen por la salud y la preservación del medio ambiente podrán demandarlo legalmente.*
 
 Las Comunidades Autónomas (y, en su caso, las entidades locales: artículo 5.3) evaluarán regularmente la calidad del aire en su correspondiente ámbito territorial (de acuerdo a la normativa de aplicación y a métodos de la Unión Europea).
 
 Las aglomeraciones deberán disponer de estaciones y redes de evaluación de la calidad del aire (por sí mismas o en colaboración con las Comunidades Autónomas: artículo 8.3).
 
-Las Comunidades Autónomas (con la participación de las entidades locales), clasificarán su territorio según los niveles de contaminantes para los que hayan establecido objetivos de calidad del aire (artículo 10), y elaborarán listas de zonas y aglomeraciones. La información se remitirá a la Administración General del Estado (artículo 28), quien las integrará las zonas de su territorio.
+Las Comunidades Autónomas (con la participación de las entidades locales), clasificarán su territorio según los niveles de contaminantes para los que hayan establecido objetivos de calidad del aire (artículo 10), y elaborarán listas de zonas y aglomeraciones. 
 
-ESTO NO SÉ SI LO HE ENTENDIDO BIEN.
-
-La información utilizada para la zonificación a que hace referencia este artículo deberá ser tenida en cuenta por las Administraciones públicas en la elaboración y aprobación de planes urbanísticos y de ordenación del territorio, así como en la tramitación de los procedimientos de autorización de actividades e instalaciones potencialmente contaminadoras de la atmósfera.
-
-
-
-
+Esta información se remitirá a la Administración General del Estado (artículo 28), y deberá ser considerada en la elaboración de planes urbanísticos y de ordenación del territorio, y en la tramitación de los procedimientos de autorización de actividades e instalaciones potencialmente contaminadoras de la atmósfera.
 
 #### Prevención y control de emisiones
 
+El Gobierno (con la participación de las Comunidades Autónomas) podrá establecer por vía reglamentaria valores límite de emisión para los contaminantes (en particular los regulados: Anexo I), y las actividades potencialmente contaminadoras de la atmósfera (Anexo IV) (Real Decreto 102/2011).
 
-[CAPÍTULO III. Prevención y control de las emisiones](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#ciii)
+También podrá (también de manera reglamentaria, con la participación autonómica) establecer obligaciones específicas para la fabricación, importación, adquisición intracomunitaria, transporte, distribución, puesta en el mercado o utilización y gestión durante su ciclo de vida de aquellos productos que puedan generar contaminación atmosférica.
 
-- [Artículo 12. Control de las emisiones.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a12)
-- [Artículo 13. Actividades potencialmente contaminadoras de la atmósfera.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a13)
-- [Artículo 14. Modificación sustancial de la instalación.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a14)
-- [Artículo 15. Contaminación intercomunitaria y transfronteriza.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a15)
+Las Administraciones públicas velarán para que se adopten las medidas necesarias y las prácticas adecuadas en las actividades e instalaciones, que permitan evitar o reducir la contaminación atmosférica aplicando, en la medida de lo posible, las mejores técnicas disponibles y empleando los combustibles menos contaminantes. Asimismo, las entidades privadas y los particulares se esforzarán en contribuir a la reducción de los contaminantes de la atmósfera en el ejercicio de sus actividades cotidianas.
 
-El Gobierno (con la participación de las Comunidades Autónomas) podrá establecer por Real Decreto valores límite de emisión para los contaminantes (en particular los regulados: Anexo I), y las actividades potencialmente contaminadoras de la atmósfera (Anexo IV) (esto se ha realizado mediante el Real Decreto 102/2011).
-
-También podrá (con la participación autonómica) establecer obligaciones específicas -también por real decreto- para la fabricación, importación, adquisición intracomunitaria, transporte, distribución, puesta en el mercado o utilización y gestión durante su ciclo de vida de aquellos productos que puedan generar contaminación atmosférica.
-
-Las Administraciones públicas velarán para que se adopten las medidas necesarias y las prácticas adecuadas en las actividades e instalaciones, que permitan evitar o reducir la contaminación atmosférica aplicando, en la medida de lo posible, las mejores técnicas disponibles y empleando los combustibles menos contaminantes. Asimismo las entidades privadas y los particulares se esforzarán en el ejercicio de sus actividades cotidianas, en contribuir a la reducción de los contaminantes de la atmósfera.
-
-Se consideran "actividades potencialmente contaminadoras de la atmósfera" las incluidas en el catálogo que figura en el anexo IV. El Gobierno (con la participación de las Comunidades Autónomas) las revisará al menos cada 5 años (y en su caso las actualizará).
+Se consideran "actividades potencialmente contaminadoras de la atmósfera" las incluidas en el Catálogo (Anexo IV). El Gobierno (con la participación de las Comunidades Autónomas) las revisará al menos cada 5 años (y en su caso las actualizará).
 
 En caso de que una instalación del Catálogo tenga cambios (construcción, montaje, explotación, traslado, modificación sustancial) se requerirán lo siguiente a las Comunidades Autónomas (según normativa autonómica):
 
 - **Grupos A y B**: autorización administrativa, por un periodo temporal determinado (máximo 8 años), con el siguiente contenido mínimo: 
 
-	- **Valores límite de emisión** de los contaminantes (en particular los regulados: Anexo I): que puedan ser emitidos por la instalación y en su caso los parámetros o las medidas técnicas que los complementen o sustituyan.
-
-	- **Contaminación a larga distancia**: prescripciones de mitigación
-	- Los sistemas y procedimientos para el tratamiento y control, con especificación de la metodología de medición, su frecuencia y los procedimientos para evaluar las mediciones.
-
-	- Las medidas relativas a las condiciones de explotación en situaciones distintas de las normales que puedan afectar al medio ambiente (puesta en marcha, fugas, fallos de funcionamiento, paradas temporales, cierre definitivo...)
-
-	- **Plazo**: por el que se otorga la autorización.
-
 - **Grupo C**: notificación previa
 
+La autorización administrativa (grupos A y B) requiere el siguiente contenido mínimo: 
+
+- **Valores límite de emisión** de los contaminantes (en particular los regulados: Anexo I): que puedan ser emitidos por la instalación y en su caso los parámetros o las medidas técnicas que los complementen o sustituyan.
+
+- **Contaminación a larga distancia**: prescripciones de mitigación
+
+- **Sistemas y procedimientos para el tratamiento y control**: con especificación de la metodología de medición, su frecuencia y los procedimientos para evaluar las mediciones.
+
+- **Medidas en situaciones extraordinarias**: condiciones de explotación distintas de las normales que puedan afectar al medio ambiente (puesta en marcha, fugas, fallos de funcionamiento, paradas temporales, cierre definitivo...)
+
+- **Plazo**: por el que se otorga la autorización.
 
 La Comunidad Autónoma no podrá autorizar nuevos cambios (construcción, montaje, explotación, traslado o modificación sustancial) en instalaciones clasificadas como de los grupos A y B del Catálogo si provoca un incremento de la contaminación que impide alcanzar los objetivos de calidad del aire.
 
-***Cuando corresponda al órgano ambiental de la Administración General del Estado la formulación de la declaración de impacto ambiental, de acuerdo con lo establecido en el [Real Decreto legislativo 1302/1986, de 28 de junio](https://www.boe.es/buscar/doc.php?id=BOE-A-1986-17240 "Abre nueva ventana"), de evaluación de impacto ambiental, y su normativa de desarrollo, no podrá otorgarse la autorización a la que se refiere este artículo, sin que previamente se haya dictado dicha declaración.***
+En evaluación ambiental de proyectos por el procedimiento ordinario (Ley 21/2013) en que el órgano ambiental sea la Administración General del Estado, se requerirá la declaración de impacto ambiental previamente a la obtención de la declaración ambiental integrada. Dicho órgano remitirá una copia al competente autonómico tras su formulación *(o después de la resolución del Consejo de Ministros de discrepancias con el órgano sustantivo, en su caso)*.
 
-***A estos efectos, el órgano ambiental estatal, tan pronto como haya formulado la declaración de impacto ambiental o tras la resolución, en su caso, por el Consejo de Ministros de discrepancias con el órgano sustantivo, remitirá una copia de la misma al órgano competente de la comunidad autónoma que deberá incorporar su condicionado al contenido de dicha autorización.***
-
-Corresponderá a las Comunidades Autónomas determinar en qué términos la modificación de una instalación es sustancial. Deberá realizarse de acuerdo al cambio proyectado sobre la contaminación atmosférica, y a los criterios siguientes:
+Corresponderá a las Comunidades Autónomas determinar los términos en que una modificación se considera sustancial, de acuerdo al cambio proyectado sobre la contaminación atmosférica, y a los siguientes criterios:
 
 - **Tamaño y producción** de la instalación
 - **Consumo de energía**
 - **Contaminación producida**: cuantía y tipología
-- Nivel de contaminación existente en la zona respecto de los objetivos de calidad del aire establecidos.
+- **Contaminación existente**: en la zona, respecto de los objetivos de calidad del aire establecidos.
 
+Cuando una instalación pueda tener repercusiones significativas sobre la calidad del aire de otra Comunidad Autónoma o Estado, el órgano competente autonómico les remitirá una copia de la solicitud de autorización y de toda la documentación relevante, para que puedan formular alegaciones antes de que recaiga resolución definitiva, la cual les será comunicada.
 
-##### Artículo 15. Contaminación intercomunitaria y transfronteriza.
-
-Cuando una instalación pueda tener repercusiones significativas sobre la calidad del aire de otra Comunidad Autónoma o Estado, el órgano competente de la comunidad autónoma donde vaya a ubicarse aquélla remitirá una copia de la solicitud de autorización y de toda la documentación que sea relevante a la comunidad autónoma afectada o al Ministerio de Asuntos Exteriores y Cooperación, para su remisión al Estado potencialmente afectado, para que puedan formular alegaciones antes de que recaiga resolución definitiva.
-
-La resolución que finalmente se adopte será comunicada a la Comunidad Autónoma afectada o -a través del Ministerio de Asuntos Exteriores y de Cooperación-, al Estado afectado.
-
-El Ministerio de Asuntos Exteriores mantendrá informado al Ministerio de Medio Ambiente sobre las actuaciones desarrolladas, y éste trasladará a la Comunidad Autónoma afectada la citada información.
-
+Las relaciones con Estados extranjeros se realizan siempre a través del Ministerio de Exteriores. Este informará al Ministerio de Medio Ambiente, para su derivación a la Comunidad Autónoma.
 
 #### Planificación
 
@@ -139,53 +107,45 @@ El Ministerio de Asuntos Exteriores mantendrá informado al Ministerio de Medio 
 - [Artículo 19. Indicadores ambientales.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a19)
 
 
-##### Artículo 16. Planes y programas para la protección de la atmósfera y para minimizar los efectos negativos de la contaminación atmosférica.
+El Gobierno aprobará los planes y programas de ámbito estatal para prevenir y reducir la contaminación atmosférica y minimizar sus impactos (son elaborados y actualizados con la participación de las Comunidades Autónomas), con el siguiente contenido:
 
-El Gobierno aprobará los planes y programas de ámbito estatal para prevenir y reducir la contaminación atmosférica y minimizar sus impactos (elaborados y actualizados con la participación de las Comunidades Autónomas).
+- **Objetivos**
+- **Medidas**
+- **Procedimiento de revisión**
+- ***Otras actuaciones** (opcionales): fomento de investigación, desarrollo e innovación, intercambio de información, y la cooperación institucional e internacional.*
 
-Estos fijarán objetivos específicos, las medidas para su consecución y el procedimiento para su revisión. Podrán incluir además actuaciones para fomentar la investigación, el desarrollo y la innovación, así como el intercambio de información, la cooperación institucional y la cooperación internacional.
+*Existe el [Plan marco de acción a corto plazo en casos de episodios de contaminación del aire ambiente](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/09072021planepisodios_tcm30-529218.pdf) por partículas inferiores a 10 micras (PM10), 2,5 micras (PM 2,5), dióxido de nitrógeno, (NO2), ozono (O3), y dióxido de azufre (SO2); y el [Programa Nacional de Control de la Contaminación Atmosférica](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/sgalsi/atm%C3%B3sfera-y-calidad-del-aire/emisiones/pol-med/actualizacion_pncca2023_240115.pdf).*
 
-Las Comunidades Autónomas adoptarán como mínimo los siguientes planes y programas (considerando los estatales):
+
+Las Comunidades Autónomas adoptarán como mínimo los siguientes planes y programas (considerando los estatales, y los principios de cooperación y colaboración en casos de competencia de otra Administración):
 
 - **Mejora de la calidad del aire**: para alcanzar los objetivos de calidad del aire en los plazos fijados, en las zonas en las que los niveles de uno o más contaminantes regulados superen dichos objetivos
 
-	En estos planes se identificarán las fuentes de emisión responsables de los objetivos de calidad, se fijarán objetivos cuantificados de reducción de niveles de contaminación para cumplir la legislación vigente, se indicarán las medidas o proyectos de mejora, calendario de aplicación, estimación de la mejora de la calidad del aire que se espera conseguir y del plazo previsto para alcanzar los objetivos de calidad.
-	
-	Los planes también preverán procedimientos para el seguimiento de su cumplimiento y para su revisión. La revisión de estos planes deberá producirse cuando la situación de la calidad del aire así lo aconseje o cuando exista constancia de que con las medidas aplicadas no se alcanzarán los objetivos de calidad en los plazos estipulados.
-	
-	En estos planes se integrarán planes de movilidad urbana, que, en su caso, podrán incorporar los planes de transporte de empresa que se acuerden mediante negociación colectiva, con vistas al fomento de modos de transporte menos contaminantes.
-
 - **Acción a corto plazo**: en los que se determinen medidas para las zonas y supuestos en que exista riesgo de superación de los objetivos de calidad del aire y los umbrales de alerta.
 
-	En estos planes se identificará la Administración que en cada caso sea responsable para la ejecución de las medidas. Además, en estos planes se podrán prever medidas de control o suspensión de aquellas actividades que sean significativas en la situación de riesgo, incluido el tráfico.
+| Tipología                     | Elementos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mejora de la calidad del aire | - **Fuentes de emisión**<br>- **Objetivos de reducción** (cuantificados)<br>- **Medidas o proyectos de mejora**<br>- **Calendario de aplicación**<br>- **Estimación de la mejora** de la calidad del aire<br>- **Plazo** previsto (para alcanzar los objetivos).<br>- **Procedimiento de seguimiento**<br>- **Procedimiento de revisión** (cuando cambie la situación o las medidas no prevengan la superación de los objetivos en plazo).<br>- **Planes de movilidad urbana**: podrán incorporar de transporte de empresa por negociación colectiva |
+| Acción a corto plazo          | - **Administración responsable**: para la ejecución de las medidas.<br>- **Medidas de control o suspensión**: de actividades significativas en la situación de riesgo (incluido el tráfico).                                                                                                                                                                                                                                                                                                                                                         |
 
-	Para la elaboración de sus planes y programas, las comunidades autónomas deberán tener en cuenta los planes y programas a los que se refiere el apartado 1. Asimismo, aplicarán los principios de cooperación y colaboración respecto de las previsiones que se establezcan para los supuestos en que la contaminación atmosférica afecte a un ámbito territorial superior al de una comunidad autónoma, o su ámbito incluya actividades, infraestructuras o zonas de competencia de otras Administraciones públicas.
+*Para ello, deberán considerar los estatales, y los principios de cooperación y colaboración en casos de competencia de otra Administración.*
 
-Las entidades locales también podrán elaborar sus propios planes y programas, considerando los autónomicos. Asimismo, podrán adoptar medidas de restricción del tráfico (total o partcial), como restricciones a los vehículos más contaminantes, y a ciertas matrículas, horas, o zonas.
+
+Las entidades locales también podrán elaborar sus propios planes y programas, (considerando los autónomicos), y adoptar medidas de restricción del tráfico (total o partcial): a los vehículos más contaminantes, a ciertas matrículas, horas, zonas... 
 
 Los municipios con población superior a 100.000 habitantes y las aglomeraciones adoptarán planes y programas para el cumplimiento y mejora de los objetivos de calidad del aire.
 
-Para la revisión de todos los planes se tendrán en cuenta, entre otros aspectos, los indicadores ambientales (artículo 19).
+Los planes y programas afectan podrán incluir prescripciones ciudadanas de obligado cumplimiento (para lo que deberán publicarse) y evidencias epidemiológicas y perspectiva de protección de la salud pública en las decisiones que afectan a la calidad del aire. 
 
-Los planes y programas regulados en este artículo serán determinantes para los diferentes instrumentos de planeamiento urbanístico y de ordenación del territorio. Si tales instrumentos contradicen o no acogen el contenido de los planes y programas regulados en este artículo, esta decisión deberá motivarse y hacerse pública.
+Además, serán determinantes para los instrumentos instrumentos de planeamiento urbanístico y de ordenación del territorio (si estos los contradicen o no recogen su contenido, la decisión deberá motivarse y hacerse pública), y las Administraciones Públicas deberán integrarlos en la planificación, desarrollo, y ejecución de sus políticas sectoriales.
 
-Asimismo estos planes y programas podrán incluir prescripciones de obligado cumplimiento para los ciudadanos. Para ello, dichos planes y programas deberán ser objeto de publicación.
+*Si las actuaciones sectoriales generan contaminación atmosférica significativa, estas velarán por que se respeten los objetivos de calidad del aire y los impactos se minimicen en las fases de diseño y planificación, debiendo figurar su valoración en la correspondiente memoria.*
 
-Los planes y programas incorporarán las evidencias epidemiológicas y la perspectiva de protección de salud pública en las decisiones que afectan a la calidad del aire.
+El Ministerio de Medio Ambiente (en colaboración con los departamentos ministeriales afectados y las Comunidades Autónomas) elaborará los indicadores necesarios para el conocimiento de la contaminación atmosférica y sus efectos, y la evaluación de la eficacia de las medidas de prevención y reducción.
 
+Su elaboración y revisión (como mínimo, anual) se realizará de acuerdo a las directrices y criterios vigentes de la Unión e internacionales y la información del seguimiento de los planes de protección de la atmósfera (artículo 16).
 
-Las Administraciones públicas, en el ámbito de sus competencias, deberán integrar las consideraciones relativas a la protección de la atmósfera en la planificación, desarrollo y ejecución de las distintas políticas sectoriales.
-
-En los supuestos en que las actuaciones sectoriales puedan tener efectos significativos en la conservación de la atmósfera, y sin perjuicio de lo establecido por otras disposiciones, las Administraciones públicas, en el ámbito de sus competencias, velarán para que dichas actuaciones no sobrepasen los objetivos de calidad del aire establecidos y para que, en todo caso, sus posibles impactos sean debidamente minimizados en las fases de diseño y planificación de la actuación, debiendo figurar dicha valoración en la memoria correspondiente de la actuación de que se trate.
-
-
-Indicadores ambientales.
-
-El Ministerio de Medio Ambiente (en colaboración con los departamentos ministeriales afectados y las comunidades autónomas) elaborará los indicadores necesarios, y efectuará su revisión anual.
-
-Para facilitar un mejor conocimiento del estado de la contaminación atmosférica y sus efectos, y evaluar la eficacia de las medidas que se adopten para su prevención y reducción de conformidad con lo establecido en esta ley y en su normativa de desarrollo, el Ministerio de Medio Ambiente, en colaboración con los departamentos ministeriales afectados y las comunidades autónomas, elaborará los indicadores que sean precisos, y efectuará la revisión anual de los mismos.
-
-En la elaboración y revisión de los indicadores se tendrán en cuenta las directrices y criterios vigentes en el ámbito comunitario e internacional y la información obtenida del seguimiento de los planes de protección de la atmósfera (artículo 16).
+Los indicadores servirán para la revisión de los planes y programas mencionados.
 
 
 #### Control, inspección, vigilancia y seguimiento
@@ -198,31 +158,27 @@ En la elaboración y revisión de los indicadores se tendrán en cuenta las dire
 - [Artículo 28. Estaciones, redes y otros sistemas de evaluación de la calidad del aire.](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19744&p=20251204&tn=1#a28)
 
 
-Las Comunidades Autónomas (y, en su caso, las entidades locales: artículo 5.3), serán las competentes para adoptar las medidas de inspección necesarias para garantizar el cumplimiento de esta ley.
+Las Comunidades Autónomas (y, en su caso, las entidades locales: artículo 5.3), serán las competentes para adoptar las medidas de inspección.
 
-Los funcionarios que realicen las tareas de inspección tendrán el carácter de agentes de la autoridad y (en el ejercicio de sus funciones) podrán acceder a cualquier lugar de la instalación o dependencia (de titularidad pública o privada) (con respeto, en todo caso, a la inviolabilidad del domicilio)
+Los funcionarios que realicen estas tareas tendrán el carácter de agentes de la autoridad y (en el ejercicio de sus funciones) podrán acceder a cualquier lugar de la instalación o dependencia (de titularidad pública o privada) (con respeto, en todo caso, a la inviolabilidad del domicilio)
 
-El Ministerio de Medio Ambiente coordinará el Sistema Español de información, vigilancia y prevención de la contaminación atmosférica que tendrá por finalidad permitir el intercambio recíproco de información entre las distintas Administraciones públicas para el cumplimiento de las obligaciones derivadas de esta ley y de la normativa comunitaria e internacional.
+- **Sistema Español de información, vigilancia y prevención de la contaminación atmosférica**: coordinado por el Ministerio de Medio ambiente, para permitir el intercambio de información entre las distintas Administraciones Públicas.
 
-Se abastecerá de la información generada por las Administraciones públicas y por los titulares, a través de aquellas, así como de cualquier otro dato relevante a efectos de esta ley. A fin de que el sistema sea lo más eficiente posible las Administraciones públicas se esforzarán en actuar de manera coordinada.
+	Se abastecerá de la información generada por las Administraciones públicas y por los titulares, a través de aquellas, así como de cualquier otro dato relevante a efectos de esta ley. A fin de que el sistema sea lo más eficiente posible las Administraciones públicas se esforzarán en actuar de manera coordinada.
 
-La Administración General del Estado elaborará y actualizará periódicamente los inventarios españoles de emisiones y demás informes que el Estado deba cumplimentar con objeto de cumplir las obligaciones de información asumidas por éste en el marco de la normativa comunitaria e internacional, así como para disponer de una fuente esencial de información para el conocimiento del estado del medio ambiente, el diseño de políticas ambientales y la evaluación de su efectividad o el desarrollo de estudios e investigaciones ambientales sociales y económicas entre otras finalidades.
+- **Inventarios españoles de emisiones**:
 
-Para la elaboración y actualización periódica de los inventarios españoles el Gobierno establecerá reglamentariamente un Sistema Español de Inventario acorde con las directrices y criterios comunitarios e internacionales vigentes, todo ello sin perjuicio de que las comunidades autónomas puedan elaborar sus propios inventarios autonómicos.
+	La Administración General del Estado elaborará y actualizará periódicamente los inventarios españoles de emisiones y demás informes que el Estado deba cumplimentar con objeto de cumplir las obligaciones de información asumidas por éste en el marco de la normativa comunitaria e internacional, así como para disponer de una fuente esencial de información para el conocimiento del estado del medio ambiente, el diseño de políticas ambientales y la evaluación de su efectividad o el desarrollo de estudios e investigaciones ambientales sociales y económicas entre otras finalidades.
 
-El Gobierno regulará el contenido y los plazos de la información que debe ser facilitada para la elaboración de los informes periódicos que deba cumplimentar el Estado en el ámbito de aplicación de esta ley, para el cumplimiento de las obligaciones de información asumidas en el marco de la Unión Europea y los convenios internacionales.
+	Para la elaboración y actualización periódica de los inventarios españoles el Gobierno establecerá reglamentariamente un Sistema Español de Inventario acorde con las directrices y criterios comunitarios e internacionales vigentes, todo ello sin perjuicio de que las comunidades autónomas puedan elaborar sus propios inventarios autonómicos.
 
+- **Otros informes**: el Gobierno regulará el contenido y los plazos para el cumplimiento de las obligaciones de información del Estado por normativa de la Unión Europea y convenios internacionales.
 
-De acuerdo con la normativa comunitaria e internacional, el Gobierno regulará el contenido y los plazos de la información que debe ser facilitada para la elaboración de los informes periódicos que deba cumplimentar el Estado en el ámbito de aplicación de esta ley, para el cumplimiento de las obligaciones de información asumidas en el marco de la Unión Europea y los convenios internacionales.
+- **Seguimiento sanitario**: por el Ministerio de Sanidad, mediante estudios epidemiológicos, e integrará en su sistema de alertas y vigilancia la información proporcionada por el Sistema español de información, vigilancia y prevención de la contaminación atmosférica que pueda suponer riesgo para la salud.
 
-El Ministerio de Sanidad realizará el seguimiento del impacto de la contaminación del aire en la salud, mediante estudios epidemiológicos, e integrará en su sistema de alertas y vigilancia la información proporcionada por el Sistema español de información, vigilancia y prevención de la contaminación atmosférica que pueda suponer riesgo para la salud.
+- **Sistemas de evaluación de calidad** (estaciones de medida...): por las Comunidades Autónomas (y, en su caso, las entidades locales: artículos 5.3 y 10.1). Remitirán al Ministerio de Medio Ambiente información validada y actualizada sobre éstos, y los datos obtenidos en los mismos.
 
-
-Las Comunidades Autónomas (y, en su caso, las entidades locales: artículos 5.3 y 10.1), deberán disponer de sistemas de evaluación de la calidad del aire (estaciones de medida...). Remitirán al Ministerio de Medio Ambiente información validada y actualizada sobre éstos, y los datos obtenidos en los mismos.
-
-Los requisitos mínimos incluirán criterios de ubicación y número mínimo de estaciones, métodos para el muestreo y análisis de contaminantes, y otros sobre la garantía y el control de las evaluaciones.
-
-Para la instalación de las estaciones de medida de la calidad del aire de titularidad pública, se podrán imponer las servidumbres forzosas (previa indemnización legal).
+	Los requisitos mínimos incluirán criterios de ubicación y número mínimo de estaciones, métodos para el muestreo y análisis de contaminantes, y otros sobre la garantía y el control de las evaluaciones. Para su instalación se podrán imponer las servidumbres forzosas (previa indemnización legal).
 
 
 ### Real Decreto 102/2011
@@ -243,7 +199,7 @@ Se desarrolló a través del [Real Decreto 102/2011](https://www.boe.es/buscar/a
 
 #### Disposiciones generales
 
-Este real decreto tiene por objeto:
+El objeto es el siguiente:
 
 - **Objetivos de calidad del aire** (definición y establecimiento): para las concentraciones de SO2, NO2 y NOx, PM, Pb, C6H6, CO, As, Cd, Ni y B(a)P en el aire ambiente.
 
@@ -257,10 +213,9 @@ Este real decreto tiene por objeto:
 
 - **Amoníaco** (NH3): métodos y criterios de evaluación, e información para la población y entre la Administraciones.
 
+***Los objetivos de calidad del aire incluyen las concentraciones en el aire ambiente del dióxido de azufre (SO2), el dióxido de nitrógeno (NO2) y los óxidos de nitrógeno (NOx), las partículas (PM), el plomo (Pb), el benceno (C6H6), el monóxido de carbono (CO), el arsénico (As), el cadmio (Cd), el níquel (Ni), y el benzo(a)pireno (B(a)P).*** 
 
-Los objetivos de calidad del aire incluyen las concentraciones en el aire ambiente del dióxido de azufre (SO2), el dióxido de nitrógeno (NO2) y los óxidos de nitrógeno (NOx), las partículas (PM), el plomo (Pb), el benceno (C6H6), el monóxido de carbono (CO), el arsénico (As), el cadmio (Cd), el níquel (Ni), y el benzo(a)pireno (B(a)P). 
-
-La calidad del aire incluye también los hidrocarburos aromáticos policíclicos (HAP) distintos del B(a)P. La evaluación información se refiere a todas las sustancias mencionadas. Y así como métodos de evaluación del mercurio.
+***La calidad del aire incluye también los hidrocarburos aromáticos policíclicos (HAP) distintos del B(a)P. La evaluación información se refiere a todas las sustancias mencionadas. Y así como métodos de evaluación del mercurio.***
 
 - **General** (para todo): SO2, NO2 y NOx, PM, Pb, C6H6, CO, As, Cd, Ni y B(a)P
 - **Calidad del aire**: +HAP
@@ -272,27 +227,25 @@ La calidad del aire incluye también los hidrocarburos aromáticos policíclicos
 
 El mercurio, entonces, tiene mecanismos adicionales de evaluación e información (pública y administrativa).
 
-|                | Objetivos de calidad (aire) | Calidad del aire | Métodos comunes |
-| -------------- | --------------------------- | ---------------- | --------------- |
-| SO2            | x                           | x                | x               |
-| NO2 y NOx      | x                           | x                | x               |
-| PM             | x                           | x                | x               |
-| Pb             | x                           | x                | x               |
-| C6H6           | x                           | x                | x               |
-| CO             | x                           | x                | x               |
-| As             | x                           | x                | x               |
-| Cd             | x                           | x                | x               |
-| Ni             | x                           | x                | x               |
-| B(a)P          | x                           | x                | x               |
-| HAP (no B(a)P) |                             | x                | x               |
-| Hg             |                             |                  | x               |
-| NH3            |                             |                  | x               |
-
-
+|                | Objetivos de calidad (aire) | Calidad del aire | Métodos comunes de evaluación |
+| -------------- | --------------------------- | ---------------- | ----------------------------- |
+| SO2            | x                           | x                | x                             |
+| NO2 y NOx      | x                           | x                | x                             |
+| PM             | x                           | x                | x                             |
+| Pb             | x                           | x                | x                             |
+| C6H6           | x                           | x                | x                             |
+| CO             | x                           | x                | x                             |
+| As             | x                           | x                | x                             |
+| Cd             | x                           | x                | x                             |
+| Ni             | x                           | x                | x                             |
+| B(a)P          | x                           | x                | x                             |
+| HAP (no B(a)P) |                             | x                | x                             |
+| Hg             |                             |                  | x                             |
+| NH3            |                             |                  | x                             |
 
 La finalidad es evitar, prevenir y reducir los efectos nocivos de las sustancias mencionadas sobre la salud humana, el medio ambiente en su conjunto y demás bienes de cualquier naturaleza.
 
-A efectos de este real decreto se entenderá por:
+Se incluyen las siguientes definiciones:
 
 - **Aglomeración**: conurbación de población superior a 250.000 habitantes (o inferior pero con una densidad superior a la que determine la Administración competente)
 
@@ -373,61 +326,33 @@ A efectos de este real decreto se entenderá por:
 - **Zona**: porción de territorio delimitada por la administración competente y utilizada para evaluación y gestión de la calidad del aire.
 
 
-|                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ministerio de medio ambiente<br>(Dirección General de Calidad y Evaluación Ambiental) | - **Medidas de coordinación**: para facilitar a la Comisión Europea los datos e informaciones derivados de la normativa de la Unión Europea y para llevar a cabo programas europeos de garantía de calidad de las mediciones organizados por la Comisión Europea.<br><br>- **Medidas de cooperación**: con los demás Estados miembros y con la Comisión Europea .<br><br>- **Planes nacionales de mejora de la calidad del aire** (artículo 24.5): con la participación de las administraciones competentes.<br><br>- d) Recopilará la información técnica sobre la contaminación atmosférica de fondo y la facilitará, por una parte, a los organismos internacionales pertinentes para el cumplimiento de las obligaciones derivadas de Convenios u otro tipo de compromisos internacionales sobre contaminación transfronteriza y, por otra, a las comunidades autónomas y, en su caso, las entidades locales, para su uso como complemento para la evaluación y gestión de la calidad de aire en sus respectivos territorios.<br><br>- **Medidas de coordinación** (artículo 5.1.h de la Ley 34/2007)<br><br>- **Medidas coordinadas**: proposición a la Comisión de Cooperación en Materia de Calidad Ambiental de medidas coordinadas en materia de calidad del aire.<br><br>- **Sistema de control y garantía de calidad**: que asegure la exhaustividad, coherencia, transparencia, comparabilidad y confianza en todo el proceso objeto de sus actuaciones.<br><br>- **Sistema Español de Información, Vigilancia y Prevención de la Contaminación Atmosférica**: integración de la información |
-| Agencia Estatal de Meteorología                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III                | - **Intercomparación**: participación en los ejercicios al respecto de la Unión<br>- **Metodología**: coordinación del uso nacional de los de referencia y demostración de la equivalencia de los que no lo sean.<br>- **Métodos de referencia**: proposición cuando no existan en la Unión<br>- **Asistencia técnica**: a la Dirección General de Calidad y Evaluación Ambiental.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+Las competencias incluyen las siguientes:
 
-El Ministerio de medio ambiente (a través de la Dirección General de Calidad y Evaluación Ambiental), realizará las siguientes actuaciones:
+| Organismo                                                                                       | Competencias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Ministerio de medio ambiente<br>(Dirección General de Calidad y Evaluación Ambiental)           | - **Medidas de coordinación**: para facilitar a la Comisión Europea los datos e informaciones derivados de la normativa de la Unión Europea y para llevar a cabo programas europeos de garantía de calidad de las mediciones organizados por la Comisión Europea.<br><br>- **Medidas de cooperación**: con los demás Estados miembros y con la Comisión Europea .<br><br>- **Planes nacionales de mejora de la calidad del aire** (artículo 24.5): con la participación de las administraciones competentes.<br><br>- d) Recopilará la información técnica sobre la contaminación atmosférica de fondo y la facilitará, por una parte, a los organismos internacionales pertinentes para el cumplimiento de las obligaciones derivadas de Convenios u otro tipo de compromisos internacionales sobre contaminación transfronteriza y, por otra, a las comunidades autónomas y, en su caso, las entidades locales, para su uso como complemento para la evaluación y gestión de la calidad de aire en sus respectivos territorios.<br><br>- **Medidas de coordinación** (artículo 5.1.h de la Ley 34/2007)<br><br>- **Medidas coordinadas**: proposición a la Comisión de Cooperación en Materia de Calidad Ambiental de medidas coordinadas en materia de calidad del aire.<br><br>- **Sistema de control y garantía de calidad**: que asegure la exhaustividad, coherencia, transparencia, comparabilidad y confianza en todo el proceso objeto de sus actuaciones.<br><br>- **Sistema Español de Información, Vigilancia y Prevención de la Contaminación Atmosférica**: integración de la información           |
+| Agencia Estatal de Meteorología                                                                 | - **Red EMEP/VAG/CAMP**: sistema de control y garantía de calidad de la (exhaustividad, coherencia, transparencia, comparabilidad y confianza de los resultados obtenidos)<br><br>- **Mediciones indicativas** de partículas PM2,5 (artículo 8), y metales pesados e hidrocarburos aromáticos policíclicos (artículo 9)<br><br>- **Mediciones rurales de fondo**: para el amoniaco (artículo 12).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III (Ministerio de Economía) | - **Intercomparación**: participación en los ejercicios al respecto de la Unión<br>- **Metodología**: coordinación del uso nacional de los de referencia y demostración de la equivalencia de los que no lo sean.<br>- **Métodos de referencia**: proposición cuando no existan en la Unión<br>- **Asistencia técnica**: a la Dirección General de Calidad y Evaluación Ambiental.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Comunidades Autónomas (y en su caso las entidades locales)                                      | - a) Designarán a los órganos competentes, laboratorios, institutos u organismos técnico-científicos, encargados de la aplicación de las normas sobre calidad del aire ambiente y, en particular, de la garantía de la exactitud de las mediciones y de los análisis de los métodos de evaluación. Dichos órganos deberán cumplir lo establecido en el apartado III del anexo V.<br><br>- Gestión territorial: clasificación territorial en zonas y aglomeraciones, toda de datos, evaluación de las concentraciones de los contaminantes, e información al público.<br><br>- c) Adoptarán las medidas necesarias para mantener la calidad del aire, cuando sea buena, y mejorarla en los demás casos y para garantizar que las concentraciones de los contaminantes regulados no superen los objetivos de calidad del aire, así como las medidas de urgencia para que las concentraciones de los contaminantes regulados vuelvan a situarse por debajo de los umbrales de alerta y de información y comunicarán la información correspondiente al público en caso de superación de éstos. En particular, aprobarán los planes de mejora de calidad del aire definidos en el artículo 24.1 y 24.6 y los planes de acción a corto plazo señalados en el artículo 25.<br><br>- **Sistemas de medición**: aprobación (métodos, equipos, redes y estaciones).<br><br>- **Colaboración administrativa** (con la coordinación del Ministerio): si se sobrepasan los objetivos de calidad en un ámbito superior al de una Comunidad Autónoma <br><br>- **Objetivos de calidad**: establecimiento de nuevos, más estrictos |
+
+El Centro Nacional Carlos III deberá 
+
+*1.º Estar acreditado respecto a los métodos de referencia indicados en el anexo VII, al menos en relación con los contaminantes cuyas concentraciones superen el umbral inferior de evaluación, de acuerdo con la norma armonizada aplicable a los laboratorios de ensayo y calibración cuya referencia haya sido publicada en el Diario Oficial de la Unión Europea con arreglo al artículo 2, apartado 9, del Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93.*
+
+*2.º Ser el responsable de la coordinación, en el territorio nacional, de los programas de garantía de la calidad de la evaluación de la calidad del aire ambiente de la Unión Europea que organizará el Centro Común de Investigación de la Comisión Europea, así como de la coordinación, a nivel nacional, de la correcta utilización de los métodos de referencia y de la demostración de la equivalencia de los métodos que no sean de referencia.*
+
+*3.º Estar acreditado de acuerdo con la norma armonizada pertinente en relación con las pruebas de aptitud.*
+
+*4.º Participar, al menos cada tres años, en los programas de garantía de la calidad de la evaluación de la calidad del aire de la Unión Europea que organiza el Centro Común de Investigación de la Comisión Europea. Si esa participación arroja resultados insatisfactorios, el Laboratorio Nacional de Referencia deberá demostrar, en su próxima participación en los ejercicios de intercomparación comunitarios, que dispone de medidas correctoras satisfactorias y deberá presentar al Centro Común de Investigación un informe al respecto.*
+
+*5.º Participar en la labor realizada por la Asociación Europea de Laboratorios Nacionales de Referencia creada por la Comisión Europea.*
 
 
+***Las Administraciones Públicas intercambiarán los correspondientes datos e informaciones para la evaluación y correcta gestión de la calidad del aire a través del Sistema Español de Información, Vigilancia y Prevención de la contaminación atmosférica.***
 
-Por su parte, la Agencia Estatal de Meteorología, adscrita al Ministerio para la Transición Ecológica y el Reto Demográfico, como responsable de la gestión de la red EMEP/VAG/CAMP de contaminación atmosférica de fondo, implantará un sistema de control y garantía de calidad que asegure la exhaustividad, coherencia, transparencia, comparabilidad y confianza de los resultados obtenidos en dicha red y realizará las mediciones indicativas de partículas PM2,5 descritas en el artículo 8; las mediciones indicativas de metales pesados e hidrocarburos aromáticos policíclicos descritas en el artículo 9 y las mediciones de amoniaco en estaciones rurales de fondo señaladas en el artículo 12.
+***Los objetivos de calidad del aire para cada uno de los contaminantes regulados (Anexo I) se determinan según los criterios de agregación y cálculo (Anexo I.J).***
 
-- 
-
-El **Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III**, adscrito al Ministerio de Economía, Industria y Competitividad, a los efectos del artículo 3 de la Directiva 2008/50/CE del Parlamento Europeo y del Consejo, de 21 de mayo de 2008, relativa a la calidad del aire ambiente y a una atmósfera más limpia en Europa, actuará como Laboratorio Nacional de Referencia y, como tal, realizará las siguientes actuaciones:
-
-- **Intercomparación**: participación en los ejercicios al respecto de la Unión
-
-- **Metodología**: coordinación del uso nacional de los de referencia y demostración de la equivalencia de los que no lo sean.
-
-- Métodos de referencia: proposición cuando no existan en la Unión
-
-- Asistencia técnica: a la Dirección General de Calidad y Evaluación Ambiental.
-
-Para ello, deberá:
-
-1.º Estar acreditado respecto a los métodos de referencia indicados en el anexo VII, al menos en relación con los contaminantes cuyas concentraciones superen el umbral inferior de evaluación, de acuerdo con la norma armonizada aplicable a los laboratorios de ensayo y calibración cuya referencia haya sido publicada en el Diario Oficial de la Unión Europea con arreglo al artículo 2, apartado 9, del Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93.
-
-2.º Ser el responsable de la coordinación, en el territorio nacional, de los programas de garantía de la calidad de la evaluación de la calidad del aire ambiente de la Unión Europea que organizará el Centro Común de Investigación de la Comisión Europea, así como de la coordinación, a nivel nacional, de la correcta utilización de los métodos de referencia y de la demostración de la equivalencia de los métodos que no sean de referencia.
-
-3.º Estar acreditado de acuerdo con la norma armonizada pertinente en relación con las pruebas de aptitud.
-
-4.º Participar, al menos cada tres años, en los programas de garantía de la calidad de la evaluación de la calidad del aire de la Unión Europea que organiza el Centro Común de Investigación de la Comisión Europea. Si esa participación arroja resultados insatisfactorios, el Laboratorio Nacional de Referencia deberá demostrar, en su próxima participación en los ejercicios de intercomparación comunitarios, que dispone de medidas correctoras satisfactorias y deberá presentar al Centro Común de Investigación un informe al respecto.
-
-5.º Participar en la labor realizada por la Asociación Europea de Laboratorios Nacionales de Referencia creada por la Comisión Europea.
-
-Las Comunidades Autónomas (y en su caso las entidades locales):
-
-- a) Designarán a los órganos competentes, laboratorios, institutos u organismos técnico-científicos, encargados de la aplicación de las normas sobre calidad del aire ambiente y, en particular, de la garantía de la exactitud de las mediciones y de los análisis de los métodos de evaluación. Dichos órganos deberán cumplir lo establecido en el apartado III del anexo V.
-
-- Gestión territorial: clasificación territorial en zonas y aglomeraciones, toda de datos, evaluación de las concentraciones de los contaminantes, e información al público.
-
-- c) Adoptarán las medidas necesarias para mantener la calidad del aire, cuando sea buena, y mejorarla en los demás casos y para garantizar que las concentraciones de los contaminantes regulados no superen los objetivos de calidad del aire, así como las medidas de urgencia para que las concentraciones de los contaminantes regulados vuelvan a situarse por debajo de los umbrales de alerta y de información y comunicarán la información correspondiente al público en caso de superación de éstos. En particular, aprobarán los planes de mejora de calidad del aire definidos en el artículo 24.1 y 24.6 y los planes de acción a corto plazo señalados en el artículo 25.
-
-- **Sistemas de medición**: aprobación (métodos, equipos, redes y estaciones).
-
-- **Colaboración administrativa** (con la coordinación del Ministerio): si se sobrepasan los objetivos de calidad en un ámbito superior al de una Comunidad Autónoma 
-
-- **Objetivos de calidad**: establecimiento de nuevos, más estrictos
-
-Las Administraciones Públicas intercambiarán los correspondientes datos e informaciones para la evaluación y correcta gestión de la calidad del aire a través del Sistema Español de Información, Vigilancia y Prevención de la contaminación atmosférica.
-
-Los objetivos de calidad del aire para cada uno de los contaminantes regulados (Anexo I) se determinan según los criterios de agregación y cálculo (Anexo I.J).
-
-Las Comunidades Autónomas dividirán todo su territorio en zonas y aglomeraciones. En todas esas zonas y aglomeraciones deberán llevarse a cabo actividades de evaluación y gestión de la calidad del aire para los contaminantes de las Secciones primera y segunda del Capítulo II.
+***Las Comunidades Autónomas dividirán todo su territorio en zonas y aglomeraciones. En todas esas zonas y aglomeraciones deberán llevarse a cabo actividades de evaluación y gestión de la calidad del aire para los contaminantes de las Secciones primera y segunda del Capítulo II.***
 
 #### Evolución de la calidad del aire
 
@@ -462,7 +387,7 @@ La evaluación de la calidad del aire ambiente se realizará utilizando medicion
 
 Para la medición de las concentraciones, se tomarán la ubicación de los puntos de muestreo (Anexo III), los puntos mínimos para las mediciones fijas (Anexo IV), los objetivos de calidad de los datos (Anexo V???) y presentación de resultados (Anexo VI????); y los métodos de referencia (Anexo VII).
 
-Además, cuando de acuerdo con el artículo 7.2.b) de la Ley 34/2007 se haya fijado la obligación de contar con estaciones de medida de los niveles de contaminación, dichas estaciones deberán cumplir con los criterios de emplazamiento señalados en el anexo III y en los apartados I.b y III.b del anexo IV referidos a fuentes puntuales.
+***Cuando se haya fijado la obligación de contar con estaciones de medida de los niveles de contaminación (artículo 7.2.b) de la Ley 34/2007), deberán cumplir con los criterios de emplazamiento señalados (Anexo III y apartados I.b y III.b del anexo IV) referidos a fuentes puntuales.***
 
 En las zonas y aglomeraciones en que la información sobre dióxido de azufre, dióxido de nitrógeno y óxidos de nitrógeno, partículas, plomo, benceno y monóxido de carbono proporcionada por las estaciones de medición fijas se complete con información procedente de otras fuentes, tales como inventarios de emisiones, métodos de medición indicativa y modelos de la calidad del aire, el número de estaciones de medición fijas (apartado I del anexo IV) podrá reducirse hasta en un 50 %, siempre y cuando se cumplan las condiciones siguientes:
 
@@ -478,11 +403,10 @@ Además de las evaluaciones indicadas (artículo 6), el Ministerio de Medio Ambi
 
 - Un punto de muestreo cada 100 000 km2.
 - Se podrá acordar con los Estados limítrofes el establecimiento de una o varias estaciones de medición comunes que abarquen las zonas colindantes relevantes con el fin de conseguir la resolución espacial necesaria.
-- Cuando proceda, las actividades de vigilancia deberán coordinarse con la Estrategia de vigilancia continuada y medición del Programa de cooperación para la vigilancia continua y la evaluación del transporte a gran distancia de contaminantes atmosféricos en Europa (EMEP).
+- Coordinación de vigilancia: cuando proceda, con la Estrategia de vigilancia continuada y medición del Programa de cooperación para la vigilancia continua y la evaluación del transporte a gran distancia de contaminantes atmosféricos en Europa (EMEP).
 - El apartado I del anexo V y las especificaciones de los sistemas de control y garantía de calidad se aplicarán en relación con los objetivos de calidad de los datos para las mediciones de la concentración másica de las partículas y el anexo VIII se aplicará en su integridad.
 
-
-Para evaluar la contribución del benzo(a)pireno al aire ambiente, las Comunidades Autónomas medirán otros hidrocarburos aromáticos policíclicos en un número limitado de lugares, con una toma de muestras junto a ese contaminante, y eligiendo la forma que puieda identificarse la variación geográfica y las tendencias a largo plazo (apartados II, III y IV del Anexo III). Esos hidrocarburos (mínimos??????) son los siguientes:
+Para evaluar la contribución del benzo(a)pireno al aire ambiente, las Comunidades Autónomas medirán otros hidrocarburos aromáticos policíclicos en un número limitado de lugares, con una toma de muestras junto a ese contaminante, y eligiendo la forma que pueda identificarse la variación geográfica y las tendencias a largo plazo (apartados II, III y IV del Anexo III). Esos hidrocarburos (mínimos??????) son los siguientes:
 
 - **Benzo(a)antraceno**
 - **Benzo(b)fluoranteno**
@@ -492,6 +416,7 @@ Para evaluar la contribución del benzo(a)pireno al aire ambiente, las Comunidad
 - **Dibenzo(a,h)antraceno**
 
 El Ministerio de Medio Ambiente (en colaboración con las Comunidades Autónomas) establecerá un punto de medición cada 100.000 km2 para la medición indicativa, en el aire ambiente, del arsénico, cadmio, mercurio gaseoso total, níquel, benzo(a)pireno, y de los demás hidrocarburos aromáticos policíclicos, ***así como de sus depósitos totales*** (de todos????).
+
 - Arsénico
 - Cadmio
 - Mercurio gaseoso total
@@ -523,23 +448,32 @@ Las Comunidades Autónomas (y entidades locales en su caso: artículos 5.3 y 10.
 
 REVISAR ESTE ARTÍCULO
 
-##### Artículo 11. Mediciones de ozono y de las sustancias precursoras.
 
-Se establecen criterios para determinar la ubicación de los puntos de muestreo para la medición del ozono (Anexo IX), y los objetivos de calidad de los datos (Anexo V), el número mínimo de puntos fijos de muestreo para su medición continua en cada zona o aglomeración en que la medición sea la única fuente de información (apartado I del Anexo X).
+Se establecen criterios para determinar 
 
-Se deberán hacer también mediciones del dióxido de nitrógeno en al menos el 50 por 100 de los puntos de muestreo de ozono exigidos en el apartado I del anexo X. Las mediciones del dióxido de nitrógeno serán mediante técnicas en continuo (salvo en las estaciones rurales de fondo: apartado I del anexo IX), donde podrán utilizarse otros métodos de medición.
+- **Ubicación de los puntos de muestreo** para la medición del ozono (Anexo IX)
+- **Objetivos de calidad de los datos** (Anexo V)
+- **Número mínimo de puntos fijos de muestreo** para su medición continua en cada zona o aglomeración en que la medición sea la única fuente de información (apartado I del Anexo X).
+
+Se deberán hacer también mediciones del dióxido de nitrógeno en al menos el 50 por 100 de los puntos de muestreo de ozono exigidos en el apartado I del anexo X. 
+
+Las mediciones del dióxido de nitrógeno serán mediante técnicas en continuo (salvo en las estaciones rurales de fondo: apartado I del anexo IX), en que podrán utilizarse otros métodos de medición)
 
 En las zonas y aglomeraciones en las que la información procedente de los puntos de muestreo para las mediciones en lugares fijos se complemente con información obtenida por modelización o mediciones indicativas, podrá reducirse el número total de puntos de muestreo especificado en el apartado I del anexo X, siempre que se cumplan las siguientes exigencias:
 
 - **Métodos complementarios**: proporcionen un nivel adecuado de información para la evaluación de la calidad del aire con respecto a los valores objetivo, los objetivos a largo plazo y a los umbrales de información y de alerta.
-- Que el número de puntos de muestreo que se determine y la resolución espacial de otras técnicas sea suficiente para conocer la concentración de ozono de acuerdo con los objetivos de calidad de los datos (apartado I del anexo V) y permita obtener los resultados de evaluación (apartado II del anexo V).
+
+- **Adecuación**: el número de puntos de muestreo y la resolución espacial sea suficiente para conocer su concentración, de acuerdo a los objetivos de calidad de los datos (apartado I del anexo V) y permita obtener los resultados de evaluación (apartado II del anexo V).
+
 - **Puntos de muestreo mínimos**: uno por cada dos millones de habitantes o cada 50.000 km2 (seleccionando el que proporcione un mayor número).
+
 - **Unidad**: uno al menos por cada zona o aglomeración
+
 - **Dióxido de nitrógeno**: medición en todos ellos (salvo en las estaciones rurales de fondo).
 
 Se tendrán en cuenta los resultados de la modelización o de las mediciones indicativas para evaluar la calidad del aire en relación con los valores objetivo.
 
-En las zonas y aglomeraciones en las que, durante cada uno de los cinco años anteriores de mediciones, las concentraciones sean inferiores a los objetivos a largo plazo, el número de estaciones de medición continua se determinará de conformidad con lo establecido en el apartado II del anexo X.
+En las zonas y aglomeraciones en las que las concentraciones sean inferiores a los objetivos a largo plazo en cada uno de los cinco años anteriores de mediciones, el número de estaciones de medición continua tendrá una consideración distinta (apartado II del anexo X).
 
 Los compuestos orgánicos volátiles (COV) se determinarán, como mínimo, en una estación urbana o suburbana de cada una de las ciudades con una población superior a 500.000 habitantes. Para ello, se tendrá en cuenta el anexo XI, el resto de exigencias establecidas en la normativa comunitaria y el Programa EMEP y los criterios de macroimplantación del apartado I del anexo IX.
 
@@ -549,19 +483,17 @@ Las Comunidades Autónomas (y en su caso, las entidades locales), comunicarán a
 
 #### Sección 3.ª Evaluación de la calidad del aire en relación con el amoniaco
 
-##### Artículo 12. Mediciones de las concentraciones de amoniaco.
-
 Las mediciones del amoníaco se realizarán de la siguiente forma: 
 
 - **Nacional**: 5 puntos rurales de fondo garantizados por el Ministerio de Medio Ambiente (en colaboración con las Comunidades Autónomas), repartidos uniformemente por el territorio español, y coordinados con la Estrategia de vigilancia continuada y medición (Programa EMEP).
 
 - **Tráfico**: un punto en áreas de intensidad elevada para las ciudades con más de 500.000 habitantes
 
-La ubicación de los puntos de muestreo para la medición de las concentraciones de amoniaco, los objetivos de calidad de los datos, y las técnicas de análisis para la evaluación de las concentraciones se ajustarán al contenido (Anexo XII).
+La ubicación de los puntos de muestreo para la medición de las concentraciones de amoniaco, los objetivos de calidad de los datos, y las técnicas de análisis para la evaluación de las concentraciones se ajustarán al contenido regulado (Anexo XII).
 
 #### Gestión de la calidad del aire
 
-Los valores límite (incrementados donde proceda por los márgenes de tolerancia), y los niveles críticos (Anexo I) no deberán superarse a partir de las fechas señaladas (Anexo I).
+Los valores límite (incrementados donde proceda por los márgenes de tolerancia), y los niveles críticos (Anexo I) no deberán superarse a partir de las fechas señaladas (también Anexo I).
 
 Con respecto a los valores objetivos y objetivos a largo plazo, las administraciones competentes tomarán todas las medidas necesarias que no conlleven costes desproporcionados para asegurarse que se alcanzan, y no se superan, de acuerdo con las fechas señaladas en dicho anexo I.
 
@@ -584,17 +516,6 @@ Las Comunidades Autónomas elaborarán listas diferenciadas por contaminantes do
 - **PM2,5, arsénico, cadmio, níquel y benzo(a)pireno**: inferiores a los valores objetivo.
 
 Igualmente, elaborarán una lista de las zonas y aglomeraciones con su situación en relación a los umbrales superior e inferior de evaluación (apartado I del Anexo II), siguiendo la metodología (apartado II del Anexo II).
-
-
-|                                                                                  |                                                                                                                                                                                                                                                                                                                          |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Superación de valores límite                                                     | - **Planes de actuación** para reducir los niveles y cumplir así dichos valores límite en los plazos fijados (capítulo IV).                                                                                                                                                                                              |
-| No superación de valores límite                                                  | - **Medidas de mantenimiento**                                                                                                                                                                                                                                                                                           |
-| Superación de valores objetivo y objetivos a largo plazo (ozono)                 | - **Planes de cumplimiento** (valores objetivos): para la fecha correspondiente (Anexo I) (salvo costes desproporcionados), compatibles con el Programa nacional de techos nacionales de emisión (Directiva 2001/81/CE).<br><br>- **Medidas** (largo plazo): eficaces en relación al coste y, coherentes con los planes. |
-| Cumplimiento de objetivos a largo plazo del ozono                                | - **Medidas de mantenimiento**                                                                                                                                                                                                                                                                                           |
-| Superación de valores objetivos As, Cd, Ni y B(a)P                               | - **Registro de superaciones y de fuentes**<br>- **Demostración de aplicación de medidas** (si no costes desproporcionados, en particular a las fuentes de emisión principales: mejores técnicas disponibles para instalaciones industriales reguladas (Real Decreto Legislativo 1/2016)                                 |
-| No superación de valores objetivos As, Cd Ni y B(a)P                             | - **Medidas de mantenimiento**                                                                                                                                                                                                                                                                                           |
-| Superación (o previsión) de umbrales (activación, información, alerta) (Anexo I) |                                                                                                                                                                                                                                                                                                                          |
 
 
 
@@ -838,12 +759,10 @@ En el plazo de seis meses desde la ejecución de la modificación no sustancial,
 
 La persona titular de una instalación en la que únicamente se desarrollen actividades de grupo C, que pretenda llevar a cabo una modificación sustancial, de acuerdo con lo establecido en el anexo IV de este decreto, o no sustancial que implique la existencia de un nuevo foco de emisión, deberá notificarla en base al procedimiento regulado en el artículo 13.
 
-| Grupos |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Grupos | Regulación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A y B  | - **Sustancial** (Anexo IV): no podrá llevarse a cabo en tanto no sea otorgada una nueva autorización de emisiones a la atmósfera (artículo 15).<br><br>- **No sustancial**: deberá presentar la documentación establecida en el artículo 16 de este decreto y podrá llevarla a cabo siempre que el órgano que hubiese otorgado la autorización no manifieste lo contrario en el plazo de un mes, en cuyo caso pondrá en conocimiento del titular la obligación de solicitar de nuevo dicha autorización. |
 | C      | - **Notificación previa** (artículo 13) (sustancial y no sustancial)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-
-
 
 
 **Artículo 15. Procedimiento de autorización para modificaciones sustanciales**

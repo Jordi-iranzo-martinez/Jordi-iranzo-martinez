@@ -150,3 +150,447 @@ Se aplicarán en la fase de planificación y ejecución que se determine en la e
 La Generalitat fomentará la conservación de corredores ecológicos y la gestión de los elementos del paisaje y áreas territoriales esenciales o importantes para la migración, la distribución geográfica, y el intercambio genéticos de las especies silvestres (en particular con previsiones en las normas de gestión de los espacios de la Red Natura 2000).
 
 
+### Decreto 60/2012
+
+El [Decreto 60/2012](https://dogv.gva.es/datos/2012/04/10/pdf/2012_3481.pdf) establece el régimen especial de evaluación y autorizaciones de afección a la Red Natura 2000 (basado en el artículo 46 de la Ley 42/2007)
+
+| Capítulos                                                                                              | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Disposiciones generales                                                                                | - Objeto<br>- Definiciones<br>- Ámbito territorial de aplicación<br>- Ámbito material de aplicación<br>- Órgano competente para realizar la evaluación Red Natura 2000                                                                                                                                                                                                                                                                                                        |
+| Régimen general                                                                                        | - Evaluación de repercusiones: obligación, valoración preliminar, valoraciones preliminares y normas de gestión, estudio de afecciones, declaración de repercusiones, deber de información<br><br>- Aprobación, autorización o conformidad: obligación, excepciones, inexistencia de soluciones alternativas, razones imperiosas de interés público de primer orden, medidas compensatorias, comunicación al órgano gestor sobre la aprobación del plan, programa o proyecto. |
+| Incardinación en otros procedimientos de evaluación                                                    | - Planes y programas: evaluación ambiental (ordinaria y simplificada)<br>- Proyectos: evaluación, impacto, estimación, sólo sometidos por decisión del órgano ambiental                                                                                                                                                                                                                                                                                                       |
+| Procedimiento cuando otros procedimientos de evaluacion no sean<br>aplicables                          | - Planes, programas y proyectos previstos<br>- Procedimiento                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Constatación de la evaluación de repercusiones en grandes proyectos cofinanciados por la Unión Europea | - Constatación del cumplimiento de la obligación de evaluar sus repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la Unión Europea                                                                                                                                                                                                                                                                                                     |
+
+
+El objeto es regular el régimen especial de evaluación y aprobación, autorización o conformidad de planes, programas y proyectos que puedan afectar a espacios de la Red Natura 2000 (en desarrollo de lo establecido en el artículo 45.4 y siguientes de la Ley 42/2007, y en los artículos 14 quáter.1.c) y 14 quáter.2 y 14 quinquies de la Ley 11/1994)
+
+Se establecen las siguientes definiciones
+
+- **Evaluación de repercusiones sobre la Red Natura 2000**: proceso que permite valorar de modo específico y con el debido detalle los efectos de los planes, programas y proyectos sobre los espacios de la Red Natura 2000, en particular sobre los hábitats y especies que motivaron su declaración como tales y sus objetivos de conservación, mediante la realización de una valoración preliminar de repercusiones y, en su caso, la realización de una evaluación detallada y adecuada, a través de la elaboración de un estudio de afecciones a la Red Natura 2000 y la emisión de una declaración de repercusiones sobre la Red Natura 2000.
+
+- **Plan o programa**: el conjunto de estrategias, directrices y propuestas que prevé una administración pública, para satisfacer necesidades sociales, no ejecutables directamente, sino a través de su desarrollo por medio de un conjunto de proyectos.
+
+- **Proyecto**: la realización de trabajos de construcción o de otras instalaciones u obras, y otras intervenciones en el medio natural y el paisaje, incluidas las destinadas a la explotación de los recursos del suelo. 
+
+- **Red Natura 2000**: red ecológica coherente compuesta por los lugares de importancia comunitaria, las zonas especiales de conservación y las zonas de especial protección para las aves, constituida con el objeto de garantizar el mantenimiento o, en su caso, el restablecimiento en un estado de conservación favorable de determinados tipos de hábitats naturales y de hábitats de especies.
+
+- **Espacios Red Natura 2000**: los espacios que integran la Red Natura 2000, esto es, las zonas de especial protección para las aves, los lugares de importancia comunitaria y las zonas especiales de conservación.
+
+- **Zona de Especial Protección para las Aves** (ZEPA): aquellos espacios del territorio de la Comunitat Valenciana declarados como tales por ser los más adecuados en número y superficie para la conservación de las especies de aves incluidas en el anexo IV de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y de las aves migratorias de presencia regular, y para aplicar en ellos medidas especiales de conservación de sus hábitats al objeto de asegurar su supervivencia y su reproducción.
+
+- **Lugar de Importancia Comunitaria** (LIC): aquellos espacios del territorio de la Comunitat Valenciana propuestos por la Generalitat para formar parte de la Red Natura 2000, hayan sido ya aprobados como tales por la Comisión Europea o estén pendientes de su aprobación, porque contribuyen, de forma apreciable, al mantenimiento o, en su caso, al restablecimiento del estado de conservación favorable de los tipos de hábitat naturales y los hábitat de las especies de interés comunitario, que figuran respectivamente en los anexos I y II de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
+
+- **Zona de Especial Conservación** (ZEC): aquellos espacios que, habiendo sido aprobados previamente como lugares de importancia comunitaria, se declaren como tales para aplicar las medidas de conservación necesarias para el mantenimiento o el restablecimiento en un estado de conservación favorable de los hábitats naturales y /o las poblaciones de las especies por los cuales se seleccionó el lugar. 
+
+- **Especies que motivaron la declaración de un espacio Red Natura 2000**: las especies listadas en las fichas de cada espacio Red Natura 2000 elaboradas de conformidad con el formulario normalizado de datos aprobado por la decisión de la Comisión de 18 de diciembre de 1996 (97/226/CE) o disposición que la sustituya, en su versión más actualizada y efectivamente enviada al Ministerio que ostente las competencias en materia de medio ambiente para su comunicación a la Comisión Europea.
+
+- **Hábitats y especies prioritarios**: aquellos hábitats naturales y especies de interés comunitario marcados con un asterisco en los anexos I y II de la Ley 42/2007, por:
+	– Ser tipos de hábitats naturales amenazados de desaparición cuya conservación supone una especial responsabilidad, habida cuenta de la importancia de la proporción de su área de distribución natural incluida en el territorio europeo de los estados miembros de la Unión Europea.
+	– Ser especies que están en peligro cuya conservación supone una especial responsabilidad, habida cuenta de la importancia de la proporción de su área de distribución natural incluida en el territorio europeo de los estados miembros de la Unión Europea.
+
+- **Objetivos de conservación de un Espacio Red Natura 2000**: niveles poblacionales de las diferentes especies así como superficie y calidad de los hábitats que tienen que tener un espacio para alcanzar un estado de conservación favorable.
+
+- **Norma de gestión de un espacio Red Natura**: instrumentos de gestión, aprobados en aplicación del artículo 45.1 de la Ley 42/2007, de 13 de diciembre, y de los artículos 14, quáter 1.a) 47 bis y 47 ter de la Ley 11/1994, de 27 de diciembre, de Espacios Naturales Protegidos de la Comunitat Valenciana, que contienen las medidas de conservación aplicables a ZEPA y ZEC y explicitan sus objetivos de conservación.
+
+-  **Integridad de un espacio Red Natura 2000**: coherencia de la estructura y función ecológicas de un espacio Red Natura 2000 en toda su superficie, o los hábitats, complejos de hábitats y/o poblaciones de especies que han motivado su selección y/o designación. 
+
+- **Razones imperiosas de interés público de primer orden**: razones que permitirían la autorización o aprobación excepcional de planes, programas o proyectos que afecten a la integridad de la Red Natura 2000, al demostrarse que tales planes, programas o proyectos son indispensables a largo plazo:
+	1º En el marco de medidas o políticas destinadas a proteger valores fundamentales para la vida de los ciudadanos (salud, seguridad, medio ambiente, etc.).
+	2º En el marco de políticas fundamentales para el Estado o la sociedad.
+	3º En el marco de la realización de actividades de naturaleza económica o social para cumplir obligaciones específicas de servicio público.
+
+- **Medidas preventivas o protectoras y correctoras**. Medidas incluidas en un plan o proyecto para reducir o atenuar y para eliminar o suprimir los efectos ambientales negativos de un plan, programa o proyecto.
+
+- **Medidas compensatorias para garantizar la coherencia global de la Red Natura 2000**. Medidas específicas, incluidas en un plan o proyecto, que tienen por objeto compensar, lo más exactamente posible, su impacto negativo sobre el hábitat o la especie que motivó la declaración de un espacio Red Natura 2000, con la finalidad de garantizar que la coherencia global de la Red Natura 2000 quede protegida.
+
+- **Promotor**: en el caso de proyectos, cualquier persona física o jurídica, pública o privada, que se proponga realizar un proyecto. En el caso de planes y programas: aquel órgano de una administración pública estatal, autonómica o local, que inicia el procedimiento para la elaboración y adopción de un plan o programa (órgano promotor).
+
+- **Órgano sustantivo**: aquel órgano de la administración pública estatal, autonómica o local competente para autorizar, para aprobar o, en su caso, para controlar la actividad a través de una declaración responsable o una comunicación, de los proyectos que deban someterse a evaluación de impacto ambiental.
+	Cuando un proyecto se vea afectado por diversos conceptos que precisen autorización, aprobación o, en su caso, control de la actividad y que se hubieren de otorgar o ejercer por distintos órganos de la administración pública estatal, autonómica o local, se considerará órgano sustantivo aquel que ostente las competencias sobre la actividad a cuya finalidad se orienta el proyecto, con prioridad sobre los órganos que ostentan competencias sobre actividades instrumentales o complementarias respecto de aquellas.
+	
+- **Órgano ambiental**: en el caso de proyectos, aquel órgano de la administración pública estatal o autonómica competente para evaluar el impacto ambiental de los proyectos.
+
+	En el caso de planes y programas, el órgano de la administración pública estatal o autonómica que en colaboración con el órgano promotor vela por la integración de los aspectos ambientales en la elaboración de los planes y programas.
+
+- **Órgano gestor de la Red Natura 2000**: órgano de la administración autonómica competente para realizar la evaluación de repercusiones sobre la Red Natura 2000 de los planes, programas y proyectos que pretendan realizarse en el ámbito territorial de aplicación de este decreto.
+
+
+Será de aplicación a todos los planes, programas y proyectos que pretendan realizarse en el territorio de la Comunitat Valenciana (incluidos los espacios marítimo-terrestres, y aquellos marinos en los que la Generalitat ejerza competencias: artículos 6, 36 y 45.1 de la Ley 42/2007), siempre que cumplan con los siguientes requisitos de localización:
+
+- **Espacios**: en su interior o en sus zonas periféricas de protección.
+- **Áreas de conectividad** (previstas en las normas de gestión).
+- **Dominio público hidráulico o zonas de servidumbre de cuencas fluviales**: que atraviesen o desemboquen en espacios Red Natura 2000.
+- **Otros**: pero estén expresamente indicados en las normas de gestión.
+
+Quedan sometidos a lo establecido en el presente decreto todos los planes y programas (incluidos los de reducido ámbito territorial), y toda sus modificaciones, que cumplan los siguientes requisitos:
+
+1. Elaboración o aprobación por una Administración Pública
+2. Exigida por una disposición legal o reglamentaria o establecida por acuerdo del Consejo de Ministros, del Consell o del pleno de una corporación local.
+
+*Asimismo, quedan sometidos a lo establecido en el presente decreto los proyectos públicos o privados que se indican en el anexo.*
+
+El órgano competente para evaluar las repercusiones sobre la Red Natura 2000 de los planes, programas y proyectos será el órgano gestor de la Red Natura 2000: en concreto, la Dirección general con competencia en estos espacios (Conselleria de medio ambiente).
+
+*Lo establecido en los apartados anteriores se entenderá sin perjuicio de las competencias de evaluación del Ministerio cuando la autorización o aprobación sea la Administración General del Estado.*
+
+
+Régimen general de evaluación de repercusiones y de aprobación, autorización o conformidad de planes, programas y proyectos que puedan afectar a la Red Natura 2000
+
+SECCIÓN PRIMERA
+Régimen de evaluación de repercusiones sobre la Red Natura 2000
+
+Cualquier plan, programa o proyecto incluido en el ámbito de aplicación territorial y material de este decreto que, sin tener relación directa con la gestión de las ZEPA, los LIC o las ZEC o sin ser necesario para la misma, pueda afectar directa o indirectamente de forma apreciable a los mencionados espacios, ya sea individualmente o en combinación con otros planes y proyectos, se someterá a una detallada y adecuada evaluación de sus repercusiones en tales espacios, teniendo en cuenta los hábitats y especies que motivaron su selección y/o declaración y los objetivos de conservación de los mismos.
+
+Artículo 7. Valoración preliminar de repercusiones
+
+Al efecto de concretar si es precisa la evaluación detallada y adecuada, el órgano gestor de la Red Natura 2000, a la vista de la información proporcionada por el promotor y teniendo en cuenta la información disponible en su poder, realizará una valoración preliminar de repercusiones –en adelante valoración preliminar– en la que concretará:
+
+- Cuáles son los hábitats y especies que motivaron la declaración del espacio o espacios Red Natura en cuestión.
+
+- Si el plan, programa o proyecto, en su totalidad o en parte, puede ser considerado un plan, programa o proyecto de gestión del espacio Red Natura 2000 o necesario para dicha gestión.
+
+- Si existe probabilidad de que el plan o proyecto afecte de modo apreciable a un espacio Red Natura 2000 y a sus objetivos de conservación.
+
+- Si, a la vista de lo indicado en los apartados anteriores, deben evaluarse detalladamente las repercusiones del plan, programa o proyecto sobre el espacio o espacios Red Natura 2000, de acuerdo con lo previsto en este decreto.
+
+Si la valoración preliminar indica que deben evaluarse detalladamente las repercusiones sobre la Red Natura 2000, por existir probabilidad de efectos apreciables, deberá concretar, además:
+
+- **Aspectos del estudio de afecciones** (artículo 9) al objeto de evaluar adecuadamente la incidencia del plan, programa o proyecto nsobre el espacio o espacios en cuestión, con indicación de si deberán analizarse los efectos acumulativos que pudieran producirse por la presencia en el área de otros planes, programas o proyectos ya ejecutados, en fase de ejecución o en fase de aprobación, los cuales deberán ser indicados expresamente.
+
+- **Modalidades, plazos y términos de información y consultas** na los que deberá, si se estima necesario, someterse el plan, programa o proyecto, en el caso en que sea de aplicación o se prevea que puede ser de aplicación el procedimiento de evaluación previsto en el capítulo IV nde este decreto o se trate de un proyecto sometido obligatoriamente a estimación de impacto ambiental.
+
+Si la valoración preliminar indica que no será preciso realizar la evaluación detallada de las repercusiones sobre la Red Natura 2000, por no existir probabilidad de efectos apreciables, el plan, programa o proyecto podrá continuar su tramitación de conformidad con lo establecido en su legislación reguladora, sin necesidad de sustanciar el resto de trámites previstos en este capítulo. Lo anterior se entenderá sin perjuicio de las obligaciones del promotor de:
+- Someter el plan, programa o proyecto a evaluación ambiental o a evaluación de impacto ambiental si así se ha establecido en la legislación reguladora de dichos procedimientos.
+- Obtener todas las concesiones, autorizaciones y licencias o remitir las declaraciones responsables o comunicaciones previas que sean precisas en cumplimiento de la legislación vigente.
+
+La valoración preliminar prevista en este artículo tiene el carácter de preceptiva y vinculante y deberá ser emitida lo antes posible y en todo caso en el plazo máximo de un mes desde que tenga entrada la solicitud o el expediente en el órgano gestor de la Red Natura 2000. La Resolución que la contenga será motivada y pública.
+
+Las normas de gestión de los espacios Red Natura 2000 podrán indicar expresamente los tipos de planes, programas y proyectos que, entrando en el campo de aplicación material del presente decreto, no deberán someterse a evaluación detallada de sus efectos sobre la Red Natura 2000 por:
+
+- Ser planes, programas o proyectos de gestión del espacio o necesarios para la misma.
+- No presentar probabilidad de efectos apreciables (considerando los objetivos)
+
+*En estos casos, no será necesaria la emisión de la valoración preliminar ni la sustanciación del resto de trámites.*
+
+Las normas de gestión de los espacios Red Natura 2000 también podrán indicar expresamente tipos de planes, programas y proyectos que deberán obligatoriamente y en todo caso someterse a evaluación detallada de conformidad con lo establecido en el presente decreto, por presentar una clara probabilidad de efectos apreciables sobre el espacio o espacios Red Natura 2000.
+En estos casos sí será necesario emitir la valoración preliminar, al objeto de indicar qué aspectos deberán ser especialmente considerados en el estudio de afecciones, previsto en el artículo siguiente, con el fin de evaluar detallada y adecuadamente la incidencia del plan, programa o proyecto.
+
+Artículo 9. Estudio de afecciones a la Red Natura 2000
+
+En caso de ser precisa la evaluación detallada de las repercusiones de los planes, programas y proyectos sobre la Red Natura 2000, por así haberse establecido en la valoración preliminar o en las normas de gestión previstas en el artículo anterior, el promotor de un plan, programa o proyecto, deberá confeccionar un estudio de afecciones sobre la Red Natura 2000, en el que:
+
+- Se realice una descripción del proyecto y su ubicación, con descripción de las diferentes alternativas consideradas.
+
+- Se identifiquen y describan adecuadamente los elementos que motivaron la declaración del espacio o espacios Red Natura 2000 que pudieran verse afectados por el plan, programa o proyecto.
+
+- Se identifiquen, describan y evalúen los efectos previsibles del plan, programa o proyecto sobre los elementos que motivaron la declaración del espacio Red Natura 2000 y sus objetivos de conservación. Además de los efectos directos o indirectos del plan, programa o proyecto, también deberán identificarse, describirse y evaluarse los efectos acumulativos que pudieran producirse por la presencia en el área de otros planes, programas o proyectos ya ejecutados, en fase de ejecución o en fase de aprobación que hayan sido señalados por la valoración preliminar.
+
+- Se aporte el elenco de medidas preventivas y correctoras previstas para atajar los posibles efectos negativos del plan, programa o proyecto.
+
+En el caso de que a pesar de la aplicación de las medidas preventivas y correctoras exista afección a la integridad del espacio Red Natura 2000, el estudio de afecciones del promotor, deberá proporcionar, además:
+
+- **Propuesta de programa de medidas compensatorias**: para garantizar la coherencia de la Red Natura 2000 (artículo 16). 
+
+- **Explicación detallada sobre la inexistencia de soluciones alternativas** (artículo 14.1).
+
+- **Justificación de las razones imperiosas de primer orden** (artículos 13 y 15)
+
+El órgano gestor de la Red Natura 2000 emitirá una declaración de repercusiones sobre la Red Natura 2000 en la que se deberá contener:
+
+- Valoración de la idoneidad del estudio de afecciones:
+
+	- 1º Los datos relativos a la descripción e identificación de los elementos que motivaron la declaración del espacio o espacios Red Natura 2000 que puedan verse afectados por el plan, programa o proyecto.
+
+	- 2º La identificación, descripción y evaluación de los efectos previsibles del plan, programa o proyecto sobre los espacios Red Natura 2000 y sus objetivos de conservación.
+
+	- 3º Las medidas preventivas y correctoras propuestas por el promotor para evitar repercusiones negativas apreciables. 
+
+- Su pronunciamiento expreso sobre la existencia o no de afecciones a la integridad del espacio o espacios Red Natura 2000.
+
+En este punto, podrán establecerse condiciones que de cumplirse en sus estrictos términos, determinarían la inexistencia de afecciones a la integridad del espacio o espacios Red Natura 2000.
+
+
+Si la declaración de repercusiones indica la existencia de afecciones a la integridad del espacio o espacios Red Natura 2000, será de aplicación el régimen de aprobación, autorización o conformidad excepcional previsto en la sección siguiente de este capítulo. Para procurar una correcta aplicación del mismo, la declaración de repercusiones deberá contener además: 
+
+-  La valoración del órgano gestor de la Red Natura 2000 respecto de la inexistencia de soluciones alternativas y la existencia de las razones imperiosas de interés público de primer orden expuestas por el promotor que podrían llegar a justificar la aprobación excepcional del proyecto.
+
+- El programa de medidas compensatorias que será necesario adoptar para garantizar la coherencia de la mencionada Red, con indicación del momento en que deberán comenzar a ejecutarse y del momento en que deberán estar operativas.
+
+Si la declaración de repercusiones concluye que no existirán afecciones a la integridad del espacio o espacios Red Natura 2000, el plan, programa o proyecto podrá ser aprobado o autorizado o consentido por el órgano promotor o sustantivo sin necesidad de acudir al régimen de aprobación, autorización o conformidad excepcional previsto en la sección siguiente de este capítulo. Lo anterior se entenderá sin perjuicio de la obligación del promotor de obtener todas las concesiones, autorizaciones y licencias o de remitir las declaraciones responsables o comunicaciones previas que sean precisas en cumplimiento de la legislación vigente.
+
+La declaración de repercusiones tiene el carácter preceptivo y vinculante y deberá ser emitida lo antes posible (plazo máximo de dos meses desde que tenga entrada el estudio de afecciones a la Red Natura 2000 en el órgano gestor de la Red Natura 2000). La resolución que la contenga será motivada y deberá ser objeto de publicación en el Diari Oficial de la Comunitat Valenciana.
+
+El plazo establecido en el apartado anterior podrá ser interrumpido en el caso de que el órgano gestor de la Red Natura 2000 estime que es necesario que el estudio de afecciones sea completado con información adicional, por el tiempo que medie entre el requerimiento que realice al promotor y la efectiva presentación por parte de éste de la documentación adicional.
+
+
+El órgano gestor de la Red Natura 2000 proporcionará (de oficio o a petición de los promotores de planes, programas y proyectos) aquellos documentos o informaciones que obren en su poder y que puedan resultar necesarios para facilitar el correcto cumplimiento de las obligaciones establecidas en este decreto.
+
+
+SECCIÓN SEGUNDA
+
+Régimen de aprobación, autorización o conformidad
+
+Artículo 12. Obligación de no aprobación, no autorización o no conformidad
+
+A la vista de las conclusiones de la evaluación, plasmadas bien en la valoración preliminar, bien en la declaración de repercusiones sobre la Red Natura 2000, y sin perjuicio de lo dispuesto en los artículos siguientes, los órganos competentes para aprobar o autorizar los planes, programas o proyectos, o para controlar una actividad a través de la recepción de una declaración responsable o una comunicación previa, solo podrán manifestar su conformidad con los mismos tras haberse asegurado de que no causarán perjuicio a la integridad del espacio o espacios Red Natura 2000 en cuestión.
+
+Artículo 13. Excepciones a la obligación de no aprobación, no autorización o no conformidad
+
+Excepcionalmente se podrá dar la aprobación, la autorización o la conformidad a planes, programas o proyectos con repercusiones negativas sobre los espacios Red Natura 2000, por afectar a su integridad, si se da la concurrencia de los siguientes requisitos acumulativos:
+- Inexistencia de soluciones alternativas
+- Razones imperiosas de interés público de primer orden, incluidas razones de índole social o económica.
+- Adopción de cuantas medidas compensatorias sean necesarias para garantizar que la coherencia global de la Red Natura 2000 quedeprotegida.
+
+
+Se entenderá por solución alternativa, aquella que por su ubicación, trazado, escala, diseño o proceso evita los perjuicios a la integridad del espacio Red Natura 2000.
+
+*En caso de no existir ninguna, deberá escogerse aquella que genere menos perjuicios a su integridad.*
+
+
+La concurrencia de razones imperiosas de interés público de primer orden sólo podrá declararse para cada supuesto concreto mediante Ley o acuerdo del motivado Consejo de Ministros o del Consell, publicado en el correspondiente Boletín Oficial del Estado o Diari Oficial de la Comunitat Valenciana.
+
+ En caso de que el espacio considerado albergue un tipo de hábitat natural y/o una especie prioritarios (Anexos I y II de la Ley 42/2007), únicamente se podrán alegar las siguientes razones:
+- Salud humana y seguridad pública
+- Consecuencias positivas de primordial importancia para el medio ambiente.
+- **Otras** ((((((((de índole social y económico...)))))))) (previa consulta a la Comisión Europea).
+
+
+La realización o ejecución de cualquier plan, programa o proyecto que pueda afectar negativamente a especies incluidas en los anexos II o IV de la citada Ley 42/2007, de 13 de diciembre, que hayan sido catalogadas como en peligro de extinción, únicamente se podrá llevar a cabo cuando concurra alguna de las razones citadas en el apartado anterior.
+
+***Especies animales y vegetales de interés comunitario para cuya conservación es necesario designar zonas especiales de conservación (Anexo II de la Ley 42/2007) y especies que serán objeto de medidas de conservación especiales en cuanto a su hábitat, con el fin de asegurar su supervivencia y su reproducción en su área de distribución (Anexo IV).***
+
+
+Artículo 16. Adopción de medidas compensatorias para garantizar la coherencia global de la Red Natura 2000
+
+
+Se considerarán medidas compensatorias aquellas medidas que garanticen de forma efectiva la coherencia global de la Red Natura 2000, por lo que deberán:
+
+- **Objeto**: Dirigirse, en proporciones comparables, a la conservación y restablecimiento de los hábitats, procesos ecológicos y especies afectadas negativamente.
+
+- **Ubicación**: misma región biogeográfica (hábitats y especies de los anexos I y II de la Ley 42/2007) o dentro del área de distribución natural, la ruta migratoria o la zona de invernada (aves del anexo I de la Ley 42/2007) u otras especies de aves de llegada regular.
+
+- **Funciones**: comparables a las que justificaron la selección o declaración del espacio Red Natura 2000 afectado.
+
+- **Integridad**: de la red funcional, conectividad ecológica...
+
+Las medidas compensatorias se aglutinarán en un Programa, que deberá indicar:
+
+- **Objeto**: hábitats, especies y procesos ecológicos cuya afectación a compensar, con indicación clara de los objetivos ecológicos que se pretenden conseguir.
+- **Elenco**: con indicación de su ubicación geográfica.
+- **Análisis de la viabilidad técnica**: en función con sus objetivos ecológicos.
+- **Análisis de la viabilidad jurídica y/o financiera**: en función de los plazos previstos.
+- **Calendario de aplicación**: y una justificación de los plazos en los que se espera que estén operativas y el momento en que el objetivo ecológico se verá alcanzado.
+- **Programa presupuestario** y el compromiso de liberar las partidas necesarias en los plazos adecuados para lograr el éxito de las medidas compensatorias.
+- **Programa de seguimiento**
+
+*Las medidas compensatorias adoptadas serán remitidas, por el cauce correspondiente, a la Comisión Europea.*
+
+
+Artículo 17. Comunicación al órgano gestor de la Red Natura 2000 de la aprobación del plan, programa o proyecto 
+
+Al objeto de que el órgano gestor de la Red Natura 2000 pueda realizar un adecuado seguimiento de las condiciones que se pudieran haber establecido y al objeto de facilitar el cumplimiento de la obligación, establecida en el artículo 6 de este decreto, de valorar y, en su caso, evaluar convenientemente los efectos que sobre los espacios Red Natura 2000 puedan producirse por la acumulación de diferentes planes, programas y proyectos:
+
+- Los órganos competentes para aprobar, autorizar o dar la conformidad a planes, programas o proyectos que hayan sido objeto de la emisión de valoraciones preliminares y de declaraciones de repercusiones sobre la Red Natura 2000 deberán comunicar al órgano gestor de los espacios Red Natura 2000 las resoluciones de aprobación o autorización que emitan.
+
+- Los promotores de los planes, programas y proyectos que hayan sido objeto de la emisión de valoraciones preliminares y declaraciones de repercusiones sobre la Red Natura 2000 deberán comunicar al órgano gestor de los espacios Red Natura 2000 el inicio de la ejecución de los mismos, así como el inicio, desarrollo y final de de ejecución de las medidas compensatorias que, en su caso, se hayan establecido para garantizar la coherencia global de la Red Natura 2000.
+
+CAPÍTULO III Incardinación de la evaluación de repercusiones sobre la Red
+Natura 2000 en otros procedimientos de evaluación vigentes
+
+Artículo 18. Incardinación de la evaluación de repercusiones sobre la Red Natura 2000 en otros procedimientos de evaluación vigentes
+
+La evaluación de las repercusiones de los planes, programas y proyectos sobre los espacios Red Natura 2000 y, en su caso, el diseño de las medidas compensatorias, se llevará a cabo en el marco de los procedimientos legalmente establecidos para la evaluación de impacto ambiental de proyectos y para evaluación ambiental de planes y programas de conformidad con lo establecido en las secciones siguientes.
+
+En el caso de planes, programas y proyectos excluidos de seguir todos o algunos de los trámites previstos en los procedimientos de evaluación ambiental y de evaluación de impacto ambiental, la evaluación de las repercusiones sobre la Red Natura 2000 y el diseño, en su caso, de las medidas  compensatorias, se realizará de conformidad con lo establecido en el capítulo IV de este decreto.
+
+En el caso de planes y programas, el análisis de las repercusiones se integrará en el procedimiento de evaluación ambiental (Ley 21/2013)
+
+
+
+
+Artículo 20. Evaluación de planes y programas que constituyan el marco para proyectos sometidos a evaluación ambiental en las materias mencionadas en el artículo 3.2 de la Ley 9/2006, de 28 de abril. 
+
+Para el caso de planes y programas sometidos directamente a evaluación ambiental por constituir el marco para proyectos sometidos a evaluación de impacto ambiental en las materias citadas en el artículo 3.2.a) de la Ley 9/2006, de 28 de abril, se seguirán las reglas siguientes:
+
+- **Valoración preliminar**: se emitirá en la fase de consultas previas a la emisión del documento de referencia prevista en el artículo 9 de la Ley 9/2006, de 28 de abril.
+	A tal efecto el órgano ambiental consultará preceptivamente al órga	no gestor de la Red Natura 2000 e incluirá en el documento de referencia lo indicado en la valoración preliminar. En el caso de que esta valoración preliminar haya indicado que es necesaria una evaluación detallada de repercusiones del plan o programa sobre la Red Natura 2000, el órgano ambiental le indicará expresamente al órgano promotor la necesidad de realizar el estudio de afecciones a la Red Natura 2000.
+
+- **Informe de sostenibilidad ambiental** (artículo 8 de la ley 9/2006), deberá contener de modo separado y claramente identificable el estudio de afecciones a la Red Natura 2000, el cual deberá tener el contenido marcado en el artículo 9 de este decreto y seguir las indicaciones proporcionadas por el órgano gestor de la Red Natura 2000 en su valoración preliminar.
+
+- **Declaración de repercusiones**: c) Será preceptivo consultar al órgano gestor de la Red Natura 2000 para que emita la declaración de repercusiones sobre la Red Natura
+
+Dicha consulta se realizará una vez finalizada la fase de puesta a disposición del público y consultas sobre la versión preliminar y el informe de sostenibilidad ambiental del plan o programa (artículo 10 de la Ley 9/2006).
+
+Para realizarla, el órgano promotor remitirá al órgano gestor de la Red Natura 2000 la versión preliminar del plan o programa, el informe de sostenibilidad ambiental y un informe sobre las alegaciones e informes presentados que hagan referencia a la Red Natura 2000. La declaración de repercusiones sobre la Red Natura 2000, una vez emitida, será enviada al órgano promotor y al órgano ambiental, para que puedan dar cumplimiento a lo establecido en el apartado d) siguiente.
+
+- La memoria ambiental contendrá un apartado específico dedicado a la repercusión del plan o programa sobre la Red Natura 2000. Dicho apartado se redactará teniendo en cuenta la valoración preliminar, cuando se haya declarado en ella que no era precisa la evaluación detallada sobre la Red Natura 2000, o la declaración de repercusiones, cuando sí haya sido necesaria la mencionada evaluación. En este último caso, este apartado de la memoria ambiental indicará de manera clara, siguiendo lo indicado en la mencionada declaración de repercusiones: 
+	- 1º Si el proyecto afecta o no a la integridad del espacio Red Natura 2000, teniendo en cuenta las medidas preventivas y correctoras fijadas.
+	- 2º En caso de afección, deberá indicar los hábitat y especies afectados, justificar la ausencia de alternativas, explicitar las razones imperiosas de interés público de primer orden que podrían llegar a justificar la aprobación del plan o programa, y contener el programa de medidas compensatorias que deberán tomarse para garantizar la coherencia de la Red Natura 2000, con indicación del momento en que dichas medidas deben comenzar a ejecutarse y el momento en que deben estar operativas.
+
+
+Para el caso de los planes y programas previstos en el artículo 3.3 de la Ley 9/2006, de 28 de abril, esto es, los planes y programas que establezcan el uso de zonas de reduido ámbito territorial, planes y programas que constituyan modificaciones menores de planes y programas preexistentes, y otros planes y programas distintos a los previstos en el artículo anterior, se seguirán las reglas siguientes:
+
+- a) La valoración preliminar se emitirá en la fase de consultas previas a la determinación, por parte del órgano ambiental, de la necesidad o no de que el plan o programa se someta a evaluación ambiental, previstas en el artículo 4.2 de la Ley 9/2006, de 28 de abril.
+	A tal efecto el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 y tendrá en cuenta la valoración preliminar a la hora de valorar si el plan o programa presenta efectos ambientales y de tomar su decisión sobre sometimiento o no sometimiento a evaluación ambiental.
+- b) En el caso de que el órgano ambiental decida someter el plan o programa a evaluación ambiental y la valoración preliminar haya indicado que es necesaria una evaluación detallada de repercusiones sobre la Red Natura 2000, el órgano ambiental incorporará en el documento de referencia previsto en el artículo 9 de la Ley 9/2006, de 28 de abril lo indicado en la valoración preliminar y le indicará al promotor la necesidad de realizar el estudio de afecciones sobre la Red Natura 2000.
+
+	A partir de este momento se seguirán las reglas procedimentales establecidas en los apartados b) a d) del artículo anterior.
+- c) En el caso de que el órgano ambiental decida no someter el plan o programa a evaluación ambiental, se seguirá el procedimiento de evaluación establecido en el capítulo IV de este decreto.
+
+Artículo 22. Evaluación de proyectos
+
+En el caso de proyectos, la evaluación Red Natura 2000 se integrará, del modo previsto en los artículos siguientes, en los procedimientos de evaluación de impacto ambiental y estimación ambiental (Ley 21/2013, Ley 2/1989, y Decreto 162/1990)
+
+Artículo 23. Evaluación de proyectos sometidos obligatoriamente a valuación de impacto ambiental
+
+Para el caso de proyectos sometidos obligatoriamente a evaluación de impacto ambiental (Anexo I del Real Decreto Legislativo 1/2008, Anexo I del Decreto 162/1990, y apartados c) y d) del anexo del presente decreto), se seguirán las reglas siguientes: 
+
+- **Valoración preliminar**: se emitirá en la fase de consultas previas para la determinación de la amplitud y el nivel de detalle que deberá tener el estudio de impacto ambiental, previstas en el artículo 8 del Real Decreto Legislativo 1/2008, de 11 de enero.
+	A tal efecto, el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 e incorporará en la determinación de la amplitud y el nivel de detalle que deberá tener el estudio de impacto ambiental lo indicado en la valoración preliminar. En el caso de que esta valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, el órgano ambiental le indicará al promotor la necesidad de realizar el estudio de afecciones a la Red Natura 2000.
+- **Estudio de impacto ambiental**: deberá contener de modo separado y claramente identificable el estudio de afecciones a la Red Natura 2000, el cual deberá tener el contenido marcado en el artículo 9 de este decreto y seguir las indicaciones proporcionadas por el órgano gestor de la Red Natura 2000 en su valoración preliminar.
+- c) Cuando el órgano sustantivo evacúe el trámite de información pública, deberán proporcionar al público, además de la información prevista en el artículo 9.2 del Real Decreto Legislativo 1/2008, de 11 de enero, información sobre:
+	- 1º Si es precisa o no la evaluación detallada de repercusiones sobre la Red Natura 2000
+	- 2º En caso afirmativo, la obligación legal que recae en el órgano sustantivo de abstenerse de autorizar o aprobar el proyecto si de la evaluación resulta que habrá afección al espacio Red Natura 2000, en tanto no se acredite la inexistencia de alternativas, no se haya declarado por ley o por acuerdo de Consejo de Ministros o del Consell la existencia de razones de interés público de primer orden y no se hayan fijado medidas compensatorias que garanticen la coherencia global de la Red Natura 2000.
+
+- **Declaración de repercusiones**: d) Será preceptivo consultar al órgano gestor de la Red Natura 2000 para que emita la declaración de repercusiones sobre la Red Natura
+
+	Dicha consulta se realizará una vez finalizada la fase de consultas e información pública (artículo 9 del Real Decreto Legislativo 1/2008). Para realizarla, el órgano sustantivo remitirá al órgano gestor de la Red Natura 2000 el estudio de impacto ambiental y un informe sobre las alegaciones e informes presentados que hagan referencia a la Red Natura 2000. La declaración de repercusiones sobre la Red Natura 2000, una vez emitida, será enviada al órgano sustantivo  y al órgano ambiental.
+
+- La declaración de impacto ambiental contendrá un apartado específico dedicado a la repercusión del proyecto sobre la Red Natura 2000. 
+	Dicho apartado se redactará teniendo en cuenta la valoración preliminar, cuando se haya declarado en ella que no era precisa la evaluación detallada sobre la Red Natura 2000, o la declaración de repercusiones, cuando sí haya sido necesaria la mencionada evaluación. En este último caso, este apartado de la declaración de impacto ambiental indicará de manera clara, siguiendo lo indicado en la mencionada declaración de repercusiones:
+
+	- 1º Si el proyecto afecta o no a la integridad del espacio Red Natura 2000, teniendo en cuenta las medidas preventivas y correctoras fijadas.
+	- En caso de afección, deberá indicar los hábitat y especies afectados, justificar la ausencia de alternativas, explicitar las razones imperiosas de interés público de primer orden que podrían llegar a justificar la aprobación del proyecto, y contener las medidas compensatorias que deberán tomarse para garantizar la coherencia de la Red Natura 2000, con indicación del momento en que dichas medidas deben comenzar a ejecutarse y el momento en que deben estar operativas.
+
+
+Artículo 24. Evaluación de proyectos sometidos obligatoriamente a estimación de impacto ambiental
+
+Para el caso de proyectos sometidos obligatoriamente a estimación de impacto ambiental (Anexo II del Decreto 162/1990, o en las normas e instrumentos indicados en el anexo, letras c) y d) del presente decreto, se seguirán las
+reglas siguientes:
+
+- **Valoración preliminar** se emitirá en la fase de consultas previas previstas en el artículo 18 del Decreto 162/1990, de 15 de octubre, del Consell, si el promotor realiza al órgano ambiental la consulta potestativa prevista en el artículo 17 del mencionado decreto. A tal efecto, el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 e incorporará lo indicado en la valoración preliminar en el documento que determine los aspectos más significativos que deban tenerse en cuenta en la elaboración del estudio de impacto ambiental. En el caso de que esta valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, el órgano ambiental le indicará al promotor la necesidad de realizar el estudio de afecciones a la Red Natura 2000.
+
+	En el caso de que el promotor no considere conveniente realizar al órgano ambiental la consulta potestativa prevista en el artículo 17 del Decreto 162/1990, de 15 octubre, del Consell, la emisión de la valoración preliminar deberá ser solicitada por el promotor directamente al órgano gestor de la Red Natura 2000 con carácter previo a la elaboración del estudio de impacto ambiental, para lo cual deberá proporcionarle información sobre la naturaleza, características y ubicación del plan, programa o proyecto.
+
+
+- b) Si la evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000 es necesaria, el estudio de impacto ambiental (artículo 30 del Decreto 162/1990), deberá contener de modo separado y claramente identificable el estudio de afecciones a la Red Natura 2000, el cual deberá tener el contenido (artículo 9 ) y seguir las indicaciones proporcionadas por el órgano gestor de la Red Natura 2000 en su valoración preliminar.
+
+- c) Cuando, de conformidad con lo establecido en el artículo 31.1 del Decreto 162/1990, de 15 de octubre, del Consell, el órgano sustantivo evacúe el trámite de información pública, deberá proporcionar al público información sobre:
+
+	- 1º Si es precisa o no la evaluación de repercusiones sobre la Red Natura 2000.
+	- 2º En caso afirmativo, la obligación legal que recae en el órgano sustantivo de abstenerse de autorizar o dar su conformidad al proyecto si de la evaluación resulta que habrá afección al espacio Red Natura 2000, en tanto no se acredite la inexistencia de alternativas, no se haya declarado por ley o por acuerdo de Consejo de Ministros o del Consell la existencia de razones de interés público de primer orden y no se hayan fijado medidas compensatorias. 
+
+- d) Será preceptivo consultar al órgano gestor de la Red Natura 2000 para que emita la declaración de repercusiones sobre la Red Natura
+
+Dicha consulta se realizará una vez finalizada la fase de información pública, en su caso. Para realizarla, el órgano sustantivo remitirá al órgano gestor de la Red Natura 2000 el estudio de impacto ambiental, así como las alegaciones e informes presentados que hagan referencia
+a la Red Natura 2000, si la información pública tuvo lugar. La declaración de repercusiones sobre la Red Natura 2000, una vez emitida, será enviada al órgano sustantivo y al órgano ambiental.
+
+- La estimación de impacto ambiental contendrá un apartado específico dedicado a la repercusión del proyecto sobre la Red Natura 2000. 
+
+Dicho apartado se redactará teniendo en cuenta la valoración preliminar, cuando se haya declarado en ella que no era precisa la evaluación detallada sobre la Red Natura 2000, o la declaración de repercusiones, cuando sí haya sido necesaria la mencionada evaluación. En este último caso, este apartado de la estimación de impacto ambiental indicará de manera clara, siguiendo lo indicado en la mencionada declaración:
+
+- 1º. Si el proyecto afecta o no a la integridad del espacio Red Natura 2000, teniendo en cuenta las medidas preventivas y correctoras fijadas.
+-  2º En caso de afección, deberá indicar los hábitat y especies afectados, justificar la ausencia de alternativas, explicitar las razones imperiosas de interés público de primer orden que podrían llegar a justificar la aprobación del proyecto, y contener las medidas compensatorias que deberán tomarse para garantizar la coherencia de la Red Natura 2000, con indicación del momento en que dichas medidas deben comenzar a ejecutarse y el momento en que deben estar operativas.
+
+Artículo 25. Proyectos que sólo deben someterse a procedimiento de evaluación de impacto ambiental por decisión del órgano ambiental
+
+Para el caso de proyectos no contenidos en el anexo I del Real Decreto Legislativo 1/2008, de 11 de enero, estén o no listados en su anexo II, siempre y cuando no se trate de proyectos sometidos a estimación de impacto ambiental, se seguirán las reglas siguientes:
+
+- La valoración preliminar se emitirá en la fase de consultas para la determinación de sometimiento o no sometimiento a evaluación de impacto ambiental.
+
+	- A tal efecto, el órgano ambiental consultará preceptivamente al órgano gestor de la Red Natura 2000 y tendrá en cuenta para tomar su decisión de sometimiento o no sometimiento a evaluación de impacto ambiental lo indicado en la valoración preliminar.
+
+- b) En el caso de que el órgano ambiental decida someter el proyecto a evaluación de impacto ambiental y la valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, el órgano ambiental incorporará en la determinación de la amplitud y el nivel de detalle que deberá tener el estudio de impacto ambiental lo indicado en la valoración preliminar y le indicará al promotor la necesidad de realizar el estudio de afecciones sobre la Red Natura 2000.
+
+	A partir de este momento se seguirán las reglas establecidas en las letras b) y siguientes del artículo 23 de este decreto.
+
+- c) En el caso de que el órgano ambiental decida no someter el proyecto al resto de trámites del procedimiento de evaluación de impacto ambiental y la valoración preliminar haya indicado que es necesaria una evaluación detallada de las repercusiones del proyecto sobre la Red Natura 2000, se seguirá el procedimiento de evaluación establecido en el capítulo siguiente.
+
+
+CAPÍTULO IV Procedimiento de evaluación de repercusiones sobre la Red Natura 2000 cuando otros procedimientos de evaluación no sean aplicables
+
+Artículo 26. Planes, programas y proyectos que se someterán al procedimiento de evaluación previsto en este capítulo
+
+Procedimiento de evaluación de repercusiones sobre la Red Natura 2000 cuando otros procedimientos de evaluación no sean aplicables
+
+Se someterán al procedimiento previsto en este capítulo los siguientes planes y programas:
+
+- **Defensa nacional o protección civil en casos de emergencia**: quedan excluidos o único objeto la defensa nacional o la protección civil en casos de emergencia, excluidos de someterse a evaluación ambiental en aplicación de lo dispuesto en el artículo 3.4 de la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente.
+
+- Los planes y programas para los que el órgano ambiental (artículo 3.3 y 4 de la Ley 9/2006, y  artículo 21 del presente decreto), haya decidido que no es preciso que se sometan al resto de trámites del procedimiento de evaluación ambiental.
+
+Se someterán al procedimiento previsto en este capítulo los siguientes proyectos:
+
+- **Defensa nacional** que no deban someterse a procedimiento de evaluación de impacto ambiental (disposición adicional primera del Real Decreto Legislativo 1/2008).
+
+- Los proyectos que vayan a ser aprobados específicamente por una ley del Estado o de la Generalitat y que no deban someterse a procedimiento de evaluación de impacto ambiental (disposición adicional primera del Real Decreto Legislativo 1/2008, y artículo 3 del Decreto 162/1990)
+
+- **Motivos excepcionales**: por acuerdo motivado del Consejo de Ministros o del Consell (disposición adicional segunda del Real Decreto Legislativo 1/2008, y disposición final segunda de la Ley 2/1989).
+
+- **Proyectos de centros penitenciarios** (disposición adicional primera del Real Decreto Legislativo 1/2008)
+
+- Los proyectos para los que el órgano ambiental, de conformidad con lo establecido en el artículo 3.2 del Real Decreto Legislativo 1/2008, de 11 de enero y el artículo 25 del presente decreto haya decidido que no es preciso que se sometan al resto de trámites del procedimiento de evaluación de impacto ambiental.
+
+Artículo 27. Procedimiento
+
+- **Inicio**: los promotores de los planes, programas y proyectos solicitarán del órgano gestor de la Red Natura 2000, la emisión de la valoración preliminar prevista en el artículo 7 de este decreto. Para ello acompañarán a la solicitud información relativa a la naturaleza, características y ubicación del plan, programa o proyecto. 
+
+En el caso de planes o programas la solicitud y la información serán presentadas por el órgano promotor del plan o programa. 
+
+En el caso de proyectos, la solicitud y la información serán presentadas ante el órgano con competencia sustantiva para aprobarlos o autorizarlos, el cual la remitirá al órgano gestor de la Red Natura 2000.
+
+No será precisa la presentación de la solicitud y la información mencionadas en los párrafos anteriores cuando se trate de planes, programas y proyectos  revistos en los apartados 1.b) y 2.e) del artículo anterior, dado que la valoración preliminar ya habrá sido emitida en virtud de lo establecido en los artículos 19 y 25 de este decreto.
+
+- **Valoración preliminar**: el órgano gestor de la Red Natura 2000 emitirá la valoración preliminar en el plazo y con el contenido y los efectos previstos en el artículo 7 de este decreto, salvo en los supuestos de planes, programas y proyectos previstos en los apartados 1.b) y 2.e) del artículo anterior, dado que la valoración preliminar ya habrá sido emitida (artículos 19 y 25).
+
+- **Estudio de afecciones a la Red Natura 2000**: si la valoración preliminar indica que será necesario realizar una evaluación de las repercusiones sobre la Red Natura 2000, el promotor deberá realizar el estudio de afecciones previsto en el artículo 9 de este decreto.
+
+En el caso de planes y programas el estudio de afecciones se elaborará y se remitirá por el órgano promotor al órgano gestor de la Red Natura 2000.
+
+En el caso de proyectos el estudio de afecciones se elaborará y
+presentará ante el órgano con competencia sustantiva para aprobarlos,
+autorizarlos o controlarlos.
+
+Consulta al público interesado y administraciones interesadas: el estudio de afecciones será puesto a disposición del público interesado y de administraciones afectadas por el órgano promotor en el caso de planes y programas, y por el órgano con competencia sustantiva en el
+caso de proyectos, del modo, durante el plazo y en los términos que indique la valoración preliminar.
+
+Quedan excluidos de realizar este trámite los planes, programas y proyectos relacionados con la defensa nacional, así como los proyectos relacionados con centros penitenciarios (artículos 26.1.a, 26.2.a, y 26.2d).
+
+- **Remisión del expediente**: el órgano promotor, en el caso de planes y programas, o el órgano sustantivo, en el caso de proyectos, remitirán al órgano gestor de la Red Natura 2000 el estudio de afecciones, así como un informe de alegaciones en caso de que haya sido preciso realizar el trámite de consulta, al objeto de que emita la declaración de repercusiones sobre la Red Natura 2000.
+
+- **Declaración de repercusiones sobre la Red Natura 2000**: el órgano gestor de la Red Natura 2000 emitirá la declaración de repercusiones sobre la Red Natura 2000 en el plazo y con el contenido y efectos previstos en el artículo 10 de este decreto.
+
+
+CAPÍTULO V
+Constatación de la realizacion de la evaluacion de repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la unión europea
+
+Artículo 28. Constatación del cumplimiento de la obligación de evaluar sus repercusiones sobre la Red Natura 2000 en el caso de grandes proyectos cofinanciados por la Unión Europea
+
+A los efectos de dar cumplimiento a lo establecido en el artículo 40 del Reglamento CE nº 1083/2006, del Consejo, por el que se establecen las disposiciones generales relativas al Fondo Europeo de Desarrollo Regional, al Fondo Social Europeo y al Fondo de Cohesión, y al artículo
+40.2 y anexos XXI y XXII del Reglamento (CE) nº 1828/2006 de la Comisión que desarrolla el anterior, o normativa comunitaria posterior que los sustituya, 
+
+Cuando sea necesario acreditar el cumplimiento de las exigencias de evaluación de los efectos de los grandes proyectos de infraestructuras e inversión productiva sobre los espacios de la Red Natura 2000, se seguirán las reglas siguientes:
+- a) La declaración de la autoridad responsable del seguimiento de los lugares de la Red Natura 2000 será emitida por el órgano gestor de la Red Natura 2000. Para su emisión, será necesario que:
+	- 1º Se haya instado, de conformidad con las reglas de procedimiento previstas en este decreto, y se haya emitido por el órgano gestor de la Red Natura 2000 la valoración preliminar prevista en el artículo 7 del mismo.
+	- 2º Que dicha valoración preliminar indique que no existe probabilidad de efectos apreciables sobre los espacios integrantes de la Red Natura 2000.
+
+En el caso de proyectos a los que sea de aplicación lo establecido en los artículos 23 a 25 de este decreto, podrá solicitarse la emisión de la mencionada declaración una vez haya sido ya emitida la valoración preliminar en el contexto de los procedimientos de evaluación de impacto ambiental o de estimación ambiental.
+
+En el caso de proyectos enunciados en el artículo 26.2 de este decreto podrán solicitarse y tramitarse de modo conjunto las peticiones de emisión de valoraciones preliminares y de declaraciones de autoridad responsable.
+
+Lo dispuesto en los tres párrafos anteriores no será de aplicación en el caso de proyectos para los que los instrumentos de gestión de los espacios Red Natura 2000 hayan determinado que quedan excluidos de la obligación de evaluar sus repercusiones sobre la Red Natura 2000, de conformidad con lo establecido en el artículo 8 de este decreto. En estos casos, podrá solicitase la emisión de la declaración de la autoridad responsable en cualquier momento.
+
+- El resumen de las conclusiones de la evaluación adecuada realizada de conformidad con lo establecido en el artículo 6.3 de la Directiva 92/43/CE se acreditará mediante la presentación directa de la declaración de impacto ambiental o de la declaración de repercusiones sobre la Red Natura 2000, sin necesidad de solicitar del órgano gestor ningún tipo de declaración adicional.
+- Cuando sea preciso aportar a los servicios de la Comisión Europea competentes en política regional, información sobre las eventuales medidas compensatorias que haya sido preciso adoptar, las medidas compensatorias que se indiquen en el formulario de información sobre los proyectos que pueden tener un efecto negativo significativo en los lugares de la Red Natura 2000, notificados a la Comisión (Dirección General de Medio Ambiente) en virtud de la Directiva 92/43/CEE, deberán corresponderse con las medidas compensatorias indicadas en la declaración de impacto ambiental o en la declaración de repercusiones sobre la Red Natura 2000
+
+ANEXO. Proyectos sometidos al régimen de evaluación, autorización o conformidad previsto en este decreto
+
+1. Los enunciados en los anexos I y II del Real Decreto Legislativo 1/2008.
+2. Los enunciados en los anexos I y II del Decreto 162/1990.
+3. Los indicados en el artículo 63 de la Ley 3/1993 y en el artículo 24 de la Ley 10/2004
+4. Declaración de impacto ambiental o estimación ambiental en los planes de ordenación de los recursos naturales y los planes rectores de uso y gestión de los espacios naturales protegidos, cuando su ámbito territorial presente coincidencia, total o parcial, con el ámbito de aplicación territorial previsto en el presente decreto.
+5. Autorización ambiental integrada (Ley 2/2006 y sus normas de desarrollo)
+6. Licencia ambiental y comunicación ambiental (Ley 2/2006 y sus normas de desarrollo): en suelo distinto al clasificado como urbano consolidado.
+7. Defensa nacional
+8. Otro proyecto que sea expresamente indicado en las normas de gestión de los espacios de la Red Natura 2000 por presentar probabilidad de afección apreciable a la Red Natura 2000

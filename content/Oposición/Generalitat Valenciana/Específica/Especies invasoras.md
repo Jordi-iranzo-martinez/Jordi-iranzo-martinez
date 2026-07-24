@@ -1,10 +1,18 @@
 10. ***El Catálogo Español de Especies Exóticas Invasoras (Real decreto 630/2013 y sus modificaciones de los arts. 5 y 7; la disposición transitoria 4; el anexo y las referencias indicadas, aprobadas mediante el Real Decreto 216/2019, de 29 de marzo): Disposiciones generales, Procedimientos de inclusión o exclusión de especies, información contenida en el registro y efectos de la inclusión de una especie en el catálogo. Medidas de prevención y de lucha contra las especies exóticas invasoras. Régimen de tenencia y control de especies exóticas invasoras en la Comunitat Valenciana (Decreto 213/2009, de 20 de noviembre, del Consell y modificaciones del mismo establecidas por la Orden 10/2014, de 26 de mayo, de la Conselleria de Infraestructuras, Territorio y Medio Ambiente).***
 
 
+Se define como especie exótica invasora (artículo 3.13 de la Ley 42/2007):
+
+>La que se introduce o establece en un ecosistema o hábitat natural o seminatural y que es un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.
+
+La Administración General del Estado prohibirá su importación o introducción en todo el territorio nacional (incluidas subespecies). En caso de que pudiera suponer impactos, requerirá la autorización del Ministerio de medio ambiente.
+
+El Ministerio elaborará un listado en el que incluyan todas ellas, y lo publicará en su sede electrónica. Solo autorizará una especie incluida cuando compruebe su no afectación mediante un análisis de riesgos. En caso de resultado favorable, no requerirá autorizaciones para importaciones posteriores (salvo razones científicas fundamentadas)
+
+El Ministerio mantendrá actualizado en su sede electrónica un registro de las especies que hayan sido objeto de estos análisis de riesgos y del resultado de los mismos.
 
 
 ### Real Decreto 630/2013
-
 
 Las especies exóticas invasoras por el [Real Decreto 630/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565)
 
@@ -82,14 +90,14 @@ La presente norma se aplicará en el territorio del Estado español y en las agu
 
 #### Procedimiento de inclusión o exclusión
 
-HACER DIAGRAMA?
-
 Sólo podrán incluirse en el catálogo especies que hayan sido descritas taxonómicamente en una publicación científica de reconocido prestigio y hayan sido aceptadas por la comunidad científica.
 
 El procedimieto es el sigiete:
 
 - **Iniciación** (Ministerio): 
+
 	- **Iniciativa administrativa**: de las Comunidades y ciudades Autónomas o del propio Ministerio
+
 	- **Solicitud motivada**: de cualquier ciudadano u organización a la Dirección General de Biodiversidad (acompañada en estos casos con información técnica o científica justificativa, referencias bibliográficas)
 		- **Requerimientos**: en caso de defectos o incompletitud, con un plazo de 3 meses
 		- **Resolución**: en el plazo de 6 meses (silencio administrativo negativo), admite recurso de alzada (Secretaría de Estado de Medio Ambiente).
@@ -105,7 +113,12 @@ El procedimieto es el sigiete:
 - **Publicación**: en el “Boletín Oficial del Estado”.
 
 
-*En caso de constatarse la existencia de una amenaza grave producida por una especie exótica invasora no incluida en el catálogo, el procedimiento de inclusió se tramitará con carácter de urgencia ([artículo 33 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a33 "Abre nueva ventana")).*
+El procedimiento de inclusión y exclusión de especies 
+
+![[Pasted image 20260701115901.png]]
+
+
+*En caso de constatarse la existencia de una amenaza grave producida por una especie exótica invasora no incluida en el catálogo, el procedimiento de inclusión se tramitará con carácter de urgencia ([artículo 33 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a33 "Abre nueva ventana")).*
 
 
 #### Información del registro
@@ -118,169 +131,145 @@ La información contenida en el registro (artículo 6) es la siguiente:
 - **Justificación**: criterios y breve explicación técnica y científica de las causas de la inclusión
 - **Estrategias y planes** (prevención, control, erradicación): autonómicos o estatales (que afecten a la especie).
 
-*La información contenida en el registro del catálogo será suministrada y actualizada por las Comunidades y ciudades Autónomas o por el Ministerio de medio ambiente, y se publicará en la página web de dicho Ministerio.*
+*La información será suministrada y actualizada por las Comunidades y ciudades Autónomas o por el Ministerio de medio ambiente, y se publicará en la página web del Ministerio.*
 
 #### Efectos de inclusión en el Catálogo
 
-Los efectos de la inclusión de una especie en el catálogo
+Los efectos de la inclusión comprenden los siguientes ([artículo 7 del Real Decreto 630/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-8565&p=20250512&tn=1#a7)): 
 
-La inclusión de una especie en el catálogo ([artículo 64.3 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana")), conlleva la prohibición genérica de su posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos, que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior. Esta prohibición está limitada al ámbito de aplicación especificado para cada especie en el anexo. 
+- **Generales** ([artículo 64.3 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana")): prohibición de su posesión, transporte, tráfico y comercio de ejemplares vivos, de sus restos o propágulos, que pudieran sobrevivir o reproducirse, incluyendo el comercio exterior. 
 
-Esta prohibición podrá quedar sin efecto, previa autorización administrativa de la autoridad competente, cuando sea necesario por razones de investigación, salud o seguridad de las personas, o con fines de control o erradicación, en el marco de estrategias, planes y campañas que, a tal efecto, se aprueben.
+	*Esta prohibición está limitada al ámbito de aplicación especificado para cada especie en el anexo. Podrá quedar sin efecto, previa autorización administrativa de la autoridad competente, cuando sea necesario por razones de investigación, salud o seguridad de las personas, o fines de control o erradicación (en el marco de estrategias, planes y campañas que se aprueben).*
 
-La inclusión de una especie en el catálogo ([artículo 54.2 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a54 "Abre nueva ventana")), conlleva la prohibición de su introducción en el medio natural en el ámbito del territorio nacional de aplicación recogido en el anexo.
+- **Introducción** ([artículo 54.2 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a54 "Abre nueva ventana")): en el medio natural en el ámbito del territorio nacional de aplicación recogido en el anexo.
 
+- **No devolución**: los ejemplares extraídos de la naturaleza no podrán ser soltados al medio natural. 
 
-REVISAR ESAS DIFERENCIAS DE ARTICULOS POR INCLUSIÓN
+	Esta prohibición podrá quedar sin efecto en los supuestos de investigación, salud o seguridad de las personas (previa autorización por la autoridad  competente estatal o autonómica).
 
-Los ejemplares de las especies animales y vegetales incluidas en el catálogo que sean extraídos de la naturaleza por cualquier procedimiento no podrán ser devueltos al medio natural. Esta prohibición podrá quedar sin efecto en los supuestos de investigación, salud o seguridad de las personas, previamente autorizada por la autoridad competente en medio ambiente de la Administración General del Estado o de las comunidades autónomas y ciudades de Ceuta y Melilla.
-
-En ningún caso, se podrán contemplar actuaciones o comportamientos destinados al fomento de las especies incluidas en el catálogo. En particular, en el ejercicio de la pesca en aguas continentales, quedará prohibida la utilización como cebo vivo o muerto de cualquier ejemplar de dichas especies o de sus partes y derivados.
-
+- **No fomento**: actuaciones o comportamientos (uso como cebo en pesca continental...)
 
 
 #### Medidas de prevención y lucha
 
-|     |     |
-| --- | --- |
-|     |     |
-
-
-##### Artículo 8. Medidas de seguimiento general y prevención.
-
-Las Comunidades y ciudades Autónomas y la Administración General del Estado realizarán el seguimiento general de las especies exóticas con potencial invasor ([artículo 61.4 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a61 "Abre nueva ventana")). Para ello, establecerán una relación indicativa en la que se incluyan las especies exóticas para las que, por sus especiales circunstancias, sea aconsejable mantener un mayor nivel de control y vigilancia, con el fin de proponer, llegado el caso, su inclusión en el catálogo.
-
-En cualquier caso, en el marco de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, se establecerá una relación indicativa de especies con potencial invasor, especialmente en el caso de especies que se distribuyan por medios o hábitats que puedan afectar a más de una comunidad autónoma o aquellas que han demostrado ese carácter en otros países o regiones. Esta relación se hará pública en la página web del Ministerio para la Transición Ecológica.
-
-Sólo se autorizará la liberación por vez primera de una especie alóctona no incluida en el catálogo, en el caso de contar con un análisis de riesgos favorable y una autorización previa administrativa de la autoridad competente en medio ambiente de las comunidades autónomas o ciudades de Ceuta y Melilla o, en el ámbito de sus competencias, del Ministerio para la Transición Ecológica.
-
-En caso de que la competencia sea del Ministerio para la Transición Ecológica, dicha autorización se otorgará, previo informe vinculante de la Dirección General de Biodiversidad y Calidad Ambiental, por el Director General de Sanidad de la Producción Agraria ([Ley 43/2002, de 20 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2002-22649 "Abre nueva ventana")), por el Director General de Recursos Pesqueros y Acuicultura ([Ley 3/2001¡](https://www.boe.es/buscar/act.php?id=BOE-A-2001-6008 "Abre nueva ventana")), y por el Director General de Sostenibilidad de la Costa y del Mar ([Ley 41/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20050 "Abre nueva ventana")). En los restantes supuestos se otorgará por el Director General de Biodiversidad y Calidad Ambiental.
-
-El solicitante de la liberación deberá aportar en su petición el análisis de riesgos para su evaluación por la autoridad competente en medio ambiente, quién recabará, si lo estima necesario, la opinión del comité científico al que se refiere la disposición adicional décima del presente real decreto. La Comisión Estatal para el Patrimonio Natural y la Biodiversidad deberá ser informada de dichas liberaciones.
-
-Cuando la liberación vaya a producirse en lugares, medios o hábitats que puedan afectar a más de una comunidad autónoma, como es el caso de numerosos cursos fluviales o las aguas marinas, esta deberá ser autorizada por la autoridad competente en materia de medio ambiente de la Administración General del Estado o de la comunidad autónoma o ciudades de Ceuta y Melilla, en el ámbito de su competencias, previa aprobación de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.
-
-El análisis de riesgos contendrá, al menos, información sobre los siguientes puntos:
-
-- Probabilidades
-	- Escape o liberación accidental
-	- Establecimiento en la naturaleza
-	- Convertirse en plaga
-	- Causar daño medio ambiental
-	- Afectar negativamente a la biodiversidad autóctona o a los recursos económicos asociados al patrimonio natural
-
-- Descripción de las actuaciones previstas a realizar en caso de escape o liberación accidental, con una valoración de la viabilidad y técnicas de control, erradicación o contención. 
-- **Procedencia**: si proviene o no de cría en cautividad
-- Conocimiento de la problemática en otros lugares (en caso de existir)
-- **Medios eficaces**: para reducir riesgos de escape o liberación accidental.
-
-En caso de constatarse la existencia de una amenaza grave producida por la aparición de una especie exótica invasora (incluida o no en el Catálogo), y paralelamente a lo establecido en el artículo 5, se informará a la red de alerta (artículo 12), y se aplicarán de forma urgente, por parte de las Comunidades y ciudades Autónomas y la Administración General del Estado en el ámbito de sus competencias u otras autoridades competentes, en coordinación con el Ministerio para la Transición Ecológica, las medidas necesarias para el seguimiento, control y posible erradicación de la citada especie, en el marco del operativo establecido en la red de alerta.
-
-
-
-##### Artículo 10. Medidas de lucha contra las especies exóticas invasoras del catálogo.
-
-Las Administraciones Competentes adoptarán, en su caso, las medidas de gestión, control y posible erradicación de las especies incluidas en el catálogo. En el marco de estrategias, planes y campañas de control y erradicación, las administraciones competentes podrán autorizar la posesión y el transporte temporales de ejemplares de estas especies hasta el lugar de su eliminación del medio natural, proceso que habrá de realizarse en el menor plazo posible y de acuerdo con la legislación sectorial sobre esta materia.
-
-Estas medidas de gestión, control y posible erradicación serán adoptadas según las prioridades determinadas por la gravedad de la amenaza y el grado de dificultad previsto para su erradicación.
-
-- Administración General del Estado
-	- Dirección General de Marina Mercante (Ministerio de Fomento)
-	- Dirección General de Sostenibilidad de la Costa y del Mar
-	- Dirección General del Agua
-	- Secretaría General de Pesca
-
-- Comunidades autónomas
-
-aplicarán medidas de prevención, control y gestión de las especies incluidas en el catálogo en las actividades recreativas y deportivas desarrolladas en las aguas continentales y marinas.
-
-En el caso de especies del catálogo detectadas en aguas de lastre de embarcaciones, se aplicarán las medidas de prevención, control y gestión establecidas por la Organización Marítima Internacional en la materia, especialmente a través de lo dispuesto en el Convenio internacional para el control y la gestión del agua de lastre y los sedimentos de los buques, de 2004, y por las directrices y criterios establecidos en los Convenios regionales de protección del medio marino.
-
-Las autoridades competentes exigirán a los promotores de obras en cauces que se informen sobre la presencia de especies del catálogo en aquellas masas de agua que van a ser origen de trasvases o desviaciones temporales o permanentes de agua. En caso de presencia de estas especies, se revisará el proyecto para estudiar alternativas y medidas de prevención que no impliquen dispersión de estas especies, o se valorará la suspensión del proyecto. Del mismo modo, si se ejecutan trabajos en cauces afectados por especies del catálogo, se deberán aplicar protocolos preventivos de dispersión de las especies a cauces no afectados.
-
-Las autoridades competentes podrán requerir a los titulares de terrenos que faciliten información y acceso a sus representantes, con el fin de verificar la presencia de especies exóticas invasoras y, en su caso, tomar las medidas adecuadas para su control.
-
-Teniendo en cuenta criterios de selectividad y bienestar animal, las autoridades competentes autorizarán los métodos y condiciones de captura más adecuados para el control, gestión y posible erradicación de especies animales incluidas en el catálogo.
-
-Se podrá contemplar la caza y la pesca como métodos de control, gestión y erradicación de las especies incluidas en el catálogo cuya introducción se produjo con anterioridad a la entrada en vigor de la [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), cuando este objetivo quede recogido en los instrumentos normativos de caza y pesca y se circunscriba a las áreas de distribución ocupadas por estas especies con anterioridad a esa fecha.
-
-Las autoridades competentes en medio ambiente adoptarán medidas para evitar el abandono de restos de especies vegetales exóticas, a excepción de los acumulados en el marco de campañas de erradicación, siempre y cuando no supongan un riesgo de dispersión.
-
-##### Artículo 11. Medidas de control en las partidas presentadas a inspección en los Puestos de Inspección Fronterizos (PIF).
-
-Cuando ejemplares de especies del catálogo sean presentados en los puestos de inspección fronterizos ante las autoridades veterinarias o fitosanitarias, el veterinario oficial o el inspector fitosanitario, respectivamente, decidirá el rechazo de las mismas. La detección de estas especies podrá realizarse por declaración de la especie por parte del importador o su representante o porque conste en la documentación que acompañe a la partida la especie.
-
-Asimismo, las especies del catálogo podrán detectarse en el control de identidad que los inspectores realizan durante la inspección sanitaria.
-
-Una vez rechazada la partida, el veterinario oficial o el inspector fitosanitario, según proceda, comunicará esta decisión al importador o a su representante, el cual en un plazo no superior a 48 horas, deberá decidir si la partida se destruye o se reexpide al país de origen.
-
-Las autoridades veterinarias o fitosanitarias comunicarán la decisión final a la Aduana y en los casos de destrucción, y eutanasia de los animales, serán responsables de su ejecución y supervisión. El importador o su representante será el responsable de notificar a la Aduana el resultado de la destrucción y/o eutanasia a efectos aduaneros y, en su caso, de la liquidación de derechos de importación y demás tributos exigibles.
-
-Los ejemplares rechazados o abandonados podrán permanecer en las instalaciones del PIF durante las 48 horas, en las que el importador o su representante debe tomar una decisión sobre el destino de la partida, y otras 48 horas más hasta que los ejemplares sean destinados a eutanasia y/o destrucción o se reexpidan. Este plazo podrá prorrogarse, previa autorización de las autoridades veterinarias o fitosanitarias del PIF, siempre y cuando, no se comprometa la utilización del PIF para sus fines de inspección sanitaria.
-
-Durante este periodo en el que permanezcan los ejemplares en el PIF, la supervisión de las condiciones de depósito hasta alcanzar el destino previsto corresponderá a las autoridades veterinarias o fitosanitarias según proceda, siendo responsabilidad de la Aduana evitar que se dé a las especies un destino aduanero no autorizado.
-
-Los animales deberán ser mantenidos en condiciones de bienestar ([Reglamento 1/2005](https://www.boe.es/buscar/doc.php?id=DOUE-L-2005-80006 "Abre nueva ventana")).
-
-Cuando se detecten en mercancías que sean presentadas a inspección en el PIF, ejemplares de especies del catálogo de forma accidental, la autoridad veterinaria o fitosanitaria acordará su inmovilización y se procederá a la identificación de las especies. Si se tratara de especies exóticas invasoras, se comunicará al importador o su representante, y se tomará una decisión acerca de la partida que garantice que se encuentra desprovista de estos ejemplares, de sus propágulos y de elementos con capacidad dispersiva. Si esto último no fuese posible, se deberá efectuar la limpieza, desinfección o destrucción de dicha mercancía, que será acordada y controlada  por las autoridades veterinarias y fitosanitarias correspondientes. Una vez finalizadas estas operaciones, se informará a la Administración de Aduanas competente.
-
-Si se detecta en mercancías situadas en el recinto aduanero y no presentadas al PIF, la aduana  pondrá en conocimiento la situación a la autoridad veterinaria o fitosanitaria correspondiente, suspendiéndose, en su caso, el despacho aduanero, y se procederá como se ha indicado en el párrafo anterior.
-
-Los gastos derivados de la estancia, eutanasia y/o destrucción, la reexpedición u otras medidas para eliminar los ejemplares detectados o sus propágulos y elementos con capacidad dispersiva, correrán a cargo del importador o de su representante.
-
-
-##### Artículo 12. Medidas de control en los ejemplares detectados en las terminales de viajeros de los puertos y aeropuertos.
-
-Cuando las autoridades competentes de Aduanas detecten en las terminales de viajeros plantas o animales vivos, comunicarán este hecho a las autoridades veterinarias o fitosanitarias correspondientes, con el fin de que éstas determinen si se trata de ejemplares de especies del catálogo. En el caso de tratarse de especies exóticas invasoras, las autoridades veterinarias o fitosanitarias decidirán el rechazo de las mismas.
-
-Una vez rechazada la partida, el veterinario oficial o el inspector fitosanitario, según proceda, comunicará esta decisión al importador o su representante, el cual en un plazo no superior a 48 horas, deberá decidir si la partida se destruye o se reexpide al país de origen.
-
-Las autoridades veterinarias o fitosanitarias comunicarán la decisión final a la Aduana y en el caso de la destrucción, o eutanasia y destrucción en el caso de los animales, serán responsables de la ejecución y supervisión de la misma.
-
-El control de las condiciones de depósito de las plantas o animales vivos detectados o abandonados en las terminales de viajeros se realizará en los mismos términos que los indicados en el artículo 11, una vez la mercancía (especies del catálogo) haya sido ubicada previamente, siempre bajo control y supervisión aduanera, en los PIF autorizados. Todo esto siempre y cuando existan PIF autorizados en el punto de entrada afectado. En caso de no existir PIF autorizados la supervisión de las condiciones de depósito hasta alcanzar el destino previsto corresponderá a las autoridades competentes, concesionarios o personas, físicas o jurídicas, del local o instalación en la que se encuentran las plantas o animales vivos.
-
-Los animales deberán ser mantenidos en condiciones de bienestar ([Reglamento1/2005](https://www.boe.es/buscar/doc.php?id=DOUE-L-2005-80006 "Abre nueva ventana")).
-
-Los gastos derivados de la estancia, eutanasia y/o destrucción o la reexpedición de los ejemplares detectados, correrán a cargo del importador o de su representante.
-
-##### Artículo 13. Medios para realizar los controles en frontera.
-
-Las autoridades veterinarias o fitosanitarias, y la autoridad de Aduanas, podrán consultar con la Dirección General de Biodiversidad sobre la identificación taxonómica de los ejemplares que se requiera, y sobre las decisiones a tomar respecto a su destino. Pondrá a disposición de las autoridades veterinarias, fitosanitarias y aduaneras los medios necesarios para poder realizar los controles y garantizar las condiciones de depósito de los ejemplares que estén a la espera de que se tome una decisión sobre su destino.
-
-
-##### Artículo 14. Red de Alerta para la vigilancia de especies exóticas invasoras.
-
-Para facilitar la coordinación y la comunicación entre las administraciones competentes, se crea la Red de Alerta para la vigilancia de especies exóticas invasoras. 
-
-Esta red estará integrada por los 
-
-- **Puntos focales**: designados por las comunidades autónomas y ciudades de Ceuta y Melilla
-- **Órganos competentes estatales**: en medio ambiente de la Administración General del Estado
-- Dirección General de Comercio e Inversiones del Ministerio de Economía y Competitividad autoridad administrativa CITES ¿YA NO ES LA ADMIN NO?
-- Oficina de coordinación en la Dirección General de de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica, sin perjuicio de las competencias del Comité Fitosanitario Nacional
-
-La red contará con la información facilitada por las organizaciones y sectores interesados.
-
-La oficina de coordinación de la Red de Alerta tendrá la función de coordinar la información. Se creará además una aplicación informática asociada con un sistema de información geográfico de los focos potenciales de invasiones biológicas, para la difusión de la información entre los puntos focales y la oficina de coordinación. Esta aplicación estará accesible al público para asegurar su participación en la Red de Alerta.
-
-Los puntos focales de la Red de Alerta deberán:
-
-- **Alerta temprana**: creación de redes, dentro de su ámbito territorial
-- **Información temprana**: a la oficina de coordinación, sobre nuevos focos o poblaciones, y su identificación, localización, riesgos y extensión; y respuesta temprana con actuaciones de erradicación y control.
-
-Procedimientos de inclusión o exclusión de especies, información contenida en el registro y efectos de la inclusión de una especie en el catálogo. Medidas de prevención y de lucha contra las especies exóticas invasoras.
-
-
-
-El procedimiento de inclusión y exclusión de especies 
-
-![[Pasted image 20260701115901.png]]
-
-
-
-Las medidas de prevención y lucha (REUTILIZAR)
-
-
+- **Seguimiento general y prevención**: 
+
+	Las Comunidades y ciudades Autónomas y la Administración General del Estado realizarán el seguimiento general de las especies exóticas con potencial invasor ([artículo 61.4 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a61 "Abre nueva ventana")). Para ello, establecerán una relación indicativa en la que se incluyan las especies exóticas para las que, por sus especiales circunstancias, sea aconsejable mantener un mayor nivel de control y vigilancia, con el fin de proponer, llegado el caso, su inclusión en el catálogo.
+	
+	En cualquier caso, en el marco de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad, se establecerá una relación indicativa de especies con potencial invasor, especialmente en el caso de especies que se distribuyan por medios o hábitats que puedan afectar a más de una comunidad autónoma o aquellas que han demostrado ese carácter en otros países o regiones. Esta relación se hará pública en la página web del Ministerio para la Transición Ecológica.
+	
+	Sólo se autorizará la liberación por vez primera de una especie alóctona no incluida en el catálogo, en el caso de contar con un análisis de riesgos favorable y una autorización previa administrativa de la autoridad competente en medio ambiente de las comunidades autónomas o ciudades de Ceuta y Melilla o, en el ámbito de sus competencias, del Ministerio para la Transición Ecológica.
+	
+	En caso de que la competencia sea del Ministerio para la Transición Ecológica, dicha autorización se otorgará, previo informe vinculante de la Dirección General de Biodiversidad y Calidad Ambiental, por el Director General de Sanidad de la Producción Agraria ([Ley 43/2002, de 20 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-2002-22649 "Abre nueva ventana")), por el Director General de Recursos Pesqueros y Acuicultura ([Ley 3/2001¡](https://www.boe.es/buscar/act.php?id=BOE-A-2001-6008 "Abre nueva ventana")), y por el Director General de Sostenibilidad de la Costa y del Mar ([Ley 41/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20050 "Abre nueva ventana")). En los restantes supuestos se otorgará por el Director General de Biodiversidad y Calidad Ambiental.
+	
+	El solicitante de la liberación deberá aportar en su petición el análisis de riesgos para su evaluación por la autoridad competente en medio ambiente, quién recabará, si lo estima necesario, la opinión del comité científico al que se refiere la disposición adicional décima del presente real decreto. La Comisión Estatal para el Patrimonio Natural y la Biodiversidad deberá ser informada de dichas liberaciones.
+	
+	Cuando la liberación vaya a producirse en lugares, medios o hábitats que puedan afectar a más de una comunidad autónoma, como es el caso de numerosos cursos fluviales o las aguas marinas, esta deberá ser autorizada por la autoridad competente en materia de medio ambiente de la Administración General del Estado o de la comunidad autónoma o ciudades de Ceuta y Melilla, en el ámbito de su competencias, previa aprobación de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.
+	
+	El análisis de riesgos contendrá la siguiente información mínima:
+	
+	- **Probabilidades**
+		- Escape o liberación accidental
+		- Establecimiento en la naturaleza
+		- Convertirse en plaga
+		- Causar daño medio ambiental
+		- Afectar negativamente a la biodiversidad autóctona o a los recursos económicos asociados al patrimonio natural
+	
+	- Descripción de las actuaciones previstas a realizar en caso de escape o liberación accidental, con una valoración de la viabilidad y técnicas de control, erradicación o contención. 
+	- **Procedencia**: si proviene o no de cría en cautividad
+	- **Problemática**: conocimiento en otros lugares (en caso de existir)
+	- **Medios eficaces**: para reducir riesgos de escape o liberación accidental.
+	
+	En caso de constatarse la existencia de una amenaza grave producida por la aparición de una especie exótica invasora (incluida o no en el Catálogo), y paralelamente a lo establecido en el artículo 5, se informará a la red de alerta (artículo 12), y se aplicarán de forma urgente, por parte de las Comunidades y ciudades Autónomas y la Administración General del Estado en el ámbito de sus competencias u otras autoridades competentes, en coordinación con el Ministerio para la Transición Ecológica, las medidas necesarias para el seguimiento, control y posible erradicación de la citada especie, en el marco del operativo establecido en la red de alerta.
+
+
+- **Lucha**: 
+
+	Las Administraciones Competentes adoptarán, en su caso, las medidas de gestión, control y posible erradicación de las especies incluidas en el catálogo. En el marco de estrategias, planes y campañas de control y erradicación, las administraciones competentes podrán autorizar la posesión y el transporte temporales de ejemplares de estas especies hasta el lugar de su eliminación del medio natural, proceso que habrá de realizarse en el menor plazo posible y de acuerdo con la legislación sectorial sobre esta materia.
+	
+	Estas medidas de gestión, control y posible erradicación serán adoptadas según las prioridades determinadas por la gravedad de la amenaza y el grado de dificultad previsto para su erradicación.
+	
+	- Administración General del Estado
+		- Dirección General de Marina Mercante (Ministerio de Fomento)
+		- Dirección General de Sostenibilidad de la Costa y del Mar
+		- Dirección General del Agua
+		- Secretaría General de Pesca
+	
+	- Comunidades autónomas
+	
+	aplicarán medidas de prevención, control y gestión de las especies incluidas en el catálogo en las actividades recreativas y deportivas desarrolladas en las aguas continentales y marinas.
+	
+	En el caso de especies del catálogo detectadas en aguas de lastre de embarcaciones, se aplicarán las medidas de prevención, control y gestión establecidas por la Organización Marítima Internacional en la materia, especialmente a través de lo dispuesto en el Convenio internacional para el control y la gestión del agua de lastre y los sedimentos de los buques, de 2004, y por las directrices y criterios establecidos en los Convenios regionales de protección del medio marino.
+	
+	Las autoridades competentes exigirán a los promotores de obras en cauces que se informen sobre la presencia de especies del catálogo en aquellas masas de agua que van a ser origen de trasvases o desviaciones temporales o permanentes de agua. En caso de presencia de estas especies, se revisará el proyecto para estudiar alternativas y medidas de prevención que no impliquen dispersión de estas especies, o se valorará la suspensión del proyecto. Del mismo modo, si se ejecutan trabajos en cauces afectados por especies del catálogo, se deberán aplicar protocolos preventivos de dispersión de las especies a cauces no afectados.
+	
+	Las autoridades competentes podrán requerir a los titulares de terrenos que faciliten información y acceso a sus representantes, con el fin de verificar la presencia de especies exóticas invasoras y, en su caso, tomar las medidas adecuadas para su control.
+	
+	Teniendo en cuenta criterios de selectividad y bienestar animal, las autoridades competentes autorizarán los métodos y condiciones de captura más adecuados para el control, gestión y posible erradicación de especies animales incluidas en el catálogo.
+	
+	Se podrá contemplar la caza y la pesca como métodos de control, gestión y erradicación de las especies incluidas en el catálogo cuya introducción se produjo con anterioridad a la entrada en vigor de la [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), cuando este objetivo quede recogido en los instrumentos normativos de caza y pesca y se circunscriba a las áreas de distribución ocupadas por estas especies con anterioridad a esa fecha.
+	
+	Las autoridades competentes en medio ambiente adoptarán medidas para evitar el abandono de restos de especies vegetales exóticas, a excepción de los acumulados en el marco de campañas de erradicación, siempre y cuando no supongan un riesgo de dispersión.
+
+- **Control en partidas presentadas a inspección en los Puestos de Inspección Fronterizos** (PIF): 
+
+	Cuando ejemplares de especies del catálogo sean presentados en los puestos de inspección fronterizos ante las autoridades veterinarias o fitosanitarias, el veterinario oficial o el inspector fitosanitario, respectivamente, decidirá el rechazo de las mismas. La detección de estas especies podrá realizarse por declaración de la especie por parte del importador o su representante o porque conste en la documentación que acompañe a la partida la especie.
+	
+	Asimismo, las especies del catálogo podrán detectarse en el control de identidad que los inspectores realizan durante la inspección sanitaria.
+	
+	Una vez rechazada la partida, el veterinario oficial o el inspector fitosanitario, según proceda, comunicará esta decisión al importador o a su representante, el cual en un plazo no superior a 48 horas, deberá decidir si la partida se destruye o se reexpide al país de origen.
+	
+	Las autoridades veterinarias o fitosanitarias comunicarán la decisión final a la Aduana y en los casos de destrucción, y eutanasia de los animales, serán responsables de su ejecución y supervisión. El importador o su representante será el responsable de notificar a la Aduana el resultado de la destrucción y/o eutanasia a efectos aduaneros y, en su caso, de la liquidación de derechos de importación y demás tributos exigibles.
+	
+	Los ejemplares rechazados o abandonados podrán permanecer en las instalaciones del PIF durante las 48 horas, en las que el importador o su representante debe tomar una decisión sobre el destino de la partida, y otras 48 horas más hasta que los ejemplares sean destinados a eutanasia y/o destrucción o se reexpidan. Este plazo podrá prorrogarse, previa autorización de las autoridades veterinarias o fitosanitarias del PIF, siempre y cuando, no se comprometa la utilización del PIF para sus fines de inspección sanitaria.
+	
+	Durante este periodo en el que permanezcan los ejemplares en el PIF, la supervisión de las condiciones de depósito hasta alcanzar el destino previsto corresponderá a las autoridades veterinarias o fitosanitarias según proceda, siendo responsabilidad de la Aduana evitar que se dé a las especies un destino aduanero no autorizado.
+	
+	Los animales deberán ser mantenidos en condiciones de bienestar ([Reglamento 1/2005](https://www.boe.es/buscar/doc.php?id=DOUE-L-2005-80006 "Abre nueva ventana")).
+	
+	Cuando se detecten en mercancías que sean presentadas a inspección en el PIF, ejemplares de especies del catálogo de forma accidental, la autoridad veterinaria o fitosanitaria acordará su inmovilización y se procederá a la identificación de las especies. Si se tratara de especies exóticas invasoras, se comunicará al importador o su representante, y se tomará una decisión acerca de la partida que garantice que se encuentra desprovista de estos ejemplares, de sus propágulos y de elementos con capacidad dispersiva. Si esto último no fuese posible, se deberá efectuar la limpieza, desinfección o destrucción de dicha mercancía, que será acordada y controlada  por las autoridades veterinarias y fitosanitarias correspondientes. Una vez finalizadas estas operaciones, se informará a la Administración de Aduanas competente.
+	
+	Si se detecta en mercancías situadas en el recinto aduanero y no presentadas al PIF, la aduana  pondrá en conocimiento la situación a la autoridad veterinaria o fitosanitaria correspondiente, suspendiéndose, en su caso, el despacho aduanero, y se procederá como se ha indicado en el párrafo anterior.
+	
+	Los gastos derivados de la estancia, eutanasia y/o destrucción, la reexpedición u otras medidas para eliminar los ejemplares detectados o sus propágulos y elementos con capacidad dispersiva, correrán a cargo del importador o de su representante.
+
+- **Control en los ejemplares detectados en las terminales de viajeros de los puertos y aeropuertos**.
+
+	Cuando las autoridades competentes de Aduanas detecten en las terminales de viajeros plantas o animales vivos, comunicarán este hecho a las autoridades veterinarias o fitosanitarias correspondientes, con el fin de que éstas determinen si se trata de ejemplares de especies del catálogo. En el caso de tratarse de especies exóticas invasoras, las autoridades veterinarias o fitosanitarias decidirán el rechazo de las mismas.
+	
+	Una vez rechazada la partida, el veterinario oficial o el inspector fitosanitario, según proceda, comunicará esta decisión al importador o su representante, el cual en un plazo no superior a 48 horas, deberá decidir si la partida se destruye o se reexpide al país de origen.
+	
+	Las autoridades veterinarias o fitosanitarias comunicarán la decisión final a la Aduana y en el caso de la destrucción, o eutanasia y destrucción en el caso de los animales, serán responsables de la ejecución y supervisión de la misma.
+	
+	El control de las condiciones de depósito de las plantas o animales vivos detectados o abandonados en las terminales de viajeros se realizará en los mismos términos que los indicados en el artículo 11, una vez la mercancía (especies del catálogo) haya sido ubicada previamente, siempre bajo control y supervisión aduanera, en los PIF autorizados. Todo esto siempre y cuando existan PIF autorizados en el punto de entrada afectado. En caso de no existir PIF autorizados la supervisión de las condiciones de depósito hasta alcanzar el destino previsto corresponderá a las autoridades competentes, concesionarios o personas, físicas o jurídicas, del local o instalación en la que se encuentran las plantas o animales vivos.
+	
+	Los animales deberán ser mantenidos en condiciones de bienestar ([Reglamento1/2005](https://www.boe.es/buscar/doc.php?id=DOUE-L-2005-80006 "Abre nueva ventana")).
+	
+	Los gastos derivados de la estancia, eutanasia y/o destrucción o la reexpedición de los ejemplares detectados, correrán a cargo del importador o de su representante.
+
+
+- **Medios de controles en frontera**:
+	Las autoridades veterinarias o fitosanitarias, y la autoridad de Aduanas, podrán consultar con la Dirección General de Biodiversidad sobre la identificación taxonómica de los ejemplares que se requiera, y sobre las decisiones a tomar respecto a su destino. Pondrá a disposición de las autoridades veterinarias, fitosanitarias y aduaneras los medios necesarios para poder realizar los controles y garantizar las condiciones de depósito de los ejemplares que estén a la espera de que se tome una decisión sobre su destino.
+
+- **Red de Alerta para la vigilancia de especies exóticas invasoras**.
+
+	Para facilitar la coordinación y la comunicación entre las administraciones competentes, se crea la Red de Alerta para la vigilancia de especies exóticas invasoras. 
+	
+	Esta red estará integrada por los 
+	
+	- **Puntos focales**: designados por las comunidades autónomas y ciudades de Ceuta y Melilla
+	- **Órganos competentes estatales**: en medio ambiente de la Administración General del Estado
+	- Dirección General de Comercio e Inversiones del Ministerio de Economía y Competitividad autoridad administrativa CITES ¿YA NO ES LA ADMIN NO?
+	- Oficina de coordinación en la Dirección General de de Biodiversidad y Calidad Ambiental del Ministerio para la Transición Ecológica, sin perjuicio de las competencias del Comité Fitosanitario Nacional
+	
+	La red contará con la información facilitada por las organizaciones y sectores interesados.
+	
+	La oficina de coordinación de la Red de Alerta tendrá la función de coordinar la información. Se creará además una aplicación informática asociada con un sistema de información geográfico de los focos potenciales de invasiones biológicas, para la difusión de la información entre los puntos focales y la oficina de coordinación. Esta aplicación estará accesible al público para asegurar su participación en la Red de Alerta.
+	
+	Los puntos focales de la Red de Alerta deberán:
+	
+	- **Alerta temprana**: creación de redes, dentro de su ámbito territorial
+	- **Información temprana**: a la oficina de coordinación, sobre nuevos focos o poblaciones, y su identificación, localización, riesgos y extensión; y respuesta temprana con actuaciones de erradicación y control.
 
 ### Decreto 213/2009
 

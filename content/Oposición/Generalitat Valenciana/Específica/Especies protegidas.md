@@ -34,21 +34,15 @@ A escala nacional la norma básica es la [Ley 42/2007](https://www.boe.es/buscar
 | Ex situ            | - Propagación<br>- Conservación de material biológico y genético                                                                                                                         |
 | Especies invasoras | - Catálogo Español                                                                                                                                                                       |
 
-La Administración General del Estado y las Comunidades Autónomas adoptarán medidas para garantizar la conservación de la biodiversidad silvestre, atendiendo preferentemente a la preservación de sus hábitats y estableciendo regímenes específicos de protección para aquellas especies cuya situación así lo requiera, incluyéndolas en alguna de las categorías mencionadas en los artículos 56 y 58 de esta ley.
+La Administración General del Estado y las Comunidades Autónomas adoptarán medidas para garantizar la conservación de la biodiversidad silvestre
 
-Igualmente, deberán adoptar las medidas que sean pertinentes para que la recogida en la naturaleza de especímenes de las especies de fauna y flora silvestres de interés comunitario (Anexo VI), y la gestión de su explotación sea compatible con su mantenimiento en un estado de conservación favorable.
+- Preservación de sus hábitats
+- Regímenes específicos de protección para aquellas especies cuya situación así lo requiera.
+- Medidas de recogida y gestión compatible
+	- Igualmente, deberán adoptar las medidas que sean pertinentes para que la recogida en la naturaleza de especímenes de las especies de fauna y flora silvestres de interés comunitario (Anexo VI), y la gestión de su explotación sea compatible con su mantenimiento en un estado de conservación favorable.
+- Gestión de especies exóticas invasoras
 
-La Administración General del Estado prohibirá la importación o introducción en todo el territorio nacional de especies o subespecies alóctonas cuando éstas sean susceptibles de competir con las especies silvestres autóctonas, alterar su pureza genética o los equilibrios ecológicos.
 
-La importación o introducción en el territorio nacional de una especie alóctona que podría concurrir potencialmente en las circunstancias descritas en el apartado anterior estará supeditada a la obtención de una autorización administrativa por parte del Ministerio de Agricultura, Alimentación y Medio Ambiente, sin perjuicio de los demás requisitos contemplados en la normativa sectorial correspondiente.
-
-El Ministerio de Medio Ambiente elaborará, en el plazo máximo de un año, un listado en el que, con base en la información técnica y científica existente, se incluirán los taxones alóctonos susceptibles de competir con las especies silvestres autóctonas, alterar su pureza genética o los equilibrios ecológicos.
-
-Este listado será publicado y actualizado en la sede electrónica del Ministerio de Agricultura, Alimentación y Medio Ambiente.
-
-Tras la publicación del listado previsto en el apartado anterior, el Ministerio de Agricultura, Alimentación y Medio Ambiente sólo autorizará la importación en el territorio nacional de una especie incluida en dicho listado cuando, en la primera importación solicitada, compruebe mediante la evaluación de un análisis de riesgo presentado por el operador, que la especie no es susceptible de incurrir en las circunstancias descritas en el apartado 2. Cuando el análisis de riesgo de esa primera solicitud sea favorable a la importación, no será necesario solicitar autorizaciones de esta índole para importaciones posteriores, salvo que nuevas razones de índole científica debidamente fundadas aconsejen someterlo de nuevo a un análisis de riesgo.
-
-El Ministerio de Agricultura, Alimentación y Medio Ambiente mantendrá actualizado en su sede electrónica un registro de las especies que hayan sido objeto de estos análisis de riesgos y del resultado de los mismos.
 
 Queda prohibido dar muerte, dañar, molestar o inquietar intencionadamente a los animales silvestres, sea cual fuere el método empleado o la fase de su ciclo biológico.
 
@@ -739,31 +733,6 @@ Además, aparecen los siguientes hábitats protegidos (Anexo IV):
 
 
 La [jara de Cartagena](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/jaradecartagena_tcm30-483587.pdf) (*Cistus heterophyllus carthaginensis*) se considera en situación crítica a escala nacional.
-
-
-### Microrreservas de flora
-
-El [Decreto 218/1994](https://dogv.gva.es/auto/dogv/docvpub/rlgv/1994/D_1994_218_ca_D_2009_070.pdf) regula las microrreservas de flora, definida como la parte del territorio valenciano (terrestre o marítimo) gestionado por la Generalitat para realizar un estudio y seguimiento científico a largo plazo de las especies y comunidades vegetales contenidas. cuya gestión (se declaran por orden de Conselleria de medio ambiente)
-
-Las condiciones de para la declaración incluyen una superficie inferior a 20 ha, contenido de especies raras, endémicas, amenazadas, o de interés científico, en general sobre suelo público (salvo petición expresa de propietarios en suelos privados). Deberán estar señalizadas, según disposición reglamentaria (no se ha regulado). 
-
-|     |     |
-| --- | --- |
-|     |     |
-
-
-El marco de protección comprende las siguientes prohibiciones generales:
-
-- **Partes subterráneas**: extracción (raíces)
-- **Daños**: por vertidos o deposición de residuos, y extracciones de agua, suelo, o rocas.
-- **Partes aéreas**: recolección, destrucción o extracción 
-- **Otras**: acampada, tránsito con vehículos...
-- **Afecciones biológicas**: introducción genérica de especies vegetales, y de invertebrados o flora que puedan causar plagas o enfermedades
-- **Ganadería**: no uso como descansaderos habituales de ganado, ni cerramientos para el mantenimiento de especies ganaderas (ovejas, cabras, vacas...)
-
-El inicio del expediente corresponde a la Dirección General de biodiversidad (oficio o a petición de las personas físicas o jurídicas propietarias de los terrenos), en el plazo de 3 meses (silencio administrativo negativo). 
-
-Se deberá dar audiencia a las entidades propietarias, aquellas con investigación en conservación de flora silvestre, titulares de aprovechamientos de terrenos, colectivos conservacionistas, el Ministerio de medio ambiente (en caso de estar en dominio público estatal), y las entidades públicas gestoras de la servidumbre pública de vías de comunicación.
 
 
 ### Planes de recuperación y conservación de especies

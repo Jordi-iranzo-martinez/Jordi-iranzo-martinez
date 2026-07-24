@@ -64,7 +64,7 @@ Los objetivos incluyen los siguientes:
 
 - **Incendios forestales**: planificación y coordinación de las actuaciones de las Administraciones Públicas sobre las medidas de prevención y lucha.
 
-- Productividad: delimitación de las áreas de mayor interés forestal y potenciación de su producción. 
+- **Productividad**: delimitación de las áreas de mayor interés forestal y potenciación de su producción. 
 
 - **Compatibilización de usos**: de la mejora de las explotaciones forestales y silvícolas con otros aprovechamientos (cinegéticos, de pastoreo y recolección de subproductos). 
 
@@ -104,7 +104,7 @@ Los terrenos forestales, en razón de su pertenencia, se clasifican en públicos
 
 - **Públicos**: pertenecientes a una persona jurídico pública. Pueden ser 
 
-	- **De dominio público**: 
+	- **De dominio público**: los terrenos forestales que hayan sido afectados a un uso o servicio público, o que lo sean por aplicación de una norma del Estado. 
 
 	- **De utilidad pública**: 
 
@@ -113,12 +113,7 @@ Los terrenos forestales, en razón de su pertenencia, se clasifican en públicos
 	- **Protectores**: 
 
 
-
-Artículo 8
-
-Serán de dominio público los terrenos forestales que hayan sido afectados a un uso o servicio público, o que lo sean por aplicación de una norma del Estado. En el ámbito de la Comunidad Valenciana, podrán declararse de dominio público, además, aquellos montes o terrenos forestales que se vinculen a la satisfacción de intereses generales y, en concreto, a la protección y mejora de la calidad de vida y a la defensa y restauración del medio ambiente.
-
-La afectación al dominio público se producirá por acuerdo específico del Consell, por acreditación de las siguientes causas (estado actual o por transformación futura):
+En el ámbito de la Comunidad Valenciana, podrán declararse de dominio público, además, aquellos montes o terrenos forestales que se vinculen a la satisfacción de intereses generales y, en concreto, a la protección y mejora de la calidad de vida y a la defensa y restauración del medio ambiente. Se produce por acuerdo del Consell, por acreditación de las siguientes causas (estado actual o por transformación futura):
 
 - **Suelos**: protección y conservación, evitando su erosión.
 - **Hidrología**: regulación de las alteraciones y defensa de grandes avenidas (cultivos, poblaciones, canalizaciones o vías de comunicación).
@@ -136,9 +131,7 @@ Los montes de dominio público serán inalienables, imprescriptibles e inembarga
 
 Los aprovechamientos forestales compatibles con la causa de declaración de los terrenos forestales de dominio público se efectuarán conforme a lo establecido para los montes declarados de utilidad pública. Para las ocupaciones se precisará otorgar concesión administrativa conforme a la legislación reguladora de las mismas.
 
-
 Se declararán de utilidad pública los terrenos forestales de propiedad pública que deban ser conservados y mejorados por su trascendencia hidrológico-forestal o por sus funciones ecológicas o sociales.
-
 
 Los terrenos forestales de propiedad privada que reúnan estas características, tengan una superficie superior a cien hectáreas o estén situados en laderas cuya pendiente media sea igual o superior al 50%. (¿ES UN "O?") podrán ser declarados como protectores por el Consell (con audiencia para sus titulares).
 
@@ -147,7 +140,9 @@ CAPÍTULO V. Registros públicos
 
 Sección primera. Régimen general
 
-Los documentos para la matriculación de fincas colindantes o enclavadas en terrenos forestales de propiedad pública habrán de hacer constar esta circunstancia y se acompañarán de certificación, expedida por la administración forestal, de que no forman parte de dichos terrenos. 2. Los Registradores de la Propiedad, en cuyo término municipal haya terrenos forestales de propiedad pública, están obligados a notificar directamente a la administración forestal todas las matriculaciones que se soliciten de fincas que no estén inscritas a favor de persona alguna, que afecten a terrenos rústicos al amparo del artículo 205 y concordantes de la Ley Hipotecaria.
+Los documentos para la matriculación de fincas colindantes o enclavadas en terrenos forestales de propiedad pública habrán de hacer constar esta circunstancia y se acompañarán de certificación, expedida por la administración forestal, de que no forman parte de dichos terrenos. 
+
+Los Registradores de la Propiedad, en cuyo término municipal haya terrenos forestales de propiedad pública, están obligados a notificar directamente a la administración forestal todas las matriculaciones que se soliciten de fincas que no estén inscritas a favor de persona alguna, que afecten a terrenos rústicos al amparo del artículo 205 y concordantes de la Ley Hipotecaria.
 
 Los montes o terrenos forestales declarados de dominio público o de utilidad pública se inscribirán en el Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunidad Valenciana, y los protectores en el Catálogo de Montes Protectores de la Comunidad Valenciana.
 
@@ -176,7 +171,9 @@ El procedimiento para la declaración de montes de dominio público o para su re
 
 En los términos establecidos en la legislación básica estatal, las corporaciones locales de la Comunidad Valenciana cooperarán con la Generalitat Valenciana para el logro de los objetivos previstos en la presente ley y, en especial, en lo relativo a la vigilancia de. los terrenos forestales. Igualmente, facilitarán a la administración la información propia de su gestión que sea relevante para el cumplimiento de los fines de esta ley.
 
-A los efectos del artículo 45 del Estatuto de Autonomía, podrá delegarse el ejercicio de las competencias a que se refiere la presente ley en los ayuntamientos o en cualquiera de las entidades locales que los agrupen. 
+A los efectos del artículo 45 del Estatuto de Autonomía,
+
+Podrá delegarse el ejercicio de las competencias a que se refiere la presente ley en los ayuntamientos o en cualquiera de las entidades locales que los agrupen. 
 
 La delegación habrá de ser solicitada por el pleno del ayuntamiento u órgano equivalente de la entidad local.
 
@@ -194,6 +191,7 @@ Los consejos forestales de las demarcaciones forestales son órganos consultivos
 
 
 Los consejos forestales de demarcación se coordinarán con los restantes órganos consultivos de participación y coordinación existentes en la Conselleria de Medio Ambiente.
+
 Se crearán los consejos forestales de demarcación en las 12 demarcaciones forestales (antes del 31 de diciembre de 2018): 
 
 1. Sant Mateu

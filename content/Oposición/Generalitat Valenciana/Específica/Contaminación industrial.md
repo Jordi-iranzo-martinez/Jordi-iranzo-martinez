@@ -56,19 +56,23 @@ La Directiva fue transpuesta al ordenamiento jurídico español mediante la Ley 
 
 A efectos de lo establecido en el artículo 10 del Texto Refundido de la Ley de prevención y control integrados de la contaminación, 
 
-Se considerará que se produce una modificación en la instalación cuando se pretenda introducir un cambio no previsto en la autorización ambiental, en condiciones normales de funcionamiento, integrada originalmente otorgada, que afecte a las características, a los procesos productivos, al funcionamiento o a la extensión de la instalación.
+Las modificaciones pueden ser sustanciales o no sustanciales: 
 
-Cuando la modificación establecida no modifique o reduzca las emisiones se considerará la modificación como no sustancial.
+- **Sustancial**: cuando se pretenda introducir un cambio no previsto en la autorización ambiental, en condiciones normales de funcionamiento, integrada originalmente otorgada, que afecte a las características, a los procesos productivos, al funcionamiento o a la extensión de la instalación.
 
-Se considerará modificación sustancial, de acuerdo con el artículo 10.4 del Texto Refundido de la Ley de prevención y control integrados de la contaminación, cuando la modificación de la instalación, represente una mayor incidencia sobre la seguridad, la salud de las personas y el medio ambiente y concurra cualquiera de los siguientes criterios:
+	Se considerará modificación sustancial, de acuerdo con el artículo 10.4 del Texto Refundido de la Ley de prevención y control integrados de la contaminación, cuando la modificación de la instalación, represente una mayor incidencia sobre la seguridad, la salud de las personas y el medio ambiente y concurra cualquiera de los siguientes criterios:
+
+- **No sustancial**: no modifica o reduzca sus emisiones
+
+
 
 - Cualquier ampliación o modificación que alcance, por sí sola, los umbrales de capacidad establecidos, cuando estos existan, en el anejo 1, o si ha de ser sometida al procedimiento de evaluación de impacto ambiental ordinaria de acuerdo con la normativa sobre esta materia.
 
-- Un incremento de más del 50 % de la capacidad de producción de la instalación en unidades de producto.
+- **Capacidad de producción** (unidades de producto): incremento de más del 50 %.
 
-- Cantidad autorizadas de consumo de agua, materias primas, o energía: superior al 50 %.
+- **Cantidad autorizadas de consumo** (agua, materias primas, o energía): superior al 50 %.
 
-- Emisión másica de contaminantes atmosféricos: superior al 25 % (que figuren en la autorización ambiental integrada o del total de las emisiones atmosféricas producidas en cada uno de los focos emisores así como la introducción de nuevos contaminantes en cantidades significativas).
+- **Emisión másica de contaminantes atmosféricos**: superior al 25 % (que figuren en la autorización ambiental integrada o del total de las emisiones atmosféricas producidas en cada uno de los focos emisores así como la introducción de nuevos contaminantes en cantidades significativas).
 
 - Un incremento de la emisión másica o de la concentración de vertidos, al dominio público hidráulico, de cualquiera de los contaminantes o del caudal de vertido que figure en la autorización ambiental integrada, así como la introducción de nuevos contaminantes en cantidades significativas.
 
@@ -124,7 +128,9 @@ No será necesario este informe cuando el titular declare vertido cero, sin perj
 Finalizado el trámite de información pública, el órgano competente remitirá en el plazo de tres días:
 
 - **Al Ayuntamiento** (en cuyo territorio se ubique la instalación): expediente completo y las alegaciones y observaciones recibidas, para que elabore el informe ([artículo 18 de la Ley 16/2002, de 1 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2002-12995#a18 "Abre nueva ventana")).
+
 - **Al organismo de cuenca**: copia de las alegaciones y observaciones recibidas para su consideración.
+
 - **Al resto de órganos** que deban informar sobre las materias de su competencia: copia del expediente completo junto con las alegaciones y observaciones recibidas.
 
 Recibidos los informes anteriores, el órgano competente, tras realizar una evaluación ambiental del proyecto en su conjunto, efectuará el trámite de audiencia al solicitante de la autorización.
@@ -147,7 +153,7 @@ En los supuestos en que la instalación requiera alguno de los medios de interve
 
  De conformidad con lo establecido en los apartados 1, 2 y 3 del artículo 26 del Texto Refundido de la Ley de prevención y control integrados de la contaminación, tras la publicación de las conclusiones relativas a las MTD, 
  
- l órgano competente para otorgar la autorización ambiental integrada solicitará previamente a los órganos que deban pronunciarse sobre las diferentes materias ambientales de su competencia que, en el plazo de diez días, indiquen qué documentación estiman necesario revisar.
+ El órgano competente para otorgar la autorización ambiental integrada solicitará previamente a los órganos que deban pronunciarse sobre las diferentes materias ambientales de su competencia que, en el plazo de diez días, indiquen qué documentación estiman necesario revisar.
 
 Asimismo, si el organismo de cuenca estima que existen circunstancias que justifican la revisión de la autorización ambiental integrada, solicitará al órgano competente para otorgar la autorización que inicie los trámites previstos en los apartados siguientes.
 
@@ -165,38 +171,42 @@ Para los supuestos de revisión de oficio indicados en los apartados a), b), c) 
 
 En el [capítulo III del título Real Decreto 815/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-10949&p=20230125&tn=1#ciii) aparece lo siguiente respecto a la inspección y control:
 
-- **Sistemas de inspección ambiental**
+- **Sistemas de inspección ambiental**: de los órganos competentes para realizar las tareas de inspección ambiental, para las instalaciones catalogadas (artículo 30.2 del Real Decreto Legislativo 1/2016).
 
-De acuerdo con el artículo 30.2 del Texto Refundido de la Ley de prevención y control integrados de la contaminación, los órganos competentes para realizar las tareas de inspección ambiental contarán con un sistema de inspección ambiental para las instalaciones incluidas en el ámbito de aplicación del Texto Refundido de la Ley de prevención y control integrados de la contaminación, ubicadas en su territorio.
+	Incluirá el análisis de toda la gama de efectos ambientales relevantes de la instalación de que se trate y garantizará un adecuado nivel de comprobación del cumplimiento ambiental.
 
-El sistema de inspección ambiental incluirá el análisis de toda la gama de efectos ambientales relevantes de la instalación de que se trate y garantizará un adecuado nivel de comprobación del cumplimiento ambiental.
+	Las Administraciones Públicas competentes asegurarán la adecuada y suficiente dotación de medios personales y materiales para los sistemas de inspección ambiental, velando por la aptitud profesional del personal que los integre y proporcionando los recursos necesarios para la prestación del servicio en condiciones de seguridad y eficacia.
 
-Las Administraciones Públicas competentes asegurarán la adecuada y suficiente dotación de medios personales y materiales para los sistemas de inspección ambiental, velando por la aptitud profesional del personal que los integre y proporcionando los recursos necesarios para la prestación del servicio en condiciones de seguridad y eficacia.
+ - **Labor de inspección ambiental**: por funcionarios adscritos al órgano competente, con la condición de agentes de la autoridad. Podrán ir acompañados de asesores técnicos, por una labor consultiva (no agentes de la autoridad), que deberán estar -junto con las entidades designadas- identificados por los órganos competentes, y guardar secreto de los datos e informaciones. La persona titular está obligada a lo siguiente:
+- 
+	 - **Acceso**: permitir el acceso (aun sin previo aviso y debidamente identificados) a los inspectores ambientales, a los asesores técnicos y a las entidades designadas  cuando vayan acompañados de los inspectores o cuando el titular de la instalación no se oponga
+	
+	- **Colaboración**: facilitando la información y documentación que le sea requerida.
+	
+	- **Asistencia**: para la toma de muestras o medios de prueba
 
- 
- - **Labor de inspección ambiental**: por funcionarios adscritos al órgano competente, con la condición de agentes de la autoridad. Podrán ir acompañados de asesores técnicos, por una labor consultiva (no agentes de la autoridad), que deberán estar -junto con las entidades designadas- identificados por los órganos competentes, y guardar secreto de los datos e informaciones.
-
-	La persona titular está obligada a permitir el acceso (aun sin previo aviso y debidamente identificados) a los inspectores ambientales, a los asesores técnicos y a las entidades designadas del [artículo 29.1 de la Ley 16/2002](https://www.boe.es/buscar/act.php?id=BOE-A-2002-12995#a29 "Abre nueva ventana"), 1 de julio, cuando vayan acompañados de los inspectores o cuando el titular de la instalación no se oponga.
-
-b) Prestar la colaboración necesaria facilitando cuanta información y documentación le sea requerida al efecto.
-
-, prestar colaboración (facilitando información y documentación requerida), y prestando asistencia para la toma de muestras o medios de prueba.
-
-*En las instalaciones de cría intensiva de aves de corral o de cerdos (epígrafe 9.3 del anejo 1), se realizará cumpliendo las limitaciones de la normativa de sanidad ambiental (acceso, toma de muestras, prueba...)*
+	*En las instalaciones de cría intensiva de aves de corral o de cerdos (epígrafe 9.3 del anejo 1), se realizará cumpliendo las limitaciones de la normativa de sanidad ambiental (acceso, toma de muestras, prueba...)*
 
 - **Planificación**
 
-	- **Plan de inspección**: para todas las instalaciones del ámbito de aplicación, garantizada por los órganos competentes de inspección, con una periodicidad (revisión, actualización) establecida por cada órgano competente, que incluya lo siguiente: evaluación general, zona cubierta, instalaciones cubiertas, procedimiento de elaboración de los programas, y procedimientos de inspecciones (programas y no programadas), y cooperación administrativa (en su caso) (especialmente con los organismos de cuenca y órganos de inspección autonómica).
+	- **Plan de inspección**: para todas las instalaciones del ámbito de aplicación, garantizada por los órganos competentes de inspección, con una periodicidad (revisión, actualización) establecida por cada órgano competente, que incluya lo siguiente: 
+		- **Evaluación general**
+		- **Zona cubierta**
+		- **Instalaciones cubiertas**
+		- **Procedimiento de elaboración de los programas**
+		- **Procedimientos de inspecciones** (programas y no programadas)
+		- **Cooperación administrativa** (en su caso) (especialmente con los organismos de cuenca y órganos de inspección autonómica).
 	
 	- **Programas de inspección**: por los órganos competentes, que incluyan la la frecuencia de las visitas de inspección a los emplazamientos para los distintos tipos de instalaciones, teniendo en cuenta los siguientes parámetros:
 
-a) De acuerdo con lo establecido en el artículo 12.3, la visita de inspección a estas instalaciones se realizará en el plazo de un año desde el inicio de la actividad.
+		- **Visita**: en el plazo de un año (desde el inicio de la actividad)
 
-b) El período entre dos visitas in situ se basará en una evaluación de los riesgos de las instalaciones correspondientes, y no superará un año en las instalaciones que planteen los riesgos más altos y tres años en las instalaciones que planteen riesgos menores.
+		- **Periodos** 
+			b) El período entre dos visitas in situ se basará en una evaluación de los riesgos de las instalaciones correspondientes, y no superará un año en las instalaciones que planteen los riesgos más altos y tres años en las instalaciones que planteen riesgos menores.
+	
+		- **Grave incumplimiento**: se producirá una visita adicional en un plazo no superior a 7 meses (sin perjuicio del régimen sancionador correspondiente)
 
-c) Si una inspección hace patente un grave incumplimiento de las condiciones de la autorización ambiental integrada, sin perjuicio del régimen sancionador previsto en la [Ley 16/2002, de 1 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2002-12995 "Abre nueva ventana"), en un plazo no superior a seis meses se realizará una visita adicional a la instalación.
-
-Los planes y programas deberán ponerse a disposición del público, entre otros por medios electrónicos, sin mas limitaciones que las establecidas en la [Ley 27/2006, de 18 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana"), por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+Los planes y programas deberán ponerse a disposición del público, entre otros por medios electrónicos ([Ley 27/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana")).
 
 La evaluación sistemática de los riesgos ambientales se basará, al menos, en el impacto potencial y real de las instalaciones sobre la salud humana y el medio ambiente (según los niveles y tipos de emisión, la sensibilidad del medio ambiente local, y el riesgo de accidente). el historial de cumplimiento de las condiciones, y la participación en el sistema de gestión y auditoría ambientales (EMAS) ([Real Decreto 239/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-3906 "Abre nueva ventana")).
 
@@ -252,41 +262,47 @@ En la Comunidad Valenciana se creó la [Ley 6/2014](https://dogv.gva.es/auto/dog
 
 #### Disposiciones generales
 
-La Ley tiene por objeto establecer el régimen jurídico al que se someten las actividades incluidas en el ámbito de aplicación de esta ley en función de su potencial incidencia ambiental.
+El objeto es establecer el régimen jurídico al que se someten las actividades reguladas por su potencial incidencia ambiental:
 
-Se consideran actividades con incidencia ambiental aquellas susceptibles de producir molestias, alterar las condiciones de salubridad del medio ambiente u ocasionar riesgos o daños a las personas o al medio ambiente.
+>Aquellas susceptibles de producir molestias, alterar las condiciones de salubridad del medio ambiente u ocasionar riesgos o daños a las personas o al medio ambiente.
 
 Los fines son los siguientes:
 
 - **Protección del medio ambiente**: a) Obtener un alto nivel de protección del medio ambiente en su conjunto para la consecución del derecho a disfrutar de un medio ambiente adecuado, mediante la utilización de los instrumentos necesarios para prevenir, reducir, corregir y controlar los efectos ambientales de las actividades.
 
-- Garantizar la colaboración y coordinación de las administraciones públicas que deban intervenir para el establecimiento, explotación, traslado y modificación de las instalaciones o actividades comprendidas en la presente ley o de las características o funcionamiento de las mismas.
+- **Colaboración y coordinación administrativa**: de las administraciones públicas que deban intervenir para el establecimiento, explotación, traslado y modificación de las instalaciones o actividades comprendidas en la presente ley o de las características o funcionamiento de las mismas.
 
-- Facilitar la actividad productiva y económica a través de la racionalización y simplificación de los procedimientos, la integración de trámites administrativos que suponen demoras temporales en los procedimientos y la reducción de cargas administrativas. Para alcanzar este fin la presente ley contempla las siguientes actuaciones:
+- **Actividad productiva y económica** a través de la racionalización y simplificación de los procedimientos, la integración de trámites administrativos que suponen demoras temporales en los procedimientos y la reducción de cargas administrativas. Para alcanzar este fin la presente ley contempla las siguientes actuaciones:
 
-	1.º Limitar las autorizaciones o licencias previas a los supuestos justificados por razones de interés general, conforme a criterios de necesidad, proporcionalidad y no discriminación, habida cuenta de los riesgos y peligros que para el medio ambiente se derivarían de la inexistencia de un control a priori.
+	- **Autorizaciones o licencias previas** a los supuestos justificados por razones de interés general, conforme a criterios de necesidad, proporcionalidad y no discriminación, habida cuenta de los riesgos y peligros que para el medio ambiente se derivarían de la inexistencia de un control a priori.
 	
-	2.º Remitir al régimen de declaración responsable ambiental las actividades respecto de las que puede efectuarse un control a posteriori dada su escasa incidencia ambiental.
+	- **Declaración responsable ambiental** las actividades respecto de las que puede efectuarse un control a posteriori dada su escasa incidencia ambiental.
 	
-	3.º Remitir al régimen de comunicación de actividades inocuas las actividades de nula incidencia ambiental.
+	- **Comunicación**: de actividades inocuas las actividades de nula incidencia ambiental.
 
-- **Desarrollo sostenible**: d) Contribuir a hacer efectivo el desarrollo sostenible mediante un sistema de intervención administrativa ambiental que armonice el desarrollo económico y social de las actividades con la protección del medio ambiente.
+- **Desarrollo sostenible**: mediante un sistema de intervención administrativa ambiental que armonice el desarrollo económico y social de las actividades con la protección del medio ambiente.
 
-La Ley es aplicable a las actividades que se desarrollen en la Comunidad Valenciana de las categorías (Anexos I y II), que alcancen los umbrales de capaciadd (con las excepciones de la normativa estatal básica). De acuerdo a la incidencia medioambiental, se someten a autorización ambiental integrada, y a licencia ambiental.
+La aplicación incluye las actividades de la Comunidad Valenciana siguientes, de acuerdo a su incidencia ambiental: 
 
-Asimismo se aplica a las actividades que se desarrollen en el ámbito territorial de la Comunitat Valenciana que, por su escasa o nula incidencia ambiental, no requieren previa resolución expresa que habilite su ejercicio. El anexo III de la presente ley establece las condiciones para su inclusión en el régimen de declaración responsable ambiental o de comunicación de actividades inocuas.
+- **Media o elevada**: que alcancen los umbrales de capacidad (con las excepciones de la normativa estatal básica). Requieren resolución expresa previa:
+	- **Autorización ambiental integrada** (Anexo I): para las más agresivas
+	- **Licencia ambiental** (Anexo II)
 
-El régimen jurídico ambiental contemplado en la presente ley no exime de la obtención de otras autorizaciones o de la formalización de comunicaciones o declaraciones que, para el ejercicio de determinadas actividades, vengan exigidas por la normativa de carácter sectorial no ambiental, en particular en materia urbanística, de industria, seguridad, turismo, sanitaria, educativa, de patrimonio histórico o cultural, laboral y comercial.
+- **Escasa o nula**: no requieren resolución expresa previa. Clasificada según determinados criterios (Anexo III):
+	- **Declaración responsable ambiental**
+	- **Comunicación de actividades inocuas**
+
+*El régimen jurídico ambiental no exime de otros requerimientos de autorizaciones o comunicaciones exigidas por otra normativa sectorial (urbanismo, industria, seguridad, turismo, sanitario, educativo, patrimonio histórico o cultural, laboral, comercial...)*
 
 *Quedan excluidos los espectáculos públicos, actividades recreativas y establecimientos abiertos a la pública concurrencia (normativa específica... Ley de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos de la Comunitat Valenciana...), así como las actividades comerciales minoristas y la prestación de servicios incluidos en el ámbito de aplicación de la Ley 12/2012 (o norma que la sustituya).
 
-Además de las definiciones establecidas en la normativa básica estatal en materia de prevención y control integrados de la contaminación, a los efectos de la presente ley se entiende por:
+Se añaden las siguientes definiciones (junto con las establecidas en la normativa básica estatal: artículo XXXXX):
 
-1. **Actividad:** proceso o explotación que se lleva a cabo en una determinada instalación industrial, ganadera, minera o en establecimiento comercial, de servicios, almacenes u otros, de titularidad pública o privada.
+1. **Actividad:** proceso o explotación llevado a cabo en una determinada instalación industrial, ganadera, minera o establecimiento comercial, de servicios, almacenes u otros, de titularidad pública o privada.
 
 2. **Autorización ambiental integrada**: la resolución escrita del órgano competente de la Generalitat, por la que se permite, a los efectos de la protección del medio ambiente y de la salud de las personas, explotar la totalidad o parte de una instalación, bajo determinadas condiciones destinadas a garantizar que la misma cumple el objeto y las disposiciones de esta ley. Tal autorización podrá ser válida para una o más instalaciones o partes de instalaciones que tengan la misma ubicación.
 
-3. **Autorización sustantiva**: intervención administrativa previa de las industrias o sus instalaciones, para su establecimiento o funcionamiento (artículo 4 de la Ley 21/1992) y, en particular, las autorizaciones o las declaraciones responsables o comunicaciones establecidas en las siguientes normas: Ley 54/1997, de 27 de noviembre, del Sector Eléctrico; Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos; y el capítulo II de la Ley Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana, en lo referente a las instalaciones químicas para la fabricación de explosivos, así como las autorizaciones establecidas en la Ley 22/1973, de 21 de julio, de Minas, o normas que las sustituyan.
+3. **Autorización sustantiva**: intervención administrativa previa de las industrias o sus instalaciones, para su establecimiento o funcionamiento (artículo 4 de la Ley 21/1992) y, en particular, las autorizaciones o las declaraciones responsables o comunicaciones (Ley 54/1997, la Ley 34/1998, el capítulo II de la Ley Orgánica 1/1992 (instalaciones químicas para la fabricación de explosivos), y las autorizaciones de la Ley 22/1973 (o normas que las sustituyan)
 
 4. **Comunicación de actividades inocuas**: el documento mediante el que el titular de la actividad pone en conocimiento de la administración pública correspondiente el inicio de la actividad, así como sus datos identificativos y demás requisitos que sean exigibles para el ejercicio de la actividad.
 
@@ -296,25 +312,25 @@ Además de las definiciones establecidas en la normativa básica estatal en mate
 
 7. **Inspección ambiental**: toda acción llevada a cabo por la autoridad competente o en nombre de esta para comprobar el ejercicio medioambientalmente correcto de la actividad, así como para controlar y asegurar su adecuación a las condiciones de funcionamiento exigibles. Se incluyen, entre otras acciones, las visitas in situ, la medición de emisiones, la comprobación de informes internos y documentos de seguimiento, la verificación de autocontroles, la comprobación de técnicas usadas y la adecuación de la gestión ambiental de la instalación. El fin de la inspección es garantizar el cumplimiento de la normativa ambiental de las actividades incluidas en el ámbito de aplicación de esta norma.
 
-8. **Instalación:** una unidad técnica fija dentro de la cual se lleven a cabo una o más de las actividades enumeradas en el correspondiente anexo de la presente ley, así como cualesquiera otras actividades en el mismo emplazamiento directamente relacionadas con aquellas que guarden relación de índole técnica y puedan tener repercusiones sobre las emisiones y la contaminación.
+8. **Instalación:** unidad técnica fija dentro de la cual se lleven a cabo una o más de las actividades reguladas, y otras actividades en el mismo emplazamiento directamente relacionadas con aquellas que guarden relación de índole técnica y puedan tener repercusiones sobre las emisiones y la contaminación.
 
-9. **Intervención administrativa:** la actividad administrativa de control preventivo de las actividades, manifestada mediante la concesión de autorizaciones, licencias u otros permisos previos para el ejercicio de una actividad, así como la actividad administrativa de control posterior al inicio de la actividad.
+9. **Intervención administrativa:** actividad de control de determinadas actividades mediante la concesión de permisos previo a su ejercicio, así como su examen posterior..
 
 10. **Intervención ambiental**: aquella de índole administrativa a que se someten determinadas actividades de acuerdo al ordenamiento jurídico ambiental.
 
 11. **Intervención no ambiental:** la intervención administrativa a que se someten determinadas actividades en virtud de un ordenamiento jurídico distinto del ambiental. En particular, se incluye la autorización o concesión de utilización del dominio público hidráulico, del dominio público marítimo-terrestre (excepto vertidos tierra-mar), así como la intervención urbanística, de industria, seguridad, turística, sanitaria, educativa, de patrimonio histórico o cultural, laboral, comercial y de actividades recreativas y establecimientos públicos.
 
-12. **Licencia ambiental**: la resolución escrita del órgano competente del municipio en el que se ubique la instalación a través de la cual se autoriza la explotación de la totalidad o parte de una instalación o establecimiento incluido en el anexo II de la presente ley. La licencia podrá ser válida para una o más instalaciones o partes de instalaciones que tengan la misma ubicación.
+12. **Licencia ambiental**: resolución escrita del órgano competente del municipio en el que se ubique la instalación a través de la cual se autoriza la explotación de la totalidad o parte de una instalación o establecimiento regulado (Anexo II). Podrá ser válida para una o más instalaciones o partes en la misma ubicación.
 
-13. **Modificación no sustancial:** aquella que sin embargo pueda tener consecuencias en la seguridad o salud de las personas o el medio ambiente. de las características, funcionamiento, o extensión de la instalación, que, sin tener la consideración de sustancial, pueda tener consecuencias en la seguridad, la salud de las personas o el medio ambiente.
+13. **Modificación no sustancial:** aquella que pese a no cumplir determinados criterios, pueda tener consecuencias en la seguridad o salud de las personas o el medio ambiente, por sus características, funcionamiento, o extensión.
 
-14. **Modificación sustancial:** cualquier modificación realizada en una instalación que, en opinión del órgano competente para otorgar el correspondiente instrumento de intervención y de acuerdo con los criterios establecidos en la presente ley, pueda tener repercusiones perjudiciales o importantes en las personas y el medio ambiente.
+14. **Modificación sustancial:** cualquier que pueda tener repercusiones perjudiciales o importantes en las personas y el medio ambiente, de acuerdo al órgano competente para otorgar el correspondiente instrumento de intervención y a determinados criterios.
 
 15. **Órgano ambiental:** unidad administrativa (estatal o autonómica) competente para la evaluación ambiental de proyectos, planes y programas.
 
-16. **Órgano sustantivo ambiental:** el órgano de la administración pública competente para otorgar la autorización ambiental integrada o la licencia ambiental o, en su caso, para controlar la actividad sujeta a declaración responsable ambiental o a comunicación de actividades inocuas.
+16. **Órgano sustantivo ambiental:** órgano administrativo competente para otorgar la autorización ambiental integrada o la licencia ambiental o  controlar la actividad sujeta a declaración responsable ambiental o a comunicación de actividades inocuas.
 
-17. **Personas interesadas:** ***todos aquellos en quienes concurran cualquiera de las circunstancias previstas en el artículo 31 de la Ley 30/1992, de 26 de noviembre, así como cualesquiera personas jurídicas sin ánimo de lucro que cumplan los requisitos establecidos en la Ley 27/2006, de 18 de julio, o norma que la sustituya.***
+17. **Personas interesadas:** aquellas para el procedimiento administrativo ([artículo 4 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565&p=20241106&tn=1#a4)), y las personas jurídicas sin ánimo de lucro que cumplan los requisitos ([artículo 23 de la Ley 27/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010&p=20080126&tn=1#a23)).
 
 18. **Público:** cualquier persona (física o jurídica), así como sus asociaciones, organizaciones y grupos.
 
@@ -323,14 +339,14 @@ Además de las definiciones establecidas en la normativa básica estatal en mate
 
 #### Régimen general de intervención administrativa ambiental
 
-Las instalaciones y actividades incluidas en el ámbito de aplicación de la presente ley se someten, según el mayor o menor grado de potencial incidencia sobre el medio ambiente, a alguno de los siguientes instrumentos de intervención ambiental:
+Las instalaciones y actividades reguladas requieren los siguientes instrumentos de intervención ambiental (según la incidencia potencial en el medio ambiente):
 
 - **Autorización ambiental integrada**: actividades del Anexo I.
 - **Licencia ambiental**: actividades del Anexo II.
-- **Declaración responsable ambiental**, para las actividades que no estén incluidas, atendiendo a su escasa incidencia ambiental, ni en el régimen de autorización ambiental integrada ni en el de licencia ambiental, y que incumplan alguna de las condiciones establecidas en el anexo III de la presente ley para poder ser consideradas inocuas.
+- **Declaración responsable ambiental**: otras, de escasa incidencia ambiental.
 - **Comunicación de actividades inocuas**: actividades sin incidencia ambiental (condiciones del Anexo III).
 
-Si una misma persona física o jurídica solicitara ejercer diversas actividades en una misma instalación sujetándose a diferentes regímenes de intervención de los establecidos en la presente ley, la solicitud deberá tramitarse y resolverse en una sola autorización o licencia, debiendo aplicarse el régimen que corresponda a la actividad con mayor incidencia ambiental.
+Si una misma persona solicitara ejercer diversas actividades en una instalación sujeta a diferentes regímenes de intervención, deberá tramitarla como una única autorización o licencia, y aplicarse el régimen de mayor incidencia.
 
 ### Artículo 14. Integración y coordinación con el procedimiento de evaluación de impacto ambiental
 
@@ -343,13 +359,20 @@ Cuando corresponda al órgano ambiental de la Administración General del Estado
 
 Si durante la tramitación del procedimiento de autorización ambiental integrada se observase, conforme a la normativa urbanística, la necesidad de formular plan especial para la actividad proyectada, la evaluación de impacto ambiental de dicho plan se efectuará en el procedimiento de autorización ambiental integrada conjuntamente con el proyecto, siempre y cuando coincida el ámbito territorial incluyendo, en su caso, los accesos a la instalación proyectada y demás instalaciones complementarias.
 
-Sin perjuicio de lo anterior, el procedimiento de autorización ambiental integrada podrá suspenderse hasta que se incorpore al expediente la aprobación del plan especial.
+El procedimiento de autorización ambiental integrada podrá suspenderse hasta que se incorpore al expediente la aprobación del plan especial.
 
-Cuando la actividad esté sometida a licencia ambiental y requiera de la previa evaluación de impacto ambiental por el órgano autonómico de acuerdo con la normativa vigente en la materia, el estudio de impacto ambiental será sometido, dentro del procedimiento de licencia ambiental, y conjuntamente con el proyecto, al trámite de información pública y demás informes establecidos en dicho procedimiento, debiendo obtenerse declaración de impacto ambiental con carácter previo a la concesión de la licencia ambiental.
+
+Cuando la actividad esté sometida a licencia ambiental y requiera evaluación de impacto ambiental por el órgano autonómico, el estudio de impacto ambiental se someterá a información pública (y demás informes regulados), debiendo obtenerse previamente la declaración de impacto ambiental.
+
+
 
 ### Artículo 15. Integración y coordinación con otros pronunciamientos ambientales de carácter sectorial
 
-Se integran en la autorización ambiental integrada las autorizaciones de vertidos a las aguas continentales, incluidos los vertidos al sistema integral de saneamiento, y al dominio público marítimo-terrestre, desde tierra al mar, así como las autorizaciones y/o comunicaciones en materia de residuos, las determinaciones de carácter ambiental en materia de contaminación atmosférica, incluidas las referentes a los compuestos orgánicos volátiles y aquellas otras que, en su caso, determine la normativa básica estatal en materia de prevención y control integrados de la contaminación.
+Se integran en la autorización ambiental integrada las siguientes:
+
+- **Vertidos a las aguas continentales** (autorizaciones): incluidos los vertidos al sistema integral de saneamiento, y al dominio público marítimo-terrestre, desde tierra al mar
+- **Residuos** (autorizaciones y/o comunicaciones)
+- **Contaminación atmosférica** (determinaciones de carácter ambiental): incluidas las referentes a los compuestos orgánicos volátiles y aquellas que, determine la normativa básica estatal en materia de prevención y control integrados de la contaminación.
 
 En las actividades sujetas a licencia ambiental, con carácter previo a su otorgamiento por el ayuntamiento, los titulares deberán obtener de la administración autonómica o estatal, según proceda, las correspondientes autorizaciones o formalizar las comunicaciones que vengan exigidas con carácter sectorial por la normativa ambiental.
 
@@ -357,74 +380,57 @@ Cuando dichas autorizaciones o actos sean de competencia autonómica y no esté 
 
 Cuando la actividad se incluya en el régimen de declaración responsable ambiental o de comunicación de actividades inocuas, con carácter previo a su presentación ante el ayuntamiento deberán obtenerse las autorizaciones o formalizarse las comunicaciones que procedan de acuerdo con la normativa sectorial ambiental.
 
-### Artículo 16. Cambio de titularidad
+El cambio de titularidad de la actividad deberá ser comunicado por escrito por el nuevo titular al órgano sustantivo competente, en un plazo máximo de un mes (desde la transmisión), acompañando título o documento acreditativo, y manifestando su conformidad con las obligaciones, responsabilidades y derechos del instrumento de intervención ambiental aplicable (autorización, licencia...)
 
-El cambio de titularidad de la actividad deberá ser comunicado por el nuevo titular al órgano sustantivo ambiental competente en función del instrumento de intervención a que se sujete la actividad, debiendo efectuarse por escrito en el plazo máximo de un mes desde que se hubiera formalizado la transmisión, acompañando título o documento admisible en derecho que la acredite.
+El órgano sustantivo ambiental (previa acreditación cuando proceda de las garantías legalmente exigibles por el nuevo titular) acusará recibo de la comunicación y (para la autorización ambiental integrada o licencia ambiental) dictará resolución expresa.
 
-En dicha comunicación, el nuevo titular manifestará su conformidad con las obligaciones, responsabilidades y derechos establecidos en la autorización ambiental integrada, licencia ambiental o los derivados de los restantes instrumentos de intervención ambiental.
-
-Efectuada la comunicación, el órgano sustantivo ambiental, previa acreditación cuando proceda de la prestación de las garantías legalmente exigibles por el nuevo titular, acusará recibo de dicha comunicación y, en el supuesto de autorización ambiental integrada o licencia ambiental, procederá a dictar resolución expresa de cambio de titularidad.
-
-La comunicación regulada en el presente artículo es independiente de la contemplada como obligación del anterior titular en el artículo 5.e de la presente ley.
-
-El incumplimiento por el anterior o el nuevo titular de su respectiva obligación de comunicación se considera infracción grave (artículo 93.3, letra g)).
+*Esta comunicación es independiente de la obligación del anterior titular (artículo 5.e). El incumplimiento (del nuevo o antiguo titular) se considera infracción grave (artículo 93.3.g).
 
 El cambio de emplazamiento de la actividad implicará la necesidad de obtener nuevamente el instrumento de intervención ambiental correspondiente.
 
+Son órganos sustantivos ambientales los siguientes:
 
-## CAPÍTULO II. Órganos competentes
+- **Dirección general sobre contaminación**: tramitación y resolución de la autorización ambiental integrada, y recepción de la declaración responsable.
 
-### Artículo 18. Órganos sustantivos ambientales
+- **Ayuntamientos**: tramitación y resolución de la licencia ambiental y recepción de la comunicación de puesta en funcionamiento, de la declaración responsable y de la comunicación de actividades inocuas.
 
-A los efectos de la presente ley, son órganos sustantivos ambientales los siguientes:
+Serán igualmente competentes para la vigilancia y el control del cumplimiento, y el ejercicio de la potestad sancionadora (título VI) *(sin perjuicio de las facultades de otros órganos por razón de la materia)*.
 
-- **Dirección general sobre contaminación**: tramitación y resolución del procedimiento de autorización ambiental integrada, así como para la recepción de la declaración responsable de inicio de la actividad objeto de la citada autorización.
-
-- **Ayuntamientos**: tramitación y resolución del procedimiento de licencia ambiental; para la recepción de la comunicación de puesta en funcionamiento de la actividad objeto de la licencia otorgada; así como para la recepción de la declaración responsable ambiental y de la comunicación de actividades inocuas.
-
-Dichos órganos serán igualmente competentes, en el ámbito de sus respectivas competencias, para la vigilancia y el control del cumplimiento de las condiciones establecidas en el respectivo instrumento de intervención ambiental, así como para el ejercicio de la potestad sancionadora (título VI) (sin perjuicio de las facultades que correspondan a otros órganos administrativos por razón de la materia).
-
-En particular, en cuanto a los condicionantes establecidos en virtud de la evaluación de impacto ambiental del proyecto, el órgano ambiental podrá recabar información del órgano sustantivo ambiental que haya otorgado la autorización o licencia, así como efectuar las comprobaciones necesarias para verificar el cumplimiento de dichos condicionantes.
+En caso de condiciones, el órgano ambiental podrá recabar información del órgano sustantivo que haya otorgado la autorización o licencia, y comprobar su cumplimiento.
 
 Cuando los proyectos se encuentren sometidos a evaluación de impacto ambiental por la administración autonómica, la Dirección General será el órgano ambiental (en caso de competencia estatal, se establecería por normativa estatal: ***poner artículo concreto***).
 
 Son órganos colegiados los siguientes: 
 
-1. **Comisión de Análisis Ambiental Integrado**: órgano superior (adscrito a la Conselleria) compuesto por representantes de los distintos órganos y administraciones públicas intervinientes en el procedimiento de autorización ambiental integrada, adscrito a la consellería competente en materia de medio ambiente a través de la dirección general con competencias en prevención y control integrados de la contaminación y dependiente de esta.
+- **Comisión de Análisis Ambiental Integrado**: órgano superior (adscrito a la Conselleria) compuesto por representantes de los distintos órganos y administraciones públicas intervinientes en el procedimiento de autorización ambiental integrada. Adscrita a la Conselleria de medio ambiente a través de la Dirección General con competencia en calidad ambiental.
 
-|             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Composición | Representantes de los órganos y administraciones públicas del procedimiento de **autorización ambiental integrada**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Funciones   | - Dictamen ambiental del proyecto en su conjunto<br>- Elevar propuesta de resolución al órgano sustantivo ambiental competente para resolver el procedimiento de autorización ambiental integrada y, en su caso, revisión de la misma<br>- En caso de modificación sustancial de la autorización ambiental integrada, las indicadas en el apartado b) del presente artículo.<br>- Evaluar y proponer las medidas a incluir en la autorización ambiental integrada para la concesión de excepciones temporales de los valores límite de emisión aplicables, en los casos en que proceda de conformidad con lo establecido en la normativa vigente en la materia.<br>- Establecer los criterios de actuación de las comisiones territoriales de Análisis Ambiental Integrado y evacuar las consultas que les eleven.<br>- Cualesquiera otras que guarden relación con el análisis ambiental del proyecto en su conjunto.<br>*Podrá formarse por ponencias técnicas para la formulación de propuestas de dictamen ambiental.* |
+- **Comisiones territoriales de Análisis Ambiental Integrado**: en cada provincia, compuestos por los órganos y administraciones con competencias en la actividad objeto de la licencia ambiental. Adscrita a la Conselleria de medio ambiente a través de las direcciones territoriales.
 
-2. **Comisiones territoriales de Análisis Ambiental Integrado**: en cada provincia
-
-|             |                                                                                                                                                                                                                                  |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Composición | órganos y administraciones con competencias en la actividad objeto de la licencia ambiental, adscrita a la consellería competente en materia de medio ambiente a través de las direcciones territoriales y dependientes de estas |
-| Función     | - Dictamen ambiental de los proyectos objeto de licencia ambiental (artículo 58)                                                                                                                                                 |
-
+|                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Comisión de Análisis Ambiental Integrado                 | - **Dictamen ambiental**: del proyecto en su conjunto<br>- Elevar propuesta de resolución al órgano sustantivo ambiental competente para resolver el procedimiento de autorización ambiental integrada y, en su caso, revisión de la misma<br>- En caso de modificación sustancial de la autorización ambiental integrada, las indicadas en el apartado b) del presente artículo.<br>- Evaluar y proponer las medidas a incluir en la autorización ambiental integrada para la concesión de excepciones temporales de los valores límite de emisión aplicables, en los casos en que proceda de conformidad con lo establecido en la normativa vigente en la materia.<br>- **Comisiones territoriales de Análisis Ambiental Integrado**: criterios de actuación y evacuación de las consultas que les eleven.<br>- **Otras**: que guarden relación con el análisis ambiental del proyecto en su conjunto.<br>*Podrá formarse por ponencias técnicas para la formulación de propuestas de dictamen ambiental.* |
+| Comisiones territoriales de Análisis Ambiental Integrado | - **Dictamen ambiental**: de los proyectos objeto de licencia ambiental (artículo 58)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 *El régimen de funcionamiento de los órganos colegiados contemplados en el presente artículo será el previsto con carácter general por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin perjuicio de las normas de funcionamiento que puedan establecerse de acuerdo con el artículo 22.2 de dicha ley.*
 
 
-En el supuesto de proyectos sujetos a evaluación de impacto ambiental, con el carácter que venga establecido por la normativa vigente en la materia, el promotor podrá presentar, ante el órgano sustantivo ambiental, solicitud dirigida al órgano ambiental de elaboración del documento de alcance del estudio de impacto ambiental, acompañando documento inicial del proyecto con el contenido mínimo y requisitos formales establecidos en la normativa de evaluación de impacto ambiental de proyectos.
+***En el supuesto de proyectos sujetos a evaluación de impacto ambiental, con el carácter que venga establecido por la normativa vigente en la materia, el promotor podrá presentar, ante el órgano sustantivo ambiental, solicitud dirigida al órgano ambiental de elaboración del documento de alcance del estudio de impacto ambiental, acompañando documento inicial del proyecto con el contenido mínimo y requisitos formales establecidos en la normativa de evaluación de impacto ambiental de proyectos.***
 
-El órgano ambiental comunicará al promotor la amplitud y el nivel de detalle del estudio de impacto ambiental, así como las contestaciones recibidas a las consultas que hayan sido efectuadas, en el plazo máximo de tres meses, computándose dicho plazo desde la recepción por el órgano ambiental de la solicitud y del documento inicial del proyecto.
+***El órgano ambiental comunicará al promotor la amplitud y el nivel de detalle del estudio de impacto ambiental, así como las contestaciones recibidas a las consultas que hayan sido efectuadas, en el plazo máximo de tres meses, computándose dicho plazo desde la recepción por el órgano ambiental de la solicitud y del documento inicial del proyecto.***
 
 
-Con carácter previo a la presentación de la solicitud o formulación de los instrumentos de intervención ambiental regulados en esta ley es preceptivo solicitar del ayuntamiento del municipio en el que vaya a ubicarse la instalación la expedición de un informe acreditativo de la compatibilidad del proyecto con el planeamiento urbanístico y, en su caso, con las ordenanzas municipales relativas al mismo.
+***Con carácter previo a la presentación de la solicitud o formulación de los instrumentos de intervención ambiental regulados en esta ley es preceptivo solicitar del ayuntamiento del municipio en el que vaya a ubicarse la instalación la expedición de un informe acreditativo de la compatibilidad del proyecto con el planeamiento urbanístico y, en su caso, con las ordenanzas municipales relativas al mismo.***
 
 Con la solicitud de informe urbanístico municipal deberán acompañarse los siguientes documentos:
 
-- **Planos**: georreferenciado (autorización ambiental integrada) y de emplazamiento  (otros instrumentos), en el que figure la totalidad de la parcela ocupada por la instalación proyectada.
+- **Planos**: georreferenciados (autorización ambiental integrada) y de emplazamiento (otros instrumentos), en el que figure la totalidad de la parcela ocupada por la instalación proyectada.
 - **Memoria descriptiva** de la instalación y actividad con sus características principales.
 - **Necesidades**: de uso y aprovechamiento del suelo.
 - **Requerimientos** de la instalación respecto a los servicios públicos esenciales.
 
 Dicho informe, que será vinculante cuando sea negativo, deberá emitirse en el plazo máximo de un mes desde su solicitud y versará sobre los siguientes aspectos:
 
-- Planeamiento al que está sujeta la finca y su localización sobre plano según el planeamiento urbanístico vigente.
+- **Planificación**: planeamiento de la finca y localización cartográfico de acuerdo a la ordenación urbanística vigente.
 - **Clasificación y calificación urbanística del suelo**. En el supuesto de que la actividad pretenda ubicarse en suelo no urbanizable se indicará, en su caso, la necesidad de tramitar declaración de interés comunitario.
 - **Usos urbanísticos admitidos** y, en su caso, la existencia de limitaciones de carácter estrictamente urbanístico.
 - **Modificaciones del planeamiento** que, en su caso, se estén elaborando y que pudieran afectar a la ubicación de la instalación.
@@ -455,18 +461,15 @@ La certificación es independiente del trámite previsto en el artículo 21 de l
 
 #### Régimen de la autorización ambiental integrada
 
-### CAPÍTULO I. Ámbito de aplicación, fines y valores límite de emisión
+Están sometidas a autorización ambiental integrada la explotación de las instalaciones (públicas o privadas) con actividades reguladas (Anexo I), de manera previa a su construcción, montaje, o traslado, y adaptándose a sus modificaciones.
 
-#### Artículo 24. Actividades sometidas a autorización ambiental integrada
-
-Se someten al régimen de autorización ambiental integrada la explotación de las instalaciones (públicas o privadas) en las que se desarrollen actividades reguladas (Anexo I). Esta autorización precederá a la construcción, montaje o traslado de las instalaciones, y se adaptará a las modificaciones que se produzcan en estas. Se exceptúan las instalaciones o partes de las mismas utilizadas para la investigación, desarrollo y experimentación de nuevos productos y procesos.
-
+*Se exceptúan las instalaciones o partes de las mismas utilizadas para la investigación, desarrollo y experimentación de nuevos productos y procesos.*
 
 Los fines de la autorización ambiental integrada son los siguientes:
 
 - **Gestión de la contaminación**: prevención y reducción en origen de las emisiones a la atmósfera, el agua, el suelo, así como la generación de residuos.
 
-- **Medidas preventivas**: - b) Promover la adopción de las medidas adecuadas para prevenir la contaminación, particularmente mediante la aplicación de las mejores técnicas disponibles validadas por la Unión Europea.
+- **Medidas preventivas**: de la contaminación, particularmente mediante la aplicación de mejores técnicas disponibles validadas por la Unión Europea.
 
 - **Coordinación administrativa**: procedimiento para evitar la duplicidad de trámites y retrasos.
 
@@ -476,21 +479,13 @@ Los fines de la autorización ambiental integrada son los siguientes:
 
 - **Sustancias peligrosas**: integración de las decisiones de los órganos ([Real Decreto 840/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11268))
 
-Para la determinación en la autorización ambiental integrada de los valores límite de emisión, se deberá tener en cuenta lo establecido en la normativa básica estatal en materia de prevención y control integrados de la contaminación (artículo 7 de la Ley 16/2002).
-
-Se tendrán en cuenta, en su caso, de acuerdo con la mencionada ley, las prescripciones reglamentarias que establezca el Gobierno para las sustancias contaminantes enumeradas en el correspondiente anejo de la citada ley y para determinadas actividades industriales.
-
-El Consell podrá establecer valores límite de emisión más restrictivos respecto de la normativa básica estatal.
+Para la determinación de los valores límite de emisión, se deberá tener en cuenta lo establecido en la normativa básica estatal (PONER?) y su normativa de desarrollo ([Real Decreto 815/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-10949)). El *Consell* podrá establecer otros más restrictivos.
 
 En la autorización ambiental integrada se fijarán los valores límite de emisión que garanticen que, en condiciones de funcionamiento normal, las emisiones no superen los niveles de emisión asociados a las mejores técnicas disponibles que se establecen en las conclusiones relativas a las MTD, aplicando alguna de las opciones contempladas en la norma básica estatal.
 
 La autorización ambiental integrada podrá contemplar exenciones temporales respecto a las pruebas y la utilización de técnicas emergentes para un periodo de tiempo total no superior a nueve meses, siempre y cuando, tras el periodo especificado, se interrumpa la técnica o bien la actividad alcance, como mínimo, los niveles de emisión asociados a las mejores técnicas disponibles.
 
-**CAPÍTULO II. Procedimiento**
-
-**Artículo 27. Solicitud**
-
-Una vez realizadas las actuaciones previas procedentes (capítulo III del título I), el procedimiento de autorización ambiental integrada se iniciará con la presentación de solicitud dirigida al órgano sustantivo ambiental competente conforme a la presente ley, acompañándose, como mínimo, de la siguiente documentación:
+Una vez realizadas las actuaciones previas procedentes (capítulo III del título I), el procedimiento de autorización ambiental integrada se iniciará con la presentación de solicitud dirigida al órgano sustantivo ambiental competente, acompañándose de la siguiente documentación mínima:
 
 - **Proyecto básico de actividad**, redactado y suscrito por técnico competente identificado mediante nombre, apellidos, titulación y documento nacional de identidad y, cuando legalmente resulte exigible, visado por el colegio profesional correspondiente. El proyecto básico de actividad tendrá el contenido mínimo establecido en la normativa básica estatal en materia de prevención y control integrados de la contaminación.
 
@@ -502,21 +497,21 @@ Una vez realizadas las actuaciones previas procedentes (capítulo III del títul
 
 - **Declaración de interés comunitario** cuando el proyecto vaya a ubicarse en suelo no urbanizable y sea exigible conforme a la normativa urbanística.
 
-- Cuando se trate de instalaciones sujetas al Real Decreto 1254/1999, de 16 de julio, por el que se establecen medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, la documentación exigida por la normativa estatal y autonómica en la materia.
+- **Documentación sobre sustancias peligrosas y accidentes graves** (Real Decreto 840/2015...).
 
-- En su caso, la documentación exigida por la legislación de aguas para la autorización de vertidos a las aguas continentales y sistema integral de saneamiento, y por la legislación de costas para la autorización de vertidos desde tierra al mar.
+- **Documentación sobre contaminación hídrica**: autorización de vertidos a las aguas continentales y desde tierra al mar, y sistema integral de saneamiento.
 
-- **Datos confidenciales**: La determinación de los datos que, a juicio del solicitante, gocen de confidencialidad de acuerdo con las disposiciones vigentes.
+- **Datos confidenciales**: determinación aquellos (a juicio del solicitante) (Ley Orgánica 3/2018...).
 
 - **Resumen no técnico**: de la documentación, presentada de forma comprensible, para el público, a efectos del trámite de información pública.
 
-- Según proceda, la documentación exigida por la normativa vigente en materia de residuos y suelos contaminados, contaminación atmosférica, contaminación acústica y otras normas sectoriales aplicables.
+- **Documentación sobre contaminación sectorial**: residuos y suelos contaminados, atmosférica, acústica...
 
-- Cualquier otra información y documentación acreditativa del cumplimiento de requisitos establecidos en la legislación medioambiental aplicable, incluidas en su caso las relativas a fianzas y seguros obligatorios que sean exigibles.
+- **Otra**: cumplimiento de requisitos (incluidos fianzas y seguros).
 
-- En todo caso, de presentarse la documentación en papel, se adjuntará copia digitalizada en soporte informático de la totalidad de la documentación técnica aportada.
+*En caso de presentarse la documentación en papel se adjuntará copia digitalizada en soporte informático de la totalidad de la documentación técnica aportada.*
 
-Cuando la actividad implique el uso, producción o emisión de sustancias peligrosas relevantes, teniendo en cuenta la posibilidad de contaminación del suelo y la contaminación de las aguas subterráneas en el emplazamiento de la instalación, se requerirá un informe base antes de comenzar la explotación de la instalación o antes de la actualización de la autorización.
+Cuando la actividad implique el uso, producción o emisión de sustancias peligrosas relevantes, teniendo en cuenta la posibilidad de contaminación del suelo y la contaminación de las aguas subterráneas en el emplazamiento de la instalación, se requerirá un informe base antes de comenzar la explotación de la instalación o antes de la actualización de la autorización, con el contenido básico estatal.
 
 Este informe tendrá el contenido establecido por la normativa básica estatal en materia de prevención y control integrados de la contaminación.
 
@@ -609,13 +604,13 @@ Si el informe vinculante regulado en este artículo considerase que es inadmisib
 
 No será necesario este informe cuando el titular declare vertido cero, de conformidad con lo establecido en la normativa básica estatal en materia de prevención y control integrados de la contaminación.  
 
-Artículo 36. Informe en materia de accidentes graves en los que intervengan sustancias peligrosas  
 
-En el supuesto de que la actividad esté afectada por el Real Decreto 1254/1999, de 16 de julio, por el que se establecen medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, o norma que lo sustituya, el órgano sustantivo ambiental solicitará con carácter preceptivo la emisión de informe al órgano autonómico competente en materia de accidentes graves. El informe deberá emitirse en el plazo de un mes desde la recepción de la documentación.
 
-Cuando se trate de establecimientos en los que vayan a estar presentes sustancias peligrosas en cantidades iguales o superiores a las especificadas en la columna 3 de las partes 1 y 2 del anexo I del real decreto mencionado, se solicitará de dicho órgano la evaluación del informe de seguridad y el pronunciamiento sobre las condiciones de seguridad del establecimiento o industria. Dicho pronunciamiento deberá ser emitido en el plazo máximo de 6 meses desde la recepción de la documentación conforme establece el mencionado real decreto.
+En las actividades que utilicen sustancias peligrosas que puedan generar accidentes graves (Real Decreto 840/2015), el órgano sustantivo ambiental solicitará con carácter preceptivo la emisión de informe al órgano autonómico competente en la materia, en el plazo de un mes (desde la recepción de la documentación). El informe será vinculante cuando sea desfavorable o implique condiciones.
 
-El informe será vinculante cuando sea desfavorable, así como en cuanto a los condicionamientos necesarios que establezca en el ámbito de sus competencias.
+*Si los establecimientos tienen sustancias peligrosas que igualan o superan determinados umbrales (columna 3 de las partes 1 y 2 del anexo I del Real Decreto 840/2015), se solicitará de dicho órgano la evaluación del informe de seguridad y el pronunciamiento sobre las condiciones de seguridad del establecimiento o industria en un plazo de 6 meses (desde la recepción de la documentación).*
+
+
 
 Artículo 37. Otros informes
 
@@ -631,29 +626,52 @@ La necesidad de revisión y los términos en que proceda efectuar la adecuación
 
 Artículo 38. Trámite de audiencia
 
-Inmediatamente antes de la elaboración de la propuesta de resolución, se dará audiencia a los interesados para que aleguen y presenten la documentación que consideren. El plazo será de 10 a 15 días.
+Inmediatamente antes de la propuesta de resolución, se dará audiencia a los interesados para que aleguen y presenten la documentación que consideren, en un plazo de 10 a 15 días.
 
-Cuando en el trámite de audiencia se hubiesen realizado alegaciones, se dará traslado a los órganos y entidades competentes que hubieran de pronunciarse sobre las mismas cuando hayan intervenido en el procedimiento de autorización ambiental de forma preceptiva. Dichos órganos manifestarán lo que estimen conveniente, en el ámbito de sus respectivas competencias, en el plazo máximo de quince días.
+Si se hubiesen realizado alegaciones, se dará traslado a los órganos y entidades competentes que hubieran de pronunciarse sobre las mismas cuando hayan intervenido en el procedimiento de autorización ambiental de forma preceptiva. Estos manifestarán lo que estimen conveniente en un plazo máximo de quince días.
 
 Dictamen ambiental y propuesta de resolución
 
-Concluida la tramitación, el expediente será remitido a la Comisión de Análisis Ambiental Integrado para que efectúe dictamen ambiental del proyecto y eleve la propuesta de resolución al órgano competente para resolver. La propuesta, ajustada al contenido establecido en el artículo 41 de la presente ley, incorporará las condiciones que resulten de los informes vinculantes emitidos y decidirá sobre el resto de informes y sobre las cuestiones planteadas, en su caso, por los solicitantes durante la instrucción y trámite de audiencia, así como las resultantes del periodo de información pública.
+Concluida la tramitación, el expediente será remitido a la Comisión de Análisis Ambiental Integrado para que efectúe dictamen ambiental del proyecto y eleve la propuesta de resolución al órgano competente para resolver. La propuesta, ajustada al contenido establecido (artículo 41), incorporará las condiciones que resulten de los informes vinculantes emitidos y decidirá sobre el resto de informes y sobre las cuestiones planteadas, en su caso, por los solicitantes durante la instrucción y trámite de audiencia, así como las resultantes del periodo de información pública.
 
-La comisión podrá acordar la necesidad de hacer modificaciones en el proyecto o la necesidad de aportar documentación adicional relevante para poder otorgarse la autorización. En tal caso, el órgano ambiental lo pondrá en conocimiento del interesado para que realice las modificaciones oportunas o aporte la documentación necesaria en los términos y en el plazo que se indique atendiendo a la complejidad de la documentación a presentar.
+La comisión podrá acordar la necesidad de hacer modificaciones en el proyecto o de aportar documentación adicional relevante para poder otorgarse la autorización. En tal caso, el órgano ambiental lo pondrá en conocimiento del interesado para que realice las modificaciones oportunas o aporte la documentación necesaria en los términos y en el plazo que se indique atendiendo a la complejidad de la documentación a presentar.
 
-Artículo 40. Resolución
+La resolución se dictará en el plazo máximo de 6 meses (artículo 21.1 del Real Decreto 1/2016) desde la entrada de la solicitud en el registro del órgano competente para resolver (silencio administrativo negativo, recurrible en vía administrativa).
 
-La resolución de la autorización ambiental integrada se dictará en el plazo máximo establecido por la normativa básica estatal en materia de prevención y control integrados de la contaminación, contándose dicho plazo desde la fecha en que la solicitud haya tenido entrada en el registro del órgano competente para resolver.
 
-Transcurrido el plazo establecido sin que se haya notificado resolución expresa, se entenderá desestimada la solicitud presentada.
+La autorización ambiental integrada tendrá el contenido establecido en la normativa básica estatal ([artículo 22 del Real Decreto Legislativo 1/2016](https://www.boe.es/buscar/act.php?id=BOE-A-2016-12601&p=20201231&tn=1#ar-22))
 
-La resolución no agotará la vía administrativa, procediendo contra la misma los recursos pertinentes (Ley 39/2015).
+- **Valores límite de emisión** para las sustancias contaminantes enumeradas en el anejo 2 y para otras sustancias contaminantes, que puedan ser emitidas en cantidad significativa por la instalación de que se trate, habida cuenta de su naturaleza y potencial de traslado de contaminación de un medio a otro, y, en su caso, los parámetros o las medidas técnicas equivalentes que complementen o sustituyan a estos valores límite. Asimismo, deberán especificarse las mejores técnicas disponibles contenidas en las conclusiones relativas a las MTD que son utilizadas en la instalación para alcanzar los valores límite de emisión.
 
-Artículo 41. Contenido de la resolución
+- **Prescripciones de protección**: al suelo y de las aguas subterráneas.
 
-La autorización ambiental integrada tendrá el contenido establecido en la normativa básica estatal en materia de prevención y control integrados de la contaminación.
+- **Gestión de residuos**: Procedimientos y métodos que se vayan a emplear para la gestión de los residuos generados por la instalación, teniendo en cuenta la jerarquía de gestión mencionada en el artículo 4.1.b).
 
-En caso de que la autorización ambiental integrada sea válida para varias partes de una instalación explotada por diferentes titulares, la autorización concretará, cuando sea posible, las responsabilidades de cada uno de ellos. Si no es posible dicha determinación, la responsabilidad de la explotación se exigirá de los titulares de forma solidaria.
+- Las prescripciones que garanticen, en su caso, la minimización de la contaminación con efectos negativos intercomunitarios o transfronterizos a larga distancia o transfronteriza, que se establecerán teniendo en cuenta el resultado de las consultas previstas en el artículo 27.1 y 3.
+
+- Sistemas y procedimientos para el tratamiento y control de todo tipo de emisiones y residuos, con especificación de la metodología de medición, su frecuencia y los procedimientos para evaluar las mediciones; en caso de instalaciones a las que les sea de aplicación el artículo 7.4.b), los resultados deberán estar disponibles en las mismas condiciones de referencia y durante los mismos periodos de tiempo que los relativos a los niveles de emisión asociados a las mejores técnicas disponibles.
+
+- **Condiciones de explotación extraordinarias**: Medidas relativas a las condiciones de explotación en situaciones distintas a las normales que puedan afectar al medio ambiente, como los casos de puesta en marcha y parada, fugas, fallos de funcionamiento y paradas temporales.
+
+- **Otras medidas o condiciones**: establecidas por la legislación sectorial aplicable (tratamiento de residuos... artículo X???)
+
+- **Condiciones del cierre** de la instalación.
+
+- **Comunicación regular** (mínimo anual):
+
+	1.º Información basada en los resultados del control de las emisiones mencionado en la letra e) y otros datos solicitados que permitan al órgano competente verificar el cumplimiento de las condiciones de la autorización; y
+	
+	2.º Cuando se apliquen valores límite de emisión que superen los valores de emisión asociados a las mejores técnicas disponibles, un resumen de resultados del control de las emisiones que permita compararlos con los niveles de emisión asociados con las mejores técnicas disponibles.
+
+- Los requisitos adecuados para el mantenimiento y supervisión periódicos de las medidas adoptadas para evitar las emisiones al suelo y a las aguas subterráneas con arreglo a la letra b) y, en su caso, los requisitos adecuados para el control periódico del suelo y las aguas subterráneas por lo que respecta a sustancias peligrosas que previsiblemente puedan localizarse, teniendo en cuenta la posibilidad de contaminación del suelo y las aguas subterráneas en el emplazamiento de la instalación.
+
+- Las condiciones para evaluar el cumplimiento de los valores límite de emisión.
+
+- En caso de que la autorización sea válida para varias partes de una instalación explotada por diferentes titulares, las responsabilidades de cada uno de ellos.
+
+*En caso de que la autorización ambiental integrada sea válida para varias partes de una instalación explotada por diferentes titulares, la autorización concretará, cuando sea posible, las responsabilidades de cada uno de ellos (en su defecto, la responsabilidad será solidaria).*
+
+
 
 Artículo 42. Publicidad y notificación
 
@@ -661,7 +679,11 @@ El órgano sustantivo ambiental notificará la resolución de la autorización a
 
 La notificación se realizará preferentemente por medios electrónicos.
 
-La resolución de otorgamiento se publicará mediante una reseña o anuncio de la misma en el Diari Oficial de la Comunitat Valenciana, indicando la dirección de la página web en que podrá consultarse su contenido; y en la página web de Conselleria la información para garantizar el derecho del público a acceder a las resoluciones de las autorizaciones ambientales integradas concedidas (Ley 27/2006, o norma que la sustituya).
+La resolución de otorgamiento se publicará en los siguientes medios: 
+
+- **Diari Oficial de la Comunitat Valenciana**: reseña o anuncio, indicando la dirección de la página web en que podrá consultarse su contenido
+
+- **Página web de Conselleria**: información para garantizar el derecho del público a acceder a las resoluciones de las autorizaciones ambientales integradas concedidas (Ley 27/2006, o norma que la sustituya).
 
 
 Artículo 43. Impugnación
@@ -670,21 +692,21 @@ Los interesados podrán oponerse a los informes vinculantes emitidos en el proce
 
 Cuando la declaración de impacto ambiental o los informes vinculantes emitidos sean favorables pero sometan la autorización a condiciones con las que no esté de acuerdo el solicitante, el recurso se interpondrá directamente contra la resolución del órgano que haya otorgado la autorización ambiental integrada. El órgano competente para resolver el recurso dará traslado del mismo a los órganos que hubiesen emitido dichos informes, con el fin de que presenten alegaciones en el plazo de quince días si lo estiman oportuno. De emitirse en plazo, las citadas alegaciones serán vinculantes para la resolución del recurso.
 
-Si en el recurso contencioso-administrativo que se pudiera interponer contra la resolución que ponga fin a la vía administrativa se dedujeran pretensiones relativas a los informes preceptivos y vinculantes, la administración que los hubiera emitido tendrá la consideración de codemandada, conforme a lo establecido en la Ley 29/1998, de 13 de julio, reguladora de la jurisdicción contencioso-administrativa.
+Si en el recurso contencioso-administrativo que se pudiera interponer contra la resolución que ponga fin a la vía administrativa se dedujeran pretensiones relativas a los informes preceptivos y vinculantes, la administración que los hubiera emitido tendrá la consideración de codemandada (Ley 29/1998).
 
 Artículo 44. Inicio de la actividad
 
-Una vez otorgada la autorización ambiental integrada y finalizada, en su caso, la construcción de las instalaciones y obras, el titular dispondrá de un plazo de cinco años o el que, en su caso, establezca la normativa básica estatal para iniciar la actividad, salvo que en la autorización se establezca un plazo distinto.
+Una vez otorgada la autorización ambiental integrada y finalizada, en su caso, la construcción de las instalaciones y obras, el titular dispondrá de un plazo de cinco años (o el que establezca la normativa básica estatal) para iniciar la actividad (salvo que en la autorización se establezca un plazo distinto).
 
-No podrá iniciarse la actividad sin que el titular presente una declaración responsable, de conformidad con el artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, indicando la fecha de inicio de la actividad y el cumplimiento de las condiciones fijadas en la autorización.
+No podrá iniciarse la actividad sin que el titular presente una declaración responsable acompañada de documentación adicional (en cursiva):
 
-La declaración se formalizará de acuerdo con el modelo que a tal efecto se encuentre disponible en la página web de la consellería con competencias en materia de medio ambiente, y se acompañará de la siguiente documentación:
+- **Declaración responsable**: de acuerdo al modelo disponible en la página web de la Conselleria de medio ambiente, indicando la fecha de inicio de la actividad y el cumplimiento de las condiciones fijadas en la autorización.
 
-- Certificado emitido por técnico competente de la ejecución del proyecto, en el que se especifique que la instalación y actividad se ajustan al proyecto técnico aprobado.
+- ***Certificado de ejecución**: emitido por técnico competente de la ejecución del proyecto, en el que se especifique que la instalación y actividad se ajustan al proyecto técnico aprobado.*
 
-- Certificado e informe emitido por entidad colaboradora de la administración en materia de calidad ambiental acreditativo del cumplimiento de las condiciones fijadas en la autorización ambiental integrada.
+- ***Certificado e informe de cumplimiento**: de las condiciones de la autorización ambiental integrada, emitido por la entidad colaboradora de la administración en materia de calidad ambiental.*
 
-La administración dispondrá del plazo máximo de un mes desde la presentación de la declaración responsable para verificar la documentación presentada y/o efectuar oposición o reparos.
+La administración dispondrá del plazo máximo de un mes desde la presentación de la declaración responsable para verificar la documentación presentada y/o efectuar su oposición o reparos.
 
 Transcurrido dicho plazo sin manifestación en contra del órgano sustantivo ambiental, podrá iniciarse el ejercicio de la actividad.
 
@@ -714,11 +736,8 @@ La revisión de la autorización ambiental integrada no dará derecho a indemniz
 
 Las resoluciones administrativas mediante las que se hubieran revisado las autorizaciones ambientales integradas serán objeto de publicidad y notificación en los mismos términos establecidos para las resoluciones de la autorización.
 
-Artículo 46. Modificación de la instalación
 
-La modificación de una instalación sometida a autorización ambiental integrada podrá ser sustancial o no sustancial.
-
-El titular de una autorización que pretenda llevar alguna a cabo deberá comunicarlo motivadamente al órgano que otorgó la autorización, con documentos justificativos.
+La modificación de una instalación sometida a autorización ambiental integrada podrá ser sustancial o no sustancial (la persona titular de la instalación deberá comunicarlo motivadamente al órgano que otorgó la autorización, aportando documentos justificativos).
 
 - **No sustancial**: podrá llevarla a cabo, salvo manifestación en contrario del órgano otorgante en el plazo de 1 mes.
 
@@ -726,12 +745,11 @@ El titular de una autorización que pretenda llevar alguna a cabo deberá comuni
 
 - **Sustancial** (considerada por la persona titular o el órgano sustantivo ambiental): no podrá llevarse a cabo hasta que no sea modificada la autorización ambiental integrada
 
+*La solicitud de modificación sustancial, la documentación que la acompaña, y el procedimiento simplificado para su tramitación y resolución, se regirá por la normativa básica estatal.*
 
-La solicitud de modificación sustancial, la documentación a acompañar a la misma, referida a la parte o partes de la instalación afectada por la modificación, y el procedimiento simplificado aplicable para su tramitación y resolución, se regirá por lo establecido en la normativa básica estatal en materia de prevención y control integrados de la contaminación.
+La resolución de la modificación sustancial será objeto de publicidad y notificación en los mismos términos que la autorización ambiental integrada.
 
-La resolución de la modificación sustancial será objeto de publicidad y notificación en los mismos términos establecidos para la resolución de la autorización ambiental integrada en la presente ley.
-
-A fin de calificar la modificación como sustancial se tendrá en cuenta la mayor incidencia de la modificación proyectada sobre la seguridad, la salud de las personas o el medio ambiente, en los siguientes aspectos:
+Para calificar la modificación como sustancial se tendrá en cuenta la mayor incidencia de la modificación proyectada sobre la seguridad, la salud de las personas o el medio ambiente, en los siguientes aspectos:
 
 - **Características de la instalación**: tamaño y producción
 - **Recursos naturales utilizados** por la misma.
@@ -742,7 +760,7 @@ A fin de calificar la modificación como sustancial se tendrá en cuenta la mayo
 - **Riesgo de accidente**
 - **Sustancias peligrosas**: incorporación o aumento en el uso de sustancias peligrosas.
 
-A tal efecto, se tendrán en cuenta los criterios establecidos en la normativa básica estatal en materia de prevención y control integrados de la contaminación y en la disposición adicional quinta de la presente ley.
+*Se tendrán en cuenta los criterios (normativa básica estatal y en disposición adicional quinta).*
 
 Cualquier ampliación o modificación de las características o del funcionamiento de una instalación se considerará sustancial si la modificación o la ampliación alcanza por sí sola los umbrales de capacidad establecidos, cuando estos existan, en el anexo I de esta ley, o si ha de ser sometida al procedimiento de evaluación de impacto ambiental de acuerdo con la normativa vigente en esta materia.
 
@@ -752,7 +770,7 @@ En cualquier caso, el órgano sustantivo ambiental podrá fijar criterios más r
 
 Cuando la modificación de una instalación suponga una disminución de su capacidad de producción hasta quedar por debajo de los umbrales del anexo I dejará de ser exigible la autorización ambiental integrada, causando baja en el Registro Ambiental de Instalaciones de la Comunitat Valenciana. El titular lo comunicará al órgano que otorgó la autorización ambiental integrada para que proceda a remitir al ayuntamiento copia del expediente instruido y de la resolución de autorización ambiental integrada otorgada. Tales modificaciones serán objeto de publicación en el Diari Oficial de la Comunitat Valenciana.
 
-Para la adaptación al régimen de intervención administrativa ambiental que corresponda, se estará a lo establecido en la disposición adicional sexta de la presente ley.
+Para la adaptación al régimen de intervención administrativa ambiental que corresponda, se estará a lo establecido en la disposición adicional sexta.
 
 
 CAPÍTULO IV. Cese de la actividad y cierre de la instalación
@@ -804,26 +822,22 @@ En el supuesto de una actividad sujeta a la constitución por parte del titular 
 No procederá la devolución de la garantía depositada cuando exista incumplimiento de alguna de las condiciones exigibles o mientras exista expediente sancionador iniciado y en tanto no exista resolución firme sobre el mismo.
 
 
-CAPÍTULO V. Otras disposiciones
-
-Artículo 49. Extinción, revocación, anulación y suspensión
-
  Las autorizaciones ambientales integradas solo serán efectivas en las condiciones y para las actividades e instalaciones que expresamente se determinen en las mismas. 
  
  Serán causas de extinción de la autorización ambiental integrada las siguientes:
+ 
 - **Renuncia** del titular de la autorización.
 - **Acuerdo**: entre el titular y la administración competente.
 - **Caducidad** de la autorización.
 - Incumplimiento de las condiciones de la autorización, la desaparición de las circunstancias que motivaron su otorgamiento o la aparición de circunstancias nuevas que, de haber existido en el momento de su concesión, habrían justificado la denegación, previa audiencia del titular.
-- La falta de adaptación a las condiciones y requisitos introducidos por normas posteriores, en los plazos que dichas normas establezcan, así como el incumplimiento en la realización de las inspecciones periódicas exigidas por la normativa aplicable durante el ejercicio de la actividad, previa audiencia del titular.
-- El incumplimiento de las nuevas condiciones establecidas como consecuencia de la modificación de la autorización, o las que proceda realizar como consecuencia de la revisión o modificación de la autorización ambiental integrada.
+- Falta de adaptación a las condiciones y requisitos introducidos por normas posteriores, en los plazos que dichas normas establezcan, así como el incumplimiento en la realización de las inspecciones periódicas exigidas por la normativa aplicable durante el ejercicio de la actividad, previa audiencia del titular.
+- Incumplimiento de las nuevas condiciones establecidas como consecuencia de la modificación de la autorización, o las que proceda realizar como consecuencia de la revisión o modificación de la autorización ambiental integrada.
 - **Cierre definitivo** de la instalación sometida a autorización ambiental integrada, previa ejecución de las medidas contempladas al efecto en la presente ley o que se establezcan reglamentariamente.
 - **Sanción**
 
 Las autorizaciones ambientales integradas también podrán ser revocadas o anuladas de acuerdo con lo establecido en la normativa sobre procedimiento administrativo común.
 
-La autorización ambiental integrada podrá ser objeto de suspensión adoptada como medida provisional, con carácter previo o en el transcurso de un procedimiento sancionador iniciado como consecuencia de infracciones previstas en la presente ley.
-
+La autorización ambiental integrada podrá ser objeto de suspensión (como medida provisional) con carácter previo o en el transcurso de un procedimiento sancionador iniciado como consecuencia de infracciones previstas en la presente ley.
 
 Las autorizaciones ambientales integradas caducarán en los supuestos siguientes:
 
@@ -831,29 +845,33 @@ Las autorizaciones ambientales integradas caducarán en los supuestos siguientes
 
 - **Paralización**: plazo superior a dos años (excepto en casos de fuerza mayor).
 
-No obstante, por causas justificadas, el titular de la actividad o instalación podrá solicitar del órgano competente una prórroga de los plazos anteriormente señalados.
+No obstante, el titular de la actividad o instalación podrá solicitar al órgano competente una prórroga de los plazos por causas justificadas.
 
-La caducidad, cuando proceda, será declarada formalmente por el órgano sustantivo ambiental, previo trámite de audiencia al titular de la autorización ambiental integrada.
+*La caducidad será declarada formalmente por el órgano sustantivo ambiental, previo trámite de audiencia al titular de la autorización ambiental integrada.*
 
 
 #### Control, inspección, sanción
 
-Sin perjuicio de las facultades de vigilancia y control que correspondan a los órganos de las distintas administraciones públicas en el ámbito de sus respectivas competencias y de acuerdo con la normativa sectorial en cada caso aplicable, las autorizaciones ambientales integradas y las licencias ambientales que se otorguen podrán establecer los programas de vigilancia ambiental a que se somete el ejercicio de la actividad, para garantizar su adecuación permanente a las determinaciones legales y a las establecidas específicamente en el propio instrumento de intervención ambiental, cuyo control corresponderá al órgano que hubiera otorgado el correspondiente instrumento de intervención ambiental.
+Sin perjuicio de las facultades de vigilancia y control que correspondan a los órganos de las distintas administraciones públicas en el ámbito de sus respectivas competencias y de acuerdo con la normativa sectorial en cada caso aplicable, 
+
+Las autorizaciones ambientales integradas y licencias ambientales que se otorguen podrán establecer los programas de vigilancia ambiental a que se somete el ejercicio de la actividad, para garantizar su adecuación permanente a las determinaciones legales y a las establecidas específicamente en el propio instrumento de intervención ambiental, cuyo control corresponderá al órgano que hubiera otorgado el correspondiente instrumento de intervención ambiental.
 
 Las entidades públicas o privadas debidamente acreditadas y reconocidas por la administración para actuar en el ámbito de la calidad ambiental, podrán actuar a instancias de los órganos competentes para el ejercicio de las funciones públicas de vigilancia, seguimiento, control, medición e informe que correspondan a dichos órganos, siempre que tales funciones no deban ser desempeñadas por funcionarios públicos, lo que no impedirá que puedan asistir a los mismos en esa labor.
 
 **Artículo 76. Medidas de autocontrol**
 
-El órgano competente podrá exigir medidas de autocontrol ambiental a los titulares de las instalaciones que desarrollen alguna de las actividades sujetas a autorización ambiental integrada o licencia ambiental, previa audiencia a los mismos, con la finalidad de controlar la incidencia de dichas instalaciones en el medio ambiente. Los resultados de dicho autocontrol estarán en todo momento disponibles para la verificación por el citado órgano. El contenido, alcance y periodicidad de los autocontroles se establecerá en la propia autorización o licencia, o posteriormente a su concesión mediante resolución expresa, previa audiencia del interesado.
+El órgano competente podrá exigir medidas de autocontrol ambiental a los titulares de las instalaciones que desarrollen actividades sujetas a autorización ambiental integrada o licencia ambiental (previa audiencia a los mismos).
 
-*Lo dispuesto en el presente artículo se entenderá sin perjuicio de la labor de inspección y vigilancia que puede llevar a cabo el órgano con competencias de inspección de calidad ambiental de la consellería competente en medio ambiente de acuerdo con lo dispuesto en el capítulo siguiente.*
+Los resultados de dicho autocontrol estarán en todo momento disponibles para la verificación por el citado órgano.
+
+El contenido, alcance y periodicidad de los autocontroles se establecerá en la propia autorización o licencia, o posteriormente a su concesión mediante resolución expresa, previa audiencia del interesado.
+
+*Lo dispuesto en el presente artículo se entenderá sin perjuicio de la labor de inspección y vigilancia que puede llevar a cabo el órgano con competencias de inspección de calidad ambiental de la Consellería de medio ambiente de acuerdo con lo dispuesto en el capítulo siguiente.*
 
 
-**CAPÍTULO II. Régimen de inspección**
+La Conselleria de medio ambiente (para las autorizaciones ambientales integradas) y el Ayuntamiento correspondiente (para los restantes instrumentos de intervención ambiental) serán los órganos competentes de adoptar las medidas cautelares, ejercer la potestad sancionadora y garantizar el cumplimiento de los objetivos.
 
-La Conselleria de medio ambiente (autorizaciones ambientales integradas) y el Ayuntamiento correspondiente (restantes instrumentos de intervención ambiental) serán los órganos competentes para adoptar las medidas cautelares, ejercer la potestad sancionadora y garantizar el cumplimiento de los objetivos.
-
-La función inspectora deberá ser desempeñada por funcionarios públicos (si éstos bien podrán ser asistidos por personal no funcionario de la Administración o por entidades públicas o privadas registradas por la Consellería de medio ambiente o debidamente acreditadas).
+La función inspectora deberá ser desempeñada por funcionarios públicos (si éstos bien podrán ser asistidos por personal no funcionario de la Administración o por entidades públicas o privadas registradas por la Conselleria de medio ambiente o debidamente acreditadas).
 
 Para la realización de actuaciones materiales de inspección podrán designarse entidades colaboradoras.
 
@@ -861,17 +879,13 @@ Los titulares prestarán al personal de inspección toda la asistencia necesaria
 
 El coste de las inspecciones que sean prefijadas podrá ser imputado a los titulares de las instalaciones inspeccionadas. También podrá imputarse el coste de las inspecciones no prefijadas cuando estas se realicen como consecuencia de no atender el titular de la instalación los requerimientos de la administración, cuando se realicen en el ámbito de un procedimiento sancionador o cuando se aprecie temeridad o mala fe en el titular de la instalación inspeccionada.
 
-**Artículo 79. Funciones**
 
-Tendrán la consideración de agentes de la autoridad los funcionarios públicos acreditados que desempeñen funciones en materia de control integrado de la contaminación, de control sectorial ambiental y de inspección.
-
-El personal de inspección tendrá las facultades propias del desarrollo de dicha función, y en particular las siguientes:
+Tendrán la consideración de agentes de la autoridad los funcionarios públicos acreditados que desempeñen funciones en materia de control integrado de la contaminación, sectorial ambiental y de inspección. Tendrá las facultades propias del desarrollo de dicha función, y en particular las siguientes:
 
 - **Acceso** (a las instalaciones): previa identificación y sin notificación previa
 - **Actas de inspección**
-- Requerir información y proceder a los exámenes y controles necesarios que aseguren el cumplimiento de las disposiciones vigentes y de las condiciones del instrumento de intervención ambiental que corresponda
+- **Obtención** de información: requerimientos, y exámenes y controles para el cumplimiento de las disposiciones vigentes y de las condiciones del instrumento de intervención ambiental que corresponda
 - **Otras**: atribuidas por normativa aplicable
-
 
 El personal de inspección levantará acta de las visitas de inspección que realice, entregando una primera copia al interesado o persona ante quien se actúe y otro ejemplar será remitido a la autoridad competente para la iniciación del procedimiento sancionador, si procede. Estas actas gozarán de presunción de certeza y valor probatorio (sin perjuicio de las demás pruebas que, en defensa de los respectivos intereses, puedan aportar los administrados).
 
@@ -879,7 +893,7 @@ Los titulares de las actividades que proporcionen información a la administraci
 
 **Artículo 81. Publicidad**
 
-Los resultados de las actuaciones de inspección deberán ponerse a disposición del público (Ley 26/2007...), y ser accesibles por medios electrónicos, informáticos y telemáticos, respetando siempre las garantías y los requisitos establecidos en las normas de procedimiento administrativo y de confidencialidad.
+Los resultados de las actuaciones de inspección deberán ponerse a disposición del público ([Ley 26/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475)...), y ser accesibles por medios electrónicos, informáticos y telemáticos, respetando siempre las garantías y los requisitos establecidos en las normas de procedimiento administrativo y de confidencialidad.
 
 **Artículo 82. Requerimiento de subsanación de deficiencias en el funcionamiento**
 
@@ -928,27 +942,24 @@ Serán órganos competentes para adoptar estas medidas provisionales los que lo 
 
 **Artículo 86. Principios generales**
 
-El ejercicio de la potestad sancionadora en el ámbito de la presente ley se regirá por lo dispuesto en el título IX de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, por lo previsto en la presente ley y demás normativa de desarrollo, y por lo dispuesto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora, o las normas que los sustituyan.
-
+El ejercicio de la potestad sancionadora en el ámbito de la presente ley se regirá por la normativa básica ([capítulo III del título preliminar de la Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566&p=20240802&tn=1#ciii))
 
 Los procedimientos sancionadores se iniciarán siempre de oficio, por acuerdo del órgano competente (por propia iniciativa, como consecuencia de orden superior, petición razonada de otros órganos, o denuncia).
 
-Con anterioridad a la iniciación del procedimiento, se podrán realizar actuaciones previas para determinar con carácter preliminar si concurren circunstancias que justifiquen su iniciación.
+Antes de iniciar del procedimiento, se podrán realizar actuaciones previas para determinar con carácter preliminar si concurren circunstancias que justifiquen su iniciación.
 
-Las actuaciones previas serán realizadas por los órganos que tengan atribuidas las funciones de investigación, averiguación e inspección en la materia y, en defecto de estos, por la persona u órgano administrativo que determine el órgano competente para la iniciación o resolución del procedimiento.
+Las actuaciones previas serán realizadas por los órganos que tengan atribuidas las funciones de investigación, averiguación e inspección (en defecto de estos, por la persona u órgano administrativo que determine el órgano competente para la iniciación o resolución del procedimiento.
 
 **Artículo 89. Prescripción**
 
 Cuando de las actuaciones previas se concluya que ha prescrito la infracción, el órgano competente acordará la no procedencia de iniciar el procedimiento sancionador. Igualmente, si iniciado el procedimiento sancionador se concluyera, en cualquier momento, que hubiera prescrito la infracción, el órgano competente resolverá la conclusión del procedimiento, con archivo de las actuaciones, sin perjuicio de los procedimientos administrativos que pudieran iniciarse en orden a la consecución de la restauración del medio ambiente afectado, o reparación de los daños ambientales.
 
-**Artículo 90. Infracciones**
 
-Sin perjuicio de las infracciones que, en su caso, pudieran establecerse en la legislación sectorial, constituyen infracciones administrativas a lo dispuesto en esta ley las acciones u omisiones tipificadas en los artículos siguientes.
-
-Lo previsto en el apartado anterior ha de entenderse sin perjuicio de las responsabilidades civiles, penales o de otro orden en que pudieran incurrir los responsables de la infracción.
+FALtA CASI NADA
+(sin perjuicio de las responsabilidades civiles, penales o de otro orden en que pudieran incurrir los responsables).
 
 
-Serán responsables de las infracciones administrativas las personas (físicas o jurídicas) que incurran o hayan participado en las acciones u omisiones tipificadas en la misma.
+Serán responsables las personas (físicas o jurídicas) que incurran o hayan participado en las acciones u omisiones tipificadas en la misma.
 
 Las personas jurídicas serán sancionadas por las infracciones cometidas por sus órganos o agentes, y asumirán el coste de las medidas de reposición o restauración y de las indemnizaciones que procedan por daños y perjuicios a terceros o a la administración.
 
@@ -956,16 +967,16 @@ Cuando el cumplimiento de las obligaciones previstas en esta ley corresponda a v
 
 Cuando exista una pluralidad de responsables a título individual y no fuera posible determinar el grado de participación de cada uno en la realización de la infracción, responderán todos ellos de forma solidaria.
 
-**Artículo 92. Procedimiento**
+
 
 Las infracciones serán objeto de sanción administrativa, con arreglo al procedimiento (Ley ___).
 
-Las infracciones se clasifican en muy graves, graves y leves.
+Las infracciones se clasifican en muy graves, graves y leves:
 
-|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Muy graves | a) Ejercer una actividad sujeta a autorización ambiental integrada o a licencia ambiental, o llevar a cabo una modificación sustancial de la misma, sin el preceptivo instrumento de intervención ambiental o su modificación, siempre que se haya producido un daño o deterioro grave para el medio ambiente o que se haya puesto en peligro la seguridad o la salud de las personas.<br><br>- Incumplimiento de condiciones de la autorización ambiental integrada o licencia ambiental, y daño o deterioro ambiental o peligro a la seguridad o salud de las personas.<br><br>- Incumplimiento de obligaciones de medidas provisionales (artículo 102)<br><br><br><br>d) Ejercer la actividad incumpliendo las obligaciones fijadas en las disposiciones autonómicas o estatales que hayan establecido la exigencia de notificación y/o registro, siempre que se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Graves     | a) Ejercer una actividad sujeta a autorización ambiental integrada o a licencia ambiental, o llevar a cabo una modificación sustancial de la misma, sin el preceptivo instrumento de intervención ambiental o su modificación, siempre que no se haya producido daño o deterioro para el medio ambiente o no se haya puesto en peligro la seguridad o la salud de las personas.<br><br>b) Incumplir las condiciones establecidas en la autorización ambiental integrada o en la licencia ambiental, sin que se haya producido un daño o deterioro para el medio ambiente, o sin que se haya puesto en peligro la seguridad o la salud de las personas, así como no tomar las medidas necesarias para volver a asegurar el cumplimiento en el plazo más breve posible y así evitar otros posibles accidentes o incidentes.<br><br>c) Ejercer una actividad para la que se ha obtenido autorización ambiental integrada o licencia ambiental sin efectuar la declaración o comunicación para el inicio de la actividad.<br><br>d) Ejercer alguna de las actividades sometidas a declaración responsable ambiental o comunicación de actividades inocuas, o llevar a cabo una modificación del establecimiento que implique un cambio entre estos instrumentos de intervención sin la presentación previa de dichos documentos al ayuntamiento donde se vaya a ubicar la instalación, siempre que se haya producido un daño o deterioro para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas.<br><br>e) Ocultar o alterar maliciosamente los datos aportados a los expedientes administrativos para la obtención, revisión o modificación de los instrumentos de intervención ambiental, o cualquier otra información exigida en los procedimientos regulados en la presente ley, así como falsear los certificados o informes técnicos presentados a la administración.<br><br>f) Desarrollar la actividad sin sujeción a las normas propuestas en el proyecto presentado siempre que se alteren las circunstancias que precisamente permitieron otorgar la autorización ambiental o la licencia ambiental.<br><br>g) Transmitir/adquirir la titularidad de la instalación con autorización ambiental integrada o licencia ambiental sin comunicarlo al órgano que hubiese otorgado el correspondiente instrumento de intervención ambiental.<br><br>h) No comunicar al órgano que hubiese otorgado la autorización ambiental integrada las modificaciones realizadas en la instalación, siempre que no revistan el carácter de sustanciales.<br><br>i) No informar inmediatamente al órgano que hubiese otorgado el correspondiente instrumento de intervención ambiental de cualquier incumplimiento de las condiciones de la autorización ambiental integrada o de la licencia ambiental, así como de los incidentes o accidentes que afecten de forma significativa al medio ambiente.<br><br>j) Impedir, retrasar u obstruir la actividad de inspección o control.<br><br>k) Ejercer la actividad incumpliendo las obligaciones fijadas en las disposiciones autonómicas o estatales que hayan establecido la exigencia de notificación y/o registro, siempre que se haya producido un daño o deterioro para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas, que en ninguno de los dos casos tenga la consideración de grave.<br><br>l) No cumplir con el régimen de autocontrol de conformidad con lo dispuesto en el artículo 76 de la presente ley.<br><br>m) No informar al órgano que hubiese otorgado el correspondiente instrumento de intervención ambiental en los supuestos exigidos en la presente ley, cuando no esté tipificado como infracción leve.<br><br>n) Proceder al cierre definitivo de una instalación incumpliendo las condiciones establecidas en la autorización ambiental integrada relativas a la contaminación del suelo y de las aguas subterráneas.<br><br>o) La comisión de algunas de las infracciones indicadas en el apartado 2 del presente artículo cuando, por su escasa cuantía o entidad, no merezcan la calificación de muy graves. |
+|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Muy graves | - Ejercicio sin autorización ambiental integrada o licencia ambiental y perjuicios o riesgos.<br>- Modificación sustancial sin instrumento preceptivo y perjuicios o riesgos.<br>- Incumplimiento de condiciones de la autorización ambiental integrada o licencia ambiental, y perjuicios o riesgos.<br>- Incumplimiento de obligaciones de medidas provisionales (artículo 102)<br>- Ejercicio sin notificación y/o registro (normativa estatal o autonómica), y perjuicios o riesgos.<br><br>*Daño o deterioro grave al medio ambiente o peligro para la seguridad o salud de las personas.*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Graves     | - Ejercicio sin autorización ambiental integrada o licencia ambiental sin perjuicios ni riesgos<br>- Modificación sustancial sin instrumento preceptivo sin perjuicios ni riesgos.<br>- Incumplimiento de condiciones de la autorización ambiental integrada o licencia ambiental, y perjuicios o riesgos.<br><br>b) Incumplir las condiciones establecidas en la autorización ambiental integrada o en la licencia ambiental, sin que se haya producido un daño o deterioro para el medio ambiente, o sin que se haya puesto en peligro la seguridad o la salud de las personas, así como no tomar las medidas necesarias para volver a asegurar el cumplimiento en el plazo más breve posible y así evitar otros posibles accidentes o incidentes.<br><br>c) Ejercer una actividad para la que se ha obtenido autorización ambiental integrada o licencia ambiental sin efectuar la declaración o comunicación para el inicio de la actividad.<br><br>d) Ejercer alguna de las actividades sometidas a declaración responsable ambiental o comunicación de actividades inocuas, o llevar a cabo una modificación del establecimiento que implique un cambio entre estos instrumentos de intervención sin la presentación previa de dichos documentos al ayuntamiento donde se vaya a ubicar la instalación, siempre que se haya producido un daño o deterioro para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas.<br><br>e) Ocultar o alterar maliciosamente los datos aportados a los expedientes administrativos para la obtención, revisión o modificación de los instrumentos de intervención ambiental, o cualquier otra información exigida en los procedimientos regulados en la presente ley, así como falsear los certificados o informes técnicos presentados a la administración.<br><br>f) Desarrollar la actividad sin sujeción a las normas propuestas en el proyecto presentado siempre que se alteren las circunstancias que precisamente permitieron otorgar la autorización ambiental o la licencia ambiental.<br><br>g) Transmitir/adquirir la titularidad de la instalación con autorización ambiental integrada o licencia ambiental sin comunicarlo al órgano que hubiese otorgado el correspondiente instrumento de intervención ambiental.<br><br>h) No comunicar al órgano que hubiese otorgado la autorización ambiental integrada las modificaciones realizadas en la instalación, siempre que no revistan el carácter de sustanciales.<br><br>i) No informar inmediatamente al órgano que hubiese otorgado el correspondiente instrumento de intervención ambiental de cualquier incumplimiento de las condiciones de la autorización ambiental integrada o de la licencia ambiental, así como de los incidentes o accidentes que afecten de forma significativa al medio ambiente.<br><br>- Impedir, retrasar u obstruir la actividad de inspección o control.<br><br>k) Ejercer la actividad incumpliendo las obligaciones fijadas en las disposiciones autonómicas o estatales que hayan establecido la exigencia de notificación y/o registro, siempre que se haya producido un daño o deterioro para el medio ambiente o se haya puesto en peligro la seguridad o salud de las personas, que en ninguno de los dos casos tenga la consideración de grave.<br><br>- No autocontrol (artículo 76)<br><br>m) No informar al órgano que hubiese otorgado el correspondiente instrumento de intervención ambiental en los supuestos exigidos en la presente ley, cuando no esté tipificado como infracción leve.<br><br>n) Proceder al cierre definitivo de una instalación incumpliendo las condiciones establecidas en la autorización ambiental integrada relativas a la contaminación del suelo y de las aguas subterráneas.<br><br>o) La comisión de algunas de las infracciones indicadas en el apartado 2 del presente artículo cuando, por su escasa cuantía o entidad, no merezcan la calificación de muy graves. |
 
 ¿Y las leves?
 
@@ -973,29 +984,21 @@ Las infracciones se clasifican en muy graves, graves y leves.
 
 
 
-Interrumpirá la prescripción la iniciación con conocimiento del interesado del procedimiento sancionador, reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable.
+Interrumpirá la prescripción la iniciación con conocimiento del interesado del procedimiento sancionador (reanudándose el plazo de prescripción si el expediente sancionador estuviera paralizado durante más de un mes por causa no imputable al presunto responsable).
 
-El procedimiento sancionador deberá ser resuelto y notificarse la resolución que proceda al interesado, en el plazo máximo de un año desde su iniciación, produciéndose la caducidad del mismo en la forma y modo previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+El procedimiento sancionador deberá ser resuelto y notificarse la resolución que proceda al interesado, en el plazo máximo de un año desde su iniciación, produciéndose en caso contrario la caducidad (el instructor podrá suspender el plazo máximo en determinadas circunstancias: artículo XX de la Ley 39/2015).
 
-No obstante lo anterior, el instructor del expediente podrá acordar la suspensión del plazo máximo para resolver cuando concurra alguna de las circunstancias previstas y exigidas para ello en el artículo 42.5 de la citada ley.
+Las infracciones podrán dar lugar a la imposición de alguna o varias de las siguientes sanciones:
 
+| Clasificación | Sanciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Muy graves    | - **Multa**: de 200.001 hasta 2.000.000 euros (autorización ambiental integrada) y de 50.001 a 300.000 euros (para otras actividades).<br>- **Clausura definitiva** (total o parcial)<br>- **Clausura temporal** (total o parcial): de 2 a 5 años<br>- **Inhabilitación**: de 1 a 2 años.<br>- **Pérdida de permisos**: revocación de la autorización ambiental integrada o licencia ambiental, o suspensión de 1 a 5 años.<br>- **Publicación**: de las sanciones firmes, identificación de los responsables, e índole y naturaleza de las infracciones.                    |
+| Graves        | - **Multa**: de 20.001 a 200.000 (instalaciones o actividades sometidas a autorización ambiental integrada) y de 2.001 hasta 50.000 euros (resto de actividades).<br>- **Clausura temporal** (total o parcial): hasta los 2 años<br>- **Inhabilitación**: máximo 1 año<br>- **Pérdida de permisos**: revocación de la autorización ambiental integrada o licencia ambiental, o suspensión máximo de un año.<br>- **Medidas complementarias**: obligación al titular para cumplir la autorización ambiental integrada y prevención de nuevos daños (incidentes o accidentes). |
+| Leves         | - **Multa** hasta 20.000 euros (autorización ambiental integrada) o hasta 2.000 euros (resto)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-Artículo 95. Sanciones
+*Cuando la cuantía de la multa resulte inferior al beneficio obtenido por la comisión de la infracción, la sanción será aumentada, como mínimo, hasta el doble del importe en que se haya beneficiado el infractor.*
 
-Las infracciones tipificadas en la presente ley podrán dar lugar a la imposición de alguna o varias de las siguientes sanciones, sin perjuicio de las cuantías que, con carácter básico, establezca la normativa estatal en la materia:
-
-|            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Muy graves | - **Multa**: de 200.001 hasta 2.000.000 euros (autorización ambiental integrada) y de 50.001 a 300.000 euros (para otras actividades).<br>- **Clausura definitiva** (total o parcial)<br>- **Clausura temporal** (total o parcial): de 2 a 5 años<br>- **Inhabilitación**: de 1 a 2 años.<br>- Revocación de la autorización ambiental integrada o de la licencia ambiental, o suspensión de dichos instrumentos de intervención por un tiempo no inferior a un año ni superior a cinco.<br>- Publicación, a través de los medios que se considere oportunos, de las sanciones impuestas, una vez que estas hayan adquirido firmeza en vía administrativa o, en su caso, jurisdiccional, así como los nombres, apellidos o denominación o razón social de las personas físicas o jurídicas responsables y la índole y naturaleza de las infracciones. |
-| Graves     | - **Multa**: desde 20.001 hasta 200.000 euros respecto a las instalaciones o actividades sometidas a autorización ambiental integrada y multa desde 2.001 hasta 50.000 euros respecto al resto de actividades.<br>- **Clausura temporal** (total o parcial): hasta los 2 años<br>- **Inhabilitación**: máximo 1 año<br>- **Pérdida de permisos**: revocación de la autorización ambiental integrada o de la licencia ambiental, o suspensión máximo de un año.<br>- Imposición al titular de la obligación de adoptar las medidas complementarias que la autoridad competente estime necesarias para volver a asegurar el cumplimiento de las condiciones de la autorización ambiental integrada y para evitar la consecución de otros posibles incidentes o accidentes.                                                                              |
-| Leves      | - **Multa** hasta 20.000 euros (autorización ambiental integrada) o hasta 2.000 euros (resto)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
-
-Cuando la cuantía de la multa resulte inferior al beneficio obtenido por la comisión de la infracción, la sanción será aumentada, como mínimo, hasta el doble del importe en que se haya beneficiado el infractor.
-
-Artículo 96. Graduación de las sanciones
-
-En la imposición de las sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, considerándose especialmente los siguientes criterios para la graduación de la sanción:
+En la imposición de las sanciones se deberá guardar la debida adecuación entre la gravedad del hecho constitutivo de la infracción y la sanción aplicada, considerándose especialmente los siguientes criterios de graduación:
 
 - **Importancia de los daños**: al medio ambiente o salud de las personas, o el peligro creado para el medio ambiente o la seguridad de las personas.
 - **Intencionalidad o reiteración**
@@ -1003,12 +1006,6 @@ En la imposición de las sanciones se deberá guardar la debida adecuación entr
 - **Beneficio obtenido**
 - **Reincidencia** (más de una infracción de la misma naturaleza en un año declarada por sentencia firme)
 - **Medidas correctoras**: adoptadas previamente al inicio del proceso sancionador (que minimicen o corrijan los efectos)
-
-Artículo 97. Prescripción de las sanciones
-
-Prescribirán al año las sanciones impuestas por infracciones leves; a los tres años las impuestas por infracciones graves y a los cinco años las impuestas por infracciones muy graves.
-
-
 
 Las infracciones y sanciones prescriben en los siguientes tiempos:
 
@@ -1018,7 +1015,7 @@ Las infracciones y sanciones prescriben en los siguientes tiempos:
 | Graves     | 3 años                       | 3 años                    |
 | Muy graves | 5 años                       | 5 años                    |
 
-El cómputo de plazos de las infracciones comienza desde el día que se hubieran cometido o desde que la Administración tenga constancia (en caso de sea de manera continuada, cuando haya finalizado o realizado el último acto), y de las sanciones a partir del día siguiente en que la resolución es firme. 
+*El cómputo de plazos de las infracciones comienza desde el día que se hubieran cometido o desde que la Administración tenga constancia (en caso de sea de manera continuada, cuando haya finalizado o realizado el último acto), y de las sanciones a partir del día siguiente de la firmeza de la resolución.* 
 
 
 Interrumpirá la prescripción la iniciación, con conocimiento del interesado, del procedimiento de ejecución, volviendo a transcurrir el plazo si aquel estuviera paralizado durante más de un mes por causa no imputable al infractor.
@@ -1040,49 +1037,34 @@ Artículo 99. Obligación de reponer y multas coercitivas
 
 Sin perjuicio de la sanción penal o administrativa, 
 
-El infractor estará obligado a la reposición o restauración de las cosas a su estado originario, y a las indemnizaciones por daños y perjuicios (en su caso). Si hubiera daños y perjuicios, deberá indemnizarlos. En los casos de daños medioambientales se aplicará la Ley 26/2007.
+El infractor estará obligado a la reposición o restauración de las cosas a su estado originario (Ley 26/2007...), y a las indemnizaciones por daños y perjuicios.
 
-Si el infractor no restaura la situación, el órgano sancionador podrá imponer multas coercitivas o ejecutar subsidiariamente la restauración a costa del responsable.
+Si el infractor no restaura, el órgano sancionador podrá realizar lo siguiente:
 
-Las multas coercitivas no superarán un tercio de la multa prevista para la infracción y podrán reiterarse mientras persista el incumplimiento. Son independientes de la sanción principal.
+- **Multas coercitivas**: independientes de la sanción principal, hasta un tercio de ésta y mientras persista el incumplimiento.
 
-La ejecución forzosa de las medidas de prevención, evitación y reparación de daños medioambientales se regirá por la Ley 26/2007. Si la restauración fuera imposible, deberán ejecutarse medidas compensatorias equivalentes.
+- **Ejecución subsidiaria**: a costa del obligado. El importe de las sanciones, indemnizaciones y fondos exigidos para la ejecución subsidiaria serán exigibles por la vía de apremio. Los fondos podrán exigirse previamente.
 
-Los fondos necesarios para la ejecución subsidiaria podrán exigirse cautelarmente antes de realizarla.
+- **Ejecución forzosa**: medidas de prevención, evitación y reparación de daños medioambientales (Ley 26/2007) o compensatorias equivalentes.
 
-La prescripción de infracciones y sanciones no extingue la obligación de restaurar ni de indemnizar.
-
-Artículo 100. Competencia sancionadora
+*La prescripción de infracciones y sanciones no extingue la obligación de restaurar ni de indemnizar.*
 
 La competencia sancionadora (incoación, instrucción, resolución) corresponde a los siguientes órganos:
 
 - **Administración autonómica**: respecto de instalaciones sujetas a autorización ambiental integrada.
 
-	- **Dirección General**: infracciones leves en instalaciones sometidas a autorización ambiental integrada
-
-	- **Titular de la Conselleria**: infracciones graves y muy graves hasta 1.000.000 de euros.
-
-	- **Consell**: sanciones muy graves con multas superiores a 1.000.000 de euros.
-
 - **Ayuntamientos**: respecto de actividades sujetas a licencia ambiental, declaración responsable ambiental o comunicación de actividades inocuas.
 
-	- **Alcaldes**: infracciones leves y graves.
-	- **Junta de gobierno local** (en su defecto, el pleno): infracciones muy graves.
+| Ámbito                    | Órganos                                                                                                                                                                                                                                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Administración autonómica | - **Dirección General**: infracciones leves en instalaciones sometidas a autorización ambiental integrada<br>- **Titular de la Conselleria**: infracciones graves y muy graves hasta 1.000.000 de euros.<br>- **Consell**: sanciones muy graves con multas superiores a 1.000.000 de euros. |
+| Ayuntamientos             | - **Alcaldes**: infracciones leves y graves.<br>- **Junta de gobierno local** (en su defecto, el pleno): infracciones muy graves.                                                                                                                                                           |
 
-Los ayuntamientos remitirán a la administración autonómica copia o extracto de los procedimientos sancionadores iniciados.
+*Los ayuntamientos y la administración autonómica se remitirán mutuamente copia o extracto de los procedimientos sancionadores iniciados.*
 
-La administración autonómica remitirá igualmente copia o extracto a la administración municipal.
+*Si una denuncia recoge varias infracciones, será competente el órgano con potestad sobre aquella más grave.*
 
-Si una denuncia recoge varias infracciones, será competente el órgano con potestad sobre la infracción más grave.
-
-Artículo 101. Vía de apremio
-
-El importe de las sanciones, las indemnizaciones y los fondos exigidos para la ejecución subsidiaria serán exigibles por la vía de apremio.
-
-Artículo 102. Medidas de carácter provisional
-
-Iniciado el procedimiento sancionador, podrán adoptarse medidas provisionales para asegurar la eficacia de la resolución, el buen fin del procedimiento, evitar la continuidad de la infracción y proteger el interés general. Las medidas podrán consistir en:
-
+Iniciado el procedimiento sancionador, podrán adoptarse medidas provisionales para asegurar la eficacia de la resolución, el buen fin del procedimiento, evitar la continuidad de la infracción y proteger el interés general:
 
 - **Suspensión temporal**, total o parcial, del instrumento de intervención o de la actividad.
 - **Clausura temporal** de locales o instalaciones.
@@ -1094,9 +1076,7 @@ En casos de urgencia podrán adoptarlas el órgano iniciador o el instructor.
 
 Las medidas podrán modificarse o levantarse durante la tramitación y se extinguirán con la resolución del procedimiento.
 
-Se adoptarán mediante resolución motivada, previa audiencia del interesado durante diez días, o cinco en caso de urgencia.
-
-Artículo 103. Acción pública
+Se adoptarán mediante resolución motivada, previa audiencia del interesado durante diez días (cinco en caso de urgencia).
 
 Será pública la acción para exigir ante los órganos administrativos y los tribunales el cumplimiento de esta ley y de sus disposiciones de desarrollo.
 
