@@ -15,7 +15,6 @@ La etiqueta ecológica europea fue LJBASID por el Reglamento 66/2010
 
 La etiqueta ecológica europea se basa en el [Reglamento 66/2010](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02010R0066-20171114), desarrollado en España por el [Real Decreto 234/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-4290), incluyendo los siguientes puntos principales:
 
-
 | Elementos principales   | Contenido                                                                                                                                                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Disposiciones iniciales | - **Objeto**<br>- Ámbito de aplicación<br>- Definiciones                                                                                                                                                                 |
@@ -50,16 +49,9 @@ Las Comunidades y ciudades Autónomas podrán firmar convenios de colaboración 
 
 Concesión y condiciones de uso de la etiqueta ecológica de la UE
 
-Todo operador que desee utilizar la etiqueta ecológica de la UE presentará una solicitud ante un organismo competente de un Estado miembro (implicado en caso de ser un producto de uno o varios de ellos, y también si procede de fuera de la Unión), con la siguiente información mínima:
+*
 
-- **Datos del operador**
-- **Categoría de productos**
-- **Descripción del producto**
-- **Otra información**: requerida por el organismo competente, o por la Comisión (de acuerdo a la disposición específica para cada categoría)
 
-*La etiqueta ecológica de la UE revestirá una forma determinada (Anexo II) y solo podrá utilizarse para los productos que satisfagan los criterios para los que se hayan concedido.*
-
-El organismo competente exigirá el pago de los cánones previstos (Anexo III). En un plazo de dos meses, el organismo competente comprobará que la documentación está completa y notificará al operador al respecto. La solicitud podrá ser denegada si no se entrega completa en un plazo de 6 meses tras la notificación.
 
 
 En resumen el procedimiento es el siguiente: 
@@ -70,10 +62,12 @@ En resumen el procedimiento es el siguiente:
 	2. Incompleta: denegable tras 6 meses
 
 
+|                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Solicitud                                         | Todo operador que desee utilizar la etiqueta ecológica de la UE presentará una solicitud ante un organismo competente de un Estado miembro (implicado en caso de ser un producto de uno o varios de ellos, y también si procede de fuera de la Unión), con la siguiente información mínima:<br><br>- **Datos del operador**<br>- **Categoría de productos**<br>- **Descripción del producto**<br>- **Otra información**: requerida por el organismo competente, o por la Comisión (de acuerdo a la disposición específica para cada categoría)<br><br>*La etiqueta ecológica de la UE revestirá una forma determinada (Anexo II) y solo podrá utilizarse para los productos que satisfagan los criterios para los que se hayan concedido. |
+| Pago de tasas                                     | El organismo competente exigirá el pago de los cánones previstos (Anexo III). En un plazo de dos meses, el organismo competente comprobará que la documentación está completa y notificará al operador al respecto. La solicitud podrá ser denegada si no se entrega completa en un plazo de 6 meses tras la notificación.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Revisión de la solicitud y notificación (2 meses) | - Completa: En caso de estar completa y cumplir los criterios de la etiqueta y los requisitos de evaluación (artículo 8), el organismo competente asignará un número de registro al producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-
-
-En caso de estar completa y cumplir los criterios de la etiqueta y los requisitos de evaluación (artículo 8), el organismo competente asignará un número de registro al producto.
 
 Los operadores soportarán los costes de las pruebas y la evaluación de conformidad con los criterios. *Podrán repercutirse sobre los operadores los costes de viaje y alojamiento cuando se precise una verificación in situ fuera del Estado miembro en el que tenga su sede el organismo competente.*
 
@@ -107,15 +101,6 @@ El Esquema de Gestión y Auditoría Medioambientales (EMAS por sus siglas en ing
 
 ##### Procedimiento de inscripción
 
-
-CAPÍTULO II
-
-REGISTRO DE ORGANIZACIONES
-
-Artículo 3
-
-Determinación del organismo competente
-
 Las solicitudes para la inscripción en el registro EMAS de organizaciones de un Estado miembro se presentarán a un organismo competente de ese Estado miembro (una organización que tenga centros situados en uno o varios Estados miembros o en terceros países podrá solicitar un único registro corporativo de todos o algunos de esos centros).
 
 La solicitud de inscripción en un único registro corporativo se presentará al organismo competente del Estado miembro en el que esté situada la sede o el centro de gestión de la organización designado para los fines del presente apartado.
@@ -123,7 +108,6 @@ La solicitud de inscripción en un único registro corporativo se presentará al
 Las solicitudes de inscripción en el registro realizadas por organizaciones fuera de la Comunidad, incluido el registro corporativo que consista únicamente en centros situados fuera de la Comunidad, se presentará a cualquier organismo competente de aquellos Estados miembros que proporcionen la inscripción en el registro de organizaciones fuera de la Comunidad de conformidad con el artículo 11, apartado 1, párrafo segundo.
 
 Dichas organizaciones se asegurarán de que el verificador medioambiental que vaya a llevar a cabo la verificación del sistema de gestión medioambiental y la validación de la declaración medioambiental de la organización esté acreditado o autorizado en el Estado miembro en el que dicha organización solicite la inscripción en el registro.
-
 
 Las organizaciones que quieran inscribirse por primera vez en el registro deben realizar lo siguiente:
 
@@ -149,13 +133,14 @@ Cuando se disponga de los documentos de referencia sectoriales a que se refiere 
 
 El análisis medioambiental inicial, el sistema de gestión medioambiental, el procedimiento de auditoría y su aplicación se someterán a la verificación de un verificador acreditado o autorizado, que, además, validará la declaración medioambiental.
 
-
-
 Cualquier organización que cumpla los requisitos (artículo 4) podrá solicitar su inscripción en el registro ante el organismo competente (artículo 3) e incluirá lo siguiente:
 
 - **Declaración medioambiental validada**, en formulario electrónico o impreso
-- **Declaración** a que se refiere el artículo 25, apartado 9, firmada por el verificador medioambiental que haya validado la declaración medioambiental;
-- **Formulario** cumplimentado por la organización, que incluya al menos la información mínima que figura en el anexo VI;
+
+- **Declaración** (artículo 25.9): firmada por el verificador medioambiental que haya validado la declaración medioambiental
+
+- **Formulario** cumplimentado por la organización, que incluya al menos la información mínima (Anexo VI)
+
 - **Documentos justificativos del abono de las tasas** aplicables (si procede).
 
 La solicitud estará redactada en la lengua oficial o en una de las lenguas oficiales del Estado miembro en que la organización solicite su inscripción en el registro.
@@ -172,7 +157,6 @@ Las obligaciones derivadas cambian cada año y cada tres (siendo excluyentes):
 
 Las organizaciones registradas pondrán a disposición del público la declaración medioambiental y la declaración medioambiental actualizada en el plazo de un mes a partir de su inscripción y de cada renovación del registro, previa solicitud, o a través de sitios de Internet para su acceso. También especificarán el modo en que permiten el acceso del público al formulario de la organización.
 
-
 Una organización pequeña puede solicitar al organismo competente que amplíe la frecuencia trienal (artículo 6.1) hasta los 4 años o la anual (artículo 6.2) hasta los 2, si el verificador ha comprobado que se cumplen las siguientes condiciones:
 
 - **Riesgos**: ninguno medioambiental de importancia
@@ -186,4 +170,3 @@ Las organizaciones que disfruten de la ampliación bianual presentarán una decl
 Si una organización registrada tiene previsto introducir cambios sustanciales, realizará un análisis medioambiental de los mismos (incluidos sus aspectos e impactos medioambientales), actualizará el análisis medioambiental inicial y modificará su política medioambiental, el programa medioambiental y el sistema de gestión medioambiental, y revisará y actualizará la totalidad de la declaración medioambiental. 
 
 Los documentos modificados se verificarán y validarán en un plazo de 6 meses. Tras ello, la organización los presentará al organismo competente utilizando el formulario, y los pondrá a disposición pública.
-

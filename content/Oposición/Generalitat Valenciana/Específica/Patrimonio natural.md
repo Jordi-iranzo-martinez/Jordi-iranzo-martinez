@@ -16,6 +16,12 @@ Las principales características son las siguientes:
 
 	De norte a sur: el *Millars*, el *Túria* (que atravesaba la ciudad de Valencia), el Júcar (el más caudaloso), el *Vinalopó* (casi seco en su tramo bajo) y el Segura, en el extremo sur. L'*Albufera de Valencia* es la mayor laguna litoral de España.
 
+https://www.studocu.com/es/document/aites-centro-de-estudios-y-oposiciones/biologia/geografia-de-la-comunitat-valenciana-tema-1-analisis-y-caracteristicas/163817139?sid=e606ae0c-f584-4229-8cb6-3f3a89d3c5e21784919258
+
+https://es.scribd.com/document/692454937/Geografia-de-la-Comunitat-Valenciana
+
+https://es.slideshare.net/slideshow/geografa-de-la-comunidad-valenciana-power-point-slideshare/21783364
+
 
 | Características principales | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

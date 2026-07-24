@@ -43,8 +43,10 @@ El informe «[Desarrollo autonómico, competitividad y cohesión social. Medio A
 >«en el marco de la Conferencia Sectorial sobre Medio Ambiente, se debería impulsar la armonización de los procedimientos administrativos autonómicos actualmente en vigor, con el fin de simplificar los trámites, reducir las cargas administrativas que soportan las empresas, y evitar diferencias injustificadas en los niveles de exigencia medioambiental de las Comunidades Autónomas».
 
 La necesidad de una coordinación vertical efectiva entre los diferentes niveles de gobierno ha sido puesta de manifiesto en diferentes lugares:
-- OCDE: «Sustainability in Impact Assessments. A review of Impact Assessment Systems in selected OECD countries and the European Commission, de 2012»)
-- Comisión Europea («Industrial Perfomance Scoreboard and Member’s States»): señala que la proliferación de distintas regulaciones es un obstáculo a la mejora de la productividad, advertencias que deben ponerse en relación con el lugar que ocupa España, el puesto 44, en la clasificación del Banco Mundial de países según su facilidad para hacer negocios («Doing Business, 2012»).
+
+- **OCDE**: «Sustainability in Impact Assessments. A review of Impact Assessment Systems in selected OECD countries and the European Commission, de 2012»)
+
+- **Comisión Europea** («Industrial Perfomance Scoreboard and Member’s States»): señala que la proliferación de distintas regulaciones es un obstáculo a la mejora de la productividad, advertencias que deben ponerse en relación con el lugar que ocupa España, el puesto 44, en la clasificación del Banco Mundial de países según su facilidad para hacer negocios («Doing Business, 2012»).
 
 La presente ley pretende ser un instrumento eficaz para la protección medioambiental. Se propone simplificar el procedimiento de evaluación ambiental, incrementar la seguridad jurídica de los operadores, y en íntima relación con este último fin, lograr la concertación de la normativa sobre evaluación ambiental en todo el territorio nacional.
 
@@ -154,16 +156,27 @@ Asimismo, establece los principios que informarán el procedimiento, y el régim
 Los procedimientos de evaluación ambiental se sujetarán a los siguientes principios:
 
 - **Protección y mejora** del medio ambiente
+
 - **Precaución y acción cautelar**
+
 - **Acción preventiva, corrección y compensación** de impactos
+
 - **Quien contamina paga**
+
 - **Racionalización, simplificación y concertación** de los procedimientos de evaluación ambiental
+
 - **Cooperación y coordinación**: entre la Administración General del Estado y las Comunidades Autónomas
+
 - **Proporcionalidad**: entre los efectos sobre el medio ambiente de los planes, programas y proyectos, y el tipo de procedimiento de evaluación al que en su caso deban someterse.
+
 - **Colaboración activa**: de los distintos órganos administrativos que intervienen en el procedimiento de evaluación, facilitando la información necesaria que se les requiera.
+
 - **Participación pública**
+
 - **Desarrollo sostenible**
+
 - **Integración de los aspectos ambientales**: en la toma de decisiones
+
 - **Mejor conocimiento científico** posible
 
 *Las Administraciones Públicas ajustarán sus actuaciones en materia de evaluación ambiental a los principios de lealtad institucional, coordinación, información mutua, cooperación, colaboración y coherencia.*

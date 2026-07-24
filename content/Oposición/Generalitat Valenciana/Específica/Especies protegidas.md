@@ -78,7 +78,7 @@ El Ministerio de Medio Ambiente llevará a cabo la inclusión, cambio de categor
 
 - **A propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad** (previa iniciativa de las Comunidades Autónomas)
 
-- **De oficio**.
+- **De oficio**
 
 	*Cuando se trate de taxones o poblaciones protegidas en los anexos de las normas o decisiones de la Unión Europea, como los que se enumeran en el anexo V, o en los instrumentos internacionales ratificados por España, la inclusión en el Listado se producirá de oficio por el Ministerio de Agricultura, Alimentación y Medio Ambiente, notificando previamente tal inclusión a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.*
 
@@ -114,7 +114,9 @@ La catalogación, descatalogación o cambio de categoría de un taxón o poblaci
 
 - **A solicitud de ciudadano u organización**: acompañando a la correspondiente solicitud una argumentación científica de la medida propuesta.
 
-Las Comunidades Autónomas podrán establecer catálogos de especies amenazadas, estableciendo, además de las categorías relacionadas en este artículo, otras específicas, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su preservación. También podrán incrementar el grado de protección en sus catálogos autonómicos, incluyéndolas en una categoría de amenaza superior.
+Las Comunidades Autónomas podrán establecer catálogos de especies amenazadas, estableciendo, además de las categorías relacionadas en este artículo, otras específicas, determinando las prohibiciones y actuaciones suplementarias que se consideren necesarias para su preservación.
+
+También podrán incrementar el grado de protección en sus catálogos autonómicos, incluyéndolas en una categoría de amenaza superior.
 
 La inclusión de un taxón o población en la categoría de "en peligro de extinción" conllevará, en un plazo máximo de tres años, la adopción de un plan de recuperación, que incluya las medidas más adecuadas para el cumplimiento de los objetivos buscados, y, en su caso, la designación de áreas críticas.
 

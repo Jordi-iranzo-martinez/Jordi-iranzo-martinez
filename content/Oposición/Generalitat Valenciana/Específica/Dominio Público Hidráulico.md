@@ -27,18 +27,17 @@ A escala estatal la norma básica es la Ley de Aguas ([Real Decreto Legislativo 
 
 #### Competencias administrativas
 
-
-
+¿? Es del Estado.
 
 
 #### Bienes del dominio público hidráulico
 
 Constituyen el dominio público hidráulico del Estado (con las salvedades expresamente establecidas en esta Ley):
 
-- **Aguas continentales**, tanto las superficiales como las subterráneas renovables con independencia del tiempo de renovación.
-- **Cauces de corrientes naturales**, continuas o discontinuas.
-- **Lechos**: de lagos y lagunas, y los de los embalses superficiales en cauces públicos.
-- **Acuíferos**, a los efectos de los actos de disposición o de afección de los recursos hidráulicos.
+- **Aguas continentales**: superficiales y subterráneas renovables
+- **Cauces de corrientes naturales** (continuas o discontinuas)
+- **Lechos**: de lagos y lagunas, y de los embalses superficiales en cauces públicos.
+- **Acuíferos**: para los actos de disposición o afección de los recursos hidráulicos.
 - **Aguas de desalación** del mar
 
 *La fase atmosférica del ciclo hidrológico sólo podrá ser modificada artificialmente por la Administración del Estado o por aquellos a quienes ésta autorice.*
@@ -48,10 +47,9 @@ Constituyen el dominio público hidráulico del Estado (con las salvedades expre
 La planificación hidrológica tendrá por objetivos generales los siguientes:
 
 - **Calidad**: buen estado y protección (dominio público hidráulico y de las aguas)
-
 - **Abastecimiento**: satisfacción de las demandas
 - **Desarrollo**: equilibrio y armonización regional y sectorial
-- Disponibilidad Incremento de las disponibilidades del recurso
+- **Disponibilidad**: incremento de las disponibilidades del recurso
 - **Economía** de su empleo
 - **Racionalización de usos**: en armonía con el medio ambiente y los demás recursos naturales.
 
@@ -162,29 +160,29 @@ Los criterios se entienden para todas las aguas superficiales (artículo 3) y en
 
 Se incluyen las siguientes definiciones:
 
-- **Aguas continentales**: Todas las aguas en la superficie del suelo, y todas las aguas subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
+- **Aguas continentales**: aquellas situadas en la superficie del suelo, y todas las subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
 
-- **Aguas costeras**: Las aguas superficiales situadas hacia tierra desde una línea cuya totalidad de puntos se encuentren a una distancia de una milla náutica mar adentro desde el punto más próximo de la línea de base que sirve para medir la anchura de las aguas territoriales y que se extienden, en su caso, hasta el límite exterior de las aguas de transición.
+- **Aguas costeras**: aquellas situadas hacia tierra desde una línea cuya totalidad de puntos se encuentren a una distancia de una milla náutica mar adentro desde el punto más próximo de la línea de base que sirve para medir la anchura de las aguas territoriales y que se extienden, en su caso, hasta el límite exterior de las aguas de transición.
 
-- **Aguas de transición**: Masas de agua superficiales próximas a las desembocaduras de los ríos y que son parcialmente salinas como consecuencia de su proximidad a las aguas costeras, pero que reciben una notable influencia de flujos de agua dulce.
+- **Aguas de transición**: masas de agua superficiales próximas a las desembocaduras de los ríos y que son parcialmente salinas como consecuencia de su proximidad a las aguas costeras, pero que reciben una notable influencia de flujos de agua dulce.
 
-- **Aguas subterráneas**: Todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+- **Aguas subterráneas**: aquellas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
 
-- **Aguas superficiales**: Las aguas continentales, excepto las aguas subterráneas; las aguas de transición y las aguas costeras, y, en lo que se refiere al estado químico, también las aguas territoriales.
+- **Aguas superficiales**: aguas continentales no subterráneas, de transición, costeras, y (solo para el estado químico) territoriales.
 
-- **Aguas superficiales continentales**: Todas las aguas quietas o corrientes en la superficie de la tierra que no entran en las categorías de aguas costeras ni de aguas de transición. Incluyen ríos y lagos y las masas de agua artificiales o muy modificadas asimilables a estas categorías.
+- **Aguas superficiales continentales**: todas las aguas quietas o corrientes en la superficie de la tierra que no entran en las categorías de aguas costeras ni de aguas de transición (ríos y lagos, y masas de agua artificiales o muy modificadas asimilables a estas categorías).
 
-- **Biota**: Conjunto de seres vivos coexistente en un determinado ecosistema acuático.
+- **Biota**: conjunto de seres vivos coexistente en un ecosistema acuático.
 
 - **Buen estado ecológico**: Estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos correspondientes al tipo de masa de agua superficial muestran valores bajos de distorsión causada por la actividad humana, desviándose ligeramente de los valores normalmente asociados con el tipo de masa de agua superficial en condiciones inalteradas. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos cumplen con los rangos o límites que garantizan el funcionamiento del ecosistema específico del tipo y la consecución de los valores de los indicadores biológicos. Las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
 
 - **Buen estado químico de las aguas superficiales**: El estado de una masa de agua superficial que cumple las NCA establecidas en el anexo IV, así como otras normas comunitarias pertinentes que fijen NCA.
 
-- **Buen potencial ecológico**: Estado de una masa de agua muy modificada o artificial cuyos indicadores de los elementos de calidad biológicos muestran leves cambios en comparación con los valores correspondientes al tipo de masa más estrechamente comparable. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos se encuentran dentro de los rangos de valores que garantizan el funcionamiento del ecosistema y la consecución de los valores de los indicadores biológicos especificados anteriormente. Además las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
+- **Buen potencial ecológico**: estado de una masa de agua muy modificada o artificial cuyos indicadores de los elementos de calidad biológicos muestran leves cambios en comparación con los valores correspondientes al tipo de masa más estrechamente comparable. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos se encuentran dentro de los rangos de valores que garantizan el funcionamiento del ecosistema y la consecución de los valores de los indicadores biológicos especificados anteriormente. Además las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
 
-- **Condición de referencia**: Valor del indicador correspondiente a niveles de presión antropogénicas nulas o muy bajas.
+- **Condición de referencia**: valor del indicador correspondiente a niveles de presión antropogénicas nulas o muy bajas.
 
-- **Contaminación**: La introducción directa o indirecta, como consecuencia de la actividad humana, de sustancias o energía en la atmósfera, el agua o el suelo, que puedan ser perjudiciales para la salud humana o para la calidad de los ecosistemas acuáticos, o de los ecosistemas terrestres que dependen directamente de ecosistemas acuáticos, y que causen daños a los bienes materiales o deterioren o dificulten el disfrute y otros usos legítimos del medio ambiente.
+- **Contaminación**: introducción antrópica (directa o indirecta) de sustancias o energía en la atmósfera, el agua o el suelo, que puedan ser perjudiciales para la salud humana o la calidad de los ecosistemas acuáticos o de los terrestres que dependen directamente de éstos, y que causen daños a los bienes materiales o deterioren o dificulten el disfrute y otros usos legítimos del medio ambiente.
 
 - **Contaminante**: cualquier sustancia que pueda causar contaminación.
 
@@ -222,35 +220,43 @@ Se incluyen las siguientes definiciones:
 
 - **Masa de agua muy modificada**: cambio sustancial en la naturaleza por alteraciones físicas producidas por la actividad humana.
 
-- **Masa de agua superficial**: parte diferenciada y significativa de agua superficial (lago, embalse, corriente, río o canal, o partes de estos tres últimos), aguas de transición, o un tramo de aguas costeras.
+- **Masa de agua superficial**: parte diferenciada y significativa de un agua superficial (lago, embalse, corriente, río o canal, o partes de estos tres últimos), de transición, o un tramo de aguas costeras.
 
 - **Matriz**: compartimento del medio acuático (agua, sedimentos o biota).
 
 - **Muy buen estado ecológico**: estado sin alteraciones antropogénicas de los valores de los indicadores de los elementos de calidad químicos o fisicoquímicos e hidromorfológicos correspondientes al tipo de masa de agua superficial, o existen alteraciones de muy escasa importancia, en comparación con los normalmente asociados con ese tipo en condiciones inalteradas. Los valores de los indicadores de los elementos de calidad biológicos correspondientes a la masa de agua superficial reflejan los valores normalmente asociados con dicho tipo en condiciones inalteradas, y no muestran indicios de distorsión, o muestran indicios de escasa importancia. Éstas son las condiciones y comunidades específicas del tipo.
 
-- **Nivel de confianza**: estimación cualitativa relativa a la evaluación del estado o potencial ecológico; o bien, estimación cuantitativa o probabilidad de que la clasificación de los elementos de calidad y la clasificación del estado o potencial ecológico, obtenida a partir de los indicadores o índices, se corresponda realmente con la clase asignada.
+- **Nivel de confianza**: 
+	- **Estimación cualitativa**: evaluación del estado o potencial ecológico
+	- **Estimación cuantitativa o probabilidad**: de que la clasificación de los elementos de calidad y la clasificación del estado o potencial ecológico (de indicadores o índices) se corresponda realmente con la clase asignada.
 
-- **Norma de calidad ambiental** (NCA): concentración de un determinado contaminante o grupo de contaminantes en el agua, los sedimentos o la biota, que no debe superarse en aras de la protección de la salud humana y el medio ambiente. Este umbral puede expresarse como Concentración Máxima Admisible (NCA-CMA) o como Media Anual (NCA-MA).
+- **Norma de calidad ambiental** (NCA): concentración de un determinado contaminante o grupo en el agua, los sedimentos o la biota, que no debe superarse en aras de la protección de la salud humana y el medio ambiente. Este umbral puede expresarse como Concentración Máxima Admisible (NCA-CMA) o Media Anual (NCA-MA).
 
-- **Órgano competente**: cada uno de los organismos de cuenca, para las aguas superficiales continentales comprendidas en las demarcaciones hidrográficas que excedan del ámbito territorial de una comunidad autónoma, y las comunidades autónomas, para las aguas superficiales continentales de demarcaciones hidrográficas comprendidas íntegramente dentro del ámbito territorial respectivo, así como para las aguas costeras y de transición, sin perjuicio de las competencias del Estado en los puertos de interés general.
+- **Órgano competente**: 
 
-- **Otros contaminantes**: sustancias incluidas en el anexo IV que no son prioritarias ni peligrosas prioritarias, sino contaminantes para los cuales las NCA son idénticas a las establecidas en la legislación sobre sustancias peligrosas aplicable antes de la aprobación de la [Directiva 2008/105/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana"), relativa a las normas de calidad ambiental en el ámbito de la política de aguas.
+	- **Organismo de cuenca**: aguas superficiales continentales comprendidas en las demarcaciones hidrográficas que excedan del ámbito territorial de una comunidad autónoma
 
-- **Potencial ecológico**: Una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a una masa de agua artificial o muy modificada.
+	- **Comunidades Autónomas**: aguas superficiales continentales de demarcaciones hidrográficas comprendidas íntegramente dentro del ámbito territorial respectivo, así como para las aguas costeras y de transición
+- 
+	- **Estado**: puertos de interés general
+
+- **Otros contaminantes**: sustancias no prioritarias para los cuales las NCA son idénticas a las establecidas en la legislación sobre sustancias peligrosas aplicable antes de la aprobación de la [Directiva 2008/105/CE](https://www.boe.es/buscar/doc.php?id=DOUE-L-2008-82606 "Abre nueva ventana") (Anexo IV).
+
+- **Potencial ecológico**: expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a una masa de agua artificial o muy modificada.
 
 - **Programa de seguimiento de las aguas**: conjunto de actividades encaminadas a obtener una visión general coherente y completa del estado y calidad de las aguas. Puede comprender un conjunto de subprogramas de seguimiento o control.
 
 - **Punto de muestreo**: lugar geográfico de toma de muestra o datos.
 
-- **Ratio de calidad ecológica** (RCE): Relación entre los valores observados en la masa de agua y los correspondientes a las condiciones de referencia del tipo al que pertenece dicha masa de agua, expresado mediante un valor numérico comprendido entre 0 y 1.
+- **Ratio de calidad ecológica** (RCE): relación entre los valores observados en la masa de agua y los correspondientes a las condiciones de referencia del tipo al que pertenece dicha masa de agua, expresado mediante un valor numérico de 0 y 1.
 
 - **Sedimento**: material sólido (orgánico o mineral) en forma de partículas, granos o pequeños bloques, depositado en el lecho de una masa de agua superficial.
 
-- **Sustancia peligrosa**: Las sustancias o grupos de sustancias que son tóxicas, persistentes y bioacumulables, así como otras sustancias o grupos de sustancias que entrañan un nivel de riesgo análogo.
+- **Sustancia peligrosa**: aquellas o sus grupos que son tóxicas, persistentes y bioacumulables, así como otras que entrañan un nivel de riesgo análogo.
 
- - **Sustancia preferente**: Sustancia que presenta un riesgo significativo para las aguas superficiales españolas debido a su especial toxicidad, persistencia y bioacumulación o por la importancia de su presencia en el medio acuático. La relación de sustancias preferentes figura en el anexo V de este real decreto.
+ - **Sustancia preferente**: aquella que presenta un riesgo significativo para las aguas superficiales españolas debido a su especial toxicidad, persistencia y bioacumulación o por la importancia de su presencia en el medio acuático (Anexo V).
 
-- **Sustancia prioritaria**: aquella que presenta un riesgo significativo para el medio acuático comunitario, o a través de él, incluidos los riesgos de esta índole para las aguas utilizadas para la captación de agua potable, y reguladas a través del artículo 16 de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana"), por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas (Directiva Marco del Agua, DMA). Entre estas sustancias se encuentran las sustancias peligrosas prioritarias. La relación de sustancias prioritarias figura en el anexo IV de este real decreto.
+- **Sustancia prioritaria**: aquella que presenta un riesgo significativo para el medio acuático comunitario, o a través de él, incluidos los riesgos de esta índole para las aguas utilizadas para la captación de agua potable, y reguladas a través del artículo 16 de la [Directiva 2000/60/CE](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana")). Entre estas sustancias se encuentran las sustancias peligrosas prioritarias. La relación de sustancias prioritarias figura en el anexo IV de este real decreto.
 
 - **Taxón de la biota**: acuático particular dentro del rango taxonómico subfilum, «clase» o equivalente.
 

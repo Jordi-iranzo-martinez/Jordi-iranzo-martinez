@@ -53,11 +53,9 @@ Se establecen las siguientes definiciones:
 
 - **Especie nativa o autóctona**: existente dentro de su área de distribución y de dispersión natural.
 
-- **Especie exótica o alóctona**: aquellas que pudieran sobrevivir o reproducirse, introducidos fuera de su área de distribución natural y de su área potencial de dispersión, que no hubiera podido ocupar sin la introducción directa o indirecta, o sin el cuidado del hombre.
+- **Especie exótica o alóctona**: aquellas introducidas fuera de su área de distribución natural y de su área potencial de dispersión, que no hubiera podido ocupar sin la introducción directa o indirecta, o sin el cuidado del hombre (incluye subespecies, y sus partes, gametos, semillas, huevos o propágulos que pudieran sobrevivir o reproducirse)
 
-	se refiere a especies y subespecies, incluyendo sus partes, gametos, semillas, huevos o propágulos que pudieran sobrevivir o reproducirse, introducidos fuera de su área de distribución natural y de su área potencial de dispersión, que no hubiera podido ocupar sin la introducción directa o indirecta, o sin el cuidado del hombre.
-
-- **Especie exótica invasora**: especie exótica que se introduce o establece en un ecosistema o hábitat natural o seminatural, y que es un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.
+- **Especie exótica invasora**: aquella introducida o establecida en un ecosistema o hábitat natural o seminatural, y que es un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.
 
 - **Especie exótica con potencial invasor**: aquella que podría convertirse en invasora en España (en especial si ha demostrado ese carácter en otros países o regiones de condiciones ecológicas semejantes).
 
@@ -83,10 +81,9 @@ Se establecen las siguientes definiciones:
 
 - **Suelta**: liberación de ejemplares de especies alóctonas no catalogadas objeto de aprovechamiento piscícola o cinegético, en aquellos cotos en los que se haya autorizado este tipo de liberaciones antes de la entrada en vigor de la [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490 "Abre nueva ventana"), y se haga con la finalidad de capturar y extraer a los ejemplares del medio de forma inmediata.
 
-*A los efectos de este real decreto, la referencia a especie comprende también sus subespecies.*
+*La referencia a especie comprende también sus subespecies.*
 
-La presente norma se aplicará en el territorio del Estado español y en las aguas marinas sometidas a soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental (sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones, en los supuestos previstos en el [artículo 6 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a6 "Abre nueva ventana")). El ámbito territorial de aplicación para cada especie del catálogo se detalla en el anexo.
-
+El ámbito de aplicación de la norma es el territorio del Estado español y las aguas marinas sometidas a soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental (sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones ([artículo 6 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a6 "Abre nueva ventana")) (y el de cada especie del Catálogo se determina en el Anexo).
 
 #### Procedimiento de inclusión o exclusión
 
@@ -94,41 +91,34 @@ Sólo podrán incluirse en el catálogo especies que hayan sido descritas taxon�
 
 El procedimieto es el sigiete:
 
-- **Iniciación** (Ministerio): 
 
-	- **Iniciativa administrativa**: de las Comunidades y ciudades Autónomas o del propio Ministerio
+| Etapa                                               | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Iniciación** (Ministerio)                         | - **Iniciativa administrativa**: de las Comunidades y ciudades Autónomas o del propio Ministerio<br><br>- **Solicitud motivada**: de cualquier ciudadano u organización a la Dirección General de Biodiversidad (acompañada en estos casos con información técnica o científica justificativa, referencias bibliográficas)<br>		- **Requerimientos**: en caso de defectos o incompletitud, con un plazo de 3 meses<br>		- **Resolución**: en el plazo de 6 meses (silencio administrativo negativo), admite recurso de alzada (Secretaría de Estado de Medio Ambiente). |
+| **Valoración** (Dirección General de Biodiversidad) | Elaboración de una memoria técnica justificativa (en su caso) que incluya un análisis de riesgos                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Estudio técnico** (Comisión Estatal)              | De la memoria (con posible consulta al comité científico).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Propuesta de modificación** (Comisión Estatal)    | A la Dirección General, mediante orden ministerial.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Aprobación**                                      | Por el Ministerio de Medio Ambiente ([artículo 64.2 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana"))                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Publicación**                                     | En el “Boletín Oficial del Estado”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-	- **Solicitud motivada**: de cualquier ciudadano u organización a la Dirección General de Biodiversidad (acompañada en estos casos con información técnica o científica justificativa, referencias bibliográficas)
-		- **Requerimientos**: en caso de defectos o incompletitud, con un plazo de 3 meses
-		- **Resolución**: en el plazo de 6 meses (silencio administrativo negativo), admite recurso de alzada (Secretaría de Estado de Medio Ambiente).
-
-- **Valoración** (Dirección General de Biodiversidad): elaboración de una memoria técnica justificativa (en su caso) que incluya un análisis de riesgos
-
-- **Estudio técnico** (Comisión Estatal): de la memoria (con posible consulta al comité científico).
-
-- **Propuesta de modificación** (Comisión Estatal): a la Dirección General, mediante orden ministerial.
-
-- **Aprobación**: por el Ministerio de Medio Ambiente ([artículo 64.2 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a64 "Abre nueva ventana"))
-
-- **Publicación**: en el “Boletín Oficial del Estado”.
-
-
-El procedimiento de inclusión y exclusión de especies 
 
 ![[Pasted image 20260701115901.png]]
 
 
 *En caso de constatarse la existencia de una amenaza grave producida por una especie exótica invasora no incluida en el catálogo, el procedimiento de inclusión se tramitará con carácter de urgencia ([artículo 33 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a33 "Abre nueva ventana")).*
 
-
 #### Información del registro
 
 La información contenida en el registro (artículo 6) es la siguiente: 
 
 - **Objeto**: denominación científica, nombres vulgares y posición taxonómica
+
 - **Proceso administrativo** de su inclusión
+
 - **Ámbito territorial** ocupado por la especie en su área original, en áreas donde se encuentre introducida fuera de España y detalladamente en áreas donde se encuentre introducida en España. Se incluirán también las especies y los tipos de hábitats más vulnerables a su posible introducción
+
 - **Justificación**: criterios y breve explicación técnica y científica de las causas de la inclusión
+
 - **Estrategias y planes** (prevención, control, erradicación): autonómicos o estatales (que afecten a la especie).
 
 *La información será suministrada y actualizada por las Comunidades y ciudades Autónomas o por el Ministerio de medio ambiente, y se publicará en la página web del Ministerio.*
@@ -148,7 +138,6 @@ Los efectos de la inclusión comprenden los siguientes ([artículo 7 del Real De
 	Esta prohibición podrá quedar sin efecto en los supuestos de investigación, salud o seguridad de las personas (previa autorización por la autoridad  competente estatal o autonómica).
 
 - **No fomento**: actuaciones o comportamientos (uso como cebo en pesca continental...)
-
 
 #### Medidas de prevención y lucha
 

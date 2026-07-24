@@ -97,9 +97,6 @@ Para el cumplimiento de los objetivos previstos en el punto anterior, la General
 - **Otras**: que sea congruente con el cumplimiento de la presente ley.
 
 
-
-CAPÍTULO IV. De la titularidad y clasificación
-
 Los terrenos forestales, en razón de su pertenencia, se clasifican en públicos y privados. 
 
 - **Públicos**: pertenecientes a una persona jurídico pública. Pueden ser 
@@ -112,6 +109,7 @@ Los terrenos forestales, en razón de su pertenencia, se clasifican en públicos
 
 	- **Protectores**: 
 
+	- **No protectores**:
 
 En el ámbito de la Comunidad Valenciana, podrán declararse de dominio público, además, aquellos montes o terrenos forestales que se vinculen a la satisfacción de intereses generales y, en concreto, a la protección y mejora de la calidad de vida y a la defensa y restauración del medio ambiente. Se produce por acuerdo del Consell, por acreditación de las siguientes causas (estado actual o por transformación futura):
 
@@ -263,14 +261,14 @@ Realizada dicha comunicación, la pasividad o negligencia del ayuntamiento en el
 
 4. **Convenios de repoblación**: 
 
-La Ley 43/2003, de 21 de noviembre, de Montes, normativa de carácter básico, establece en su disposición adicional primera que los consorcios y convenios de repoblación forestal, amparados por la legislación anterior a su promulgación —la Ley de 10 de marzo de 1941, sobre el Patrimonio Forestal del Estado; la Ley de 8 de junio de 1957, de Montes; y la Ley 5/1977, de 4 de enero, de Fomento de la Producción Forestal, derogadas por la misma— continuarán vigentes hasta la fecha de su finalización e indica la posibilidad de que las comunidades autónomas establezcan métodos para su sustitución en forma ventajosa tanto para los titulares de estos como para la propia Administración.
-
-La Conselleria competente en materia forestal podrá disolver los consorcios, así como extinguir los convenios de repoblación en los términos previstos en la normativa forestal estatal, en el plazo máximo de cinco años, en los casos siguientes:
-
-- Consorcios y convenios en montes públicos declarados de utilidad pública.
-- Consorcios y convenios de montes particulares que se comprometan a mantener estos con una gestión forestal sostenible basada en un instrumento de gestión forestal sostenible. El compromiso será suscrito de acuerdo con el modelo de acuerdo que se aprueba en el anexo II.
-
-La conselleria competente en materia forestal propondrá al Consell la adopción de la correspondiente iniciativa legislativa para la condonación de la deuda, en su caso, de los consorcios y convenios que cumplan las condiciones establecidas en el apartado anterior.
+	La Ley 43/2003, de 21 de noviembre, de Montes, normativa de carácter básico, establece en su disposición adicional primera que los consorcios y convenios de repoblación forestal, amparados por la legislación anterior a su promulgación —la Ley de 10 de marzo de 1941, sobre el Patrimonio Forestal del Estado; la Ley de 8 de junio de 1957, de Montes; y la Ley 5/1977, de 4 de enero, de Fomento de la Producción Forestal, derogadas por la misma— continuarán vigentes hasta la fecha de su finalización e indica la posibilidad de que las comunidades autónomas establezcan métodos para su sustitución en forma ventajosa tanto para los titulares de estos como para la propia Administración.
+	
+	La Conselleria competente en materia forestal podrá disolver los consorcios, así como extinguir los convenios de repoblación en los términos previstos en la normativa forestal estatal, en el plazo máximo de cinco años, en los casos siguientes:
+	
+	- Consorcios y convenios en montes públicos declarados de utilidad pública.
+	- Consorcios y convenios de montes particulares que se comprometan a mantener estos con una gestión forestal sostenible basada en un instrumento de gestión forestal sostenible. El compromiso será suscrito de acuerdo con el modelo de acuerdo que se aprueba en el anexo II.
+	
+	La conselleria competente en materia forestal propondrá al Consell la adopción de la correspondiente iniciativa legislativa para la condonación de la deuda, en su caso, de los consorcios y convenios que cumplan las condiciones establecidas en el apartado anterior.
 
 5. **Situación de las declaraciones Zonas de Actuación Urgente (ZAU) vigentes**: se mantendrán hasta la entrada en vigor de la presente norma, en tanto no se opongan a lo previsto en la misma. Se declaran de interés general (artículo 24 de la Ley 3/1993) los trabajos incluidos en éstas, con carácter gratuito de la ejecución subsidiaria por la Administración, por los siguientes decretos:
 
@@ -290,11 +288,11 @@ La conselleria competente en materia forestal propondrá al Consell la adopción
 
 	Mientras no se apruebe la revisión de los planes de prevención de incendios forestales de demarcación forestal vigentes y se pueda realizar su incorporación en un anejo específico, como se prevé en el artículo 47 del anexo I del presente reglamento, los planes de prevención de incendios forestales de parques naturales estarán vigentes y serán de aplicación en el ámbito territorial contemplado en los mismos, teniendo prevalencia sobre cualquier otra planificación en materia de prevención de incendios forestales.
 
-2. Procedimientos administrativos pendientes de resolución: A los procedimientos iniciados al amparo de la normativa existente con anterioridad a la entrada en vigor del presente decreto les será de aplicación la normativa vigente en el momento de su iniciación.
+2. **Procedimientos administrativos pendientes de resolución**: A los procedimientos iniciados al amparo de la normativa existente con anterioridad a la entrada en vigor del presente decreto les será de aplicación la normativa vigente en el momento de su iniciación.
 
-3. Adaptación de los planes locales de quemas: Todos los planes locales de quemas aprobados con anterioridad a la entrada en vigor del presente decreto deberán adaptarse al mismo en aquellos puntos en que lo contradigan. Para ello dispondrán de un plazo máximo de un año.
+3. **Adaptación de los planes locales de quemas**: Todos los planes locales de quemas aprobados con anterioridad a la entrada en vigor del presente decreto deberán adaptarse al mismo en aquellos puntos en que lo contradigan. Para ello dispondrán de un plazo máximo de un año.
 
-4. Emplazamientos autorizados para el uso festivo-recreativo del fuego en suelo forestal, colindante o con una proximidad inferior a 500 metros de terreno forestal
+4. **Emplazamientos autorizados para el uso festivo-recreativo del fuego en suelo forestal, colindante o con una proximidad inferior a 500 metros de terreno forestal**
 
 	Los emplazamientos para el uso festivo-recreativo del fuego autorizados en aplicación del Decreto 148/2018, de 14 de septiembre, del Consell, y que figuran en el «Registro de emplazamientos para actos y festejos tradicionales que pueden usar fuego o artefactos pirotécnicos en suelo forestal, colindante o con una proximidad inferior a 500 metros de terreno forestal», se incorporarán al Registro de emplazamientos previsto en el artículo 4 del anexo VI y deberán seguir el procedimiento y las normas fijadas en el mismo.
 
@@ -356,9 +354,7 @@ Son competencias de las entidades locales, para sus montes, las siguientes:
 
 Las entidades locales podrán solicitar a la Generalitat la delegación de las competencias que le corresponden (Administración forestal) para la gestión de los montes demaniales de su titularidad.
 
-### Artículo 7. Superficie forestal administrativa mínima
-
-Se establece la superficie mínima forestal administrativa en veinticinco hectáreas continuas (u otra menor para determinados enclaves o zonas determinada por decreto del Consell). 
+Se establece la superficie mínima forestal administrativa en veinticinco hectáreas continuas (u otra menor para determinados enclaves o zonas determinada por decreto del Consell).
 
 Los terrenos forestales que pertenezcan al mismo propietario y cuya división dé lugar a terrenos forestales de superficie inferior a veinticinco hectáreas se consideran indivisibles.
 
@@ -368,20 +364,13 @@ Se podrá alcanzar o superar la superficie administrativa mínima a los efectos 
 
 - **Asociación**: de varios propietarios, para poner en común sus terrenos, o encargar su gestión conjunta a un tercero.
 
-
 Tienen el carácter de registros públicos los siguientes:
 
-- **Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana**: 
+|                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Carácter público | - Catálogo de Montes de Dominio Público y de Utilidad Pública de la *Comunitat Valenciana*<br>- Catálogo de Montes Protectores<br>- Registro de Terrenos Forestales Incendiados<br>- Registro de Plantaciones Forestales Temporales<br>- Registro de Cooperativas, Empresas e Industrias Forestales, en el ámbito de la *Comunitat Valenciana*<br>- Registro de Senderos de la *Comunitat Valenciana*                                                                                                                                                                                                                      |
+| Creación         | - Registro de Cartografía de Terrenos Forestales de la *Comunitat Valenciana*<br>- Registro de Terrenos Aptos para Albergar Proyectos de Absorción de Dióxido de Carbono (CO₂) para la Compensación de Emisiones de Gases de Efecto Invernadero (GEI)<br>- Registro de Pruebas Deportivas, Marchas Ciclistas y otros Eventos y Actividades<br>- Catálogo de Instalaciones Recreativas y Deportivas de la *Comunitat Valenciana*<br>- Registro de Emplazamientos para Actos y Festejos Tradicionales que pueden usar fuego o artefactos pirotécnicos excepcionalmente en suelo forestal o en la Zona de Influencia Forestal |
 
-- **Catálogo de Montes Protectores**: 
-
-- **Registro de Terrenos Forestales Incendiados**: 
-
-- **Registro de Plantaciones Forestales Temporales**: 
-
-- **Registro de Cooperativas, Empresas e Industrias Forestales, en el ámbito de la Comunitat Valenciana**: 
-
-- **Registro de Senderos de la Comunitat Valenciana**: 
 
 
 La cartografía será pública. Tendrá carácter informativo de manera general, y vinculante para aquellos montes con deslinde firme y amojonamiento. Mostrará la información referente a cada monte (número, denominación, pertenencia, nombre, estado de deslinde y amojonamiento, área oficial del catálogo, área cartográfica, comarca, término municipal y, adicionalmente, referencia al estado de la revisión de su perímetro o, en su caso, si la cartografía tiene carácter vinculante para ese monte).
@@ -395,15 +384,7 @@ Las actualizaciones debidas a una corrección de errores o a trabajos de reconst
 
 Se crean los siguientes: 
 
-- **Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana**: 
 
-- **Registro de Terrenos Aptos para Albergar Proyectos de Absorción de Dióxido de Carbono** (CO₂) **para la Compensación de Emisiones de Gases de Efecto Invernadero** (GEI): 
-
-- **Registro de Pruebas Deportivas, Marchas Ciclistas y otros Eventos y Actividades**: 
-
-- **Catálogo de Instalaciones Recreativas y Deportivas de la Comunitat Valenciana**: 
-
-- **Registro de Emplazamientos para Actos y Festejos Tradicionales que pueden usar fuego o artefactos pirotécnicos excepcionalmente en suelo forestal o en la Zona de Influencia Forestal**: 
 
 
 El Catálogo de Montes de Dominio Público y de Utilidad Pública de la Comunitat Valenciana es un registro público de carácter administrativo, en el que se incluyen todos los montes declarados de dominio público y de utilidad pública. Asimismo, se inscribirán las ocupaciones, concesiones, servidumbres y demás derechos reales que graven los bienes inscritos.
@@ -431,14 +412,11 @@ La información será la siguiente:
 Toda inscripción en el Catálogo deberá completarse con la incorporación del plano del monte, a la escala y con los requisitos técnicos que determine el órgano competente en materia forestal.
 
 
-### Artículo 11. Catálogo de Montes Protectores de la Comunitat Valenciana
 
 Los terrenos forestales declarados protectores (montes, zonas) se inscribirán en el Catálogo de Montes Protectores de la Comunitat Valenciana, por provincias, numerando cada uno de ellos y mencionando la comarca, el partido judicial, el término municipal, el nombre y la propiedad.
 
 - **Listado por provincias**: numeración, comarca, partido judicial, término municipal, nombre, y titular
 
-
-### Artículo 12. Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana
 
  Para su localización geográfica, se tomará como referencia el [Registro de Cartografía de Terrenos Forestales de la Comunitat Valenciana](https://mediambient.gva.es/es/web/medio-natural/descarrega-cartografia-forestal), de carácter informativo.
 
@@ -463,6 +441,7 @@ La aprobación de un instrumento técnico de gestión forestal incoará de ofici
 	Reglamentariamente se establecerán las condiciones que deben cumplir los terrenos para las cesiones de uso y sus efectos sobre el Registro, así como las condiciones básicas y compromisos derivados de dicha cesión y otros aspectos relacionados con la gestión del RETEGEI.
 
 ##### Planificación forestal
+
 
 ###### Planes de Prevención de Incendios Forestales de Demarcación Forestal (PPIFDF):
 
@@ -616,8 +595,8 @@ Los titulares de los terrenos agrícolas en los que se realicen plantaciones
 forestales temporales podrán solicitar la reversión a terrenos agrícolas, sin que dicha reversión tenga la consideración de cambio de uso, siempre y cuando la Conselleria con competencias en materia forestal haya reconocido el carácter agrícola de la parcela previo a la plantación forestal, de acuerdo con el procedimiento establecido en el apartado anterior.  
 
 Cuando el titular de la parcela tenga la intención de revertir el terreno a agrícola, presentará ante el órgano competente en materia forestal, una  declaración responsable en la que conste:  
-- La identificación del terreno que era agrícola y sobre el que se realizó la plantación forestal.  
-- El plazo durante el que ha realizado dicha plantación.  
+- **Identificación** del terreno que era agrícola y sobre el que se realizó la plantación forestal.  
+- **Plazo** durante el que ha realizado dicha plantación.  
 - Que dicho terreno consta en el Registro de Plantaciones Forestales  Temporales.  
 - Su intención de que dicho terreno revierta al uso agrícola que tenía cuando se incluyó en el mismo.  
 
@@ -642,14 +621,15 @@ Artículo 107. Proyecto técnico
 La solicitud de inclusión o modificación en el Catálogo deberá ir acompañada  
 de un proyecto técnico de las instalaciones recreativas y deportivas, que  
 deberá indicar las siguientes características:  
-- Tipo de servicios que ofrece
-- Características de la actividad vinculada
+
+- **Tipo de servicios** que ofrece
+- **Características** de la actividad vinculada
 - Localización geográfica, dimensiones de la instalación y, en su caso, trazado
-- Capacidad de acogida en cuanto a número de usuarios
+- **Capacidad de acogida**: número de usuarios
 - Medidas y trabajos a ejecutar con arreglo a las dotaciones mínimas establecidas en el ANEXO IV.
 - Cuando se requiera la construcción de algún elemento o infraestructura, indicación de sus características técnicas básicas, que incluirán sus dimensiones y materiales necesarios
-- Cualquier otra información que se pueda considerar conveniente, como la tipología de vehículos autorizados o las condiciones específicas de circulación
-- Propuesta de mejora ambiental
+- **Otra información** que se pueda considerar conveniente, como la tipología de vehículos autorizados o las condiciones específicas de circulación
+- **Propuesta de mejora ambiental**
 
 Las instalaciones recreativas se definen en el anexo IV.  
 
@@ -689,7 +669,8 @@ Se consideran senderos:
 
 >Aquellos itinerarios señalizados que, localizándose durante la mayor parte de su recorrido en el medio natural y siguiendo en lo posible sendas, caminos, vías pecuarias, pistas forestales y otras vías tradicionales, se encuentren inscritos en el registro público de senderos de la Comunitat Valenciana.
 
-Deberán clasificarse y señalizarse de acuerdo a determinadas tipologías y características (Anexo V).  
+Deberán clasificarse y señalizarse de acuerdo a determinadas tipologías y características (Anexo V). 
+
 Se consideran compatibles los usos agropecuarios y forestales, la actividad ecuestre, y otras formas de desplazamiento no motorizado (salvo prohibición expresa).
 
 La inscripción en el Registro requerirá la presentación de la siguiente documentación:
@@ -703,8 +684,7 @@ La inscripción en el Registro requerirá la presentación de la siguiente docum
 
 Recibida la solicitud de inscripción en el Registro y una vez comprobado por  la dirección territorial competente en materia forestal, de la provincia en que se ubique el sendero, que reúne todos los documentos necesarios, así como la no afección a especies amenazadas, esta comunicará su inscripción provisional al interesado y a la dirección general competente en materia forestal.  
 
-Con la inscripción provisional del sendero, el promotor quedará habilitado para realizar en el plazo de dos años los trabajos de acondicionamiento y señalización contemplados en la memoria explicativa que acompañe a la solicitud, siempre bajo la supervisión del personal de la conselleria competente en materia forestal.  
-
+Con la inscripción provisional del sendero, el promotor quedará habilitado para realizar en el plazo de dos años los trabajos de acondicionamiento y señalización contemplados en la memoria explicativa que acompañe a la solicitud, siempre bajo la supervisión del personal de la Conselleria competente en materia forestal.  
 En caso de no cumplir lo indicado en el apartado anterior, se producirá, previa audiencia al promotor, la caducidad automática de la inscripción  
 provisional.  
 
@@ -712,9 +692,7 @@ Previa a la inscripción definitiva, el solicitante deberá presentar el certifi
 
 La inscripción definitiva, modificación o baja en el Registro, se efectuará por resolución de la dirección general competente en materia forestal. En el caso de las modificaciones se requerirá de un nuevo certificado de homologación. Las resoluciones deberán ser motivadas.
 
-Sección 5ª. Circulación de vehículos por terrenos forestales  
-Artículo 112. Pistas y sendas forestales  
-
+**Circulación de vehículos por terrenos forestales**  
 
 Son pistas forestales:
 
@@ -724,7 +702,7 @@ La circulación con vehículos a motor por pistas forestales abiertas al tránsi
 
 El titular de una pista forestal de titularidad pública destinada a un servicio público podrá restringir la circulación de vehículos a motor por la misma, o establecer las limitaciones o restricciones que considere necesarias.  
 
-Queda prohibida la circulación por las pistas forestales de vehículos a motor de tres ruedas, cuadriciclos, quads, ciclomotores de tres ruedas, cuadriciclos ligeros y quads-ATV, así como el uso de neumáticos de motocrós en la rueda motriz. Igualmente quedan prohibidas las motos de trial y enduro. Se exceptúan de esta prohibición los vehículos de uso agrícola o forestal que consten inscritos en el Registro Oficial de Maquinaria Agrícola (ROMA), regulado en el Real decreto 448/2020, de 10 de marzo, sobre caracterización y registro de la maquinaria agrícola, así como aquellos vehículos cuyo titular y conductor tenga reconocido por la Administración algún grado de movilidad reducida.  
+Queda prohibida la circulación por las pistas forestales de vehículos a motor de tres ruedas, cuadriciclos, quads, ciclomotores de tres ruedas, cuadriciclos ligeros y quads-ATV, así como el uso de neumáticos de motocrós en la rueda motriz. Igualmente quedan prohibidas las motos de trial y enduro. Se exceptúan de esta prohibición los vehículos de uso agrícola o forestal que consten inscritos en el Registro Oficial de Maquinaria Agrícola (ROMA) (Real Decreto 448/2020), así como aquellos vehículos cuyo titular y conductor tenga reconocido por la Administración algún grado de movilidad reducida.  
 
 Se prohíbe la circulación con cualquier tipo de vehículo a motor por las sendas forestales. No tendrán consideración de vehículo a motor las bicicletas con pedaleo asistido mediante motor eléctrico (Real decreto 2822/1998)
 
@@ -738,9 +716,7 @@ Las resoluciones de catalogación de itinerarios y circuitos en el Catálogo de 
 
 Dichos itinerarios y circuitos podrán registrarse con la finalidad de desarrollar actividades con vehículos cuya circulación queda prohibida de forma general en pistas y sendas forestales.  
 
-Artículo 114. Prioridad de paso  
-
-La prioridad de paso es la siguiente: 
+Se establece la siguiente prioridad de paso: 
 
 1. **Vehículos de emergencias o de servicio público** (durante el ejercicio de sus funciones)
 2. **Personas a pie**
@@ -748,7 +724,7 @@ La prioridad de paso es la siguiente:
 4. **Vehículos sin motor**
 5. **Vehículos con motor**
 
-Los vehículos a motor en las zonas debidamente habilitadas para ello. No podrán interrumpir el paso de los vehículos pesados de emergencias, aprovechamientos forestales y servicios del monte.  
+Los vehículos a motor estacionarán en las zonas debidamente habilitadas para ello. No podrán interrumpir el paso de los vehículos pesados de emergencias, aprovechamientos forestales y servicios del monte.  
 
 Los vehículos estacionados no podrán impedir el ejercicio de los derechos establecidos en las servidumbres de paso, o de otra índole legalmente establecida, ni tampoco impedir el acceso a otras vías públicas o privadas.  
 
@@ -761,9 +737,7 @@ No está permitida la pernocta en vehículos fuera de los lugares habilitados pa
 
 Deberán respetarse los cercados, dejando las porteras y las vallas de cierre en la misma posición en que se hayan encontrado.  
 
-Artículo 117. Limitaciones  
 Podrá limitarse o prohibirse el tránsito de vehículos y personas en zonas determinadas, en función de su impacto negativo sobre el medio natural o por riesgo alto de incendios forestales. Será la persona titular de la dirección general con competencias por razón de la materia y mediante resolución motivada quien establezca las restricciones acordadas.
-
 
 #### Incendios forestales
 
@@ -776,8 +750,6 @@ Son medidas y acciones en materia de prevención de incendios forestales, las di
 *Impactos sobre las personas, los bienes, el patrimonio natural, o el medio ambiente.*
 
 Son de interés público de primer orden las medidas y acciones contempladas en planes, programas o proyectos vigentes. Su ejecución será prevalente cuando entren en conflicto con otros instrumentos de gestión o protección del territorio.
-
-
 
 
 Artículo 128. Obligaciones de los propietarios forestales y entidades locales en relación con la prevención de incendios forestales
@@ -794,19 +766,26 @@ Las notificaciones que tengan que realizarse se practicarán conforme lo estable
 
 Podrá delegarse en las Entidades Locales el ejercicio de las competencias en materia de ejecución forzosa de las medidas y acciones en materia de prevención de incendios forestales, en los términos establecidos en la normativa de régimen local. En caso de delegación, habrá de conllevar el traspaso de recursos económicos o medios materiales necesarios.
 
-Artículo 129. Infraestructuras de prevención de incendios forestales
 
 Se consideran infraestructuras de prevención de incendios forestales las siguientes:
 
-- **Observatorios forestales** para vigilancia y detección de incendios y todas sus instalaciones.
-- **Depósitos de agua** destinados a la prevención y extinción de incendios forestales, sus dispositivos hidrantes y redes de abastecimiento.
-- **Infraestructuras e instalaciones de defensa** contra incendios forestales en zonas de interfaz urbano forestal.
-- **Pistas forestales** incluidos en algún instrumento de planificación territorial en materia de prevención de incendios forestales. 
-- **Áreas cortafuegos** y otras actuaciones realizadas sobre la vegetación en puntos o áreas estratégicas, así como la modificación del modelo de combustible forestal, destinadas a alterar el comportamiento del fuego, dificultar o ralentizar la propagación de este y facilitar su extinción con seguridad y eficacia.
-- Líneas de suministro eléctrico a infraestructuras de prevención de incendios. 
-- **Aeródromos de la Generalitat** destinados a la prevención y extinción de incendios forestales mediante el uso de aeronaves y sus edificaciones, instalaciones y equipos.
-- **Redes de comunicaciones digitales** de emergencia y seguridad de la Generalitat y sus instalaciones.
-- **Otros** elemento distinto de los anteriores y que estén contemplado en un plan territorial de prevención de incendios.
+- **Observatorios forestales**: para vigilancia y detección de incendios y todas sus instalaciones.
+
+- **Depósitos de agua**: destinados a la prevención y extinción de incendios forestales, sus dispositivos hidrantes y redes de abastecimiento.
+
+- **Infraestructuras e instalaciones de defensa**: contra incendios forestales en zonas de interfaz urbano forestal.
+
+- **Pistas forestales**: incluidos en algún instrumento de planificación territorial en materia de prevención de incendios forestales. 
+
+- **Áreas cortafuegos**: y otras actuaciones realizadas sobre la vegetación en puntos o áreas estratégicas, así como la modificación del modelo de combustible forestal, destinadas a alterar el comportamiento del fuego, dificultar o ralentizar la propagación de este y facilitar su extinción con seguridad y eficacia.
+
+- Líneas de suministro eléctrico a infraestructuras: de prevención de incendios. 
+
+- **Aeródromos de la Generalitat**: destinados a la prevención y extinción de incendios forestales mediante el uso de aeronaves y sus edificaciones, instalaciones y equipos.
+
+- **Redes de comunicaciones digitales**: de emergencia y seguridad de la Generalitat y sus instalaciones.
+
+- **Otros**: elemento distinto de los anteriores y que estén contemplado en un plan territorial de prevención de incendios.
 
 *A los efectos de utilización del dominio público forestal, las infraestructuras de prevención de incendios forestales tendrán la consideración de uso común especial, quedando sujetas al régimen de autorización administrativa. En cualquier caso, quedarán exentas de cualquier tipo de tasa o canon.*
 
@@ -821,11 +800,7 @@ CAPÍTULO II
 Usos del fuego en los terrenos forestales
 y en la Zona de Influencia Forestal
 
-Sección 1ª. Disposiciones generales
-Artículo 131. Consideración general uso del fuego
-
 *El régimen de usos del fuego, restricciones y/o prohibiciones en los terrenos forestales y en la Zona de Influencia Forestal deberá entenderse sin perjuicio de las limitaciones en materia de quema de residuos vegetales generados en el entorno agrario o silvícola (Ley 7/2022).*
-
 
 Sección 2ª. Usos prohibidos
 Artículo 132. Acciones o actividades con uso del fuego, prohibidas en terrenos forestales y Zona de Influencia Forestal
@@ -841,15 +816,15 @@ Queda prohibido de manera general encender fuego fuera de los supuestos expresam
 
 - El lanzamiento de cohetes, globos o artefactos de cualquier clase que contengan fuego, o puedan producirlo, fuera de los emplazamientos autorizados en el Registro de emplazamientos para actos y festejos tradicionales que pueden usar fuego o artefactos pirotécnicos en suelo forestal o en Zona de Influencia Forestal, y de los usos permitidos establecidos en los artículos siguientes.
 
-- **Márgenes de cultivo**: a menos de 50 metros de terreno forestal (en cualquier época del año).
+- **Quema en márgenes de cultivo**: a menos de 50 metros de terreno forestal (en cualquier época del año).
 
 - **Quema de residuos vegetales**: generados en el entorno agrario o silvícola entre el 1 de junio y el 15 de octubre (ambos inclusive) (salvo disposición expresa en un plan local).
 
 Para el periodo comprendido entre el Jueves Santo y los 11 días naturales siguientes (ambos inclusive) quedan prohibidas, como medida precautoria general, en los montes o terrenos forestales y en la Zona de Influencia Forestal, las acciones o actividades siguientes:
 
-- Quema de márgenes de cultivo (sin perjuicio de la prohibición general: apartado 1.f.)
-- La quema de residuos vegetales generados en el entorno agrario o selvícola.
-- Operaciones de destilación de plantas aromáticas y hornos de carbón y cal.
+- **Quema de márgenes de cultivo** (sin perjuicio de la prohibición general: apartado 1.f.)
+- **Quema de residuos vegetales**: generados en el entorno agrario o selvícola.
+- **Determinadas operaciones**: de destilación de plantas aromáticas y hornos de carbón y cal.
 
 Sección 5ª. Efectos del nivel 3 de preemergencia ante el riesgo de incendios forestales
 Artículo 139. Nivel 3 de preemergencia ante el riesgo de incendios
@@ -1046,14 +1021,19 @@ En el ejercicio de la caza se diferencian las modalidades deportivas y tradicion
 
 #### Disposiciones generales
 
-La presente ley tiene por objeto regular en la Comunidad Valenciana la caza: "el aprovechamiento racional de los recursos cinegéticos dirigido a la conservación y restauración del estado de normalidad de las poblaciones silvestres afectadas".
+La presente ley tiene por objeto regular en la Comunidad Valenciana la caza:
 
-*El estado de normalidad es aquél que permite alcanzar el óptimo aprovechamiento estable y sostenido, en condiciones de plena compatibilidad con todo el resto de las especies y valores naturales y con todos los demás usos y usuarios legítimos presentes en el territorio.*
+>El aprovechamiento racional de los recursos cinegéticos dirigido a la conservación y restauración del estado de normalidad de las poblaciones silvestres afectadas.
 
-Se considera acción de cazar la ejercida por las personas mediante el uso de armas, animales, artes o medios apropiados para buscar, atraer, conducir o perseguir los animales definidos en esta ley como piezas de caza, con el fin de darles muerte, capturarlos vivos, apropiarse de ellos o facilitar otro tanto a un tercero, así como todas aquellas acciones similares en relación a las especies de aves o mamíferos silvestres que no sean amenazadas o protegidas, cuando sea necesario por razones técnicas de equilibrio, seguridad y gestión del medio natural.
+El estado de normalidad es:
+
+>>Aquél que permite alcanzar el óptimo aprovechamiento estable y sostenido, en condiciones de plena compatibilidad con todo el resto de las especies y valores naturales y con todos los demás usos y usuarios legítimos presentes en el territorio.*
+
+Se considera acción de cazar:
+
+>La ejercida por las personas mediante el uso de armas, animales, artes o medios apropiados para buscar, atraer, conducir o perseguir los animales definidos en esta ley como piezas de caza, con el fin de darles muerte, capturarlos vivos, apropiarse de ellos o facilitar otro tanto a un tercero, así como todas aquellas acciones similares en relación a las especies de aves o mamíferos silvestres que no sean amenazadas o protegidas, cuando sea necesario por razones técnicas de equilibrio, seguridad y gestión del medio natural.
 
 *Se excluye de la consideración de acción de caza el tiro sobre pichón, codorniz o faisán en instalaciones deportivas permanentes.* 
-
 
 El derecho a cazar corresponde a toda persona física que cumpla los requisitos (título II).
 
@@ -1069,12 +1049,13 @@ Las competencias que se derivan de la aplicación de la presente ley se ejercer�
 
 El cazador deberá estar en posesión de la correspondiente licencia de caza. Son requisitos para la obtención de la licencia de caza los siguientes:
 
-- **Edad**: mínimo de 14 años cumplidos, y menores no emancipados, autorización escrita de uno de sus padres o tutor.
-- **Pruebas de aptitud**: superación o convalidación, reguladas mediante orden de Conselleria
-- **Seguro de responsabilidad civil**: daños a terceros
-- Tener suscrito y vigente un seguro de responsabilidad civil de daños a terceros en el caso de práctica de caza con armas u otras artes o medios cuando puedan producir daños a las personas o sus bienes
+- **Edad**: mínimo de 14 años cumplidos (menores no emancipados con autorización escrita de uno de sus padres o tutor).
 
-Los menores de edad, en el caso de cazar con armas, estarán sujetos a lo dispuesto en el Reglamento de Armas (Real Decreto 137/1993), y deberán ir acompañados de un cazador mayor de edad que estará obligado a vigilar su actividad.
+- **Pruebas de aptitud**: superación o convalidación, reguladas mediante orden de Conselleria
+
+- **Seguro de responsabilidad civil**: daños a terceros, en la práctica de caza con armas u otras artes o medios cuando puedan producir daños a las personas o sus bienes
+
+*Los menores de edad, en el caso de cazar con armas, estarán sujetos a lo dispuesto en el Reglamento de Armas (Real Decreto 137/1993), y deberán ir acompañados de un cazador mayor de edad que estará obligado a vigilar su actividad.*
 
 Durante el ejercicio de la caza el cazador deberá llevar:
 
@@ -1084,15 +1065,13 @@ Durante el ejercicio de la caza el cazador deberá llevar:
 - **Autorización de armas**: permisos, licencias o tarjetas de armas
 - **Permiso del titular del espacio**: de la zona de caza controlada o reserva valenciana de caza donde se practique la caza.
 
-La documentación citada deberá ser exhibida a requerimientode las autoridades y de todos sus agentes.
+La documentación citada deberá ser exhibida a requerimiento de las autoridades y de todos sus agentes.
 
 *No tienen la condición de cazador (y por tanto están exentos de la posesión de la anterior documentación) los acompañantes, ojeadores, batidores, secretarios, prácticos y todas aquellas personas que en el acto de cazar, y sin transportar armas, actúen como ayudantes, colaboradores o auxiliares del cazador. No obstante, tendrán la consideración de cazador los portadores de las dulas cuando éstas se utilicen en las batidas o monterías.* 
 
- En la caza científica, siempre que no se utilicen armas de fuego, los permisos nominativos expedidos a los responsables y colaboradores científicos tendrán simultáneamente la consideración de licencia de caza.
+- **Caza científica**: si no usan armas de fuego, los permisos nominativos expedidos a los responsables y colaboradores tendrán la consideración de licencia de caza.
 
-En la caza tradicional, el cazador deberá llevar la autorización de la instalación cinegética y el permiso de aptitud y conocimiento exigidos reglamentariamente.
-
-
+- **Caza tradicional**: el cazador deberá llevar la autorización de la instalación cinegética y el permiso de aptitud y conocimiento exigidos reglamentariamente.
 
 En el ejercicio de la caza se diferencian las modalidades deportivas y tradicionales de caza de aquellas técnicas de caza que obedezcan a razones de gestión, control, científicas o educativas.
 
@@ -1101,9 +1080,13 @@ Los animales objeto de caza serán abatidos o capturados en las condiciones meno
 Los cazadores están obligados a tomar las medidas oportunas para garantizar el adecuado trato del animal, antes, durante, e incluso tras su muerte o captura. En concreto el cazador, en el ejercicio de la caza con armas, queda obligado a:
 
 - **Munición y armas**: apropiadas y permitidas para procurar una muerte súbita y sin sufrimiento.
+
 - **Reconocimiento previo**: disparar sólo cuando haya sido identificada la especie (incluyendo sexo o edad cuando la autorización la contemple).
+
 - **Aprovechamiento posterior**: apropiación (de ellas o de sus trofeos) y uso de su carne o productos secundarios, u otra causa justificada.
+
 - **Cobro**: de las piezas muertas o heridas, y abstención en las situaciones difíciles.
+
 - **Muerte**: rápida y apropiada, de los ejemplares abatidos y heridos.
 
 El cazador queda obligado a facilitar la acción de los agentes encargados de inspeccionar el buen orden cinegético (tanto en los espacios cinegéticos como en los trayectos de ida y vuelta de los mismos).
@@ -1118,9 +1101,12 @@ precisas para garantizar la conservación de las especies. En estos casos la res
 
 
 Los dueños o cuidadores de los perros que transiten en espacios cinegéticos o refugios de fauna o flora quedan obligados:
-- a) A controlarlos eficazmente, llevándolos atraillados, con el fin de evitar que ejerzan acciones de búsqueda de piezas de caza, o que causen daños a la fauna y la flora, a excepción hecha de la acción misma de cazar, entrene o adiestramiento autorizado.
-- A atraillarlos en los meses que reglamentariamente se determine.
-- A cumplir, por parte de los dueños o poseedores, las prescripciones legales sobre tenencia, tratamientos sanitarios o vacunación, e identificación y censado.
+
+- **Controlar eficaz**: llevándolos atraillados, para evitar que ejerzan acciones de búsqueda de piezas de caza, o que causen daños a la fauna y la flora (a excepción de la acción de cazar, entrene o adiestramiento autorizado).
+
+- **Atraillados**: en los meses que reglamentariamente se determine.
+
+- **Cumplimiento de prescripciones legales** (dueños o poseedores): sobre tenencia, tratamientos sanitarios o vacunación, e identificación y censado.
 
 No se consideran incluidos en las letras a) y b) del punto anterior los perros
 utilizados en actividades de pastoreo siempre que pertenezcan a razas afines o típicas del careo y guarda del ganado y actúen como tales, permanezcan bajo la inmediata vigilancia y alcance del pastor y actúen en número limitado en proporción al número de cabezas y clase de ganado.
@@ -1136,49 +1122,83 @@ Artículo 12. Prohibiciones en el ejercicio de las modalidades deportivas
 
 Quedan prohibidas en el ejercicio de la caza deportiva las siguientes modalidades:
 
-- **Nocturna**, salvo cuando expresamente se autorice en razón de su tradición para la caza de aves acuáticas, así como para la caza de especies de caza mayor en la modalidad de espera. Se considera que la caza es nocturna cuando se practica entre el crepúsculo civil vespertino y el crepúsculo civil matutino. A estos efectos, la conselleria competente en materia de caza publicará los horarios comunes que regirán para toda la Comunitat Valenciana. 6
-- **Días de fortuna**. Son días de fortuna aquellos en los que como consecuencia de enfermedades, incendios, inundaciones, nieblas que reduzcan la visibilidad a menos de 100 metros, nevadas, u otras circunstancias excepcionales, los animales pueden llegar a ver disminuidas sus posibilidades de defensa u ocultación.
-		Esta prohibición incluye la caza en terrenos forestales incendiados, y sus enclavados menores de 250 has, hasta la finalización de la temporada de caza que se inicie en el año natural posterior al suceso.
-- La caza aprovechándose del trabajo de la maquinaria agrícola o forestal.
-- La caza de especies de caza menor en aguaderos o cebaderos artificiales, salvo en los acotados de aves acuáticas y las especies migratorias, siempre que se les dispare en vuelo. A los efectos de la presente ley, tienen la consideración de cebadero los comederos y las porciones de terreno en las que se deposita alimento en abundancia o de manera reiterativa con la finalidad de atraer las piezas de caza
-- Manos encontradas.
-- La caza a la retranca o aprovechándose de la celebración de monterías u ojeos apostados a menos de 500 o 100 metros respectivamente de la linde de los terrenos cinegéticos donde se celebren.
-- La caza de aves en periodo de celo, reproducción, crianza o migración prenupcial, con excepción de la modalidad de la caza con perdiz con reclamo macho, siempre que en el mismo espacio cinegético y en la misma época no se practique otra modalidad deportiva de caza con escopeta.
-- Crías o de las hembras seguidas de crías cuando éstas sean reconocibles.
-- Reclamo de perdiz hembra.
-- Monterías o batidas en puestos interiores a menos de 100 metros de cerramientos cinegéticos.
-- Desde aeronaves, vehículos terrestres, embarcaciones a motor o caballerías, o sirviéndose de ellos como medios de ocultación.
+- **Nocturna**: entre el crepúsculo civil vespertino y el civil matutino (salvo cuando expresamente se autorice en razón de su tradición para la caza de aves acuáticas, así como para la caza de especies de caza mayor en la modalidad de espera). La Conselleria competente publicará los horarios comunes que regirán para toda la *Comunitat Valenciana*.
+
+- **Días de fortuna**: aquellos en los que como consecuencia de enfermedades, incendios, inundaciones, nieblas que reduzcan la visibilidad a menos de 100 metros, nevadas, u otras circunstancias excepcionales, los animales pueden llegar a ver disminuidas sus posibilidades de defensa u ocultación.
+
+	Esta prohibición incluye la caza en terrenos forestales incendiados, y sus enclavados menores de 250 has, hasta la finalización de la temporada de caza que se inicie en el año natural posterior al suceso.
+
+- **Aprovechándose del trabajo de la maquinaria agrícola o forestal**
+
+- **Caza menor en aguaderos o cebaderos artificiales**, salvo en los acotados de aves acuáticas y las especies migratorias, siempre que se les dispare en vuelo. A los efectos de la presente ley, tienen la consideración de cebadero los comederos y las porciones de terreno en las que se deposita alimento en abundancia o de manera reiterativa con la finalidad de atraer las piezas de caza
+
+- **Manos encontradas**
+
+- **A la retranca o aprovechándose de la celebración de monterías u ojeos apostados a menos de 500 o 100 metros** respectivamente de la linde de los terrenos cinegéticos donde se celebren.
+
+- **Aves en periodo de celo, reproducción, crianza o migración prenupcial**, con excepción de la modalidad de la caza con perdiz con reclamo macho, siempre que en el mismo espacio cinegético y en la misma época no se practique otra modalidad deportiva de caza con escopeta.
+
+- **Crías**: o de las hembras seguidas de crías cuando éstas sean reconocibles
+
+- **Reclamo de perdiz hembra**
+
+- **Monterías o batidas** en puestos interiores a menos de 100 metros de cerramientos cinegéticos
+
+- **Desde aeronaves, vehículos terrestres, embarcaciones a motor o caballerías**; o sirviéndose de ellos como medios de ocultación.
+
 - Alterar, deteriorar o destruir los vivares, nidos, madrigueras y otros lugares de cría o refugio de las especies con la finalidad de capturar la pieza de caza.
-- Cualquier práctica fraudulenta dirigida a atraer o retener la caza procedente de terrenos ajenos o a espantarla o chantearla antes de las cacerías.
+
+- **Práctica fraudulenta** dirigida a atraer o retener la caza procedente de terrenos ajenos o a espantarla o chantearla antes de las cacerías.
 
 En la práctica de las modalidades deportivas de caza o con ocasión de las mismas quedan prohibidos los siguientes usos y acciones:
 
-- Lazos, anzuelos, fosos así como todo tipo de trampas y de cepos o ballestas.
-- Humedales o a menos de cien metros de éstos queda prohibido disparar munición de plomo y transportar cualquier munición de este tipo durante la acción de caza en un humedal. Se excluye de esta prohibición toda munición de tipo bala de escopeta y/o rifle.
-- Redes o sustancias adhesivas.
-- El empleo de hurones, así como de reclamos o cimbeles de especies protegidas, vivos o naturalizados, o cualquier reclamo cegado o mutilado así como todo tipo de reclamo eléctrico o mecánico, incluidas las grabaciones y cableados asociados, con la excepción de los reclamos manuales y bucales.
-- Armas automáticas o semiautomáticas cuyo cargador pueda contener más de dos cartuchos, las de aire comprimido así como las que disparen proyectiles que inyecten sustancias paralizantes y los rifles de calibre
-- Silenciadores o de miras de visión nocturna o térmica incorporadas al arma o como mecanismo de puntería.
-- Postas (proyectiles introducidos en cartuchos en número de dos o más y cuyo peso unitario sea ≥ a 2,5 gramos).
-- Fuentes luminosas artificiales (faros, linternas...) y espejos
+- **Trampas**: lazos, anzuelos, fosos, cepos o ballestas.
+
+- **Plomo en humedales** (a menos de 100 metros): disparar munición o transportarla (salvo para balas de escopeta y/o rifle).
+
+- **Redes o sustancias adhesivas**
+
+- Hurones, así como de reclamos o cimbeles de especies protegidas, vivos o naturalizados, o cualquier reclamo cegado o mutilado así como todo tipo de reclamo eléctrico o mecánico, incluidas las grabaciones y cableados asociados, con la excepción de los reclamos manuales y bucales.
+
+- **Armas automáticas o semiautomáticas** cuyo cargador pueda contener más de dos cartuchos, las de aire comprimido así como las que disparen proyectiles que inyecten sustancias paralizantes y los rifles de calibre
+
+- **Silenciadores o de miras de visión nocturna o térmica** incorporadas al arma o como mecanismo de puntería.
+
+- **Postas** (proyectiles introducidos en cartuchos en número de dos o más y cuyo peso unitario sea ≥ a 2,5 gramos).
+
+- **Fuentes luminosas artificiales** (faros, linternas...) y **espejos**
 
 	Se excluye de esta prohibición el uso de fuentes luminosas en tránsito de ida o vuelta a los lugares de caza con el arma enfundada o desmontada, así como el uso con autorización exprés de linternas o focos para la caza del jabalí a la espera en el instante previo al disparo a fin de garantizar la seguridad de las cacerías. 
-- Palomos deportivos o mensajeros.
-- Aparatos electrocutantes o paralizantes.
-- Abandono de las vainas de la munición empleada, así como cualquier otro residuo no orgánico usado en las prácticas cinegéticas.
-- Sustancias olorosas atrayentes.
+
+- **Palomos** deportivos o mensajeros
+
+- **Aparatos electrocutantes o paralizantes**
+
+- **Residuos no orgánicos**: abandono de las vainas de la munición empleada...
+
+- **Sustancias olorosas atrayentes**
+
 - Entorpecer, dificultar, interrumpir o impedir las acciones colectivas de caza legalmente autorizadas en orden a su preparación, organización, ejecución y posibilidades de optimizar resultados.
+
 - Queda igualmente prohibido en el ejercicio de la caza o cuando se transporten armas u otros medios legales de caza, salvo autorización, la tenencia de los medios citados anteriormente. Asimismo, queda prohibida su comercialización sin autorización para su utilización como medios de caza.
-- Otro precepto de esta ley o de los que para su desarrollo se fijen reglamentariamente.
+
+- **Otro**: de esta ley o de los que se fijen reglamentariamente.
 
 Queda prohibido, para salvaguardar la seguridad de las personas y de los bienes:
+
 - El ejercicio de la caza con armas a menos de 100 metros de los lugares en donde se realicen las labores de cultivo o recolección.
+
 - La caza en cultivos o la acción del disparo hacia ellos en los supuestos desarrollados reglamentariamente; ello con el fin de evitar daños significativos en las cosechas pendientes de recogida o en el desarrollo de plantaciones o siembras, tanto por el tránsito de cazadores o perros como por el impacto de os proyectiles.
+
 - c) La caza en las proximidades de rebaños y animales de pastoreo que pudieran verse espantados o perjudicados por la acción de los cazadores y sus perros o por el uso de armas de fuego. A estos efectos los cazadores deberán guardar una distancia de seguridad de 100 metros hasta los animales más cercanos, absteniéndose de disparar en dirección a los mismos cuando los proyectiles puedan alcanzarlos.
+
 - El ejercicio de la caza con armas a menos de 200 metros de los lugares en que por cualquier razón existan campamentos, competiciones deportivas o concentraciones de personas ajenas a la caza. Tampoco podrá dispararse en dicha dirección desde mayor distancia cuando los proyectiles puedan alcanzar el área de protección.
+
 - El ejercicio de la caza con armas a menos de 100 metros de los lugares en que se estén efectuando labores de navegación, pesca o cualesquiera otras actividades que impliquen la presencia de personas ajenas a la caza. Tampoco podrá dispararse en dicha dirección desde mayor distancia cuando los proyectiles puedan alcanzar el área de protección.
-- La caza de palomas diferentes de las torcaces o tórtolas a menos de 1.000 metros de un palomar industrial debidamente señalizado.
-- g) El uso imprudente de las armas de fuego, así como la participación en cacerías de batida, batida pequeña o montería de monteros, batidores o sus acompañantes sin vestir piezas reflectantes que cubran al menos el pecho y la espalda. 12
+
+- Palomas diferentes de las torcaces o tórtolas: a menos de 1.000 metros de un palomar industrial debidamente señalizado
+
+- Uso imprudente de las armas de fuego, así como la participación en cacerías de batida, batida pequeña o montería de monteros, batidores o sus acompañantes sin vestir piezas reflectantes que cubran al menos el pecho y la espalda. 12
 
 El cazador deberá proceder a descargar el arma cuando por cualquier circunstancia se aproxime en dirección a las personas o bienes objeto de protección.
 
@@ -1186,18 +1206,23 @@ Artículo 13. Técnicas de caza por razones de control, gestión, científicas o
 
 La Conselleria competente (previo informe técnico que lo justifique), podrá excluir mediante resolución expresa, en cualquier clase de terrenos las prohibiciones anteriores, cuando concurra alguna de las siguientes circunstancias y no hubiera otra solución satisfactoria.
 
-- Cuando puedan existir efectos perjudiciales a la salud y seguridad de las personas o para la seguridad del tráfico terrestre o aéreo.
-- Cuando puedan existir efectos perjudiciales para especies protegidas. 
+- Efectos perjudiciales a la salud y seguridad de las personas o para la seguridad del tráfico terrestre o aéreo
+
+- Efectos perjudiciales para especies protegidas
+
 - Para prevenir perjuicios importantes a los cultivos, el ganado, los bosques, la fauna, ya sea tanto cinegética como no, y pescable como no, o la calidad de las aguas.
-- Para combatir enfermedades o epizootias que afecten a las especies silvestres.
+
+- Combatir enfermedades o epizootias que afecten a las especies silvestres
+
 - Cuando sea necesario por razón de investigación, educación, repoblación o reintroducción, o cuando se precise para la cría en cautividad orientada a dichas acciones.
 
 La resolución administrativa a la que hace referencia el apartado anterior deberá ser motivada y especificar:
-- Especies objeto de excepción
+
+- **Especies** objeto de excepción
 - Medios, sistemas o métodos a emplear y sus límites, y el personal cualificado
 - Condiciones de riesgo y circunstancias de tiempo y lugar
-- Controles que se ejercerán
-- Objetivo o razón de la acción
+- **Controles** que se ejercerán
+- **Objetivo o razón** de la acción
 
 Cuando la resolución administrativa anterior afecte a zonas de seguridad sólo podrán emplearse armas de fuego ante la inexistencia de otra solución satisfactoria. En este caso, la resolución establecerá aquellas garantías necesarias para la protección de los bienes y personas.
 
@@ -1208,28 +1233,38 @@ causar daños o constituirse en un peligro para las personas, los bienes o las e
 
 Son especies cinegéticas 
 
->"aquéllas aves o mamíferos que en su estado de normalidad poblacional son capaces de mantener un crecimiento poblacional significativo y que, siendo susceptibles de un aprovechamiento concreto, tienen atractivo para los cazadores deportivos gracias a sus capacidades de defensa así como aquéllas especies que se críen en granjas o explotaciones cinegéticas y sean susceptibles de naturalización en el medio y que consten en el listado".
+>Aquéllas aves o mamíferos que en su estado de normalidad poblacional son capaces de mantener un crecimiento poblacional significativo y que, siendo susceptibles de un aprovechamiento concreto, tienen atractivo para los cazadores deportivos gracias a sus capacidades de defensa así como aquéllas especies que se críen en granjas o explotaciones cinegéticas y sean susceptibles de naturalización en el medio y que consten en el listado.
 
-El listado se incluye en el Anexo. Su actualización se realizará mediante decreto del Consell (a propuesta de la Conselleria competente).
+*El listado se incluye en el Anexo. Su actualización se realizará mediante decreto del Consell (a propuesta de la Conselleria competente).*
 
-El resto de aves y mamíferos silvestres serán considerados no cinegéticos y, a los efectos de esta ley se clasificarán en especies catalogadas, protegidas y no catalogadas. Tendrán la consideración de especies catalogadas y protegidas las contempladas como tales en los anexos vigentes del Catálogo Valenciano de Especies de Fauna Amenazadas, y de no catalogadas las restantes, incluyendo como no catalogadas la categoría de tuteladas.
+Las especies se clasifican en las siguientes:
 
-A los efectos de la ordenación cinegética, las especies cinegéticas se clasificarán como de caza mayor y menor, y éstas últimas, en acuáticas y no acuáticas, migratorias o no migratorias, de pelo y de pluma. 
+| Clasificación       | Tipología                                         |
+| ------------------- | ------------------------------------------------- |
+| Cinegéticas (Anexo) | - Caza mayor<br>- Caza menor                      |
+| No cinegéticas      | - Catalogadas<br>- Protegidas<br>- No catalogadas |
 
-
-Se entiende por pieza de caza
-
->"cualquier ejemplar, vivo o muerto, de las especies cinegéticas, así como de los ejemplares de aves fringílidas no catalogadas y susceptibles de captura en vivo mediante modalidades de caza tradicional".
-
-También tendrán la consideración de piezas de caza los ejemplares de las especies de mamíferos o aves no catalogadas cuando su caza esté expresamente autorizada por necesidades de control ordinario, debido a razones de equilibrio poblacional (artículo 13), bien de manera contemplada en los planes de ordenación cinegética o bien mediante autorización excepcional.
+*Las de caza menor se clasifican a su vez en acuáticas y no acuáticas, migratorias y no migratorias, y de pelo y pluma.*
 
 
-Cuando la acción de cazar se ajuste a las prescripciones de la presente Ley, el cazador adquiere la propiedad de las piezas de caza mediante la ocupación. Se entienden ocupadas tales piezas desde el momento de su muerte o captura.
+Se entiende por pieza de caza:
 
-Para la atribución de la propiedad de las piezas de caza entre las diferentes personas que articipen en una cacería o en un mismo lance, se aplicarán los usos y costumbres del lugar. En su defecto, el derecho de propiedad sobre la pieza cobrada o su trofeo corresponderá al cazador que la hubiera abatido si se trata de piezas de caza menor; y al autor de la primera sangre cuando se trate
-de piezas de caza mayor. En el caso de piezas de caza menor de pelo acosadas por perros distantes de ella menos de 50 metros en el momento del disparo, la propiedad de la pieza corresponde al dueño de los perros que la hubieran levantado, inclusive si la pieza durante el acoso hubiera traspasado una linde cinegética.
+>Cualquier ejemplar, vivo o muerto, de las especies cinegéticas, así como de los ejemplares de aves fringílidas no catalogadas y susceptibles de captura en vivo mediante modalidades de caza tradicional.
 
-El cazador que hiera una pieza de caza dentro de un terreno donde le estuviera permitido cazar y le corresponda su propiedad de acuerdo al apartado 2, tiene derecho a cobrarla aunque entre en terreno cinegético  ajeno.
+>Los ejemplares de las especies de mamíferos o aves no catalogadas cuando su caza esté expresamente autorizada por necesidades de control ordinario, debido a razones de equilibrio poblacional (artículo 13), bien de manera contemplada en los planes de ordenación cinegética o bien mediante autorización excepcional.
+
+
+Cuando la acción de cazar se ajuste a estas, el cazador adquiere la propiedad de las piezas de caza mediante la ocupación (se entienden ocupadas tales piezas desde el momento de su muerte o captura).
+
+Para la atribución de la propiedad de las piezas de caza entre las diferentes personas que participen en una cacería o en un mismo lance, se aplicarán los usos y costumbres del lugar, y en su defecto, los siguientes: 
+
+- **Caza menor**: el cazador que la hubiera abatido
+
+	- **De pelo acosadas por perros distantes de ella menos de 50 metros en el momento del disparo**: dueño de los perros que la hubieran levantado (inclusive si la pieza hubiera traspasado una linde cinegética).
+
+- **Caza mayor**: autor de la primera sangre
+
+El cazador que hiera una pieza de caza dentro de un terreno donde le estuviera permitido cazar y le corresponda su propiedad, tiene derecho a cobrarla aunque entre en terreno cinegético ajeno.
 
 En todo caso:
 
@@ -1248,10 +1283,15 @@ El organismo responsable de la homologación de los trofeos de caza en la Comuni
 
 #### Espacios y la caza
 
+Se definen como espacios cinegéticos:
 
-Se definen como espacios cinegéticos "aquéllos susceptibles de tal aprovechamiento de manera ordenada que así fueran declarados y las zonas comunes de caza" (artículo 33). Tendrán tal consideración los siguientes:
+>Aquéllos susceptibles de tal aprovechamiento de manera ordenada que así fueran declarados y las zonas comunes de caza (artículo 33). 
 
-- **Reservas valencianas de caza**: 
+Tendrán tal consideración los siguientes:
+
+- **Reservas valencianas de caza**: declaradas por Ley de Les Corts en aquellos terrenos de excepcionales posibilidades cinegéticas de caza mayor y donde, por sus especiales características de orden físico y biológico, sea preciso una ordenación que prime, en sintonía con las circunstancias socioeconómicas del entorno, la conservación de los procesos ecológicos naturales y la biodiversidad.
+
+	En dichas reservas corresponderá a la Conselleria competente en materia de caza la protección, conservación y fomento de las especies cinegéticas así como la gestión y administración de su aprovechamiento. Un reglamento específico regulará el régimen de administración, gestión y ejercicio de la ca a de cada reserva valenciana de caza.
 
 - **Cotos de caza**: 
 
@@ -1283,7 +1323,6 @@ En el interior de cercados instalados con fines no cinegéticos y no permeables 
 
 Los cerramientos cinegéticos de caza mayor tendrán la consideración de explotación ganadera a los efectos de la normativa reguladora de sanidad animal.
 
-Artículo 23. Suspensión de los aprovechamientos
 
 La Conselleria competente declarará como zonas suspendidas de aprovechamiento cinegético:
 
@@ -1304,19 +1343,17 @@ La Conselleria competente declarará como zonas suspendidas de aprovechamiento c
 - Las zonas de caza controlada adjudicadas a sociedades de cazadores que incumplan sus obligaciones.
 
 
-Sección 2ª. Cotos de caza
-Artículo 24. Concepto
-
 Se denomina coto de caza:
 
->"toda superficie continua susceptible de aprovechamiento cinegético ordenado que haya sido declarado como tal por la Conselleria competente en materia de caza".
+>Toda superficie continua susceptible de aprovechamiento cinegético ordenado que haya sido declarado como tal por la Conselleria competente en materia de caza.
 
 La extensión mínima para la constitución de un coto de caza es la siguiente:
+
 - **Caza mayor**: 500 hectáreas
 - **Caza menor**: 250 hectáreas
 - **Aves acuáticas**: 250 hectáreas
 
-A efectos de medición de la extensión, no se considera interrumpida la continuidad de los terrenos por la existencia de enclavados, ríos, cultivos, cañadas, vías y caminos de uso público, ferrocarriles, canales o cualquier otra construcción o accidente del terreno, siempre que no impliquen el fraccionamiento de la unidad de gestión a efectos cinegéticos.
+No se considera interrumpida la continuidad de los terrenos por la existencia de enclavados, ríos, cultivos, cañadas, vías y caminos de uso público, ferrocarriles, canales o cualquier otra construcción o accidente del terreno, siempre que no impliquen el fraccionamiento de la unidad de gestión a efectos cinegéticos.
 
 Los nuevos cotos de caza que se constituyan, así como aquellos ya constituidos a la entrada en vigor de la presente Ley, sobre terrenos compartidos con otra comunidad autónoma y cuya superficie en la Comunidad Valenciana resulte inferior a la establecida en el artículo precedente, podrán ser constituidos como tales si la suma resultante fuera superior a la mencionada en dicho artículo.
 
@@ -1332,11 +1369,16 @@ Artículo 27. Declaración de extinción
 Cuando los terrenos acotados no cumplan las finalidades marcadas en esta ley o los requisitos o condiciones establecidas para su creación o funcionamiento, la administración competente incoará un procedimiento de declaración de extinción de coto de caza que se desarrollará reglamentariamente. Iniciado este procedimiento, podrá acordarse la suspensión cautelar del aprovechamiento cinegético.
 
 La extinción de un coto de caza se producirá además por las siguientes causas:
-- Muerte o extinción de la personalidad jurídica del titular del coto sin que exista sucesión de la titularidad
-- Renuncia expresa del titular
-- Resolución administrativa firme recaída en el expediente sancionador
-- Resolución judicial firme
-- Por las demás causas establecidas legalmente.
+
+- **Muerte o extinción** de la personalidad jurídica del titular del coto sin que exista sucesión de la titularidad
+
+- **Renuncia expresa** del titular
+
+- **Resolución administrativa firme** recaída en el expediente sancionador
+
+- **Resolución judicial firme**
+
+- **Otras causas** establecidas legalmente.
 
 En el correspondiente expediente de declaración de extinción se incluirá un informe sobre la conveniencia y posibilidades de declaración de los terrenos como zona de caza controlada con la finalidad de evitar el deterioro en la conservación de las poblaciones cinegéticas u otros valores naturales. 
 
@@ -1353,8 +1395,6 @@ La inclusión de una propiedad en un coto por esta vía se efectúa sin perjuici
 La administración otorgará la responsabilidad de la gestión al titular que se nombre en cada unidad de gestión cinegética, concediéndole, previa solicitud y pago de las tasas correspondientes, la licencia de coto de caza.
 
 
-Artículo 29. Arrendamiento del aprovechamiento de los cotos de caza
-
 La duración de los contratos de arrendamiento del aprovechamiento de los cotos de caza no será superior a la vigencia de la resolución aprobatoria del plan técnico de ordenación cinegética.
 
 El arrendatario será responsable de cualquier incumplimiento de la citada resolución, correspondiendo subsidiariamente al titular del acotado cualquier responsabilidad derivada de su incumplimiento, incluida la pérdida de la condición de coto de caza o la suspensión temporal del aprovechamiento cinegético.
@@ -1367,7 +1407,7 @@ Los cotos de caza se clasificarán por su categoría o finalidad y tipo de aprov
 
 - **Comerciales**: autorizados a un uso más intensivo y transaccional.
 
-|             |                                                                                                                                                                                                                                                                    |
+| Categoría   | Tipología                                                                                                                                                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Deportivos  | - Caza mayor<br>- Caza menor<br>- Aves acuáticas                                                                                                                                                                                                                   |
 | Comerciales | - Intensivos: piezas cobras principalmente de ejemplares liberados (no de reproducción natural)<br>- De piezas vivas: producción extensiva y natural de especies secundarias para su comercialización en vivo (los métodos de captura deberán adecuarse al objeto) |
@@ -1378,16 +1418,15 @@ Los cotos deportivos de caza menor y los cotos comerciales tendrán que contar o
 Sección 3ª. Otros espacios
 Artículo 31. Reservas valencianas de caza
 
-La Conselleria competente en materia de caza promoverá la creación de reservas valencianas de caza en aquellos terrenos de excepcionales posibilidades cinegéticas de caza mayor y donde, por sus especiales características de orden físico y biológico, sea preciso una ordenación que prime, en sintonía con las circunstancias socioeconómicas del entorno, la conservación de los procesos ecológicos naturales y la biodiversidad.
+- **Reservas valencianas de caza**: la Conselleria competente en materia de caza promoverá la creación de reservas valencianas de caza en aquellos terrenos de excepcionales posibilidades cinegéticas de caza mayor y donde, por sus especiales características de orden físico y biológico, sea preciso una ordenación que prime, en sintonía con las circunstancias socioeconómicas del entorno, la conservación de los procesos ecológicos naturales y la biodiversidad.
 
-Su declaración se hará mediante Ley de Les Corts.
+	Su declaración se hará mediante Ley de Les Corts.
 
-En dichas reservas corresponderá a la Conselleria competente en materia de caza la protección, conservación y fomento de las especies cinegéticas así como la gestión y administración de su aprovechamiento. Un reglamento específico regulará el régimen de administración, gestión y ejercicio de la ca a de cada reserva valenciana de caza.
-
+	En dichas reservas corresponderá a la Conselleria competente en materia de caza la protección, conservación y fomento de las especies cinegéticas así como la gestión y administración de su aprovechamiento. Un reglamento específico regulará el régimen de administración, gestión y ejercicio de la ca a de cada reserva valenciana de caza.
 
 Son zonas de caza controlada:
 
->aquellos terrenos que sean declarados como tales por la Conselleria competente en materia de caza por cumplir alguno de los siguientes requisitos: ser de titularidad pública y poseer la extensión y la forma exigida para la creación de un coto de caza, o poder ser susceptibles de ordenado aprovechamiento de manera agregada a un coto de caza.
+>Aquellos terrenos que sean declarados como tales por la Conselleria competente en materia de caza por cumplir alguno de los siguientes requisitos: ser de titularidad pública y poseer la extensión y la forma exigida para la creación de un coto de caza, o poder ser susceptibles de ordenado aprovechamiento de manera agregada a un coto de caza.
 
 El control y regulación de su disfrute corresponderá a la Conselleria competente (por sí misma o a través de una entidad local, federación deportiva o sociedad de cazadores sin ánimo de lucro, según se determine reglamentariamente). En cualquier caso, se asegurará la conservación, fomento y ordenado aprovechamiento de los recursos cinegéticos, dando preferencia, en todo caso, a los intereses públicos.
 
@@ -1440,13 +1479,12 @@ Artículo 37. Conservación de la riqueza cinegética
 
 Las directrices de ordenación cinegética de la Comunidad Valenciana establecerán las técnicas y cultivos que con preferencia deban fomentarse en beneficio de la riqueza cinegética y fijarán los criterios de aplicación de las técnicas y usos agrícolas, las de pastoreo y los tratamientos selvícolas del modo que resulte menos perjudicial para la fauna cinegética.
 
-La Conselleria competente en materia de caza establecerá las disposiciones que garanticen la compatibilidad con la conservación de la riqueza cinegética de actividades como la captura de caracoles, recolección de setas, espárragos y otros productos naturales, que puedan causar daños o molestias significativas a las especies cinegéticas en época de cría o que puedan afectar
+La Conselleria competente establecerá las disposiciones que garanticen la compatibilidad con la conservación de la riqueza cinegética de actividades como la captura de caracoles, recolección de setas, espárragos y otros productos naturales, que puedan causar daños o molestias significativas a las especies cinegéticas en época de cría o que puedan afectar
 a la seguridad en las cacerías.
 
 Artículo 38. Enfermedades o epizootias
 
 Los titulares de cotos de caza y adjudicatarios de zonas de caza controlada, sus vigilantes, los titulares de explotaciones cinegéticas, los poseedores de piezas cinegéticas en cautividad y los cazadores en general están obligados a comunicar a la Conselleria competente en caza directamente o a través de sus agentes o de las fuerzas o cuerpos de seguridad:
-
 
 - Enfermedad, foco infeccioso o intoxicación en animales.
 - Cebos envenenados o animales afectados por éstos.
@@ -1459,23 +1497,49 @@ CAPÍTULO II
 Espacios no cinegéticos
 Artículo 39. Zonas de seguridad
 
-Son zonas de seguridad aquellas en las que, para evitar daños a las personas o a los bienes, el ejercicio de la caza deba estar prohibido o limitado.
+Son zonas de seguridad:
 
-Se consideran zonas de seguridad los núcleos urbanos, urbanizaciones, poblados y viviendas aisladas, jardines y parques destinados al uso público, recintos deportivos, instalaciones recreativas autorizadas, emplazamientos industriales, explotaciones ganaderas intensivas, núcleos zoológicos, granjas cinegéticas, palomares industriales, vías férreas, carreteras y caminos
-asfaltados, otros caminos de uso público, dominio público marítimo terrestre, aguas y canales navegables y las vías pecuarias, así como todas aquellas que así se declaren mediante resolución del órgano competente en materia de caza de la Conselleria competente en materia de caza.
+>Aquellas en las que, para evitar daños a las personas o a los bienes, el ejercicio de la caza deba estar prohibido o limitado.
+
+Incluyen las siguientes:
+
+- Núcleos urbanos
+- Urbanizaciones
+- Poblados y viviendas aisladas
+- Jardines y parques destinados al uso público
+- Recintos deportivos
+- Instalaciones recreativas autorizadas
+- Emplazamientos industriales
+- Explotaciones ganaderas intensivas
+- Núcleos zoológicos
+- Granjas cinegéticas
+- Palomares industriales
+- Vías férreas, carreteras y caminos asfaltados
+- Otros caminos de uso público
+- Dominio público marítimo terrestre
+- Aguas y canales navegables
+- Vías pecuarias
+- Otras: declaradas mediante resolución del órgano competente en materia de caza de la Conselleria competente en materia de caza.
 
 Los límites de las zonas de seguridad se extenderán hasta una distancia de:
 
-- a) 200 metros desde las últimas edificaciones o vallas perimetrales de los núcleos urbanos, urbanizaciones, poblados, jardines y parques de uso público y recintos deportivos.
-- b) 50 metros a contar desde los extremos de viviendas aisladas, jardines y parques destinados al uso público, recintos deportivos, instalaciones recreativas autorizadas, emplazamientos industriales, explotaciones ganaderas intensivas, núcleos zoológicos, granjas cinegéticas y palomares industriales o desde sus últimas instalaciones anexas o vallados si existieran.
-- 100 metros a cada lado desde el borde del firme, arcén, cuneta o valla de protección de carreteras nacionales, autonómicas y locales.
-- d) 50 metros a cada lado de caminos públicos asfaltados, vías férreas y canales navegables a contar desde el borde.
-- e) 25 metros a cada lado del borde de caminos de uso público no asfaltados
-- f) En toda la extensión del dominio marítimo terrestre o vía pecuaria cuando no tenga por otra razón la condición de zona de seguridad.
+
+| Lugares                                                                                                                                                                                                                                                                                                                           |                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Últimas edificaciones o vallas perimetrales de los núcleos urbanos, urbanizaciones, poblados, jardines y parques de uso público y recintos deportivos                                                                                                                                                                             | 200 metros                                                                           |
+| Viviendas aisladas, jardines y parques destinados al uso público, recintos deportivos, instalaciones recreativas autorizadas, emplazamientos industriales, explotaciones ganaderas intensivas, núcleos zoológicos, granjas cinegéticas y palomares industriales o desde sus últimas instalaciones anexas o vallados si existieran | 50 metros (desde los extremos)                                                       |
+| Borde del firme, arcén, cuneta o valla de protección de carreteras nacionales, autonómicas y locales                                                                                                                                                                                                                              | 100 metros (a cada lado)                                                             |
+| Caminos públicos asfaltados, vías férreas y canales navegables                                                                                                                                                                                                                                                                    | 50 metros a cada lado (a contar desde el borde)                                      |
+| Borde de caminos de uso público no asfaltados                                                                                                                                                                                                                                                                                     | 25 metros (a cada lado)                                                              |
+| Dominio marítimo terrestre o vía pecuaria                                                                                                                                                                                                                                                                                         | Toda su extensión (cuando no tenga por otra razón la condición de zona de seguridad) |
 
 Queda prohibido tanto el empleo como la tenencia de armas cargadas en las zonas de seguridad, así como disparar hacia ellas cuando los proyectiles puedan alcanzarlas.
 
-Los refugios de fauna son zonas en las que, por razones singulares de protección de especies amenazadas, la caza debe quedar, temporal o definitivamente, prohibida. Se declararán mediante Decreto del Consell. Reglamentariamente se determinarán los requisitos, condiciones y procedimiento para su establecimiento.
+Los refugios de fauna son:
+
+>Zonas en las que, por razones singulares de protección de especies amenazadas, la caza debe quedar, temporal o definitivamente, prohibida. Se declararán mediante Decreto del Consell.
+
+Reglamentariamente se determinarán los requisitos, condiciones y procedimiento para su establecimiento.
 
 
 CAPÍTULO III
@@ -1531,16 +1595,22 @@ Artículo 44. Directrices de ordenación cinegética de la Comunidad
 Valenciana
 
  Las directrices de ordenación cinegética de la Comunidad Valenciana fijarán el modelo de ordenación cinegética para toda la Comunidad. Las directrices contendrán:
-- La zonificación de la Comunidad Valenciana a efectos cinegéticos.
-- Las áreas de caza mayor que deberán someterse a un mismo modelo de ordenación cinegética.
-- La lista de especies de susceptible aprovechamiento cinegético.
--  Las vedas generales para las distintas especies y modalidades de caza por zonas cinegéticas.
--  Las directrices, criterios y coeficientes de cálculo precisos para el establecimiento correcto y homogéneo en cada zona cinegética de los planes técnicos de ordenación cinegética de cada unidad de gestión.
+ 
+- **Zonificación** de la Comunidad Valenciana a efectos cinegéticos
 
-Las directrices de ordenación cinegética de la Comunidad Valenciana serán aprobadas por orden del conseller competente en materia de caza.
+- **Áreas de caza mayor** que deberán someterse a un mismo modelo de ordenación cinegética
+
+- **Lista de especies** de susceptible aprovechamiento cinegético
+
+- Vedas generales para las distintas especies y modalidades de caza por zonas cinegéticas
+
+- **Planes técnicos de ordenación cinegética**: directrices, criterios y coeficientes de cálculo precisos para el establecimiento correcto y homogéneo en cada zona cinegética de los planes técnicos de ordenación cinegética de cada unidad de gestión.
+
+	Las directrices de ordenación cinegética de la Comunidad Valenciana serán aprobadas por orden del conseller competente en materia de caza.
 
  
 Artículo 45. Planes técnicos de ordenación cinegética
+
 La ordenación técnica de los espacios cinegéticos declarados se plasmará en un plan técnico de ordenación cinegética suscrito por técnico competente que ordenará las intervenciones de uso, gestión y fomento a realizar en cada espacio dando preferencia a las medidas de conservación y mejora de los hábitats propicios para cada especie cinegética.
 
 En ningún espacio, y con independencia de la titularidad pública o privada del mismo, podrá practicarse ninguna clase de aprovechamiento cinegético, mientras éste no se encuentre sujeto a una ordenación técnica adecuada, acorde con las directrices de ordenación cinegética de la Comunidad Valenciana y haya sido aprobado por la Conselleria competente en materia de
@@ -1584,7 +1654,7 @@ de los planes técnicos de ordenación a que se refiere el artículo 45.4.
 La Conselleria competente en materia de caza, procederá de oficio a la ejecución de una revisión extraordinaria si se constata la existencia de desviaciones respecto a la ordenación aprobada, tras una inspección sobre el
 terreno o mediante examen de las memorias presentadas.
 
-Artículo 48. Órdenes de vedas 20
+Artículo 48. Órdenes de vedas
 
 La orden de vedas, de manera especial en las zonas comunes, establecerá, con el fin de garantizar el buen orden cinegético, las limitaciones relativas a los periodos, especies, espacios o modalidades de caza contemplados en los diferentes instrumentos de planificación cinegética.
 
@@ -1601,9 +1671,9 @@ La pesca es competencia autonómica en aguas interiores. La [Orden 30/2016](http
 
 Aparecen en el artículo 2:
 
-**_1._** Medición de ejemplares. Se entenderá por longitud en los peces, la distancia existente desde el extremo anterior de la cabeza hasta el punto medio de la parte posterior de la aleta caudal o cola extendida (longitud horquilla), y para el cangrejo, la comprendida entre el ojo y la extremidad de la cola, también extendida.
+**_1._** **Medición de ejemplares**. Se entenderá por longitud en los peces, la distancia existente desde el extremo anterior de la cabeza hasta el punto medio de la parte posterior de la aleta caudal o cola extendida (longitud horquilla), y para el cangrejo, la comprendida entre el ojo y la extremidad de la cola, también extendida.
 
-**_2._** Especies con limitación de talla. Las especies y tallas mínimas, en centímetros, cuya pesca está permitida en aguas continentales de la Comunitat Valenciana son:
+**_2._** **Especies con limitación de talla**. Las especies y tallas mínimas, en centímetros, cuya pesca está permitida en aguas continentales de la *Comunitat Valenciana* son:
 
 | Especie                                           | Talla mínima     | Cupo diario |
 | ------------------------------------------------- | ---------------- | ----------- |
@@ -1619,28 +1689,26 @@ Todos aquellos ejemplares que se capturen de medida inferior a la establecida de
 
 *Las especies incluidas en el Catálogo español de especies exóticas invasoras se regirán por lo establecido en el artículo 64 ter de la Ley 42/2007 y el artículo 7.3 del Real decreto 630/2013.*
 
-La delimitación del área ocupada por dichas especies antes de la entrada en vigor de la Ley 42/2007, se refleja en el anexo III. Fuera de estas áreas no está permitida la pesca de estas especies. En caso de pesca accidental, no se podrán devolver al medio natural.
+La delimitación del área ocupada por dichas especies antes de la entrada en vigor de la Ley 42/2007 se refleja en el anexo III. Fuera de estas áreas no está permitida la pesca de estas especies. En caso de pesca accidental, no se podrán devolver al medio natural.
 
-Especies marinas. Aquellas que se adentren en las aguas continentales podrán ser pescables. La talla mínima será la establecida en las normativas de pesca marítima de recreo.
-
+**Especies marinas**. Aquellas que se adentren en las aguas continentales podrán ser pescables. La talla mínima será la establecida en las normativas de pesca marítima de recreo ([Real Decreto 347/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-6099))
 
 #### Limitaciones y prohibiciones de carácter general
 
 En el artículo 4:
 
-- **Redes**. El uso de redes está prohibido y solo es autorizable, con carácter excepcional, según lo previsto en la Ley de Pesca Fluvial.
+- **Redes**. prohibido en general (solo autorizable de manera excepcional de acuerdo con la Ley de Pesca Fluvial)
 
-- **Cebos**. Con carácter general queda prohibida la utilización de los siguientes cebos: cangrejos vivos o muertos o sus partes, huevas, anfibios vivos o muertos, peces vivos o muertos, lombriz y asticot (gusano de carne). En las zonas de desembocadura de los ríos al mar sí se podrán utilizar como cebo peces muertos tales como la sardina, boquerón, caballa o jurel enteros o troceados, siempre que sean adquiridos en comercios.
+- **Cebos**. se prohíbe de manera general la utilización de cangrejos (vivos o muertos o sus partes), huevas, anfibios (vivos o muertos), peces (vivos o muertos), lombriz y asticot (gusano de carne). 
 
-	El uso de lombriz y asticot (gusano de carne), solo se autoriza en aguas no trucheras.
+	- **Desembocadura de los ríos al mar**: se admiten los peces muertos (sardina, boquerón, caballa, jurel) (enteros o troceados) si se han adquirido en comercios.
 
-- **Horario**. El horario hábil de pesca es el comprendido entre una hora antes de la salida del sol hasta una hora después de su puesta, tomando las horas del orto y ocaso del almanaque, sin perjuicio de lo establecido en las resoluciones aprobatorias de los proyectos técnicos de Ordenación piscícola.
+	- **Aguas no trucheras**: permitido el uso de lombriz y asticot.
 
-	Queda prohibida la pesca nocturna, salvo en la modalidad tradicional para captura de anguila denominada molinà (pesca sin anzuelo) en aguas no trucheras o autorización expresa motivada.
+- **Horario**. entre una hora antes de la salida del sol hasta una hora después de su puesta (tomando las horas del orto y ocaso del almanaque) (sin perjuicio de lo establecido en las resoluciones aprobatorias de los proyectos técnicos de Ordenación piscícola).
 
-	En cualquier caso, con relación a este artículo se estará a lo establecido en el anexo VII de la Ley 42/2007.
+	Queda prohibida la pesca nocturna (salvo en la modalidad tradicional para captura de anguila denominada *molinà* (pesca sin anzuelo) en aguas no trucheras o autorización expresa motivada). Se estará a lo establecido en el anexo VII de la Ley 42/2007.
 
-- **Uso del “pato»**. La utilización de un elemento auxiliar para pesca conocido como “pato» cuyas características se ajustan a un elemento inflable donde el pescador puede o bien estar sentado o bien introducirse en un saco, y que le permite moverse por el agua impulsado por el movimiento de sus piernas, solo se podrá utilizar en aguas de embalses en los que esté permitida la navegación, en ningún caso se podrá utilizar en marjales o en corrientes de agua, salvo autorización expresa y motivada. A los efectos de licencias no se considerará este elemento como una embarcación.
-
-	En aquellos embalses que esté prohibida la navegación, queda prohibida la pesca desde embarcación y también empleando cualquier medio de flotación.
-
+- **Uso del “pato»**. solo se podrá utilizar en aguas de embalses en los que esté permitida la navegación (en ningún caso en marjales o corrientes de agua, salvo autorización expresa y motivada). A los efectos de licencias no se considerará como una embarcación.
+	
+>	Elemento auxiliar para la pesca inflable donde el pescador puede o bien estar sentado o bien introducirse en un saco, y que le permite moverse por el agua impulsado por el movimiento de sus piernas.

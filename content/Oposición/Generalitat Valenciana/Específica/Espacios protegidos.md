@@ -23,11 +23,7 @@ La norma básica estatal es la [Ley 42/2007](https://www.boe.es/buscar/act.php?i
 | Anexos                                                               | - I. Hábitats naturales de interés comunitario (para ZECs)<br>- II. Especies de interés comunitario (para ZECs)<br>- III. Criterios de selección de LICs y ZECs<br>- IV. Especies para protección del hábitat<br>- V. Especies para protección estricta<br>- VI. Especies con recogida y explotación gestionable<br>- VII. Procedimientos de captura o muerte prohibidos (animales)<br>- VIII. Geodiversidad española |
 
 
-
-
-
 6. ***Ley 42/2007: Capítulo III “Espacios protegidos Red Natura 2000” del Título II “Catalogación, conservación y restauración de hábitats y espacios del patrimonio natural”. Ley 11/1994: Título I Disposiciones generales: Capítulo II BIS del Régimen general de los Espacios Protegidos Red Natura 2000, Capítulo V “Efectos de la declaración de Espacios Protegidos Red Natura 2000”; Título II Declaración de Espacios Naturales Protegidos y de Espacios Protegidos Red Natura 2000: Capítulo III “Procedimiento de selección y declaración de Espacios Protegidos Red Natura 2000”; Título III Ordenación de recursos naturales, espacios naturales protegidos y espacios protegidos Red Natura 2000: Capítulo VI “Normas de gestión de zonas de la Red Natura 2000”. El Régimen especial de evaluación y autorizaciones de afección a la red Natura 2000 (Decreto 60/2012, de 5 de abril, del Consell)****
-
 
 
 COMPETENCIAS
@@ -45,7 +41,7 @@ En la Comunidad Valenciana, se regula mediante la [Ley 11/1994](https://dogv.gva
 | Infracciones y sanciones                               | - Infracciones<br>- Sanciones<br>- Procedimiento sancionador                                                                                                                                                                                                                                                                                                                                              |
 | Anexos                                                 | - I. Delimitación del Parque Natural del Marjal de Pego-Oliva                                                                                                                                                                                                                                                                                                                                             |
 
-El objeto establecer el régimen general aplicable en la Comunitat Valenciana de los espacios naturales protegidos: 
+El objeto establecer el régimen general aplicable en la *Comunitat Valenciana* de los espacios naturales protegidos: 
 
 >Áreas o hitos geográficos que contengan elementos o sistemas naturales de particular valor, interés o singularidad (acción y evolución de la naturaleza, actividad humana...) que se consideren merecedores de una protección especial.
 
@@ -140,31 +136,14 @@ En resumen:
 
 El régimen general de los espacios naturales protegidos es el siguiente:
 
-- **Parques naturales**: 
-	
-	Las actividades a realizar se orientarán hacia los usos tradicionales agrícolas, ganaderos y silvícolas, y al aprovechamiento de las producciones compatibles con las finalidades que motivaron la declaración, así como a su visita y disfrute con las limitaciones necesarias para garantizar la protección y las actividades propias de la gestión del espacio protegido. Los demás usos podrán ser objeto de exclusión en la medida en que entren en conflicto con los valores que se pretenda proteger.
 
-- **Parajes naturales municipales**: Únicamente se admitirán en estos parajes los usos y actividades compatibles con las finalidades que motivaron su declaración, excluyéndose la utilización urbanística de sus terrenos.
-
-	El Gobierno Valenciano regulará las relaciones de cooperación, mutua asistencia y coordinación entre la administración de la Generalitat y los municipios que cuenten con parajes naturales municipales para la mejor gestión medioambiental de los mismos, por los correspondientes ayuntamientos.
-
-
-- **Reservas naturales**: espacios naturales cuya declaración tiene como finalidad la preservación íntegra de ecosistemas, comunidades o elementos biológicos o geomorfológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial y se quieren mantener inalterados por la acción humana.
-
-	En las reservas naturales podrán restringirse toda clase de usos y aprovechamientos, y se limitará la explotación de recursos, salvo en aquellos casos en que esta explotación haya sido expresamente considerada compatible con la conservación de los valores que se pretende proteger. Con carácter general estará prohibida la recolección de material biológico o geológico, on excepción de aquellos casos en que, por razones educativas o de investigación, se autorice expresamente la misma.
-
-	Se considerarán reservas naturales los espacios marinos naturales calificados como reservas marinas de acuerdo con su normativa específica.
-
-
-- **Monumentos naturales**: espacios o elementos de la naturaleza, incluidas las formaciones geomorfológicas y yacimientos paleontológicos, de notoria singularidad, rareza o belleza, que merecen ser objeto de una protección especial por sus valores científicos, culturales o paisajísticos.
-
-	En los monumentos naturales no se admitirá ningún uso o actividad, incluidos los tradicionales, que ponga en peligro la conservación de los valores que motivaron su declaración.
-
-- **Paisajes protegidos**: espacios naturales o transformados, merecedores de una protección especial, bien como ejemplos significativos de una relación armoniosa entre el hombre y el medio natural, o bien por sus especiales valores estéticos o culturales.
-
-	El régimen de protección de los paisajes protegidos estará dirigido expresamente a la conservación de las relaciones y procesos, tanto naturales como socioeconómicos, que han contribuido a su formación y hacen posible su pervivencia.
-
-	En la utilización de estos espacios se compatibilizará el desarrollo de las actividades rurales tradicionales en los mismos con el uso social a través del estudio, la enseñanza y el disfrute ordenado de sus valores.
+| Espacio natural protegido     | Actividades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parques naturales             | Las actividades a realizar se orientarán hacia los usos tradicionales agrícolas, ganaderos y silvícolas, y al aprovechamiento de las producciones compatibles con las finalidades que motivaron la declaración, así como a su visita y disfrute con las limitaciones necesarias para garantizar la protección y las actividades propias de la gestión del espacio protegido. Los demás usos podrán ser objeto de exclusión en la medida en que entren en conflicto con los valores que se pretenda proteger.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Parajes naturales municipales | Únicamente se admitirán en estos parajes los usos y actividades compatibles con las finalidades que motivaron su declaración, excluyéndose la utilización urbanística de sus terrenos.<br><br>	El Gobierno Valenciano regulará las relaciones de cooperación, mutua asistencia y coordinación entre la administración de la Generalitat y los municipios que cuenten con parajes naturales municipales para la mejor gestión medioambiental de los mismos, por los correspondientes ayuntamientos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Reservas naturales            | espacios naturales cuya declaración tiene como finalidad la preservación íntegra de ecosistemas, comunidades o elementos biológicos o geomorfológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial y se quieren mantener inalterados por la acción humana.<br><br>	En las reservas naturales podrán restringirse toda clase de usos y aprovechamientos, y se limitará la explotación de recursos, salvo en aquellos casos en que esta explotación haya sido expresamente considerada compatible con la conservación de los valores que se pretende proteger. Con carácter general estará prohibida la recolección de material biológico o geológico, on excepción de aquellos casos en que, por razones educativas o de investigación, se autorice expresamente la misma.<br><br>	Se considerarán reservas naturales los espacios marinos naturales calificados como reservas marinas de acuerdo con su normativa específica. |
+| Monumentos naturales          | espacios o elementos de la naturaleza, incluidas las formaciones geomorfológicas y yacimientos paleontológicos, de notoria singularidad, rareza o belleza, que merecen ser objeto de una protección especial por sus valores científicos, culturales o paisajísticos.<br><br>	En los monumentos naturales no se admitirá ningún uso o actividad, incluidos los tradicionales, que ponga en peligro la conservación de los valores que motivaron su declaración.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Paisajes protegidos           | espacios naturales o transformados, merecedores de una protección especial, bien como ejemplos significativos de una relación armoniosa entre el hombre y el medio natural, o bien por sus especiales valores estéticos o culturales.<br><br>	El régimen de protección de los paisajes protegidos estará dirigido expresamente a la conservación de las relaciones y procesos, tanto naturales como socioeconómicos, que han contribuido a su formación y hacen posible su pervivencia.<br><br>	En la utilización de estos espacios se compatibilizará el desarrollo de las actividades rurales tradicionales en los mismos con el uso social a través del estudio, la enseñanza y el disfrute ordenado de sus valores.                                                                                                                                                                                                                                                      |
 
 *La orientación a los usos tradicionales agrícolas en los espacios protegidos y su determinación se realizarán en colaboración con la administración agraria y se recogerán en el correspondiente instrumento de ordenación ambiental.*
 
@@ -197,55 +176,6 @@ Se prohíbe lo siguiente:
 La autorización para la realización de actividades en cuevas corresponderá a los organismos que en cada caso resulten competentes en función de los valores a proteger.
 
 El Consell aprobará un catálogo de cuevas de la Comunidad Valenciana enel que se identificarán y localizarán las cuevas existentes, señalándose el régimen aplicable a cada una de ellas.
-
-#### Efectos de la declaración
-
-La declaración de espacio natural protegido comportará con carácter general los efectos que se mencionan a continuación:
-
-- **Declaración de utilidad pública e interés social**: declaración, para todos sus bienes y derechos, y a todos los efectos (incluidos los expropiatorios)
-
-- **Derechos de tanteo y retracto** (artículo 19)
-
-- **Servidumbre de instalación de señales** (artículo 23)
-
-- **Utilización de bienes**: de acuerdo a esta Ley y a los instrumentos de ordenación previstos en la misma.
-
- Las transmisiones inter vivos de bienes inmuebles situados total o parcialmente en el ámbito de un espacio natural protegido estarán sujetas a los **derechos de tanteo y retracto** por parte de la administración autonómica. A estos efectos se equiparará a la transmisión de los bienes la constitución o enajenación de derechos reales traslativos del uso de los mismos. 
-
-*Quedan excluidos los inmuebles sitos en suelo urbano, salvo previsión expresa en contrario de la norma de declaración del espacio natural o su instrumento de ordenación. En el caso de los parajes naturales municipales, las entidades locales promotoras de la declaración podrán también ejercer los derechos de tanteo y retracto, siempre que se reconozca en el decreto de creación y en las condiciones que el mismo determine.*
-
-- **Tanteo**: sólo podrá ejercitarse en el plazo de 3 meses desde la notificación previa de la transmisión a la Generalitat Valenciana o a las entidades locales gestoras de los espacios naturales.
-
-- **Retracto**: podrá ejercerse en el plazo de un año contado a partir del momento en que tenga constancia fehaciente de la transmisión.
-
-Los notarios y registradores que autoricen o inscriban, respectivamente, escrituras de transmisión de los bienes y derechos a que se refiere este artículo, lo pondrán en conocimiento de la Conselleria de Medio Ambiente en la forma que reglamentariamente se determine.
-
-
-La utilización de los bienes incluidos en el ámbito de los espacios naturales protegidos se realizará de manera que resulte compatible con la protección, conservación y mejora de los mismos.
-
-Las limitaciones al uso de los bienes derivados de la declaración de espacio natural protegido o de los instrumentos de ordenación previstos en esta ley, dará lugar a indemnización cuando concurran simultáneamente estos requisitos:
-
-- Derechos efectivamente incorporados al patrimonio del reclamante
-- Usos o aprovechamientos legal y efectivamente ejercidos en el momento de la imposición de la restricción.
-- Lesión patrimonial efectiva, actual y cuantificable en términos monetarios.
-- Limitaciones singulares no susceptibles de distribución entre los afectados.
-
-El Consell podrá declarar como área de influencia socioeconómica el conjunto de términos municipales a los que afecte su ámbito territorial.
-
-La Generalitat Valenciana prestará ayuda o colaboración técnica y económica a los titulares (públicos y privados) de derechos afectados por el régimen especial de los espacios protegidos, para contribuir a su mantenimiento.
-
-Los terrenos situados en el interior de los espacios naturales protegidos estarán sujetos a servidumbre forzosa de instalación de señales. La Conselleria de Medio Ambiente declarará e impondrá las servidumbres (previa audiencia de los interesados) cuando resulte necesario para la instalación de señales relativas a la identificación de estos lugares.
-
-La servidumbre de instalación de señales llevará aparejada la servidumbre de paso necesaria para proceder a dicha instalación y garantizar el acceso para su conservación, mantenimiento y reposición.
-
-Las indemnizaciones a que dé lugar la imposición de estas servidumbres se establecerán con arreglo a la Ley de Expropiación Forzosa, teniendo en cuenta el valor de los terrenos ocupados y los daños y perjuicios ocasionados.
-
-La selección o declaración de los espacios protegidos Red Natura 2000 comportará con carácter general los siguientes efectos:
-
-- **Servidumbre de instalación de señales** (artículo 23)
-
-- **Utilización de bienes incluidos** (esta Ley (artículo 20...), normas de gestión (capítulo VI del título III)...)
-
 
 #### Declaración de espacios naturales protegidos
 
@@ -339,7 +269,56 @@ Podrán establecerse zonas periféricas en los entornos de las Zonas Especiales 
 
 La concreción de la delimitación y el régimen jurídico aplicable a estas zonas -que consistirá cómo mínimo en la aplicación del régimen de evaluación y autorización: artículo 14 quinquies), podrá establecerse en las normas de declaración de las mismas o en las normas de gestión (capítulo VI del título III).
 
-#### Ordenación
+
+### Efectos de la declaración
+
+La declaración de espacio natural protegido comportará con carácter general los efectos que se mencionan a continuación:
+
+- **Declaración de utilidad pública e interés social**: declaración, para todos sus bienes y derechos, y a todos los efectos (incluidos los expropiatorios)
+
+- **Derechos de tanteo y retracto** (artículo 19)
+
+- **Servidumbre de instalación de señales** (artículo 23)
+
+- **Utilización de bienes**: de acuerdo a esta Ley y a los instrumentos de ordenación previstos en la misma.
+
+ Las transmisiones inter vivos de bienes inmuebles situados total o parcialmente en el ámbito de un espacio natural protegido estarán sujetas a los **derechos de tanteo y retracto** por parte de la administración autonómica. A estos efectos se equiparará a la transmisión de los bienes la constitución o enajenación de derechos reales traslativos del uso de los mismos. 
+
+*Quedan excluidos los inmuebles sitos en suelo urbano, salvo previsión expresa en contrario de la norma de declaración del espacio natural o su instrumento de ordenación. En el caso de los parajes naturales municipales, las entidades locales promotoras de la declaración podrán también ejercer los derechos de tanteo y retracto, siempre que se reconozca en el decreto de creación y en las condiciones que el mismo determine.*
+
+- **Tanteo**: sólo podrá ejercitarse en el plazo de 3 meses desde la notificación previa de la transmisión a la Generalitat Valenciana o a las entidades locales gestoras de los espacios naturales.
+
+- **Retracto**: podrá ejercerse en el plazo de un año contado a partir del momento en que tenga constancia fehaciente de la transmisión.
+
+Los notarios y registradores que autoricen o inscriban, respectivamente, escrituras de transmisión de los bienes y derechos a que se refiere este artículo, lo pondrán en conocimiento de la Conselleria de Medio Ambiente en la forma que reglamentariamente se determine.
+
+
+La utilización de los bienes incluidos en el ámbito de los espacios naturales protegidos se realizará de manera que resulte compatible con la protección, conservación y mejora de los mismos.
+
+Las limitaciones al uso de los bienes derivados de la declaración de espacio natural protegido o de los instrumentos de ordenación previstos en esta ley, dará lugar a indemnización cuando concurran simultáneamente estos requisitos:
+
+- Derechos efectivamente incorporados al patrimonio del reclamante
+- Usos o aprovechamientos legal y efectivamente ejercidos en el momento de la imposición de la restricción.
+- Lesión patrimonial efectiva, actual y cuantificable en términos monetarios.
+- Limitaciones singulares no susceptibles de distribución entre los afectados.
+
+El Consell podrá declarar como área de influencia socioeconómica el conjunto de términos municipales a los que afecte su ámbito territorial.
+
+La Generalitat Valenciana prestará ayuda o colaboración técnica y económica a los titulares (públicos y privados) de derechos afectados por el régimen especial de los espacios protegidos, para contribuir a su mantenimiento.
+
+Los terrenos situados en el interior de los espacios naturales protegidos estarán sujetos a servidumbre forzosa de instalación de señales. La Conselleria de Medio Ambiente declarará e impondrá las servidumbres (previa audiencia de los interesados) cuando resulte necesario para la instalación de señales relativas a la identificación de estos lugares.
+
+La servidumbre de instalación de señales llevará aparejada la servidumbre de paso necesaria para proceder a dicha instalación y garantizar el acceso para su conservación, mantenimiento y reposición.
+
+Las indemnizaciones a que dé lugar la imposición de estas servidumbres se establecerán con arreglo a la Ley de Expropiación Forzosa, teniendo en cuenta el valor de los terrenos ocupados y los daños y perjuicios ocasionados.
+
+La selección o declaración de los espacios protegidos Red Natura 2000 comportará con carácter general los siguientes efectos:
+
+- **Servidumbre de instalación de señales** (artículo 23)
+
+- **Utilización de bienes incluidos** (esta Ley (artículo 20...), normas de gestión (capítulo VI del título III)...)
+
+### Ordenación
 
 La ordenación ambiental en el ámbito de la Comunitat Valenciana se llevará a cabo mediante los siguientes instrumentos:
 
@@ -359,7 +338,6 @@ La ordenación ambiental en el ámbito de la Comunitat Valenciana se llevará a 
 | Zonas húmedas catalogadas                  | - Normas de gestión                                                                  |
 | Zonas de especial protección para las aves | - Normas de gestión                                                                  |
 | Zonas de especial conservación             | - Normas de gestión                                                                  |
-
 
 
 Los planes de ordenación de recursos naturales se regirán por la legislación básica en la materia (Ley 42/2007)
@@ -852,19 +830,9 @@ De los 76 humedales españoles en la Lista Ramsar ([ver la ficha de España en l
 València es la única ciudad de España con el certificado Ciudad Humedal del Convenio de Ramsar, por la gestión de *l'Albufera de València*.
 
 
-### Cuevas
+### Decreto 65/2006 (Cuevas)
 
-De manera general, se protegen las cuevas, simas, y cavidades subterráneas de la Comunidad Valenciana (artículo 16 de la Ley 11/1994). 
-
-Se prohíbe toda alteración o destrucción de sus características físicas, la extracción no autorizada de cualquier clase de materiales naturales o artificiales de su interior y la introducción de desechos y objetos que pudieran alterar sus condiciones ecológicas.
-
-- **Cambios físicos**: alteración o destrucción de sus características
-- **Extracción no autorizada**: de cualquier clase de materiales de su interior (naturales o artificiales)
-- **Contaminación**: introducción de desechos y objetos que pudieran alterar sus condiciones ecológicas
-
-La autorización para la realización de actividades en cuevas corresponderá a los organismos que en cada caso resulten competentes en función de los valores a proteger.
-
-El Consell aprobará un catálogo, en el que se identificarán y localizarán las existentes, así como el régimen aplicable a cada una de ellas. Esto se ha realizado por el [Decreto 65/2006](https://dogv.gva.es/datos/2006/05/18/pdf/2006_X5697.pdf):
+El [Decreto 65/2006](https://dogv.gva.es/datos/2006/05/18/pdf/2006_X5697.pdf):
 
 | Capítulos               | Contenido                                                                                                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -874,45 +842,40 @@ El Consell aprobará un catálogo, en el que se identificarán y localizarán la
 | Régimen sancionador     |                                                                                                                                                                    |
 | Anexos                  | - I. Cuevas del Catálogo<br>- II. Cartografía<br>- III. Criterios de selección de las cuevas del Catálogo<br>- IV. Ficha de cavidades<br>- V. Glosario de términos |
 
-CAPITULO I Disposiciones generales
+El objeto es el desarrollo del régimen de protección de las cuevas (artículo 16 de la Ley 11/1994), para lograr una mayor efectividad en la protección y conservación de los hábitats cavernarios y del medio ambiente subterráneo, así como la aprobación del Catálogo de Cuevas de la Comunitat Valenciana.
 
-Artículo 1. Objeto y fines 
+Los regímenes de protección son los siguientes:
 
-El objeto de la presente norma es el desarrollo del régimen de protección de las cuevas que se contempla en el artículo 16 de la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunitat Valenciana, con la finalidad de lograr una mayor efectividad en la protección y conservación de los hábitats cavernarios y del medio ambiente subterráneo y la aprobación del Catálogo de Cuevas de la Comunitat Valenciana.
+- **General**: todas las cuevas y cavidades subterráneas de la *Comunitat Valenciana* (artículo 16 de la Ley 11/1994, desarrollado en el capítulo II del presente decreto). Prohibición de alteración o destrucción de las características físicas y extracción o introducción de materiales (naturales o artificiales) que pudiera afectarlas (en ambos casos salvo autorización).
 
-Artículo 2. Regímenes de protección de las cuevas
+- **Especial**: para determinadas cuevas (capítulo III del presente Decreto), incluidas en el Catálogo.
 
-Los regímenes de protección de las cuevas son de dos tipos:
+Cualquier actuación que pueda afectar la integridad física o el equilibrio ambiental de una cavidad subterránea requerirá la autorización expresa y motivada de la Conselleria de medio ambiente (sin perjuicio de las competencias de la Conselleria competente en materia de cultura cuando concurran, además, elementos o valores relevantes ligados al patrimonio cultural valenciano. 
 
-- **General**: todas las cuevas de la Comunitat Valenciana (artículo 16 de la Ley 11/1994, desarrollado en el capítulo II del presente decreto).
+Particularmente, requieren dicha autorización:
 
-- **Especial**: para determinadas cuevas (capítulo III del presente Decreto).
+- **Muestreo sistemático**: de rellenos kársticos, así como las excavaciones arqueológicas y /o paleontológicas realizadas en zonas interiores de las cavidades y que requieran para ello de instalaciones de iluminación no ligera ni individual, tendidos o equipamiento especial.
 
+- **Gestión de ejemplares de fauna o flora con fines científicos**: recolección, captura, manejo o extracción.
 
-Los diferentes tipos de cavidades subterráneas de la Comunitat Valenciana, definidos atendiendo al glosario de términos que figura como anexo V de este decreto, quedan sometidos al régimen general de protección.
+- **Afluencia de público o grupos numerosos**: visitas o actividades de carácter lúdico, religioso o cultural organizadas por entidades o empresas (excluida la espeleológica habitual respetuosa, la actividad docente relacionada, y las visitas habituales de tipo turístico y religioso incluidas en el Catálogo (artículo 8) (sin perjuicio de las determinaciones sobre dichas visitas habituales que puedan establecer las Normas de Gestión).
 
-Se prohíbe toda alteración o destrucción de las características físicas de las cavidades subterráneas, así como la extracción o la introducción de cualquier clase de materiales naturales o artificiales afectando a las mismas, salvo que se cuente con la autorización prevista en el artículo siguiente.
-
-Artículo 4. Régimen de autorizaciones
-
-Cualquier actuación que pueda afectar la integridad física o el equilibrio ambiental de una cavidad subterránea requerirá la autorización expresa y motivada de la Conselleria competente en materia de medio ambiente, sin perjuicio de las competencias propias de la Conselleria competente en materia de cultura cuando concurran, además, elementos o valores relevantes ligados al patrimonio cultural valenciano. Particularmente, requieren dicha autorización:
-
-- El muestreo sistemático de rellenos kársticos, así como las excavaciones arqueológicas y /o paleontológicas realizadas en zonas interiores de las cavidades y que requieran para ello de instalaciones de iluminación no ligera ni individual, tendidos o equipamiento especial.
-
-- La recolección, captura, manejo o extracción de ejemplares de flora o de fauna, con fines científicos.
-
-- Las visitas o actividades que tengan lugar en cavidades subterráneas o junto a ellas, y que supongan afluencia de público o de grupos numerosos. Se incluyen aquí tanto las actividades de carácter lúdico, religioso o cultural organizadas por entidades sin ánimo de lucro, como aquellas otras ofertadas por empresas o entidades con ánimo de lucro. Queda excluida de esta consideración la práctica espeleológica habitual y respetuosa con el medio ambiente subterráneo, así como la actividad docente relacionada con dicha práctica y las visitas habituales de tipo turístico y religioso que tengan lugar en cavidades acondicionadas al efecto incluidas en el Catálogo de Cuevas de la Comunitat Valenciana a que se refiere el artículo 8 de este decreto, sin perjuicio de las determinaciones sobre dichas visitas habituales que puedan establecer las Normas de Gestión previstas en el mismo artículo.
-
-Dicha autorización se entiende sin perjuicio de las autorizaciones sectoriales y de las licencias municipales que sean preceptivas para determinadas actividades.
+*Esta autorización se entiende sin perjuicio de las autorizaciones sectoriales y de las licencias municipales que sean preceptivas para determinadas actividades.*
 
 Las solicitudes de autorización deberán presentarse acompañadas de la siguiente documentación:
 
 - **Identificación del solicitante**
+
 - **Plano o croquis** de localización de la actividad, itinerario y medios de acceso, duración, fechas o plazos previstos
+
 - **Descripción de la actuación, visita o actividad prevista**: incluyendo, en su caso, características técnicas, equipo técnico, presupuesto, periodo de ejecución de la misma y cualquier otra información que resulte necesaria para definir y conocer su alcance
+
 - **Proyecto o memoria técnica**
+
 - **Justificación de la actuación** solicitada y análisis de posibles alternativas
+
 - Evaluación de efectos ambientales y adopción de medidas protectoras y correctoras
+
 - **Plan de vigilancia ambiental**
 
 Para las actuaciones que deban someterse al procedimiento de Evaluación de Impacto Ambiental, la preceptiva Declaración o Estimación de Impacto Ambiental suplirá la autorización a que refiere este artículo.
@@ -921,7 +884,9 @@ El cerramiento de cavidades requerirá, preceptivamente, el informe previo favor
 
 Artículo 5. Descubrimientos fortuitos
 
-En el caso particular de ser alcanzadas nuevas cavidades en frentes de explotación de canteras o de desmontes de obra civil, los responsables de la obra quedan obligados a comunicar de inmediato el hecho a la administración competente en materia de espacios naturales, adoptando las medidas necesarias para su conservación hasta que puedan ser inspeccionadas y determinar si contienen elementos o características de relevante interés y, consecuentemente, poder evaluar la conveniencia de adoptar las medidas de protección pertinentes. En el plazo de 15 días desde la notificación del hallazgo, la Conselleria competente en materia de medio ambiente deberá pronunciarse sobre lo que proceda, ya emitiendo autorización para la prosecución de las obras, con las condiciones que hubiere lugar, o bien comunicando al interesado la necesidad de establecer un plazo mayor, cuando la trascendencia o importancia del hallazgo así lo requiera.
+En el caso particular de ser alcanzadas nuevas cavidades en frentes de explotación de canteras o de desmontes de obra civil, los responsables de la obra quedan obligados a comunicar de inmediato el hecho a la administración competente en materia de espacios naturales, adoptando las medidas necesarias para su conservación hasta que puedan ser inspeccionadas y determinar si contienen elementos o características de relevante interés y, consecuentemente, poder evaluar la conveniencia de adoptar las medidas de protección pertinentes. 
+
+En el plazo de 15 días desde la notificación del hallazgo, la Conselleria competente en materia de medio ambiente deberá pronunciarse sobre lo que proceda, ya emitiendo autorización para la prosecución de las obras, con las condiciones que hubiere lugar, o bien comunicando al interesado la necesidad de establecer un plazo mayor, cuando la trascendencia o importancia del hallazgo así lo requiera.
 
 El hallazgo o descubrimiento fortuito de cuevas o simas en el curso de excavaciones, labranza u otras prácticas rutinarias en terrenos privados o públicos deberá ser oportunamente comunicado por los autores o propietarios de los terrenos a la Conselleria competente en materia de medio ambiente, a fin de que tales cavidades puedan ser debidamente reconocidas e inventariadas.
 
@@ -929,16 +894,13 @@ Artículo 6. Régimen de Evaluación de Impacto Ambiental
 
 Las actuaciones que incidan en cuevas y requieran licencia de actividad o de obra se someterán al procedimiento de Evaluación de Impacto Ambiental, en cuyo caso, la preceptiva Declaración o Estimación de Impacto Ambiental suplirá la autorización a que refiere el artículo 4 de este decreto. A tal efecto, los anexos I y II del Decreto 162/1990, de 15 de octubre, del Consell, por el que se aprobó el Reglamento para la ejecución de la Ley 2/1989, de 3 de marzo, de Impacto Ambiental, quedan ampliados de conformidad con los siguientes supuestos:
 
-- **Declaración de Impacto Ambiental** los proyectos de nueva habilitación o adecuación de cuevas para el acceso y uso público, y cualquier otro proyecto que tenga por objeto el aprovechamiento de agua u otros recursos de las cuevas, o que requiera instalaciones permanentes en el interior de las mismas.
+- **Declaración de Impacto Ambiental**: proyectos de nueva habilitación o adecuación de cuevas para el acceso y uso público, y cualquier otro proyecto que tenga por objeto el aprovechamiento de agua u otros recursos de las cuevas, o que requiera instalaciones permanentes en el interior de las mismas.
 
-- **Estimación de Impacto Ambiental** los proyectos de sustitución de instalaciones, modificación de infraestructuras, ampliaciones o instalación de nuevos equipamientos, cuando afecten a cavidades habilitadas para el acceso público.
+- **Estimación de Impacto Ambiental**: proyectos de sustitución de instalaciones, modificación de infraestructuras, ampliaciones o instalación de nuevos equipamientos, cuando afecten a cavidades habilitadas para el acceso público.
 
 - Proyecto o actuación que comporte la alteración física, total o parcial de alguna cueva o sima, o que suponga un riesgo manifiesto sobre la misma, deberá ser sometido al procedimiento de Evaluación de Impacto Ambiental, salvo en aquellos casos de hallazgos fortuitos en que, de acuerdo con lo regulado en esta disposición, se adopte un pronunciamiento diferente por parte de la Conselleria competente por razón de la materia.
 
-
-Artículo 7. Glosario de términos
-
-Se incluye un glosario de términos especializados en el Anexo V.
+Se incluye un glosario de términos especializados (Anexo V).
 
 - **Abrigo, balma, covacha o coveta**: son términos no totalmente equivalentes que se utilizan para referirse a cavidades de escasa profundidad o recorrido. Unas veces con bocas amplias (abrigos), pero otras con bocas pequeñas o angostas. A menudo poseen valores culturales destacables (incluso excepcionales) y, generalmente, valores ambientales reducidos, aunque hay notables excepciones en el aspecto ambiental (endemismos vegetales, rellenos kársticos singulares...).
 
@@ -956,7 +918,7 @@ Se incluye un glosario de términos especializados en el Anexo V.
 
 	Con esta denominación también se suele aludir a grupos de varias bocas, más o menos interconectadas interiormente; así como a diversas cavidades próximas entre sí y que formen parte de un mismo complejo espeleológico, aparato kárstico o esquema evolutivo, tanto si se encuentran directamente conectadas (a nivel espeleológico) como si no.
 
-- **Minas y galerías artificiales de interés natural**: se trata de aquéllas cavidades de origen artificial o mixto (muchas veces conectadas con tramos de cavidades de origen natural), excavadas en la antigüedad y que reúnen condiciones adecuadas o interesantes para el estudio del karst o como hábitat subterráneo, equiparable a otras cavidades naturales. Generalmente, los usos que motivaron su excavación concluyeron hace muchas décadas o siglos, salvo en el caso de determinadas galerías de captación y drenaje de aguas que se encuentran funcionales desde épocas remotas. Conviene excluir directamente de esta consideración, con carácter general, los túneles viales, las redes de saneamiento, los sondeos de captación de aguas subterráneas, las conducciones de transvases modernos y otras obras subterráneas funcionales.
+- **Minas y galerías artificiales de interés natural**: cavidades de origen artificial o mixto (muchas veces conectadas con tramos de cavidades de origen natural), excavadas en la antigüedad y que reúnen condiciones adecuadas o interesantes para el estudio del karst o como hábitat subterráneo, equiparable a otras cavidades naturales. Generalmente, los usos que motivaron su excavación concluyeron hace muchas décadas o siglos, salvo en el caso de determinadas galerías de captación y drenaje de aguas que se encuentran funcionales desde épocas remotas. Conviene excluir directamente de esta consideración, con carácter general, los túneles viales, las redes de saneamiento, los sondeos de captación de aguas subterráneas, las conducciones de transvases modernos y otras obras subterráneas funcionales.
 
 - **Sima**: ver avenc
 
@@ -964,31 +926,13 @@ Se incluye un glosario de términos especializados en el Anexo V.
 
 - **Surgencia**: manantial kárstico; generalmente se aplica cuando el agua emerge a través de una cueva o un conducto kárstico reconocible. Se habla de resurgencia cuando está directamente relacionada con pérdidas o sumideros de cursos superficiales conocidos, y de exurgencia cuando no se da esta circunstancia, tratándose en este caso de descarga de un acuífero de alimentación autóctona
 
-
-CAPITULO III
-Régimen especial de protección
-
-
-
-
 #### Catálogo de Cuevas
 
-El [Catálogo de Cuevas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-cuevas) (Anexo I) incluye 133 (ver con el [visor](https://visor.gva.es/visor/?extension=266612,4141882,1164192,4594245&capasids=Orto_Actual;,Espacios_Protegidos;1&tcapas=1.0,1.0)):
+El [Catálogo de Cuevas de la Comunitat Valenciana](https://mediambient.gva.es/es/web/espacios-naturales-protegidos/catalogo-de-cuevas) (Anexo I) incluye 133 (ver con el [visor](https://visor.gva.es/visor/?extension=266612,4141882,1164192,4594245&capasids=Orto_Actual;,Espacios_Protegidos;1&tcapas=1.0,1.0)) (de acuerdo al artículo 16.3 de la Ley 11/1994):
 
-Artículo 8. Catálogo de Cuevas de la Comunitat Valenciana
-
-De conformidad con lo establecido en el artículo 16, apartado 4, de la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunitat Valenciana, 
-
-Se aprueba el Catálogo de Cuevas de la Comunitat Valenciana (artículo 16.3 de la Ley 11/1994).
-
-
-Modelo de ficha para las cavidades incluidas en el Catálogo de cuevas de la Comunitat Valenciana
-
-
+¿Y 16.4?
 
 Las cavidades incluidas en dicho Catálogo (listado del Anexo I, cartografía del Anexo II, criterios del Anexo III), gozarán de un régimen de especial protección.
-
-
 
 | Provincias | Cuevas catalogadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1030,8 +974,6 @@ Para cada una de las catalogadas, la Conselleria competente en medio ambiente el
 
 La lista podrá ser modificada en cualquier momento, incorporando nuevas o suprimiendo alguna de ellas, en el caso de que nuevos estudios o informes técnicos así lo recomienden, a propuesta de la Conselleria competente en materia de medio ambiente. Dicha modificación requerirá el mismo procedimiento. No se considerará revisión ni modificación del Catálogo la incorporación de nueva información a las fichas descriptivas.
 
-
-
 Para conservar las la conservación de las cavidades del Catálogo, se definen los siguientes ámbitos de protección perimetral:
 
 - **General**: para cada una, mediante un círculo de una hectárea de superficie (radio de 56,4 m) centrado en cada boca. Se consideran actividades no permitidas aquellas que puedan representar un menoscabo de las características geológicas o biológicas de la cavidad de que se trate.
@@ -1063,19 +1005,29 @@ Son requisitos para su declaración tener una extensión inferior a 20 hectareas
 Se añaden además las siguientes características generales según el suelo:
 
 - **Privados**: prohibición, salvo petición expresa de sus propietarios
+
 - **Públicos no adscritos al Catálogo de Montes de Utilidad Pública**: comunicación y audiencia previa a la entidad propietaria del terreno
-- **Ayuntamientos o diputaciones**: acuerdo favorable de dichos entes.
+
+- **Ayuntamientos o diputaciones**: acuerdo favorable de dichos entes
+
 - **Dominios públicos hidráulicos o de costas**: comunicación previa a los organismos gestores de la Administración General del Estado
 
 La declaración comportará las siguientes prohibiciones generales (salvo resolución expresa favorable de la Dirección General de Conservación)
 
 - **Extracción de raíces o partes subterráneas** (únicamente autorizable por motivos científicos, conservacionistas o educativos)
+
 - **Contaminación**: deposición de residuos, vertido de líquidos... que pueda causar daños graves a las plantas
+
 - **Extracciones**: de agua (aquellas en medio acuático) (salvo concesión aprobada por la Confederación Hidrográfica anterior a la aprobación de este decreto) o suelo y rocas (medio terrestre), con riesgo de afecciones
+
 - **Perjuicios a las partes aéreas**: recolección, destrucción o extracción (salvo para mejora de especies raras, endémicas o amenazadas, y casos establecidos en la norma de declaración por motivos de conservación o investigación científica)
+
 - **Acampada y tránsito de vehículos**
+
 - **Introducciones**: especies vegetales (en general), y de invertebrados o vegetales que puedan suponer plagas o enfermedades (a las plantas de la microrreserva)
+
 - **Otras**: establecidas en las normas de declaración (previo acuerdo favorable de las entidades propietarias de los terrenos)
+
 - **Ganadería**: descansaderos habituales de ganado (parcial o completo), cerramientos para ovejas, cabras, vacas... (temporales o permanentes)
 
 *No supondrá limitaciones adicionales para la ganadería, la caza, o las actividades agrícolas o forestales adicionales (salvo los casos establecidos en las normas de declaración para la conservación de especies amenazadas o investigación científica).*
