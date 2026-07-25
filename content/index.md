@@ -9,6 +9,7 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 <img src="Jordi-Iranzo-Martinez.jpg" alt="Jordi Iranzo Martínez" width="260" style="float: left; margin-right: 24px; margin-bottom: 12px; border-radius: 4px;">
 
+
 <p>Ofrezco lo siguiente:</p>
 <ul style="clear: none; float: none; margin-top: 0;">
      
