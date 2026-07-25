@@ -11,8 +11,6 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 <img src="Jordi-Iranzo-Martinez.jpg" alt="Jordi Iranzo Martínez" style="width: 260px; border-radius: 4px;">
 
-<div>
-
 Ofrezco lo siguiente:
 - **Consultoría técnico-jurídica**: estudios ambientales, de impacto ambiental, gestión de residuos, asesoramiento...
 - **Gestoría**: trámites administrativos de representación, asesoramiento...
@@ -20,8 +18,6 @@ Ofrezco lo siguiente:
 - **Servicio 'Memlex'**: tarjetas de memoria de la literalidad de la norma en RemNote en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...).
 - **Educación y divulgación**: artículos
 - **Otros**: colaboraciones y propuestas
-
-</div>
 
 Contacto: [jordi.im@proton.me](mailto:jordi.im@proton.me).
 
