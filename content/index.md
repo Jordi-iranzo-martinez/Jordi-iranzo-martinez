@@ -26,10 +26,10 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 <li><strong>Otros</strong>: colaboraciones y propuestas</li>
 </ul>
 
-<div style="clear: both;"></div>
-
 Contacto: [jordi.im@proton.me](mailto:jordi.im@proton.me).
 
 Un saludo,
 
 Jordi
+
+<div style="clear: both;"></div>
