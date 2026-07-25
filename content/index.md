@@ -9,6 +9,8 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg">
 
+Ofrezco lo siguiente:
+
 - **Consultoría técnico-jurídica**: estudios ambientales, de impacto ambiental, gestión de residuos, asesoramiento...
 
 - **Gestoría**: trámites administrativos de representación, asesoramiento...
