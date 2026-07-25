@@ -1,5 +1,5 @@
 ---
-title: Medio ambiente. Consultoría, gestoría, oposiciones, y escritura
+title: Jordi Iranzo Martínez
 description: Técnico ambiental ofrece ayuda en temas medioambientales, preparación y realización de oposiciones, y gestiones administrativas.
 ---
      
