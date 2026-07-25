@@ -1,5 +1,5 @@
 ---
-title: Jordi Iranzo Martínez. Técnico medioambiental
+title: Presentación
 description: Técnico ambiental ofrece ayuda en temas medioambientales, preparación y realización de oposiciones, y gestiones administrativas.
 ---
      
