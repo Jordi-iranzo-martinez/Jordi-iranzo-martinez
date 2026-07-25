@@ -130,8 +130,6 @@ Trámite esencial de este procedimiento, como en los restantes, es el de consult
 
 El órgano ambiental, teniendo en cuenta el resultado de las consultas realizadas, resolverá mediante la emisión del informe de impacto ambiental, que deberá publicarse cuando el órgano ambiental determine que el proyecto no debe someterse al procedimiento ordinario de evaluación de impacto ambiental.
 
-
-
 | Títulos                           | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Principios y disposiciones genera | - Objeto y finalidad<br>- Principios<br>- Actuación y relaciones entre Administraciones Públicas<br>- Cooperación en el marco de la Conferencia Sectorial de Medio Ambiente<br>- Definiciones<br>- Ámbitos de aplicación: evaluación ambiental estratégica y de impacto ambiental<br>- Supuestos excluidos y proyectos excluibles de evaluación <br>- Obligaciones generales<br>- Falta de emisión de las declaraciones e informes ambientales<br>- Determinación del órgano ambiental y del órgano sustantivo<br>- Resolución de discrepancias<br>- Relación entre la evaluación ambiental estratégica y de impacto ambiental<br>- Relación entre la evaluación de impacto ambiental y la autorización ambiental integrada<br>- Confidencialidad<br>- Capacidad técnica y responsabilidad del autor de los estudios y documentos ambientales |
@@ -141,17 +139,20 @@ El órgano ambiental, teniendo en cuenta el resultado de las consultas realizada
 
 ### Principios y disposiciones generales
 
+Establece las bases que deben regir la evaluación ambiental de los planes, programas y proyectos que puedan tener efectos significativos sobre el medio ambiente, mediante:
 
-Esta ley establece las bases que deben regir la evaluación ambiental de los planes, programas y proyectos que puedan tener efectos significativos sobre el medio ambiente, mediante:
+- **Aspectos medioambientales**: integración en la elaboración y en la adopción, aprobación o autorización de los planes, programas y proyectos
 
-- **Aspectos medioambientales**: integración en la elaboración y en la adopción, aprobación o autorización de los planes, programas y proyectos;
 - **Alternativas**: análisis y selección de aquellas ambientalmente viables
+
 - **Medidas**:
+
 	- **Sobre impactos**: prevención, corrección y compensación
 	- **Cumplimiento**: vigilancia, seguimiento y sanción
 
-Asimismo, establece los principios que informarán el procedimiento, y el régimen de cooperación entre la Administración General del Estado y las Comunidades Autónomas a través de la Conferencia Sectorial de Medio Ambiente.
+- **Principios de información**
 
+- **Régimen de cooperación**: entre la Administración General del Estado y las Comunidades Autónomas a través de la Conferencia Sectorial de Medio Ambiente.
 
 Los procedimientos de evaluación ambiental se sujetarán a los siguientes principios:
 
@@ -183,23 +184,21 @@ Los procedimientos de evaluación ambiental se sujetarán a los siguientes princ
 
 En particular, las Administraciones que puedan estar interesadas en el plan, programa o proyecto debido a sus responsabilidades medioambientales específicas o a sus competencias autonómicas o locales serán consultadas sobre la información proporcionada por el promotor y sobre la solicitud de adopción, aprobación o autorización del plan, programa o proyecto.
 
-De conformidad con los principios de racionalización y agilidad de los procedimientos administrativos y de cooperación, colaboración y coordinación, las Administraciones Públicas consultadas emitirán los informes que correspondan con la máxima diligencia posible y, en todo caso, dentro de los plazos establecidos al efecto.
+Las Administraciones que pudieran estar interesadas por sus responsabilidades medioambientales o competencias, serán consultadas sobre la información del promotor y la solicitud de adopción, aprobación o autorización. Emitirán informes con diligencia y en plazo (de conformidad con los principios de racionalización, agilidad, cooperación, colaboración, y coordinación).
 
-Cuando corresponda a la Administración General del Estado formular la declaración ambiental estratégica o la declaración de impacto ambiental, o bien emitir el informe ambiental estratégico o el informe de impacto ambiental regulados en esta ley, se consultará preceptivamente al órgano que ostente las competencias en materia de medio ambiente de la comunidad autónoma afectada por el plan, programa o proyecto.
+Cuando el órgano ambiental sea la Administración General del Estado, se consultará preceptivamente al órgano que ostente las competencias en materia de medio ambiente de la Comunidad Autónoma afectada.
 
-Las Administraciones Públicas garantizarán que el órgano ambiental y el órgano sustantivo ejerzan las funciones derivadas de la presente ley de manera objetiva, y aplicarán en su organización una adecuada separación de las funciones que puedan dar lugar a un conflicto de intereses cuando el órgano ambiental sea simultáneamente el órgano sustantivo o el promotor del plan, programa o proyecto.
+Las Administraciones Públicas garantizarán que el órgano ambiental y el sustantivo ejerzan sus funciones de manera objetiva, y aplicarán en su organización una separación de funciones que puedan dar lugar a un conflicto de intereses cuando el órgano ambiental sea también el sustantivo o el promotor.
 
-Cuando el órgano sustantivo sea simultáneamente el promotor del plan, programa o proyecto, el órgano sustantivo realizará las actuaciones atribuidas al promotor en esta ley.
+(Cuando el órgano sustantivo sea simultáneamente el promotor, realizará sus funciones).
 
-El órgano sustantivo informará al órgano ambiental de cualquier incidencia que se produzca durante la tramitación del procedimiento administrativo sustantivo de adopción, aprobación o autorización de un plan, programa o proyecto que tenga relevancia a los efectos de la tramitación de la evaluación ambiental, singularmente aquellas que supongan el archivo o la caducidad del procedimiento sustantivo.
+El órgano sustantivo informará al órgano ambiental de cualquier incidencia que durante la tramitación del procedimiento administrativo que tenga relevancia a efectos de la tramitación de la evaluación ambiental (singularmente aquellas que supongan el archivo o la caducidad del procedimiento).
 
-
-
-La Conferencia Sectorial de Medio Ambiente analizará y propondrá las modificaciones normativas necesarias para cumplir con los principios recogidos en este título y establecer un procedimiento de evaluación ambiental homogéneo en todo el territorio nacional.
+La Conferencia Sectorial de Medio Ambiente analizará y propondrá las modificaciones normativas necesarias para cumplir con los principios y establecer un procedimiento de evaluación ambiental homogéneo en todo el territorio nacional.
 
 En particular, impulsará los cambios normativos y reformas necesarias que podrán consistir en la modificación, derogación o refundición de la normativa autonómica existente, o la remisión a esta ley, con las salvedades que exijan sus particularidades organizativas.
 
-Podrá establecer mecanismos para garantizar que las Administraciones públicas afectadas emitan en plazo los informes previstos en esta ley.
+Podrá establecer mecanismos para garantizar que las Administraciones públicas afectadas emitan en plazo los informes.
 
 En el seno de la Conferencia Sectorial podrán constituirse grupos de trabajo de carácter técnico que elaboren guías metodológicas de evaluación ambiental que permitan la estandarización de estos procedimientos.
 
@@ -220,9 +219,9 @@ En el seno de la Conferencia Sectorial podrán constituirse grupos de trabajo de
 
 - “**Documento de alcance**”: pronunciamiento del órgano ambiental dirigido al promotor que delimita el contenido, la amplitud, el nivel de detalle y el grado de especificación que debe tener el estudio ambiental estratégico y el estudio de impacto ambiental.
 
-- “**Órgano sustantivo**”: unidad administrativa que adopta o aprueba un plan o programa, para autorizar un proyecto, o para controlar la actividad de los proyectos sujetos a declaración responsable o comunicación previa, salvo que el proyecto consista en diferentes actuaciones en materias cuya competencia la ostenten distintos órganos de la Administración pública estatal, autonómica o local, en cuyo caso, se considerará órgano sustantivo aquel que ostente las competencias sobre la actividad a cuya finalidad se orienta el proyecto, con prioridad sobre los órganos que ostentan competencias sobre actividades instrumentales o complementarias respecto a aquella.
+- “**Órgano sustantivo**”: unidad administrativa que adopta o aprueba un plan o programa, para autorizar un proyecto, o para controlar la actividad de los proyectos sujetos a declaración responsable o comunicación previa (salvo que el proyecto consista en diferentes actuaciones en materias cuya competencia la ostenten distintos órganos de la Administración pública estatal, autonómica o local, en cuyo caso, se considerará órgano sustantivo aquel que ostente las competencias sobre la actividad a cuya finalidad se orienta el proyecto, con prioridad sobre los órganos que ostentan competencias sobre actividades instrumentales o complementarias respecto a aquella).
 
-- “**Órgano ambiental**”: unidad administrativa que elabora el documento de alcance, realiza el análisis técnico de los expedientes de evaluación ambiental y formula las declaraciones e informes.
+- “**Órgano ambiental**”: unidad administrativa que elabora el documento de alcance, realiza el análisis técnico de los expedientes, y formula las declaraciones e informes.
 
 - "**Público**”: cualquier persona física o jurídica, sus asociaciones, organizaciones o grupos, de acuerdo a normativa, que no sean personas interesadas.
 
@@ -248,17 +247,25 @@ En el seno de la Conferencia Sectorial podrán constituirse grupos de trabajo de
 
 - “**Estudio ambiental estratégico**”: documento elaborado por el promotor que identifica, describe y analiza los posibles efectos significativos sobre el medio ambiente derivados o que puedan derivarse de la aplicación del plan o programa, así como unas alternativas razonables, técnica y ambientalmente viables, que tengan en cuenta los objetivos y el ámbito territorial de aplicación del plan o programa, con el fin de prevenir o corregir los efectos adversos sobre el medio ambiente de la aplicación del plan o programa.
 
-- “**Estudio de impacto ambiental**”: documento elaborado por el promotor que identifica, describe, cuantifica y analiza los posibles efectos significativos sobre el medio ambiente derivados o que puedan derivarse del proyecto, así como la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, el riesgo de que se produzcan dichos accidentes graves o catástrofes y el obligatorio análisis de los probables efectos adversos significativos en el medio ambiente en caso de ocurrencia. También analiza las diversas alternativas razonables, técnica y ambientalmente viables, y determina las medidas necesarias para prevenir, corregir y, en su caso, compensar, los efectos adversos sobre el medio ambiente.
+- “**Estudio de impacto ambiental**”: documento elaborado por el promotor que realiza lo siguiente: 
 
-- “**Declaración Ambiental Estratégica**”: informe preceptivo y determinante del órgano ambiental con el que finaliza la evaluación ambiental estratégica ordinaria y que se pronuncia sobre la integración de los aspectos ambientales en la propuesta final del plan o programa.
+	- **Efectos significativos**: identificación, descripción, cuantificación, y análisis de aquellos derivados o derivables
 
-- “**Declaración de Impacto Ambiental**”: informe preceptivo y determinante del órgano ambiental con el que finaliza la evaluación de impacto ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el proyecto y determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de los recursos naturales durante la ejecución y la explotación y, en su caso, el cese, el desmantelamiento o demolición del proyecto.
+	- **Riesgos de accidentes graves o catástrofes**: vulnerabilidad, probabilidad de ocurrencia, análisis de efectos adversos probables
 
-- “**Informe Ambiental Estratégico**”: informe preceptivo y determinante del órgano ambiental con el que finaliza la evaluación ambiental estratégica simplificada.
+	- **Alternativas**: razonables y viables (técnica y ambientalmente)
 
-- “**Informe de Impacto Ambiental**”: informe preceptivo y determinante del órgano ambiental con el que finaliza la evaluación de impacto ambiental simplificada.
+	- **Medidas**: prevención, corrección y compensación
 
-- “**Modificaciones menores**”: cambios en las características de los planes o programas ya adoptados o aprobados que no constituyen variaciones fundamentales de las estrategias, directrices y propuestas o de su cronología pero que producen diferencias en los efectos previstos o en la zona de influencia.
+- “**Declaración Ambiental Estratégica**”: informe preceptivo y determinante del órgano ambiental con el que finaliza la evaluación ambiental estratégica ordinaria que se pronuncia sobre la integración de los aspectos ambientales en la propuesta final del plan o programa.
+
+- “**Declaración de Impacto Ambiental**”: informe preceptivo y determinante del órgano ambiental con el que finaliza la evaluación de impacto ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el proyecto y determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de los recursos naturales durante las fases de ejecución y la explotación (y, en su caso, cese, desmantelamiento o demolición).
+
+- “**Informe Ambiental Estratégico**”: preceptivo y determinante del órgano ambiental con el que finaliza la evaluación ambiental estratégica simplificada.
+
+- “**Informe de Impacto Ambiental**”: preceptivo y determinante del órgano ambiental con el que finaliza la evaluación de impacto ambiental simplificada.
+
+- “**Modificaciones menores**”: cambios en las características de los planes o programas adoptados o aprobados que no constituyen variaciones fundamentales de las estrategias, directrices y propuestas o de su cronología pero que producen diferencias en los efectos previstos o en la zona de influencia.
 
 - “**Vulnerabilidad del proyecto**”: características físicas de un proyecto que pueden incidir en los posibles efectos adversos significativos que sobre el medio ambiente se puedan producir como consecuencia de un accidente grave o una catástrofe.
 
@@ -266,8 +273,7 @@ En el seno de la Conferencia Sectorial podrán constituirse grupos de trabajo de
 
 - “**Catástrofe**”: suceso de origen natural ajeno al proyecto (inundaciones, subida del nivel del mar, terremotos...) que produce gran destrucción o daño sobre las personas o el medio ambiente.
 
-
-Serán objeto de una evaluación ambiental estratégica ordinaria los planes y programas (y sus modificaciones) que se adopten o aprueben por una Administración pública y cuya elaboración y aprobación venga exigida por una disposición legal o reglamentaria o por acuerdo del Consejo de Ministros o del Consejo de Gobierno de una comunidad autónoma, cuando supongan lo siguiente:
+Serán objeto de una evaluación ambiental estratégica ordinaria los planes y programas (y sus modificaciones) que se adopten o aprueben por una Administración pública y cuya elaboración y aprobación venga exigida por una disposición legal o reglamentaria o por acuerdo del Consejo de Ministros o del Consejo de Gobierno autonómico, cuando supongan lo siguiente:
 
 |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -287,7 +293,7 @@ Respecto a la evaluación de impacto ambiental:
 
 *No serán objeto de evaluación ambiental estratégica los planes y programas que tengan como único fin la defensa nacional o la protección civil en casos de emergencia, o sean de tipo financiero o presupuestario.*
 
-El órgano sustantivo podrá determinar, caso por caso, que la evaluación de impacto ambiental no se aplicará a los proyectos o partes de proyectos que tengan como único objetivo la defensa y a los proyectos que tengan como único objetivo la respuesta a casos de emergencia civil, cuando tal aplicación pudiera tener repercusiones negativas sobre tales objetivos.
+*El órgano sustantivo podrá determinar, caso por caso, que la evaluación de impacto ambiental no se aplique a los proyectos o sus proyectos cuyo único objetivo sea la defensa nacional o la respuesta de emergencia civil.*
 
 El Consejo de Ministros (o el órgano que determine la legislación autonómica) podrán excluir un proyecto de la evaluación de impacto ambiental cuando su aplicación pueda afectar a obras de reparación o mejora de infraestructuras críticas ([Ley 8/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630 "Abre nueva ventana")) dañadas por acontecimientos catastróficos o necesarias para la seguridad nacional. 
 
@@ -297,21 +303,18 @@ A pesar de las posibilidades de exclusión, el promotor debe efectuar una evalua
 
 - **Promotor**: informe de repercusiones sobre los hábitats y especies objetivo de conservación de los espacios afectados, incluyendo las medidas preventivas, correctoras y compensatorias Red Natura 2000, y un esquema de seguimiento ambiental
 
-- **Órgano sustantivo**: consultará preceptivamente al órgano competente en la gestión de los espacios Red Natura 2000 afectados, para remitir posteriormente el informe junto con la consulta al órgano ambiental, al objeto de que éste determine, a la vista del expediente, si el plan, programa o proyecto causará un perjuicio a la integridad de algún espacio Red Natura 2000. En caso afirmativo se sustanciará el procedimiento regulado por los apartados 4 a 7 del [artículo 46 de la Ley 42/2007, de 13 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a46 "Abre nueva ventana"), del Patrimonio Natural y de la Biodiversidad. La aprobación del proyecto incluirá expresamente las medidas y el programa de seguimiento ambiental adoptados.
+- **Órgano sustantivo**: consultará preceptivamente al órgano competente en la gestión de los espacios Red Natura 2000 afectados, para remitir posteriormente el informe junto con la consulta al órgano ambiental, al objeto de que éste determine, a la vista del expediente, si el plan, programa o proyecto causará un perjuicio a la integridad de algún espacio Red Natura 2000 (en caso afirmativo se procederá de acuerdo a los [apartados 4 a 7 del artículo 46 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490#a46 "Abre nueva ventana")). La aprobación del proyecto incluirá expresamente las medidas y el programa de seguimiento ambiental.
 
 *En casos de fuerza mayor, reacción ante catástrofes o accidentes graves, algunas o todas las actuaciones anteriores podrán realizarse a posteriori, justificándose estas circunstancias en la aprobación del proyecto.*
 
-##### Artículo 9. Obligaciones generales.
 
-Los planes, programas y proyectos incluidos en el ámbito de aplicación de esta ley deberán someterse a una evaluación ambiental antes de su adopción o aprobación (los proyectos pueden estar sometidos únicamente a declaración responsable o comunicación: [artículo 69 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a69 "Abre nueva ventana")).
+Los planes, programas y proyectos regulados (Anexos) deberán someterse a una evaluación ambiental antes de su adopción o aprobación (los proyectos pueden estar sometidos únicamente a declaración responsable o comunicación: [artículo 69 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a69 "Abre nueva ventana")). Carecerán de validez los actos de adopción, aprobación o autorización que no lo hayan hecho (sin perjuicio de las sanciones correspondientes, en su caso).
 
-Carecerán de validez los actos de adopción, aprobación o autorización de los planes, programas y proyectos que, estando incluidos en el ámbito de aplicación de esta ley no se hayan sometido a evaluación ambiental, sin perjuicio de las sanciones que, en su caso, puedan corresponder.
+No se realizará la evaluación de impacto ambiental de los proyectos sometidos al procedimiento ordinario (artículo 7) que se encuentren parcial o totalmente ejecutados sin haberla hecho.
 
-No se realizará la evaluación de impacto ambiental regulada en el título II de los proyectos (artículo 7) que se encuentren parcial o totalmente ejecutados sin haberse sometido previamente al procedimiento de evaluación de impacto ambiental.
+En los proyectos sometidos a evaluación de impacto ambiental el acceso a cuyas actividades o ejercicio requieran de declaración responsable o comunicación previa, el órgano ambiental las admitirá únicamente mediante resolución, después de la publicación en el “Boletín Oficial del Estado” (o diario oficial correspondiente) de la declaración de impacto ambiental o del informe de impacto ambiental (no podrán presentarse anteriormente).
 
-Cuando el acceso a una actividad o a su ejercicio exija una declaración responsable o una comunicación previa y de acuerdo con esta ley, requiera una evaluación de impacto ambiental, la declaración responsable o la comunicación previa no podrán presentarse ante el órgano sustantivo antes de la publicación en el “Boletín Oficial del Estado” o diario oficial correspondiente de la declaración de impacto ambiental o del informe de impacto ambiental. Sólo con posterioridad a dicha publicación, el órgano sustantivo, mediante resolución, admitirá la declaración responsable o comunicación previa.
-
-La declaración responsable o la comunicación previa relativa a un proyecto carecerá de validez y eficacia a todos los efectos si debiendo haber sido sometido a una evaluación ambiental no lo hubiese sido, sin perjuicio de las sanciones que, en su caso, procedan.
+La declaración responsable o la comunicación previa de un proyecto regulado carecerá de validez y eficacia si no ha sido sometido a evaluación ambiental (sin perjuicio de las sanciones, en su caso).
 
 Con el fin de garantizar la participación efectiva, los trámites de información pública, y de consulta a las Administraciones Públicas afectadas y a las personas interesadas regulados en esta ley, se efectuarán por vía electrónica y mediante anuncios públicos u otros medios apropiados que garanticen la máxima difusión a la ciudadanía dentro de los municipios afectados y los colindantes.
 
@@ -326,28 +329,32 @@ Las Administraciones Públicas garantizarán que los órganos ambientales dispon
 
 *La falta de emisión de la declaración o informes ambientales no equivale a una evalaución favorable.* 
 
+El ejercicio de las funciones atribuidas al órgano ambiental y sustantivo para la adopción, aprobación o autorización de planes, programas o proyectos, difiere según la Administración:
 
-Corresponde al órgano del Ministerio competente en materia de medio ambiente que se determine reglamentariamente, ejercer las funciones atribuidas por esta ley al órgano ambiental cuando se trate de la evaluación ambiental de planes, programas o proyectos que deban ser adoptados, aprobados o autorizados por la Administración General del Estado y los organismos públicos vinculados o dependientes de ella, o que sean objeto de declaración responsable o comunicación previa ante esta administración.
+|                                       | Órgano sustantivo                                                    | Órgano ambiental                                                     |
+| ------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Administración General del Estado (1) | (No contemplado)                                                     | - Ministerio demedio ambiente (determinado reglamentariamente)       |
+| Comunidades Autónomas                 | Órgano autonómico (determinados por legislación autonómica)          | Órgano autonómico (determinados por legislación autonómica)          |
+| Entidades locales                     | Órganos autonómico o local (determinados por legislación autonómica) | Órganos autonómico o local (determinados por legislación autonómica) |
+*(1) Se consideran incluidos sus organismos públicos vinculados o dependientes*
 
-Las funciones atribuidas por esta ley al órgano ambiental y al órgano sustantivo, en cuanto a la tramitación de los distintos procedimientos, corresponderán a los órganos que determine la legislación de cada comunidad autónoma cuando se trate de la evaluación ambiental de planes, programas o proyectos que deban ser adoptados, aprobados o autorizados por las comunidades autónomas o que sean objeto de declaración responsable o comunicación previa ante las mismas.
+*En la Administración General del Estado y las Comunidades Autónomas aparecen incluidos los planes, programas y proyectos objeto de declaración responsable o comunicación previa.*
 
-En el caso de planes, programas y proyectos cuya adopción, aprobación o autorización corresponda a las entidades locales, las funciones atribuidas por esta ley al órgano ambiental y al órgano sustantivo corresponderán al órgano de la Administración autonómica o local que determine la legislación autonómica.
 
-##### Artículo 12. Resolución de discrepancias.
+En el supuesto de que existan discrepancias entre el órgano sustantivo y el órgano ambiental sobre el contenido de las declaraciones e informes finales, resolverá el Consejo de Ministros (ámbito estatal) o el Consejo de Gobierno u órgano que determine la Comunidad Autonómica (ámbito autonómico y local).
 
-En el supuesto de que existan discrepancias entre el órgano sustantivo y el órgano ambiental sobre el contenido de las declaraciones e informes, resolverá el Consejo de Ministros (ámbito estatal) o el Consejo de Gobierno u órgano que determine la Comunidad Autonómica (ámbito autonómico).
+- **Escrito fundado**: del órgano sustantivo al órgano ambiental, donde manifieste las razones que motivan la discrepancia (junto con toda la documentación correspondiente: incluyendo informes y documentos), en el plazo máximo de treinta días hábiles desde su publicación (en el «Boletín Oficial del Estado» o diario oficial correspondiente).
 
-El órgano sustantivo trasladará al órgano ambiental escrito fundado donde manifieste las razones que motivan la discrepancia junto con toda la documentación, incluyendo cuantos informes y documentos estime oportunos, en el plazo máximo de treinta días hábiles desde la publicación en el «Boletín Oficial del Estado» o diario oficial correspondiente de la declaración ambiental estratégica, de la declaración de impacto ambiental, o en su caso, del informe ambiental estratégico, o del informe de impacto ambiental.
+- **Pronunciamiento**: del órgano ambiental, en un plazo máximo de treinta días hábiles (en caso contrario se entiende que mantiene su criterio).
 
-Recibido el escrito de discrepancias, el órgano ambiental deberá pronunciarse en un plazo máximo de treinta días hábiles. Si el órgano ambiental no se pronunciase en el citado plazo, se entenderá que mantiene su criterio respecto del contenido de la declaración ambiental estratégica, de la declaración de impacto ambiental, o en su caso, del informe ambiental estratégico, o del informe de impacto ambiental formulado.
+- **Elevación al órgano competente para su resolución**: se pronunciará en un plazo máximo de 60 días hábiles (desde su recepción) (hasta entonces se considerará que mantiene su eficacia).
+	- **Ámbito estatal**: Consejo de Ministros
+	- **Ámbito autonómico y local**: Consejo de Gobierno u órgano que determine la Comunidad Autonómica
 
-El órgano sustantivo elevará la discrepancia al órgano competente para su resolución, quien se pronunciará en un plazo máximo de sesenta días hábiles contados desde su recepción. En tanto no se pronuncie el órgano que debe resolver la discrepancia, se considerará que la declaración ambiental estratégica, la declaración de impacto ambiental, o en su caso, el informe ambiental estratégico, o el informe de impacto ambiental mantienen su eficacia.
+- **Publicación**: del acuerdo que resuelva la discrepancia (en el «Boletín Oficial del Estado» o diario oficial correspondiente).
 
-El acuerdo por el que se resuelve la discrepancia se publicará en el «Boletín Oficial del Estado» o diario oficial correspondiente.
 
-##### Artículo 13. Relación entre la evaluación ambiental estratégica y la evaluación de impacto ambiental.
-
-La evaluación ambiental estratégica de un plan o programa no excluye la evaluación de impacto ambiental de los proyectos que de ellos se deriven.
+La evaluación ambiental estratégica de un plan o programa no excluye la evaluación de impacto ambiental de los proyectos que deriven de ellos.
 
 El órgano ambiental podrá acordar motivadamente, en aras del principio de eficacia, la incorporación de trámites y de actos administrativos del procedimiento de evaluación ambiental estratégico en otros procedimientos de evaluación ambiental, siempre y cuando no haya transcurrido el plazo establecido en el plan o programa o, en su defecto, el de cuatro años desde la publicación de la declaración ambiental estratégica y no se hayan producido alteraciones de las circunstancias tenidas en cuenta en la evaluación ambiental estratégica.
 
@@ -355,16 +362,16 @@ El órgano ambiental podrá acordar motivadamente, en aras del principio de efic
 Las Comunidades Autónomas dispondrán lo necesario para incluir las actuaciones en materia de evaluación de impacto ambiental, cuando así sea exigible, en el procedimiento de otorgamiento y modificación de la autorización ambiental integrada.
 
 
-Las Administraciones Públicas que intervienen en los procedimientos de evaluación ambiental deberán respetar la confidencialidad de las informaciones aportadas por el promotor ([Ley Orgánica 15/1999](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750 "Abre nueva ventana")) teniendo en cuenta, en todo caso, la protección del interés público (sin perjuicio de la [Ley 27/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana")).
+Las Administraciones Públicas que intervienen en los procedimientos de evaluación ambiental deberán respetar la confidencialidad de las informaciones aportadas por el promotor ([Ley Orgánica 15/1999](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750 "Abre nueva ventana")), considerando la protección del interés público (sin perjuicio de la [Ley 27/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010 "Abre nueva ventana")).
 
 El promotor deberá indicar qué parte de la información contenida en la documentación presentada considera que debería gozar de confidencialidad. La Administración competente decidirá sobre la información que, según la legislación vigente, esté exceptuada del secreto comercial o industrial, incluida la propiedad intelectual, y sobre la información amparada por la confidencialidad.
 
 
 ##### Artículo 16. Capacidad técnica y responsabilidad del autor de los estudios y documentos ambientales.
 
-El promotor garantizará que el documento inicial estratégico, el estudio ambiental estratégico y el documento ambiental estratégico, en el caso de la evaluación ambiental estratégica, y el documento inicial, el estudio de impacto ambiental y el documento ambiental, en el caso de la evaluación de impacto ambiental, han sido realizados por personas que posean la capacidad técnica suficiente de conformidad con las normas sobre cualificaciones profesionales y de la educación superior, y tendrán la calidad y exhaustividad necesarias para cumplir las exigencias de esta ley. Para ello, los estudios y documentos ambientales mencionados deberán identificar a su autor o autores indicando su titulación y, en su caso, profesión regulada. Además, deberá constar la fecha de conclusión y firma del autor.
+El promotor garantizará que los documentos iniciales, y estudios ambientales (estratégicos y de impacto) hayan sido realizados por personas con la suficiente capacidad técnica (normativa de cualificación profesional y educación superior), y tengan la necesaria calidad y exhaustividad. Para ello, deberán identificar a su autor o autores indicando su titulación y, en su caso, profesión regulada; y constar la fecha de conclusión y firma del autor.
 
-Los autores de los citados documentos serán responsables del contenido y fiabilidad de los estudios y documentos ambientales citados en el apartado anterior, excepto en lo que se refiere a los datos recibidos de la Administración de forma fehaciente.
+Serán responsables del contenido y fiabilidad de los estudios y documentos ambientales (excepto en lo que se refiere a los datos recibidos de la Administración de forma fehaciente).
 
 
 ### Evaluación ambiental estratégica
@@ -388,9 +395,9 @@ COPIAR
 
 ##### Artículo 51. Seguimiento de las declaraciones ambientales estratégicas y de los informes ambientales estratégicos.
 
-Los órganos sustantivos o los órganos que designen las comunidades autónomas respecto de los planes o programas que no sean de competencia estatal, deberán realizar un seguimiento de los efectos en el medio ambiente de su aplicación o ejecución para, entre otras cosas, identificar con prontitud los efectos adversos no previstos y permitir llevar a cabo las medidas adecuadas para evitarlos.
+Los órganos sustantivos o los órganos que designen las Comunidades Autónomas respecto de los planes o programas que no sean de competencia estatal, deberán realizar un seguimiento de los efectos en el medio ambiente de su aplicación o ejecución para identificar con prontitud los efectos adversos no previstos y permitir llevar a cabo las medidas preventivas.
 
-A estos efectos, el promotor remitirá al órgano sustantivo, en los términos establecidos en la declaración ambiental estratégica o en el informe ambiental estratégico, un informe de seguimiento sobre el cumplimiento de la declaración ambiental estratégica o del informe ambiental estratégico. El informe de seguimiento incluirá un listado de comprobación de las medidas previstas en el programa de vigilancia ambiental. El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano sustantivo.
+El promotor remitirá al órgano sustantivo, en los términos establecidos en la declaración ambiental estratégica o en el informe ambiental estratégico, un informe de seguimiento sobre el cumplimiento de la declaración ambiental estratégica o del informe ambiental estratégico. El informe de seguimiento incluirá un listado de comprobación de las medidas previstas en el programa de vigilancia ambiental. El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano sustantivo.
 
 El órgano ambiental participará en el seguimiento de dichos planes o programas. Para ello, el órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias.
 
@@ -417,18 +424,17 @@ El órgano ambiental podrá realizar comprobaciones y recabar información, para
 
 Para evitar duplicidades podrán utilizarse mecanismos de seguimiento ya existentes.
 
-+
 La potestad sancionadora corresponderá al órgano sustantivo en los proyectos privados que deban ser autorizados por la Administración General del Estado y a los órganos que determinen las Comunidades Autónomas en su ámbito de competencia.
 
 Podrán ser sancionados por los hechos constitutivos de las infracciones administrativas los promotores privados que resulten responsables (en el caso de que sean varios, responderán de manera solidaria).
 
 Las infracciones se clasifican en muy graves, graves y leves (a desarrollar por las Comunidades Autónomas):
 
-| Tipología | Infracciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Muy grave | - Ejecución sin declaración de impacto ambiental (proyectos ordinarios; incluidos aquellos sujetos a declaración responsable o comunicación previa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Graves    | - Ejecución sin informe de impacto ambiental (proyectos simplificados, incluidos aquellos sujetos a declaración responsable o comunicación previa)<br>- Obstrucción: ocultación de datos, falseamiento, manipulación maliciosa<br>- Incumplimientos: condiciones ambientales, medidas correctoras o compensatorias,  o el incumplimiento de las condiciones ambientales establecidas en el informe ambiental, e incluidas en la resolución que aprueba o autoriza finalmente el proyecto o, en su caso, en la declaración responsable o comunicación previa del proyecto.<br>- Requerimiento acordado por la Administración para la suspensión |
-| Leves     | - Otros incumplimientos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Tipología | Infracciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Muy grave | - **Ejecución sin declaración de impacto ambiental** (proyectos ordinarios; incluidos aquellos sujetos a declaración responsable o comunicación previa)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Graves    | - **Ejecución sin informe de impacto ambiental** (proyectos simplificados, incluidos aquellos sujetos a declaración responsable o comunicación previa)<br>- **Obstrucción**: ocultación de datos, falseamiento, manipulación maliciosa<br>- **Incumplimientos**: condiciones ambientales, medidas correctoras o compensatorias,  o el incumplimiento de las condiciones ambientales establecidas en el informe ambiental, e incluidas en la resolución que aprueba o autoriza finalmente el proyecto o, en su caso, en la declaración responsable o comunicación previa del proyecto.<br>- **Requerimiento acordado** por la Administración para la suspensión |
+| Leves     | - Otros incumplimientos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 En el caso de que un mismo infractor cometa diversas acciones susceptibles de ser consideradas como varias infracciones se impondrán tantas sanciones como infracciones se hubieran cometido. En el caso en que unos mismos hechos pudieran ser constitutivos de diversas infracciones, se impondrá la sanción correspondiente a la infracción más grave en su mitad superior. En el caso en que unos hechos fueran constitutivos de una infracción calificable como medio o instrumento para asegurar la comisión de otros hechos también constitutivos de infracción de modo que estos deriven necesariamente de aquellos, se impondrá la sanción más grave en su mitad superior.
 
@@ -451,9 +457,14 @@ Las infracciones y sanciones prescribirán en los siguientes tiempos:
 
 *El plazo de las infracciones computará desde el día de su comisión, y el de las sanciones a partir del siguiente a aquel en que adquiera firmeza la resolución por la que se impone.
 
+Las sanciones deberán ser efectivas, disuasorias y proporcionadas ([artículo 29 de la Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a29 "Abre nueva ventana")). Se impondrán atendiendo a las siguientes características:
 
-
-Las sanciones se impondrán atendiendo a las circunstancias del responsable, grado de culpa, reiteración, participación y beneficio obtenido y grado del daño causado al medio ambiente o del peligro en que se haya expuesto la salud de las personas. Deberán ser efectivas, disuasorias y proporcionadas ([artículo 29 de la Ley 40/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a29 "Abre nueva ventana").
+- Circunstancias del responsable
+- Grado de culpa
+- Reiteración
+- Participación
+- Beneficio obtenido
+- Grado del daño causado al medio ambiente o del peligro en que se haya expuesto la salud de las personas
 
 La imposición de una sanción con carácter firme por la comisión de infracción muy grave conllevará la prohibición de contratar.
 
@@ -479,65 +490,70 @@ Las actuaciones previas podrán ser realizadas tanto por el órgano sustantivo a
 El acuerdo de iniciación de los procedimientos sancionadores se formalizará con el contenido mínimo siguiente:
 
 - **Personas responsables**: identificación (físicas o jurídicas).
-- **Hechos**: Los hechos sucintamente expuestos que motivan la incoación del procedimiento, su posible calificación y las sanciones que pudieran corresponder, sin perjuicio de lo que resulte de la instrucción.
-- Instructor y, en su caso, Secretario del procedimiento, con expresa indicación del régimen de recusación de los mismos.
-- Órgano competente para la resolución del expediente y norma que le atribuya tal competencia.
-- Medidas de carácter provisional que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo de conformidad con el artículo siguiente.
-- Indicación del derecho a formular alegaciones y a la audiencia en el procedimiento y de los plazos para su ejercicio.
 
-El acuerdo de iniciación se comunicará al instructor, con traslado de cuantas actuaciones existan al respecto, y se notificará al denunciante, en su caso, y a los interesados, entendiendo en todo caso por tal al inculpado.
+- **Hechos**: exposición sucinta, calificación, y sanciones posibles.
+
+- **Instructor** (y, en su caso, Secretario): con indicación expresa de su régimen de  recusación.
+
+- **Órgano competente para la resolución**: del expediente y norma que le atribuya tal competencia.
+
+- **Medidas provisionales**: que se hayan acordado por el órgano competente para iniciar el procedimiento sancionador, sin perjuicio de las que se puedan adoptar durante el mismo de conformidad con el artículo siguiente.
+
+- **Derecho a formular alegaciones y a la audiencia**: y plazos para su ejercicio.
+
+El acuerdo de iniciación se comunicará al instructor, con traslado de cuantas actuaciones existan al respecto, y se notificará al denunciante, en su caso, y a los interesados (entendiendo en todo caso por tal al inculpado).
 
 
 ##### Artículo 59. Medidas de carácter provisional.
 
-El órgano competente para la instrucción del procedimiento sancionador, en los casos de urgencia y para la protección provisional de los intereses implicados, podrá adoptar las medidas provisionales imprescindibles con anterioridad a la iniciación del procedimiento sancionador, con los límites y condiciones establecidos en el [artículo 72 de la Ley 30/1992, de 26 de noviembre](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a72 "Abre nueva ventana"), y demás normativa aplicable.
+- **Medidas provisionales**: 
 
-Una vez iniciado el procedimiento sancionador, el órgano competente para resolver, de oficio o a requerimiento del órgano ambiental, podrá en cualquier momento y mediante acuerdo motivado, acordar la suspensión de la ejecución del proyecto y adoptar otras medidas de carácter provisional que aseguren la eficacia de la resolución final que pudiera recaer.
+	- **Urgencia**: el órgano competente para la instrucción del procedimiento sancionador, en los casos de urgencia y para la protección provisional de los intereses implicados, podrá adoptar las medidas provisionales imprescindibles con anterioridad a la iniciación del procedimiento sancionador, con los límites y condiciones (artículo XXX de la Ley 39/2015).
 
-##### Artículo 60. Instrucción.
+	- **Después del inicio**: Una vez iniciado el procedimiento sancionador, el órgano competente para resolver (de oficio o a requerimiento del órgano ambiental) podrá acordar motivadamente en cualquier momento la suspensión de la ejecución del proyecto y la adopción de medidas provisionales.
 
-Los interesados dispondrán de un plazo de quince días para aportar cuantas alegaciones, documentos o informaciones estimen convenientes y, en su caso, proponer prueba concretando los medios de que pretendan valerse. En la notificación de la iniciación del procedimiento se indicará a los interesados dicho plazo.
+- **Instrucción**: los interesados dispondrán de 15 días para aportar cuantas alegaciones, documentos o informaciones estimen convenientes y, en su caso, proponer prueba concretando los medios de que pretendan valerse. En la notificación de la iniciación del procedimiento se indicará a los interesados dicho plazo.
 
-Cursada la notificación a que se refiere el punto anterior, el instructor del procedimiento realizará de oficio cuantas actuaciones resulten necesarias para el examen de los hechos, recabando los datos e informaciones que sean relevantes para determinar, en su caso, la existencia de responsabilidades susceptibles de sanción.
+	Cursada la notificación a que se refiere el punto anterior, el instructor del procedimiento realizará de oficio cuantas actuaciones resulten necesarias para el examen de los hechos, recabando los datos e informaciones que sean relevantes para determinar, en su caso, la existencia de responsabilidades susceptibles de sanción.
 
-Si como consecuencia de la instrucción del procedimiento resultase modificada la determinación inicial de los hechos, de su posible calificación, de las sanciones imponibles o de las responsabilidades susceptibles de sanción, se notificará todo ello al inculpado en la propuesta de resolución debiendo concederse plazo de quince días para la formulación de alegaciones al respecto.
+	Si como consecuencia de la instrucción del procedimiento resultase modificada la determinación inicial de los hechos, de su posible calificación, de las sanciones imponibles o de las responsabilidades susceptibles de sanción, se notificará todo ello al inculpado en la propuesta de resolución debiendo concederse plazo de quince días para la formulación de alegaciones al respecto.
 
+	
+	Tras las alegaciones (o pasado el plazo establecido para ello), el órgano instructor podrá acordar la apertura de un período de prueba ([artículos 80 y siguientes y 137.4 de la Ley 30/1992](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a80 "Abre nueva ventana")), por un plazo entre 10 y 30 días.
 
-Tras las alegaciones (o pasado el plazo establecido para ello), el órgano instructor podrá acordar la apertura de un período de prueba ([artículos 80 y siguientes y 137.4 de la Ley 30/1992](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a80 "Abre nueva ventana")), por un plazo entre 10 y 30 días.
+	Los hechos constatados por funcionarios a los que se reconoce la condición de autoridad, y que se formalicen en documento público observando los requisitos legales pertinentes, tendrán valor probatorio (sin perjuicio de las pruebas que en defensa de los respectivos derechos o intereses puedan señalar o aportar los propios administrados).
 
-Los hechos constatados por funcionarios a los que se reconoce la condición de autoridad, y que se formalicen en documento público observando los requisitos legales pertinentes, tendrán valor probatorio (sin perjuicio de las pruebas que en defensa de los respectivos derechos o intereses puedan señalar o aportar los propios administrados).
+- **Propuesta de resolución**:
 
-##### Artículo 62. Propuesta de resolución.
-
-Concluida, en su caso, la prueba, el órgano instructor del procedimiento formulará propuesta de resolución en la que se fijarán de forma motivada los hechos, especificándose los que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquéllos constituyan y la persona o personas que resulten responsables, especificándose la sanción que propone que se imponga y las medidas provisionales que se hubieran adoptado, en su caso, por el órgano competente para iniciar el procedimiento o por el instructor del mismo; o bien se propondrá la declaración de no existencia de infracción o responsabilidad.
-
-
-##### Artículo 63. Audiencia.
-
-La propuesta de resolución se notificará a los interesados, indicándoles la puesta de manifiesto del procedimiento. A la notificación se acompañará una relación de los documentos obrantes en el procedimiento a fin de que los interesados puedan obtener las copias de los que estimen convenientes, concediéndoseles un plazo de quince días para formular alegaciones y presentar los documentos e informaciones que estimen pertinentes ante el instructor del procedimiento.
-
-Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas, en su caso, por el interesado.
-
-La propuesta de resolución se cursará inmediatamente al órgano competente para resolver el procedimiento, junto con todos los documentos, alegaciones e informaciones que obren en el mismo.
+	Concluida, en su caso, la prueba, el órgano instructor del procedimiento formulará propuesta de resolución en la que se fijarán de forma motivada los hechos, especificándose los que se consideren probados y su exacta calificación jurídica, se determinará la infracción que, en su caso, aquéllos constituyan y la persona o personas que resulten responsables, especificándose la sanción que propone que se imponga y las medidas provisionales que se hubieran adoptado, en su caso, por el órgano competente para iniciar el procedimiento o por el instructor del mismo; o bien se propondrá la declaración de no existencia de infracción o responsabilidad.
 
 
-##### Artículo 64. Resolución.
+- **Audiencia**
 
-Antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento.
+	La propuesta de resolución se notificará a los interesados, indicándoles la puesta de manifiesto del procedimiento. A la notificación se acompañará una relación de los documentos obrantes en el procedimiento a fin de que los interesados puedan obtener las copias de los que estimen convenientes, concediéndoseles un plazo de quince días para formular alegaciones y presentar los documentos e informaciones que estimen pertinentes ante el instructor del procedimiento.
+	
+	Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas, en su caso, por el interesado.
+	
+	La propuesta de resolución se cursará inmediatamente al órgano competente para resolver el procedimiento, junto con todos los documentos, alegaciones e informaciones que obren en el mismo.
 
-El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes. Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días. El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias. No tendrán la consideración de actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento.
 
-El órgano competente dictará resolución que será motivada y decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del procedimiento.
+- **Resolución**
 
-La resolución se adoptará en el plazo de un mes desde la recepción de la propuesta de resolución y los documentos, alegaciones e informaciones obrantes en el procedimiento.
+	Antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento.
+	
+	El acuerdo de realización de actuaciones complementarias se notificará a los interesados, concediéndoseles un plazo de siete días para formular las alegaciones que tengan por pertinentes. Las actuaciones complementarias deberán practicarse en un plazo no superior a quince días. El plazo para resolver el procedimiento quedará suspendido hasta la terminación de las actuaciones complementarias. No tendrán la consideración de actuaciones complementarias los informes que preceden inmediatamente a la resolución final del procedimiento.
 
-En la resolución no se podrán aceptar hechos distintos de los determinados en la fase de instrucción del procedimiento, salvo los que resulten, en su caso, de la aplicación de lo previsto en el número 1 de este artículo, con independencia de su diferente valoración jurídica. No obstante y solo cuando el órgano competente para resolver considere que la infracción reviste mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes, concediéndosele un plazo de quince días.
-
-Las resoluciones de los procedimientos sancionadores, además de contener los elementos previstos en el [artículo 89.3 de la Ley 30/1992](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a89 "Abre nueva ventana") de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, incluirán la valoración de las pruebas practicadas, y especialmente de aquellas que constituyan los fundamentos básicos de la decisión fijarán los hechos y, en su caso, la persona o personas responsables, la infracción o infracciones cometidas y la sanción o sanciones que se imponen, o bien la declaración de no existencia de infracción o responsabilidad.
-
-Las resoluciones se notificarán a los interesados. Si el procedimiento se hubiese iniciado como consecuencia de orden superior o petición razonada, se comunicará también la resolución al órgano administrativo autor de aquélla.
-
-Se declarará la caducidad del expediente sancionador si transcurrido el plazo de un año desde que se dictó el acuerdo de iniciación no se hubiese notificado la resolución.
+	El órgano competente dictará resolución que será motivada y decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del procedimiento.
+	
+	La resolución se adoptará en el plazo de un mes desde la recepción de la propuesta de resolución y los documentos, alegaciones e informaciones obrantes en el procedimiento.
+	
+	En la resolución no se podrán aceptar hechos distintos de los determinados en la fase de instrucción del procedimiento, salvo los que resulten, en su caso, de la aplicación de lo previsto en el número 1 de este artículo, con independencia de su diferente valoración jurídica. No obstante y solo cuando el órgano competente para resolver considere que la infracción reviste mayor gravedad que la determinada en la propuesta de resolución, se notificará al inculpado para que aporte cuantas alegaciones estime convenientes, concediéndosele un plazo de quince días.
+	
+	Las resoluciones de los procedimientos sancionadores, además de contener los elementos previstos en el [artículo 89.3 de la Ley 30/1992](https://www.boe.es/buscar/act.php?id=BOE-A-1992-26318#a89 "Abre nueva ventana") de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, incluirán la valoración de las pruebas practicadas, y especialmente de aquellas que constituyan los fundamentos básicos de la decisión fijarán los hechos y, en su caso, la persona o personas responsables, la infracción o infracciones cometidas y la sanción o sanciones que se imponen, o bien la declaración de no existencia de infracción o responsabilidad.
+	
+	Las resoluciones se notificarán a los interesados. Si el procedimiento se hubiese iniciado como consecuencia de orden superior o petición razonada, se comunicará también la resolución al órgano administrativo autor de aquélla.
+	
+	Se declarará la caducidad del expediente sancionador si transcurrido el plazo de un año desde que se dictó el acuerdo de iniciación no se hubiese notificado la resolución.
 
 
 ### Anexos
@@ -554,6 +570,7 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 1. **Agricultura, silvicultura, acuicultura y ganadería**.
 
 	- **Cría intensiva de ganado**, con las siguientes plazas mínimas: 
+
 		- Pollos: 55.000
 		- Gallinas ponedoras: 40.000
 		- Cerdos de cebo: 2.000
@@ -561,8 +578,8 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 		- Vacuno de leche: 750
 		- Vacuno de cebo: 1.100
 
-	- Transformación de áreas sin cultivar o áreas naturales o seminaturales para la explotación agrícola sobre una superficie mayor de 50 ha.
-	- Proyectos de gestión de recursos hídricos para la agricultura, incluida la transformación en regadío y la mejora o consolidación del regadío, que afecten a más de 100 ha.
+	- Transformación de áreas sin cultivar o áreas naturales o seminaturales para la explotación agrícola: superficie mayor de 50 ha.
+	- Proyectos de gestión de recursos hídricos para la agricultura (incluida la transformación en regadío y la mejora o consolidación del regadío): que afecten a más de 100 ha.
 
 2. **Industria extractiva**.
 
@@ -582,32 +599,35 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 		
 		7.º Extracciones que, aun no cumpliendo ninguna de las condiciones anteriores, se sitúen a menos de 5 km de los límites del área que se prevea afectar por el laboreo y las instalaciones anexas de cualquier explotación o concesión minera a cielo abierto existente.
 	
-	- Minería subterránea en las explotaciones en las que se dé alguna de las circunstancias siguientes:
+	- **Minería subterránea** en las explotaciones en las que se dé alguna de las circunstancias siguientes:
 	
-		1.º Que su paragénesis pueda, por oxidación, hidratación o disolución, producir aguas ácidas o alcalinas que den lugar a cambios en el pH o liberen iones metálicos o no metálicos que supongan una alteración del medio natural.
+		- **Contaminación del pH o iones**: provocado por oxidación, hidratación o disolución de su paragénesis.
 		
-		2.º Que exploten minerales radiactivos.
+		- **Minerales radiactivos**
 		
-		3.º Aquéllas cuyos minados se encuentren a menos de 1 km (medido en plano) de distancia de núcleos urbanos, que puedan inducir riesgos por subsidencia.
+		- **Proximidad a núcleos urbanos**: a menos de 1 km (medido en plano), y que puedan inducir riesgos por subsidencia.
 		
-		4.º Que se realicen por debajo del nivel freático, tomando como nivel de referencia el más elevado entre las oscilaciones anuales, o que pueden suponer una disminución de la recarga de acuíferos superficiales o profundos; aquéllas que se desarrollen a una distancia inferior a 500 metros de cursos fluviales continuos o aquellas que puedan afectar a las zonas protegidas designadas de acuerdo con el anexo IV de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana") de 2020, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas.
+		- **Debajo del nivel freático**, tomando como nivel de referencia el más elevado entre las oscilaciones anuales, o que pueden suponer una disminución de la recarga de acuíferos superficiales o profundos; aquéllas que se desarrollen a una distancia inferior a 500 metros de cursos fluviales continuos o aquellas que puedan afectar a las zonas protegidas designadas de acuerdo con el anexo IV de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana") de 2020, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas.
 	
 	- Extracción o almacenamiento subterráneo de petróleo y gas natural con fines comerciales cuando:
 	
-		1.º La cantidad de producción sea superior a 500 toneladas por día en el caso del petróleo y de 500.000 metros cúbicos por día en el caso del gas.
+		- **Cantidades**: más de 500 toneladas por día (petróleo) y 500.000 m3 por día (gas).
 		
-		2.º Se realicen en medio marino.
+		- **Medio marino**.
 	
 	- Los proyectos consistentes en la realización de perforaciones para la exploración, investigación o explotación de hidrocarburos, almacenamiento de CO2, almacenamiento de gas y geotermia de media y alta entalpía, que requieran la utilización de técnicas de fracturación hidráulica. No se incluyen en este apartado las perforaciones de sondeos de investigación que tengan por objeto la toma de testigos previos a proyectos de perforación que requieran la utilización de técnicas de fracturación hidráulica.
 	
-	En todos los apartados de este grupo se incluyen las estructuras e instalaciones (incluidas las de residuos mineros) necesarias para la extracción, tratamiento, almacenamiento, aprovechamiento y transporte de mineral, así como para la gestión de los residuos mineros y restauración del espacio afectado por la actividad minera.
+	*En todos los apartados de este grupo se incluyen las estructuras e instalaciones (incluidas las de residuos mineros) necesarias para la extracción, tratamiento, almacenamiento, aprovechamiento y transporte de mineral, así como para la gestión de los residuos mineros y restauración del espacio afectado por la actividad minera.*
 
 - Grupo 3. **Industria energética**.
 
-	- Refinerías de petróleo bruto (con la exclusión de las empresas que produzcan únicamente lubricantes a partir de petróleo bruto), así como las instalaciones de gasificación y de licuefacción de, al menos, 500 t de carbón o de pizarra bituminosa al día
-	- Centrales térmicas y otras instalaciones de combustión de una potencia térmica de, al menos, 300 MW.
+	- **Refinerías de petróleo bruto** (con la exclusión de las empresas que produzcan únicamente lubricantes a partir de petróleo bruto), así como las instalaciones de gasificación y de licuefacción de, al menos, 500 t de carbón o de pizarra bituminosa al día
+
+	- **Instalaciones de combustión** (centrales térmicas...): de al menos 300 MW.
+
 	- Centrales nucleares y otros reactores nucleares, incluidos el desmantelamiento o clausura definitiva de tales centrales y reactores (con exclusión de las instalaciones de investigación para la producción y transformación de materiales fisionables y fértiles, cuya potencia máxima no supere 1 kW de carga térmica continua).
-	- Instalación de reproceso de combustibles nucleares irradiados.
+
+	- **Instalación de reproceso de combustibles nucleares irradiados**
 	- Instalaciones diseñadas para:
 		- La producción o enriquecimiento de combustible nuclear.
 		- El tratamiento o reprocesado de combustible nuclear irradiado o de residuos radiactivos de alta actividad.
@@ -619,7 +639,10 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 		- Gas, petróleo o productos químicos, incluyendo instalaciones de compresión
 		- Flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
 
-	- Construcción de líneas eléctricas con un voltaje igual o superior a 220 kV y una longitud superior a 15 km, salvo que discurran íntegramente en subterráneo por suelo urbanizado, así como sus subestaciones asociadas. A estos efectos, las líneas aéreas de contacto de las infraestructuras ferroviarias no tienen la consideración de líneas de transmisión de energía eléctrica
+	- Construcción de líneas eléctricas con un voltaje igual o superior a 220 kV y una longitud superior a 15 km, salvo que discurran íntegramente en subterráneo por suelo urbanizado, así como sus subestaciones asociadas. 
+
+		*A estos efectos, las líneas aéreas de contacto de las infraestructuras ferroviarias no tienen la consideración de líneas de transmisión de energía eléctrica*
+
 	- Instalaciones para el almacenamiento de petróleo o productos petroquímicos o químicos con una capacidad de, al menos, 200.000 t.
 	- Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos) que tengan cincuenta o más aerogeneradores, o que tengan más de 30 MW, o que se encuentren a menos de 2 km de otro parque eólico en funcionamiento, en construcción, con autorización administrativa o con declaración de impacto ambiental.
 	- Instalaciones para la producción de energía eléctrica a partir de la energía solar, que no se ubiquen en cubiertas y tejados y que ocupen más de 100 ha de superficie
@@ -628,39 +651,42 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 
 - Grupo 4. **Industria siderúrgica y del mineral**. Producción y elaboración de metales.
 
-	- Instalaciones para la producción de metales en bruto no ferrosos a partir de minerales, de concentrados o de materias primas secundarias mediante procesos metalúrgicos, químicos o electrolíticos.
+	- Metales en bruto no ferrosos a partir de minerales, de concentrados o de materias primas secundarias mediante procesos metalúrgicos, químicos o electrolíticos.
 	
-	- Plantas integradas para la fundición inicial del hierro colado y del acero.
+	- **Fundición inicial del hierro colado y acero**
 	
-	- Instalaciones para la elaboración de metales ferrosos en las que se realice alguna de las siguientes actividades:
+	- **Elaboración de metales ferrosos** en las que se realice alguna de las siguientes actividades:
+
+		- **Laminado en caliente** con una capacidad superior a 20 t de acero en bruto por hora.
+		- **Forjado con martillos** cuya energía de impacto sea superior a 50 kJ por martillo y cuando la potencia térmica utilizada sea superior a 20 MW.
+		- **Capas protectoras de metal fundido** con una capacidad de tratamiento de más de 2 t de acero bruto por hora.
 	
-		- Laminado en caliente con una capacidad superior a 20 t de acero en bruto por hora.
-		- Forjado con martillos cuya energía de impacto sea superior a 50 kJ por martillo y cuando la potencia térmica utilizada sea superior a 20 MW.
-		- Aplicación de capas protectoras de metal fundido con una capacidad de tratamiento de más de 2 t de acero bruto por hora.
+	- **Fundiciones de metales ferrosos** con una capacidad de producción de más de 20 t por día.
 	
-	- Fundiciones de metales ferrosos con una capacidad de producción de más de 20 t por día.
+	- **Fundición de metales no ferrosos** (incluida la aleación), con excepción de metales preciosos, incluidos los productos de recuperación (refinado, restos de fundición, etc.), con una capacidad de fusión de más de 4 t para el plomo y el cadmio o 20 t para todos los demás metales, por día.
 	
-	- Instalaciones para la fundición (incluida la aleación) de metales no ferrosos, con excepción de metales preciosos, incluidos los productos de recuperación (refinado, restos de fundición, etc.), con una capacidad de fusión de más de 4 t para el plomo y el cadmio o 20 t para todos los demás metales, por día.
+	- **Tratamiento de la superficie de metales y materiales plásticos** por proceso electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas al tratamiento empleadas sea superior a 30 metros cúbicos.
 	
-	- Instalaciones para el tratamiento de la superficie de metales y materiales plásticos por proceso electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas al tratamiento empleadas sea superior a 30 metros cúbicos.
+	- **Calcinación y de sinterizado de minerales metálicos**, con capacidad superior a 5.000 t por año de mineral procesado.
 	
-	- Instalaciones de calcinación y de sinterizado de minerales metálicos, con capacidad superior a 5.000 t por año de mineral procesado.
+	- **Producción de cemento, cal y óxido de magnesio**:
 	
-	- Producción de cemento, cal y óxido de magnesio:
+		- **Cemento por molienda** con una capacidad de producción superior a 500 t diarias.
+		- **Clínker en hornos rotatorios** con una capacidad de producción superior a 500 t diarias, o en hornos de otro tipo con una capacidad de producción superior a 50 t por día.
+		- **Cal en hornos** con una capacidad de producción superior a 50 t diarias.
+		- **Óxido de magnesio en hornos** con una capacidad de producción superior a 50 t diarias.
 	
-		- Cemento por molienda con una capacidad de producción superior a 500 t diarias.
-		- Clínker en hornos rotatorios con una capacidad de producción superior a 500 t diarias, o en hornos de otro tipo con una capacidad de producción superior a 50 t por día.
-		- Cal en hornos con una capacidad de producción superior a 50 t diarias.
-		- Óxido de magnesio en hornos con una capacidad de producción superior a 50 t diarias.
-	
-	- Instalaciones para la fabricación de vidrio (incluida la fibra de vidrio): con una capacidad de fusión superior a 20 t por día.
-	- Instalaciones para la fundición de sustancias minerales, incluida la producción de fibras minerales, con una capacidad de fundición superior a 20 t por día.
-	- Instalaciones para la fabricación de productos cerámicos mediante horneado, en particular, tejas, ladrillos, ladrillos refractarios, azulejos, gres o porcelana, con una capacidad de producción superior a 75 t por día y una capacidad de horneado de más de 4 metros cúbicos y más de 300 kg por metro cúbico de densidad de carga por horno.
-	- Instalaciones para la extracción de amianto, así como el tratamiento y la transformación de amianto y de productos que contengan amianto: para los productos de amianto-cemento, con una producción anual de más de 20.000 toneladas de productos acabados; para los materiales de fricción, con una producción anual de más de 50 toneladas de productos acabados; para los demás usos del amianto, una utilización anual de más de 200 toneladas.
+	- **Fabricación de vidrio** (incluida la fibra de vidrio): con una capacidad de fusión superior a 20 t por día.
+
+	- **Fundición de sustancias minerales**, incluida la producción de fibras minerales, con una capacidad de fundición superior a 20 t por día.
+
+	- **Fabricación de productos cerámicos mediante horneado**, en particular, tejas, ladrillos, ladrillos refractarios, azulejos, gres o porcelana, con una capacidad de producción superior a 75 t por día y una capacidad de horneado de más de 4 metros cúbicos y más de 300 kg por metro cúbico de densidad de carga por horno.
+
+	- **Extracción, tratamiento y transformación de amianto** (o productos que los contengan): para los productos de amianto-cemento, con una producción anual de más de 20.000 toneladas de productos acabados; para los materiales de fricción, con una producción anual de más de 50 toneladas de productos acabados; para los demás usos del amianto, una utilización anual de más de 200 toneladas.
 
 - Grupo 5. **Industria química, petroquímica, textil y papelera**.
 
-	- Instalaciones para la producción a escala industrial de sustancias mediante transformación química o biológica, de los productos o grupos de productos siguientes:
+	- **Producción mediante transformación química o biológica**, de los productos o grupos de productos siguientes:
 	
 		- **Productos químicos orgánicos**:
 			- **Hidrocarburos simples** (lineales o cíclicos, saturados o insaturados, alifáticos o aromáticos).
@@ -676,35 +702,41 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 			- **Tensioactivos y agentes de superficie**
 		
 		- **Productos químicos inorgánicos**:
+
 			- **Gases**: amoniaco, cloro o cloruro de hidrógeno, flúor o fluoruro de hidrógeno, óxidos de carbono, compuestos de azufre, óxidos del nitrógeno, hidrógeno, dióxido de azufre, dicloruro de carbonilo...
 			- **Ácidos**: crómico, fluorhídrico, fosfórico, nítrico, clorhídrico, sulfúrico, sulfúrico fumante, los sulfurados...
 			- **Bases**: hidróxido de amonio, hidróxido potásico, hidróxido sódico...
 			- **Sales**: cloruro de amonio, clorato potásico, carbonato potásico (potasa), carbonato sódico (sosa), perboratos, nitrato argéntico....
 			- **No metales, óxidos metálicos u otros compuestos inorgánicos**: carburo de calcio, el silicio, el carburo de silicio.
 	
-		- Fertilizantes a base de fósforo, nitrógeno o potasio (fertilizantes simples o compuestos).
-		- Productos fitosanitarios y de biocidas.
-		- Productos farmacéuticos mediante un proceso químico o biológico.
-		- Productos explosivos.
+		- **Fertilizantes** a base de fósforo, nitrógeno o potasio (fertilizantes simples o compuestos)
+		- **Productos fitosanitarios y de biocidas**
+		- **Productos farmacéuticos** mediante un proceso químico o biológico
+		- **Productos explosivos**
 	
-	- Plantas para el tratamiento previo (operaciones tales como el lavado, blanqueo, mercerización) o para el teñido de fibras o productos textiles cuando la capacidad de tratamiento supere las 10 t diarias.
+	- **Tratamiento previo o teñido de fibras o productos textiles** (lavado, blanqueo, mercerización...): cuando la capacidad de tratamiento supere las 10 t diarias.
 	
-	- Las plantas para el curtido de pieles y cueros cuando la capacidad de tratamiento supere las 12 t de productos acabados por día.
+	- **Curtido de pieles y cueros** cuando la capacidad de tratamiento supere las 12 t de productos acabados por día.
 	
-	- Plantas industriales para:
+	- Papel y cartón:
 	
-		- La producción de pasta de papel a partir de madera o de otras materias fibrosas similares.
-		- La producción de papel y cartón, con una capacidad de producción superior a 200 t diarias.
+		- **Pasta de papel** a partir de madera o de otras materias fibrosas similares.
+		- **Papel y cartón**, con una capacidad de producción superior a 200 t diarias.
 	
-	- Instalaciones de producción y tratamiento de celulosa con una capacidad de producción superior a 20 t diarias.
+	- **Producción y tratamiento de celulosa** con una capacidad de producción superior a 20 t diarias.
 
 - Grupo 6. **Proyectos de infraestructuras**.
 
 	- **Carreteras**: construcción de autopistas, autovías y carreteras multicarril de nuevo trazado, y ampliación o acondicionamiento de carreteras convencionales existentes que impliquen su transformación en autopistas, autovías o carreteras multicarril, de tal manera que el tramo de carretera ampliado y/o acondicionado alcance o supere los 10 km, en una longitud continuada.
+
 	- **Ferrocarriles**: nuevas (más de 5 Km) y ampliación (continuada de más de 10 Km)
+
 	- **Aeropuertos** ([artículo 39 de la Ley 48/1960](https://www.boe.es/buscar/act.php?id=BOE-A-1960-10905#atreintaynueve "Abre nueva ventana")): con pistas de despegue y aterrizaje a partir de una longitud de 2.100 metros.
+
 	- **Puertos** (comerciales, pesqueros o deportivos): que admitan barcos de arqueo superior a 1.350 t.
-	- Muelles para carga y descarga conectados a tierra y puertos exteriores (con exclusión de los muelles para transbordadores) que admitan barcos de arqueo superior a 1.350 t, excepto que se ubiquen en zona I, de acuerdo con la Delimitación de los Espacios y Usos Portuarios regulados en el artículo 69, letra a), del [texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre](https://www.boe.es/buscar/act.php?id=BOE-A-2011-16467 "Abre nueva ventana").
+
+	- **Muelles para carga y descarga** conectados a tierra y puertos exteriores (con exclusión de los muelles para transbordadores) que admitan barcos de arqueo superior a 1.350 t, excepto que se ubiquen en zona I, de acuerdo con la Delimitación de los Espacios y Usos Portuarios regulados en el artículo 69, letra a), del [texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre](https://www.boe.es/buscar/act.php?id=BOE-A-2011-16467 "Abre nueva ventana").
+
 	- **Construcción de vías navegables** ([Decisión 661/2010/UE](https://www.boe.es/buscar/doc.php?id=DOUE-L-2010-81413 "Abre nueva ventana")), sobre las orientaciones de la Unión para el desarrollo de la red transeuropea de transporte; y puertos de navegación interior que permitan el paso de barcos de arqueo superior a 1.350 t.
 
 - Grupo 7. **Proyectos de ingeniería hidráulica y de gestión del agua**.
@@ -712,8 +744,10 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 	- **Presas y azudes**:
 	
 		- **Grandes presas** ([artículo 4 del Real Decreto 264/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-5867#a4 "Abre nueva ventana")).
-		- Presas y otras instalaciones destinadas a retener el agua o almacenarla de forma permanente, cuando el volumen nuevo o adicional de agua almacenada sea superior a 10 hectómetros cúbicos, o que supongan una inundación nueva o adicional de más de 100 ha.
-		- Nuevas presas o azudes que ocupen modifiquen, supongan embalsamiento o alteren el régimen de caudales en más de un 5 % cualquier mes, en espacios naturales protegidos incluyendo, las reservas fluviales, las masas de agua en estado muy bueno, las áreas críticas para la conservación de especies protegidas o hábitats catalogados como en peligro de desaparición.
+
+		- **Presas y otras instalaciones destinadas a retener el agua o almacenarla de forma permanente**, cuando el volumen nuevo o adicional de agua almacenada sea superior a 10 hectómetros cúbicos, o que supongan una inundación nueva o adicional de más de 100 ha.
+
+		- **Nuevas presas o azudes** que ocupen modifiquen, supongan embalsamiento o alteren el régimen de caudales en más de un 5 % cualquier mes, en espacios naturales protegidos incluyendo, las reservas fluviales, las masas de agua en estado muy bueno, las áreas críticas para la conservación de especies protegidas o hábitats catalogados como en peligro de desaparición.
 	
 	- **Proyectos de recarga artificial de acuíferos** cuando el volumen de agua aportada sea igual o superior a 10 hectómetros cúbicos y proyectos para la extracción de aguas subterráneas si el volumen anual de agua extraída es igual o superior a 10 hectómetros cúbicos.
 	
@@ -726,9 +760,11 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 
 - Grupo 8. **Proyectos de tratamiento y gestión de residuos**.
 
-	- Instalaciones de incineración de residuos peligrosos (artículo 2.añ de la [Ley 7/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809 "Abre nueva ventana")), depósito de seguridad o tratamiento químico
-	- Instalaciones de incineración de residuos no peligrosos definidos en el [artículo 2.an) de la Ley 7/2022, de 8 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809#a2 "Abre nueva ventana"), o de eliminación de dichos residuos mediante tratamiento físico-químico con una capacidad superior a 100 t diarias.
-	- Vertederos de residuos no peligrosos que reciban más de 10 t por día o que tengan una capacidad total de más de 25.000 t, excluidos los vertederos de residuos inertes.
+	- **Incineración de residuos peligrosos** (artículo 2.añ de la [Ley 7/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809 "Abre nueva ventana")), **depósito de seguridad o tratamiento químico**
+
+	- **Incineración de residuos no peligrosos** definidos en el [artículo 2.an) de la Ley 7/2022, de 8 de abril](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809#a2 "Abre nueva ventana"), o de eliminación de dichos residuos mediante tratamiento físico-químico con una capacidad superior a 100 t diarias.
+
+	- **Vertederos de residuos no peligrosos** que reciban más de 10 t por día o que tengan una capacidad total de más de 25.000 t, excluidos los vertederos de residuos inertes.
 
 - Grupo 9. **Otros proyectos**.
 
@@ -738,19 +774,19 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 	
 	- Transformación de áreas sin cultivar o áreas naturales o seminaturales para la explotación agrícola sobre una superficie mayor de 10 ha.
 	- Concentraciones parcelarias.
-	- Proyectos de gestión de recursos hídricos para la agricultura que supongan la transformación en regadío, consolidación o mejora de más de 10 ha
-	- Proyectos de avenamiento o drenaje de terrenos de más de 10 ha.
-	- Repoblación forestal con especies alóctonas, que caractericen la vegetación preexistente, separándose de la dinámica vegetal natural o cambiando el tipo de funcionalidad o uso del suelo, sobre superficies superiores a 10 ha.
-	- Tala de vegetación forestal para cambiar en tipo de funcionalidad o uso del suelo en superficies superiores a 10 ha.
-	- Instalaciones de vertederos de residuos no peligrosos no incluidos en el grupo 8 de este anexo I, así como de residuos inertes o materiales de extracción de origen fluvial, terrestre o marino que ocupen más de 1 ha de superficie.
-	- Dragados fluviales y en aguas de transición cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales, y dragados marinos cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales.
-	- Tuberías para el transporte de productos químicos, de gas y petróleo, con un diámetro de más de 800 mm y una longitud superior a 10 km, así como, tuberías para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
-	- Líneas eléctricas con una longitud superior a 3 km, excluidas las que atraviesen zonas urbanizadas.
-	- Parques eólicos.
-	- Construcción de aeródromos, según la definición establecida en la [Ley 48/1960, de 21 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1960-10905 "Abre nueva ventana"), sobre Navegación Aérea, excepto los aeródromos destinados exclusivamente a uso sanitario y de emergencias o a la prevención y extinción de incendios.
-	- Proyectos que requieran la urbanización del suelo para polígonos industriales o usos residenciales que ocupen más de 5 ha; Construcción de centros comerciales y aparcamientos, fuera de suelo urbanizable y que en superficie ocupen más de 1 ha; Instalaciones hoteleras en suelo no urbanizable.
-	- Pistas de esquí, remontes y teleféricos y construcciones asociadas.
-	- Parques temáticos.
+	- **Gestión de recursos hídricos para la agricultura** que supongan la transformación en regadío, consolidación o mejora de más de 10 ha
+	- **Avenamiento o drenaje de terrenos** de más de 10 ha.
+	- **Repoblación forestal con especies alóctonas**, que caractericen la vegetación preexistente, separándose de la dinámica vegetal natural o cambiando el tipo de funcionalidad o uso del suelo, sobre superficies superiores a 10 ha.
+	- **Tala de vegetación forestal para cambiar en tipo de funcionalidad o uso del suelo** en superficies superiores a 10 ha.
+	- Vertederos de residuos no peligrosos no incluidos en el grupo 8 de este anexo I, así como de residuos inertes o materiales de extracción de origen fluvial, terrestre o marino que ocupen más de 1 ha de superficie.
+	- **Dragados fluviales y en aguas de transición** cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales, y dragados marinos cuando el volumen extraído sea superior a 20.000 metros cúbicos anuales.
+	- **Tuberías para el transporte de productos químicos, de gas y petróleo**, con un diámetro de más de 800 mm y una longitud superior a 10 km, así como, tuberías para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico, incluidas las estaciones de bombeo asociadas.
+	- **Líneas eléctricas** con una longitud superior a 3 km, excluidas las que atraviesen zonas urbanizadas.
+	- **Parques eólicos**
+	- **Construcción de aeródromos**, según la definición establecida en la [Ley 48/1960, de 21 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1960-10905 "Abre nueva ventana"), sobre Navegación Aérea, excepto los aeródromos destinados exclusivamente a uso sanitario y de emergencias o a la prevención y extinción de incendios.
+	- **Urbanización del suelo para polígonos industriales o usos residenciales** que ocupen más de 5 ha; Construcción de centros comerciales y aparcamientos, fuera de suelo urbanizable y que en superficie ocupen más de 1 ha; Instalaciones hoteleras en suelo no urbanizable.
+	- **Pistas de esquí, remontes y teleféricos y construcciones asociadas**.
+	- **Parques temáticos**.
 	- Instalaciones de conducción de agua a larga distancia con un diámetro de más de 800 mm y una longitud superior a 10 km.
 	- Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento está regulado por la [Ley 22/1973, de 21 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1973-1018 "Abre nueva ventana"), de Minas, y normativa complementaria.
 	- Construcción de carreteras convencionales de nuevo trazado.
@@ -760,69 +796,69 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 	
 	- Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 100 ha.
 	
-	c) Emplazamientos de almacenamiento de conformidad con la [Ley 40/2010, de 29 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20049 "Abre nueva ventana"), de almacenamiento geológico de dióxido de carbono.
+	- **Emplazamientos de almacenamiento geológico de dióxido de carbono** ([Ley 40/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20049 "Abre nueva ventana")).
 	
-	d) Instalaciones para la captura de flujos de dióxido de carbono con fines de almacenamiento geológico de conformidad con la [Ley 40/2010, de 29 de diciembre](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20049 "Abre nueva ventana"), de almacenamiento geológico de dióxido de carbono, procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de dióxido de carbono sea igual o superior a 1,5 Mt.
+	- **Captura de flujos de dióxido de carbono con fines de almacenamiento geológico** ([Ley 40/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20049 "Abre nueva ventana")): procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de dióxido de carbono sea igual o superior a 1,5 Mt.
 
 
 #### ANEXO II. Proyectos sometidos a la evaluación ambiental simplificada regulada en el título II, capítulo II, sección 2.ª
 
 - Grupo 1. **Agricultura, silvicultura, acuicultura y ganadería**.
-	- Proyectos de concentración parcelaria.
-	- Repoblación forestal con especies alóctonas, que caracterizan la vegetación preexistente, separándose de la dinámica vegetal natural o cambiando el tipo de funcionalidad o uso del suelo, siempre que tengan 25 o más hectáreas, así como por debajo de esta superficie cuando cumplan los criterios generales 1 o 2, o utilicen especies alóctonas a escala local y su empleo no haya sido previamente autorizado en Planes de Ordenación de Recursos Forestales sometidos a evaluación ambiental estratégica.
+
+	- **Concentración parcelaria**.
+	- **Repoblación forestal con especies alóctonas**, que caracterizan la vegetación preexistente, separándose de la dinámica vegetal natural o cambiando el tipo de funcionalidad o uso del suelo, siempre que tengan 25 o más hectáreas, así como por debajo de esta superficie cuando cumplan los criterios generales 1 o 2, o utilicen especies alóctonas a escala local y su empleo no haya sido previamente autorizado en Planes de Ordenación de Recursos Forestales sometidos a evaluación ambiental estratégica.
 	
 		Tala o destrucción masiva de vegetación forestal para cambiar el tipo de funcionalidad o uso del suelo de 10 o más hectáreas, así como las comprendidas entre 1 y 10 h, que cumplan los criterios generales 1 o 2, o que supongan la eliminación de arbolado en más de 1 ha, se desarrollen en zonas con niveles erosión hídrica >10 t/ha*año (Inventario Nacional de Erosión de Suelos, INES) o se realicen en zonas en que la vegetación natural o seminatural ocupe menos del 5 % de la superficie (círculo de 1 km de radio).
 	
-	- Proyectos de transformación, ampliación o consolidación de regadíos de 10 o más hectáreas; así como los comprendidos entre 1 ha y 10 ha que cumplan alguno de los criterios generales, o que ocupen cauces o humedales permanentes o estacionales representados en el mapa Instituto Geográfico Nacional (IGN) a escala 1:25.000, o se desarrollen en zonas con niveles de erosión hídrica >10 t/ha*año (Inventario Nacional de Erosión de Suelos, INES).
+	- **Transformación, ampliación o consolidación de regadíos** de 10 o más hectáreas; así como los comprendidos entre 1 ha y 10 ha que cumplan alguno de los criterios generales, o que ocupen cauces o humedales permanentes o estacionales representados en el mapa Instituto Geográfico Nacional (IGN) a escala 1:25.000, o se desarrollen en zonas con niveles de erosión hídrica >10 t/ha*año (Inventario Nacional de Erosión de Suelos, INES).
 	
 		Proyectos de mejora o modernización de regadíos comprendidos entre 10 y 100 ha que cumplan alguno de los criterios generales, o que ocupen cauces o humedales permanentes o estacionales representados en el mapa IGN a escala 1:25.000, o se desarrollen en zonas con niveles de erosión hídrica >10 t/ha*año (INES), o no dispongan de barreras al paso de la fauna acuática en la toma o a la caída de la fauna terrestre a la red de canales.
 		
 		Avenamiento o drenaje de terrenos de 1 o más hectáreas; así como los inferiores a esta superficie que se encuentren en alguna de las siguientes circunstancias: criterios generales 1 o 2, o afecten a terrenos ocupados por vegetación natural, afecten a cauces o humedales permanentes o estacionales representados en el mapa IGN a escala 1:25.000 o contemplen drenajes a menos de 100 m de cauces o humedales.
 	
-	- Proyectos para destinar áreas incultas o con vegetación natural o seminatural a la explotación agrícola de 10 o más hectáreas, así como las comprendidas entre 1 y 10 hectáreas que cumplan los criterios generales 1 o 2, o que supongan la eliminación de arbolado en más de 1 ha, o que ocupen cauces o humedales permanentes o estacionales representados en el mapa IGN a escala 1:25.000, o se desarrollen en zonas con niveles de erosión hídrica >10 t/ha*año (INES), o se realicen en zonas en que la vegetación natural o seminatural ocupe menos del 5% de la superficie (círculo de 1 km de radio).
+	- **Destinar áreas incultas o con vegetación natural o seminatural a la explotación agrícola** de 10 o más hectáreas, así como las comprendidas entre 1 y 10 hectáreas que cumplan los criterios generales 1 o 2, o que supongan la eliminación de arbolado en más de 1 ha, o que ocupen cauces o humedales permanentes o estacionales representados en el mapa IGN a escala 1:25.000, o se desarrollen en zonas con niveles de erosión hídrica >10 t/ha*año (INES), o se realicen en zonas en que la vegetación natural o seminatural ocupe menos del 5% de la superficie (círculo de 1 km de radio).
 	
-	- Instalaciones para la acuicultura intensiva que tenga una capacidad de producción superior a 500 t/año.
+	- **Acuicultura intensiva** que tenga una capacidad de producción superior a 500 t/año.
 	
-	- Instalaciones destinadas a la cría de animales en explotaciones ganaderas reguladas por el [Real Decreto 348/2000, de 10 de marzo](https://www.boe.es/buscar/act.php?id=BOE-A-2000-4698 "Abre nueva ventana"), por el que se incorpora al ordenamiento jurídico la [Directiva 95/58/CE](https://www.boe.es/buscar/doc.php?id=DOUE-L-1995-81809 "Abre nueva ventana"), relativa a la protección de animales en las explotaciones ganaderas, que superen las siguientes capacidades:
+	- **Cría de animales en explotaciones ganaderas** ([Real Decreto 348/2000](https://www.boe.es/buscar/act.php?id=BOE-A-2000-4698 "Abre nueva ventana"), que superen las siguientes capacidades:
 	
-		1.º 2.000 plazas para ganado ovino y caprino.
-		2.º 300 plazas para vacuno de leche.
-		3.º 600 plazas para vacuno de cebo.
-		4.º 20.000 plazas para conejos.
+		- **Ovino y caprino**: 2.000 plazas
+		- **Vacuno de leche**: 300 plazas
+		- **Vacuno de cebo**: 600 plazas
+		- **Conejos**: 20.000 plazas
 	
-	- Grupo 2. **Industrias de productos alimenticios**.
-		- Elaboración de grasas y aceites vegetales y animales.
-		- Envasado y enlatado de productos animales y vegetales.
-		- Fabricación de productos lácteos
-		- Fabricación de cerveza y malta.
-		- Elaboración de confituras y almíbares.
-		- Sacrificio, despiece o descuartizamiento de animales.
-		- Fabricación de féculas.
-		- Fabricación de harina de pescado y aceite de pescado.
-		- Fábricas de azúcar.
+	- Grupo 2. **Industrias de productos alimenticios**
+		- Grasas y aceites vegetales y animales
+		- Productos animales y vegetales (envasado y enlatado)
+		- Productos lácteos
+		- Cerveza y malta
+		- Confituras y almíbares
+		- Sacrificio, despiece o descuartizamiento de animales
+		- Féculas
+		- Harina de pescado y aceite de pescado
+		- Azúcar.
 
 - Grupo 3. **Perforaciones, dragados y otras instalaciones mineras e industriales**.
-
 	- **Perforaciones profundas**, con excepción de las perforaciones para investigar la estabilidad o la estratigrafía de los suelos y el subsuelo, en particular:
 	
-		- Geotérmicas (excepto las de muy baja entalpía cuando no afecten a masas de agua)
-		- Almacenamiento de residuos radiactivos
-		- Abastecimiento de aguas
-		- Petrolíferas o gasísticas de exploración o investigación.
+		- **Geotérmicas** (excepto las de muy baja entalpía cuando no afecten a masas de agua)
+		- **Almacenamiento de residuos radiactivos**
+		- **Abastecimiento de aguas**
+		- **Petrolíferas o gasísticas** de exploración o investigación.
 	
-	- Instalaciones en el exterior y en el interior para la gasificación del carbón y pizarras bituminosas no incluidas en el anexo I.
+	- **Gasificación del carbón y pizarras bituminosas** (no incluidas en el anexo I).
 	
-	- Exploración mediante sísmica marina excepto proyectos de investigación con fines científicos.
+	- **Exploración mediante sísmica marina** (excepto proyectos de investigación con fines científicos).
 	
-	- Extracción de materiales mediante dragados en dominio público marítimo-terrestre (incluyendo el dominio público portuario)
+	- **Dragados en dominio público marítimo-terrestre** (incluyendo el dominio público portuario)
 	
 		*Quedan excluidos los dragados cuyo objeto sea mantener las condiciones hidrodinámicas o de navegabilidad y que a su vez estén sujetos a informe de compatibilidad con la estrategia marina conforme al [Real Decreto 79/2019, de 22 de febrero](https://www.boe.es/buscar/act.php?id=BOE-A-2019-2557 "Abre nueva ventana"), por el que se regula el informe de compatibilidad y se establecen los criterios de compatibilidad con las estrategias marinas; así como aquellos dragados de mantenimiento o primer establecimiento que se ejecuten dentro de las zonas de aguas de los puertos y que, no incurriendo en ninguno de los supuestos del artículo 7.2.c) de esta ley, dadas sus características y de las masas de agua donde se desarrollan, no puedan provocar el deterioro del estado potencial ecológico de las mismas.*
 	
-	- Instalaciones para la captura de flujos de dióxido de carbono con fines de almacenamiento geológico ([Ley 40/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20049 "Abre nueva ventana"))
+	- **Captura de flujos de dióxido de carbono con fines de almacenamiento geológico** ([Ley 40/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20049 "Abre nueva ventana"))
 	
 	- Explotaciones a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D ([Ley 22/1973](https://www.boe.es/buscar/act.php?id=BOE-A-1973-1018 "Abre nueva ventana")). Se incluyen las instalaciones (incluidas las de residuos mineros) necesarias para la extracción, tratamiento, almacenamiento, aprovechamiento y transporte del mineral, así como para la gestión de residuos mineros y restauración del espacio afectado por la actividad minera (proyectos no incluidos en el anexo I).
 	
-	- Instalaciones industriales en el exterior para la extracción de carbón, petróleo, gas natural, minerales y pizarras bituminosas (proyectos no incluidos en el anexo I).
+	- **Extracción de carbón, petróleo, gas natural, minerales y pizarras bituminosas industriales en el exterior** (no incluidos en el anexo I).
 	
 	- Explotaciones subterráneas de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D reguladas por la [Ley 22/1973, de 21 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-1973-1018 "Abre nueva ventana"), de Minas. Se incluyen las superficies, estructuras e instalaciones (incluidas las de residuos mineros) necesarias para la extracción, tratamiento, almacenamiento, aprovechamiento y transporte del mineral, así como para la gestión de los residuos mineros y restauración del espacio afectado por la actividad minera (proyectos no incluidos en el anexo I).
 	
@@ -830,19 +866,19 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 
 - Grupo 4. **Industria energética**.
 
-	- Producción de electricidad, vapor y agua caliente
-	- Construcción de líneas eléctricas: con un voltaje igual o superior a 15 kV, que tengan una longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo de los anteriores umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan las medidas preventivas establecidas en el [Real Decreto 1432/2008, de 29 de agosto](https://www.boe.es/buscar/act.php?id=BOE-A-2008-14914 "Abre nueva ventana"), por el que se establecen medidas para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente en subterráneo por suelo urbanizado.
+	- **Electricidad, vapor y agua caliente**
+	- **Líneas eléctricas**: con un voltaje igual o superior a 15 kV, que tengan una longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo de los anteriores umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan las medidas preventivas establecidas en el [Real Decreto 1432/2008, de 29 de agosto](https://www.boe.es/buscar/act.php?id=BOE-A-2008-14914 "Abre nueva ventana"), por el que se establecen medidas para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente en subterráneo por suelo urbanizado.
 	- Repotenciación de líneas de transmisión de energía eléctrica existentes cuando cumplan los criterios generales 1 o 2.
-	- Fabricación industrial de briquetas de hulla y de lignito.
-	- Instalaciones para generación de energía hidroeléctrica.
+	- **Briquetas de hulla y de lignito**.
+	- **Energía hidroeléctrica**.
 	
 		*Se exceptúan las turbinas que se instalen en el interior de tuberías o canales preexistentes que no supongan ocupación adicional de terrenos ni alteraciones del caudal o profundidad en las masas de agua con que dichas conducciones o canales estén conectadas.*
 	
-	- Instalaciones industriales para el transporte de vapor y agua caliente, de oleoductos y gasoductos, y tuberías para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico
-	- Instalaciones para el reprocesado y almacenamiento de residuos radiactivos
-	- Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos)
-	- Instalaciones para la producción de energía en medio marino y en aguas de transición.
-	- Instalaciones para la producción de energía eléctrica a partir de la energía solar, ni instaladas sobre cubiertas o tejados de edificios, así como, las que ocupen una superficie inferior a 5 ha salvo que cumplan los criterios generales 1 o 2.
+	- Transporte de vapor y agua caliente, de oleoductos y gasoductos, y tuberías para el transporte de flujos de dióxido de carbono con fines de almacenamiento geológico
+	- **Reprocesado y almacenamiento de residuos radiactivos**
+	- **Parques eólicos**
+	- **Medio marino y aguas de transición**
+	- **Plantas solares**: no instaladas sobre cubiertas o tejados de edificios, así como, las que ocupen una superficie inferior a 5 ha salvo que cumplan los criterios generales 1 o 2.
 	- Almacenamiento para uso industrial de gas natural sobre el terreno.
 	- Almacenamiento subterráneo para uso industrial de gases combustibles.
 	- Almacenamiento sobre el terreno para uso industrial de combustibles fósiles.
@@ -852,64 +888,64 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 
 - Grupo 5. **Industria siderúrgica y del mineral**. Producción y elaboración de equipos de transporte y metales
 
-	- Hornos de coque (destilación seca del carbón)
-	- Instalaciones para la fabricación de fibras minerales artificiales
-	- Astilleros
-	- Instalaciones para la construcción y reparación de aeronaves
-	- Fabricación de material ferroviario
+	- **Hornos de coque** (destilación seca del carbón)
+	- **Fabricación de fibras minerales artificiales**
+	- **Astilleros**
+	- **Construcción y reparación de aeronaves**
+	- **Material ferroviario**
 	- Fabricación y montaje de vehículos de motor y fabricación de motores para vehículos
-	- Embutido de fondo mediante explosivos
+	- **Embutido de fondo mediante explosivos**
 	- Instalaciones para la producción de lingotes de hierro o de acero (fusión primaria o secundaria), incluidas las instalaciones de fundición continua
-	- Instalaciones para la elaboración de metales ferrosos, no incluidas en el anexo I, mediante:
+	- **Elaboración de metales ferrosos** (no incluidas en el Aexo I), mediante:
 		- Laminado en caliente.
 		- Forjado con martillos
 		- Aplicación de capas protectoras de metal fundido.
 	
-	- Fundiciones de metales ferrosos
-	- Fundición (incluida la aleación) de metales no ferrosos, con excepción de metales preciosos, incluidos los productos de recuperación (refinado, restos de fundición, etc.)
-	- Tratamiento de la superficie de metales y materiales plásticos por proceso electrolítico o químico
-	- Calcinación y de sinterizado de minerales metálicos
-	- Fabricación de cemento
-	- Producción de amianto y para la fabricación de productos a base de amianto
-	- Fabricación de vidrio, incluida la fibra de vidrio
-	- Fundición de sustancias minerales, incluida la producción de fibras minerales
-	- Fabricación de productos cerámicos mediante horneado (tejas, ladrillos, ladrillos refractarios, azulejos, gres, porcelana...)
+	- **Fundiciones de metales ferrosos**
+	- **Fundición de metales no ferrosos** (incluida la aleación) (con excepción de metales preciosos, incluidos los productos de recuperación (refinado, restos de fundición, etc.)
+	- **Tratamiento de la superficie de metales y materiales plásticos** por proceso electrolítico o químico
+	- **Calcinación y de sinterizado de minerales metálicos**
+	- **Cemento**
+	- **Amianto** y para la fabricación de productos a base de amianto
+	- **Vidrio** (incluida la fibra de vidrio)
+	- **Fundición de sustancias minerales**, incluida la producción de fibras minerales
+	- **Productos cerámicos mediante horneado** (tejas, ladrillos, ladrillos refractarios, azulejos, gres, porcelana...)
 
 - Grupo 6. **Industria química, petroquímica, textil y papelera** (no incluidas en el Anexo I)
 	- Tratamiento de productos intermedios y producción de productos químicos
-	- Producción de pesticidas y productos farmacéuticos, pinturas y barnices, elastómeros y peróxidos
+	- **Pesticidas y productos farmacéuticos, pinturas y barnices, elastómeros y peróxidos**
 	- Almacenamiento de productos petrolíferos, petroquímicos y químicos
 	- Fabricación y tratamiento de productos a base de elastómeros
-	- Producción de papel y cartón
+	- **Papel y cartón**
 	- Tratamiento previo (operaciones tales como el lavado, blanqueo, mercerización) o para el teñido de fibras o productos textiles
-	- Curtido de pieles y cueros
-	- Producción y tratamiento de celulosa
-	- Producción de hidrógeno electrolítico, fotoelectrolítico o fotocatalítico a partir de fuentes renovables.
+	- **Curtido de pieles y cueros**
+	- **Celulosa** (producción y tratamiento)
+	- **Hidrógeno electrolítico, fotoelectrolítico o fotocatalítico**: a partir de fuentes renovables.
 
 - Grupo 7. **Proyectos de infraestructuras**.
 	- **Zonas industriales**
 	- **Urbanizaciones** (incluida la construcción de centros comerciales y aparcamientos)
+
 	- **Ferroviarios**:
-	
-		1.º Construcción de líneas ferroviarias (proyectos no incluidos en el anexo I) y de estaciones de trasbordo intermodal de viajeros y de terminales intermodales de mercancías.
+		- **Construcción de líneas** (proyectos no incluidos en el anexo I) y de estaciones de trasbordo intermodal de viajeros y de terminales intermodales de mercancías.
 		
-		2.º Modificación de trazado de planta de líneas ferroviarias que excedan de la zona de protección ferroviaria.
+		- **Modificación de trazado de planta** de líneas ferroviarias que excedan de la zona de protección ferroviaria.
 		
-		3.º Soterramiento de tramos de líneas ferroviarias.
+		- **Soterramiento** de tramos de líneas ferroviarias.
 		
-		4.º Electrificación de líneas ferroviarias no electrificadas e implantación de cerramiento en línea de ferrocarril.
+		- **Electrificación** de líneas ferroviarias no electrificadas e implantación de cerramiento en línea de ferrocarril.
 		
-		5.º Ampliación del número de vías de una línea de ferrocarril existente o instalación de tercer hilo o carril (proyectos no incluidos en el anexo I), cuando se desarrolle en zonas de protección acústica especial.
+		- **Ampliación** del número de vías de una línea de ferrocarril existente o instalación de tercer hilo o carril (proyectos no incluidos en el anexo I), cuando se desarrolle en zonas de protección acústica especial.
 	
 	- **Aeródromos** ([Ley 48/1960](https://www.boe.es/buscar/act.php?id=BOE-A-1960-10905 "Abre nueva ventana")), así como cualquier modificación en la operación de los aeródromos que figuran en el anexo I o anexo II, que puedan tener efectos significativos para el medio ambiente. Quedan exceptuados los aeródromos destinados, exclusivamente, a uso sanitario y de emergencias o a la prevención y extinción de incendios, salvo que cumplan los criterios generales 1 o 2.
 	
-	- Obras de alimentación artificial de playas cuyo volumen de aportación de arena supere los 500.000 metros cúbicos y aquellas de volumen inferior situadas a menos de 500 m de zonas con presencia de comunidades de fanerógamas marinas o que cumplan alguno de los criterios generales 1, 2 o 4.a).
+	- **Alimentación artificial de playas** cuyo volumen de aportación de arena supere los 500.000 metros cúbicos y aquellas de volumen inferior situadas a menos de 500 m de zonas con presencia de comunidades de fanerógamas marinas o que cumplan alguno de los criterios generales 1, 2 o 4.a).
 	
 	- Tranvías, metros aéreos y subterráneos, líneas suspendidas o líneas similares de un determinado tipo, que sirvan exclusiva o principalmente para el transporte de pasajeros.
 	
 	- **Construcción de vías navegables tierra adentro** (no incluidas en el anexo I).
 	
-	 - Obras costeras destinadas a combatir la erosión y obras marítimas que puedan alterar la costa, por ejemplo, por la construcción de diques, malecones, espigones y otras obras de defensa contra el mar. Quedan excluidos el mantenimiento y la reconstrucción de tales obras y las obras realizadas en la zona de servicio de los puertos, salvo que cumplan alguno de los criterios generales 1, 2 o 4.a).
+	 - **Obras costeras** destinadas a combatir la erosión y obras marítimas que puedan alterar la costa, por ejemplo, por la construcción de diques, malecones, espigones y otras obras de defensa contra el mar. Quedan excluidos el mantenimiento y la reconstrucción de tales obras y las obras realizadas en la zona de servicio de los puertos, salvo que cumplan alguno de los criterios generales 1, 2 o 4.a).
 	
 	- **Ampliación de carreteras convencionales existentes**, que impliquen su transformación en autopistas, autovías o carreteras multicarril, no incluidas en el anexo I y construcción de carreteras convencionales de nuevo trazado, no incluidas en el anexo I.
 	
@@ -919,36 +955,36 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 
 	- **Proyectos de recarga artificial de acuíferos**
 	
-		Proyectos de extracción de aguas subterráneas de más de un 1 % del recurso disponible del acuífero correspondiente.
+	- **Extracción de aguas subterráneas** de más de un 1 % del recurso disponible del acuífero correspondiente.
 		
 		*Las definiciones del apartado anterior deben entenderse en el contexto establecido por el [Reglamento de la Planificación Hidrológica, aprobado por Real Decreto 907/2007, de 6 de julio](https://www.boe.es/buscar/act.php?id=BOE-A-2007-13182 "Abre nueva ventana"), por la [instrucción de planificación hidrológica, aprobada por Orden ARM/2656/2008, de 10 de septiembre](https://www.boe.es/buscar/act.php?id=BOE-A-2008-15340 "Abre nueva ventana"), y modificado por el [Real Decreto 1159/2021](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664 "Abre nueva ventana"), 28 de diciembre, y por el Plan Hidrológico de la demarcación correspondiente vigente, normas de transposición nacional de la [Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000](https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-82524 "Abre nueva ventana"), por la que se establece un marco comunitario en el ámbito de la política de aguas.*
 		
-	- Proyectos de obras para el trasvase de recursos hídricos entre cuencas fluviales
+	- **Trasvases entre cuencas fluviales**
 	
-	- Obras de encauzamiento, proyectos de defensa de cauces y márgenes, y dragados fluviales no incluidos en el anexo I, cuando la modificación de las características físicas de la masa de agua pueda provocar el deterioro del estado o potencial ecológico de la misma o de otras aguas abajo, o cuando cumplan los criterios generales 1 o 2.
+	- Encauzamiento, proyectos de defensa de cauces y márgenes, y dragados fluviales no incluidos en el anexo I, cuando la modificación de las características físicas de la masa de agua pueda provocar el deterioro del estado o potencial ecológico de la misma o de otras aguas abajo, o cuando cumplan los criterios generales 1 o 2.
 	
-	- Plantas de tratamiento de aguas residuales cuya capacidad esté comprendida entre los 10.000 y los 150.000 habitantes-equivalentes, así como las de menor capacidad cuando cumplan alguno de los criterios generales 1, 2 o 4.a) y c).
+	- **Tratamiento de aguas residuales** cuya capacidad esté comprendida entre los 10.000 y los 150.000 habitantes-equivalentes, así como las de menor capacidad cuando cumplan alguno de los criterios generales 1, 2 o 4.a) y c).
 	
-	- Instalaciones de desalación o desalobración de agua con un volumen nuevo o adicional superior a 3.000 metros cúbicos al día.
+	- **Desalación o desalobración de agua** con un volumen nuevo o adicional superior a 3.000 metros cúbicos al día.
 	
-	- Instalaciones de conducción de agua a larga distancia no incluidas en el anexo I, situadas en suelo no urbano y que tengan una longitud superior a 10 km, así como aquellas por debajo de este umbral cuando cumplan los criterios generales 1 o 2.
+	- **Conducción de agua a larga distancia** no incluidas en el anexo I, situadas en suelo no urbano y que tengan una longitud superior a 10 km, así como aquellas por debajo de este umbral cuando cumplan los criterios generales 1 o 2.
 	
-	- Presas y azudes incluidos sus recrecimientos y vaciados o dragados de los embalses, excepto actuaciones de mantenimiento que no se desarrollen en espacios protegidos, y que puedan modificar el régimen ordinario de caudales.
+	- **Presas y azudes** incluidos sus recrecimientos y vaciados o dragados de los embalses, excepto actuaciones de mantenimiento que no se desarrollen en espacios protegidos, y que puedan modificar el régimen ordinario de caudales.
 	
 	Balsas y otras instalaciones destinadas a retener o a almacenar agua con capacidad igual o superior a 200.000 metros cúbicos, así como las comprendidas entre 200.000 y 5.000 metros cúbicos, que cumplan alguno de los criterios generales 1, 2 o 3. Demolición o puesta fuera de servicio de las presas del apartado 1.º (grandes presas) y presas destinadas a retener el agua o almacenarla, permanente, cuando el volumen de agua almacenada sea superior a 10 hectómetros cúbicos o que supongan una inundación de más de 100 ha.
 
 - Grupo 9. **Otros proyectos**.
 	- Pistas permanentes de carreras y de pruebas para vehículos motorizados.
-	- Instalaciones de eliminación o valorización de residuos, excepto la eliminación o valorización de residuos propios no peligrosos en el lugar de producción.
-	- Lugares para depositar lodos
-	- Almacenamiento de chatarra, incluidos vehículos desechados.
+	- **Eliminación o valorización de residuos**, excepto la eliminación o valorización de residuos propios no peligrosos en el lugar de producción.
+	- **Lugares para depositar lodos**
+	- **Almacenamiento de chatarra**, incluidos vehículos desechados.
 	- Instalaciones o bancos de prueba de motores, turbinas o reactores.
 	- Instalaciones para la recuperación o destrucción de sustancias explosivas.
 	- Pistas de esquí, remontes, teleféricos y construcciones asociadas
-	- Campamentos permanentes para tiendas de campaña o caravanas.
-	- Parques temáticos
-	- Proyectos para recuperación de tierras al mar quedando excluidas las obras en la zona de servicio de los puertos, salvo que cumplan alguno de los criterios 1, 2 o 4.a).
-	- Urbanizaciones turísticas y complejos hoteleros fuera de las zonas urbanas, y construcciones asociadas.
+	- **Campamentos permanentes** para tiendas de campaña o caravanas.
+	- **Parques temáticos**
+	- **Proyectos para recuperación de tierras al mar** quedando excluidas las obras en la zona de servicio de los puertos, salvo que cumplan alguno de los criterios 1, 2 o 4.a).
+	- **Urbanizaciones turísticas y complejos hoteleros** fuera de las zonas urbanas, y construcciones asociadas.
 	- Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 50 ha o igual o superior a 10 ha si cumple los criterios generales 1 o 2.
 
 
@@ -986,14 +1022,14 @@ El estudio de impacto ambiental debe contener al menos las siguientes:
 	
 	3. **Características del potencial impacto**: los potenciales efectos significativos de los proyectos en el medio ambiente, deben considerarse en relación con los criterios establecidos en los apartados 1 y 2, y teniendo presente el impacto del proyecto sobre los factores señalados en el artículo 45, apartado 1.e), teniendo en cuenta:
 	
-		- Magnitud y alcance espacial (área geográfica y tamaño de la población que pueda verse afectada).
-		- Naturaleza
-		- Carácter transfronterizo
-		- Intensidad y complejidad
-		- Probabilidad
-		- Inicio previsto, duración, frecuencia y reversibilidad
-		- Acumulación: con otros proyectos existentes y/o aprobados
-		- Posibilidad de reducción
+		- **Magnitud y alcance espacial** (área geográfica y tamaño de la población que pueda verse afectada).
+		- **Naturaleza**
+		- **Carácter transfronterizo**
+		- **Intensidad y complejidad**
+		- **Probabilidad**
+		- **Inicio previsto, duración, frecuencia y reversibilidad**
+		- **Acumulación**: con otros proyectos existentes y/o aprobados
+		- **Posibilidad de reducción**
 
 - Apartado B: Criterios generales para sometimiento a evaluación ambiental simplificada de proyectos situados por debajo de los umbrales establecidos en el anexo II:
 
@@ -1103,7 +1139,7 @@ El estudio de impacto ambiental (artículo 35) deberá incluir la siguiente info
 	
 	d) Valoración. Se indicarán los impactos ambientales compatibles, moderados, severos y críticos que se prevean, como consecuencia de la ejecución del proyecto. Se jerarquizarán los impactos ambientales, identificados y valorados, para conocer su importancia relativa.
 
-5. Establecimiento de medidas preventivas, correctoras y compensatorias para reducir, eliminar o compensar los efectos ambientales significativos.
+5. **Medidas preventivas, correctoras y compensatorias** para reducir, eliminar o compensar los efectos ambientales significativos.
 
 	Se describirán las medidas previstas para prevenir, corregir y, en su caso, compensar, los efectos adversos significativos de las distintas alternativas del proyecto sobre el medio ambiente, tanto en lo referente a su diseño y ubicación, como en cuanto a la explotación, desmantelamiento o demolición. En particular, se definirán las medidas necesarias para paliar los efectos adversos sobre el estado o potencial de las masas de agua afectadas.
 	

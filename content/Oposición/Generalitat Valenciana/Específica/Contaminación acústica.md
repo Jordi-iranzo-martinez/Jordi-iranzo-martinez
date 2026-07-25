@@ -61,9 +61,7 @@ En la Comunidad Valenciana se ha establecido la [Ley 7/2022](https://dogv.gva.es
 | *Régimen jurídico*                               | *- Inspección y control<br>- Infracciones y sanciones*                                                                                                                                                                                                                                                                                 |
 | *Anexos*                                         | *- I. Definiciones*<br>**- II. Niveles sonoros**<br>**- III. Niveles de vibraciones**                                                                                                                                                                                                                                                  |
 
-
 #### Disposiciones generales
-
 
 El objeto es prevenir, vigilar y corregir la contaminación acústica en el ámbito de la Comunitat Valenciana (para proteger la salud de sus ciudadanos y mejorar la calidad de su medio ambiente).
 
@@ -132,7 +130,7 @@ Las mediciones se realizarán por los siguientes instrumentos (según procedimie
 | Vibraciones                    | - Acelerómetros<br>- Analizadores de frecuencia                                   |
 
 
-## CAPÍTULO II. Niveles de perturbación
+#### Niveles de perturbación
 
 Ninguna fuente sonora podrá emitir o transmitir niveles de ruido y vibraciones superiores a los límites establecidos en el presente título.
 
@@ -220,10 +218,15 @@ ZONAS ACUSTICAMENTE SATURADAS
 El procedimiento es el siguiente: 
 
 1. **Proposición**: por el Ayuntamiento (de oficio o a solicitud de persona interesada)
+
 2. **Información pública**: período de 30 días, por anuncios en el Diari Oficial de la Generalitat Valenciana y en uno de los diarios de información general de mayor difusión en la provincia.
+
 3. **Informe vinculante**: de la Conselleria de medio ambiente, en el plazo de un mes (su ausencia interrumpirá el procedimiento).
+
 4. **Aprobación**: por el pleno del Ayuntamiento (ámbito municipal) o la persona titular de la Conselleria (ámbito supramunicipal) (a propuesta de los Ayuntamientos afectados).
+
 5. **Publicación**: en el Diari Oficial de la Generalitat Valenciana
+
 6. **Entrada en vigor**: el día siguiente al de su publicación (salvo que en él se disponga lo contrario)
 
 La administración declarante podrá adoptar medidas: suspensión de licencias de actividad, horarios restringidos para las actividades responsables (directa o indirectamente), limitaciones a los vehículos (circulación, velocidad, horarios...), y otras que se consideren adecuadas.
@@ -231,8 +234,7 @@ La administración declarante podrá adoptar medidas: suspensión de licencias d
 Las medidas adoptadas se mantendrán en vigor en tanto no quede acreditada la recuperación de los niveles superados mediante informe técnico, se resuelva el cese de la declaración (por quien la hubiera aprobado), y se publique en el Diari Oficial de la Generalitat Valenciana. En la resolución de cese se incluirá un Programa de Actuaciones (contenido: artículo 23). La administración podrá, sin embargo, volver a declararla.
 
 
-
-#### Decreto 266/2004
+### Decreto 266/2004
 
 El [Decreto 266/2004](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2004/D_2004_266_ca_D_2006_104.pdf) establece los mecanismos de control del ruido de actividades, instalaciones, edificaciones, obras y servicios, y su evaluación (limitaciones, procedimiento)
 
@@ -255,14 +257,12 @@ Las condiciones acústicas de las actividades comerciales, industriales, y de se
 
 **Sección primera. Normas generales**
 
-**Artículo 16. Actividades colindantes con edificios de uso residencial**
-
 Los titulares de las actividades (artículo 35 de la Ley 7/2002) que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial están también obligados a que los elementos constructivos y de insonorización de los recintos en que se alojen actividades o instalaciones industriales, comerciales y de servicios, posean el aislamiento necesario para evitar que se superen los límites de transmisión al exterior o al interior de otras dependencias o locales, del ruido que se origine en su interior.
-
 
 Conforme a lo establecido en los artículos 8.2 y 35.3 de la Ley 7/2002, 
 
-El procedimiento de medición del aislamiento acústico (DnT,w) y las condiciones en que se podrá utilizar como parámetro de evaluación la diferencia de niveles (Dw) quedan establecidos en el anexo IV del presente decreto.
+
+El procedimiento de medición del aislamiento acústico (DnT,w) y las condiciones en que se podrá utilizar como parámetro de evaluación la diferencia de niveles (Dw) quedan establecidos en el Anexo IV .
 
 El estudio acústico (artículo 36 de la Ley 7/2002) deberá ser firmado por técnico competente y se presentará en capítulo aparte, en el estudio de impacto ambiental, al solicitar la correspondiente licencia administrativa, o en la solicitud de autorización ambiental integrada o del instrumento de intervención ambiental que corresponda, según el tipo de actividad de que se trate.
 
@@ -281,25 +281,23 @@ En los proyectos de actividades se considerarán las posibles molestias por ruid
 
 **Artículo 18. Auditorías acústicas**
 
-De acuerdo con lo establecido en el artículo 37 de la Ley 7/2002, 
-
-Será responsabilidad de los titulares de actividades susceptibles de generar ruidos y vibraciones llevar a cabo un control de las emisiones acústicas y de los niveles de recepción en el entorno, mediante la realización de auditorías acústicas, al inicio del ejercicio de la actividad o puesta en marcha y, al menos, cada cinco años o en un plazo inferior si así se estableciera en el procedimiento en que se evaluara el estudio acústico.
+Será responsabilidad de los titulares de actividades susceptibles de generar ruidos y vibraciones llevar a cabo un control de las emisiones acústicas y de los niveles de recepción en el entorno (artículo 37 de la Ley 7/2022), mediante la realización de auditorías acústicas, al inicio del ejercicio de la actividad o puesta en marcha y, al menos, cada cinco años o en un plazo inferior si así se estableciera en el procedimiento en que se evaluara el estudio acústico.
 
 La auditoría acústica deberá ser realizada por una entidad colaboradora en materia de calidad ambiental para el campo de la contaminación acústica (Decreto 229/2004). Finalizada la auditoría acústica, la entidad colaboradora remitirá informe de resultados al titular de la actividad y un certificado del estado general de la actividad respecto de las prescripciones obligatorias establecidas en la Ley 7/2002, en el presente decreto o en la autorización sustantiva.
 
 Según el caso de estudio se realizarán las siguientes operaciones:
 
-- Verificación de las condiciones de aislamiento de los elementos constructivos de actividades comerciales, industriales y de servicios que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial. Se deberá realizar en la primera auditoría y cuando se hayan llevado a cabo modificaciones que excedan de las obras de mera higiene, ornato o conservación en dichos elementos.
+- **Verificación de las condiciones de aislamiento** de los elementos constructivos de actividades comerciales, industriales y de servicios que se desarrollen en locales situados en edificios de uso residencial o colindantes con edificios de uso residencial. Se deberá realizar en la primera auditoría y cuando se hayan llevado a cabo modificaciones que excedan de las obras de mera higiene, ornato o conservación en dichos elementos.
 
 - En el caso de detectarse diferencias con lo establecido en el proyecto o lo supervisado en auditorías anteriores, se deberá comprobar el cumplimiento de las condiciones acústicas requeridas (Ley 7/2002 y en este decreto).
 
-- Identificar y caracterizar los principales focos de ruido.
+- **Principales focos de ruido**: identificación y caracterización
 
-- Comprobación del nivel sonoro en aquellos puntos donde se sitúen los receptores más cercanos. En el caso de instalaciones industriales se realizarán las medidas en el perímetro de su parcela.
+- **Comprobación del nivel sonoro** en aquellos puntos donde se sitúen los receptores más cercanos. En el caso de instalaciones industriales se realizarán las medidas en el perímetro de su parcela.
 
-- Medición de los niveles de fondo con la industria o actividad parada, en las mismas condiciones (periodo, proximidad horaria, día laborable y otras) en que se realizaron las medidas con la actividad en funcionamiento.
+- **Medición de los niveles de fondo** con la industria o actividad parada, en las mismas condiciones (periodo, proximidad horaria, día laborable y otras) en que se realizaron las medidas con la actividad en funcionamiento.
 
-- Medición en el interior de las instalaciones si existe un límite de nivel de emisión sonora.
+- **Medición en el interior de las instalaciones** si existe un límite de nivel de emisión sonora.
 
 - En su caso, el resultado y la efectividad de las medidas correctoras de la contaminación acústica adoptadas en la actividad o instalación.
 
@@ -308,7 +306,7 @@ Según el caso de estudio se realizarán las siguientes operaciones:
 Los titulares de actividades susceptibles de generar ruidos y vibraciones deberán disponer del libro de control (artículo 37.3 de la Ley 7/2002), constituido por los certificados de los resultados obtenidos de las auditorías acústicas. Éste, junto con los informes de resultados, deberán estar a disposición de las Administraciones competentes. REVISAR POQUITO para comprobar
 
 
-**Sección segunda. Normas adicionales para espectáculos, establecimientos públicos y actividades recreativas**
+**Normas adicionales para espectáculos, establecimientos públicos y actividades recreativas**
 
 En el proyecto presentado para obtener la licencia de actividad y funcionamiento de las actividades incluidas en esta sección, se deberá incluir el diseño del aislamiento acústico exigible a los elementos constructivos delimitadores del local (artículo 39 de la Ley 7/2002).
 
@@ -318,9 +316,4 @@ En aquellos locales en los que el nivel sonoro sea superior a 90 dB(A) deberá c
 
 Los niveles máximos de potencia sonora que los locales al aire libre puedan producir no deben transmitir en viviendas o locales contiguos o próximos niveles sonoros de recepción superiores a los establecidos (artículo 40 de la Ley 7/2002, sin perjuicio de la Ley 4/2003), en cuyo caso la administración competente podrá acordar la suspensión temporal de la licencia o autorización.
 
-
-A los efectos de lo previsto en el artículo 41 de la Ley 7/2002, y para evitar los efectos acumulativos, 
-
-La administración municipal, en zonas de uso dominante residencial o de uso sanitario y docente, y en cuanto a la implantación de actividades destinadas a discotecas, salas de fiesta, pubs, bares, restaurantes y similares que cuenten con ambientación musical, así como aquellas otras productoras de ruidos y vibraciones, fijará, mediante ordenanzas o planes acústicos municipales, las distancias mínimas que se deberán respetar.
-
-
+La administración municipal, en zonas de uso dominante residencial o de uso sanitario y docente, y en cuanto a la implantación de actividades destinadas a discotecas, salas de fiesta, pubs, bares, restaurantes y similares que cuenten con ambientación musical, así como aquellas otras productoras de ruidos y vibraciones, fijará, mediante ordenanzas o planes acústicos municipales, las distancias mínimas que se deberán respetar (artículo 41 de la Ley 7/2022, para evitar efectos acumulativos).

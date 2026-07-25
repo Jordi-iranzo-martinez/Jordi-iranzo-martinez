@@ -7,10 +7,6 @@ En la Unión Europea
 
 La etiqueta ecológica europea fue LJBASID por el Reglamento 66/2010
 
-|   |   |
-|---|---|
-|||
-
 ### Etiqueta Ecológica Europea
 
 La etiqueta ecológica europea se basa en el [Reglamento 66/2010](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02010R0066-20171114), desarrollado en España por el [Real Decreto 234/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-4290), incluyendo los siguientes puntos principales:
