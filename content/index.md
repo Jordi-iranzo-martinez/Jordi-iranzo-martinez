@@ -5,7 +5,7 @@ description: Técnico ambiental ofrece ayuda en temas medioambientales, preparac
      
 Hola:
 
-Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y biodiversidad, calidad ambiental, cambio climático, y derecho administrativo ([Ver las certificacciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)). Con experiencia en el sector público.
+Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y biodiversidad, calidad ambiental, cambio climático, y derecho administrativo ([ver certificacciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0)). Con experiencia en el sector público.
 
 <div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
 
