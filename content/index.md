@@ -11,11 +11,17 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 <p>Ofrezco lo siguiente:</p>
 <ul style="clear: none; float: none; margin-top: 0;">
+     
 <li><strong>Consultoría técnico-jurídica</strong>: estudios ambientales, de impacto ambiental, gestión de residuos, asesoramiento...</li>
+     
 <li><strong>Gestoría</strong>: trámites administrativos de representación, asesoramiento...</li>
+
 <li><strong>Oposiciones</strong>: dudas y preguntas, hablar... (este servicio es gratuito)</li>
+
 <li><strong>Servicio 'Memlex'</strong>: ofece tarjetas de memoria de la literalidad de la norma en RemNote en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...).</li>
+
 <li><strong>Educación y divulgación</strong>: artículos</li>
+
 <li><strong>Otros</strong>: colaboraciones y propuestas</li>
 </ul>
 
