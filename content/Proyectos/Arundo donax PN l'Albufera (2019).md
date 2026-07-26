@@ -21,7 +21,7 @@ También, produce una drástica modificación del hábitat ripario y del flujo h
 
 Por todo ello, la caña común está considerada como una de las 100 de las especies exóticas invasoras más dañinas del mundo por la Unión Internacional para la Conservación de la Naturaleza (UICN), incluida en el Atlas de Plantas Alóctonas Invasoras de España y se han redactado manuales de gestión, entre los que destaca Bases para el Manejo y Control de *Arundo donax* (L.).
 
-**El Parque Natural de l’Albufera**
+#### El Parque Natural de l’Albufera
 
 El Parque Natural de l’Albufera, localizado en el litoral oriental de la península ibérica, está considerado una zona húmeda (Inventario Español de Zonas Húmedas (IEZH)), de aproximadamente 2100 hectáreas, de las cuales 1700 hectáreas se califican como marjal para el cultivo en regadío del arroz, con los aportes de la Acequia Real del Júcar orientados por un denso entramado de canales (figura 2).
 
@@ -54,13 +54,12 @@ A nivel político, tienen competencias administrativas en el Parque 13 municipio
 *Figura 4. Términos municipales, límites administrativos y edificaciones dentro y alrededor del Parque Natural de l’Albufera
 Fuente: Institut Cartogràfic Valencià (ICV), Ministerio de Fomento, Bing, elaboración propia*
 
-
 Esto supone una dificultad añadida en la gestión así como un aumento de la carga del ecosistema, por presión demográfica, turística e industrial, entre las que se encuentra la tercera ciudad más poblada de España.
 
 En resumen, el Parque Natural de L’Albufera, debido a sus condiciones ecológicas (zona húmeda), geográficas (clima) y socioeconómicas (elevada canalización para el cultivo de regadío), constituye un ecosistema vulnerable para la proliferación de la caña común, y dadas la capacidad de colonización de la especie y la importancia medioambiental, cultural y paisajística del Parque, el impacto podría ser grave.
 
 
-**Los hábitats palustres del Parque Natural de l’Albufera: orillas y matas**
+#### Los hábitats palustres del Parque Natural de l’Albufera: orillas y matas
 
 La caña común, por sus características biológicas y ecológicas, coloniza fundamentalmente hábitats palustres, por lo que éstas serán las regiones más vulnerables.
 
@@ -124,7 +123,6 @@ Las mayores proporciones de caña común se encuentran en la región nororiental
 *Figura 5. Distribución a gran escala de la caña común (Arundo donax)*
 *Fuente: Institut Cartogràfic Valencià (ICV), Bing, elaboración propia*
 
-
 Estas concentraciones presentan una correlación respecto de las áreas edificadas rurales de baja población, como las zonas de Pinedo, el Saler y el Perellonet, abarcando éstas más de la mitad de la población total, así como de las principales acequias y canales –especialmente si se encuentran conectadas con los núcleos de población mencionados–
 (figura 6):
 
@@ -133,10 +131,8 @@ Estas concentraciones presentan una correlación respecto de las áreas edificad
 *Figura 6. Detalle de los factores de distribución de Arundo donax en el Parque Natural de l'Albufera*
 *Fuente: Institut Cartogràfic Valencià (ICV), elaboración propia*
 
-
 Las estimaciones de perímetro y superficie ocupada son de aproximadamente 29.700
 m de ribera ocupada, y más de 115.000 m2 de superficie total. Sin embargo, la distribución en cada municipio es muy desigual (tabla 2, figuras 7 y 8):
-
 
 *Tabla 2 Longitud y superficie estimada de Arundo donax por municipio y en total del Parque Natural de l'Albufera*
 *Fuente: elaboración propia*
