@@ -19,7 +19,7 @@ Me llamo Jordi. Soy técnico ambiental especializado en patrimonio natural y bio
 
 <li><strong>Oposiciones</strong>: dudas y preguntas, hablar... (este servicio es gratuito)</li>
 
-<li><strong>Servicio 'Memlex'</strong>: ofece tarjetas de memoria de la literalidad de la norma en RemNote en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...).</li>
+<li><strong>Servicio 'Memlex'</strong>: ofece tarjetas de memoria de la literalidad de la norma en RemNote en un formato enriquecido (negrita, cursiva, subrayado, hipervínculos...). Prueba gratuita: https://remnote.com/a/Constitucion-Espanola./682c45dbb77d5ca9ab7992f4 (Constitución española)</li>
 
 <li><strong>Educación y divulgación</strong>: artículos</li>
 
