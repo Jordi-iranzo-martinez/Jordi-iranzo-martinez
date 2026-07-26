@@ -45,7 +45,7 @@ También sirve de hábitat frecuente de las especies cerceta pardilla (*Marmaron
 Por todo ello, el Parque Natural de l’Albufera fue incluido en la estructura de protección ambiental europea Red Natura 2000 bajo las categorías de Lugar de Interés Comunitario (LIC) y Zona de Especial Conservación para las Aves (ZEPA). Además, está incluido en la lista de humedales con relevancia mundial por la Convención Relativa a los Humedales de 
 Importancia Internacional (Convenio Ramsar) (figura 3):
 
-![[Pasted image 20260726181407.png]]
+![[figuras-proteccion-parque-natural-albufera.png]]
 
 A nivel político, tienen competencias administrativas en el Parque 13 municipios diferentes, si bien sus extensiones y cantidad de población son diferentes –de Norte a Sur–: València, Alfafar, Sedaví, Massanassa, Catarroja, Albal, Beniparrell, Silla, Sollana, Sueca, Algemesí, Albalat de la Ribera y Cullera (figura 4):
 
@@ -53,6 +53,7 @@ A nivel político, tienen competencias administrativas en el Parque 13 municipio
 
 *Figura 4. Términos municipales, límites administrativos y edificaciones dentro y alrededor del Parque Natural de l’Albufera
 Fuente: Institut Cartogràfic Valencià (ICV), Ministerio de Fomento, Bing, elaboración propia*
+
 
 Esto supone una dificultad añadida en la gestión así como un aumento de la carga del ecosistema, por presión demográfica, turística e industrial, entre las que se encuentra la tercera ciudad más poblada de España.
 
@@ -123,6 +124,7 @@ Las mayores proporciones de caña común se encuentran en la región nororiental
 *Figura 5. Distribución a gran escala de la caña común (Arundo donax)*
 *Fuente: Institut Cartogràfic Valencià (ICV), Bing, elaboración propia*
 
+
 Estas concentraciones presentan una correlación respecto de las áreas edificadas rurales de baja población, como las zonas de Pinedo, el Saler y el Perellonet, abarcando éstas más de la mitad de la población total, así como de las principales acequias y canales –especialmente si se encuentran conectadas con los núcleos de población mencionados–
 (figura 6):
 
@@ -131,8 +133,10 @@ Estas concentraciones presentan una correlación respecto de las áreas edificad
 *Figura 6. Detalle de los factores de distribución de Arundo donax en el Parque Natural de l'Albufera*
 *Fuente: Institut Cartogràfic Valencià (ICV), elaboración propia*
 
+
 Las estimaciones de perímetro y superficie ocupada son de aproximadamente 29.700
 m de ribera ocupada, y más de 115.000 m2 de superficie total. Sin embargo, la distribución en cada municipio es muy desigual (tabla 2, figuras 7 y 8):
+
 
 *Tabla 2 Longitud y superficie estimada de Arundo donax por municipio y en total del Parque Natural de l'Albufera*
 *Fuente: elaboración propia*
