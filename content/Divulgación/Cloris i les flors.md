@@ -1,4 +1,9 @@
 
+# De cloris al floriment de la vida
+## Flors, interrelació, i prosperitat
+
+L'article original va ser publicat a la Revista Espores a l'agost del 2025: [article original](https://espores.org/plantes/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/).
+
 **La flor va ser una revolució biològica sorgida al final de l'Època dels Dinosauris que facilità la predominància ecològica de les plantes que les tenen. La coevolució d'estes amb els animals va provocar ecosistemes molt més rics i complexos, i finalment donà lloc a la revolució agrícola, que permetè la civilització humana. Encara estem en un període revolucionari de sostenibilitat. Vegem-ho tot en un recorregut interdisciplinar des de la mitologia clàssica!**
 
 "*S'il est vrai, Chloris, que tu m'aimes / Mais j'entends, que tu m'aimes bien / (...) / Tout ce qu'on dit de l'ambroisie / Ne touche point ma fantaisie / Au prix des grâces de tes yeux*".  *À Chloris*, poema de Théophile de Viau, musicalizat por Reynaldo Hahn
