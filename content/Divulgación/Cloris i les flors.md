@@ -1,6 +1,6 @@
 
 # De cloris al floriment de la vida
-## Flors, interrelació, i prosperitat
+## Un article sobre flors, interrelació, i prosperitat
 
 _L'article original va ser publicat a la Revista Espores a l'agost del 2025: [vore l'article original](https://espores.org/plantes/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/).
 _
