@@ -13,7 +13,7 @@ Hui vull parlar de les flors i de l'amor, i com m'agraden les històries de la m
 
 Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. Cèfir, el déu-vent de l'oest, se'n va enamorar d'ella i la raptà. En casar-se, li atorgà el poder de la floració, i així es transformà en la deessa de les flors i la vegetació primaveral. Tingueren dues filles: la Primavera, i Karpos, la deessa dels fruits i les collites.
 
-![#attachments/flora-cefiro-bouguereau-1875-mitologia-flores.jpg]]
+![attachments/flora-cefiro-bouguereau-1875-mitologia-flores.jpg]]
 
 _Flora i Cèfir_ (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [_Musée des Beaux-Arts de Mulhouse_](https://github.com/Jordi-iranzo-martinez/Jordi-iranzo-martinez/blob/v4/content/Escritos/beaux-arts.musees-mulhouse.fr/collections) (Alsàcia)
 
