@@ -23,6 +23,8 @@ Algunos servicios:
 - **Gestiones**: representación...
 - **Escritura**: divulgación...
 
-Fluido en castellano, valenciano, e inglés. Con competencia en francés, italiano y portugués.
+Fluido en castellano, valenciano, e inglés. Competente en francés, italiano y portugués.
+
+Con experiencia en el sector privado y público.
 
 **Contacto**: jordi.im@proton.me
