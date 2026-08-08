@@ -5,14 +5,23 @@ description: Técnico ambiental ofrece ayuda en temas medioambientales, preparac
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg" 
      alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
-     width="240" 
-     style="float: right; margin: 0 0 1em 1.5em; border-radius: 6px;">
+     width="240">
 
-- Técnico ambiental especializado en normativa española y europea, derecho administrativo, biodiversidad, calidad ambiental y cambio climático.
-- Más de 170 certificaciones en política ambiental ([Ver todas las certificaciones](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ANplIn7xOGQuA_WF5KekhIs?rlkey=nuyjqnxp5i18zb0haqr5synme&st=zhgf7l8p&dl=0))
-- Fluido en español, valenciano e inglés. Competencia en italiano, portugués y francés.
-- Me encantaría contribuir a mejorar el medio ambiente — y además me gusta escribir.
+Hola. Me llamo Jordi. He estudiado Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación en las siguientes materias:
 
-Cartografía, análisis de datos, informes, gestoría, evaluaciones de impacto...
+- **Derecho administrativo**
+- **Patrimonio natural**
+- **Calidad ambiental**
+- **Cambio climático**
 
-Contacto: [jordi.im@proton.me](mailto:jordi.im@proton.me)
+Algunos servicios:
+
+- **Técnico**: estudios de impacto ambiental, gestiones de residuos, cumplimiento legal...
+- [[Memlex]]: servicio de memorización de la legislación
+- **Aprendizaje**: más de 160 [[Certificados]] 
+- **Oposiciones**: asesoramiento gratuito
+- **Gestiones**: representación...
+- **Escritura**: divulgación...
+- **Idiomas**
+
+**Contacto**: jordi.im@proton.me
