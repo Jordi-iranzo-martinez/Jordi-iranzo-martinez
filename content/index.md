@@ -1,6 +1,6 @@
 ---
-title: Técnico de medio ambiente
-description: Técnico ambiental ofrece ayuda en temas medioambientales, preparación y realización de oposiciones y gestiones administrativas.
+title: Consultor ambiental
+description: Consultor ambiental, oposiciones y gestiones administrativas.
 ---
 
 <img src="attachments/Jordi-Iranzo-Martinez.jpg" 
@@ -22,6 +22,7 @@ Algunos servicios:
 - **Oposiciones**: asesoramiento gratuito
 - **Gestiones**: representación...
 - **Escritura**: divulgación...
-- **Idiomas**
+
+Fluido en castellano, valenciano, e inglés. Con competencia en francés, italiano y portugués.
 
 **Contacto**: jordi.im@proton.me
