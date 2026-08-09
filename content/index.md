@@ -18,13 +18,13 @@ Mi experiencia se centra en cuatro áreas regulatorias clave:
 - **Cambio climático** y sostenibilidad.
 
 ### Servicios para Empresas y Administraciones Públicas
-* **Asesoría Técnica**: Estudios de impacto ambiental, planes de gestión de residuos y auditorías de cumplimiento legal.
-* **Gestiones Administrativas**: Tramitación de expedientes, licencias y representación ante organismos públicos.
-* **Divulgación**: Redacción de contenido técnico, informes especializados y proyectos de educación ambiental.
+* **Asesoría Técnica**: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
+* **Gestiones Administrativas**: tramitación de expedientes, licencias, representación ante organismos públicos.
+* **Divulgación**: redacción de contenido técnico, informes especializados y proyectos de educación ambiental.
 
 ### Servicios para Opositores y Profesionales
-* [[Memlex]]: Método propio para la optimización, estructura y memorización ágil de leyes complejas.
-* **Oposiciones**: Orientación personalizada y primera sesión de asesoramiento sin compromiso.
+* [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
+* **Oposiciones**: asesoramiento y apoyo gratuito.
 
 ¿Tienes un proyecto ambiental en marcha o necesitas desbloquear un temario legal? Cuéntame tu caso y busquemos la mejor solución.
 
