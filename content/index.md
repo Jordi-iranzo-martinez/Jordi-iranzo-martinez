@@ -1,5 +1,5 @@
 ---
-title: Consultor ambiental
+title: Consultor ambiental independiente
 description: Consultor ambiental, oposiciones y gestiones administrativas.
 ---
 
@@ -14,16 +14,16 @@ Hola. Me llamo Jordi. He estudiado Ciencias Ambientales, me especialicé en la r
 - **Calidad ambiental**
 - **Cambio climático**
 
-Algunos servicios:
+Mi aprendizaje ha siso continuo. Tengo más de 160 [[Certificados]] 
+
+Algunos servicios que ofrezco:
 
 - **Técnico**: estudios de impacto ambiental, gestiones de residuos, cumplimiento legal...
 - [[Memlex]]: servicio de memorización de la legislación
-- **Aprendizaje**: más de 160 [[Certificados]] 
 - **Oposiciones**: asesoramiento gratuito
+- **Educación**: consultas gratuitas
 - **Gestiones**: representación...
 - **Escritura**: divulgación...
-
-Fluido en castellano, valenciano, e inglés. Competente en francés, italiano y portugués.
 
 Con experiencia en el sector privado y público.
 
