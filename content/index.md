@@ -17,17 +17,15 @@ Mi experiencia se centra en cuatro áreas regulatorias clave:
 - **Calidad ambiental** y auditoría.
 - **Cambio climático** y sostenibilidad.
 
-### 💼 Servicios para Empresas y Administraciones Públicas
+### Servicios para Empresas y Administraciones Públicas
 * **Asesoría Técnica**: Estudios de impacto ambiental, planes de gestión de residuos y auditorías de cumplimiento legal.
 * **Gestiones Administrativas**: Tramitación de expedientes, licencias y representación ante organismos públicos.
 * **Divulgación**: Redacción de contenido técnico, informes especializados y proyectos de educación ambiental.
 
-### 📚 Servicios para Opositores y Profesionales
+### Servicios para Opositores y Profesionales
 * [[Memlex]]: Método propio para la optimización, estructura y memorización ágil de leyes complejas.
 * **Oposiciones**: Orientación personalizada y primera sesión de asesoramiento sin compromiso.
 
-He adquirido experiencia en el sector público y privado.
-
-¿Tienes un proyecto o una consulta? Puedes escribirme:
+¿Tienes un proyecto ambiental en marcha o necesitas desbloquear un temario legal? Cuéntame tu caso y busquemos la mejor solución.
 
 **Contacto**: jordi.im@proton.me
