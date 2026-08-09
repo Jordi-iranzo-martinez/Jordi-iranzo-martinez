@@ -14,7 +14,7 @@ Hola. Me llamo Jordi. He estudiado Ciencias Ambientales, me especialicé en la r
 - **Calidad ambiental**
 - **Cambio climático**
 
-Mi aprendizaje ha siso continuo. Tengo más de 160 [[Certificados]] 
+Mi aprendizaje ha sido continuo. Tengo más de 160 [[Certificados]] 
 
 Algunos servicios que ofrezco:
 
