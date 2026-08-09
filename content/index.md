@@ -14,7 +14,7 @@ Hola. Me llamo Jordi. He estudiado Ciencias Ambientales, me especialicé en la r
 - **Calidad ambiental**
 - **Cambio climático**
 
-Mi aprendizaje ha sido continuo. Tengo más de 160 [[Certificados]] de organismos oficiales (Naciones Unidas, Unión Europea, Universidades, Google...) 
+Mi aprendizaje ha sido continuo. Tengo más de 160 [[Certificados]] de instituciones de las Naciones Unidas, Unión Europea, Universidades, Google... 
 
 Algunos servicios que ofrezco:
 
