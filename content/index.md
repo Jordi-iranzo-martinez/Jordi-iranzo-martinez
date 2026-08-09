@@ -7,24 +7,27 @@ description: Consultor ambiental, oposiciones y gestiones administrativas.
      alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
      width="240">
 
-Hola. Me llamo Jordi. He estudiado Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación en las siguientes materias:
+Hola, soy Jordi. Científico ambiental especializado en la rama de ingeniería y legislación. 
 
-- **Derecho administrativo**
-- **Patrimonio natural**
-- **Calidad ambiental**
-- **Cambio climático**
+A lo largo de mi trayectoria, he combinado la práctica profesional en los sectores público y privado con un aprendizaje continuo, respaldado por más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y Google.
 
-Mi aprendizaje ha sido continuo. Tengo más de 160 [[Certificados]] de instituciones de las Naciones Unidas, Unión Europea, Universidades, Google... 
+Mi experiencia se centra en cuatro áreas regulatorias clave:
+- **Derecho administrativo** y representación.
+- **Patrimonio natural** y biodiversidad.
+- **Calidad ambiental** y auditoría.
+- **Cambio climático** y sostenibilidad.
 
-Algunos servicios que ofrezco:
+### 💼 Servicios para Empresas y Administraciones Públicas
+* **Asesoría Técnica**: Estudios de impacto ambiental, planes de gestión de residuos y auditorías de cumplimiento legal.
+* **Gestiones Administrativas**: Tramitación de expedientes, licencias y representación ante organismos públicos.
+* **Divulgación**: Redacción de contenido técnico, informes especializados y proyectos de educación ambiental.
 
-- **Técnico**: estudios de impacto ambiental, gestiones de residuos, cumplimiento legal...
-- [[Memlex]]: servicio de memorización de la legislación
-- **Oposiciones**: asesoramiento gratuito
-- **Educación**: consultas gratuitas
-- **Gestiones**: representación...
-- **Escritura**: divulgación...
+### 📚 Servicios para Opositores y Profesionales
+* [[Memlex]]: Método propio para la optimización, estructura y memorización ágil de leyes complejas.
+* **Oposiciones**: Orientación personalizada y primera sesión de asesoramiento sin compromiso.
 
-Con experiencia en el sector privado y público.
+He adquirido experiencia en el sector público y privado.
+
+¿Tienes un proyecto o una consulta? Puedes escribirme:
 
 **Contacto**: jordi.im@proton.me
