@@ -7,7 +7,11 @@ description: Consultor ambiental, oposiciones y gestiones administrativas.
      alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
      width="240">
 
-Hola, soy Jordi. Científico ambiental especializado en la rama de ingeniería y legislación. A lo largo de mi trayectoria, he combinado la práctica profesional en los sectores público y privado con un aprendizaje continuo, respaldado por más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y Google. Mi experiencia se centra en cuatro áreas regulatorias clave:
+Hola, soy Jordi. Científico ambiental especializado en la rama de ingeniería y legislación.
+
+A lo largo de mi trayectoria, he combinado la práctica profesional en los sectores público y privado con un aprendizaje continuo, respaldado por más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y Google.
+
+Mi experiencia se centra en cuatro áreas regulatorias clave:
 
 - **Derecho administrativo** y representación.
 - **Patrimonio natural** y biodiversidad.
