@@ -17,12 +17,16 @@ Hola, soy Jordi. Científico ambiental especializado en la rama de ingeniería y
 ### Servicios para Empresas y Administraciones Públicas
 * **Asesoría Técnica**: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
 * **Gestiones Administrativas**: tramitación de expedientes, licencias, representación ante organismos públicos.
-* **Divulgación**: redacción de contenido técnico, informes especializados y proyectos de educación ambiental.
 
 ### Servicios para Opositores y Profesionales
 * [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
 * **Oposiciones**: asesoramiento y apoyo gratuito.
 
-¿Cómo puedo ayudarte? Puedes contarme:
+### Educación y divulgación
+
+- **Educación**: resolución de dudas de contenido escolar (primaria, secundaria, bachillerato) (servicio gratuito)
+- **Divulgación**: redacción de contenido técnico, informes, difusión de proyectos...
+
+¿Cómo puedo ayudarte? Puedes escribirme:
 
 **Contacto**: jordi.im@proton.me
