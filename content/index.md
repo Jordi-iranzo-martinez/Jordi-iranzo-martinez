@@ -23,6 +23,6 @@ Hola, soy Jordi. Científico ambiental especializado en la rama de ingeniería y
 * [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
 * **Oposiciones**: asesoramiento y apoyo gratuito.
 
-¿Necesitas asesoramiento? Cuéntame tu caso y busquemos la mejor solución.
+¿Cómo puedo ayudarte? Puedes contarme:
 
 **Contacto**: jordi.im@proton.me
