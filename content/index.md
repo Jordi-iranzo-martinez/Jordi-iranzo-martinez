@@ -7,30 +7,27 @@ description: Consultor ambiental, oposiciones y gestiones administrativas.
      alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
      width="240">
 
-Hola, soy Jordi. Científico ambiental especializado en la rama de ingeniería y legislación. Tengo experiencia en el sector público  privado.
+Hola:
 
-Mi aprendizaje ha sido continuo, respaldado por más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y Google.
+Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea en las siguientes áreas clave:
 
-Mi experiencia se centra en cuatro áreas regulatorias clave:
-
-- **Derecho administrativo**
+- **Derecho administrativo** (solo nacional)
 - **Patrimonio natural**
 - **Calidad ambiental**
 - **Cambio climático**
 
-El ámbito es tanto nacional, como de la Unión e internacional (Convenios).
+Cuento con más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google. Tengo experiencia en el sector público privado.
 
-### Servicios para Empresas y Administraciones Públicas
+Ofrezco los siguietes servicios:
+
 * **Asesoría Técnica**: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
+
 * **Gestiones Administrativas**: tramitación de expedientes, licencias, representación ante organismos públicos.
 
-### Servicios para Opositores y Profesionales
+* **Asesoramieto**: el de contenido escolar (primaria, secundaria, bachillerato) y de oposicinoes es gratuito.
+
 * [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
-* **Oposiciones**: asesoramiento y apoyo gratuito.
 
-### Educación y divulgación
-
-- **Educación**: resolución de dudas de contenido escolar (primaria, secundaria, bachillerato) (servicio gratuito)
 - **Divulgación**: redacción de contenido técnico, informes, difusión de proyectos...
 
 ¿Cómo puedo ayudarte? Escríbeme si quieres:
