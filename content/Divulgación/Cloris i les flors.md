@@ -1,9 +1,8 @@
 
-# De cloris al floriment de la vida
-## Flors, interrelació, i prosperitat
+# De Cloris al floriment de la vida
 
-_L'article original va ser publicat a la Revista Espores a l'agost del 2025: [vore l'article original](https://espores.org/plantes/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/).
-_
+## Flors, interrelació i prosperitat
+
 
 **La flor va ser una revolució biològica sorgida al final de l'Època dels Dinosauris que facilità la predominància ecològica de les plantes que les tenen. La coevolució d'estes amb els animals va provocar ecosistemes molt més rics i complexos, i finalment donà lloc a la revolució agrícola, que permetè la civilització humana. Encara estem en un període revolucionari de sostenibilitat. Vegem-ho tot en un recorregut interdisciplinar des de la mitologia clàssica!**
 
@@ -13,9 +12,8 @@ Hui vull parlar de les flors i de l'amor, i com m'agraden les històries de la m
 
 Cloris era una nimfa terrestre que vivia a les praderies i cuidava les plantes. Cèfir, el déu-vent de l'oest, se'n va enamorar d'ella i la raptà. En casar-se, li atorgà el poder de la floració, i així es transformà en la deessa de les flors i la vegetació primaveral. Tingueren dues filles: la Primavera, i Karpos, la deessa dels fruits i les collites.
 
-![[attachments/cloris/flora-cefiro-bouguereau-1875-mitologia-flores.jpg]]
-
-_Flora i Cèfir_ (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [_Musée des Beaux-Arts de Mulhouse_](https://github.com/Jordi-iranzo-martinez/Jordi-iranzo-martinez/blob/v4/content/Escritos/beaux-arts.musees-mulhouse.fr/collections) (Alsàcia)
+![[flora-cefir-bouguereau-1875-mitologia-flors.jpg]]
+*Flora i Cèfir (1875), de William-Adolphe Bouguereau. El vent de l'oest afavoreix la floració i fertilitza les plantes, creant més vida. Font: [Musée des Beaux-Arts de Mulhouse](https://github.com/Jordi-iranzo-martinez/Jordi-iranzo-martinez/blob/v4/content/Escritos/beaux-arts.musees-mulhouse.fr/collections) (Alsàcia)*
 
 El mite reflecteix com els grecs entenien la connexió entre les estacions, la sexualitat, i la botànica, i la relació dels fruits respecte de les flors. 
 
@@ -41,9 +39,9 @@ Les espermatòfites es classifiquen en dos tipus: gimnospermes o angiospermes, d
 
 Les angiospermes són les úniques plantes que tenen flors. El tret va ser tan exitòs que quasi totes les que pugues imaginar són angiospermes. La flor és el seu òrgan sexual, especialitzat en la producció dels gamets. En elles, el pol·len es genera als estams i l'òvul a l'ovari dins el pistil. 
 
-![[attachments/cloris/nacimiento-venus-botticelli-1484-flores-mitologia.jpg]]
+![[naiximent-venus-botticelli-1484-mitologia-flors.jpg]]
 
-_El naixement de Venus_ (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), deessa de la bellesa i l'erotisme, naix al mar dels genitals d'Urà. Cèfir i Aura (la brisa) la impulsen cap a la costa —on hi ha angiospermes—, li porten més llum i li tiren flors, i Cloris a terra la vol cobrir amb un mantell floral. El quadre representa l'arribada de la bellesa, l'amor, i el desig al món, una força civilitzadora que transforma el caos del món en ordre i fertilitat. Font: _[Galeria degli Uffizi](https://www.uffizi.it/opere/nascita-di-venere)_, Florència
+*El naixement de Venus (c. 1484–1486), de Sandro Botticelli. Afrodita (Venus), deessa de la bellesa i l'erotisme, naix al mar dels genitals d'Urà. Cèfir i Aura (la brisa) la impulsen cap a la costa —on hi ha angiospermes—, li porten més llum i li tiren flors, i Cloris a terra la vol cobrir amb un mantell floral. El quadre representa l'arribada de la bellesa, l'amor, i el desig al món, una força civilitzadora que transforma el caos del món en ordre i fertilitat. Font: [Galeria degli Uffizi](https://www.uffizi.it/opere/nascita-di-venere), Florència*
 
 La producció de gamets depèn de cada planta. La majoria són hermafrodites (estimades en un 70-90%), i produeixen els dos tipus a la mateixa flor. També hi ha de monoiques (5-7%) (del grec *mono*, "un"; i *oikos* "casa"), amb flors "mascles" i "femelles" al mateix individu (casa); i dioiques (6-7%) (del grec *di*, dos, i *oikos*), on cada individu produeix només d'un tipus a totes les seues flors (com la majoria dels animals).
 
@@ -60,17 +58,17 @@ Quiero hacer contigo lo que la primavera hace con los cerezos*"
 
 Pablo Neruda, Veinte poemas de amor y una canción desesperada (poema 14)
 
-![[attachments/cloris/primavera-botticelli-1480-mitologia-flores.jpg]]
+![[primavera-botticelli-1480-mitologia-flors.jpg]]
 
-_La Primavera_ (1480), de Sandro Botticelli. Apareixen (de dreta a esquerra) Céfir segrestant la ninfa Cloris, Cloris convertida en deesa amb vestit de flors, Venus, la deesa de l'amor amb el seu fill Eros (Cupit) d'amunt, les tres gràcies (bellesa, goig i prosperitat) dansant, i Mercuri com a protector. Notem les flors al sòl, i els fruits a d'alt. Font: [_Galeria degli Uffizi_](https://github.com/Jordi-iranzo-martinez/Jordi-iranzo-martinez/blob/v4/content/Escritos/www.uffizi.it/opere/botticelli-primavera), Florència
+*La Primavera (1480), de Sandro Botticelli. Apareixen (de dreta a esquerra) Céfir segrestant la ninfa Cloris, Cloris convertida en deesa amb vestit de flors, Venus, la deesa de l'amor amb el seu fill Eros (Cupit) d'amunt, les tres gràcies (bellesa, goig i prosperitat) dansant, i Mercuri com a protector. Notem les flors al sòl, i els fruits a d'alt. Font: [Galeria degli Uffizi](https://github.com/Jordi-iranzo-martinez/Jordi-iranzo-martinez/blob/v4/content/Escritos/www.uffizi.it/opere/botticelli-primavera), Florència*
 
 Normalment les gimnospermes són anemòfiles (recordem que no tenen flors) i alliberen massivament el pol·len a l'atmòsfera (són estes les responsables de la major part d'alergies primaverals, perquè en penetrar-nos pel sistema respitori, l'immunitari pot identificar-lo com a estrany, i tractar de protegir-se i expulsar-lo amb estornuts, congestió...—. 
 
 Les angiospermes solen emprenar una estratègia més precisa i refinada: la zoofilia, mitjançant els animals. Utilitzen flors grans, acolorides, bona olor... i els ofereixen aliment en forma de nèctar: un líquid dolç i molt ric en sucres (és amb el que les abelles melíferes fan la mel).
 
-![[attachments/cloris/abeja-polinizando-flor-lechuguilla-silvestre.jpg]]
+![[abella-pol·linitzant-flor.jpg]]
 
-Abella pol·linitzant una flor de lletsó menut. Autor: Jordi Iranzo Martínez
+*Abella pol·linitzant una flor de lletsó menut. Autor: Jordi Iranzo Martínez*
 
 Estos animals reben el nom de "pol·linitzadors". Els principals són insectes (són el 80% del total de la fauna del planeta: abelles, mosques, papallones, escarabats, sírfids...) però també poden fer-ho vertebrats, com el colibrí, els rats penats, o sargantanes a Mallorca.
 
@@ -78,9 +76,9 @@ L'explosió de diversitat de les angiospermes en el Cretàcic per les flors faci
 
 Això dona un motiu per a respectar la vegetació espontània (mal anomenades "males herbes"): a banda de millorar el sòl i prevenir l'erosió, creen microhàbitats, corredors ecol·lògics, i aliment per a pol·linitzadors locals, que milloren la biodiversitat de l'ecosistema, i augmenten la resiliència de la cadena tròfica (servint d'aliment a pardals, altres insectes, aràcnids, rates-penades, sargantanes, anfibis...)
 
-![[attachments/cloris/vegetacion-espontanea-rabaniza-blanca-biodiversidad.jpg]]
+![[vegetacio-espontanea-biodiversitat.jpg]]
 
-Vegetació espontània de ravenissa blanca (_Diplotaxis erucoides_). Autor: Jordi Iranzo Martínez
+*Vegetació espontània de ravenissa blanca (Diplotaxis erucoides). Autor: Jordi Iranzo Martínez*
 
 En contraposició, tenim les espècies exòtiques invasores, que són aquelles introduïdes artificialment d'un altre lloc geogràfic (exòtica) i que desplaçen la biodiversitat nativa de la regió on s'asenten (invasora). Pots comprobar si una planta ho és identificant-la amb l'App gratuïta [PlantNet](https://plantnet.org/), buscant la regió geogràica de procedència, i si apareix a la [Base de Dades Global d'Espècies Invasores de l'UICN (GISD)](https://www.iucngisd.org/gisd/).
 
@@ -93,9 +91,9 @@ Les llavors són diverses, en mida, color, pes... i representen una evolució de
 
 Moltes són comestibles: els cereals (blat, arròs, sègol, dacsa, avena), les llegums (llentilles, cigrons, mongetes, fesols, pèsols), els fruits secs (nous, ametlles, pipes, avellanes, festucs), els pinyons, els glans...
 
-![[attachments/cloris/cosecha-trigo-pieter-brueghel-1569-agricultura.jpg]]
+![[collita-blat-pieter-brueghel-1569-agricultura.jpg]]
 
-_La collita_ (1569), de Pieter Brueghel el Vell. Escena de la vida cultural flamenca de la sega i la collita del blat madur tal i com es feia al segle XVI. Tenia lloc típicament en juliol o en agost, perquè la pol·linització es feia en primavera i després havia de formar la llavor. Es representa la cooperació en l'esforç, el descans i el menjar dels camperols, que depenen de les estacions de forma cíclica. Font: [*Kunsthistorisches Museum](https://www.khm.at/digital/kuenstler/pieter-bruegel-der-aeltere)*, Viena
+*La collita (1569), de Pieter Brueghel el Vell. Escena de la vida cultural flamenca de la sega i la collita del blat madur tal i com es feia al segle XVI. Tenia lloc típicament en juliol o en agost, perquè la pol·linització es feia en primavera i després havia de formar la llavor. Es representa la cooperació en l'esforç, el descans i el menjar dels camperols, que depenen de les estacions de forma cíclica. Font: [Kunsthistorisches Museum](https://www.khm.at/digital/kuenstler/pieter-bruegel-der-aeltere), Viena*
 
 
 Com que les llavors tampoc es mouen, les plantes utilitzen diferents recursos per dispersar-les: similarment amb les anteriors tenim les plantes anemòcores, zoocores, hidrocores i autocores (aquestes sovint exploten, es torcen, o es disparen com una catapulta). El sufix _-còria_ significa "moure's" o "dispersar-se".
@@ -106,15 +104,15 @@ Totes les angiospermes en tenen. Potser l'estratègia més impressionant de disp
 
 Exemples són la poma, la taronja, el préssec, la pera..., però també l'oliva, la tomaca, el cogombre, el carbassó, l'albergínia, el pebre... 
 
-![[attachments/cloris/bodegon-frutas-flores-jan-davidsz-heem-1660.jpg]] 
+![[bodego-frutes-flors-jan-davidsz-heem-rijksmuseum.jpg]]
 
-_Festó de frutes i flors_ (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [_Rijksmuseum_](https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam
+*Festó de frutes i flors (c. 1660), de Jan Davidsz de Heem. Hi ha també insectes pol·linitzadors. Font: [Rijksmuseum](https://www.rijksmuseum.nl/nl/collectie/verzameling/Beauty-in-the-eye-of-the-beholder--151119cb-95f4-47ac-b3ad-08dd0f2c01a3), Amsterdam*
 
 Açò no és fàcil d'aconseguir: es necessita que siga nutritiu per a l'animal i que resistisca els seus jucs gàstrics (sovint amb pHs molt àcids per a descomposar els aliments), però és una estratègia prou emprenada. De fet, nosaltres hem co-evol·lucionat tant amb elles que els nutricionistes recomanen menjar vàries peçes de fruita al dia!
 
-![[attachments/cloris/caravaggio-nino-cesta-frutas-1593-bodegon.jpg]]
+![[caravaggio-nen-fruites-bodego-borghese.jpg]]
 
-_Nen amb cistell de fruites_ (1593), de Michelangelo Caravaggio. Moltes vegades els bodegons eren un símbol de riquesa i de prosperitat. Font: [_Galeria Borghese_](https://galleriaborghese.beniculturali.it/), Roma
+*Nen amb cistell de fruites (1593), de Michelangelo Caravaggio. Moltes vegades els bodegons eren un símbol de riquesa i de prosperitat. Font: [Galeria Borghese](https://galleriaborghese.beniculturali.it/), Roma*
 
 Però l'evolució de les espermatòfites no és un procès completament al·leatori: els èssers humans interviniren en la seua reproducció afavorint la d'aquelles amb caràcters (fenotips) ùtils, en un procès anoment sel·lecció artificial o domesticació (del llatí *domus*, casa) —en contraposició a la de natural teoritzada per Charles Darwin o Theodore Wallace—.
 
@@ -126,15 +124,15 @@ L'origen de l'agricultura utilitzà plantes amb flors (blat, arròç, creïlla, 
 
 Això va suposar una revolució històrica que originà la civilització tal i com la coneixem ("*sine agricultura, nihil*"): la major disponibilitat d'aliment permetè els asentaments demogràfics fixes, un augment exponencial de la població, i l'especialització funcional de la societat, donant lloc a tasques com l'administració, l'industria, l'art o la ciència, i fomentant el comerç.
 
-![[attachments/cloris/tumba-sennedjem-escena-cosecha-egipto-antiguo.jpg]]
+![[tomba-sennedjem-escena-collita-egipte-antic.jpg]]
 
-_Escena de collita de la Tomba de Sennedjem_ (c. 1295-1213 a.C.). Sennedjem era un artesà i cap egipci molt estimat a Deir el-Medina, el poblat dels constructors de tombes per als faraons de la Vall dels Reis. La seua tomba està decorada amb motius agrícoles que representen l'abundància després de la mort, com a varietats agrícoles: la collita de cereals, l’ús de la ramaderia, les palmeres datileres, i fruiters o espècies aquàtiques per la fertilitat del Nil. L'escena comença amb el comiat del difunt, que ha de travessar el Duat (inframón egipci) en barca abans d'aplegar a la vida eterna. El Sol d'Horus simbolitza el cicle de la mort (ponent) i la resurrecció. Font: Tomba de Sennedjem a Deir el-Medina (Tebas)
+*Escena de collita de la Tomba de Sennedjem (c. 1295-1213 a.C.). Sennedjem era un artesà i cap egipci molt estimat a Deir el-Medina, el poblat dels constructors de tombes per als faraons de la Vall dels Reis. La seua tomba està decorada amb motius agrícoles que representen l'abundància després de la mort, com a varietats agrícoles: la collita de cereals, l’ús de la ramaderia, les palmeres datileres, i fruiters o espècies aquàtiques per la fertilitat del Nil. L'escena comença amb el comiat del difunt, que ha de travessar el Duat (inframón egipci) en barca abans d'aplegar a la vida eterna. El Sol d'Horus simbolitza el cicle de la mort (ponent) i la resurrecció. Font: Tomba de Sennedjem a Deir el-Medina (Tebas)*
 
 De fet, mengem quasi totes les parts de les angiospermes. En cuina, s’anomenen verdures a les parts comestibles de la planta que normalment no són fruits dolços: com les fulles (espinacs, bleda, enciam), les tiges (espàrrecs, api), les arrels (safanòria, remolatxa, mandioca, nap), els bulbs (ceba, all), i fins i tot flors (coliflor, carxofa, bròquil). Els tubercles són parts engruixudes de tiges subterrànies per a emmagatzenar energia (creïlla, xufa, nyam), i les hortalisses són les verdures que es cultiven a l'hort.
 
-![[attachments/cloris/vertumnus-arcimboldo-1590-dios-cosechas.jpg]]
+![[vertumnus-arcimboldo-1590-dios-cosechas.jpg]]
 
-Imatge 10: _Vertumnus_ (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el déu romà dels canvis estacionals i de les collites de la tardor. La composició està creada amb tots els elements d'aquesta estació. Font: [_Skoklosters slott_](https://skoklostersslott.se/utstallningar/tidigare-utstallningar/vertumnus/), Estocolm
+*Imatge 10: Vertumnus (c. 1590-1591), de Giuseppe Arcimboldo. Vertumnus era el déu romà dels canvis estacionals i de les collites de la tardor. La composició està creada amb tots els elements d'aquesta estació. Font: [Skoklosters slott](https://skoklostersslott.se/utstallningar/tidigare-utstallningar/vertumnus/), Estocolm*
 
 
 D'acord amb la [FAO](https://www.fao.org/pollination/about/es), aproximadament tres de cada quatre plantes agrícoles requereixen pol·linització animal, principalment les hortalisses, les verdures i els arbres fruiters. Això representa només un terç del volum de producció final, perquè molts dels principals cultius, com el blat, l'arròs, i la dacsa, són autògams i/o anemòfils.
@@ -154,24 +152,24 @@ Però, tornem amb el mite de Cloris. No és casualitat que els romans, hereus de
 
 El culte a Flora data probablement des de l'època monàrquica (segles VIII-VI a.C.), i comptava amb un _flamen floralis_ (sacerdot específic) menor, responsable dels seus ritus i festivitats.
 
-![[attachments/cloris/flora-tiziano-1517-diosa-flores-primavera.jpg]]
+![[flora-tiziano-1517-diosa-flores-primavera.jpg]]
 
-_Flora_ (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [_Galeria degli Uffizi_](https://www.uffizi.it/opere/tiziano-flora), Florència (Julio Cèsar refundà un antic assentament etrusc com la colònia romana _Florentia_, que vol dir "florir")
+*Flora (1517), de Tiziano Vecellio. Representa distinció, bellesa i prosperitat, vestida com la burgesia veneciana —una nova aristocràcia emergida recentment d'orígens no necessàriament nobles— amb el blanc que simbolitza la puresa i el roig de la sensualitat, i flors a la mà dreta. Font: [Galeria degli Uffizi](https://www.uffizi.it/opere/tiziano-flora), Florència (Julio Cèsar refundà un antic assentament etrusc com la colònia romana Florentia, que vol dir "florir")*
 
 I és que l’economia romana era principalment rural i agrícola, el treball al camp era l’aspiració màxima del ciutadà i la propietat de la terra sustentava l'estatus social de l'individu i la família. 
 
 Venerar a Flora significava celebrar el cicle de la vida —les estacions, les noves generacions...—, l'amor, la sensualitat, i l'abundància de la natura en pau, enfront a la destrucció de la guerra i la violència.
 
-![[attachments/cloris/triunfo-flora-poussin-1627-mitologia-romana.jpg]]
+![[triunfo-flora-poussin-1627-mitologia-romana.jpg]]
 
-_El Triomf de Flora_ (1627-1628), de Nicolas Poussin. Escena idílica i pacífica de prosperitat agrícola i social. Font: [_Musée du Louvre_](https://collections.louvre.fr/ark:/53355/cl010062523), París
+*El Triomf de Flora (1627-1628), de Nicolas Poussin. Escena idílica i pacífica de prosperitat agrícola i social. Font: [Musée du Louvre](https://collections.louvre.fr/ark:/53355/cl010062523), París*
 
 
 En el seu honor, al 238 a.C., durant la República, s'establiren a Roma els _Ludi Florae_ (Jocs Florals), que consistien en activitats lúdico-festives del 28 d'abril al 3 de maig, en ple apogeu de la floració primaveral. Eren de caràcter popular, compostes d'espectacles, balls, carreres, i representacions teatrals, amb un ambient sexual i llicenciós que contrastava amb la severitat de la moral romana de l'època. Les prostitutes, per exemple, consideraven el dia com propi, i actuaven nues al teatre.
 
-![[attachments/cloris/caton-fiestas-florales-roma-piatti-1899.jpg]]
+![[caton-fiestas-florales-roma-piatti-1899.jpg]]
 
-_Cató a les festes florals de Roma_ (1899), de Prospero Piatti. Marco Porcio Cató (amb túnica marró al quadre, anant-se'n) era un destacat Censor romà —una de les magistratures més important del Senat, encarregada del registre de la població (cens) i del seu control moral (censura)—, reconegut per la seua austeritat moral i els seus ideals republicans. Segons els historiadors antics acostumava a abandonar les Floralies per a no interferir amb el seu llibertinatge habitual. Les tres dones nues del mig són les tres gràcies (les mateixes del quadre de Botticelli), envoltades de flors. El roig simbolitza la sensualitat i la passió, i els conills i els cérvols la fertilitat i la renovació primaveral. Font: [_Museo Nacional de Bellas Artes_](https://www.mnba.gob.cl/)_, Santiago de Xile
+*Cató a les festes florals de Roma (1899), de Prospero Piatti. Marco Porcio Cató (amb túnica marró al quadre, anant-se'n) era un destacat Censor romà —una de les magistratures més important del Senat, encarregada del registre de la població (cens) i del seu control moral (censura)—, reconegut per la seua austeritat moral i els seus ideals republicans. Segons els historiadors antics acostumava a abandonar les Floralies per a no interferir amb el seu llibertinatge habitual. Les tres dones nues del mig són les tres gràcies (les mateixes del quadre de Botticelli), envoltades de flors. El roig simbolitza la sensualitat i la passió, i els conills i els cérvols la fertilitat i la renovació primaveral. Font: [Museo Nacional de Bellas Artes](https://www.mnba.gob.cl/), Santiago de Xile*
 
 
 A finals de l'Edat Mitjana, els Jocs Florals es repreneren a Toulouse (1324-1484), però com a certàmens literaris per a recuperar la poesia trobadoresca en llengua occitana. Els guanyadors rebien flors com a reconeiximent simbòlics. Durant la Renaixença se celebraren a Barcelona (1859) i a València (1879), amb els temes "Patria, fides, amor" (_Fides_ era de religió). Els premis respectius eren l’englantina d'or (rosa silvestre), la viola d'or i argent (violeta) i la flor natural, d'elecció lliure. 
@@ -182,13 +180,19 @@ A l'actualitat encara es mantenen en molts llocs de parla catalana i occitana, p
 
 Culturalment, les flors s'han associat amb la delicadesa i la feminitat, i han sigut emprenades com a símbol d'amor; sovint, però, agafant-les en rams.
 
-![[attachments/cloris/amapolas-argenteuil-monet-1873-flores-silvestres.jpg]]
+![[amapolas-argenteuil-monet-1873-flores-silvestres.jpg]]
 
-_Roselles prop d'Argenteuil_ (1873), de Claude Monet. Les roselles són plantes pioneres espontànies de les praderies europees. Eren especialment abundants als camps de blat europeus abans de l'ús massiu d'herbicides. La xiqueta porta algunes a la mà. Font: [_Musée d'Orsay_](https://www.musee-orsay.fr/fr/oeuvres/coquelicots-1010)_, París
+*Roselles prop d'Argenteuil (1873), de Claude Monet. Les roselles són plantes pioneres espontànies de les praderies europees. Eren especialment abundants als camps de blat europeus abans de l'ús massiu d'herbicides. La xiqueta porta algunes a la mà. Font: [Musée d'Orsay](https://www.musee-orsay.fr/fr/oeuvres/coquelicots-1010), París*
 
 No obstant, tallar una flor perjudica a la planta (i a l'ecosistema) i normalment la sentència a morir a poc a poc perquè no tenen fulles ni arrels.
 
-Em pareix molt més original i millor regalar la planta sencera —i cuidar-la—, o plantar llavors com a sorpresa. Dura més i pot prosperar i multiplicar-se. Vigila que siga adequada a l'ambient i que no invasora (i a poder ser, autòctona). A més, tindre cura d'un regal viu canvia el missatge i l'emoció, i pot reforçar el vincle personal. 
+Em pareix molt més original i millor regalar la planta sencera —i cuidar-la—, o plantar llavors com a sorpresa. Dura més i pot prosperar i multiplicar-se. Vigila que siga adequada a l'ambient i que no invasora (i a poder ser, autòctona). 
+
+A més, tindre cura d'un regal viu canvia el missatge i l'emoció, i pot reforçar el vincle personal. Citant el secret que la guineu li confessà al Petit Príncep a la novel·la d'Exupéry: _"L'essencial és invisible als ulls; només s'hi veu bé amb el cor"_, _"És el temps que has dedicat a la teua rosa el que fa que siga tan important"_, i _"Ets responsable per sempre del que has domesticat"_.
+
+![[principito-rosa-saint-exupery-ilustracion.jpg]]
+
+*El Petit Príncep amb la seua rosa. Segur que qualsevol caminant pensaria que la meua rosa és igual que vosaltres. Però ella sola és més important que totes vosaltres juntes, perquè és la rosa que he regat. (...). Perquè és la meua rosa. Font: El Petit Príncep (1943), d'Antoine de Saint-Exupéry*
 
 ### Conclusió i tancament
 
@@ -202,6 +206,6 @@ I el que és més important, com són les teues flors?
 
 Com va dir el poeta, fa més de 2000 anys: _Omnia vincit amor, et nos cedamus amori!_
 
-![[attachments/cloris/pajaro-flores-cerezo-hiroshige-1830-arte-japones.jpg]]
+![[pajaro-flores-cerezo-hiroshige-1830-arte-japones.jpg]]
 
 _El pardal i la flor del Cirerer_ (1830s), d'Utagawa Hiroshige. Exemple de coevolució i de bellesa. Font: [_Museum of Fine Arts_](https://collections.mfa.org/search/objects/*/Bird%20and%20Cherry%20Blossom), Boston
