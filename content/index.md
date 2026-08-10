@@ -13,10 +13,12 @@ A lo largo de mi trayectoria, he combinado la práctica profesional en los secto
 
 Mi experiencia se centra en cuatro áreas regulatorias clave:
 
-- **Derecho administrativo** y representación.
-- **Patrimonio natural** y biodiversidad.
-- **Calidad ambiental** y auditoría.
-- **Cambio climático** y sostenibilidad.
+- **Derecho administrativo**
+- **Patrimonio natural**
+- **Calidad ambiental**
+- **Cambio climático**
+
+El ámbito es tanto nacional, como de la Unión e internacional (Convenios).
 
 ### Servicios para Empresas y Administraciones Públicas
 * **Asesoría Técnica**: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
