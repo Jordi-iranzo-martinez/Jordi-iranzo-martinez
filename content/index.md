@@ -1,9 +1,7 @@
 ---
-title:
+title: Consultor ambiental independiente
 description: Consultor ambiental, oposiciones y gestiones administrativas.
 ---
-
-# Consultor ambiental independiente
 
 ## Estudios técnicos · Gestión administrativa · Divulgación · Asesoramiento
 
