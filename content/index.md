@@ -3,14 +3,14 @@ title: Consultor ambiental independiente
 description: Consultor ambiental, oposiciones y gestiones administrativas.
 ---
 
-<img src="attachments/Jordi-Iranzo-Martinez.jpg" 
-     alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
-     width="240">
-
 
 # Consultor ambiental independiente
 
 ## Estudios técnicos · Gestión administrativa · Divulgación · Asesoramiento
+
+<img src="attachments/Jordi-Iranzo-Martinez.jpg" 
+     alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
+     width="240">
 
 Hola:
 
