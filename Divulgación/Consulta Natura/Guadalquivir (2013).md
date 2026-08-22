@@ -1,0 +1,2 @@
+
+Guadalquivir, aguas abajo. Más que un río, el Guadalquivir es el cauce que une tres de los espacios naturales más importantes de España: Cazorla, Sierra Morena y Doñana. Este documental nos muestra la vida al paso de la corriente, los paisajes de estos tres grandes espacios en las diferentes épocas del año. (FILMAFFINITY)
