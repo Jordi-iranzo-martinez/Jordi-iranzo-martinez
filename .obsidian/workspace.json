@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opinión/L'Arundo donax a la Comunitat Valenciana.md",
+                "file": "Certificados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'Arundo donax a la Comunitat Valenciana"
+              "title": "Certificados"
             }
           },
           {
@@ -256,8 +256,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "40a60de2972ea2b3",
+  "active": "0b33267df8c1af05",
   "lastOpenFiles": [
+    "Chess.md",
+    "Certificados.md",
+    "Opinión/L'Arundo donax a la Comunitat Valenciana.md",
     "Opinión/L'Horta de València com a Patrimoni de la Humanitat i Reserva de la Biosfera.md",
     "Opinión/La Albufera de Valencia com a ecosistema al llarg de la Història.md",
     "Opinión/La luz nocturna contamina.md",
@@ -278,12 +281,9 @@
     "Divulgación/Terra/Centre per a la Investigació i l’Experimentació Forestal de la Comunitat Valenciana (CIEF).md",
     "Divulgación/Terra/Antonio José de Cavanilles.md",
     "Divulgación/Terra/10 boniques plantes mediterrànees rel·lacionades amb els déus (grecs) per a cultivar a casa.md",
-    "Chess.md",
     "Organizador de ideas, consultor ambiental independiente.md",
     "Memorias Hispanas.md",
     "Just One Planet.md",
-    "Divulgación/Just One World/Real Pokémons (taxonomy)/Reptiles Pokémons/Pokémons - Reptiles.md",
-    "Pokémon.md",
     "Visual/vulnerabilidad-acuifero-zona-estudio.png",
     "Visual/vias-comunicacion-puertos-comerciales-castellon-valencia-leyenda.png",
     "Visual/vias-comunicacion-puertos-comerciales-castellon-valencia.png",
