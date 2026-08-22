@@ -1,0 +1,6 @@
+
+Se compuso justo después de la derrota austríaca en la Guerra Austro-Prusiana de 1866 (también llamada Guerra de las Siete Semanas), en la que Prusia, bajo Bismarck, humilló militarmente a Austria y consolidó su liderazgo hacia la futura unificación alemana bajo Prusia, dejando a Austria fuera de esa unificación.
+
+El encargo fue de la Wiener Männergesangverein (Sociedad Coral de Hombres de Viena), buscando levantar el ánimo nacional vienés tras la derrota — es decir, nace como un intento deliberado de "reparación moral" colectiva a través del arte, muy en la línea de "distraer con belleza tras el trauma bélico". El título original incluso incorporaba letra (hoy raramente interpretada), con versos algo irónicos sobre Viena "alegre a pesar de todo".
+
+Su primer estreno con coro en 1867 fue bastante tibio, casi un fracaso de crítica. Pero cuando se interpretó poco después en versión **orquestal pura** (sin la letra) en la Exposición Universal de París de 1867, se convirtió en un éxito inmediato y arrollador, hasta transformarse en una de las piezas de música clásica más reconocidas del mundo — y en un símbolo informal de Viena y de Austria, casi un segundo himno nacional no oficial.

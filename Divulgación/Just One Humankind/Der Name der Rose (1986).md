@@ -1,0 +1,2 @@
+
+Siglo XIV. Fray Guillermo de Baskerville (Sean Connery), monje franciscano y antiguo inquisidor, y su inseparable discípulo, el novicio Adso de Melk (Christian Slater), visitan una abadía benedictina, situada en el norte de Italia, para esclarecer la muerte del joven miniaturista Adelmo de Otranto. Durante su estancia, desaparecen misteriosamente otros monjes que después aparecen muertos.

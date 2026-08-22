@@ -1,0 +1,1 @@
+Se estima en unos 11.600 años de antigüedad, lo que lo convierte en el templo monumental más antiguo conocido, más antiguo que la agricultura y la escritura. Está reescribiendo la teoría tradicional de que primero llegó la agricultura y luego, con población asentada, la religión organizada — Göbekli Tepe sugiere que pudo ser al revés.

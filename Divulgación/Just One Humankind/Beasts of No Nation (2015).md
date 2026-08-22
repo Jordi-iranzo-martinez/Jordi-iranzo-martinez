@@ -1,0 +1,2 @@
+
+En plena guerra civil de un país africano, el pequeño Agu (Abraham Attah), separado de su madre, pierde al resto de si familia y se convierte en un niño soldado, manipulado por un temible señor de la guerra, el Comandante (Idris Elba), que le enseñará a matar y le instruirá en los caminos de la guerra. (FILMAFFINITY)
