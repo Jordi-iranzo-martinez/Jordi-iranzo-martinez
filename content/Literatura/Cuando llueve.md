@@ -1,7 +1,3 @@
----
-title: "Cuando llueve"
----
-
 Atardece mientras leo. Acerco mi silla a la ventana para apreciar el ocaso. Observo que se han formado oscuras nubes bajas en el cielo. 
 
 Cae la noche. Aparece una finísima llovizna que rápidamente arrecia. Escucho la cadencia pausada de la lluvia: clop, clop, clop…
@@ -12,4 +8,4 @@ Aún arrecia. Abro la ventana y me asomo. La lluvia aumenta su sonido. Percibo e
 
 Sonrío a un animal que no comprende. Celebro seguir vivo. Escampa finalmente.
 
-![Gatito mirando a través de una ventana con la cabeza ladeada, en una tarde lluviosa](attachments/gato-lluvia.jpg)
+![[gato-lluvia.jpg]]

@@ -1,28 +1,22 @@
----
-title: "Amor callado"
----
-
 ### Discreción
 
 Su cerebro insistía en evocarla. Le daban ganas de aplaudirla discretamente.
 
-Llegó a pensar en una hija que tuviera sus virtudes. Él, que siempre había querido no ser padre...
+Llegó a pensar en una hija que tuviera sus virtudes. Él, que siempre había querido no ser padre…
 
 Concluyó resignado que estaba enamorado, como si fuera una enfermedad grave o un embarazo no deseado.
 
-"Es una persona que me genera amor", reflexionó más tarde, logrando serenarse.
+“Es una persona que me genera amor”, reflexionó más tarde, logrando serenarse.
 
 Ya no se hablan, pero le sigue alegrando saber que existe.
 
-
 ### Liminal
 
-Cuando cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces. 
+Cuando cruzaba para regresar a casa con su pareja mantuvo su mirada, levantó una mano y ondeó sus dedos varias veces.
 
-Él le sonrió. "Adiós", le dijo.
+Él le sonrió. “Adiós”, le dijo.
 
 Y continuaron respetando.
-
 
 ### Voluptas
 
@@ -36,20 +30,17 @@ Decidió no soltarlo —aunque no lo abarcase—.
 
 Y al llegar el final se sonreía.
 
-
 ### Paz
 
 No tienes que hacer ni decir nada: es tu forma de ser lo que me reconcilia.
-
 
 ### Lumen
 
 La gente ve, y ella intuye. Nos miramos.
 
-La contemplo admirado: distingo, observo, interpreto, leo... mas solo la vislumbro.
+La contemplo admirado: distingo, observo, interpreto, leo… mas solo la vislumbro.
 
 No puedo descifrarla —o no me atrevo—.
-
 
 ### La elegancia
 
@@ -57,25 +48,21 @@ Expresaba con gestos lo que su voz callaba, de forma más profunda que con cualq
 
 Hace falta muchísima sensibilidad e inteligencia para aparentar sencillez aun siendo extraordinaria.
 
-
 ### Adiós
 
 Honraron el amor; ya han decidido. Seguramente no volverían a verse. Pero no se excluyen, y prefieren haberse conocido.
 
 Díganme una forma más bonita de sufrir que el estar vivo.
 
-
 ### Vale
 
 Sigamos pretendiendo que no sucede nada. Que no hay tensión. Que no conmueves ni desarmas.
 
-Aunque me haya descubierto al conocerte. Y aunque quiera quedarme... aunque me vaya.
-
+Aunque me haya descubierto al conocerte. Y aunque quiera quedarme… aunque me vaya.
 
 ### Madurez
 
-Y al fin la nitidez: la distancia tranquila, el silencio presente... y el cariño. Sin una despedida, ni más testigos que sí mismos.
-
+Y al fin la nitidez: la distancia tranquila, el silencio presente… y el cariño. Sin una despedida, ni más testigos que sí mismos.
 
 ### Conexión
 
@@ -85,7 +72,6 @@ Pero se tenían muy presentes, y cuando lo necesitaban se cuidaban.
 
 Esa era la certeza que nunca se dieron.
 
-
 ### Espacio
 
 Cuando fue derrotado, ella se acercó y le dijo que eso no era ningún fracaso.
@@ -94,17 +80,15 @@ Poco después se retiró súbitamente al contacto de su piel, manteniendo la con
 
 Y él prefirió no aproximarse, ni repitió esas palabras de consuelo.
 
-
 ### Control
 
-Esquivarle, huir, sobrevivir, esconderse... Sin amenaza ni peligro. De la verdad y el miedo. Aparentando calma.
+Esquivarle, huir, sobrevivir, esconderse… Sin amenaza ni peligro. De la verdad y el miedo. Aparentando calma.
 
 Delatarse en pequeños momentos de ternura.
 
-
 ### Gracias
 
-Se desencontraron. A veces las cosas no salen... (aunque algo quede).
+Se desencontraron. A veces las cosas no salen… (aunque algo quede).
 
 Pero no puede quitarse lo bailado. Aun con lo incómodo, de lejos, y a destiempo.
 
