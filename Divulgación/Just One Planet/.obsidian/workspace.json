@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "997edfe808d7e926",
+    "type": "split",
+    "children": [
+      {
+        "id": "594619e74fad2ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa79f23b1a36cba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "EM_Spectrum_Properties_edit.svg.png"
+              },
+              "icon": "lucide-image",
+              "title": "EM_Spectrum_Properties_edit.svg"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc386bd6ce4722d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75fa8673566a1f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92639dcf75e4278a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "55188c4a29957518",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "647c9428d38aa309",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d63cdcc97815934",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d41d227485234e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e20e2391a25399d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EM_Spectrum_Properties_edit.svg.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d852df17cad01cc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EM_Spectrum_Properties_edit.svg.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ff95fb78844115d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28cef3878c83c26f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "081c4ff47fc2244a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EM_Spectrum_Properties_edit.svg.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "92639dcf75e4278a",
+  "lastOpenFiles": [
+    "OSPAR Proted Areas Network.jpg",
+    "figure_2.1253x0-is.png",
+    "Just One Planet¿/Wonderful places/NE Atlantic/North-East Atlantic Ocean.md",
+    "Just One Planet¿/Wonderful places/Mediterranean Sea/Mediterranean.md",
+    "Just One Planet¿/Wonderful places/Europe/Europe.md",
+    "Just One Planet¿/Wonderful places/China/China.md",
+    "Just One Planet¿/Wonderful places/California/California.md",
+    "Just One Planet¿/Wonderful places/Brasil/Brasil.md",
+    "Just One Planet¿/Wonderful places/Black Sea/The Black Sea.md",
+    "Just One Planet¿/Wonderful places/Baltic Sea/The Baltic Sea.md",
+    "Sustainability.md",
+    "Pollution, chemicals and Waste.md",
+    "Pasted image 20250615213554.png",
+    "Living Modified Organisms.md",
+    "Landscape.md",
+    "fao-logo-es.svg",
+    "The Climate Change - an energetic global distortion.md",
+    "Desertification.md",
+    "Puntos calientes de biodiversidad en el mundo.png",
+    "Ecosia - The Search Engine Planting Trees Worldwide.md",
+    "ecosia-tree-planting-kenya-africa.jpg",
+    "ecosia-team-employees-office.jpg",
+    "Ecosia-team-pic.jpg",
+    "ecosia-logo-green-search-engine.jpg",
+    "ecosia-forest-restoration-senegal.jpg",
+    "christian-kroll-ecosia-ceo-founder.jpg",
+    "Yacouba Sawadogo.md",
+    "William Kamkwamba.md",
+    "Boyan Slat & The Ocean Clean Up.md",
+    "TED.md",
+    "Michael E. Reynolds & the Earthships.md",
+    "Masanobu Fukuoka 1.md",
+    "Malala Yousafzai.md",
+    "European Union.md",
+    "Covenant of Mayors.md",
+    "Cateura Recycled Orchestra.md"
+  ]
+}

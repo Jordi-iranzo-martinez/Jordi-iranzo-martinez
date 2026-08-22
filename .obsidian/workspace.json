@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "fe2ac76bf863fc00",
+    "type": "split",
+    "children": [
+      {
+        "id": "22618c8d8665e60f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e731b189adf31f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certificados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Certificados"
+            }
+          },
+          {
+            "id": "0c1021697ec5f0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consulta Natura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consulta Natura"
+            }
+          },
+          {
+            "id": "40a60de2972ea2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opinión/L'Arundo donax a la Comunitat Valenciana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L'Arundo donax a la Comunitat Valenciana"
+            }
+          },
+          {
+            "id": "fc06bbd31435cec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Just One Humankind.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Just One Humankind"
+            }
+          },
+          {
+            "id": "79eddb9ddd2dd6b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Just One Humankind.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Just One Humankind"
+            }
+          },
+          {
+            "id": "0a0e6e0c776b1cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divulgación/Just One World/Real Pokémons (taxonomy)/Reptiles Pokémons/Pokémons - Reptiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pokémons - Reptiles"
+            }
+          },
+          {
+            "id": "8fd511d892f9a32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divulgación/Just One Humankind/Pokémons/Pokémon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pokémon"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82b6a8a2846b1025",
+    "type": "split",
+    "children": [
+      {
+        "id": "1253dd541a1e9682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b33267df8c1af05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eac471e676f66e97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "178a441dbe49f4c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b45d3288793e148",
+    "type": "split",
+    "children": [
+      {
+        "id": "afca108deea3d0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "332241eda5bd5f52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Humanismo/Audiovisual/Películas/Persepolis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Persepolis"
+            }
+          },
+          {
+            "id": "faaefb8db20cd6ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Humanismo/Audiovisual/Películas/Persepolis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Persepolis"
+            }
+          },
+          {
+            "id": "6f61a48dcf6df69b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b5f5bddebfbb11e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Humanismo/Audiovisual/Películas/Persepolis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Persepolis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "40a60de2972ea2b3",
+  "lastOpenFiles": [
+    "Opinión/L'Horta de València com a Patrimoni de la Humanitat i Reserva de la Biosfera.md",
+    "Opinión/La Albufera de Valencia com a ecosistema al llarg de la Història.md",
+    "Opinión/La luz nocturna contamina.md",
+    "Opinión/La virtud.md",
+    "Opinión/Mar Menor.md",
+    "Opinión/Marine biodiversity protection in Europe.md",
+    "Opinión/No valoramos el Paisaje.md",
+    "Opinión/Oligarquía sufragista - ausencia de democracia real.md",
+    "Opinión/Protecció de l'Horta de València.md",
+    "Opinión/Reservas marinas en el Atlántico español!.md",
+    "Opinión/USA and MEAs.md",
+    "Opinión/Ansiedad.md",
+    "Just One Humankind.md",
+    "Consulta Natura.md",
+    "Divulgación/Terra/Cloris i les flors.md",
+    "Divulgación/Terra/De Cloris al floriment de la vida - flors, coevolució i prosperitat.md",
+    "Divulgación/Terra/De Cloris al florecimiento de la vida; flores, coevolución y prosperidad.md",
+    "Divulgación/Terra/Centre per a la Investigació i l’Experimentació Forestal de la Comunitat Valenciana (CIEF).md",
+    "Divulgación/Terra/Antonio José de Cavanilles.md",
+    "Divulgación/Terra/10 boniques plantes mediterrànees rel·lacionades amb els déus (grecs) per a cultivar a casa.md",
+    "Chess.md",
+    "Organizador de ideas, consultor ambiental independiente.md",
+    "Memorias Hispanas.md",
+    "Just One Planet.md",
+    "Divulgación/Just One World/Real Pokémons (taxonomy)/Reptiles Pokémons/Pokémons - Reptiles.md",
+    "Pokémon.md",
+    "Visual/vulnerabilidad-acuifero-zona-estudio.png",
+    "Visual/vias-comunicacion-puertos-comerciales-castellon-valencia-leyenda.png",
+    "Visual/vias-comunicacion-puertos-comerciales-castellon-valencia.png",
+    "Visual/velocidad-media-mar-abierto-zona-estudio-distrito-industrial-castellon.png",
+    "Visual/velocidades-media-litoral-zona-estudio-distrito-industrial-castellon-total.png",
+    "Visual/variacion-formula.png",
+    "Visual/usos-suelo-provincia-castellon-leyenda-3.png",
+    "Visual/usos-suelo-provincia-castellon-leyenda-2.png",
+    "Visual/usos-suelo-provincia-castellon-leyenda-1.png",
+    "Visual/usos-suelo-provincia-castellon.png",
+    "Exposición/Hispanismo/Periodos",
+    "Exposición/Hispanismo/Cultura",
+    "Exposición/Hispanismo/X. OTROS",
+    "Exposición/Hispanismo/Personas",
+    "Exposición/Otros/Ficción/La Capadocia/Apoyo/Lugares",
+    "Exposición/Otros/Ficción/La Capadocia/Apoyo/Pueblos y civilizaciones",
+    "Exposición/Otros/Ficción/El enemigo/Apoyo/Salud mental",
+    "Exposición/Otros/Ficción/El enemigo/Apoyo",
+    "Exposición/Otros/Ficción/Helicón musophilae/Apoyo",
+    "Exposición/Otros/Ficción/Louloutte, Claudette/Apoyo",
+    "Reflexiones/Untitled.canvas",
+    "Oposición/Untitled.canvas"
+  ]
+}

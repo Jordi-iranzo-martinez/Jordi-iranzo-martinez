@@ -1,0 +1,2 @@
+
+Sydney es un periodista del "The New York Times" enviado a Camboya en 1972 como corresponsal de guerra. Alli el nativo Dith Pran le sirve de guía e intérprete. En 1975, al caer el gobierno camboyano, los EE.UU. se retiran del país, y toda la familia de Pran emigra a Norteamérica excepto él, que decide quedarse con el periodista para seguir ayudándole. Ambos viven refugiados en la embajada francesa, pero cuando los extranjeros deciden abandonar Camboya, el ejército revolucionario prohíbe salir del país a Pran... (FILMAFFINITY)
