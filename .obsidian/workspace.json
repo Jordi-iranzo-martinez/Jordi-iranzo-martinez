@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e731b189adf31f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certificados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Certificados"
-            }
-          },
-          {
-            "id": "0c1021697ec5f0ff",
+            "id": "40a60de2972ea2b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,77 +22,35 @@
             }
           },
           {
-            "id": "40a60de2972ea2b3",
+            "id": "f613fcf2f0097a7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certificados.md",
+                "file": "Divulgación/Replicabilidad Low Carbon Feed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificados"
+              "title": "Replicabilidad Low Carbon Feed"
             }
           },
           {
-            "id": "fc06bbd31435cec5",
+            "id": "4960aa20115eaefe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Just One Humankind.md",
+                "file": "Divulgación/Just One Humankind/Der Wanderer über dem Nebelmeer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Just One Humankind"
-            }
-          },
-          {
-            "id": "79eddb9ddd2dd6b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Just One Humankind.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Just One Humankind"
-            }
-          },
-          {
-            "id": "0a0e6e0c776b1cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divulgación/Just One World/Real Pokémons (taxonomy)/Reptiles Pokémons/Pokémons - Reptiles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pokémons - Reptiles"
-            }
-          },
-          {
-            "id": "8fd511d892f9a32b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Divulgación/Just One Humankind/Pokémons/Pokémon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pokémon"
+              "title": "Der Wanderer über dem Nebelmeer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.1000061035156
   },
   "right": {
     "id": "2b45d3288793e148",
@@ -256,54 +200,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "40a60de2972ea2b3",
+  "active": "f613fcf2f0097a7e",
   "lastOpenFiles": [
-    "Divulgación/Just One Planet/Pasted image 20250211204416.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204655.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204534.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204551.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204558.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204634.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204756.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204719.png",
-    "Divulgación/Just One Planet/Pasted image 20250211205139.png",
-    "Divulgación/Just One Planet/Pasted image 20250211205022.png",
-    "Divulgación/Just One Planet/Pasted image 20250211204937.png",
-    "Divulgación/Just One Planet/The Selfish Gene.md",
-    "Divulgación/Just One Planet/The Origin of Species.md",
-    "Divulgación/Just One Planet/The Ecosystem Approach.md",
-    "Divulgación/Just One Planet/Small Is Beautiful.md",
-    "Divulgación/Just One Planet/Silent Spring.md",
-    "Divulgación/Just One Planet/Real animals and plants that seem or could inspire Pokémons!.md",
-    "Divulgación/Just One Planet/Microcosmos (1996).md",
-    "Divulgación/Just One Planet/Le cauchemar de Darwin (2004).md",
-    "Divulgación/Just One Planet/Jaws (1975).md",
-    "Divulgación/Just One Planet/Ice Age.md",
-    "Divulgación/Just One Planet/Gaia.md",
-    "Divulgación/Just One Planet/Fallout 1 (1998).md",
-    "Divulgación/Just One Planet/Contra Natura.md",
-    "Divulgación/Just One Planet/Black Hole.md",
-    "Divulgación/Just One Planet/Ants.md",
-    "Divulgación/Just One Planet/'Alien' (1979).md",
-    "Divulgación/Just One Planet/A Bug's Life.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Reptiles Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Reptiles Pokémons/Pokémons - Reptiles.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Amphibians Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Amphibians Pokémons/Can you guess the Pokémon¿ - Amphibians Edition.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Plants Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Plants Pokémons/Real Pokémon! - Plants Species Edition.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Marine invertebrates Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Dinosaurs and Ancient Creatures/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Marine invertebrates Pokémons/Real Pokémon! - Marine Invertebrates Species Edition.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Land insects & Arthropods Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Land insects & Arthropods Pokémons/Real Pokémon! - Land bugs.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Mammals Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Mammals Pokémons/Real Pokémon! - Mammals that Inspire them (I).md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Giant mammals! Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Giant mammals! Pokémons/Real Pokémon! - Quaternarian Era Species Edition.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Fungi Pokémons/Fungi Pokémons.md",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Fishes Pokémons/Visual support",
-    "Divulgación/Just One Planet/Real Pokémons (taxonomy)/Birds Pokémons/Visual support",
+    "Estudios.md",
+    "Divulgación/Replicabilidad Low Carbon Feed.md",
+    "Estudios/TFG Contaminación industria cerámica.md",
+    "Estudios/TFG contaminación industria cerámica Castellón.md",
+    "Consulta Natura.md",
+    "Chess.md",
+    "Certificados.md",
+    "Divulgación/Just One Humankind/Der Wanderer über dem Nebelmeer.md",
+    "Divulgación/Just One Humankind/Pokémons/Pokémons.md",
+    "Memorias Hispanas.md",
+    "Just One Humankind.md",
+    "Divulgación/Just One Humankind/Afghan Girl.md",
+    "Divulgación/Just One Humankind/Aguirre der Zorn Gottes.md",
+    "Divulgación/Just One Humankind/Aladdin (1992).md",
+    "Divulgación/Just One Humankind/Alatriste (2006).md",
+    "Divulgación/Just One Humankind/Alexander Nevsky (1938).md",
+    "Divulgación/Just One Humankind/All Quiet on the Western Front (1930).md",
+    "Divulgación/Just One Humankind/All the President's Men (1976).md",
+    "Divulgación/Just One Humankind/Also sprach Zarathustra.md",
+    "Divulgación/Just One Humankind/Amadeus (1984).md",
+    "Divulgación/Just One Humankind/An Essay on the Principle of Population.md",
+    "Divulgación/Just One Humankind/Andrei Rublev (1966).md",
+    "Divulgación/Just One Humankind/Angkor Wat.md",
+    "Divulgación/Just One Humankind/Another Day of Life (2018).md",
+    "Divulgación/Just One Humankind/Apocalypse Now (1979).md",
+    "Divulgación/Just One Humankind/Apocalypsis Now.md",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702134126.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702134104.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702133941.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702133228.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702133835.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702133143.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702133136.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250702133127.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/f72a2d14-a9cf-4b4d-b0d2-c4b5f88dc497.png",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support/Pasted image 20250627143219.png",
+    "Divulgación/Just One Planet/Pokémon/Reptiles Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Amphibians Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Plants Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Marine invertebrates Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Dinosaurs and Ancient Creatures/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Land insects & Arthropods Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Mammals Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Giant mammals! Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Fishes Pokémons/Visual support",
+    "Divulgación/Just One Planet/Pokémon/Birds Pokémons/Visual support",
     "Reflexiones/Untitled.canvas",
     "Oposición/Untitled.canvas"
   ]
