@@ -56,10 +56,10 @@
 ### Fotografías
 
 - [[Miliciana]]
-- [[Muerte de un miliciano]]
+- [[Loyalist Militiaman at the Moment of Death, Cerro Muriano (1936)]]
 - [[La proclamación de la Segunda República]]
 - [[23-F]]
-- [[Che Guevara]]
+- [[Guerillero Heroico (1960)]]
 
 
 ### Arquitectura y patrimonio
