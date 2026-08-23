@@ -1,3 +1,0 @@
-
-Greta Thumberg is 
-

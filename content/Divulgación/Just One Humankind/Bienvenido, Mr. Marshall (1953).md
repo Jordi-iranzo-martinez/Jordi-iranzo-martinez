@@ -1,2 +1,0 @@
-
-Años 50. Villar del Río es un pequeño y tranquilo pueblo en el que nunca pasa nada. Sin embargo, el mismo día en que llegan la cantante folclórica Carmen Vargas y su representante, el alcalde (Pepe Isbert) recibe la noticia de la inminente visita de un comité del Plan Marshall (proyecto económico americano para la reconstrucción de Europa). La novedad provoca un gran revuelo entre la gente, que se dispone a ofrecer a los americanos un recibimiento muy especial. (FILMAFFINITY)

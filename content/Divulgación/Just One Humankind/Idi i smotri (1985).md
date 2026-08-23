@@ -1,2 +1,0 @@
-
-Película de encargo para celebrar el 40 aniversario de la victoria aliada en la Segunda Guerra Mundial. Relata, a través de los ojos de un niño progresivamente endurecido por el sufrimiento, la matanza sistemática de los habitantes de las aldeas bielorrusas, más de 600, durante la guerra. (FILMAFFINITY)
