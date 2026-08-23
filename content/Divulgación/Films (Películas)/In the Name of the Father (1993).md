@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Belfast, años 70. Gerry (Day-Lewis) es un gamberro que no hace nada de provecho, para disgusto de su padre Giuseppe (Postlethwaite), un hombre tranquilo y educado. Cuando Gerry se enfrenta al IRA, su padre lo manda a Inglaterra. Una vez allí, por caprichos del azar, es acusado de participar en un atentado terrorista y condenado a cadena perpetua con "los cuatro de Guildford". También su padre es arrestado y encarcelado. En prisión Gerry descubre que la aparente fragilidad de su padre esconde en realidad una gran fuerza interior. Con la ayuda de una abogada entregada a la causa (Thompson), Gerry se propone demostrar su inocencia, limpiar el nombre de su padre y hacer pública la verdad sobre uno de los más lamentables errores legales de la historia reciente de Reino Unido. (FILMAFFINITY)

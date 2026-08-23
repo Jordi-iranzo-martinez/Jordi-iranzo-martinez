@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Narra la conmovedora historia de una niña iraní desde la revolución islámica hasta nuestros días. Cuando los fundamentalistas toman el poder, forzando a las mujeres a llevar velo y encarcelando a miles de personas, y mientras tiene lugar la guerra entre Irak e Irán, Marjane descubre el punk, ABBA y Iron Maiden. Cuando llega a la adolescencia sus padres la envían a Europa, donde conoce otra cultura que nada tiene que ver con la de su país. La protagonista se adapta bien a su nueva vida, pero no soporta la soledad y vuelve con su familia, aunque eso signifique ponerse el velo y someterse a una sociedad tiránica. Voces originales en francés de Catherine Deneuve y Chiara Mastroianni. (FILMAFFINITY)

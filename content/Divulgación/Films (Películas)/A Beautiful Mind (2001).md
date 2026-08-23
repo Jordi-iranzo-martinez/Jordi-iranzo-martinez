@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Life
+---
 
 Obsesionado con la búsqueda de una idea matemática original, el brillante estudiante 
 

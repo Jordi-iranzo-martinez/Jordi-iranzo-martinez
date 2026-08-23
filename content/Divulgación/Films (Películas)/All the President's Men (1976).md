@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 En 1972, dos jóvenes periodistas del diario The Washington Post, Bob Woodward (Robert Redford) y Carl Bernstein (Dustin Hoffman), comienzan a investigar lo que parece ser un simple allanamiento del cuartel general del Partido Demócrata en Washington. Sus descubrimientos desencadenan el llamado 'caso Watergate', que provocó la dimisión del presidente Richard Nixon.
 

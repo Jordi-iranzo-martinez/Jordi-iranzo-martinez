@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Returning back home, MADRE, the central computer Nostromo's nave de carga has discovered life signals of in an inhospit planet. 
 

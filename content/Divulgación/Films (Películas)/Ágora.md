@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 En el siglo IV, Egipto era una provincia del Imperio Romano. La ciudad más importante, Alejandría, se había convertido en el último baluarte de la cultura frente a un mundo en crisis, dominado por la confusión y la violencia. En el año 391, hordas de fanáticos se ensañaron con la legendaria biblioteca de Alejandría. Atrapada tras sus muros, la brillante astrónoma Hypatia (Rachel Weisz), filósofa y atea, lucha por salvar la sabiduría del mundo antiguo, sin percibir que su joven esclavo Davo se debate entre el amor que le profesa en secreto y la libertad que podría alcanzar uniéndose al imparable ascenso del Cristianismo.
 

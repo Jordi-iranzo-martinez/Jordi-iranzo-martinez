@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra
+---
 El [Centre per a la Investigació i l’Experimentació Forestal de la Comunitat Valenciana](https://mediambient.gva.es/va/web/cief) (CIEF) és la institució de Generalitat Valenciana per a __
 
 Va ser creat pel [Decret 19/2005](https://dogv.gva.es/auto/dogv/docvpub/rlgv/2005/D_2005_019_va_D_2005_043.pdf), i té les instal·lacions a Mas de les Fites (Quart de Poblet, València), en una àrea d'unes 10 hectàrees. Els vivers forestals s'integren com a centres associats.

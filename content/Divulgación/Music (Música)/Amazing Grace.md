@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 "Amazing Grace" es uno de los himnos más famosos del mundo anglosajón, y tiene una historia de fondo excepcionalmente potente para un gancho de divulgación.
 

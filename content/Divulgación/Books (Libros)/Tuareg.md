@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Los tuareg son un pueblo distinto de etnia bereber, originario del Sáhara central y occidental (Malí, Níger, Argelia, Libia, Burkina Faso).
 

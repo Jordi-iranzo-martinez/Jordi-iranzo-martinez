@@ -1,3 +1,6 @@
+---
+tags:
+---
 
 The Domestic Pig (_Sus scrofa domesticus_) is a highly intelligent mammal that was introduced to Pacific islands by Polynesian settlers. These omnivores quickly adapted to island life and became important sources of protein for island communities.
 

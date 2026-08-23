@@ -1,3 +1,8 @@
+---
+tags:
+  - Memorias_Hispanas
+  - Just_One_Humankind
+---
 
 La primera gran novela moderna, con una ironía y complejidad narrativa asombrosamente adelantada a su tiempo (juega con la idea de "novela dentro de la novela", personajes que saben que son personajes de un libro en la segunda parte, múltiples narradores no fiables).
 

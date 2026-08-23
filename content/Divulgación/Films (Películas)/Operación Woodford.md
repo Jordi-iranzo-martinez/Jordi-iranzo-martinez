@@ -1,3 +1,8 @@
+---
+tags:
+  - Consulta_Natura
+  - Terra
+---
 
 La "Operación Woodford" fue una intervención de la empresa pública [Sociedad de Salvamento y Seguridad Marítima](https://www.salvamentomaritimo.es/) (SASEMAR) ("Salvamento Marítimo") (Ministerio de Fomento) que evitó un grave desastre ecológico por hidrocarburos en la costa de Castellón (Comunidad Valenciana).
 

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 Siento que es una bellísima persona. Noto que mi cerebro deriva pensamientos hacia ella, entiendo que incrementando su atractivo para no seguir opositando. 
 

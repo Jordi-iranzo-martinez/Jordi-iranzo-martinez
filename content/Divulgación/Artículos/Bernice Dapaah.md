@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 **The founder of 'The Ghana Bamboo Bikes Initiative'**
 
 Bernice Dapaah is a Ghanaian social entrepreneur who is the founder and chief executive officer of the Ghana Bamboo Bike Initiative in Kumasi.

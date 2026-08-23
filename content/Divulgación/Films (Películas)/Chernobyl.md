@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Planet
+---
 
 During the 26 th April of 1986, the Nuclear Central of Chernóbil (Ucraine, URSS) had a massive explosion that released radioactive material.
 

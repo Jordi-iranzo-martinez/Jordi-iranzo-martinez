@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Dinosaurs (means in Greek "terrible lizard") were a specific group of reptiles that lived on land, had upright leg posture (legs directly under their bodies). They include both herbivores and carnivores. They ranged from tiny feathered species to massive long-necked giants, and birds are their direct descendants.
 

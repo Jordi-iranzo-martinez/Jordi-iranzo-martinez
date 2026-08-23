@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Planet
+  - Just_One_Humankind
+---
 
 *Jurassic Park is the story about a dinosaur zoological park by cloning its DNA from mosquitos fossilized in amber...*
 

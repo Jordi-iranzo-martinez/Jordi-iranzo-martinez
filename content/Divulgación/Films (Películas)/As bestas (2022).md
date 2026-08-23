@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 Antoine y Olga son una pareja francesa que se instaló hace tiempo en una aldea del interior de Galicia. Allí llevan una vida tranquila, aunque su convivencia con los lugareños no es tan idílica como desearían. Un conflicto con sus vecinos, los hermanos Anta, hará que la tensión crezca en la aldea hasta alcanzar un punto de no retorno.
 

@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Siglo XIII. Relato épico sobre el príncipe Alexander Nevsky, que defendió victoriosamente el norte de Rusia del ataque de los teutones: la batalla se libró sobre la superficie helada del lago Peipus. También tuvo que hacer frente a la invasión de Rusia por el ejército mongol dirigido por Gengis Khan. (FILMAFFINITY)

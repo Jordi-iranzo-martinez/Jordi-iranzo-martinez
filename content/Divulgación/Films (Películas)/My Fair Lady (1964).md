@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 My Fair Lady is based on the homonimous play by G.B. Shaw, which is also based in the Greek myth Pigmalion, about an sculpturist which falls in love by its own art...
 

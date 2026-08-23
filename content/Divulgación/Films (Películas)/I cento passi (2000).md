@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Sicilia, años 50. Cinisi es un pueblo de la provincia de Palermo, conocido por el aeropuerto de Punta Raisi, que los jefes de la mafia local utilizan para sus negocios. Aquí vive el pequeño Peppino Impastato, a cien pasos de la casa del boss Tano Badalamenti, con el que su familia mantiene una estrecha relación, marcada por la ley del silencio. Peppino agobia a su padre con continuas preguntas acerca de la actividad del mafioso, pero a cambio sólo obtiene silencio. En 1968, ya adolescente, comparte los ideales sociales y políticos de su generación y participa en una manifestación contra la ampliación del aeropuerto, que les quitaría las tierras a los campesinos. En los años siguientes, funda un periódico local y una emisora independiente ("Radio Out") en la que se mofa de la mafia y de los que la protegen, llegando a suscitar la ira de Badalamenti (Tano Seduto) y la reprobación de su familia. Al aumentar su popularidad, el valiente Impastato atrae la atención del Partido Comunista, que se pone en contacto con él para conseguir su apoyo. Sin embargo, la excesiva cautela del partido no convence a Peppino, que lleva adelante sus iniciativas siguiendo una línea independiente. (FILMAFFINITY)

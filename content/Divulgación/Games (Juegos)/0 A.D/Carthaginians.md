@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 El **Batallón Sagrado de Cartago** (también conocido como la _Legión Sagrada_ o la _Banda de Baal_) fue la **unidad militar de élite más famosa y exclusiva del Imperio Cartaginés**.
 

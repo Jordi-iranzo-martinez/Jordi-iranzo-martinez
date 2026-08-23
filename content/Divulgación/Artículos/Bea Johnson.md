@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 **The 'mother' of the Zero Waste Movement**
 
 Bea Johnson is a French activist known worldwide as a pioneer of the "Zero Waste" movement by her blog [Zero Waste Home](https://zerowastehome.com/).

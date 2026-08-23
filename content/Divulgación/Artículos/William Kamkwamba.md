@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 William Kamkwamba (1987) is an engineer and inventor from Malawi that self-taugh himself to build a windmill from scrap materials to bring electricity and water to his village. 
 
 When he was 14, a famine affected the region. His family had to survive with only one meal per day, and he could not attend school because of unpaid fees. 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra
+---
 L'Horta de València és un enclau molt rellevant l'àmbit mundial i clau per la identitat valenciana tal i com la coneixem: els ingredients de la paella, les taronges, l'orxata, el tratje de fallera que deriva del de llauradora de l'Horta, alguns dels cuadres de Sorolla, les novel·les costumbristes de Blasco Ibáñez com *la Barraca*... 
 
 ![[Pasted image 20250617131945.png]]

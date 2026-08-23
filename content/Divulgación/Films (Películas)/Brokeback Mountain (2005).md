@@ -1,2 +1,10 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
-Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.
+Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes.´´
+
+
+[[Untitled (Cowboy) (1989)]]
+

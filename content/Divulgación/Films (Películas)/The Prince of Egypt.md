@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 En el antiguo Egipto, hace miles de años, el faraón Seti ordena la muerte de todos los recién nacidos judíos. Una madre, desesperada, coloca a su hijo en una cesta y la deposita en el Nilo. Las aguas la conducen río abajo hasta la orilla donde la hallará la reina. El niño era Moisés y fue educado como hermano de Ramsés, el heredero del trono. Sin embargo, cuando, años después, se descubra el origen hebreo de Moisés, los hermanos se distanciarán
 

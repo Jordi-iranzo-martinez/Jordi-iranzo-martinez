@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 **Favio Chávez & The Cateura Recycled Orchestra**
 **From waste to music**
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 
 ![[{B09294CA-C01D-4FE4-A9D3-9D84EBE464F2}.png]]

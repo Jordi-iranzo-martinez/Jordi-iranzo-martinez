@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio (Somalia) en una misión de paz de las Naciones Unidas, pero su principal objetivo es capturar al caudillo Aidid y acabar de raíz con la guerra. La misión se complica cuando dos helicópteros Black Hawk son derribados. Entonces lo único que importa es rescatar a los soldados que han quedado atrapados o han resultado heridos en el accidente.
 

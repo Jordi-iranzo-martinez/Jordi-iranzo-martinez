@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 *When resources are degraded, we start competing for them. [...] So one way to promote peace is to promote sustainable management and equitable distribution of resources.*  
 

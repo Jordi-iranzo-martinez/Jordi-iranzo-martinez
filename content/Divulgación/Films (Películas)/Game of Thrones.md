@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 _Juego de Tronos_ (_Game of Thrones_) es el gancho perfecto para la divulgación histórica, porque George R.R. Martin usó la historia real como un mapa en bruto para construir Poniente y Essos.
 

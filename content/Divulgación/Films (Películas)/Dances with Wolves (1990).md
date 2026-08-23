@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Tras la Guerra de Secesión (1861-1865) y en plena colonización del Oeste (1785-1890), el desencantado teniente John J. Dunbar se dirige a un lejano puesto fronterizo que ha sido abandonado por los soldados. Su soledad lo impulsa a entrar en contacto con los indios sioux; así es como conoce a "En pie con el puño en alto", una mujer blanca que fue adoptada por la tribu cuando era niña. Poco a poco, entre Dunbar y los sioux se establece una relación de respeto y admiración mutua. (FILMAFFINITY)
 

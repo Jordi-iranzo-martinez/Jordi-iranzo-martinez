@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 En el norte de la Península Ibérica se levanta una gran cordillera de más de 400 Km. como si se tratara de una gran muralla paralela a la costa del Mar Cantábrico. En su otra cara, la cordillera Cantábrica está repleta de cañones y bosques. Gracias a la influencia del mar y las elevadas precipitaciones, se ha originado una amplia vegetación en los bosques, y es el lugar perfecto para esconder un gran número de animales y otras formas de vida que conviven desde tiempos remotos. Pero sobre todo, es el territorio de una de las criaturas más impresionantes del hemisferio norte: el oso pardo cantábrico. Es el reino de los bosques, de los caballos salvajes, la tierra donde los lobos ibéricos se esconden tras la niebla, y el lugar donde la fantasía y la realidad caminan juntas.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Life
+---
 
 
 Melvin Udall (Jack Nicholson), un escritor maniático que padece un trastorno obsesivo-compulsivo, es el ser más desagradable y desagradecido que uno pueda tener como vecino en Nueva York. Entre sus rutinas está la de comer todos los días en una cafetería, donde le sirve Carol Connelly (Helen Hunt), camarera y madre soltera. Simon Nye (Greg Kinnear), un artista gay que vive en el apartamento contiguo al de Melvin, sufre constantemente su homofobia. De repente, un buen día, Melvin tiene que hacerse cargo de un pequeño perro aunque detesta los animales. La compañía del animal contribuirá a suavizar su carácter. (FILMAFFINITY)

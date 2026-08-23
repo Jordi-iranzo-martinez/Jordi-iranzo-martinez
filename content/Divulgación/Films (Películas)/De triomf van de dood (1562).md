@@ -1,3 +1,0 @@
-
-Pieter Bruegel de Oude,
-

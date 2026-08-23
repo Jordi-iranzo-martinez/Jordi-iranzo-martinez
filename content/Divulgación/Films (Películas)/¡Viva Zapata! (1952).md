@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 Biografía de Emiliano Zapata (1879-1919), famoso revolucionario mexicano que sublevó a todo el país contra el gobierno dictatorial del Presidente Porfirio Díaz. Kazan intenta mostrar cómo los líderes revolucionarios se corrompen en cuanto alcanzan el poder. El guión lo firma nada menos que el escritor John Steinbeck ("Las uvas de la ira", "Al este del edén").
 
 Emiliano Zapata Salazar was a 
