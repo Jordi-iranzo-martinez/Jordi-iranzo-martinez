@@ -1,7 +1,3 @@
----
-date: 1222-12-12
-lang: e
----
 
 
 - [[毛主席語錄 (Libro rojo de Mao)]]
