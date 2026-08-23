@@ -1,4 +1,3 @@
-
 Hola. Me llamo Jordi. He estudiado Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación en las siguientes materias:
 
 - **Derecho administrativo**
@@ -20,5 +19,3 @@ Fluido en castellano, valenciano, e inglés. Competente en francés, italiano y 
 Con experiencia en el sector privado y público.
 
 **Contacto**: [jordi.im@proton.me](mailto:jordi.im@proton.me)
-
-
