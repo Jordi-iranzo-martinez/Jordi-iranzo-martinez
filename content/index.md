@@ -1,4 +1,4 @@
-![Jordi Iranzo Martínez](https://jordiiranzomartinez.com/Visual/Jordi-Iranzo-Martinez.jpg)
+![Jordi Iranzo Martínez](https://jordiiranzomartinez.com/content/Visual/Jordi-Iranzo-Martinez.jpg)
 
 Hola:
 
