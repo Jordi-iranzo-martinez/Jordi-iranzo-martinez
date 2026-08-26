@@ -1,0 +1,1 @@
+![[Los borrachos, o El triunfo de Baco(2).jpg]]

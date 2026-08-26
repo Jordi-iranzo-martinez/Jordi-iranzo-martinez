@@ -14,7 +14,7 @@ In chaturanga, the queen was the _mantri_ (general or counselor) and moved only 
 
 Persia picked it up next, renaming it shatranj. *Shah mat* means "the king is helpless/dead" in Persian (that is were "check" and "checkmate" come from) When the Arabs conquered Persia in the 7th century, they adopted shatranj and carried it across the Islamic world, from current Portugal to Central Asia. From there it spread into Europe (via Muslim Spain and Byzantine trade routes) by around the 9th–10th centuries.
 
-When it reached Europe, the word _firzān_ got garbled into Latin as _fers_ or _fierge_, and around the 15th century Europeans reimagined the piece as the queen (probably influenced by the rise of powerful female monarchs: Isabella of Castile: [[Doña Isabel la Católica dictando su testamento]]) and the general medieval fondness for royal court pairs (king a queen).
+When it reached Europe, the word _firzān_ got garbled into Latin as _fers_ or _fierge_, and around the 15th century Europeans reimagined the piece as the queen (probably influenced by the rise of powerful female monarchs: Isabella of Castile: [[Doña Isabel la Católica dictando su testamento (184)]]) and the general medieval fondness for royal court pairs (king a queen).
 
 Its move went from the weakest piece on the board to the **strongest**, gliding freely in any direction. This is the change that earned the new ruleset the nickname _scacchi de la donna_ ("Mad Queen chess") when it emerged in Italy and Spain.
 

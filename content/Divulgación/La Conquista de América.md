@@ -12,32 +12,12 @@
 
 
 
-
-
-![[Hernán Cortés camino a Tenochtitlán, 1519 (Augusto Ferrer-Dalmau).png]]
-
-
-
-
-![[Pasted image 20250213230825.png]]
-
-
-
-
-![[Pasted image 20250213230747.png]]
-
-![[Pasted image 20250213224921.png]]
-alonso-de-ojeda
-
-
-
-
-![[Pasted image 20250213224659.png]]
 "La entrada de Hernán Cortés en México" - Augusto Ferrer-Dalmau
 «Era cosa de maravillar porque jamás habían visto caballos ni hombres como nosotros. Vimos cosas tan admirables, no sabíamos qué nos decir», relata el cronista Bernal Díaz del Castillo, uno de los hombres que acompañó a Cortés durante la Conquista de México (1519-1521), cuando describe brevemente cómo fue el momento que recoge «La llegada». Y es que la fotografía que propone Ferrer-Dalmau alberga multitud de detalles que captan la mezcla de fascinación, curiosidad y tensión cuando centenares de españoles llegaron a la ciudad en la que Cortés se reunió con el emperador Moctezuma. (Adrian Espallargas, para ABC).
 «Cortés es un hombre que entra en una ciudad desconocida. No sabe qué va a pasar y entra con unos aliados que desconocían hasta hace dos días. Camina sin perder la compostura, no desafiante. Es una persona serena ante la situación», explica Ferrer-Dalmau.
 
 
+![[Imprisonment of Guatimocín, last emperor of the Mexicans, by the troops of Hernán Cortés, and his presentation to the latter in the plaza of Mexico.jpg]]
 
 
 ![[Pasted image 20250213222401.png]]

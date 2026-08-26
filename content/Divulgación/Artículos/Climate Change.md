@@ -847,7 +847,7 @@ The UNFCCC was adopted in 1992. Its goal is to stabilize greenhouse gas concentr
 **All Parties have to submit reports containing an inventory of emissions** **(by sources)** **and removals** **(by sinks)****.** **Annex I Parties have to provide besires information on the policies and measures adopted and their net effect. Also on the support for developing country parties.**
 
 
-**Annex I Parties** include the most developed countries: the [[European Union]] and all its members, UK, USA, Australia, Japan, Norway, Switzerland, Russia, Ukraine, Turkey, New Zealand, Canada...
+**Annex I Parties** include the most developed countries: the [[content/Divulgación/Artículos/European Union]] and all its members, UK, USA, Australia, Japan, Norway, Switzerland, Russia, Ukraine, Turkey, New Zealand, Canada...
 
 **Annex II** Parties should pay the cost for developing nations. They are basically the Annex I Parties minus Russia, Czecoslovaquia, and Ukraine.
 

@@ -2,7 +2,8 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Pasted image 20260820233515.png]]
+
+![[Las lanzas o La rendición de Breda.jpg]]
 
 
 

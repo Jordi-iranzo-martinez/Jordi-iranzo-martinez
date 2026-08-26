@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 El patrimonio geológico permite conocer el origen y la evolución de la Tierra y de la vida. Los procesos que han sucedido en la historia del planeta, y los diferentes climas y paisajes. En España existen más de 4050 Lugares de Interés Geológico (LIG). De ellos, 2823 lo son a nivel nacional, 946 a nivel regional y 281 a nivel mundial. Como Geositios de la UNESCO.
 
@@ -145,31 +149,72 @@ España cuenta con un total de 252, que se pueden consultar en mayor detalle en 
 
 21. **Complejos ofiolíticos de la Península Ibérica**: fragmentos de antigua corteza oceánica y manto superior preservados en las zonas internas de los orógenos varisco y alpino, que atestiguan la existencia de océanos desaparecidos y procesos de subducción.
 
+
+Global Geosites es un proyecto internacional impulsado a finales de los años 90 por la UNESCO y la Unión Internacional de Ciencias Geológicas (IUGS), con el copatrocinio también de ProGEO (la Asociación Europea para la Conservación del Patrimonio Geológico). Nació en 1995 para inventariar y seleccionar eventos, áreas y características de aspecto global que sean fundamentales para comprender la historia geológica de la Tierra.
+
+Crear un catálogo mundial de lugares de interés geológico que representen los procesos y eventos más relevantes en la evolución de la Tierra, sirviendo como base científica de referencia internacional en geoconservación. El interés de estos sitios puede ser tectónico, paleontológico, estratigráfico, metalogénico, petrológico, geoquímico o geomorfológico.
+
+El inventario español, a cargo del Instituto Geológico y Minero de España (IGME) en colaboración con la Sociedad Geológica de España, consta de 144 lugares de relevancia internacional, agrupados en 21 contextos geológicos.
+
+- El IGME comenzó en 1999 el encargo de realizar el inventario de los Global Geosites españoles, formando un equipo multidisciplinar.
+- Entre 2001 y 2007, un equipo de 44 especialistas procedentes de distintas instituciones seleccionó y describió los 144 lugares que mejor representaban aquellos contextos.
+- En el proyecto participaron el IGME y otras 20 instituciones científicas ligadas a las Ciencias de la Tierra.
+- A fecha de enero de 2011, España contaba con 144 Global Geosites con 215 puntos de interés, ya que algunos se dividen en varios enclaves.
+
+Aquí hay un dato interesante (y algo preocupante): pese a que el marco legal es idóneo para su protección, apenas un tercio de estos enclaves está incluido en espacios protegidos, según un estudio de 2012. Esto significa que muchos geosites de relevancia mundial carecen de una figura de protección formal como parque natural o reserva.
+
 ![[Geoparques de España.jpg]]
 Global Geosites de España. Fuente: [Instituto Geológico y Minero de España](https://web.igme.es/patrimonio/GlobalGeosites.htm) (IGME)
 
-## Los Geoparques
+
+### Geoparques
+
+Los Geoparques
+
+Un territorio con gestión que integra patrimonio geológico, natural y cultural
+
+Un Geoparque puede contener uno o varios Global Geosites dentro de su territorio, pero no es un requisito obligatorio. Son sistemas complementarios: el geosite identifica _qué_ es valioso geológicamente, mientras que el geoparque es _cómo_ se gestiona y aprovecha ese patrimonio a nivel territorial, incluyendo componentes culturales, turísticos y de desarrollo local que van más allá de la ciencia pura.
 
 Además de ellos, existen los [Geoparques Mundiales de la UNESCO](https://www.unesco.org/es/iggp/geoparks/about). Son territorios con patrimonio geológico notable, gestionados mediante un proyecto integrado de conservación, educación y desarrollo sostenible basado en la promoción del geoturismo y con objetivos claros de desarrollo socioeconómico y cultural local. Existen un total de 229 en 50 países diferentes ([verlos todos](https://www.unesco.org/en/iggp/geoparks?hub=67817#full-list-of-unesco-global-geoparks)).
 
 España es el segundo país del mundo con mayor número de geoparques, con un total de 18, solo después de China (49). En concreto corresponden a los siguientes: 
+
+España cuenta actualmente con quince Geoparques Mundiales UNESCO:
+
 - **[Maestrazgo](https://geoparques.es/portfolio_page/maestrazgo/)** (Aragón-Comunidad Valenciana): paisajes kársticos y fósiles del Mesozoico en el Sistema Ibérico.
+
 - [**Cabo de Gata-Níjar](https://geoparques.es/portfolio_page/cabo-de-gata-nijar/)** (Andalucía): vulcanismo neógeno y cuaternario, y ecosistemas semiáridos costeros mediterráneos.
+
 - **[Sobrarbe-Pirineos](https://geoparques.es/portfolio_page/sobrarbe-pirineos/)** (Aragón): geología pirenaica con pliegues, fallas y fósiles marinos en alta montaña.
+
 - **[Sierras Subbéticas](https://geoparques.es/portfolio_page/sierras-subbeticas/)** (Andalucía): relieves kársticos y fósiles jurásicos en el sur de Córdoba.
+
 - **[Costa Vasca](https://geoparques.es/portfolio_page/costa-vasca/)** (País Vasco): flysch y fenómenos geológicos costeros del Cretácico y Paleógeno.
+
 - [**Sierra Norte de Sevilla](https://geoparques.es/portfolio_page/sierra-norte-de-sevilla/)** (Andalucía): geología paleozoica de Sierra Morena con fósiles y mineralizaciones.
+
 - [**Villuercas-Ibores-Jara](https://geoparques.es/portfolio_page/villuercas-ibores-jara/)** (Extremadura): relieves apalachianos y registros geológicos de 580 millones de años.
+
 - **[Cataluña Central](https://geoparques.es/portfolio_page/cataluna-central/)** (Cataluña): cuencas sedimentarias y estructuras geológicas del Paleógeno.
+
 - [**Cabo Ortegal](https://geoparques.es/portfolio_page/cabo-ortegal/)** (Galicia): complejos metamórficos y rocas de las profundidades terrestres.
+
 - [**Molina Alto-Tajo](https://geoparques.es/portfolio_page/molina-alto-tajo/)** (Castilla-La Mancha): cañones fluviales y formaciones mesozoicas en el Sistema Ibérico.
+
 - **[El Hierro](https://geoparques.es/portfolio_page/isla-de-el-hierro/)** (Canarias): vulcanismo oceánico y evolución geológica insular.
+
 - [**Lanzarote y Archipiélago Chinijo](https://geoparques.es/portfolio_page/lanzarote-y-archipielago-chinijo/)** (Canarias): vulcanismo histórico y paisajes volcánicos únicos.
+
 - [**Las Loras](https://geoparques.es/portfolio_page/las-loras/)** (Castilla y León-Cantabria): páramos calizos y fenómenos kársticos en la Cordillera Cantábrica.
+
 - [**Orígens](https://geoparques.es/portfolio_page/origens/)** (Cataluña): registros geológicos del Paleozoico y estructuras hercinianas.
+
 - [**Montañas Do Courel](https://geoparques.es/portfolio_page/montanas-do-courel/)** (Galicia): geología paleozoica y paisajes de montaña media gallega.
+
 - **[Geoparque de Granada](https://geoparques.es/portfolio_page/geoparque-de-granada/)** (Andalucía): erosión diferencial, badlands, y paisajes semiáridos del sureste peninsular.
+
 - [**Volcanes de Calatrava](https://geoparques.es/portfolio_page/volcanes-calatrava/)** (Castilla-La Mancha): vulcanismo continental y 500 millones de años de historia geológica.
+
 - **[Costa Quebrada](https://geoparques.es/portfolio_page/costa-quebrada/)** (Cantabria): acantilados, rasas marinas y fenómenos kársticos costeros.
 
 
@@ -204,7 +249,11 @@ Mapa tectonico de España 2016
 
 
 
-El [Inventario Español de Lugares de Interés Geológico](http://info.igme.es/ielig/) (IELIG)
+El [Inventario Español de Lugares de Interés Geológico](http://info.igme.es/ielig/) (IELIG) es la base de datos oficial que reúne todo el patrimonio geológico de España, gestionada por el IGME (Instituto Geológico y Minero de España, hoy integrado en el CSIC).
+
+
+
+
 
 Los [Mapas del IGME](https://info.igme.es/cartografiadigital/geologica/Default.aspx)
 
@@ -220,11 +269,16 @@ La [Sociedad Geológica de España](https://sociedadgeologica.org/)
 
 El [Instituto Geológico y Minero de España](https://www.igme.es) (IGME)
 
+
  La [Sociedad Española de Paleontología](http://sepaleontologia.es/)
+
 
 La [Sociedad Española para la Defensa del Patrimonio Geológico y Minero](http://www.sedpgym.es/) (SEDPGYM)
 
+
 La [Red académica y de Investigación española](https://www.rediris.es) (RedIRIS): [patrimonio geológico](https://www.rediris.es/list/info/patrigeo.html)?
+
+
 
 
 La [Asociación Española para la Enseñanza de las Ciencias de la Tierra](https://www.aepect.org/) (AEPECT) es 

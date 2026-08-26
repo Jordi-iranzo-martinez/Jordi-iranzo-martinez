@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-
+![[Fusilamiento de Torrijos y sus compañeros en las playas de Málaga.jpg]]
 
 
 
