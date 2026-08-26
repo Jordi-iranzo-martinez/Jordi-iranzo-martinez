@@ -3,7 +3,6 @@ tags:
   - Just_One_Planet
   - Just_One_Humankind
 ---
-
 *Maybe* / *You'll think of me, when you are all alone* / *Maybe, the one who is waiting for you* / *Will prove untrue* / *Then what will you do?* // *Maybe, you'll sit and sigh* / *Wishing that I were near* / *Then, maybe you'll ask me to come back again* / *And maybe* / *I'll say, "maybe."*
 
 ***War. War never changes...*** 

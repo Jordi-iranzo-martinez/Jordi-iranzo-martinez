@@ -8,8 +8,3 @@
 El joven se enfadó con el Tiempo:
 
 — Mira lo que has hecho con mis padres.
-
-
-### III
-
-—Así enamoré a tu abuela, niño, no va a ser por guapo.

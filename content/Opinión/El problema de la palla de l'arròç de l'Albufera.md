@@ -16,6 +16,11 @@ El repte principal és trobar un equilibri entre les necessitats econòmiques de
 
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mFZJUCnmBXs?si=NxFYeo7T4oE6wVl9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gVFCHSVKH8c?si=FQxpcZOMPCAEHaKh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 En la Ley 7/2022 aparece lo siguiente: 

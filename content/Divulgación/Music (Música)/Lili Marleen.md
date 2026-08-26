@@ -1,0 +1,10 @@
+
+„Lili Marleen" ist eines der berühmtesten Lieder des 20. Jahrhunderts und gilt als eines der bekanntesten Kriegslieder überhaupt – bemerkenswerterweise, weil es auf **beiden Seiten** des Zweiten Weltkriegs populär wurde.
+
+Der Text stammt von **Hans Leip**, einem deutschen Soldaten und späteren Schriftsteller, der ihn bereits 1915, während des Ersten Weltkriegs, als Gedicht verfasste. Die heute bekannte Melodie komponierte **Norbert Schultze** im Jahr 1938. Berühmt wurde das Lied vor allem durch die Interpretation der Sängerin **Lale Andersen**, die es 1939 aufnahm.
+
+Der entscheidende Moment kam 1941, als der deutsche Soldatensender Radio Belgrad das Lied regelmäßig ausstrahlte, um die deutschen Truppen in Nordafrika und anderen Frontabschnitten zu erreichen. Das Lied wurde zu einem enormen Hit unter den deutschen Soldaten – aber auch alliierte Truppen, insbesondere britische und später amerikanische Soldaten, hörten das Signal mit und liebten die Melodie ebenso, obwohl sie kein Deutsch verstanden. Das Lied überschritt also faktisch die Frontlinien.
+
+Das Lied wurde in zahlreiche Sprachen übersetzt, unter anderem ins Englische, Französische und Italienische. Besonders bekannt wurde die englische Version, interpretiert von Marlene Dietrich, die als deutsche Emigrantin und überzeugte Gegnerin des NS-Regimes das Lied für die alliierten Truppen sang – eine interessante Ironie, da ein ursprünglich unpolitisches, melancholisches Liebeslied so zu einem Symbol wurde, das über ideologische Grenzen hinweg beide Seiten des Krieges emotional berührte.
+
+Interessanterweise ist der Text selbst völlig unpolitisch – er handelt von der Sehnsucht eines Soldaten nach seiner Geliebten, die er sich vor der Kaserne unter einer Laterne vorstellt. Gerade diese universelle, menschliche Sehnsucht nach Heimat und Liebe – unabhängig von Nationalität oder Ideologie – wird oft als Grund für die einzigartige Popularität des Liedes auf allen Seiten des Konflikts genannt.

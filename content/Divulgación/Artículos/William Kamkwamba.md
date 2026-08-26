@@ -6,7 +6,11 @@ William Kamkwamba (1987) is an engineer and inventor from Malawi that self-taugh
 
 When he was 14, a famine affected the region. His family had to survive with only one meal per day, and he could not attend school because of unpaid fees. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/339804420?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Energy Leader - William Kamkwamba"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/william_kamkwamba_how_i_harnessed_the_wind" width="1024px" height="576px" title="How I harnessed the wind" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen webkitallowfullscreen mozallowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
+
+
+
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/william_kamkwamba_how_i_built_a_windmill" width="1024px" height="576px" title="How I built a windmill" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen webkitallowfullscreen mozallowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
 
 
 However, he continued learning on his own by visiting the local library. There he discovered a book called "Using Energy" (in English, a language he didn't fully understand) with a windmill on it. 

@@ -5,9 +5,15 @@ He is based in New Mexico.
 
 he propo a "radically sustainable living"
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=-DCPfUIQ0_4N8NUG&amp;list=PL9CkD6QgOJ3PuZcYpKYDXhKOOBPE7SeKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Over the decades, Reynolds has built over 1,000 Earthships in more than 40 countries, including the United States, Haiti, Spain, and the Andaman Islands.
 
 His work has been featured in various media outlets, including CNN, BBC, and The Colbert Report . 
+
+https://earthship.com/
+
+
 
 
 The documentary [_Garbage Warrior_](http://www.garbagewarrior.com/) (2007), directed by Oliver Hodge, chronicles his efforts to challenge building codes and promote sustainable living .

@@ -1,5 +1,14 @@
 
-Pa
+„Panzerlied" ist ein bekanntes deutsches Marschlied, das eng mit der Panzerwaffe verbunden ist.
+
+Das Lied wurde 1933 von Oberleutnant Kurt Wiehle komponiert und getextet, ursprünglich für die neu aufgestellten motorisierten Verbände der Reichswehr, aus denen später die Panzertruppe der Wehrmacht hervorging. Die Melodie soll auf ein älteres Volkslied bzw. Seemannslied zurückgehen.
+
+Das Lied wurde offizielles Traditionslied der deutschen Panzertruppe während der NS-Zeit und war während des Zweiten Weltkriegs bei den deutschen Panzerdivisionen weit verbreitet. Es diente der Stärkung des Korpsgeistes und der soldatischen Identität dieser damals neuartigen und als besonders modern geltenden Waffengattung.
+
+Nach dem Krieg wurde das Lied – ohne die im Original teils vorhandenen, direkt NS-ideologisch gefärbten Strophen bzw. in überarbeiteter Form – von der neu gegründeten Bundeswehr übernommen und dort lange Zeit als Traditionslied der Panzertruppe gepflegt. Diese Übernahme ist bis heute Gegenstand kritischer Diskussion, da sie exemplarisch für die schwierige Frage steht, wie die Bundeswehr mit musikalischen und symbolischen Traditionen aus der Wehrmachtszeit umgeht. Die NATO-Streitkräfte, insbesondere manche verbündete Panzereinheiten, kennen ebenfalls Adaptionen der Melodie.
+
+In den letzten Jahren hat die Bundeswehr im Zuge einer kritischeren Auseinandersetzung mit ihrer Traditionspflege die offizielle Verwendung solcher Lieder zunehmend hinterfragt beziehungsweise eingeschränkt.
+
 
 
 ### Origen

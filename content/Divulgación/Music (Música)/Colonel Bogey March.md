@@ -1,4 +1,15 @@
 
+*"Colonel Bogey March" is one of the most famous and instantly recognizable military marches in the English-speaking world, composed in 1914.*
+
+The march was composed by Lieutenant F.J. Ricketts, a British Army bandmaster who wrote under the pseudonym Kenneth J. Alford (military regulations of the time discouraged officers from publishing music commercially under their own names). According to the popular story behind its composition, Ricketts got the idea for the melody's distinctive opening whistled two-note motif from a military golfer who, instead of shouting "fore!" as a warning, would whistle those two descending notes — referencing the golfing term "bogey" (a score of one over par).
+
+The march has a distinctive, jaunty whistled or piccolo melody that made it especially memorable and easy for soldiers and civilians alike to pick up, whistle, or hum, contributing enormously to its lasting popularity.
+
+The march became closely associated with British military tradition throughout the 20th century and was widely used by British and Commonwealth armed forces.
+
+The march achieved massive, lasting international fame through its prominent use in the 1957 film "[[The Bridge on the River Kwai (1957)]]", directed by David Lean, where it's whistled by British POWs marching into a Japanese prison camp. This usage is by far the march's best-known cultural association today, to the point where many people know the tune primarily from the film rather than from its military origins. In the film, the melody was also famously combined with a irreverent, mocking parody lyric that had circulated informally among British soldiers since World War II (making fun of Hitler and other Nazi leaders), though the film itself uses only the whistled melody rather than sung lyrics.
+
+The march remains a staple of British military band repertoire and is instantly recognizable in popular culture worldwide, largely thanks to its film association, even among people with no particular connection to British military history.
 
 
 
