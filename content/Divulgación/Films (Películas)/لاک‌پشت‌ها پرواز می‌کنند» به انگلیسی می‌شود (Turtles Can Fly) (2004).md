@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Los habitantes de un campo de refugiados el Kurdistán iraquí buscan desesperadamente una antena parabólica para poder estar informados del inminente ataque americano contra Irak. Los niños del campamento, liderados por un chico al que llaman "Satélite", se dedican a la recogida y venta de minas antipersona. Nuevos refugiados llegan al lugar: un joven mutilado, su hermana y un niño pequeño. Satélite quedará prendado de la triste belleza de la joven.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 A través de una iniciativa legislativa popular, el Mar Menor adquirió personalidad jurídica, con los derechos de protección y restauración
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 Un residuo es cualquier sustancia u objeto sin valor en el mercado que el poseedor tiene intención de desechar. A diferencia de este, un subproducto es aquel derivado de un proceso productivo que no se considera residuos. Tiene una utilidad sin transformación previa, y no genera perjuicios.
 

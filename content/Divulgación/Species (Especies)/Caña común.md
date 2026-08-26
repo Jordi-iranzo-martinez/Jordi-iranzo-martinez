@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 La caña común (!) (*Arundo donax*) es una de las más peligrosas especies exóticas invasoras (aquellas que provienen de otras regiones y amenazan la biodiversidad del lugar donde se asientan) del planeta.
 
