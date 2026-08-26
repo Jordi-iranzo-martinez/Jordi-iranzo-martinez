@@ -1,6 +1,9 @@
 ---
 title: Consultor ambiental independiente
+subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 ---
+![[Jordi-Iranzo-Martinez.jpg]]
+
 Hola:
 
 Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea en las siguientes áreas clave:
@@ -12,7 +15,7 @@ Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingenier
 
 Cuento con más de 160 [Certificados](https://jordiiranzomartinez.com/Certificados) de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google. Tengo experiencia en el sector público privado.
 
-Ofrezco los siguietes servicios:
+Ofrezco los siguientes servicios:
 
 - **Asesoría Técnica**: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal…
 - **Gestiones Administrativas**: tramitación de expedientes, licencias, representación ante organismos públicos.
