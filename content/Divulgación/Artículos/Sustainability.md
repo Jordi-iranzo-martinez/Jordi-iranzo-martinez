@@ -9,6 +9,10 @@ The [IUCN Global Standard for Nature-based Solutions](https://portals.iucn.org/l
 ![[MkbQzo6h_oQOuEM2_Jvsak_egpQUMoYFz 1.png]]
 
 
+<iframe width="560" height="315" src="https://youtu.be/9GorqroigqM?si=XKw-8G7RWn4Zc_XJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 # Nature-based solutions
 

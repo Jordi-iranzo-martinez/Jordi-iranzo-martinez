@@ -6,15 +6,6 @@ Los residuos orgánicos domiciliarios son los principales, con aproximadamente l
 
 El reciclaje de estos residuos es relativamente fácil y con una tasa de conversión muy elevada (pensemos en la naturaleza donde la materia orgánica se recicla desde hace millones de años)
 
-
-
-
-
-
-![[Compost maduro.png]]
-*Compost maduro*
-*Fuente: ChatGPT*
-
 Para ello utiliza microorganismos que básicamente se alimentan de los restos 
 
 El compostaje es un sistema de tratamiento de los biorresiduos o residuos orgánicos (restos de poda o de jardines), que en el ámbito doméstico (viviendas, hostelería, parques...) llegan al 40-50% del total.

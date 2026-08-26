@@ -1,0 +1,2 @@
+
+San Francisco, enero de 1960. Frank Lee Morris (Eastwood), un preso muy inteligente que se ha fugado de varias prisiones, es trasladado a Alcatraz, cárcel de máxima seguridad situada en una isla rocosa en medio de la Bahía de San Francisco. A pesar de que nadie ha conseguido nunca evadirse de allí, Frank y otros reclusos empiezan a preparar minuciosamente un plan de fuga. (FILMAFFINITY)
