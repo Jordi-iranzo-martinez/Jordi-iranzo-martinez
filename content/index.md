@@ -6,6 +6,10 @@ subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposi
      alt="Jordi Iranzo Martínez" 
      width="240">
 
+![](jordi-iranzo-martinez)
+
+![[{7BAD6B24-A3C2-4BD4-A44A-AB8E844AE5B1}.png]]
+
 Hola:
 
 Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea:
