@@ -22,7 +22,7 @@ Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingenier
 - **Calidad ambiental**
 - **Cambio climático**
 
-Cuento con más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google. Tengo experiencia en el sector público privado.
+Cuento con más de 160 [[content/Divulgación/Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google. Tengo experiencia en el sector público privado.
 
 Ofrezco los siguientes servicios:
 
