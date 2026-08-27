@@ -3,8 +3,7 @@ tags:
   - Just_One_Humankind
   - Just_One_Planet
 ---
-
-![[Pasted image 20260821013834.png]]
+![[Pasted image 20260827153246.png]]
 
 
 "Earthrise" is one of the most famous photographs ever taken — a color image of Earth rising above the lunar horizon, taken during the Apollo 8 mission on December 24, 1968.

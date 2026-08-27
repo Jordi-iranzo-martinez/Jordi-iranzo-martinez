@@ -3,9 +3,6 @@
 
 Scientist estimate there are around 12 million different species on Earth, among the 
 
-<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/jonathan_foley_the_other_inconvenient_truth" width="1024px" height="576px" title="The other inconvenient truth" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen webkitallowfullscreen mozallowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
-
-
 
 https://www.seedvault.no/
 
@@ -343,5 +340,9 @@ Catalyze investments in R&D and create win-win opportunities for users and provi
 Government has two key responsibilities: 
 1. Put in place clear and transparent rules, requirements and procedures for accessing their genetic resources
 2. Take measures to ensure fair and equitable sharing of the results of R&D
+
+
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/e_o_wilson_my_wish_build_the_encyclopedia_of_life" width="1024px" height="576px" title="My wish: Build the Encyclopedia of Life" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen webkitallowfullscreen mozallowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
+
 
 # Conclusion

@@ -44,7 +44,6 @@ The documentary film [*Landfill Harmoniv*](http://landfillharmonicmovie.com) (20
 
 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/52129103?h=17bc3b271c" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 
 [Sonidos de la Tierra](https://sonidosdelatierra.org.py/) ("World Sounds" in Spanish), to export the project in order to defend teenagers and young people from extreme poverty in Paraguay.

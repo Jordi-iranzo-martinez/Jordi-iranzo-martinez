@@ -8,6 +8,8 @@ Bea Johnson is a French activist known worldwide as a pioneer of the "Zero Waste
 
 Bea Johnson is a French-American author and speaker, widely recognized as one of the pioneering and most influential figures in the modern **"zero waste"** lifestyle movement.
 
+- [Two adults, two kids, zero waste](https://youtu.be/CSUmo-40pqA?si=hYm5TIFROuUL2ivP)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSUmo-40pqA?si=SKvehzMPOXTRDdlT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -28,6 +30,8 @@ The book became an international bestseller and has been translated into multipl
 Beyond the book, Johnson has become a sought-after public speaker on sustainability and waste reduction, giving talks (including a well-known TEDx talk) and consulting with individuals, businesses, and even municipalities on reducing waste.
 
 
+- [Zero waste is not recycling more, but less](https://youtu.be/kWnsmzSSgdI?si=oVKcEDCDPt2uAAvc)
+- 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kWnsmzSSgdI?si=zHqVwHc20scMQrFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -75,10 +79,6 @@ El sitio oficial menciona que su trabajo ha inspirado no solo a particulares, si
 
 
 [Going Zero Waste](https://www.goingzerowaste.com/)
-
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pF72px2R3Hg?si=epWyiwIOQHP-iW7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
