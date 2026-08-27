@@ -8,14 +8,16 @@ subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposi
 
 Hola:
 
-Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea en las siguientes áreas clave:
+Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea:
 
 - **Derecho administrativo** (solo nacional)
 - **Patrimonio natural**
 - **Calidad ambiental**
 - **Cambio climático**
 
-Cuento con más de 160 [[content/Divulgación/Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google. Tengo experiencia en el sector público privado.
+Cuento con más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google.
+
+Tengo experiencia en el sector público privado.
 
 Ofrezco los siguientes servicios:
 
