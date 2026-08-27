@@ -1,0 +1,4 @@
+
+![[{6C3E803C-2A1D-4CD2-BC96-FFF40ED41107}.png]]
+
+"La carga de los tres reyes," representa la icónica Batalla de las Navas de Tolosa. Los reyes de Castilla, Aragón y Navarra, montados en sus imponentes caballos, avanzan con determinación y coraje, empuñando sus armas y escudos heráldicos. A su alrededor, el caos y la violencia de la guerra son palpables, con soldados caídos y el polvo de la contienda alzándose. La imagen captura un momento crucial de valentía y liderazgo en medio del brutal enfrentamiento, simbolizando la decisiva victoria cristiana que marcó un punto de inflexión en la Reconquista.
