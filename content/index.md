@@ -2,16 +2,9 @@
 title: Consultor ambiental independiente
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 ---
-![asdasd]([/Visual/JordiiranzoMartinez])
-
-
----
 <img src="content/visual/Jordi-Iranzo-Martinez.jpg" 
      alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
      width="240">
-=======
-![Jordi Iranzo Martínez](https://jordiiranzomartinez.com/Visual/Jordi-Iranzo-Martinez.jpg)
->>>>>>> ff66b0b31557db499fb88b611d45c157af03e4cd
 
 Hola:
 
