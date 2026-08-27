@@ -1,14 +1,11 @@
 ---
 title: Consultor ambiental y redactor
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
+description:
 ---
 <img src="content/visual/Jordi-Iranzo-Martinez.jpg" 
      alt="Jordi Iranzo Martínez" 
      width="240">
-
-![](jordi-iranzo-martinez)
-
-![[{7BAD6B24-A3C2-4BD4-A44A-AB8E844AE5B1}.png]]
 
 Hola:
 
