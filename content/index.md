@@ -5,7 +5,7 @@ description:
 ---
 ![[Jordi-Iranzo-Martinez.jpg]]
 
-kHola:
+Hola:
 
 Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea:
 
