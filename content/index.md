@@ -3,7 +3,7 @@ title: Consultor ambiental y redactor
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 ---
 <img src="content/visual/Jordi-Iranzo-Martinez.jpg" 
-     alt="Jordi Iranzo Martínez, técnico de medio ambiente" 
+     alt="Jordi Iranzo Martínez" 
      width="240">
 
 Hola:
