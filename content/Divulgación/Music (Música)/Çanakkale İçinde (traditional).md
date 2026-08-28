@@ -1,0 +1,2 @@
+
+sobre la batalla de Galípoli (1915), una de las más sangrientas de la Primera Guerra Mundial, cantada desde el punto de vista de los jóvenes soldados turcos caídos. Buen ángulo: la misma batalla que en Australia/Nueva Zelanda dio origen al mito ANZAC tiene su propio duelo musical, casi desconocido fuera de Turquía, contado desde el otro bando.

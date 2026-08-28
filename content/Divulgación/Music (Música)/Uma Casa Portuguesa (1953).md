@@ -1,0 +1,1 @@
+Fondo real: pese a sonar como retrato humilde y entrañable de la vida rural portuguesa, la canción fue promovida activamente por el régimen de Salazar como propaganda de los valores tradicionales ("pobre pero honesto y feliz"). Buen ángulo sobre música y propaganda de dictaduras conservadoras (contraste con las canciones de resistencia que vimos en Francia/Chile).

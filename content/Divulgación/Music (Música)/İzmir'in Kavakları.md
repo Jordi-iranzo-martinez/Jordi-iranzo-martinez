@@ -1,0 +1,1 @@
+Fondo real: canción popular ligada a la Guerra de Independencia turca (1919-1923) y a la memoria del gran incendio de Esmirna de 1922, uno de los episodios más traumáticos y menos conocidos en Occidente del colapso del Imperio Otomano. Buen ángulo: música como memoria de una tragedia histórica poco divulgada fuera de Turquía y Grecia.
