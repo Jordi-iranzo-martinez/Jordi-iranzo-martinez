@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-Chess Most historians trace chess back to **India in the 6th century CE**, where a game called **chaturanga** ("four divisions (of the military)") was played. It represented infantry, cavalry, elephants, and chariots — the precursors to today's pawns, knights, bishops, and rooks.
+Chess Most historians trace chess back to **India in the 6th century CE**, where a game called chaturanga ("four divisions (of the military)") was played. It represented infantry, cavalry, elephants, and chariots — the precursors to today's pawns, knights, bishops, and rooks.
 
 - Infantry
 - Cavalry
