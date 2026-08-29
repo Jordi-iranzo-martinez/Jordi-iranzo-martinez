@@ -14,9 +14,6 @@ What if you could contribute to reforesting the world easily while searching the
 ![[attachments/ecosia-logo-green-search-engine.jpg]]
 Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/9186269?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ecosia: The green search"></iframe></div>
-*This is an initial promotion of Ecosia, the conditions have already improved!*
-
 The German company Ecosia GmbH was founded by economist Christian Kroll in 2009 during the UN climate talks in Copenhagen (COP 15). From the beginning, Kroll established two fundamental commitments: never sell Ecosia and never take profits out of it.
 
 ![[attachments/christian-kroll-ecosia-ceo-founder.jpg]]
@@ -77,3 +74,12 @@ So, ready to make a difference with every search?
 [Start planting trees with Ecosia today](https://www.ecosia.org/browser?referrer=friends-gst6k3) - it's completely free and takes just 2 minutes to set up.
 
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oNWJv0LR07M?si=Ke58ldwC91A3IkM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+[Ecosia's projects videos](https://www.youtube.com/watch?v=6dgJ7hYd2aU&list=PLVIr0a2TLf9vVMpbjDJIgh_JihPXC-rDf)
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6dgJ7hYd2aU?si=da46kw-w7CpxDuMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

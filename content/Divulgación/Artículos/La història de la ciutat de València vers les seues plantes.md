@@ -146,7 +146,7 @@ El Jardí Botànic de la Universitat de València. Font: [Jardí Botànic de la 
 
 [[Valorant l'Horta de Valencia]]
 [[Parcs i jardins de la ciudad de València]]
-[[Jardí Botànic UV]]
+[[Jardí Botànic de la Universitat de València]]
 [[Patrimoni arbrat monumental de la Comunitat Valenciana]]
 
 A més, València va ser també **un centre cultural i intel·lectual de gran rellevància**. És ací on es va publicar en 1495 el **primer manual modern d’escacs** imprés a Europa: _Scachs d'amor_, que introduïa la figura de la dama amb el moviment ampli que té hui —alguns estudiosos sostenen que va ser a València on es va inventar la “reina” moderna del joc, com a símbol d’una nova era.

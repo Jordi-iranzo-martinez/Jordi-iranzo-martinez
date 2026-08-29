@@ -10,3 +10,5 @@
 
 *Aquí, en fin, la cortesía, / el buen trato, la verdad, / la firmeza, la lealtad, / el honor, la bizarría, / el crédito, la opinión, / la constancia, la paciencia, / la humildad y la obediencia, / fama, honor y vida son / caudal de pobres soldados; / que en buena o mala fortuna / la milicia no es más que una / religión de hombres honrados*
 
+Calderón de la Barca
+
