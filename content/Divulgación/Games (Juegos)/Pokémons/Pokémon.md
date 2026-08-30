@@ -1,5 +1,0 @@
-
-
-
-- [[Pokémons - Plants & Fungi]]
-- 

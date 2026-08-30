@@ -142,7 +142,7 @@ Com apunt, tota l'àrea que no hi és al Lloc d'Importància Comunitària és pe
 
 Per altra banda, la Zona d'Especial Conservació per a les Aus (ZEPA) l'Albufera -que és més gran encara que el LIC- tampoc hi té cap pla conservació des del 1988 que es va declarar. I d'acord amb la fitxa de l'Agència Europea del Medi Ambient (EEA), actualizada a setembre del 2024, ni tan sols està en preparació. La Directiva Aus no obliga a un termini per a fer-lo, però és obligatori d'acord amb jurisprudència del Tribunal de Justícia de la UE.
 
-![[ZEPA l'Albufera.png]]
+![[albufera_zepa.png]]
 *Límit del Parc Natural de l'Albufera (en morat) i ZEPA L'Albufera (en groc)*
 *Font: [Visor de Cartografia de la GVA](https://visor.gva.es/visor/)*
 

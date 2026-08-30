@@ -19,30 +19,30 @@ En ellos se sugieren cuatro niveles de protección de los espacios:
 La ordenanza no ha sido actualizada con dicha información, manteniéndose en la actualidad los espacios del 2007 del proyecto europeo.
 
 
-![[propuesta-modificacion-ordenanza-proteccion-contaminacion-luminica-valencia-albufera-mapa-1.png]]
+![[valencia_cartografia-albufera-1.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 1). Fuente: elaboración propia.*
 
 
 
-![[propuesta-modificacion-ordenanza-proteccion-contaminacion-luminica-valencia-albufera-mapa-2.png]]
+![[albufera_modificacion-ordenanza-2.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 2). Fuente: elaboración propia.*
 
 
 
-![[propuesta-modificacion-ordenanza-proteccion-contaminacion-luminica-valencia-albufera-mapa-3.png]]
+![[albufera_ordenanza-3.png]]
 
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 3). Fuente: elaboración propia.*
 
 
-![[propuesta-modificacion-ordenanza-proteccion-contaminacion-luminica-valencia-albufera-mapa-4.png]]
+![[albufera_ordenanza-4.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 4). Fuente: elaboración propia.*
 
 
-![[propuesta-modificacion-ordenanza-proteccion-contaminacion-luminica-valencia-albufera-mapa-5.png]]
+![[albufera_ordenanza-5.png]]
 
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 5). Fuente: elaboración propia.*
 
 
-![[propuesta-modificacion-ordenanza-proteccion-contaminacion-luminica-valencia-albufera-mapa-6.png]]
+![[albufera_ordenanza-67.png]]
 
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 6). Fuente: elaboración propia.*

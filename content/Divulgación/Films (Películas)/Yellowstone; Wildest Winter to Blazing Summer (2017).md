@@ -1,2 +1,0 @@
-
-Miniserie de TV (2017). 3 Episodios. Yellowstone es el hogar de algunos de los animales más icónicos de Norteamérica, como el oso grizzly, el lobo, el cárabo lapón, el castor o el bisonte, que cada año tienen que sobrevivir a un clima extremo cuando el deshielo transforma este tierra salvaje montañosa cubierta de nieve en un paraje abrasado por el sol. (FILMAFFINITY)

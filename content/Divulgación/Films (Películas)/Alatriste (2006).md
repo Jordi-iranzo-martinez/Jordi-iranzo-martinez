@@ -1,7 +1,0 @@
----
-tags:
-  - Memorias_Hispanas
----
-
-
-España Imperial, siglo XVII. Diego Alatriste, valeroso soldado al servicio de su majestad, combate en la guerra de Flandes. En una emboscada de los holandeses, Balboa, su amigo y compañero de armas, cae herido de muerte y le hace una petición que Alatriste promete cumplir: cuidar de su hijo Íñigo y alejarlo del oficio de las armas. Posteriormente, Alatriste, que malvive alquilando su espada, es contratado junto a otro mercenario, el italiano Gualterio Malatesta, para dar muerte a dos misteriosos personajes que viajan de incógnito a Madrid. (FILMAFFINITY)

@@ -1,3 +1,0 @@
-
-Ansiedad/angustia repentina
-

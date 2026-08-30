@@ -49,7 +49,7 @@ Importancia Internacional (Convenio Ramsar) (figura 3):
 
 A nivel político, tienen competencias administrativas en el Parque 13 municipios diferentes, si bien sus extensiones y cantidad de población son diferentes –de Norte a Sur–: València, Alfafar, Sedaví, Massanassa, Catarroja, Albal, Beniparrell, Silla, Sollana, Sueca, Algemesí, Albalat de la Ribera y Cullera (figura 4):
 
-![[situacion-demografica-parque-natural-albufera.png]]
+![[albufera_situacion-demografica-parque-natural-albufera.png]]
 
 *Figura 4. Términos municipales, límites administrativos y edificaciones dentro y alrededor del Parque Natural de l’Albufera
 Fuente: Institut Cartogràfic Valencià (ICV), Ministerio de Fomento, Bing, elaboración propia*
@@ -119,7 +119,7 @@ Finalmente, las zonas prioritarias de actuación las he elegido según la cantid
 
 Las mayores proporciones de caña común se encuentran en la región nororiental, así como en la región palustre de *l’Albufera* y las acequias al sur del lago, en especial en torno a *El Perellonet*, siendo casi inexistente en los extremos del Parque sur, oeste, y noroeste (figura 5).
 
-![[distribucion-arundo-donax-parque-natural-albufera-2019.png]]
+![[albufera_distribucion-arundo-donax2.png]]
 
 *Figura 5. Distribución a gran escala de la caña común (Arundo donax)*
 *Fuente: Institut Cartogràfic Valencià (ICV), Bing, elaboración propia*
@@ -128,7 +128,7 @@ Las mayores proporciones de caña común se encuentran en la región nororiental
 Estas concentraciones presentan una correlación respecto de las áreas edificadas rurales de baja población, como las zonas de Pinedo, el Saler y el Perellonet, abarcando éstas más de la mitad de la población total, así como de las principales acequias y canales –especialmente si se encuentran conectadas con los núcleos de población mencionados–
 (figura 6):
 
-![[factores-distribucion-arundo-donax-parque-natural-albufera-2019.png]]
+![[albufera_factores-distribucion-arundo-donax.png]]
 
 *Figura 6. Detalle de los factores de distribución de Arundo donax en el Parque Natural de l'Albufera*
 *Fuente: Institut Cartogràfic Valencià (ICV), elaboración propia*
@@ -157,12 +157,12 @@ m de ribera ocupada, y más de 115.000 m2 de superficie total. Sin embargo, la d
 | València             | 16.376,54    | 71.311,59       |
 | Total (L'Albufera)   | 29.672,18    | 117.061,21      |
 
-![[distribucion-arundo-donax-por-municipios-parque-natural-albufera-2019.png]]
+![[albufera_distribucion-arundo-municipios-2019.png]]
 *Figura 7. Distribución gráfica de la longitud (m) y superficie (m2) de Arundo donax en cada municipio comparada con la totalidad del Parque*
 *Fuente: elaboración propia*
 
 
-![[distribucion-porcentual-arundo-donax-municipios-principales-parque-natural-albufera-2019.png]]
+![[albufera_distribucion-arundo-donax-municipios.png]]
 
 
 *Figura 8. Distribución porcentual de la superficie de caña común (Arundo donax) en el Parque Natural de la Albufera a nivel municipal*
@@ -260,7 +260,7 @@ Como propuesta he realizado el mapa siguiente, diferenciando cinco zonas según 
 Considero las determinadas como “zonas principales” las regiones en las que ha de
 basarse inicialmente la erradicación.
 
-![[propuesta-zonificacion-gestion-arundo-donax-parque-natural-albufera.png]]
+![[albufera_propuesta-zonificacion.png]]
 
 *Figura 9. Propuesta marco de zonificación para la gestión de Arundo donax en el Parque Natural de l’Albufera*
 *Fuente: Institut Cartogràfic Valencià (ICV), Bing, elaboración propia*

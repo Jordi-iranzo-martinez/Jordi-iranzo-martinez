@@ -5,7 +5,7 @@ description:
 ---
 
 
-![[Jordi-Iranzo-Martinez.jpg]]
+![[jordi-iranzo-martinez.jpg]]
 
 Hola:
 

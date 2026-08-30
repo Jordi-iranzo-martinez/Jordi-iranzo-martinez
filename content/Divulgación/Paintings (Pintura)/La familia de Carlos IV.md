@@ -1,5 +1,0 @@
----
-tags:
-  - Memorias_Hispanas
----
-![[La familia de Carlos IV.jpg]]

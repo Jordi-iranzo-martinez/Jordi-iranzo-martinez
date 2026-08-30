@@ -1,6 +1,0 @@
----
-tags:
-  - Memorias_Hispanas
----
-
-Historia ambientada en la época del imperio maya. Cuando la idílica existencia de los mayas es brutalmente interrumpida por el ataque de una fuerza invasora, un hombre emprende un arriesgado viaje a un mundo regido por el miedo y la opresión en el que le espera un incierto final. Debido a un giro del destino y espoleado por el amor a su esposa y a su familia, emprenderá una desesperada carrera por preservar su forma de vida. (FILMAFFINITY)

@@ -1,1 +1,0 @@
-la lucha de Noruega por independizarse de Suecia (unión que se rompió en 1905); hoy solo se cantan las estrofas menos beligerantes. Buen ángulo sobre cómo los himnos "se editan" con el tiempo para suavizar tensiones históricas ya superadas.

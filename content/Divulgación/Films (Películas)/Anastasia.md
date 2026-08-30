@@ -1,6 +1,0 @@
----
-tags:
-  - Just_One_Humankind
----
-
-Cuando la sombra de la revolución se cierne sobre Rusia, Anastasia, la hija más joven de la familia real, apenas consigue escapar con vida. Años despúes conoce al joven Dimitri. Cuando se dirigen a París para reclamar los derechos del legado de Anastasia, se verán envueltos en una cruenta lucha contra el malvado monje Rasputín y su sicario, el murciélago Bartok. (FILMAFFINITY)

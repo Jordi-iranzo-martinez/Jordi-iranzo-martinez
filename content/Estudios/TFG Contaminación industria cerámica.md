@@ -128,7 +128,7 @@ La norma UNE-EN 14411:2007 establece para las baldosas cerámicas, una clasifica
 
 Las baldosas son placas finas utilizadas fundamentalmente para revestimiento. Pueden ser no esmaltadas (UGL) o esmaltadas (GL). Las baldosas no esmaltadas se someten a cocción única; las baldosas esmaltadas pueden tener una cocción única -la cubierta vitrificable se aplicará antes de la cocción- o doble -la cubierta vitrificable se aplicará entre las dos cocciones- (figura 2).
 
-![[esquema-general-fabricacion-baldosas-ceramicas.png]]
+![[tfg_esquema-general-fabricacion-baldosas-ceramicas.png]]
 
 *Figura 2. Esquema general de la fabricación de baldosas cerámicas*
 *Fuente: TilesofSpain.com*
@@ -145,7 +145,7 @@ Según las propiedades del producto final, se componen en azulejos, gres esmalta
 
 En general, todos los tipos gres se obtienen mediante la introducción de materias primas con óxidos alcalinos (arcillas, feldespatos…).
 
-![[composicion-gres-esmaltado.png]]
+![[tfg_composicion-gres-esmaltado.png]]
 ![[composicion-gres-porcelanico-esmaltado.png]]![[composicion-gres-porcelanico-no-esmaltado.png]]
 
 *Figura 4. Composición de los diferentes tipos de gres porcelánico esmaltado (% peso)* 
@@ -216,7 +216,7 @@ Por zonas geográficas (figura 8), aproximadamente el 45% se destina a Europa -e
 
 Respecto a las exportaciones por países (figura 9), el principal destino es Francia (15%), Arabia Saudí (11%), Reino Unido (10%), Estados Unidos y Argelia (9% cada uno). También destacan Israel (6%), Alemania, Italia y Rusia (5% cada uno), en menor medida Marruecos, Líbano y Jordania (4% cada uno) y finalmente Portugal, Polonia, Libia y Emiratos Árabes Unidos (3% cada uno).
 
-![[destino-exportaciones-ceramica-españa.png]]
+![[tfg_exportaciones-ceramica.png]]
 
 *Figura 9. Destino de las exportaciones de cerámica en España. Fuente: Instituto Valenciano de Competitividad Empresarial (IVACE), elaboración propia*
 
@@ -232,7 +232,7 @@ La industria cerámica supone un 0.13% del PIB nacional y representa un 1,3% del
 
 Actualmente, las empresas cerámicas constituyen el 17% aproximadamente del total de empresas de productos minerales no metálicos (figura 10). Su producción es superior a 4100 millones de m3, lo que constituyen un nivel de negocios superior a 4200 millones de euros, con un valor añadido en torno a los 1400 millones de euros.
 
-![[sector-minerales-no-metalicos-productos-ceramicos-españa.png]]
+![[tfg_sector-minerales-no-metalicos-productos-ceramicos-españa.png]]
 
 *Figura 10: Introducción económica del sector de minerales no metálicos y de productos cerámicos. Fuente: Instituto Nacional de Estadística (INE): Encuesta Industrial de Empresas, 2014*
 
@@ -251,7 +251,7 @@ Sin embargo, debido a la explosión de la burbuja inmobiliaria española, en el 
 
 Según los datos del Ministerio de Medio Ambiente, casi el 80% de las empresas españolas de fabricantes de baldosas, y aproximadamente el 94,5% de la producción nacional se encuentra en la Comunidad Valenciana, produciendo un total de 4,5 · 108 m2/año baldosas cerámicas y 9·105 Tm/año de fritas, esmaltes y pigmentos cerámicos.
 
-![[distribucion-porcentual-complejos-industriales-ceramicos-comunidades-autonomas-españa.png]]
+![[tfg_complejos-industriales-ccaa.png]]
 
 *Figura 12. Distribución porcentual de los complejos industriales cerámicos en cada Comunidad Autónoma Fuente: Registro Estatal de Emisiones y Fuentes Contaminantes-España*
 
@@ -269,7 +269,7 @@ Los productos cerámicos son el tercer grupo de productos valencianos más expor
 
 El 83% de las exportaciones corresponde a azulejos -baldosas esmaltadas- (ASCER).
 
-![[evolucion-ventas-ceramica-comunidad-valenciana.png]]
+![[tfg_evolucion-ventas.png]]
 
 *Figura 13. Evolución de las ventas en la Comunidad Valenciana. Fuente: Instituto Valenciano de Competitividad y Empleo (IVACE), elaboración propia*
 
@@ -341,7 +341,7 @@ Para el estudio de los vientos en Castellón, se ha dividido la provincia en cua
 
 La zona de mar abierto abarca todas las regiones marinas alejadas de la costa. La zona litoral corresponde a la zona más cercana a la línea de costa. La zona supralitoral corresponde a líneas más alejadas de la costa. Y finalmente, la región interior se encuentra alejada de la costa, a elevada altitud, y dominada por un clima continental.
 
-![[distribucion-geografica-litoral-cluster-castellon.png]]
+![[tfg_distribucion-agrupacion-industrial.png]]
 
 *Figura 16. Distribución geográfica en relación a la costa. Fuente: Cartoweb, elaboración propia*
 
@@ -383,11 +383,11 @@ Las estaciones de control de la contaminación de la Generalitat Valenciana en c
 
 *Tabla 5. Distribución de las estaciones de control de la calidad atmosférica según zonas geográficas y socioeconómicas Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia
 *
-![[distribuciones-estaciones-control-calidad-aire-rvvcca.png]]
+![[tfg-distribucion-estaciones-rvcca.png]]
 
 Los incrementos y decrecimientos de las concentraciones se han realizado mediante la expresión siguiente (ecuación 1):
 
-![[variacion-formula.png]]
+![[tfg_variacion-formula.png]]
 
 - *Xf: valor final*
 - *X0: valor inicial*
@@ -433,7 +433,7 @@ La caracterización de las etapas del proceso productivo está apoyada por un re
 
 En términos de geografía política (figura 18), la provincia de Castellón se compone de ocho comarcas -de Norte a Sur-: El Baix Maestrat, Els Ports, L’Alt Maestrat, La Plana Alta, L’Alcalatén, El Alto Mijares, La Plana Baixa y El Alto Palancia
 
-![[comarcas-provincia-castellon.png]]
+![[tfg_comarcas-castellon.png]]
 
 *Figura 18. Comarcas en la provincia de Castellón. Fuente: Cartoweb, elaboración propia*
 
@@ -459,7 +459,7 @@ Ello genera un planeamiento urbanístico (figura 21) que concentra la mayor part
 
 Los núcleos urbanos de elevada densidad se encuentran especialmente en el Sur, en la desembocadura del río Mijares -alrededor de Castelló de la Plana (Castelló de la Plana, Burriana, Benicàssim)-, y también en el norte, con Torreblanca, Vinarós y -especialmente- Peñíscola.
 
-![[planeamiento-urbanistico-provincia-castellon.png]]![[planeamiento-urbanistico-provincia-castellon-clasificacion.png]]![[planeamiento-urbanistico-provincia-castellon-calificacion.png]]
+![[tfg_planeamiento-urbanistico.png]]![[planeamiento-urbanistico-provincia-castellon-clasificacion.png]]![[planeamiento-urbanistico-provincia-castellon-calificacion.png]]
 
 *Figura 21. Planeamiento urbanístico en la provincia de Castellón.
 Fuente: Cartoweb, elaboración propia*
@@ -471,7 +471,7 @@ Predominan los arrozales en el centro y norte (amarillo), en el extremo norte y 
 
 Destaca además la presencia de una única zona industrial en las inmediaciones de la capital, Castelló de la Plana.
 
-![[usos-suelo-provincia-castellon.png]]
+![[tfg_usos-suelo2.png]]
 
 | ![[usos-suelo-provincia-castellon-leyenda-1.png]]<br> | ![[usos-suelo-provincia-castellon-leyenda-2.png]] | ![[usos-suelo-provincia-castellon-leyenda-3.png]] |
 | ----------------------------------------------------- | ------------------------------------------------- | ------------------------------------ |
@@ -483,7 +483,7 @@ Respecto a la economía (figura 23), ésta se basa en la región norte fundament
 
 Las instalaciones de gestión de residuos se sitúan próximas a las mayores concentraciones demográficas y a la agrupación de industrias minerales (figuras 23).
 
-![[instalaciones-ippc-provincia-castellon.png]]
+![[tfg_instalaciones-ipcc.png]]
 
 *Figura 23. Instalaciones IPCC de la provincia de Castellón. Fuente: Cartoweb, elaboración propia*
 
@@ -502,7 +502,7 @@ Además cuentan con el apoyo de diferentes asociaciones institucionales, entre l
 El área principal de dicho distrito abarca seis áreas municipales pertenecientes a tres comarcas diferentes (figura 24): Vila-Real, Onda (La Plana Baixa), L’Alcora (l’Alcalatén), Sant Joan de Moró, Castelló de la Plana y Almassora (La Plana Alta).
 
 ![[clasificacion-calificacion-area-estudio.png]]
-![[usos-suelo-area-estudio-clasificacion.png]]![[usos-suelo-area-estudio-calificacion.png]]
+![[usos-suelo-area-estudio-clasificacion.png]]![[tfg_usos-suelo-leyenda-clasificacion.png]]
 
 *Figura 24. Clasificación y calificación del área de estudio.
 Fuente: Terrasit, elaboración propia*
@@ -512,7 +512,7 @@ En concreto, la zona de la agrupación industrial (Figura 25) se trata de un ár
 
 La zona de estudio se compone fundamentalmente de frutales y matorrales esclerófilos. Los focos de emisión se encuentran en zonas industriales.
 
-![[usos-suelo-area-estudio.png]]
+![[tfg_usos-suelo.png]]
 ![[usos-suelo-area-estudio-leyenda.png]]
 
 *Figura 25. Usos del suelo del área de estudio.*
@@ -521,8 +521,8 @@ La zona de estudio se compone fundamentalmente de frutales y matorrales escleró
 
 A su vez, existen dos agrupaciones secundarias (figura 26) al norte y sur del distrito principal, localizadas en el norte con Villafamés y Vall d’Alba, y en el sur alrededor de la Vall d’Uixò y Betxí, así como una cierta concentración menor en Ribesalbes (noroeste de Onda). Para la representación gráfica de las principales instalaciones de todo el distrito industrial se han considerado aquellas que por sus características se incluyen en el Anexo I de la Ley 2/2006, de 5 de mayo, de Prevención de la Contaminación y Calidad Ambiental (IPPC). A nivel general:
 
-![[industrias-minerales-area-estudio.png]]
-![[industrias-minerales-area-estudio-leyenda.png]]
+![[tfg_industrias-minerales.png]]
+![[tfg_industrias-minerales-leyenda.png]]
 
 *Figura 26. Industrias minerales 3.g.
 Fuente: PRTR-España, elaboración propia*
@@ -538,7 +538,7 @@ En las estaciones de combustión, las de la zona industrial son “instalaciones
 
 Sin embargo, en Castelló de la Plana, las instalaciones son de refino y combustión de petróleo (Ley 5/2013).
 
-![[industrias-auxxiliares-area-estudio.png]]
+![[tfg_industrias-auxiliares.png]]
 
 *Figura 27. Industrias auxiliares según la ley IPCC en el Distrito Industral de Castellón (DIC)* 
 *Fuente: Cartoweb, elaboración propia*
@@ -554,7 +554,7 @@ Cuatro de estos parques naturales (áreas verdes) disponen de un Plan de Ordenac
 
 En mayor detalle, alrededor del Distrito Industrial de Castellón encontramos los Parques Naturales de Serra d’Espadà al suroeste, y el Paraje Natural del Desert de les Palmes al noreste, y más alejado y en la misma dirección, el Parque Natural Prat de Cabanes-Torreblanca (figura 29).
 
-![[espacios-naturales-protegidos-proximos-distrito-industrial-castellon.png]]
+![[tfg_espacios-naturales-protegidos.png]]
 
 *Figura 29. Espacios naturales protegidos próximos al Distrito Industrial de Castellón (DIC) Fuente: Cartoweb, elaboración propia*
 
@@ -562,7 +562,7 @@ La Sierra de Espadán y el Desierto de las Palmas lo conforman sierras de interi
 
 Es notorio destacar que el municipio de Onda -uno de los principales productores industriales en el Distrito Industrial de Castellón-, se encuentra dentro del límite que abarca el Plan de Ordenación de Recursos Naturales del Parque Natural de la Sierra de Espadán, en concreto en la zona de influencia antrópica (figura 30).
 
-![[industria-ceramica-ipcc-porn-sierra-espadan.png]]![[industria-ceramica-ipcc-porn-sierra-espadan-leyenda.png]]
+![[tfg_ceramica-ipcc-porn-sierra-espadan.png]]![[tfg_zonificacion-porn-espapda.png]]
 
 *Figura 30. Industria cerámica IPCC perteneciente al PORN de la Sierra de Espadá.
 Fuente: Cartoweb, elaboración propia*
@@ -571,19 +571,19 @@ Además, cuentan con varios espacios pertenecientes a la Red Natura 2000 -red ec
 
 La Red Natura amplía los espacios de los Parques Naturales y lo aumenta a otras áreas rurales de interior (norte) y litorales (extremo sureste).
 
-![[sitios-red-natura-2000-provincia-castellon.png]]![[sitios-red-natura-2000-provincia-castellon-leyenda.png]]
+![[tfg_sitios-red-natura-2000-provincia-castellon.png]]![[sitios-red-natura-2000-provincia-castellon-leyenda.png]]
 
 *Figura 31. Zonas vinculadas a la Red Natural 2000 en la provincia de Castellón.*
 *Fuente: Cartoweb, elaboración propia*
 
 Incluida en la Red Natura 2000 (figuras 32 y 33), destaca la protección de la desembocadura del río Mijares (figura 32), considerada como una zona húmeda por -Ley 11/1994, de 27 de Diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunidad Valenciana- y pertenece a la Red Natura 2000 desde su paso por la zona urbana de Almassora, como Lugar de Interés Comunitario (LIC) declarado Zona de Especial Conservación (ZEC) -Directiva 92/43/CEE, transpuesta mediante la Ley estatal 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y la Ley 11/1994, de 27 de diciembre, de la Generalitat, de Espacios Naturales Protegidos de la Comunidad Valenciana- y Red de Zonas de Especial Protección para las Aves (ZEPA), de la Comunidad Valenciana -acuerdo de 5 de junio de 2009, del Consell (DOCV 6031 de 9 de junio del 2009).
 
-![[sitios-red-natura-2000-proximos-distrito-industrial-castellon.png]]![[sitios-red-natura-2000-proximos-distrito-industrial-castellon-leyenda.png]]
+![[tfg_red-natura-2000.png]]![[sitios-red-natura-2000-proximos-distrito-industrial-castellon-leyenda.png]]
 
 
 *Figura 32. Delimitación de la Red Natura 2000 próxima al Distrito Industrial de Castellón (DIC). Fuente: Cartoweb, elaboración propia*
 
-![[red-natura-2000-desembocadura-mijares.png]]
+![[tfg_desembocadura-mijares.png]]
 
 *Figura 33. Desembocadura del Mijares, Red Natura 2000, detalle.*
 *Fuente: Cartoweb, elaboración propia*
@@ -597,7 +597,7 @@ Fuente: Cartoweb, elaboración propia*
 
 Las aguas de Castellón pertenecen a la cuenca hidrográfica del Júcar. En concreto, en general, todas las aguas se consideran naturales, excepto las que se localizan alrededor del Distrito Industrial de Castellón (DIC), las cuales están muy modificadas (Figura 35)
 
-![[categorias-naturalidad-masas-agua-superficiales-confederacion-hidrografica-jucar.png]]
+![[tfg_categorias-naturalidad-masas-agua-jucar.png]]
 
 *Figura 35. Categorías de naturalidad de las masas de agua superficiales en la Confederación Hidrográfica del Júcar. Fuente: Confederación Hidrográfica del Júcar (CHJ)*
 
@@ -622,7 +622,7 @@ Las principales características hidromorfológicas de dichas masas de agua qued
 
 La Rambla de la Viuda (figuras 38 y 39) se considera una masa de agua sin agua medible (SAM), y en la zona de estudio se compone de dos masas de agua diferenciadas: el primer tramo se encuentra entre el barranco de Cabanes y el embalse de Mª Cristina (10.12.01.04) (figura 39) y el segundo tramo comprende desde el embalse de Mª Cristina hasta la afluencia con el río Mijares (10.12.01.06).
 
-![[tramos-rambla-viuda-distrito-industrial-castellon.png]]
+![[tfg_tramos-rambla-viuda.png]]
 
 *Figura 38. Tramos de la Rambla de la Viuda en la zona de estudio.*
 *Fuente: Google Maps, elaboración propia*
@@ -649,7 +649,7 @@ Respecto a las aguas subterráneas, la zona industrial de Castellón está local
 
 En la mayor parte del área de estudio, dicho acuífero presenta una vulnerabilidad media (figura 42), pero es elevada en la zona alrededor de Onda y baja en L’Alcora.
 
-![[vulnerabilidad-acuifero-zona-estudio.png]]![[vulnerabilidad-acuifero-zona-estudio-leyenda.png]]
+![[tfg_vulnerabilidad-acuifero.png]]![[tfg_vulnerabilidad-acuifero-leyenda.png]]
 
 *Figura 42. Vulnerabilidad de acuífero en la zona de estudio.*
 *Fuente: Cartoweb, elaboración propia*
@@ -669,7 +669,7 @@ Esto se debe fundamentalmente al marcado descenso orográfico próximo a la cost
 
 Dicha sedimentación ha generado una zona muy rica en arcilla (figura 44): podemos encontrarlas junto con cantos y gravas –Almassora, Vila-Real, Burriana y la mayor parte de Castelló de la Plana, Onda y Nules (rosa oscuro) –, como conglomerados –Sant Joan de Moró y noreste de Onda (morado oscuro)-, como junto a areniscas –zonas de Vitavella (rosa claro) y oeste de Betxí– y limos –zona costera de Nules– (verde oscuro).
 
-![[litologia-zona-estudio-distrito-industrial-castellon.png]]
+![[tfg_litologia.png]]
 
 | ![[litologia-zona-estudio-distrito-industrial-castellon-leyenda-1.png]] | ![[litologia-zona-estudio-distrito-industrial-castellon-leyenda-2.png]] | ![[litologia-zona-estudio-distrito-industrial-castellon-leyenda-3.png]] |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------ |
@@ -691,7 +691,7 @@ Relacionado con la producción cerámica, destacan en la zona una elevada concen
 
 Además de esto, su proximidad respecto al puerto de Castellón y su relativa cercanía de Valencia (figura 46) supone una ventaja competitiva ya que favorece el intercambio comercial.
 
-![[vias-comunicacion-puertos-comerciales-castellon-valencia.png]]![[vias-comunicacion-puertos-comerciales-castellon-valencia-leyenda.png]]
+![[tfg_vias-comunicacion-puertos-comerciales.png]]![[tfg_vias-comunicacion-puertos-leyenda.png]]
 
 *Figura 46. Vías de comunicación y diferentes puertos comerciales entre Castellón y Valencia. Fuente: Cartoweb, elaboración propia*
 
@@ -955,7 +955,7 @@ En la Comunidad Valenciana, los datos para la industria de baldosas y azulejos (
 
 Además, mientras ha disminuido la cantidad de contaminantes vertidas al medio hídrico -especialmente entre 2007 y 2009-, se han incrementado considerablemente las emisiones atmosféricas, sobre todo en los últimos años, siendo las registradas en el 2013 superiores al doble de las registradas el año anterior.
 
-![[evolucion-contaminantes-totales-baldosas-ceramicas-azulejos-ipcc-comunidad-valenciana.png]]
+![[tfg_contaminantes-totales.png]]
 
 *Figura 52. Evolución de la masa de contaminantes totales de la industria de baldosas cerámicas y azulejos (CNAE 2009: 23.31) recogida en la legislación IPCC en la Comunidad Valenciana. Fuente: PRTR-España, elaboración propia*
 
@@ -974,7 +974,7 @@ En la única estación meteorológica de la zona de mar abierto (figuras 53 y 54
 *Figura 53. Rosa de los vientos de las frecuencias de velocidad media en la zona oceánica. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[velocidad-media-mar-abierto-zona-estudio-distrito-industrial-castellon.png]]
+![[tfg_velocidad-media-mar-abierto.png]]
 
 *Figura 54. Rosa de los vientos de las velocidades medias en la zona oceánica Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -991,31 +991,31 @@ En la zona alrededor de la ciudad de Castellón de la Plana (figuras 55 y 56) ex
 
 Las velocidades medias en esta zona (figura 57) siguen un patrón continuo, por el cual los mayores valores se encuentran en las regiones norte y sur, paralelas a la costa.
 
-![[velocidades-media-litoral-zona-estudio-distrito-industrial-castellon-total.png]]
+![[tfg_velocidades-medias-litoral2.png]]
 
 *Figura 57. Rosa de los vientos de las velocidades medias en la zona litoral. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
 En la zona supralitoral (figuras 58 y 59), destaca en la región septentrional una dirección fundamentalmente hacia el norte (tramontana) y nornoroeste (tramontana-mistral) y en menor medida hacia el sur (migjorn) y este sureste (levante-siroco). En la región central cercana la tenencia es también norte y sur.
 
-![[rosa-vientos-frecuencias-velocidad-media-zona-supralitoral-area-estudio-distrito-industrial-castellon.png]]
+![[tfg_rosa-vientos-frecuencias-velocidad-media-supralitoral.png]]
 
 *Figura 58. Rosa de los vientos de las frecuencias de velocidad media en la zona supralitoral. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[rosa-vientos-frecuencias-velocidad-media-estacion-sant-jordi.png]]
+![[tfg_rosa-vientos-sant-jordi-supralitoral.png]]
 
 *Figura 59. Rosa de los vientos de las frecuencias de velocidad media en la estación de Sant Jordi. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 En las áreas intermedias (figura 60), las velocidades medias más elevadas se encuentran en el norte, especialmente cercanas a la costa. En el interior la velocidad disminuye. Existe una tendencia general de aumentar la velocidad hacia el interior, y disminuirla en dirección a la costa.
 
-![[rosa-vientos-velocidades-media-zona-supralitoral-area-estudio-distrito-industrial-castellon.png]]
+![[tfg_velocidades-medias-supralitoral.png]]
 
 *Figura 60 Rosa de los vientos de las velocidades medias en la zona supralitoral. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 En el interior septentrional (figura 61), las direcciones se vuelven homogéneas, hacia el noroeste (mistral) y hacia el sureste y sur (migjorn) y sureste (siroco).
 
-![[rosa-vientos-velocidades-media-zona-interior-area-estudio-distrito-industrial-castellon.png]]
+![[tfg_frecuencias-velocidades-medias-interior.png]]
 
 *Figura 61. Rosa de los vientos de las frecuencias de velocidad media en la zona interior. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1033,7 +1033,7 @@ En cuanto a las velocidades medias (figuras 63 y 64), éstas aumentan en las dir
 *Figura 63. Rosa de los vientos de las velocidades medias mayoritarias en la zona interior. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[rosa-vientos-velocidades-media-interior-area-estudio-distrito-industrial-castellon-minoritarios.png]]
+![[tfg_velocidadeds-medias-interior.png]]
 
 *Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1041,7 +1041,7 @@ A nivel general, los vientos dominantes, representados como, los valores de frec
 
 En la región meridional, la dirección predominante es hacia el sur, con el viento que sigue el cauce del Mijares proveniente de las montañas de Teruel.
 
-![[representacion-general-frecuencia-velocidades-media-vientos-principales-area-estudio-distrito-industrial-castellon.png]]
+![[tfg_vientos-castellon.png]]
 
 *Figura 65. Representación general de la frecuencia de velocidades medias de los vientos principales en diferentes estaciones de control de la contaminación atmosférica. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1051,7 +1051,7 @@ En la región meridional, la dirección predominante es hacia el sur, con el vie
 
 La mayoría de contaminantes mayoritarios en la agrupación industrial principal presentan suaves descensos de sus concentraciones totales promedio, a excepción del monóxido de carbono y las partículas (PM2,5 y PM10), cuyo decrecimiento en el periodo de estudio (2003-2017) es aproximadamente del 50% en todos los casos -con niveles máximos del 60% (2013), 55% (2010) y 50% (2017), respectivamente-, y del dióxido de nitrógeno, cuyo descenso final asciende al 40% (2010) (figura 66).
 
-![[evolucion-anual-gases-contaminantes-particulas-mayoritarios-agrupacion-industrial-principal-castellon-1994-2017.png]]
+![[tfg_mayoritarios-agrupacion-industrial-principal.png]]
 
 *Figura 66. Evolución de los gases contaminantes y partículas en la agrupación industrial principal entre 1994-2014. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1060,7 +1060,7 @@ La mayoría de contaminantes mayoritarios en la agrupación industrial principal
 
 El dióxido de azufre (figura 67) se ha visto reducido en la mayoría de puntos de la zona cerámica (incluida la región secundaria del distrito industrial) a valores de concentración de la mitad entre el final y el inicio del periodo de estudio. A diferencia de la tendencia general, en Almassora el descenso es tres veces inferior hasta el 2014, y posteriormente experimenta incremento a partir hasta alcanzar los valores cercanos a 2005.
 
-![[evolucion-anual-dioxido-azufreagrupacion-industrial-ceramica-castellon-1994-2017.png]]
+![[tdf_so2.zina-industrial.png]]
 
 *Figura 67. Evolución de la concentración del dióxido de azufre en la zona industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1078,7 +1078,7 @@ Respecto a las partículas, la concentración de las más finas (figura 69) es a
 
 La reducción de ambas ha sido notable, entre 200-350% para las más finas y entre 300-400% para las partículas más gruesas. Las partículas más gruesas son más fáciles de depurar mediante debido a su mayor masa (ciclones…, por lo que su evolución registra una tendencia más lineal.
 
-![[evolucion-anual-particulas-finas-agrupacion-industrial-ceramica-castellon-2002-2017.png]]
+![[tfg_pm2,5-agrupacion-industrial.png]]
 
 *Figura 69. Evolución anual de las partículas de tamaño inferior a 2,5 micrómetros en la agrupación industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1108,7 +1108,7 @@ En presencia de compuestos orgánicos volátiles, oxidan el monóxido de nitróg
 
 ![[formula-creacion-dioxido-nitrogeno.png]]
 
-![[evolucion-anual-monoxido-nitrogeno-zona-industrial-ceramica-castellon-1994-2017.png]]
+![[tfg_no-zona-industrial.png]]
 
 *Figura 71. Evolución anual de la concentración de óxidos de nitrógeno en la agrupación industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1132,7 +1132,7 @@ En ausencia de compuestos orgánicos volátiles (COV), el ozono oxida al monóxi
 
 ![[formula-disociacion-ozono-monoxidonitrogeno.png]]
 
-![[evolucion-anual-ozono-agrupacion-industrial-ceramica-castellon-1994-2017.png]]
+![[tfg_o3-agrupacion-industrial.png]]
 
 *Figura 74. Evolución anual de la concentración de ozono en la agrupación industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1144,7 +1144,7 @@ Esto ha supuesto importantes descensos de concentración desde el 2005 en las di
 
 *Figura 75. Evolución anual de la concentración de metales pesados totales en la zona industrial entre 1994 y 2004. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
-![[evolucion-anual-cadmio-agrupacion-industrial-ceramica-castellon-2005-2017.png]]
+![[tfg_cd-agrupacion-industrial.png]]
 
 *Figura 76. Evolución anual de la concentración de cadmio en la agrupación industrial entre 2005 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1152,7 +1152,7 @@ Esto ha supuesto importantes descensos de concentración desde el 2005 en las di
 
 *Figura 77. Evolución anual de la concentración de asbesto en la agrupación industrial entre 2005 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
-![[evolucion-anual-plomo-agrupacion-industrial-ceramica-castellon-2005-2017.png]]
+![[tfg_pb-agrupacion-industrial.png]]
 
 *Figura 78. Evolución anual de la concentración de plomo en la agrupación industrial entre 2005 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1191,11 +1191,11 @@ En las partículas (figuras 83 y 84), también se ha producido un descenso porce
 
 Por ello, las mayores concentraciones se encuentran en Burriana (Sureste) y las menores en Benicàsim (noreste). En todo Castelló de la Plana, los valores registrados son muy similares. Sin embargo, existe un gradiente decreciente conforme nos desplazamos hacia el noreste, debido a los vientos en dirección norte de la costa (figuras 55, 57 y 65).
 
-![[evolucion-anual-particulas-finas-2,5-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-2003-2017.png]]
+![[tfg_pm2,5-nucleos-urbanos-costerosevolucion-anual-particulas-finas-2,5-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-2003-2017.png]]
 
 *Figura 83. Evolución anual de las partículas inferiores a 2,5 micrómetros en los núcleos urbanos próximos a la agrupación industrial entre 2003 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
-![[evolucion-anual-particulas-finas-10-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-2003-2017.png]]
+![[tfg_pm10-nucleos-urbanos-costeros-cercanos.png]]
 
 *Figura 84. Evolución anual de las partículas de diámetro inferior a 10 micrómetros en los núcleos urbanos próximos a la agrupación industrial entre 2003 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1209,17 +1209,17 @@ Así, siguiendo las direcciones de los vientos medidos en El Grau (figuras 55, 5
 
 La menor cantidad de monóxido de carbono en Benicàssim se debe a que el municipio está más lejos de la fuente que Burriana. Parece que el descenso máximo en la concentración de dióxido de nitrógeno es alrededor del 32%, en tanto que la oxidación genera otros contaminantes secundarios.
 
-![[evolucion-anual-monoxido-nitrogeno-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-1995-2017.png]]
+![[tfg_no-nucleos-urbanos-cercanos.png]]
 
 *Figura 85. Evolución anual del monóxido de nitrógeno en los núcleos urbanos próximos a la agrupación industrial entre 1995 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[evolucion-anual-dioxido-nitrogeno-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-1994-2017.png]]
+![[tfg_no2-nucleos-urbanos-cercanos.png]]
 
 *Figura 86. Evolución anual del dióxido de nitrógeno en los núcleos urbanos próximos a la agrupación industrial entre 1994 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[evolucion-anual-oxidos-nitrogeno-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-1994-2017.png]]
+![[tfg_nox-nucleos-urbanos-costeros-cercanos.png]]
 
 *Figura 87. Evolución anual de los óxidos de nitrógeno en los núcleos urbanos próximos a la agrupación industrial entre 1994 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1256,7 +1256,7 @@ La concentración es menos estable respecto en esas zonas, porque depende en gra
 *Figura 91. Evolución de las partículas de diámetro inferior a 2,5 micrómetros en las zonas rurales próximas a la agrupación industrial entre 2003 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[evolucion-anual-particulas-finas-10-areas-rurales-cercanas-agrupacion-industrial-castellon-2004-2017.png]]
+![[tfg_pm10-zonas-rurales-cercanas.png]]
 
 *Figura 92. Evolución anual de la concentración de partículas de diámetro inferior a 10 micrómetros en las zonas rurales próximas a la agrupación industrial entre 2004 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 

@@ -1,2 +1,0 @@
-
-Tras uno de los años más calurosos registrados, Sir David Attenborough examina la ciencia del cambio climático y las posibles soluciones a esta amenaza global. Algunos de los científicos climáticos más prominentes entrevistados analizan recientes condiciones meteorológicas extremas, como tormentas sin precedentes e incendios catastróficos, y revelan lo que unos peligrosos niveles de cambio climático podrían significar tanto para la población humana como el mundo natural en el futuro.

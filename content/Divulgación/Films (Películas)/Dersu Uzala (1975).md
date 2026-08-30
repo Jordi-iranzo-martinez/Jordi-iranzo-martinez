@@ -1,7 +1,0 @@
----
-tags:
-  - Just_One_Planet
-  - Just_One_Humankind
----
-
-El capitán Vladimir Arseniev y su destacamento tienen que realizar unas prospecciones geológicas en los bosques de la taiga siberiana. La inmensidad del territorio y la dureza del clima hacen que se extravíe. Condenado a vagar por una tierra salvaje, Vladimir conoce a Dersu Uzala, un cazador nómada que conoce el territorio como la palma de su mano y sabe cómo afrontar las inclemencias del tiempo. Dersu enseñará a Vladimir a respetar la naturaleza y a convivir en plena armonía con ella, una lección que difícilmente olvidará el resto de su vida. (FILMAFFINITY)

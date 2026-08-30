@@ -1,2 +1,0 @@
-
-Miniserie de TV (4 episodios). Se caracteriza por su uso pionero de cámaras 3D para la filmación bajo el agua. También cuenta con las primeras imágenes conocidas de la iguana terrestre rosada Galápagos, una nueva especie de lagarto identificado en el 2009 y el encuentro con "Lonesome George", la última tortuga de la isla Pinta, filmado un par de semanas antes de la muerte del animal. (FILMAFFINITY)
