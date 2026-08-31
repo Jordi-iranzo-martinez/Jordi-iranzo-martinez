@@ -1,0 +1,1 @@
+![[photography_nelson-mandela.png]]

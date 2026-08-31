@@ -1,0 +1,6 @@
+---
+tags:
+  - Memorias_Hispanas
+---
+
+Hispanoamérica, siglo XVIII. En plena jungla tropical junto a las cataratas de Iguazú un misionero jesuita, el padre Gabriel (Jeremy Irons), sigue el ejemplo de un jesuita crucificado, sin más armas que su fe y un oboe. Al ser aceptado por los indios guaraníes, Gabriel crea la misión de San Carlos. Entre sus seguidores está Rodrigo Mendoza (Robert De Niro), ex-traficante de esclavos, mercenario y asesino, que buscando el perdón se hace jesuita y encuentra la redención entre sus antiguas víctimas. Después de luchar juntos durante años, se enfrentan a causa de la independencia de los nativos: Gabriel confía en el poder de la oración; Rodrigo, en la fuerza de la espada. (FILMAFFINITY)

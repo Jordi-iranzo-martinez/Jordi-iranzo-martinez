@@ -1,0 +1,6 @@
+---
+tags:
+  - Just_One_Life
+---
+
+Serie de TV (2011-2025). 7 temporadas. 33 episodes. El lado oscuro de la tecnología y cómo esta afecta y puede alterar nuestra vida, a veces con consecuencias tan impredecibles como aterradoras. (FILMAFFINITY)

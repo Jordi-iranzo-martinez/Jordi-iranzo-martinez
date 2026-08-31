@@ -1,0 +1,2 @@
+
+![[photopgraphy_aids.png]]

@@ -1,0 +1,1 @@
+![[ferrer-dalmau_8666.png]]

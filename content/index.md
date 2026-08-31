@@ -3,8 +3,6 @@ title: Consultor ambiental y redactor
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 description:
 ---
-
-
 ![[jordi-iranzo-martinez.jpg]]
 
 Hola:
@@ -16,7 +14,7 @@ Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingenier
 - **Calidad ambiental**
 - **Cambio climático**
 
-Cuento con más de 160 [[Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google.
+Cuento con más de 160 [[Web/content/Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google.
 
 Tengo experiencia en el sector público privado.
 

@@ -1,0 +1,4 @@
+
+La batalla de las Navas de Tolosa, llamada en la historiografía árabe «batalla de Al-Iqāb» o «batalla del castigo» (معركة العقاب) y en la cristiana también, «batalla de Úbeda», enfrentó el 16 de julio de 1212 a un ejército aliado cristiano formado en gran parte por tropas castellanas de Alfonso VIII de Castilla, aragonesas de Pedro II de Aragón, navarras de Sancho VII de Navarra y voluntarios del reino de León y del reino de Portugal contra el ejército numéricamente superior del califa almohade Muhammad al-Nasir en las inmediaciones de la localidad jienense de Santa Elena. Con la victoria de las tropas cristianas, está considerada como una de las batallas más importantes de la Reconquista. Fue el hecho de que se la calificara como cruzada lo que provocó que participaran caballeros de toda Europa.
+
+

@@ -1,0 +1,2 @@
+
+Escrita por un compositor ruso emigrado tras la Revolución, habla de la nostalgia por un pasado perdido (la Rusia zarista). En 1968 Mary Hopkin la grabó en inglés para el sello Apple de los Beatles y fue número 1 en el Reino Unido. Buen ángulo: cómo una canción sobre el exilio y la pérdida rusa se convirtió, medio siglo después, en un éxito pop occidental sin que el público supiera su origen.

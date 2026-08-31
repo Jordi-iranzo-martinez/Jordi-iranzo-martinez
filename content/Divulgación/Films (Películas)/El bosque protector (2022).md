@@ -1,0 +1,6 @@
+---
+tags:
+  - Consulta_Natura
+---
+
+Serie documental sobre los bosques de España, que tiene como objetivo concienciar a la opinión pública de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad, así como del negativo y gravísimo impacto de la acción del hombre sobre su conservación. La serie muestra la silenciosa pero insustituible labor protectora del bosque sobre el suelo, la fauna y su propia flora. Además, a lo largo de los diferentes documentales, se podrá observar los rincones más bellos de España. Con la fragmentación del área natural ocupado por el bosque llegó la pérdida de biodiversidad, las poblaciones de fauna se vieron separadas y con ello uno de los principales factores que dificultan su conservación. Probablemente en todas las épocas hubo voces que alertaron de su excesiva explotación, sin embargo, otros intereses primaron sobre el meramente conservacionista, siendo pocas veces compatibles mantenimiento y aprovechamiento. (FILMAFFINITY)

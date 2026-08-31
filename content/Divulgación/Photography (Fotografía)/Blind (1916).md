@@ -1,0 +1,2 @@
+
+![[photography_blind.png]]
