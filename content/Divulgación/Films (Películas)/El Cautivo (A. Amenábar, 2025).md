@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-El Cautivo (A. Amenábar, 2025) narra la vida de Miguel de Cervanes como prisionero en Argel, después de la Batalla de Lepanto, tras su captura por corsarios berberiscos.
+El Cautivo (A. Amenábar, 2025) narra la vida de Miguel de Cervanes como prisionero en Argel, después de la Batalla de Lepanto ([[La Batalla de Lepanto]]), tras su captura por corsarios berberiscos.
 
 
 

@@ -56,7 +56,7 @@ The American forces where surrounded and fought through the night, until a relie
 
 Images of a dead American soldier's body being dragged through the streets by a crowd, broadcast on US television, caused a political firestorm.
 
-The backlash led President Clinton to withdraw US forces from Somalia within months, and the battle became a defining case study in the risks of urban combat and "mission creep" — it strongly influenced US reluctance to commit ground troops to Rwanda the following year ([[Hotel Rwanda (2004)]]), and shaped military doctrine on urban warfare for years afterward.
+The backlash led President Clinton to withdraw US forces from Somalia within months, and the battle became a defining case study in the risks of urban combat and "mission creep" — it strongly influenced US reluctance to commit ground troops to Rwanda the following year ([[Hotel Rwanda (T. George, 2004)]]), and shaped military doctrine on urban warfare for years afterward.
 
 - The US withdrew all forces from Somalia by March 1994; the broader UN mission wound down by 1995 without having restored a functioning government.
 
@@ -64,6 +64,6 @@ The backlash led President Clinton to withdraw US forces from Somalia within mon
 
 - Aidid himself was never captured; he died in 1996 from wounds sustained in factional fighting, still contesting for power.
 
-The "Mogadishu effect" made US policymakers in Washington deeply wary of humanitarian military interventions with open-ended mandates. It is widely cited as a factor in the US and UN's reluctance to intervene during the Rwandan genocide ([[Hotel Rwanda (2004)]]) just six months later, despite clear warning signs.
+The "Mogadishu effect" made US policymakers in Washington deeply wary of humanitarian military interventions with open-ended mandates. It is widely cited as a factor in the US and UN's reluctance to intervene during the Rwandan genocide ([[Hotel Rwanda (T. George, 2004)]]) just six months later, despite clear warning signs.
 
 
