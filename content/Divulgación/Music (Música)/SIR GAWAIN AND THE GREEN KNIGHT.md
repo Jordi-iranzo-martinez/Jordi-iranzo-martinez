@@ -1,0 +1,6 @@
+Most fans of Arthurian legend will be familiar with the story of Sir Gawain And The Green Knight. This epic poem was written in the 1300’s, and there is a detailed article in Wikipedia for those who are not already acquainted with the tale. The author of the work wrote in a Middle English dialect that is incomprehensible to us today. What you hear in this video is a simplified adaptation for modern English speakers. For movie fans, there is also a film, SIR GAWAIN AND THE GREEN KNIGHT, which came out in 2021.
+
+The original story concerns a strange “game”, having to do with life, death, honor and chivalry. This video concerns only the beginning of the “game”, and it all unfolds on Christmas Eve in the court of King Arthur. One of the interesting things about the story is that it is about a time when Christianity was first introduced to Britain, and existed alongside “The Old Ways” of magic and nature worship.
+
+The hurdy-gurdy I am playing is of the early design that was called a “chifonie” or “symphonie”. I use a variety of effects, including a Whammy pedal, that have been created for guitar players. These allow me to shift pitch and add simple harmonies which players could not have done centuries ago.
+

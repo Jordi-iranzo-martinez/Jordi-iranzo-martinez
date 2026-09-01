@@ -1,0 +1,3 @@
+The song was written in America sometime in the late 1860’s or 1870’s, presumably by a man named Patrick Carpenter who lived somewhere in the Boston area. It was first published around 1880. For many years, it was rarely performed publicly because it ends with a call to arms, and was therefore considered subversive and revolutionary.
+
+The Celtic harp I am playing was made around 1980 by harp builder Arsalaan Fay.

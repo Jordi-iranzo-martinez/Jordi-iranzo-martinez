@@ -1,0 +1,2 @@
+
+Para tu divulgación: Es la herramienta perfecta para divulgar sobre la Orden de los Caballeros Templarios y las Cruzadas. El juego te permite explicar la historia real de las cruzadas en Tierra Santa, el juicio por herejía que el rey Felipe IV de Francia orquestó en 1307 contra ellos, y cómo el Papa Clemente V disolvió la orden. Además, recorre localizaciones históricas reales como París, Irlanda o Siria. Lo encuentras en el catálogo de afiliados como Broken Sword 1: Reforged en GOG.

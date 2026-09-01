@@ -1,8 +1,40 @@
 ---
 tags:
   - Just_One_Planet
+title: Bea Johnson
+subtitle: The 'mother' of the Zero Waste Movement
 ---
-**The 'mother' of the Zero Waste Movement**
+
+Bea Johnson (1974-today) is a French-American environmental activist, speaker, and author who is widely recognized as the pioneer and mother of the global zero-waste lifestyle movement.
+
+
+Before becoming the "Priestess of Waste-Free Living" (as named by The New York Times), Bea and her family lived a typical American suburban lifestyle with a massive house and two large weekly bins of trash.
+
+The catalyst happened when they decided to downsize and move closer to the city. They placed 80% of their belongings in storage for a year, only to realize they didn't miss a single thing. This triggered a shift toward voluntary simplicity, which eventually led them to question their waste generation and ultimately discover the "zero waste" concept.
+
+40% Financial Savings: A common misconception is that zero-waste living is expensive. However, Johnson revealed that her family saved roughly 40% of their overall household budget. They achieved this by drastically reducing consumption, buying food entirely in bulk without paying for packaging, and purchasing everything else secondhand.
+
+By eliminating heavily packaged, processed foods and harsh commercial chemicals, the family noticed immediate health improvements, such as the disappearance of chronic sinus infections.
+
+Johnson's household is famous for replacing single-use items with creative, long-term alternatives:
+
+The Perimeter Rule: When grocery shopping, she strictly buys from the outer edges of the grocery store where whole, fresh, unpackaged foods reside. She famously brings cloth bags made from old sheets and glass jars to meat and cheese counters.
+
+Ultra-Minimal Wardrobe: Johnson personally maintains an incredibly tiny 15-piece capsule wardrobe that allows her to mix and match multiple outfits.
+
+She creates her own zero-waste cosmetics, using bulk organic cocoa powder as cheek blush/bronzer and a simple four-ingredient recipe for homemade mascara.
+
+
+
+
+
+The Trash Jar: Since 2008, Johnson and her family have famously practiced a waste-free lifestyle, reducing their household garbage to fit into a single small glass jar (about a pint or quart) per year.
+
+She wrote the book Zero Waste Home, which has been translated into dozens of languages and became a #1 Amazon bestseller in its category and has been translated to more than 25 languages!
+
+She has delivered hundreds of talks across more than 70 countries and six continents, inspiring individuals, communities, and major corporations like Google and the United Nations.
+
+
 
 Bea Johnson is a French activist known worldwide as a pioneer of the "Zero Waste" movement by her blog [Zero Waste Home](https://zerowastehome.com/).
 
@@ -14,6 +46,9 @@ Bea Johnson is a French-American author and speaker, widely recognized as one of
 
 
 Johnson was born in France and moved to the United States, where she and her family (her husband and two sons) began drastically reducing the amount of waste they generated in their everyday life. She's known for popularizing the concept of the **"5 R's"** as a practical framework for the zero waste lifestyle: 
+
+
+Bea popularized a simple, strict framework for sustainable living known as the 5Rs, which must be followed in this exact order:
 
 1. **Refuse**: what you don't need
 2. **Reduce** what you do need
