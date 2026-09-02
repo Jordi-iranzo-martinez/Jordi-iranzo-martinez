@@ -7,6 +7,31 @@ tags:
 ![[oregon-trail-map.png]]
 
 
+The Oregon Trail es una de las migraciones masivas más grandes, épicas y brutas de la historia humana. Entre las décadas de 1840 y 1860, cerca de 400.000 a 500.000 personas abandonaron sus hogares en el este de los Estados Unidos para cruzar a pie un continente salvaje de más de 3.200 kilómetros
+as carretas eran pequeñas (de unos 2,5 metros de largo por 1,2 de ancho) y se llenaban hasta el techo con comida (cientos de kilos de harina, tocino salado, café y azúcar) y herramientas indispensables
+
+El peso era tan descomunal que si los humanos se subían, los bueyes morían de agotamiento. Hombres, mujeres y niños caminaron descalzos o con botas rotas los 3.200 kilómetros del trayecto.
+
+El viaje duraba entre 5 y 6 meses de caminata diaria ininterrumpida. La logística del tiempo era una cuestión de vida o muerte:
+
+Si salías demasiado temprano (en marzo), no había pasto crecido en las praderas para alimentar a los miles de bueyes y caballos, y los animales morían de hambre.
+
+Si salías demasiado tarde (en junio), te atrapaban las tormentas de nieve invernales al cruzar las Montañas Rocosas. La caravana quedaba atrapada sin comida en mitad de la nada (como le ocurrió a la famosa e histórica Tragedia de la Caravana Donner, que recurrió al canibalismo para sobrevivir). El "punto dulce" para empezar era estrictamente entre mediados de abril y mayo.
+
+Aproximadamente el 10% de los pioneros murió en el camino (unos 40.000 fallecidos). Sin embargo, al contrario de lo que mostraban los antiguos wésterns, las batallas contra los nativos americanos eran extremadamente raras; de hecho, las tribus solían actuar como guías comerciales o intercambiaban ropa por comida. Los verdaderos asesinos fueron:
+
+Las enfermedades infecciosas: El cólera y la disentería arrasaban caravanas enteras en días debido a que miles de personas compartían y contaminaban las mismas fuentes de agua estancada a lo largo de la ruta.
+
+Los accidentes brutales: Cruces de ríos caudalosos donde la gente moría ahogada y las carretas volcaban perdiendo todo el alimento, disparos accidentales con armas de fuego autoinfligidos por la falta de experiencia, y niños aplastados por las pesadas ruedas de hierro de las carretas en marcha.
+
+El tráfico de caravanas llegó a ser tan denso y masivo que alteró permanentemente la geografía estadounidense. En varias zonas despobladas de estados actuales como Oregón o Wyoming, las ruedas de hierro de las miles de carretas desgastaron tanto el suelo de roca y arcilla que todavía hoy, casi dos siglos después, se pueden ver los profundos surcos perfectos grabados en las montañas. Son auténticas cicatrices geográficas de la migración.
+
+La ruta comenzó a perder fuerza en 1869, año en el que se inauguró el primer ferrocarril transcontinental de los Estados Unidos. Lo que a los pioneros les costaba medio año de sufrimiento, amputaciones, brotes de cólera y dolor, el tren pasó a resolverlo en un cómodo viaje de apenas siete días.
+
+
+
+
+
 The original game was created by three student teachers — Don Rawitsch, Bill Heinemann, and Paul Dillenberger — in Minnesota in 1971, as a teaching tool for an 8th-grade history class. It was written for a mainframe computer (a teletype terminal, with no graphics) and simulated the experience of a family traveling west along the historic Oregon Trail in a covered wagon during the 19th century.
 
 The game was later acquired and developed by the Minnesota Educational Computing Consortium (MECC), which released significantly upgraded versions with graphics — most famously the 1985 Apple II version, which became a fixture in American classrooms throughout the 1980s and 1990s, making it one of the most widely played educational games ever created for an entire generation of American schoolchildren.
