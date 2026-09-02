@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 La Liga Hanseática, también conocida como la Hansa, fue una poderosa federación comercial y defensiva de ciudades y gremios de comerciantes de la Europa central y septentrional que dominó el comercio del mar Báltico y del mar del Norte durante la Edad Media y el inicio de la Edad Moderna.
 
