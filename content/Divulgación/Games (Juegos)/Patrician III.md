@@ -30,6 +30,9 @@ Empezar en el año 1300: Es el reto clásico. Las ciudades son más pequeñas, t
 Empezar en el año 1400: La Liga Hanseática está en su máximo apogeo. Las ciudades tienen mucha más población, lo que genera una demanda masiva de bienes y te permite amasar grandes fortunas vendiendo rápido. Es mucho más difícil mantener contentos a tantos ciudadanos, la escasez de comida e invierno golpea más duro y los astilleros tardan más días en fabricar barcos. Además, en este año ya puedes construir los poderosos Galeones.
 
 
+![[{254F8982-B9C4-4AB1-82F3-DD0D955ADD46}.png]]
+
+
 **Goleta** (Snaikka): rutas fluviales rápidas (como a Nóvgorod), exploración y caza de piratas.
 
 **Carabela** (Crayer): barco equilibrado entre velocidad y carga, que permite llegar a ciudades fluviales.
