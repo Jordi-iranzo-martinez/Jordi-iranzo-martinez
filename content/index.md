@@ -3,35 +3,38 @@ title: Consultor ambiental y redactor
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 description:
 ---
-
 ![[jordi-iranzo-martinez.jpg]]
 
-Hola:
+¡Hola!
 
-Soy Jordi. Estudié Ciencias Ambientales, me especialicé en la rama de ingeniería y posteriormente en legislación nacional, internacional, de la Unión Europea:
+Me llamo Jordi. Estudié Ciencias Ambientales en la Universidad de Valencia, especializado en la rama de ingeniería. ([[Sobre mí]])
+
+Posteriormente me centré en legislación (nacional, internacional, de la Unión Europea) en diferentes ámbitos:
 
 - **Derecho administrativo** (solo nacional)
 - **Patrimonio natural**
 - **Calidad ambiental**
 - **Cambio climático**
 
-Cuento con más de 160 [[Web/content/Certificados]] de instituciones de las Naciones Unidas, la Unión Europea, universidades y de Google.
+He obtenido más de 160 [[Web/content/Certificados|Certificados]] de diferentes instituciones: Naciones Unidas, Unión Europea, Google...
 
-Tengo experiencia en el sector público privado.
+Hablo varios idiomas y tengo experiencia en el sector público privado.
+
+Me gustaría contribuir a mejorar como técnico de medio ambiente.
 
 Ofrezco los siguientes servicios:
 
-* **Asesoría Técnica**: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
+- [[Consultoría Técnica]]: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
 
-* **Gestiones Administrativas**: tramitación de expedientes, licencias, representación ante organismos públicos.
+- [[Gestoría]]: trámites de representación
 
-* **Asesoramieto**: el de contenido escolar (primaria, secundaria, bachillerato) y de oposicinoes es gratuito.
+- [[Educación]]: asesoramiento gratuito de contenido escolar (primaria, secundaria y bachillerato)
+
+- [[Web/content/Oposiciones|Oposiciones]]: asesoramiento gratuito y publicación del temario de la oposición del Ministerio (especialidad de medio natural) y parte de la de Generalitat Valenciana (A1)
 
 * [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
 
-- **Divulgación**: redacción de contenido técnico, informes, difusión de proyectos...
-
-¿Cómo puedo ayudarte?
+- [[Escritos]]: divulgación sobre medio ambiente, humanismo, hispanismo, opinión... (consultar la barra lateral)
 
 **Contacto**: jordi.im@proton.me
 

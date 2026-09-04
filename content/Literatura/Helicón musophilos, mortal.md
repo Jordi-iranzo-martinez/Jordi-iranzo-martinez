@@ -1,3 +1,7 @@
+---
+tags:
+  - Evergreen
+---
 
 _ἴδμεν ψεύδεα πολλὰ λέγειν ἐτύμοισιν ὁμοῖα,_ _ἴδμεν δ' εὖτ' ἐθέλωμεν ἀληθέα γηρύσασθαι._ ("Sabemos decir muchas mentiras que parecen ciertas. Pero también sabemos, cuando queremos, proclamar verdades").
 

@@ -6,6 +6,7 @@ tags:
   - Terra
   - Consulta_Natura
   - Just_One_Planet
+  - Evergreen
 ---
 _Va ser publicat a la revista Espores al julio del 2025: [enllaç a l'article original](https://espores.org/plantes/de-cloris-al-floriment-de-la-vida-flors-coevolucio-i-prosperitat/)_
 

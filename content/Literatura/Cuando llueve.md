@@ -1,3 +1,7 @@
+---
+tags:
+  - Evergreen
+---
 Atardece mientras leo. Acerco mi silla a la ventana para apreciar el ocaso. Observo que se han formado oscuras nubes bajas en el cielo. 
 
 Cae la noche. Aparece una finísima llovizna que rápidamente arrecia. Escucho la cadencia pausada de la lluvia: clop, clop, clop…

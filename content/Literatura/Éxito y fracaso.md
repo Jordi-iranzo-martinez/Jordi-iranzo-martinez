@@ -1,5 +1,7 @@
 ---
-title: "Éxito y fracaso"
+title: Éxito y fracaso
+tags:
+  - Evergreen
 ---
 Acabo de suspender el último examen de la oposición al Ministerio después de años preparando varias, y creo que es buen momento para reflexionar sobre conceptos relacionados con el éxito. Veamos si soy capaz.
 
