@@ -36,7 +36,4 @@ Ofrezco los siguientes servicios:
 
 - [[Escritos]]: divulgación sobre medio ambiente, humanismo, hispanismo, opinión... (consultar la barra lateral)
 
-**Contacto**: jordi.im@proton.me
-
-
-
+**Contacto**: jordi.im@proton.me (puedes dejarme tu teléfono e intentaré llamarte)
