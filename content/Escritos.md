@@ -11,5 +11,5 @@ Las temáticas son:
 
 #Just_One_Humankind : humanismo (principalmente en inglés)
 
-Los escritos terminados aparecen como #Evergreen 
+Los escritos largos terminados aparecen como #Evergreen .
 

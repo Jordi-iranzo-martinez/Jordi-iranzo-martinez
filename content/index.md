@@ -20,7 +20,7 @@ He obtenido más de 160 [[Web/content/Certificados|Certificados]] de diferentes 
 
 Hablo varios idiomas y tengo experiencia en el sector público privado.
 
-Me gustaría contribuir a mejorar como técnico de medio ambiente.
+Me gustaría contribuir a mejorar el medio ambiente.
 
 Ofrezco los siguientes servicios:
 
