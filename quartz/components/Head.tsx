@@ -100,8 +100,8 @@ export default (() => {
         <script data-goatcounter="https://jordiim.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-        <meta name="impact-site-verification" value="b9805a23-fae5-4d81-87b7-57ec160a2b9e" />
-
+        <script dangerouslySetInnerHTML={{ __html: `<meta name="impact-site-verification" value="b9805a23-fae5-4d81-87b7-57ec160a2b9e">` }} />
+        
       </head>
     )
   }
