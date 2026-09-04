@@ -1,0 +1,2 @@
+
+**Enfoque para tu jardín digital (Filosofía y Misticismo):** Es la mejor puerta de entrada para vincular ideas sobre el místico **George Gurdjieff** y el "Cuarto Camino". Battiato compuso el tema basándose en la idea de que los humanos vivimos en un estado de sonambulismo psicológico, reaccionando de forma mecánica a los estímulos.

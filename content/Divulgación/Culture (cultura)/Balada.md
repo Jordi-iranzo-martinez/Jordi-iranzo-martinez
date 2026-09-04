@@ -51,3 +51,5 @@ La balada ha ido evolucionando a lo largo de las décadas, cambiando sus arreglo
 - **_"Entra en mi vida"_ — Sin Bandera (2001):** El dúo mexicano-argentino definió el sonido de los años 2000 introduciendo influencias de R&B contemporáneo a la estructura clásica de la balada de piano.
 
 - **_"La playa"_ — La Oreja de Van Gogh (2000):** Una hermosa balada pop/rock escrita por Xabi San Martín que utiliza la nostalgia marina y las playas de San Sebastián como escenario para hablar de un amor adolescente inolvidable.
+
+Con te partirò
