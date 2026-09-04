@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Good Bye, Lenin! (2003) es una de las obras maestras más brillantes, entrañables y exitosas del cine alemán contemporáneo. Dirigida por Wolfgang Becker y protagonizada por un jovencísimo Daniel Brühl, la película fue un fenómeno de masas internacional que se alzó con el premio a la Mejor Película en los Premios del Cine Europeo y arrasó en los Premios del Cine Alemán [1.1].
 

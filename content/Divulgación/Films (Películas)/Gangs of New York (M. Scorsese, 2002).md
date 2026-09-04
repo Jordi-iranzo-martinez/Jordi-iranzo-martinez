@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 
 Gangs of New York (M. Scorsese, 2002) está ambientada a mediados del siglo XIX en Five Points: el barrio marginal más pobre, superpoblado y peligroso del bajo Manhattan.

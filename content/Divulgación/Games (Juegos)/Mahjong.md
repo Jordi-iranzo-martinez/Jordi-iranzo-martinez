@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 Mahjong (or májiàng in Chinese) is a centuries-old, four-player tile-based game of skill, strategy, and calculation. Often compared to the Western card game rummy, it involves drawing and discarding tiles to assemble specific combinations.
 
 *This traditional multiplayer strategy game should not be confused with Mahjong Solitaire, a popular single-player computer tile-matching puzzle.*

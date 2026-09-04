@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
  
 Simula la tecnología de la Baja Edad Media o el inicio de la Era Moderna (aproximadamente entre los siglos XIV y XVII).
 

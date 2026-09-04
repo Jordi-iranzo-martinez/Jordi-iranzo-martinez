@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Greta Thumberg (2003-today) is a world-renowned Swedish climate activist who gained global recognition for demanding immediate action from world leaders to combat the climate crisis.
 

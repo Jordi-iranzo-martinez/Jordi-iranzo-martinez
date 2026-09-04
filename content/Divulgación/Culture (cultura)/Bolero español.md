@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 El bolero original nació en España en el siglo XVIII y no tiene nada que ver con el romanticismo latino. El bolero español es un baile tradicional folclórico y cortesano de ritmo alegre
 

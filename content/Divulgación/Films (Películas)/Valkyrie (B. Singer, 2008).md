@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Valkyrie (B. Singer, 2008) narra el complot del 20 de julio de 1944 para asesinar a Hitler.
 

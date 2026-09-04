@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 „Lili Marleen" ist eines der berühmtesten Lieder des 20. Jahrhunderts und gilt als eines der bekanntesten Kriegslieder überhaupt – bemerkenswerterweise, weil es auf **beiden Seiten** des Zweiten Weltkriegs populär wurde.
 

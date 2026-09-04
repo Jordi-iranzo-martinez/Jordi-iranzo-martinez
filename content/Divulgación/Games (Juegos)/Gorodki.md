@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 Gorodki (literally meaning "little cities" or "townlets" in Russian) is a centuries-old traditional Russian folk sport. It shares conceptual similarities with bowling, skittles, or horseshoes, but instead of rolling a ball, players throw a heavy wooden bat to knock structures out of a square zone.
 
 The main objective is to completely clear 15 specific formations made of wooden pins using the fewest possible number of throws.

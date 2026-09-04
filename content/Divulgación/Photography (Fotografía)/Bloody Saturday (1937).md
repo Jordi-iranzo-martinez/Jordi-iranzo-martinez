@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 ![[photography_bloody-saturday.png]]
 

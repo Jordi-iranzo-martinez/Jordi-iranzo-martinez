@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Clifford Allan Redin Savory (1935-today) is is an influential and internationally renowned ecologist, biologist, farmer, and politician celebrated as the father of Holistic Management and regenerative agriculture. His core philosophy—which argues that properly managed livestock is the only scalable tool available to reverse global desertification—has fundamentally reshaped modern debates surrounding sustainable farming, soil restoration, and climate change.
 

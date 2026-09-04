@@ -1,1 +1,5 @@
+---
+tags:
+  - Just_One_Humankind
+---
 En el año 1970, por caprichos del destino, el joven médico escocés Dr. Nicholas Garrigan (James McAvoy) acaba ejerciendo su profesión en Uganda, un país del que no sabía nada, y allí se ve irreversiblemente unido a un temible personaje: Idi Amin (Forest Whitaker), el reciente nombrado presidente del país africano que comienza a gobernar de forma cruel y sanguinaria. Garrigan comienza a ser el médico personal de un dictador del que se dijo que llegó a practicar el canibalismo. (FILMAFFINITY)

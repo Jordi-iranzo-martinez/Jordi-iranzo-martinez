@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 Jorge Juan y Santacilia (1713–1773) fue uno de los científicos, marinos e ingenieros más brillantes de la historia de España, conocido en toda Europa como "el sabio español".
 

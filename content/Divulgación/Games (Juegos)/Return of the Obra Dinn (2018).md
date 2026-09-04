@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Te trasladas al año 1807. 
 

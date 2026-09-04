@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 
 La leyenda de Tentudía es uno de los relatos míticos más hermosos y célebres de la Reconquista española en Extremadura. Explica de forma milagrosa tanto el origen del Monasterio de Santa María de Tentudía como el nombre de toda la comarca de Tentudía, ubicada en el sur de la provincia de Badajoz.

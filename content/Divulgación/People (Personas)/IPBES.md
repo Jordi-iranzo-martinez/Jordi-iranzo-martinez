@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 
 La **IPBES** (por sus siglas en inglés, _Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services_) es la Plataforma Intergubernamental Científico-normativa sobre Diversidad Biológica y Servicios de los Ecosistemas.

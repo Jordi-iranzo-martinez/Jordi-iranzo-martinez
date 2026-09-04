@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 
 El Carnaval de Barranquilla es la fiesta folclórica y cultural más importante de Colombia y el segundo carnaval más multitudinario del mundo.

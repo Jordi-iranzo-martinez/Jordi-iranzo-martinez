@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Planet
+  - Just_One_Humankind
+---
 
 Haunter está basado en un yōkai o espíritu japonés, donde varios tipos de estos espíritus usan sus grandes lenguas como ataque.
 Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Jan-Ken-Pon (じゃんけんぽん) is the traditional Japanese version of Rock, Paper, Scissors. While it is played globally as a casual playground game to settle minor disputes, in Japan, it is a deeply embedded cultural ritual used by children, adults, and even corporations to make fair decisions.
 

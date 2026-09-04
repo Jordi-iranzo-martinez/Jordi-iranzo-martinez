@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 « L'Internationale » est l'hymne le plus célèbre du mouvement socialiste et communiste international, chanté et traduit dans pratiquement toutes les langues du monde.
 

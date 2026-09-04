@@ -2,7 +2,6 @@
 tags:
   - Memorias_Hispanas
   - Just_One_Humankind
-  - feature
 ---
 En España, y especialmente en Andalucía, la expresión **"tener duende"** no tiene nada que ver con criaturas mágicas. La RAE lo define como un **"encanto misterioso e inefable"**.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 ![[photopgraphy_martin-luther-king.png]]
 

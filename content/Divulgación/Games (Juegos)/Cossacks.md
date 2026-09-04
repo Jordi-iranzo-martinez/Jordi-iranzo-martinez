@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Los cosacos no eran una etnia ni una tribu cerrada, sino un pueblo fronterizo de guerreros libres que habitaban las estepas de las actuales Ucrania y el sur de Rusia.
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Planet
+---
 
 The United Nations (UN) is an international organization founded on October 24, 1945, following the devastation of World War II. Headquartered in New York City, it serves as a global forum where 193 Member States discuss and collaborate on international law, global security, economic development, social progress, and human rights Universal Declaration of Human Rights.
 

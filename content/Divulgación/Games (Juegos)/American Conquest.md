@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 
 Los imperios coloniales solo sobrevivieron aliándose con otras tribus indígenas locales enemigas de los aztecas o incas (como los tlaxcaltecas).

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Te refieres a **Thích Quảng Đức**, el monje budista vietnamita que se **prendió fuego a sí mismo** en una intersección de Saigón en 1963, en protesta por la persecución del gobierno survietnamita (católico) contra la mayoría budista del país. La foto la tomó **Malcolm Browne** (Associated Press) y ganó el World Press Photo de ese año.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 
   Nació de un concierto real de los Rolling Stones en Berlín Occidental, donde soltaron globos que cruzaron el Muro hacia el lado comunista — el bajista de la banda de Nena imaginó qué pasaría si esos globos fueran confundidos con una amenaza militar por radares soviéticos. Es, literalmente, una canción sobre la paranoia nuclear de la Guerra Fría nacida de un incidente real y casi absurdo.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Encarnas a Oswald Keller, un joven médico recién asignado a la pequeña e idílica localidad alemana de Wippra a principios del siglo XVI. Tu llegada coincide exactamente con el estallido de un brote de Peste Negra.
 

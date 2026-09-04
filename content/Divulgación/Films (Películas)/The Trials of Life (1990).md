@@ -1,7 +1,6 @@
 ---
 tags:
   - Just_One_Planet
-  - a1-4
 ---
 
 Serie de TV (1990). 12 episodios. "La vida a prueba: Historia Natural del Comportamiento" (The trials of life, 1990) es una serie de documentales de naturaleza de la BBC, escritos, dirigidos y presentados por David Attenborough, responsable sin duda del prestigio internacional que han adquirido los documentales producidos por esta cadena de televisión. Este ensayo sobre la conducta animal era la tercera serie documental de la trilogía “Vida” (Life), con la que se abarcaba una amplia visión de la naturaleza, en contra de producciones posteriores de Attenborough, más especializadas. Cada uno de los doce episodios de 50 minutos presenta un aspecto diferente del viaje por la vida, desde el nacimiento a la edad adulta y la continuación de las especies mediante la reproducción. La serie fue producida por la BBC TV en asociación con ABC Australia y WTBS. Fue galardonada con los premios más prestigiosos para documentales televisivos.  

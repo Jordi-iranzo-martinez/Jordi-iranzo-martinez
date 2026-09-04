@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 *"Into the Jaws of Death" is a famous photograph taken by U.S. Coast Guard Chief Petty Officer Robert F. Sargent on June 6, 1944 — D-Day, the Allied invasion of Normandy during World War II.*
 

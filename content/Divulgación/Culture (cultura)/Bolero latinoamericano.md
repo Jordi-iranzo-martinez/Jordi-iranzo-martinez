@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 El bolero latinoamericano es la música del romance, el desamor y la melancolía.
 

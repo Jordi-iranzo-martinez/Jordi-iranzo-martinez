@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Tetris is one of the most iconic, best-selling, and culturally influential video games in history. It was originally designed and programmed by Soviet software engineer Alexey Pajitnov on June 6, 1984. Its name is a portmanteau blending the Greek prefix tetra- (meaning four, as every piece has four segments) with tennis, Pajitnov's favorite sport.
 

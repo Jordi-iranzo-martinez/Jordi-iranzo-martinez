@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 ![[dam3.jpg]]
 

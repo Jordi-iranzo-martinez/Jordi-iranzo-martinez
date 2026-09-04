@@ -1,3 +1,8 @@
+---
+tags:
+  - Memorias_Hispanas
+  - Just_One_Humankind
+---
 El Carambolo, Camas, Sevilla.
 
 ![[Pasted image 20260820235626.png]]

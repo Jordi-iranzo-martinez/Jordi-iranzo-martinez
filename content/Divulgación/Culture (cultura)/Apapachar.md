@@ -1,7 +1,8 @@
 ---
 tags:
-  - Just_One_Life
   - Memorias_Hispanas
+  - Just_One_Humankind
+  - Just_One_Life
 ---
 "Apapachar" (del náhuatl *papatzoa*: "ablandar algo con los dedos") es una expresión mexicana y de varios países centroamericanos para definir un abrazo tierno de consuelo y entrega emocional profunda, considerado "ablandar el corazón de alguien a través del cariño" o "acariciar con el alma".
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Life
+---
 
 Se traduce de forma literal como "la pateticidad de las cosas", pero su verdadero significado cultural es muchísimo más poético: describe la sensibilidad o la empatía hacia la impermanencia de todo lo que existe, acompañada de una sutil y dulce melancolía por su inevitable final.
 

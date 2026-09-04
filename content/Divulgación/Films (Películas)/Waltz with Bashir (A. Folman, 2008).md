@@ -1,5 +1,6 @@
 ---
-date:
+tags:
+  - Just_One_Humankind
 ---
 Waltz with Bashir (A. Folman, 2008) describe la matanza de civiles en los campamentos de refugiados palestinos de Sabra y Shatila del 16 al 18 de septiembre de 1982.
 

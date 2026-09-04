@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 
 The [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/) (IPCC) is is the premier international body responsible for assessing the science related to climate change.

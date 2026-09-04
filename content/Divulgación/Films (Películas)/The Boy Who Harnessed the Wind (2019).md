@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 "The Boy Who Harnessed the Wind" is a 2019 biographical drama film based on the true story of William Kamkwamba, a young Malawian who built a wind turbine to help save his family and community from famine.
 

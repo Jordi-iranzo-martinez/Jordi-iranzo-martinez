@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 *"Jesse Owens Salute" refers to a photograph from the 1936 Berlin Olympics, capturing a medal ceremony that became loaded with political symbolism given the setting: Nazi Germany, with Adolf Hitler in attendance at the Games.*
 
 ![[photography-jesse-owens-berlin-1933.png]]

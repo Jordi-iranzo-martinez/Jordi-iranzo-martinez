@@ -1,3 +1,7 @@
+---
+tags:
+  - Terra
+---
 
 [Xaloc Mar](https://xalocmar.org/) es una organización sin ánimo de lucro fundada en Valencia en 2009. Su misión principal es la protección, estudio y conservación del mar Mediterráneo y de sus ecosistemas costeros, uniendo la investigación científica con el voluntariado ciudadano.
 

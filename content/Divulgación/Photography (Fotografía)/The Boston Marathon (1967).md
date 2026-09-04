@@ -1,7 +1,6 @@
 ---
 tags:
   - Just_One_Humankind
-  - Feminism
 ---
 
 ![[photography_boston-marathon-1967.png]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 The Last Samurai (E. Zwick, 2003)
 

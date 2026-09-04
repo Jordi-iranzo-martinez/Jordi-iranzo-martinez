@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 **Tic-Tac-Toe** (also known as _Noughts and Crosses_ in British English or _Tres en raya_ in Spanish) is a classic paper-and-pencil game for two players. It is a game of **perfect information and zero-sum**, meaning that if both players follow an optimal strategy, the match will **always result in a draw**.
 
 

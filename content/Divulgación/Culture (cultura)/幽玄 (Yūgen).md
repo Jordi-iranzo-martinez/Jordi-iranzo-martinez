@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Life
+---
 
 Se traduce habitualmente como **"gracia profunda"**, **"belleza sutil"** o **"lo profundamente misterioso"**, pero su verdadero significado va mucho más allá de lo que las palabras pueden capturar. No se refiere a la belleza de lo que se ve claramente, sino a **la belleza de lo que se intuye, lo que está oculto o lo que se sugiere**.
 

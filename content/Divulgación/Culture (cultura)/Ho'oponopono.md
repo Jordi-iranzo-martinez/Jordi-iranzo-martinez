@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Life
+---
 "Ho'oponopono" es una antiquísima filosofía y práctica de sanación originaria de las islas de Hawái. Se basa en conceptos de reconciliación, perdón y transmutación de la energía a través de la asunción de la responsabilidad total sobre nuestra propia realidad.
 
 La palabra proviene del idioma hawaiano y se traduce literalmente como "corregir un error" o "hacer lo correcto" (donde Ho'o significa "comenzar una acción" y Pono significa "bondad, rectitud, equilibrio").

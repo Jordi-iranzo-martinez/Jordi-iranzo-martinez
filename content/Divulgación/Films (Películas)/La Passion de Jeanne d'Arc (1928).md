@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Guerra de los Cien Años, siglos XIV y XV. En 1431, la joven Juana de Arco, después de haber conducido a las tropas francesas a la victoria, es arrestada y acusada de brujería. Ella declara haber recibido de Dios la misión de salvar a Francia, pero es procesada y condenada a morir en la hoguera. (FILMAFFINITY)

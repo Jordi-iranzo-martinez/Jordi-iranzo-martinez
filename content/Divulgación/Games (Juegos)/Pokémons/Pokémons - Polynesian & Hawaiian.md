@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 ### **Deidades Hawaianas**
 
 - **Kū (Dios de la Guerra)**: Tapu Koko

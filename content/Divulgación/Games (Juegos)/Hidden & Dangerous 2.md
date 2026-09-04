@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Las fuerzas especiales británicas (SAS) nacieron en 1941 en el desierto del norte de África de la mano de un oficial escocés visionario: David Stirling
 

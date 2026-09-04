@@ -1,6 +1,5 @@
 ---
 tags:
-  - Memorias_Hispanas
   - Just_One_Humankind
 ---
 A Man for All Seasons (Fred Zinnemann, 1966), narra los últimos días de Tomás Moro, jurista, teólogo, escritor y lord canciller, así como su enfrentamiento con el monarca inglés Enrique VIII.

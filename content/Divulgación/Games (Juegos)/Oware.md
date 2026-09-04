@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 Oware is an ancient abstract strategy game belonging to the Mancala family of pit-and-pebble games. It is the national game of Ghana and is widely considered the oldest and most popular Mancala variant played across West Africa and the Caribbean.
 
 The game is a pure mental calculation contest with no element of luck, where the objective is to capture more seeds (at least 25 out of 48) than your opponent.

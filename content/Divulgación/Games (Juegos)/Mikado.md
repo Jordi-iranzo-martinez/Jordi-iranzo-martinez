@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 Mikado (universally known as Pick-up Sticks) is a classic game of physical dexterity, patience, and absolute focus. The objective is deceptively simple: players must remove individual wooden sticks from a tangled pile one by one, without causing any other stick in the pile to move
 
 - **The Drop:** A player gathers all 41 sticks vertically in one hand, places the bundle upright on a flat surface, and releases it. The sticks fall and scatter randomly into a jumbled, overlapping pile.

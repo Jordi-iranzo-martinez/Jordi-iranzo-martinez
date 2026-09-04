@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Sucesora de "Hermanos de Sangre", también producida por Steven Spielberg y Tom Hanks, y creada por Dreamworks y HBO, es la serie más cara de todos los tiempos. Se basa sobre todo en las memorias de dos soldados norteamericanos, "With the Old Breed" de Eugene Sledge y "Helmet for My Pillow" de Robert Leckie, que narran sus experiencias en la lucha contra los japoneses durante la Segunda Guerra Mundial (1939-1945). (FILMAFFINITY)

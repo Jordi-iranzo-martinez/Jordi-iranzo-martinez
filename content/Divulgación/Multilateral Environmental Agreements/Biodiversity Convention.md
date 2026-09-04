@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 
 The Convention on Biological Diversity (CBD), often referred to as the Biodiversity Convention, is a groundbreaking legally binding international treaty that fundamentally changed how the world manages natural resources.

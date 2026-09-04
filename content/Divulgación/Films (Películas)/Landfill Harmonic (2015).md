@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 "Landfill Harmonic" is a 2015 documentary film that tells the story of the Recycled Orchestra of Cateura, which we just talked about — the Paraguayan youth orchestra that plays instruments made from trash.
 

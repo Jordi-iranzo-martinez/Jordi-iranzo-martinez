@@ -1,3 +1,7 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 La bachata dominicana es un género musical y un baile lleno de ritmo, pasión y melancolía que nació en los sectores urbanos y rurales marginados de la República Dominicana a principios de la década de 1960.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 Está ambientada en el Congo Belga, bajo el régimen personal de Leopoldo II.
 
 Conrad trabajó como capitán de un vapor en el río Congo en 1890, y la novela (publicada en 1899) está basada directamente en esa experiencia personal — el personaje de Kurtz y el sistema de explotación brutal que retrata reflejan lo que Conrad presenció de primera mano durante el 

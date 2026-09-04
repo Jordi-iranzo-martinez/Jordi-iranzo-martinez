@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Koshikijima no Toshidon (甑島のトシدون) es un fascinante ritual religioso y folclórico que se celebra cada víspera de Año Nuevo (31 de diciembre) en la isla de Shimo-Koshiki, situada al sudoeste del archipiélago de Japón, en la prefectura de Kagoshima.
 

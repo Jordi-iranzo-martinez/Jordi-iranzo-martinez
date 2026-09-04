@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Life
+---
 
 Ikigai (生き甲斐) (from japanese iki "life" and gai "value, benefit, or merit")
 

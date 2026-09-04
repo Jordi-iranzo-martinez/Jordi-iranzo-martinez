@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 La trama se ambienta en la Alta Baviera (Alemania) durante el siglo XVI, un periodo de inestabilidad marcado por la Reforma Protestante y las revueltas campesinas.
 

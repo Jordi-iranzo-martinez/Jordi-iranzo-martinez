@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 La balada (del francés ballade) deriva de una composición poética cantada sobre historias populares.
 

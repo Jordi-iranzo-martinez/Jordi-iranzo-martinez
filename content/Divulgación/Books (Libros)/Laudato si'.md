@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Planet
+  - Just_One_Humankind
 ---
 *Quien quiera ser grande que sirva, mas no oprima» 
 Jesús, Mt 20,25-26 –paráfrasis–* 

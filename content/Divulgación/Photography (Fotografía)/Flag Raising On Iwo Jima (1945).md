@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 *"Raising the Flag on Iwo Jima" is one of the most iconic and widely reproduced photographs in history, taken by Associated Press photographer Joe Rosenthal on February 23, 1945.*
 

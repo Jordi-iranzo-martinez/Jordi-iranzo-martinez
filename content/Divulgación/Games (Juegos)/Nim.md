@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 Nim is an ancient, world-famous mathematical game of strategy for two players. It is what mathematicians call an "impartial game"—meaning all moves are open to both players, luck plays absolutely zero role, and the game can be completely solved using binary math.
 
 The objective is simple: players take turns removing objects from distinct piles, trying to force a win based on the game's final move.

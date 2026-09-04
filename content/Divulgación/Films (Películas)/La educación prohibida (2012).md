@@ -1,3 +1,7 @@
+---
+tags:
+  - COMPROBAR
+---
 
 Trata sobre diferentes propuestas educativas basadas en la idea de que la educación debe apuntar al crecimiento integral del ser humano. (FILMAFFINITY)
 

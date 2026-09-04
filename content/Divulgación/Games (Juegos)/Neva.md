@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Life
+---
 
 La aventura se estructura a lo largo de cuatro capítulos que representan las estaciones del año (primavera, verano, otoño e invierno). El núcleo de la narrativa es la evolución de su relación y una profunda metáfora sobre la paternidad, la crianza y los ciclos vitales:
 

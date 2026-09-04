@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 Está fuertemente inspirado en la historia real de la Turquía de mediados del siglo XX (con sus constantes tensiones entre la democracia, las crisis económicas y los golpes de Estado militares), debido a los orígenes del director del estudio, Ata Sergey Nowak.**
 

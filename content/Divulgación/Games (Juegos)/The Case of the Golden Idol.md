@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 **siglo XVIII**
 
  entre 1742 y 1782

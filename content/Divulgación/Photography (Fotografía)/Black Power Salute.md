@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 ![[photography_black-power.png]]
 
 The "Black Power salute" most famously refers to the moment at the 1968 Mexico City Olympics when American sprinters Tommie Smith and John Carlos raised their fists during the medal ceremony for the 200-meter race.

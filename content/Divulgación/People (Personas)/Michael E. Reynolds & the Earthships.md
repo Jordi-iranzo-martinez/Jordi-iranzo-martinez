@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Michael E. Reynolds (1945) is an American archited know for its pioneer aproach by [Earthship Biotecture](Earthship Biotecture](https://earthship.com/)), where he basically upcycles discarded materials to make comfortable self-sustainable houses.
 

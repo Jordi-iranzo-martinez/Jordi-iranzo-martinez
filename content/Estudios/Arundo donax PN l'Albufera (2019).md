@@ -1,7 +1,9 @@
-
-# Estudio de la distribución de Arundo donax en el Parque Natural de l'Albufera
-## Distribución, alcance y análisis de riesgos
-
+---
+tags:
+  - Terra
+title: Estudio de la distribución de Arundo donax en el Parque Natural de l'Albufera
+subtitle: Distribución, alcance y análisis de riesgos
+---
 *El documento fue realizado en agosto del 2019. Se presenta de manera íntegra adaptado del [documento original](https://jordiiranzomartinez.com/proyectos/static/albufera-arundo-donax.pdf).*
 
 ### Introducción y justificación

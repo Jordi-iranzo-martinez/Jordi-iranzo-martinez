@@ -1,3 +1,9 @@
+---
+tags:
+  - Just_One_Planet
+  - Consulta_Natura
+  - Terra
+---
 
 Puedes fotografiar **flamencos comunes** en las marismas, garzas reales, **martines pescadores**, abubillas, cormoranes, halcones peregrinos, búhos chicos, cernícalos, gaviotas patiamarillas y aves urbanas comunes como gorriones, urracas o palomas
 

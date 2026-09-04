@@ -1,2 +1,6 @@
+---
+tags:
+  - Memorias_Hispanas
+---
 
 Escrita en plena dictadura argentina, es un himno de resistencia disfrazado de fábula ("tantas veces me mataron, tantas veces me morí, sin embargo estoy aquí resucitando"). María Elena Walsh, además, es un caso curioso: reconocida sobre todo como autora infantil, escondía mensajes profundamente políticos en formato "para niños". Buen ángulo sobre la literatura/canción infantil como vehículo de crítica social.

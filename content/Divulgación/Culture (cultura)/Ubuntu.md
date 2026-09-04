@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+  - Just_One_Life
 ---
 **Ubuntu** es un concepto ético y filosófico originario del sur de África, especialmente extendido entre los pueblos zulú y xhosa, que resume una visión de la humanidad basada en la interconexión entre las personas.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 "Papers, Please" is a highly acclaimed, 2013 puzzle-simulation video game developed independently by Lucas Pope through his production company 3909 LLC. Described as a "Dystopian Document Thriller," it places you in the shoes of an immigration inspector working at a grueling border checkpoint in the fictional, totalitarian communist state of Arstotzka.
 

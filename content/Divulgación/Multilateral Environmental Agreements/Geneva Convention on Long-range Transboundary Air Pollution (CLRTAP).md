@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 
 The Geneva Convention on Long-range Transboundary Air Pollution (frequently abbreviated as CLRTAP or simply the Air Convention) is a historic, legally binding international treaty created to control and gradually reduce air pollution across borders.

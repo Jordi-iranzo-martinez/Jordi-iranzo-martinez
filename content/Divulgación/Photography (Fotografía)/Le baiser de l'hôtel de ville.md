@@ -1,3 +1,8 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Life
+---
 
 *«Le Baiser de l'Hôtel de Ville» est une photographie célèbre prise en 1950 par le photographe français Robert Doisneau. Elle montre un jeune couple s'embrassant au milieu d'une rue animée de Paris, près de l'Hôtel de Ville.*
 

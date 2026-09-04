@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Seaspiracy (A. Tabrizi, 2021)
 

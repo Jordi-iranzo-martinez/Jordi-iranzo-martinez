@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 *"Yankee Doodle" is one of the oldest and most iconic patriotic songs associated with the United States, with roots going back to the colonial era, well before American independence.*
 

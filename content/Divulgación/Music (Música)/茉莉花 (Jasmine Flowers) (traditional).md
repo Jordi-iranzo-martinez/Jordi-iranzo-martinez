@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 
 probablemente la melodía china más reconocida internacionalmente — usada hasta en la ceremonia de apertura de los Juegos Olímpicos de Pekín 2008.

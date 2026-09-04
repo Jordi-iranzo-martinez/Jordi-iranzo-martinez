@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+  - Just_One_Life
 ---
 
 To Kill a Mockingbird (R. Mulligan, 1962), basada en la novela homónima de Harper Lee, está ambientada en la década de 1930 en una localidad de Alabama. 

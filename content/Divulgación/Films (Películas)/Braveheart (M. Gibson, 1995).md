@@ -20,7 +20,7 @@ En la época de la Batalla de Falkirk (1298), la princesa Isabel de Francia ten�
 
 Fue sometido al castigo por alta traición: arrastrado por caballos, colgado por el cuello sin llegar a morir, castrado, destripado vivo en el patíbulo y finalmente decapitado y descuartizado en cuatro partes. Sus restos fueron enviados a las esquinas del reino para aterrorizar a los rebeldes.
 
-Los escoceses no se pintavan la cara de azul con extrato de isatide. Esto era una tradición de los pictos ([[Britons]]) contra el Imperio Romano (siglo ¿?)
+Los escoceses no se pintavan la cara de azul con extrato de isatide. Esto era una tradición de los pictos ([[Britons (0 AD)]]) contra el Imperio Romano (siglo ¿?)
 
 Robert the Bruce fue el estratega militar más brillante y feroz de la historia de Escocia. No traicionó a Wallace en Falkirk (ni siquiera estuvo en esa batalla).
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
  
 七人の侍 (Seven Samurai) (A. Kurosawa, 1954) está ambientada en 1587, durante el Japón feudal del periodo Sengoku (estados en guerra de Japón).

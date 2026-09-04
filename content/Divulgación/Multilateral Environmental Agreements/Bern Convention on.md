@@ -1,5 +1,7 @@
 ---
 title: Bern Convention on the Conservation of European Wildlife and Natural
+tags:
+  - Just_One_Planet
 ---
 
 The **Bern Convention on the Conservation of European Wildlife and Natural Habitats** [Bern Convention](https://www.coe.int/en/web/bern-convention) (often simply called the _Bern Convention_) is a binding international legal instrument in the field of nature conservation.

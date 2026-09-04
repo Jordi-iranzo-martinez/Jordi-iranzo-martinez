@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 The [United Nations Framework Convention on Climate Change](https://unfccc.int) (UNFCCC) is the UN process for negotiating an agreement to limit dangerous climate change. It is an international treaty among countries to combat "dangerous human interference with the climate system". The main way to do this is limiting the increase in greenhouse gases in the atmosphere.
 

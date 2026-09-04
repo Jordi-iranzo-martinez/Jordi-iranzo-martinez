@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Planet
+---
 
 Miniserie de TV (2017). 7 episodios. 'Blue Planet ll' se centra más en la influencia del ser humano en los océanos, la polución y el cambio climático. Esta serie incluye fragmentos jamás vistos antes en un documental. (FILMAFFINITY)

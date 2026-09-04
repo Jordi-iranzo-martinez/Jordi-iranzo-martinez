@@ -1,2 +1,6 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 ![An injured Prisoner of War from the Soviet Union with a bandage around his bloody head, with clothing wrapped around his body. He looks cold as he is near the Arctic Circle where temperatures can get to -43 degrees Celsius](https://historycolored.com/wp-content/uploads/2020/10/SovietPOW-1024x668.jpg)
