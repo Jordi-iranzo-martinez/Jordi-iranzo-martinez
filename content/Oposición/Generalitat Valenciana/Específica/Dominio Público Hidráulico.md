@@ -559,8 +559,8 @@ Los parámetros obligatorios son los enterococos intestinales y la *Escherichia 
 
 | Masa de agua            | Parámetros y valores                            |
 | ----------------------- | ----------------------------------------------- |
-| Continental             | ![[{FA2C0785-F216-45E1-A293-23F93A8BADE9}.png]] |
-| Costera y de transición | ![[{8887BC6F-5408-4797-BDCC-4B0FE4A6479C}.png]] |
+| Continental             | ![[parametros-calidad-aguas.png]] |
+| Costera y de transición | ![[espana_parametros-calidad-aguas.png]] |
 
 
 

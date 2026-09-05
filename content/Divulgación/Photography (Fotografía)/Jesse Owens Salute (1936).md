@@ -4,7 +4,7 @@ tags:
 ---
 *"Jesse Owens Salute" refers to a photograph from the 1936 Berlin Olympics, capturing a medal ceremony that became loaded with political symbolism given the setting: Nazi Germany, with Adolf Hitler in attendance at the Games.*
 
-![[photography-jesse-owens-berlin-1933.png]]
+![[photography_jesse-owens-berlin-1933.png]]
 
 Jesse Owens, an African American track and field athlete from Ohio State, won four gold medals at the 1936 Games — in the 100m, 200m, long jump, and 4x100m relay. During the medal ceremonies, photographs show Owens on the podium giving the traditional American salute of the era (hand raised to the forehead, not a fist or Nazi-style salute), while German officials and sometimes fellow German competitors nearby can be seen giving the Nazi salute. The visual juxtaposition — a Black American champion standing yards away from the Nazi salute, in a stadium where Hitler was using the Games to promote ideas of Aryan racial superiority — is what gives these photos their enduring power.
 

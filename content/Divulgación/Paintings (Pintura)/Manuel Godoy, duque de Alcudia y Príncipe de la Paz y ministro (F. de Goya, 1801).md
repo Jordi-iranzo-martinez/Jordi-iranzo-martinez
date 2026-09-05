@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Pasted image 20260825200931.png]]
+![[goya_godoy.png]]
 
 El cuadro fue pintado para conmemorar el apogeo militar y político de Godoy tras la Guerra de las Naranjas (mayo de 1801), un breve conflicto en el que las tropas españolas, aliadas con la Francia napoleónica, invadieron Portugal.
 

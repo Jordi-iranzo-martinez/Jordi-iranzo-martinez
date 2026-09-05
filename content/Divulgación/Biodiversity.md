@@ -39,7 +39,7 @@ a loss of -73% os species, according to the [Living Planet Index](https://www.li
 
 
 
-![[Picture1.jpg]]
+![[gbif-data.jpg]]
 
 Contributions to WHICH ONE?
 

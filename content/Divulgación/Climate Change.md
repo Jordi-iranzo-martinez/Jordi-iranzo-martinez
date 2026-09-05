@@ -150,7 +150,7 @@ The [Bali Action Plan](https://unfccc.int/files/meetings/cop_13/application/pdf/
 
 
 
-![[c1_p3_s1.gif]]
+![[global-temperatura-change.gif]]
 
 
 ![[Picture8.png]]
@@ -207,7 +207,7 @@ It only applies to developing countries.
 ![[Pasted image 20250801140247.png]]
 
 
-![[Pasted image 20250801140335.png]]
+![[unfccc_redd+.png]]
 
 - National Strategy (NS) or Action Plan (AP)
 - National Forestry Monitoring System (NFMS) including Monitoring, Reporting and Verification (MRV)

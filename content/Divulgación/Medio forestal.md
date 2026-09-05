@@ -75,7 +75,7 @@ Las Comunidades Autónomas podrán elaborar Planes de Ordenación de Recursos Fo
 ## El Mapa Forestal de España
 
 El [Mapa Forestal de España](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/mfe50.aspx) (MFE) es la cartografía básica del estado de las masas forestales. Debe incluir la lista patrón de las especies forestales, la distribución de los usos del suelo forestales, Identificación y distribución de las **especies arbóreas principales**, incluyendo parámetros tales como su estado de desarrollo y ocupación, Información de **formaciones desarboladas**.
-![[Pasted image 20250725172629.png]]
+![[espana_mapa-forestal.png]]
 Mapa forestal de España a escala 1:50.000 (MFE50) (2010). Fuente: [Ministerio con competencia en medio ambiente](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/mfe50.html)
 
 

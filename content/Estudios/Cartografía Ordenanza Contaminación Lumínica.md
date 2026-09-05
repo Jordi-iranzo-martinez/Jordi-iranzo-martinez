@@ -22,7 +22,7 @@ En ellos se sugieren cuatro niveles de protección de los espacios:
 La ordenanza no ha sido actualizada con dicha información, manteniéndose en la actualidad los espacios del 2007 del proyecto europeo.
 
 
-![[valencia_cartografia-albufera-1.png]]
+![[albufera_cartografia-contaminacion-luminica-1.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 1). Fuente: elaboración propia.*
 
 

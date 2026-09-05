@@ -27,7 +27,7 @@ Por todo ello, la caña común está considerada como una de las 100 de las espe
 
 El Parque Natural de l’Albufera, localizado en el litoral oriental de la península ibérica, está considerado una zona húmeda (Inventario Español de Zonas Húmedas (IEZH)), de aproximadamente 2100 hectáreas, de las cuales 1700 hectáreas se califican como marjal para el cultivo en regadío del arroz, con los aportes de la Acequia Real del Júcar orientados por un denso entramado de canales (figura 2).
 
-![[red-hidrografica-parque-natural-albufera.png]]
+![[albufera_red-hidrografica-parque-natural-albufera.png]]
 
 *Figura 2. Red hidrológica del Parque Natural de l’Albufera*
 *Fuente: Institut Cartogràfic Valencià (ICV), Bing, elaboración propia*

@@ -185,7 +185,7 @@ Algunas áreas naturales del territorio tienen un régimen especial de protecci�
 
 
 
-![[Pasted image 20250726112631.png]]
+![[espana_espacios-naturales-protegidos2.png]]
 
 Los Espacios Naturales Protegidos en España en España. Fuente: [Ministerio con competencia en medio ambiente](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/enp.html)
 
@@ -288,7 +288,7 @@ España es el tercer país con más número de humedales de importancia internac
 ![[Pasted image 20250211204959.png]]
 
 El primero fue 
-![[Pasted image 20250213213245.png]]
+![[espana_reservas-biosfera2.png]]
 
 Mapa cronológico de las Reservas de la Biosfera en España. Fuente: Red Española de la Red de Reservas de la Biosfera Mundial
 

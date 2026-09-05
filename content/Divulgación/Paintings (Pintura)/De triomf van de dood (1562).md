@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[El triunfo de la Muerte.jpg]]
+![[triunfo-muerte.jpg]]
 
 Pieter Bruegel de Oude,
 

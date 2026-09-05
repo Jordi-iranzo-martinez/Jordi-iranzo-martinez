@@ -186,7 +186,7 @@ Además, existen [espacios marinos protegidos](https://www.miteco.gob.es/es/biod
 
 Todos estos espacios protegidos marinos se integran la [Red de Áreas Marinas Protegidas de España](https://www.miteco.gob.es/es/biodiversidad/temas/biodiversidad-marina/espacios-marinos-protegidos/red-areas-marinas-protegidas-espana/red-rampe-index.html) (RAMPE), que integra también su legislación básica, y las actividades necesarias para su funcionamiento. La Red está gestionada desde el Ministerio, pero los espacios individuales los puede gestionar la Comunidad Autónoma si tiene continuidad con el continente.
 
-![[rampe2020-elaboraenero2021-tcm30-520866.jpeg]]
+![[espana_rampe2.jpeg]]
 *Red de Áreas Marinas Protegidas de España (RAMPE). Fuente: [Ministerio con competencias en medio amiente](https://www.miteco.gob.es/es/biodiversidad/temas/biodiversidad-marina/espacios-marinos-protegidos/red-areas-marinas-protegidas-espana/red-rampe-index.html)*
 
 Los criterios para determinar un espacio como protegido y por tanto incluirlos en la RAMPE son [los siguientes](https://www.boe.es/buscar/act.php?id=BOE-A-2011-19209&p=20221230&tn=1#a5):

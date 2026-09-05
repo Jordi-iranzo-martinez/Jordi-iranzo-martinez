@@ -197,7 +197,7 @@ com el morrut (*Rhynchophorus ferrugineus*), un insecte exòtic invasor* que per
 El dàtil d'Elx va obtindre la "marca de qualitat" de la Comunitat Valenciana al 2023. 
 
 
-![[Pasted image 20250211231759.png]]
+![[elche_.png]]
 Horts de palmeres a Elx al segle XIX
 Font: Pla Especial de Protecció del Palmeral d'Elx (2018)
 

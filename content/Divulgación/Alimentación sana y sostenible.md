@@ -226,7 +226,7 @@ con denominaciones de origen, de Reservas de la Biosfera,
 
 o que favorezcan el pastoreo extensivo, en especial de transhumancia.
 
-![[Pasted image 20260606233448.png]]
+![[espana_vias-pecuarias2.png]]
 *Vías pecuarias en España. Fuente: [Ministerio de medio ambiente](https://www.miteco.gob.es/es/biodiversidad/temas/politica-forestal/vias-pecuarias.html)*
 
 

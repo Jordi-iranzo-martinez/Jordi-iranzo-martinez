@@ -42,7 +42,7 @@ La percepción del sonido varía según la especie, cada individuo, e incluso a 
 El ser humano puede escuchar sólo algunos de ellos, de entre los 20 y los 20.000 hertzios (Hz), siendo el rango óptimo de 2.000 a 5.000 Hz. El oído humano no es igualmente sensible a todas las frecuencias: somos más sensibles a las frecuencias medias (entre 2.000 y 5.000 Hz) y menos a los sonidos graves o muy agudos, que requieren mayor intensidad para ser percibidos con la misma fuerza
 
 La sensación acústica se mide en fonios, que relacionan la percepción subjetiva de la sonoridad con el nivel de presión sonora en decibelios.
-![[Pasted image 20250704153958.png]]
+![[acustica_lp.png]]
 
 ![[decibel1b.jpg]]
 
@@ -88,7 +88,7 @@ La medición de esta contaminación se representa mediante índices acústicos, 
 ![[Pasted image 20250704143135.png]]
 - **Law**: mide el nivel máximo de aceleración (aw: *acceleration weighted*)
 
-![[Law.png]]
+![[acustica_law.png]]
 
 Además, el ruido tiene índices suplementarios, como son 
 

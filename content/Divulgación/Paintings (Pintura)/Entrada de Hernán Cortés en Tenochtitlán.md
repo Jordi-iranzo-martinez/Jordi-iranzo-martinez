@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[ferrer-dalmau_23123.png]]
+![[ferrer-dalmau_entrada-tenochtitlan.png]]
 
 Hernán Cortés llegó a Tenochtitlán, la capital del Imperio azteca, el 8 de noviembre de 1519, acompañado por unos 400 españoles y miles de guerreros nativos enemigos de los aztecas, principalmente de la Confederación de Tlaxcala.
 

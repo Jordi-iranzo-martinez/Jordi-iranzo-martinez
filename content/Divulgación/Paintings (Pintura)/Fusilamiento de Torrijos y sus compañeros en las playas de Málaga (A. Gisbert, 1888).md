@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Fusilamiento de Torrijos y sus compañeros en las playas de Málaga.jpg]]
+![[fusilamiento-torrijos.jpg]]
 
 
 El general Torrijos era uno de los grandes defensores de la Constitución de 1812 ([[La promulgación de la Constitución de 1812 (1912)]]).

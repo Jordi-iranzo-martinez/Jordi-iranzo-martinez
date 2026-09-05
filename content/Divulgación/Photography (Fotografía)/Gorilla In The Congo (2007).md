@@ -4,7 +4,7 @@ tags:
 ---
 *"Gorilla in the Congo" is a photograph by South African photojournalist Brent Stirton, taken in 2007 in Virunga National Park, Democratic Republic of Congo. It's included in TIME's list of the 100 most influential photographs ever taken.*
 
-![[Pasted image 20260823184804.png]]
+![[photography_gorilla.png]]
 
 
 It shows a silverback mountain gorilla named Senkwekwe, weighing at least 500 pounds, strapped to a makeshift stretcher and carried by more than a dozen men through the forest. The image is striking partly because, as Stirton captured it, the gorilla looks huge but vaguely human, lending the scene an unsettling, almost funereal quality — like the transport of a fallen human figure rather than an animal.

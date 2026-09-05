@@ -25,7 +25,7 @@ Los cauces son los terrenos inundados y las riberas son sus flancos, en ambos ca
 - **Zona de servidumbre**: de 5 m, para uso público
 - **Zona de policía**: de 100 m, para amortiguación de impactos por el uso del suelo
 
-![[dominio-publico-hidraulico.png]]
+![[espana_dominio-publico-hidraulico.png]]
 Figura 2: Dominio Público Hidráulico (DPH). Fuente: Ministerio de medio ambiente
 
 La superficie del terreno

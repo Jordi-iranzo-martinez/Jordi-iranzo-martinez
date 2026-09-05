@@ -216,5 +216,5 @@ La atmósfera es la parte del planeta Tierra formada compuesto por gases atrapad
 
 - **Exosfera** (600-100 km): transición gradual al espacio exterior. Densidad extremadamente baja, las partículas pueden escapar al espacio. Contiene principalmente hidrógeno y helio. Aquí orbitan satélites geoestacionarios y se extienden las colas de los cometas.
 
-![[Atmósfera.svg.png]]
+![[atmosfera.svg.png]]
 

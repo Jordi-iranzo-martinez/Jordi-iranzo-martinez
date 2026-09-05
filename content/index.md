@@ -4,6 +4,9 @@ subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposi
 ---
 ![[jordi-iranzo-martinez.jpg]]
 
+![[jordi-iranzo-martinez.jpg]]
+
+
 ¡Hola!
 
 Me llamo Jordi. Estudié Ciencias Ambientales en la Universidad de Valencia, especializado en la rama de ingeniería. ([[Sobre mí]])

@@ -128,7 +128,7 @@ El procedimiento es más sencillo:
 2. **Órgano sustantivo**: derivación de la información al órgano sustantivo
 3. **Órgano ambiental**: consulta a las Administraciones Públicas Afectadas y a las personas interesadas, contestación a las consultas, y elaboración del informe de impacto ambiental, en un plazo de tres meses, y publicación en el boletín oficial correspondiente.
 
-![[Evaluación de impacto ambiental simplificada.png]]
+![[espana_eia-simplificada.png]]
 
 *Esquema del procedimiento simplificado de evaluación de impacto ambiental en el Estado. Fuente: Ministerio de medio ambiente*
 

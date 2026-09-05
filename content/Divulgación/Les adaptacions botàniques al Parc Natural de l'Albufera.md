@@ -17,7 +17,7 @@ Vaig a començar del mar a l'interior.
 
 La vessant marina, que de fet no està inclosa al Parc Natural sinò al Lloc d'Importància Comunitària (LIC) L'Albufera. 
 
-![[Secció transversal dels ecosistemes de l'Albufera de Valencia.png]]
+![[albufera_secció transversal dels ecosistemes de l'Albufera de Valencia.png]]
 
 A la costa, tenim fanerògames marines, que són plantes que viuen al medi marí somer. 
 

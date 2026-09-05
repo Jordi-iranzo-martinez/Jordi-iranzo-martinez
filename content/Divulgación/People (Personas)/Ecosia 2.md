@@ -7,7 +7,7 @@ The Search Engine Planting Trees Worldwide
 
 [Ecosia](https://www.ecosia.org/) is a search engine and a [browser](https://www.ecosia.org/browser) that donates all the revenue from its usage to finance tree-planting programmes all around the world. 
 
-![[ecosia-logo.jpg]]
+![[ecosia_logo.jpg]]
 *Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/9186269?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ecosia: The green search"></iframe></div>
@@ -32,7 +32,7 @@ _The Purpose Foundation promotes this innovative business model where control re
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) span over 70 active initiatives across more than 35 countries, implemented by local organizations and people they finance.
 
-![[ecosia-tree-planting-kenya-africa.jpg]]
+![[ecosia-kenya-africa.jpg]]
 *Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
 But their commitment goes beyond trees. To address the climate crisis, they've built their own solar power plants, achieving 200% carbon negative status: they produce twice the energy they need!
@@ -58,7 +58,7 @@ On personal privacy, they anonymize searches within seven days. They don't creat
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
-![[ecosia-senegal.jpg]]
+![[ecosia_senegal.jpg]]
 Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
 
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).

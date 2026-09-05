@@ -8,7 +8,7 @@ Ecosia gmH ofereix un motor de recerca i destina tots els seus beneficis a la ll
 Bàsicament el que han estat fent és plantar boscos autòctons a diferents parts del món (hi són ja 35 països, també a Espanya), afavorint els punts calents de biodiversitat (on hi ha més), en col·laboració amb associacions locals (pots vore'ls tots [projectes de reforestació](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/)).
 
 
-![[ecosia-tree-planting-kenya-africa.jpg]]
+![[ecosia-kenya-africa.jpg]]
 *Projecte de reforestació a Kenya recolçat per Ecosia. Font: [Ecosia](https://www.ecosia.org/imprint#press). Font: [Ecosia](https://www.ecosia.org/imprint#press)*
 
 També han promogut la descarbonització mitjançant l'energia solar, la innovació verda, i l'activisme climàtic.
@@ -21,7 +21,7 @@ El seu model de negocis és "de propietat custòdia" o "de propietat fiduciària
 
 Fan diners bàsicament mitjançant anuncis a les pàgines web que ofereixen. Les comissions depenen de la quantitat de persones que utilitzen la plataforma (per lo que usar-ho sense comprar res també ajuda). Han habilitat un comptador d'arbres que estimen han contribüit a financiar amb les teues recerques.
 
-![[ecosia-senegal.jpg]]
+![[ecosia_senegal.jpg]]
 *Projecte de reforestació en Senegal recolçat per Ecosia. Font: [Ecosia](https://www.ecosia.org/imprint#press)*
 
 

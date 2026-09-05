@@ -189,7 +189,7 @@ Fuente: Instituto Valenciano de Competitividad Empresarial (IVACE)*
 | Otros                   | 7                            |
 | Total                   | **2492**                     |
 
-![[fabricacion-porcentual-tipos-ceramica-españa-2015.png]]
+![[tfg_fabricacion-porcentual-tipos-ceramica-españa-2015.png]]
 
 *Figura 5. Fabricación porcentual de los diferentes tipos de cerámica en España en el 2015* 
 *Fuente: Instituto Valenciano de Competitividad Empresarial (IVACE), elaboración propia*
@@ -247,7 +247,7 @@ En concreto, en el subsector cerámico propiamente dicho han desaparecido un 29%
 
 Sin embargo, debido a la explosión de la burbuja inmobiliaria española, en el mismo periodo ha aumentado el balance comercial (aumento de las exportaciones), y la eliminación de las empresas pequeñas ha elevado el índice de ventaja comparativa (IVC).
 
-![[datos-estructurales-industrias-produccion-ceramica-españa-2000-a-2017.png]]
+![[tfg_datos-estructurales-industrias-produccion-ceramica-españa-2000-a-2017.png]]
 
 *Figura 11. Datos estructurales de las industrias de producción cerámica en España entre 2000 y 2017 Fuente: Instituto Nacional de Estadística (INE)*
 
@@ -409,11 +409,11 @@ Las calidades de los datos de la RVVCCA se han estudiado para cada estación y v
 
 2. **Representatividad del periodo**: valor porcentual que representa el total de datos utilizados según el periodo considerado para cada contaminante. El periodo se considera como la suma de los días de todos los años para los que se ha medido ese contaminante específico (ecuación 3) –ver tablas de equitatividad para observar los periodos exactos–:
 
-	![[formula-representatividad-periodo.png]]
+	![[tfg_formula-representatividad-periodo.png]]
 
 3. **Equitatividad**: distribución porcentual de la cantidad de datos del periodo en cada año abarcado (ecuación 4). Los datos serán más equitativos en el periodo cuantos más parecidos sean entre sí.
 
-	![[formula-equitatividad.png]]
+	![[tfg_formula-equitatividad.png]]
 
 Los resultados se expresarán con dos cifras decimales significativas.
 
@@ -423,7 +423,7 @@ Respecto al análisis de la calidad de las aguas, para la evaluación de la cali
 
 Los criterios de referencia de estos resultados se basan en la Orden ARM/2656/2008 (figura 17):
 
-![[clasificacion-rios-mediterraneos-influencia-karstica.png]]
+![[tfg_clasificacion-rios-mediterraneos-influencia-karstica.png]]
 
 *Figura 17. Clasificación de los ríos mediterráneos con influencia kárstica según la Orden ARM/2656/2008. Fuente: Boletín Oficial del Estado (BOE)*
 
@@ -464,7 +464,7 @@ Ello genera un planeamiento urbanístico (figura 21) que concentra la mayor part
 
 Los núcleos urbanos de elevada densidad se encuentran especialmente en el Sur, en la desembocadura del río Mijares -alrededor de Castelló de la Plana (Castelló de la Plana, Burriana, Benicàssim)-, y también en el norte, con Torreblanca, Vinarós y -especialmente- Peñíscola.
 
-![[tfg_planeamiento-urbanistico.png]]![[planeamiento-urbanistico-provincia-castellon-clasificacion.png]]![[planeamiento-urbanistico-provincia-castellon-calificacion.png]]
+![[tfg_planeamiento-urbanistico.png]]![[tfg_planeamiento-urbanistico-provincia-castellon-clasificacion.png]]![[tfg_planeamiento-urbanistico-provincia-castellon-calificacion.png]]
 
 *Figura 21. Planeamiento urbanístico en la provincia de Castellón.
 Fuente: Cartoweb, elaboración propia*
@@ -478,7 +478,7 @@ Destaca además la presencia de una única zona industrial en las inmediaciones 
 
 ![[tfg_usos-suelo2.png]]
 
-| ![[usos-suelo-provincia-castellon-leyenda-1.png]]<br> | ![[usos-suelo-provincia-castellon-leyenda-2.png]] | ![[usos-suelo-provincia-castellon-leyenda-3.png]] |
+| ![[usos-suelo-provincia-castellon-leyenda-1.png]]<br> | ![[usos-suelo-provincia-castellon-leyenda-2.png]] | ![[tfg_usos-suelo-provincia-castellon-leyenda-3.png]] |
 | ----------------------------------------------------- | ------------------------------------------------- | ------------------------------------ |
 *Figura 22. Usos del suelo en la provincia de Castellón.*
 *Fuente: Cartoweb, elaboración propia*
@@ -506,7 +506,7 @@ Además cuentan con el apoyo de diferentes asociaciones institucionales, entre l
 
 El área principal de dicho distrito abarca seis áreas municipales pertenecientes a tres comarcas diferentes (figura 24): Vila-Real, Onda (La Plana Baixa), L’Alcora (l’Alcalatén), Sant Joan de Moró, Castelló de la Plana y Almassora (La Plana Alta).
 
-![[clasificacion-calificacion-area-estudio.png]]
+![[tfg_clasificacion-calificacion-area-estudio.png]]
 ![[usos-suelo-area-estudio-clasificacion.png]]![[tfg_usos-suelo-leyenda-clasificacion.png]]
 
 *Figura 24. Clasificación y calificación del área de estudio.
@@ -608,14 +608,14 @@ Las aguas de Castellón pertenecen a la cuenca hidrográfica del Júcar. En conc
 
 En el área de estudio, las masas de agua se componen por los tramos finales del río Mijares y la Rambla de la Viuda (figura 36), ambos clasificados como (Orden ARM/2656/2008) ríos mediterráneos con influencia kárstica.
 
-![[masas-agua-rio-principales-proximas-distrito-industrial-castellon.png]]
+![[tfg_masas-agua-rio-principales-proximas-distrito-industrial-castellon.png]]
 
 *Figura 36. Principales masas de agua tipo río próximas al Distrito Industrial de Castellón. Fuente: Google Maps, elaboración propia*
 
 
 El río Mijares a partir del embalse de Síchar, se divide en tres masas de agua: la primera se encuentra entre el embalse y la autopista A7 (10.10), la segunda entre la carretera comarcal CV 18 y el afluente de la Rambla de la Viuda (10.11), y la tercera entre el afluente de la Rambla de la Viuda y la desembocadura del Mijares 10.12) (figura 37).
 
-![[masas-agua-mijares-sichar-desembocadura.png]]
+![[tfg_masas-agua-mijares-sichar-desembocadura.png]]
 
 *Figura 37. Masas de agua del río Mijares entre el embalse de Síchar y su desembocadura. Fuente: Google Maps, elaboración propia*
 
@@ -668,7 +668,7 @@ El Distrito Industrial de Castellón tiene lugar por la elevada presencia de mat
 
 Esto se debe fundamentalmente al marcado descenso orográfico próximo a la costa (figuras 19 y 20) y a la influencia del río Mijares, cuya desembocadura genera un delta por el cual se lamina el caudal (figura 43), lo que permite la sedimentación de los materiales que transporta.
 
-![[hidrologia-zona-estudio-castellon.png]]
+![[tfg_hidrologia-zona-estudio-castellon.png]]
 
 *Figura 43. Hidrología de la zona de estudio, fundamentada en la cuenca del río Mijares. Fuente: Cartoweb, elaboración propia*
 
@@ -690,7 +690,7 @@ En Nules y este de Almassora y Castelló de la Plana existen los limos (naranja)
 
 Relacionado con la producción cerámica, destacan en la zona una elevada concentración de cantos, gravas y arcillas (rosa oscuro) en la zona donde se sitúa el distrito industrial.
 
-![[aprovechamientos-rocas-industriales-distrito-industrial-castellon.png]]![[aprovechamientos-rocas-industriales-distrito-industrial-castellon-leyenda.png]]
+![[tfg_aprovechamientos-rocas-industriales-distrito-industrial-castellon.png]]![[tfg_aprovechamientos-rocas-industriales-distrito-industrial-castellon-leyenda.png]]
 
 *Figura 45. Aprovechamiento de rocas industriales, detalle del área de estudio. Fuente: Cartoweb, elaboración propia*
 
@@ -728,7 +728,7 @@ Respecto a la fabricación de baldosas cerámicas, el ciclo de vida es siguiente
 - C. Uso y mantenimiento
 - D. Deconstrucción y fin de vida
 
-![[ciclo-vida-baldosas-ceramicas.png]]
+![[tfg_ciclo-vida-baldosas-ceramicas.png]]
 
 
 *Figura 48. Ciclo de vida de las baldosas cerámicas. Fuente: Instituto Tecnológico de la Cerámica (ITC) y Asociación Española de Fabricantes de Azulejos y Pavimentos Cerámicos (ASCER), 2008*
@@ -974,7 +974,7 @@ Los gases y partículas forman parte de los contaminantes mayoritarios -unidades
 
 En la única estación meteorológica de la zona de mar abierto (figuras 53 y 54), encontramos una tendencia hacia las direcciones sur suroeste y noreste -garbí y Migjorn y gregal, respectivamente-, de manera paralela a la costa.
 
-![[frecuencias-velocidad-media-mar-abierto-zona-estudio-distrito-industrial-castellon.png]]
+![[tfg_frecuencias-velocidad-media-mar-abierto-zona-estudio-distrito-industrial-castellon.png]]
 
 *Figura 53. Rosa de los vientos de las frecuencias de velocidad media en la zona oceánica. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1075,7 +1075,7 @@ En el caso de la zona secundaria norte, los niveles aumentan respecto al inicio 
 
 Los valores son relativamente bajos porque la tendencia ha sido a la sustitución del carbón por gas natural como combustible, y a que la combustión se genera mediante calderas de cogeneración situadas en los extremos noroeste, por lo que los vientos dominantes dispersan los contaminantes hacia el norte (figuras 42, 122 y 124). Los elevados niveles registrados en Almassora tienen su origen en Castelló de la Plana (figuras 42, 123 y 124).
 
-![[evolucion-anual-monoxido-carbono-agrupacion-industrial-ceramica-castellon-2003-2017.png]]
+![[tfg_evolucion-anual-monoxido-carbono-agrupacion-industrial-ceramica-castellon-2003-2017.png]]
 
 *Figura 68. Evolución anual del monóxido de carbono en la agrupación industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1103,7 +1103,7 @@ Esto se debe a que el monóxido de nitrógeno es un contaminante primario, resul
 
 Sin embargo, es un gas muy inestable. En ausencia de compuestos orgánicos volátiles, tiende a reaccionar con el oxígeno atmosférico para formar dióxido de nitrógeno (ecuación 6)
 
-![[formula-formacion-dioxido-nitrogeno.png]]
+![[formula_formacion-dioxido-nitrogeno.png]]
 
 El dióxido de nitrógeno puede sufrir fotodisociación a elevadas radiaciones y generar una molécula de monóxido de nitrógeno y otra de radical oxígeno (ecuación 7)
 
@@ -1111,7 +1111,7 @@ El dióxido de nitrógeno puede sufrir fotodisociación a elevadas radiaciones y
 
 En presencia de compuestos orgánicos volátiles, oxidan el monóxido de nitrógeno, lo que genera dióxido de nitrógeno y radicales peroxi (ecuación 8)
 
-![[formula-creacion-dioxido-nitrogeno.png]]
+![[formula_creacion-dioxido-nitrogeno.png]]
 
 ![[tfg_no-zona-industrial.png]]
 
@@ -1123,7 +1123,7 @@ En presencia de compuestos orgánicos volátiles, oxidan el monóxido de nitróg
 *Figura 72. Evolución anual de la concentración de dióxido de nitrógeno en la agrupación industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
 
-![[evolucion-anual-oxidos-azufre-agrupacion-industrial-ceramica-castellon-1994-2017.png]]
+![[tfg_evolucion-anual-oxidos-azufre-agrupacion-industrial-ceramica-castellon-1994-2017.png]]
 
 *Figura 73. Evolución anual de la concentración de óxidos de nitrógeno en la agrupación industrial. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1135,7 +1135,7 @@ Esto es debido a la dispersión eólica (figura 65) de las moléculas de dióxid
 
 En ausencia de compuestos orgánicos volátiles (COV), el ozono oxida al monóxido de nitrógeno resultado de la fotodisociación del dióxido de nitrógeno (ecuación 3) y genera oxígeno y dióxido de nitrógeno (ecuación 10).
 
-![[formula-disociacion-ozono-monoxidonitrogeno.png]]
+![[formula_disociacion-ozono-monoxidonitrogeno.png]]
 
 ![[tfg_o3-agrupacion-industrial.png]]
 
@@ -1187,7 +1187,7 @@ Esto es debido nuevamente a la combustión incompleta del carbón y el petróleo
 
 En Burriana y Benicàssim la concentración es menor debido a una densidad demográfica menor y a la ausencia de centrales térmicas -lo que también ha pospuesto el comienzo del estudio de su contaminación-, pero finalmente los valores convergen con los de Castelló de la Plana a partir del 2014 aproximadamente (figuras 22, 23, 25 y 82).
 
-![[evolucion-anual-monoxido-carbono-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-1995-2017.png]]
+![[tfg_evolucion-anual-monoxido-carbono-nucleos-urbanos-costeros-proximos-agrupacion-ceramica-castellon-1995-2017.png]]
 
 *Figura 82. Evolución anual de la concentración de monóxido de carbono en los núcleos urbanos próximos al distrito industrial entre 1995 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 
@@ -1269,7 +1269,7 @@ Los valores de óxidos de nitrógeno (figura 93 a 95) son muy inferiores -aproxi
 
 En el 2007 hubo un aumento muy elevado de la contaminación en la mayor parte de estaciones de las zonas rurales cercanas (figuras 93 a 95)
 
-![[evolucion-anual-monoxido-nitrogeno-areas-rurales-cercanas-agrupacion-industrial-castellon-1996-2017.png]]
+![[tfg_evolucion-anual-monoxido-nitrogeno-areas-rurales-cercanas-agrupacion-industrial-castellon-1996-2017.png]]
 
 *Figura 93. Evolución anual de los óxidos de nitrógeno en las zonas rurales próximas a la agrupación industrial entre 1996 y 2017. Fuente: Red Valenciana de Vigilancia y Control de la Contaminación Atmosférica (RVVCCA), elaboración propia*
 

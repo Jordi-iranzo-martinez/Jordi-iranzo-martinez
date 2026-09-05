@@ -1,2 +1,2 @@
 
-![[ferrer-dalmau_864.png]]
+![[ferrer-dalmau_covadonga.png]]

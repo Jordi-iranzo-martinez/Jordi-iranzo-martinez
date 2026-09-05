@@ -1488,7 +1488,7 @@ El clima es tan estable que está clasificado para las distintas regiones del mu
 - **D. Climas continentales:** Temperaturas del mes más frío inferior a -3°C y del mes más cálido superior a 10°C. Típicos de latitudes medias-altas con inviernos rigurosos. Corresponde a los húmedos (Df), manchurianos (Dw), y mediterráneos (Dfc). A su vez, cada uno de ellos se clasifica como antes en subtropicales (a), templados (b), y subpolares o subalpinos (c), pero además se añade la categoría adicional de hipercontinentales (d).
 
 - **E. Climas polares:** Temperaturas del mes más cálido inferior a 10°C. Incluyen el clima de tundra (ET) y el glacial o de hielos perpetuos (EF).
-![[Pasted image 20250724114231.png]]
+![[world_koppen.png]]
 
 Representación visual de la clasificación climática de Köppen-Geiger para el periodo 1980-2016: tropicales (azules oscuro), áridos (rojo, naranja y amarillo), templados (verdes), continentales (azules claros y morados), y polares (grises). 
 
