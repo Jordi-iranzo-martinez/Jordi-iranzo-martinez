@@ -1,3 +1,0 @@
-
-![[napoleon-alpes.png]]
-

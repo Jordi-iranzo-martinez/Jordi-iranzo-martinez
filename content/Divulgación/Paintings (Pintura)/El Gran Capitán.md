@@ -11,7 +11,7 @@ Gonzalo Fernández de Córdoba (1453-1515) fue un noble cordobés al servicio de
 Nació en Montilla (Córdoba) en el seno de una familia noble menor.
 
 
-Se forjó militarmente en la fase final de la Reconquista, durante la toma de Granada (1481-1492) ([[La rendición de Granada]]) bajo las órdenes de los Reyes Católicos.
+Se forjó militarmente en la fase final de la Reconquista, durante la toma de Granada (1481-1492) ([[La rendición de Granada (F. Padilla, 1882)]]) bajo las órdenes de los Reyes Católicos.
 
 Posteriormente, los Reyes Católicos lo enviaron a Italia para auxiliar al reino de Nápoles contra los franceses (1495-1498). Aprendió que los tercios medievales españoles con caballería pesada eran ineficaces contra la infantería suiza y francesa, más disciplinada y mejor armada.
 

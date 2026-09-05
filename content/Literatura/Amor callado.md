@@ -1,5 +1,6 @@
 ---
 tags:
+  - Just_One_Life
   - Evergreen
 ---
 ### Discreción

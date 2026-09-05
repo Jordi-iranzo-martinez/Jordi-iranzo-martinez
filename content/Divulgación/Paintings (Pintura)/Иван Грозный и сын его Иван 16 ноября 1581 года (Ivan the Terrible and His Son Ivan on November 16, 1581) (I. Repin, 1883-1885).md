@@ -1,0 +1,19 @@
+---
+tags:
+  - Just_One_Humankind
+---
+![[Pasted image 20260831204847.png]]
+
+
+The painting depicts the immediate aftermath of a fatal argument between Tsar Ivan IV (Ivan the Terrible) and his eldest son and heir, Tsarevich Ivan Ivanovich. Blinded by a sudden fit of rage, the Tsar struck his son in the temple with his heavy, iron-tipped staff.
+
+
+El zar Iván IV "El Temible" ([[Иван Грозный (S. Eisenstein, 1944)]]) en un arrebato de furia durante una discusión con su hijo, por el aborto que había provocado a su esposa, el príncipe Iván Ivánovich, le asestó un golpe con un bastón en la cabeza. 
+
+El joven cayó sangrando copiosamente. Al verlo, Iván cayó de rodillas abrazando el cuerpo, llorando a gritos y maldiciéndose a sí mismo.
+
+en 1581 agredió a su nuera embarazada (la esposa de su hijo mayor y heredero, el zarévich Iván Ivánovich) por considerar que vestía ropas indecorosas, provocándole un aborto espontáneo.
+
+El príncipe corrió a enfrentarse a su padre y éste le asestó un golpe con un bastón de hierro en la cabeza, derribándolo y sangrando en abundancia. 
+
+El príncipe falleció tres días después. Iván IV falleció en 1584. El trono pasó a manos de su hijo menor Fiódor I, un hombre con severas discapacidades intelectuales cuyo posterior fallecimiento sin descendencia extinguió la milenaria dinastía Rúrik, que hundió a Rusia en el caótico periodo de guerras civiles conocido como el _"Período de los Disturbios"_.

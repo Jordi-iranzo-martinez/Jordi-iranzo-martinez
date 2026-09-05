@@ -32,7 +32,7 @@ Napoleón dio un golpe de Estado en 1799. Todavía estaban con Inglaterra. La al
 
 Napoleón convenció a Carlos IV y a Manuel Godoy para firmar el Tratado de Fontainebleau (1807) por el cual España permitía la presencia de tropas francesas para invadir con el objetivo de invadir Portugal, aliado de Inglaterra que se negaba a cumplir el bloqueo comercial que Napoleón había impuesto a los británicos. Portugal conquistada se repartiría entre Francia y España, con un principado al sur para Godoy.
 
-Napoleón invadió España en 1808. Carlos IV y su hijo Fernando VII le entregaron la Corona a Napoleón y este nombró rey a su hermano José (¨José I"). El pueblo español se levantó en armas ([[El dos de mayo en Madrid]]) y comenzó una sangrienta guerra de guerrillas.
+Napoleón invadió España en 1808. Carlos IV y su hijo Fernando VII le entregaron la Corona a Napoleón y este nombró rey a su hermano José (¨José I"). El pueblo español se levantó en armas ([[El dos de mayo en Madrid (F. de Goya, 1814)]]) y comenzó una sangrienta guerra de guerrillas.
 
 Los ciudadanos locales formaron juntas de gobierno para autoorganizarse, que se unían en la Junta Suprema Central, la cual decide convocar unas Cortes (Parlamento) para reorganizar el país.
 

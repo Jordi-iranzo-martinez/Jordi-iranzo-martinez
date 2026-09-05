@@ -2,10 +2,11 @@
 tags:
   - Just_One_Humankind
 ---
-Der letzte Jude von Winniza ("The Last Jew in Vinnitsa") ist eine der bekanntesten und erschütterndsten Fotografien des Holocaust, die die systematische Ermordung von Juden durch die Einsatzgruppen der Nationalsozialisten in Osteuropa dokumentiert.
-
 ![[photography_last-jew-vinitza.png]]
 
+
+
+Der letzte Jude von Winniza ("The Last Jew in Vinnitsa") ist eine der bekanntesten und erschütterndsten Fotografien des Holocaust, die die systematische Ermordung von Juden durch die Einsatzgruppen der Nationalsozialisten in Osteuropa dokumentiert.
 
 Das Foto entstand vermutlich 1941 in Winniza (Vinnytsia), einer Stadt in der heutigen Ukraine, während der deutschen Besatzung nach dem Überfall auf die Sowjetunion. Es zeigt einen deutschen Soldaten einer Einsatzgruppe, der einen knienden jüdischen Mann am Rand einer Grube erschießt, die bereits mit den Leichen zuvor Ermordeter gefüllt ist. Solche Massenerschießungen waren die Methode, mit der die Einsatzgruppen – mobile Todesschwadronen, die der Wehrmacht folgten – Hunderttausende Juden, Roma und andere Zivilisten in den besetzten Gebieten Osteuropas ermordeten, noch bevor die systematischere Vernichtung in Lagern wie Auschwitz voll etabliert war.
 

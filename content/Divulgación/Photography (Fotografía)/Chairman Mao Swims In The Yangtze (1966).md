@@ -2,7 +2,6 @@
 tags:
   - Just_One_Humankind
 ---
-
 ![[photopgraphy_mao-bath.png]]
 
 On July 16, 1966, Mao Zedong, then 72 years old, took a widely publicized swim in the Yangtze River near Wuhan. State media reported he swam for about 65 minutes, covering roughly 15 kilometers, aided significantly by the river's strong current. The event was heavily photographed and filmed, and images of Mao in the water — surrounded by supporters and swimmers — were distributed across China.

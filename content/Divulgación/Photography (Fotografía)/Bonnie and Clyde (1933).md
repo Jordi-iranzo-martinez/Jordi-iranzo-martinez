@@ -2,7 +2,6 @@
 tags:
   - Just_One_Humankind
 ---
-
 ![[photography_bonnie-clyde.png]]
 
 Bonnie Parker and Clyde Barrow were an outlaw couple who became notorious during the Great Depression for a two-year crime spree across the central United States, robbing small banks, gas stations, and stores, and killing at least nine police officers and several civilians along the way. They ran with a loose gang that included Clyde's brother Buck Barrow and others.

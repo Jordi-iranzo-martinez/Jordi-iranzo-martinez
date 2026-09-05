@@ -24,7 +24,7 @@ Los Tercios Españoles fueron cercados por el ejército francés del duque de En
 
 Tras rechazar repetidas ofertas de rendición honrosa, el último tercio resistió a cuerpo descubierto frente a las descargas masivas de la artillería francesa hasta ser prácticamente exterminado en el lodo.
 
-[[La rendición de Breda (Velázquez, c.1635)]]
+[[La rendición de Breda (D. de Velázquez, 1634-1635)]]
 
 
 

@@ -1,5 +1,6 @@
 ---
 tags:
+  - Just_One_Life
   - Evergreen
 ---
 Atardece mientras leo. Acerco mi silla a la ventana para apreciar el ocaso. Observo que se han formado oscuras nubes bajas en el cielo. 

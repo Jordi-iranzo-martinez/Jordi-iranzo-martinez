@@ -1,4 +1,12 @@
+![[Pasted image 20260823184503.png]]
 
+
+Behind Closed Doors
+
+When Ferrato attempted to intervene to protect Lisa, the husband brushed her off entirely, chillingly asserting that he was simply exercising his "right to discipline his wife". 
+
+
+Even more shocking was the reaction of the media establishment at the time. When Ferrato brought the stark proof of abuse to various magazine editors, virtually every publication refused to print it. Editors argued that domestic disputes were private, family matters that did not belong in public view. The photograph remained unpublished for nearly a decade until Ferrato funded and released her own landmark book on domestic abuse in 1991, also titled Living with the Enemy.
 
 _**"Behind Closed Doors" (1982)**_ is not a film or a book, but **one of the most raw, shocking, and influential documentary photographs in the history of 20th-century photojournalism**. Captured by American photographer and activist **Donna Ferrato**, it is officially listed by _TIME_ magazine as one of the 100 Most Influential Photographs of All Time.
 
@@ -22,5 +30,3 @@ While it is celebrated as a historic icon today, the path to getting the image p
 - **A Tool for Justice:** The photograph ultimately served as crucial physical evidence that helped Elisabeth secure a divorce, win custody of her children, and legally remove her abuser from her life forever.
 
 
-
-![[Pasted image 20260823184503.png]]

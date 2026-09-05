@@ -5,6 +5,9 @@ tags:
 ![[photography_man-on-moon.png]]
 
 
+
+
+
 The image, taken by Neil Armstrong, shows Buzz Aldrin standing on the lunar surface in his white spacesuit, visor down, reflecting the landscape and Armstrong himself in the gold visor. It's one of the most reproduced images in history and has become a defining visual symbol of the entire Space Race and the Apollo program.
 
 Armstrong and Aldrin landed the Lunar Module _Eagle_ in the Sea of Tranquility while Michael Collins orbited above in the Command Module _Columbia_. Armstrong was first to step onto the surface, delivering his famous "one small step" line, with Aldrin following about 19 minutes later. The two spent roughly two and a half hours outside the module, collecting samples, taking photographs, and setting up scientific instruments, including a seismometer and a retroreflector for laser-ranging experiments still used today.

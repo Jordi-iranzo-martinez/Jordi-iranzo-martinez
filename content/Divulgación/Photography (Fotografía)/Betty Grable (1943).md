@@ -1,24 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![[photography_betty-grable.png]]
 
 
@@ -35,6 +15,8 @@ While she starred in massively successful Technicolor musicals such as _Down Arg
 Grable's most celebrated physical trademark was her legs, shaped by years of rigorous professional dance training since childhood.
 
 - In a legendary publicity masterstroke that set an entertainment industry precedent, 20th Century Fox took out a **$1 million insurance policy on her legs** with the famous Lloyd's of London underwriters. This staggering financial contract forever embedded her in pop culture history under her definitive moniker: **"The Million Dollar Legs."**
+
+The distinctive "back-shot" pose was entirely accidental. At the time of the photo shoot, Grable was in the early stages of pregnancy. To discreetly conceal her changing figure, Powolny suggested she turn her back to the camera and smile over her shoulder. Dressed in a simple, one-piece white swimsuit and wearing high heels, the resulting silhouette perfectly highlighted her features and her famously insured legs.
 
 As musicals fell out of fashion in the 1950s, her film career wound down, though she continued performing on stage, including in Las Vegas and in touring productions. She was married twice, most notably to bandleader Harry James, and had two daughters with him.
 

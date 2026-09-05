@@ -3,7 +3,6 @@ tags:
   - Just_One_Humankind
   - Just_One_Planet
 ---
-
 ![[photography_emu-war.png]]
 
 The "Emu War" was a peculiar 1932 military operation in Western Australia, where soldiers were deployed against emus — and it's remembered largely as a farcical failure for the human side.

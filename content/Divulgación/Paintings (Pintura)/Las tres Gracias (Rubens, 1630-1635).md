@@ -1,7 +1,10 @@
 
 ![[Pasted image 20260824002434.png]]
 
-En la mitología griega, las Gracias (o _Cárites_) eran las tres hijas de Zeus y la ninfa Eurínome. Sus nombres eran **Aglae** (la brillante), **Eufrósine** (el júbilo) y **Talía** (la floreciente).
+En la mitología griega, las Gracias (o _Cárites_) eran las tres hijas de Zeus y la ninfa Eurínome. Sus nombres eran Aglae (la brillante), Eufrósine (el júbilo) y Talía (la floreciente).
+
+
+
 
 Eran las diosas de la sensualidad, la belleza, la danza, la naturaleza y la fertilidad. Formaban parte del séquito de Afrodita (Venus) y su propósito en el Olimpo era infundir alegría, armonía y el gusto por la vida tanto en el corazón de los dioses como en el de los mortales. Rubens las pintó en una postura clásica tomada de la escultura antigua: desnudas, abrazadas en un círculo íntimo y conectadas visualmente a través de sus brazos y sábanas transparentes.
 

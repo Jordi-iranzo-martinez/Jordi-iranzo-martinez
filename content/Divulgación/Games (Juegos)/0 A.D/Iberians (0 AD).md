@@ -97,7 +97,7 @@ When they came to the Roman camp to earn the reward, Cepion refused with the fam
 
 > _"Roma traditoribus non praemat"_ (Rome doesn't pay traitors)
 
-[[La muerte de Viriato]]
+[[La muerte de Viriato (J. de Madrazo, 1806-1807)]]
 
 
 
