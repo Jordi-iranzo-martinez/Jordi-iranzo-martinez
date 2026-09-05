@@ -28,7 +28,7 @@ Se calcula que entre 80.000 y 100.000 judíos prefirieron el destierro y el aban
 
 Esta gigantesca ola de emigración forzosa dio origen a la comunidad de los judíos sefardíes (término derivado de Sefarad, la palabra hebrea para designar a España), quienes se dispersaron por el norte de África, Italia y, de manera muy destacada, por los territorios del Imperio otomano, manteniendo vivo el idioma ladino (judeoespañol) durante más de cinco siglos.
 
-[[El ángel de Budapest]]
+[[El ángel de Bucarest (L. Oliveros, 2011)]]
 
 Tanto monta 
 
