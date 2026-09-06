@@ -2,7 +2,13 @@
 tags:
   - Just_One_Humankind
 ---
+"Zorba's Dance" lies in its hypnotic pacing, heavily driven by the metallic, bright sound of the bouzouki (a traditional Greek stringed instrument).
 
+
+
+
+
+"Zorba's Dance" (popularly known as "Sirtaki") is arguably the most famous piece of Greek music ever written. Composed in 1964 by the legendary Greek musician and political activist Mikis Theodorakis, it served as the main theme for the critically acclaimed film Zorba the Greek, starring Anthony Quinn.
 
 
 

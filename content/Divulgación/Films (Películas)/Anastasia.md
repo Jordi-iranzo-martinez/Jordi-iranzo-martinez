@@ -7,7 +7,7 @@ Anastasia (1901-19018) era gran Duquesa la hija del zar (del latín *Caesar*: "e
 ![[Pasted image 20260831171752.png]]
 
 
-Después de la revolución de octubre liderada por Lenin ([[Lenin]]), la familia real es apresada.
+Después de la revolución de octubre liderada por Lenin ([[Lenin (G.P. Goldstein, 1920)]]), la familia real es apresada.
 
 Rasputín 
 

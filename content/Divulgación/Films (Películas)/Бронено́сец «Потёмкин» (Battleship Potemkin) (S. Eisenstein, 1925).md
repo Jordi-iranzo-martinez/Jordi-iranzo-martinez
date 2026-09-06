@@ -26,7 +26,7 @@ El Zar ordenó a toda la Flota del Mar Negro dar caza y hundir al Potemkin. El 3
 
 El 8 de julio de 1905 navegó hacia el puerto de Constanța, en Rumanía. Los marineros negociaron su rendición con el gobierno rumano a cambio de asilo político para evitar ser ejecutados en Rusia. El líder Matusenko ordenó abrir las válvulas de fondo del barco para inundar el acorazado y hundirlo en el puerto para que el Zar no pudiera recuperarlo.
 
-La mayoría de los 600 marineros se quedaron a vivir en el exilio en Rumanía trabajando como campesinos o artesanos. El líder del motín, Afanasy Matusenko, vivió un tiempo en Suiza donde llegó a reunirse en persona con Vladímir Lenin ([[Lenin]]) para debatir sobre la revolución.
+La mayoría de los 600 marineros se quedaron a vivir en el exilio en Rumanía trabajando como campesinos o artesanos. El líder del motín, Afanasy Matusenko, vivió un tiempo en Suiza donde llegó a reunirse en persona con Vladímir Lenin ([[Lenin (G.P. Goldstein, 1920)]]) para debatir sobre la revolución.
 
 En 1907 regresó a Rusia con una identidad falsa para continuar la lucha clandestina; fue traicionado, capturado por la policía zarista y ejecutado en la horca.
 

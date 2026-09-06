@@ -35,7 +35,7 @@ Mientras ella duerme en el hospital, el mundo cambia para siempre: cae el Muro d
 
 Berlín se transformó por el consumismo. 
 
-[[Lenin]]
+[[Lenin (G.P. Goldstein, 1920)]]
 
 
 por vallas publicitarias de Coca-Cola y coches occidentales, la mujer asiste a un espectáculo surrealista: un helicóptero militar transporta colgada de un cable una estatua gigante de bronce de Vladímir Lenin.

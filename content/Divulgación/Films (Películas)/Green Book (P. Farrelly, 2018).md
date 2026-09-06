@@ -7,7 +7,7 @@ Green Book (P. Farrelly, 2018)
 
 ### Green Book
 
-El título se refiere a *The Negro Motorist Green Book* ("Green Book"): una guía de viaje publicada anualmente en Estados Unidos entre 1936 y 1966 como herramienta de supervivencia para los ciudadanos afroamericanos que viajaban en coche durante la época de la segregación racial ([[Lynching of Thomas Shipp and Abram Smith (1930)]]).
+El título se refiere a *The Negro Motorist Green Book* ("Green Book"): una guía de viaje publicada anualmente en Estados Unidos entre 1936 y 1966 como herramienta de supervivencia para los ciudadanos afroamericanos que viajaban en coche durante la época de la segregación racial ([[Lynching of Thomas Shipp and Abram Smith (L. Beitler, 1930)]]).
 
 Fue fundado por Victor Hugo Green, un cartero afroamericano que vivía en el barrio de Harlem, Nueva York. El color verde (Green en inglés) hacía referencia a la luz verde de los semáforos, simbolizando que el camino estaba libre y era seguro para avanzar.
 
