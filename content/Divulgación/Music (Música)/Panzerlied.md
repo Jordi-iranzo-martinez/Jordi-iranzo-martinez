@@ -1,3 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+---
 
 „Panzerlied" ist ein bekanntes deutsches Marschlied, das eng mit der Panzerwaffe verbunden ist.
 

@@ -13,7 +13,7 @@ The IPCC does not carry out original scientific research or monitor climate metr
 To organize its vast evaluation work, the IPCC divides its scientific panels into three distinct pillars and a specialized task force:
 
 - **Working Group I (WGI) – The Physical Science Basis:** Evaluates the hard science behind climate systems and how human greenhouse gas emissions drive global warming anomalies.
-- 
+
 - **Working Group II (WGII) – Impacts, Adaptation, and Vulnerability:** Reviews how climate change damages natural biodiversity and human settlements, pinpointing solutions to build structural resilience and adaptation targets.
 
 - **Working Group III (WGIII) – Mitigation of Climate Change:** Analyzes methods, technologies, and economic pathways to reduce greenhouse gas emissions and withdraw carbon dioxide from the atmosphere.

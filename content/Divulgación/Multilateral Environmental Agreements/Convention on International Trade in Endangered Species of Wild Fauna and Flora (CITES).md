@@ -8,7 +8,7 @@ tags:
 The [Convention on International Trade in Endangered Species of Wild Fauna and Flora](https://cites.org) (CITES) (Washington) also known as the Washington Convention
 
 
-b [[International Union for the Conservation of Nature (IUCN)]]
+b [[International Union for the Conservation of Nature]]
 
 
 

@@ -8,7 +8,7 @@ tags:
 The [Convention on the Conservation of Migratory Species of Wild Animals](https://www.cms.int/) (Bonn, 1983)
 
 
-The Bonn Convention, officially known as the Convention on the Conservation of Migratory Species of Wild Animals (CMS), is an international treaty aimed at conserving terrestrial, marine, and avian migratory species throughout their range. Signed in Bonn, Germany, in 1979 under the aegis of the [[United Nations Environment Programme (UNEP)]] (UNEP), it entered into force in 1983.
+The Bonn Convention, officially known as the Convention on the Conservation of Migratory Species of Wild Animals (CMS), is an international treaty aimed at conserving terrestrial, marine, and avian migratory species throughout their range. Signed in Bonn, Germany, in 1979 under the aegis of the [[United Nations Environment Programme]] (UNEP), it entered into force in 1983.
 
 
 

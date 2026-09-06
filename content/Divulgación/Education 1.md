@@ -56,10 +56,7 @@ The success of global environmental protection efforts will ultimately depend on
 
 
 
-![[Man and Biosphere (MaB) sites by UNESCO.png]]
 
-
-# Conclusions
 
 
 

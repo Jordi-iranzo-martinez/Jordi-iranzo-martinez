@@ -1,9 +1,13 @@
 
 
-Masanobu Fukuoka (1913-2008) was a japanese agricultor, biologist and philosophist
-
+Masanobu Fukuoka (1913-2008) was a Japanese agricultor, biologist and microbiologist, and philosopherl, globally recognized for creating natural farming, which mimicks natural ecosystems instead of dominating them.
 
 ![[masanobu-fukuoka.jpg]]
+
+
+His masterpiece, the book [The One-Straw Revolution](https://uk.bookshop.org/p/books/the-one-straw-revolution-an-introduction-to-natural-farming-masanobu-fukuoka/93fe78d9d7fef158?ean=9788185569314&bkshp-astro=t) (1978), became an inspiring, foundational text for worldwide movements like permaculture, organic farming, and regenerative design.
+
+
 
 1. No tillage
 2. No fertilizer
