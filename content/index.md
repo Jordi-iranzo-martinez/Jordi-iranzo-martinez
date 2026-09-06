@@ -6,6 +6,9 @@ subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposi
 
 ![[jordi-iranzo-martinez.jpg]]
 
+![[jordi-iranzo-martinez.png]]
+
+
 
 ¡Hola!
 
