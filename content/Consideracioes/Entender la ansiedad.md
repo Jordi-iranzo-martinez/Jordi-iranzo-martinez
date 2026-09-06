@@ -16,7 +16,7 @@ Se libera
 El sistema de alarma (amígdala, eje hipotálamo-hipófisis-suprarrenal). 
 
 
-La amígdala (del griego amygdala: "almendra") es una pequeña estructura situada cada hemisferio del cerebro, en el sistema límbico.
+La amígdala (del griego *amygdala*: "almendra") es una pequeña estructura situada cada hemisferio del cerebro, en el sistema límbico.
 
 La ansiedad se manifiesta en varios planos a la vez — físico, mental, emocional y de conducta. No todo el mundo tiene todos los síntomas, y el patrón varía bastante de una persona a otra, pero aquí tienes un panorama general:
 
