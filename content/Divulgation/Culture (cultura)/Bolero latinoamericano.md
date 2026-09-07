@@ -34,6 +34,7 @@ Hay miles de boleros, pero estos tres forman parte del ADN cultural del mundo:
 - "[Quizás, Quizás, Quizás](https://soundcloud.com/djpanchibiris2013/quizas-quizas?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)" (Osvaldo Farrés, 1947):
 - "[Historia de un Amor](https://soundcloud.com/le-thien-phuc-793335072/historia-de-un-amor-guadelupe-pineda-cover-by-burcin?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)" (Carlos Eleta Almarán, 1955)
 - "[Sabor a Mí](https://soundcloud.com/eydie-gorme/sabor-a-mi-feat-los-panchos?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)" (Álvaro Carrillo, 1959)
+- Dos Gardenias (Isolina Carrillo, 1935)
 
 Fue declarada Patrimonio Cultural Inmaterial de la Humanidad** por la UNESCO en el 2023.
 
