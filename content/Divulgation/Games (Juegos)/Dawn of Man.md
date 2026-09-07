@@ -64,3 +64,4 @@ Era de los Metales (Cobre, Bronce e Hierro)
 - **Malaquita y Casiterita (Cobre y Estaño):** Para fundir bronce, el juego te obliga a extraer y mezclar ambos minerales en un horno de fundición utilizando **carbón vegetal**. _Divulgación:_ Historia de la metalurgia y la geología minera. El bronce es una aleación metálica. Puedes explicar a tus lectores que el cobre puro es demasiado blando para armas o herramientas, pero al añadirle un porcentaje de estaño (casiterita), los átomos se reorganizan haciendo el material muchísimo más duro y resistente.
 
 
+https://primitivetechnology.wordpress.com/

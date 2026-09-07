@@ -6,6 +6,8 @@ tags:
 
 On August 13, 1961, the East German government began sealing off the border to stop its citizens from fleeing to the West. In those first few days, the "wall" was not yet a massive concrete structure; it was merely a single coil of concertina barbed wire strung across city streets.
 
+[[Das Leben der Anderen (2006)]]
+
 On August 15, a 19-year-old East German conscript named Hans Conrad Schumann was stationed to guard the sector boundary on Bernauer Straße. As he stood duty, he watched in horror as families were forcibly torn apart and West Berliners stood across the line shouting protests. When he saw supply trucks pulling up with heavy concrete blocks and more barbed wire, a sudden panic seized him: he realized he would be permanently enclosed in the East if he did not act immediately.
 
 Schumann’s leap was not entirely random; it was a tense, calculated choice. Over several hours, he subtly signaled his intentions to the crowd on the Western side:

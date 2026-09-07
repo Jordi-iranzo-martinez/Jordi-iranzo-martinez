@@ -2,6 +2,15 @@
 tags:
   - Just_One_Humankind
 ---
+The British Special Forces (SAS) were born in 1941 in the North African desert founded by a Scottish officer David Stirling, camuflaged for the German espionage as "L Detachment, Special Air Service Brigade."
+
+After a first parachute drop resulted in an absolute disaster due to a desert storm, the SAS radically changed its strategy.
+
+They partnered with the LRDG (Long Range Desert Group), a unit expert in navigating trucks through the deep Sahara, and invented a devastating tactic: they modified a fleet of Jeep utility vehicles, arming them with armor plating and mounting dual Vickers K machine guns salvaged from obsolete aircraft.
+
+
+
+
 
 Las fuerzas especiales británicas (SAS) nacieron en 1941 en el desierto del norte de África de la mano de un oficial escocés visionario: David Stirling
 

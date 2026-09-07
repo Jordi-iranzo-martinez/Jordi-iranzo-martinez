@@ -1,3 +1,9 @@
+---
+tags:
+  - Just_One_Humankind
+  - Just_One_Life
+  - Evergreen
+---
 
 This War of Mine (2014) is inspired mainly in the Siege of Sarajevo (1992–1996) during the Bosnian War: the longest siege of a capital city in the history of modern warfare.
 
