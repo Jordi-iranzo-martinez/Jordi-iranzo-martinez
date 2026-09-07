@@ -8,7 +8,7 @@ Another Day of Life (2018) es un relato autobiográfico de Ryszard Kapuściński
 que narra los últimos días de Angola como colonia portuguesa en 1975, y las terribles consecuencias de esta descolonización: una guerra civil que asoló la región hasta hace muy poco. Coproducción polaco-española, en formato de docudrama de animación para adultos.
 
 
-La trama se sitúa en 1975, en los estertores de la Guerra Civil de Angola. Tras la Revolución de los Claveles en Portugal (FOTO CLAVELES) ([[Grândola, Vila Morena]])
+La trama se sitúa en 1975, en los estertores de la Guerra Civil de Angola. Tras la Revolución de los Claveles en Portugal (FOTO CLAVELES) ([[Grândola, Vila Morena (J. Afonso, 1971)]])
 
 El imperio colonial portugués se desploma de golpe y abandona el país tras cinco siglos de control.
 

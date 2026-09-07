@@ -3,63 +3,97 @@ tags:
   - Just_One_Humankind
 ---
 
-La Liga Hanseática, también conocida como la Hansa, fue una poderosa federación comercial y defensiva de ciudades y gremios de comerciantes de la Europa central y septentrional que dominó el comercio del mar Báltico y del mar del Norte durante la Edad Media y el inicio de la Edad Moderna.
+Patrician III (2002) is set on the Hanseatic League between 13 and 14 centuries.
 
-Nació a finales del siglo XII y se consolidó a lo largo del siglo XIII a partir de acuerdos de protección mutua entre mercaderes alemanes.
+### The Hanseatic League
 
-La ciudad de Lübeck (en el norte de Alemania) funcionó como el centro neurálgico y sede de las reuniones de la Dieta Hanseática.
+The Hanseatic League (or Hansa) was a powerful commercial and defensive confederation of merchant guilds and market towns in Northwestern and Central Europe.
 
-Llegó a integrar a cerca de 200 ciudades y factorías comerciales (_Kontors_) en países actuales como Alemania, Polonia, los Países Bajos, los Estados bálticos y Rusia (hasta Nóvgorod).
+Stretching from the Baltic to the North Sea, it dominated maritime trade for over three centuries (from the late 1100s to the 1600s), operating almost like a borderless merchant empire.
 
-Poder económico sin Estado: No era un país formal ni tenía un monarca centralizado; funcionaba mediante la cooperación económica, leyes mercantiles compartidas y el uso de barcos armados (Kogg) para combatir la piratería.
+The League wasn't a centralized nation with a king; it was a network of over 200 affiliated cities. Its political heart and capital was the city of Lübeck (in modern Germany).
 
-Monopolizó el comercio de pescado salado (principalmente arenque), cereales, madera, pieles, cera, resina y la valiosa sal de Luneburgo (oro blanco).
+The Hansa operated on a giant supply loop, connecting the raw resources of the East with the manufactured goods of the West:
 
-Oficinas extranjeras (Kontors): Estableció bases comerciales estratégicas e independientes en enclaves clave como Brujas (Bélgica), Bergen (Noruega), Londres (Inglaterra) y Nóvgorod (Rusia).
+- **The Eastern Ports (Danzig, Riga, Reval):** Supplied the West with vital raw materials like timber (for shipbuilding), fur, wax, flax, and massive quantities of grain.
 
-Sí, los piratas eran una amenaza constante y brutal en el mar del Norte y en el mar Báltico durante el apogeo de la Liga Hanseática. La propia Liga nació en gran medida para que las ciudades unieran sus barcos y recursos para protegerse de ellos.
+- **The Western & Central Hubs (Hamburg, Cologne, London):** Distributed manufactured goods like cloth, metal tools, wine, and beer.
 
-Los Hermanos de las Vituallas (_Vitalienbrüder_) fueron los piratas más famosos y organizados del norte de Europa. Nacieron como corsarios contratados por los duques de Mecklemburgo para romper el asedio danés sobre Estocolmo, llevando comida y provisiones (de ahí el nombre de _"vituallas"_).
+They held absolute control over crucial commodities like herring (essential for fasting during Christian Lent) and salt (from Lüneburg, used to preserve that fish).
 
-Cuando la guerra terminó, decidieron no disolverse y se convirtieron en piratas independientes bajo el lema: _"Amigos de Dios y enemigos del mundo"_. Capturaron la isla de Gotland, saquearon la ciudad de Bergen y paralizaron el comercio de la sal y el arenque, poniendo a la Liga Hanseática en jaque durante décadas.
+To manage this vast network, the League built *Kontore* (specialized, highly fortified trading posts) in foreign cities. The four most famous ones were London (England), Bruges (Belgium), Bergen (Norway), and Novgorod (Russia).
 
-Klaus Störtebeker, llamado "El Robin Hood del Mar" era el pirata más legendario de esta región (y un personaje recurrente en la cultura popular alemana). Era uno de los líderes de los Hermanos de las Vituallas.
+These outposts enjoyed massive tax exemptions and legal privileges. The League became so rich that it maintained its own private mercenary armies and navies.
 
-Se decía que tenía una fuerza descomunal y que podía beberse una jarra de cerveza de cuatro litros de un solo trago.
+If a foreign king tried to tax Hanseatic merchants, the League would launch a total naval blockade, starving the kingdom into submission.
 
-En 1401, una flota de Hamburgo (liderada por el famoso barco _Simón de Utrecht_) lo capturó tras una feroz batalla naval. Fue decapitado junto con todos sus hombres.
-
-Empezar en el año 1300: Es el reto clásico. Las ciudades son más pequeñas, tienen menos población y la demanda de productos es menor. Es más difícil ganar dinero rápido, pero los astilleros tardan menos tiempo en construir barcos básicos.
-
-Empezar en el año 1400: La Liga Hanseática está en su máximo apogeo. Las ciudades tienen mucha más población, lo que genera una demanda masiva de bienes y te permite amasar grandes fortunas vendiendo rápido. Es mucho más difícil mantener contentos a tantos ciudadanos, la escasez de comida e invierno golpea más duro y los astilleros tardan más días en fabricar barcos. Además, en este año ya puedes construir los poderosos Galeones.
+That happened with King Valdemar IV of Denmark in 1370.
 
 
-![[{254F8982-B9C4-4AB1-82F3-DD0D955ADD46}.png]]
+### Pirates
+
+In the late 1300s, the Baltic Sea virtually collapsed due to a legendary fraternity of pirates known as the Vitalienbrüder (Victual Brothers).
+
+They were originally hired as privateers (legal mercenaries) by German dukes to break a Danish naval blockade and smuggle food (victuals) to a besieged Stockholm.
+
+ Once the war ended, they refused to stop fighting. They took over the island of Gotland as their fortress and began raiding every ship in the Baltic—especially wealthy Hanseatic Cogs filled with salt, herring, and cloth.
+
+ They rebranded themselves as the Likedeelers (meaning "Equal Sharers"), because they strictly divided all stolen gold and cargo equally among the crew, defying the strict feudal hierarchies of the time.
+
+Their most famous leader was a man named Klaus Störtebeker (famed for his ability to chug a giant mug of beer in one breath). The Hanseatic city of Hamburg eventually built a fleet of specialized warships, hunted him down, and beheaded him and 72 of his companions in 1401.
 
 
-**Goleta** (Snaikka): rutas fluviales rápidas (como a Nóvgorod), exploración y caza de piratas.
+### Ships
 
-**Carabela** (Crayer): barco equilibrado entre velocidad y carga, que permite llegar a ciudades fluviales.
+#### Kogge
 
+The Hanseatic League was based on merchant ships to move good across the Baltic and North Seas.
 
-**Nao** _(Kogge / Cogg)_: barco histórico de la Hansa, para transportar bienes pesados (sal, grano, madera) en mar abierto.
+Its most iconic was the *Kogge* (Cog), a bulky, flat-bottomed vessel built with a single, massive square sail. It featured a straight stempost and sternpost, and used clinker building (overlapping hull planks) which made it sturdy.
 
-**Galeón** _(Holk)_: fortaleza flotante para convoyes militares y grandes rutas.
+Its flat bottom allowed it to sit upright on the mud when the tide went out in shallow northern ports, making it easy to load and unload goods like timber, salt, and grain.
 
-Para defenderte de los piratas o convertirte en uno, debes llevar tus barcos al **Astillero** para mejorarlos económicamente a cambio de sacrificar espacio de carga para colocar cañones. Existen tres tipos de armas que puedes comprar en el arsenal:
-
-- **Flechas/Ballestas:** Muy baratas. No dañan el casco del barco enemigo, pero eliminan a su tripulación (ideal si tu objetivo es abordar y capturar el barco intacto).
-
-- **Catapultas:** Causan un daño moderado al casco a corta distancia.
-
-- **Cañones / Bombardas:** Las armas más caras y potentes. Destruyen el casco del enemigo desde lejos. Son obligatorias para los Galeones pesados.
+To protect against pirates, Cogs were fitted with raised wooden platforms at the front and back called castles. Archers and crossbowmen stood on these high platforms to fire down onto attacking pirate vessels.
 
 
-Los convoyes 
-Cuando tus rutas comerciales se vuelven peligrosas, puedes agrupar varios barcos en un Convoy. En un convoy, designas a un barco fuertemente armado como Escolta (que debe contar con un Capitán contratado en la taberna). Los barcos comerciales desarmados viajarán protegidos detrás de él; si un pirata ataca, solo el barco escolta entrará en la pantalla de batalla naval para defender al resto.
+#### Krayer
+
+The _Krayer_ (Crayer) was a three-masted ship, combining square sails with a lateen (triangular) sail at the back.
+
+It acted as a fast merchant ship for high-value goods (silver, spices, fine cloth...). Because of its speed and agility, it was the preferred choice for anti-pirate escort duties or for hunting down rogue captains like Klaus Störtebeker.
 
 
+#### Hulk
 
-A partir del siglo XVI, la apertura de las rutas atlánticas tras el descubrimiento de América, el surgimiento de estados nacionales con monarquías fuertes y la competencia de potencias como los Países Bajos restaron protagonismo a los mares interiores.
+By the 1400s, the League needed to compete with growing kingdoms and handle even larger trading volumes, leading to the adoption of the Holk.
 
-La última asamblea general o Dieta se celebró en 1669, marcando el final definitivo de la federación mercantil.
+It was much larger and more rounded than the Cog. It featured a fully enclosed deck and multiple masts, incorporating the latest European shipbuilding technologies.
+
+The Holk replaced the Cog as the heavy backbone of the fleet. It held a massive amount of cargo and could be heavily armed with early gunpowder cannons, making it a true floating fortress on the Baltic Sea.
+
+
+#### _Snaier_
+
+The Snaikka (Snaier / Schnoor) – The River Scout
+
+they needed to transport goods deep into the European interior via major rivers like the Rhine, the Elbe, and the Vistula.
+
+A small, shallow-draft boat heavily influenced by traditional Viking longship designs, utilizing both a small sail and oars.
+
+It was the only ship capable of navigating shallow inland rivers to reach landlocked trading cities (like Thorn or Breslau). It was also used as a coastal scout to spot pirate ambushes before the main fleet arrived.
+
+
+### Weapons
+
+In real 14th- and 15th-century history, the Hanseatic League was an early adopter of gunpowder at sea, but their ships used a different tactical arsenal.
+
+Before the late 1400s, cannons were not strong enough to sink a wooden ship. Hanseatic Cogs were armed with Swivel Guns (skorpians or serpentines) mounted on the wooden castle rails. These were loaded with stone shrapnel or iron darts designed to shred the enemy crew right before boarding.
+
+Traditional Greek Fire (liquid flamethrowers), large mounted crossbows (ballistas), and mechanical stone-throwers (springalds) were used to set enemy sails on fire.
+
+Real hand-to-hand fighting on a cramped wooden deck was chaotic. Sailors didn't just use cutlasses; their primary weapons were boarding pikes (to keep enemies from jumping onto the ship) and heavy boarding axes (used both to chop down enemy rigging and split skulls).
+
+
+### Aftermatch
+
+By the late 1500s and 1600s, the Hanseatic League began to collapse due the discovery of America, the rise of strong, centralized kingdoms, and the Thirty Years' War (1618–1648), which devastated Germany.

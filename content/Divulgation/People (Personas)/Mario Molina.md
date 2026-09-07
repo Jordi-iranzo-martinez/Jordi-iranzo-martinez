@@ -2,5 +2,5 @@
 tags:
   - Memorias_Hispanas
 ---
-[[Viena Convention]]
+[[Viena Convention (1985, 1988)]]
 

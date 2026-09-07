@@ -6,7 +6,7 @@ tags:
 The title "Kalinka" is a loving diminutive of the word kalina, which refers to the snowball tree (*Viburnum opulus*). The chorus also mentions malinka, which is the diminutive for raspberry (_malina_).
 
 
-*Alongside [[Коробейники (Korobeiniki) (1861)]], it was featured in [[Tetris (1984)]], most notably  as "Type-B" or "Type-C" tracks in various iterations).*
+*Alongside [[Коробейники (Korobeiniki) (1861)]], it was featured in [[Tetris (A. Пажитнов, 1984)]], most notably  as "Type-B" or "Type-C" tracks in various iterations).*
 
 
 

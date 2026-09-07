@@ -7,4 +7,4 @@ The peddler carries a crate full of goods (textiles, ribbons, and lace) to sell 
 
 The peddler is finally robbed and murdered by a forest ranger on his way back home.
 
-Hirokazu Tanaka, Nintendo's sound composer, selected Korobeiniki to the [[Tetris (1984)]] as main backing track, labeling it "Type-A".
+Hirokazu Tanaka, Nintendo's sound composer, selected Korobeiniki to the [[Tetris (A. Пажитнов, 1984)]] as main backing track, labeling it "Type-A".

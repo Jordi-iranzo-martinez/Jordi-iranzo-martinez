@@ -1,4 +1,5 @@
 
+God Save the King (or Queen, depending on the sex of the monarch) (Anonymous, 1745¿) is the official national anthem of the United Kingdom and the royal anthem of most Commonwealth realms
 
 Its rise to fame happened in September **1745** at the _Drury Lane Theatre_ in London: Prince Charles Edward Stuart (the "Jacobites") was leading a military rebellion from Scotland to overthrow King George II of Great Britain.
 

@@ -2,16 +2,28 @@
 tags:
   - Just_One_Humankind
 ---
+Pentiment (2022) is set in the early 16th-century Bavaria (Germany) during the Holy Roman Empire, right at the dawn of the Protestant Reformation (1717) and the German Peasants' War (1524-1525).
 
-La trama se ambienta en la Alta Baviera (Alemania) durante el siglo XVI, un periodo de inestabilidad marcado por la Reforma Protestante y las revueltas campesinas.
+Abbey
 
-La tipografía cambia según la clase social del personaje
+Baron
 
-los monjes hablan con letra gótica perfecta, los tipógrafos con fuentes de imprenta y los campesinos iletrados con trazos rápidos, informales y con faltas de ortografía que el juego simula corregir sobre la marcha.
+Manuscript () were books entirely written and decorated by hand, usually by monks in a monastery *scriptorium*.
 
-- El juego retrata con genialidad el choque cultural que supuso el paso de los libros copiados a mano por monjes al nacimiento de la imprenta moderna. Puedes divulgar cómo la democratización del papel amenazó el monopolio del conocimiento que poseía la Iglesia Católica.
-- A diferencia de los juegos que hablan de reyes o grandes guerras, _Pentiment_ muestra cómo vivía un campesino en 1500: sus tensiones con los impuestos de la Iglesia, el folklore pagano que aún resistía en secreto y el día a día de las mujeres de la época.
+Illuminated manuscript means that their pages were decorated with bright gold or silver leaf, vibrant paints, and intricate border illustrations. They were incredibly expensive luxury items that only kings, nobles, or churches could afford.
 
+ An early form of mass production. An artist carved an image or text backward into a block of wood, coated it in ink, and pressed it onto paper. With the invention of the printing press in the mid-1400s, woodcuts allowed books, political cartoons, and religious pamphlets to be printed rapidly and cheaply for the very first time.
 
-El propio título del juego es un término artístico real (pentimento es cuando un pintor cambia de opinión y pinta encima de un cuadro, dejando la pintura original oculta debajo). Puedes usar esto como metáfora de cómo la historia borra capas del pasado y cómo Andreas reescribe su propia vida.
+Most regular people could not read or write. During the early 1500s, literacy was highly divided by social class. The Elites (Monks, Nobles, Academics) were highly literate and spoke multiple languages (particularly Latin, which was the universal language of law, religion, and science).
 
+The Peasants & Working Class: The vast majority of the population was entirely illiterate. They relied on oral storytelling, church sermons, and visual art (like church frescoes or cheap woodcut flyers) to understand religion, news, and politics.
+
+This is why woodcut prints were so revolutionary during the Reformation. Activists could print simple, satirical cartoons attacking the Pope or corrupt lords, and even an illiterate peasant could look at the picture and instantly understand the political message.
+
+Peasants were trapped in a feudal system. Nobles were constantly raising taxes, stripping away common lands (preventing peasants from hunting or gathering wood), and forcing them into near-slavery.
+
+When Martin Luther preached "spiritual freedom" and criticized the wealth of the church, the peasants took it literally. They argued that if all humans were equal before God, feudal serfdom was unchristian. They published their demands in a famous document called the Twelve Articles.
+
+The *Deutscher Bauernkrieg* (German Peasants' War) was the largest and most widespread popular uprising in European history before the French Revolution. Over 300,000 peasants, farmers, and poor townspeople rose up against the ruling nobility and the Catholic Church.
+
+The ruling princes and nobles mobilized professional armies equipped with heavy cavalry and cannons against the peasants. Over 100,000 of them were slaughtered in 1525 alone, and their conditions became even harsher afterward.

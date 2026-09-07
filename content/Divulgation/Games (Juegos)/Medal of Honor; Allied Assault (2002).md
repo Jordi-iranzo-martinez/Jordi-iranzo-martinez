@@ -2,7 +2,79 @@
 tags:
   - Just_One_Humankind
 ---
-Army Ranger
+
+### Rangers
+
+The U.S. Army Rangers are the premier light infantry and special operations force of the United States Army, the American equivalent of Britih Commandos ([[Hidden & Dangerous 2]]).
+
+The first generation of American Rangers was fully trained by British Commando instructors at the grueling Commando Depot in Achnacarry (Scotland).
+
+They went through the exact same legendary training regimen: live-fire exercises, cliff climbing, survival tactics, and silent killing methods.
+
+Their very first combat deployment was actually alongside British and Canadian commandos during the bloody Dieppe Raid in August 1942.
+
+
+
+
+Known for their supreme physical conditioning, tactical agility, and rapid-deployment capabilities, they operate under the motto: "Rangers Lead the Way".
+
+
+
+Yes, exactly. During World War II, the U.S. Army Rangers were the American equivalent of the British Commandos—the elite special forces featured in the legendary video game series Hidden & Dangerous.
+
+
+
+The very first "Ranger" companies were officially formed by Captain Benjamin Church to fight in King Philip's War using unconventional, frontier scouting tactics.
+
+1756 (Rogers' Rangers): Major Robert Rogers formed a famous provincial unit during the French and Indian War. He wrote the "28 Standing Orders," which are still taught to Army Rangers today.
+
+June 14, 1775 (The Continental Army): The formal military lineage technically began when the Continental Congress formed expert riflemen companies to fight the British in the Revolutionary War.
+
+[[Yankee Doodle]]
+
+For nearly a century after the American Civil War, the U.S. military did not maintain any active Ranger units. That changed during World War II: 
+
+**June 19, 1942:** The **1st Ranger Battalion** was officially activated in Carrickfergus, Northern Ireland. Organized by Major William O. Darby, this elite force was modeled closely after the British Commandos and marks the birth of the Ranger battalions featured in _Medal of Honor: Allied Assault_. Five more battalions were raised during WWII, but all were disbanded after the war ended.
+
+
+Historically, Rangers were only activated temporarily for specific wars (like Korea or Vietnam) and then deactivated. The permanent force we know today came later: 
+
+**January 31, 1974:** Recognizing the need for a highly trained, permanent elite reaction force, General Creighton Abrams ordered the activation of the **1st Ranger Battalion** at Fort Stewart, Georgia. This was the first time the U.S. maintained a permanent, peacetime Ranger unit.
+
+**April 17, 1986:** The modern umbrella command, the **75th Ranger Regiment**, was officially designated, consolidating the separate battalions into a single, permanent elite special operations unit.
+
+
+
+
+
+
+
+
+June 19, 1942: The 1st Ranger Battalion was officially activated in Carrickfergus, Northern Ireland. Organized by Major William O. Darby, this elite force was modeled closely after the British Commandos and marks the birth of the Ranger battalions featured in Medal of Honor: Allied Assault. Five more battalions were raised during WWII, but all were disbanded after the war ended.
+
+Historically, Rangers were only activated temporarily for specific wars (like Korea or Vietnam) and then deactivated. The permanent force we know today came later: 
+
+- **Ranger Tactics:** Infiltrating behind enemy lines in North Africa.
+- **Command Requisitions:** Sabotaging U-boat bases alongside the British Commandos.
+- **The Big Assault:** Leading the charge up the cliffs and bluffs of Normandy on June 6, 1944.
+
+The 2nd Ranger Battalion was the unit that was tasked with the most dangerous assaults during D-Day at Omaha Beach and Pointe du Hoc.
+
+
+
+
+
+
+
+Operation Overlord
+
+
+- **Mission 1 (North Africa):** Infiltration behind enemy lines in Algeria and Tunisia (1942).
+- **Mission 2 (The Atlantic):** A stealth sabotage mission inside a German U-boat base in Brest, France (1943).
+- **Mission 3 (D-Day):** The iconic Omaha Beach landing and the assault on the Normandy hedgerows (1944).
+- **Mission 4 (Behind enemy lines):** Working with the French Resistance to destroy Tiger tanks.
+- **Mission 5 (The Battle of the Bulge):** Surviving the frozen forests of Ardennes and stealing a secret German Sturmgewehr 44 rifle.
+- **Mission 6 (Inside Germany):** Capturing the famous bridge at Remagen to cross the Rhine into Nazi Germany (1945).
 
 
 Ranger del ejército de los Estados Unidos que trabaja para la OSS (Oficina de Servicios Estratégicos). Tu misión te lleva a combatir en el norte de África, Argelia, Noruega y el corazón de la Europa ocupada por los nazis.
