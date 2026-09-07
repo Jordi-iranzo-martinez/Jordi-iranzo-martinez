@@ -24,9 +24,9 @@ Veracruz es el puerto histórico más importante de México, ubicado en el Golfo
 
 El Caribe es la región del mar Caribe mexicano (Quintana Roo, Cancún, la Riviera Maya). Aporta a la canción la imagen del color azul turquesa de sus aguas, las palmeras y la calidez del clima caribeño que envuelve el este del país.
 
-Morelia, capital del estado de Michoacán. Su centro histórico es una joya colonial edificada casi por completo en cantera rosa. Posee una gran tradición cultural, arquitectónica y gastronómica, y representa el corazón de la cultura del occidente de México.
+Morelia, capital del estado de Michoacán, es una joya colonial edificada casi por completo en cantera rosa. Posee una gran tradición cultural, arquitectónica y gastronómica, y representa el corazón de la cultura del occidente de México.
 
-Los mariachis son el ensamble musical más representativo de México a nivel global, inscrito como Patrimonio Inmaterial de la Humanidad por la UNESCO. Con sus trajes de charro, violines, trompetas, guitarra, vihuela y guitarrón, el mariachi es el encargado de dar el soporte musical y el alma ranchera a toda la canción interpretada por Luis Miguel.
+Los mariachis son el ensamble musical más representativo de México a nivel global, inscrito como Patrimonio Inmaterial de la Humanidad por la [[UNESCO]]. Con sus trajes de charro, violines, trompetas, guitarra, vihuela y guitarrón, el mariachi es el encargado de dar el soporte musical y el alma ranchera a toda la canción interpretada por Luis Miguel.
 
 Marimba es el instrumento rey del sur de México, especialmente arraigado en los estados de Chiapas, Oaxaca y Tabasco. Hecha de maderas finas, su sonido dulce, rápido y tropical es el corazón de las plazas del sur y aporta ese toque cálido y selvático a la diversidad acústica de la obra.
 

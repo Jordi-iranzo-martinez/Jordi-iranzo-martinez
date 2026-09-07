@@ -1,4 +1,6 @@
 
+Enoch Sontonga was a Xhosa teacher and choirmaster at a Methodist mission school near Johannesburg.
+
 
 
 

@@ -7,3 +7,12 @@ España. Verano de 1936. El célebre escritor Miguel de Unamuno decide apoyar p�
 
 Miguel de Unamuno 
 
+
+
+>_«¡Muera la inteligencia! ¡Viva la muerte!»_.
+
+Unamuno le respondió con una frase que pasó a la historia de la psicología política española: 
+
+>_«Venceréis, pero no convenceréis... Un mutilado que carezca de la grandeza espiritual de Cervantes, suele buscar el alivio viendo cómo se multiplican los mutilados a su alrededor»_.
+
+

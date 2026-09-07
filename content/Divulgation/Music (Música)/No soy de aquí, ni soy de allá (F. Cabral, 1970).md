@@ -1,3 +1,4 @@
+
 La letra de la canción condensa el pensamiento ético y espiritual de Facundo Cabral, fuertemente influenciado por figuras como San Francisco de Asís, Walt Whitman, Mahatma Gandhi y el pensamiento anarquista místico:
 
 El autor enumera placeres cotidianos, artísticos y naturales que no cuestan dinero y que están al alcance de cualquiera: 
