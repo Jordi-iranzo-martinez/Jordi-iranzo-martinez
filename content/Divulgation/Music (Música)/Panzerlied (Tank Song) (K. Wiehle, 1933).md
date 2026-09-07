@@ -6,6 +6,7 @@ Panzerlied was the anthem for Nazi Germany's armored forces (_Panzerwaffe_) duri
 
 It was composed by Oberleutnant Kurt Wiehle in 1933, using the tune of Luiska-Lied, an old German sailor's song.
 
+([[The Signing of Peace in the Hall of Mirrors, Versailles, 28th June 1919 (W. Orpen|The Signing of Peace in the Hall of Mirrors, Versailles, 28th June 1919]])
 
 
 German Panzers were absolutely monumental during World War II, not just because of their mechanical design, but because they completely revolutionized modern military doctrine and strategy.
