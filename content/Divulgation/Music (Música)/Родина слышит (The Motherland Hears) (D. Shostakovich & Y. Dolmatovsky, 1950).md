@@ -2,7 +2,11 @@
 tags:
   - Just_One_Humankind
 ---
+In the Russian language, the concept of "Motherland" carries a deeply emotional and almost maternal meaning. It represents not just a geographic territory, but a protective shield that looks after its citizens wherever they are (even in outer space).
 
+Following the end of World War II, Joseph Stalin wanted to tighten his control over Soviet society and eliminate any Western cultural influences. He placed Andrei Zhdanov in charge of cultural policy.
+
+In 1948, Zhdanov launched a massive campaign against Soviet artists. Musicians, writers, and filmmakers were accused of "Formalism"—a term used by the regime to describe art that was too complex, modern, abstract, or "bourgeois." The state demanded that music must be simple, optimistic, easily understood by the working class, and strictly serve communist propaganda.
 
 
 *Родина слышит,*  
