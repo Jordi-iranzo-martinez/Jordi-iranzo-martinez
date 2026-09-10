@@ -1,3 +1,4 @@
+
 El [Tribunal Constitucional](https://www.tribunalconstitucional.es/) es el órgano encargado de hacer prevalecer la Constitución ([título IX](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#tix)). 
 
 Está compuesto por 12 miembros ("Magistrados del Tribunal Constitucional"), nombrados por el Rey. Deben ser Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional. 

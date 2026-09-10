@@ -1,4 +1,5 @@
-El poder judicial aparece regulado en el [título VI](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#tvi)
+
+El poder judicial aparece regulado en el [título VI](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#tvi) de la [[Constitución Española de 1978]].
 
 La Justicia emana del Pueblo y se administra en nombre del Rey por Jueces y Magistrados independientes, inamovibles, responsables y sometidos a la Ley, pertenecientes a Juzgados y Tribunales basados en la unidad jurisdiccional –regulado por Ley en el ámbito militar y para el Estado de sitio–, estando prohibidos los Tribunales de excepción.
 
