@@ -1,7 +1,7 @@
 
 La [Constitución Española de 1978](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229) es la norma suprema del ordenamiento jurídico actual. Establece un Estado social y democrático de Derecho con monarquía parlamentaria, garantizando derechos fundamentales y descentralizando el poder en Comunidades Autónomas.
 
-#### Características
+### Características
 
 Las principales características son las siguientes: 
 
@@ -15,7 +15,7 @@ Las principales características son las siguientes:
 - **Origen popular**: representantes elegidos democráticamente, y ratificada en referéndum
 - **Democrática** (representativa): valores superiores, derechos fundamentales, separación de poderes...
 
-#### Estructura
+### Estructura
 
 COMPLETAR
 
@@ -49,7 +49,7 @@ COMPLETAR
 [[Poder Judicial (Constitución)]]
 
 
-#### Principios y valores fundamentales
+### Principios y valores fundamentales
 
 Los principios se encuentran en el [artículo 9.3](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#a9) y los valores fundamentales en el [Preámbulo](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#preambulo)
 
@@ -58,7 +58,7 @@ Los principios se encuentran en el [artículo 9.3](https://www.boe.es/buscar/act
 | Principios            | - Legalidad<br>- Jerarquía normativa<br>- Publicidad de las normas<br>- Irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales<br>- Seguridad jurídica<br>- Responsabilidad<br>- Interdicción de la arbitrariedad de los poderes públicos |
 | Valores fundamentales | - Justicia<br>- Libertad<br>- Seguridad<br>- Bien general                                                                                                                                                                                                                                    |
 
-#### Los derechos fundamentales y su especial protección
+### Los derechos fundamentales y su especial protección
 
 
 Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#s1): artículos 15 al 29), influenciados por la Declaración Fundamental de los Derechos Humanos:
@@ -124,7 +124,7 @@ Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](h
 	- **General**: individual o colectiva, por escrito, en la forma y efectos de la Ley
 	- **Miembros de las Fuerzas o Institutos armados o Cuerpos con disciplina militar**: sólo individualmente (según legislación específica).
 
-##### Especial protección
+#### Especial protección
 
 Están protegidos especialmente por el [Tribunal Constitucional](https://app.capacities.io/9cfc1e48-dcee-4f5a-8baf-de5249812a6d/02b1ac74-e879-4c66-a662-c61da68c0451), a través del recurso de amparo en un procedimiento basado en los principios de preferencia y sumariedad, para los siguientes:
 
