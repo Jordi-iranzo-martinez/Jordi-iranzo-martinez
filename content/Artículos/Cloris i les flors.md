@@ -1,7 +1,7 @@
 ---
 title: De Cloris al floriment de la vida
 subtitle: Flors, interrelació i prosperitat
-description: "**La flor va ser una revolució biològica sorgida al final de l'Època dels Dinosauris que facilità la predominància ecològica de les plantes que les tenen. La coevolució d'estes amb els animals va provocar ecosistemes molt més rics i complexos, i finalment donà lloc a la revolució agrícola, que permetè la civilització humana. Encara estem en un període revolucionari de sostenibilitat. Vegem-ho tot en un recorregut interdisciplinar des de la mitologia clàssica!**"
+description: La flor va ser una revolució biològica sorgida al final de l'Època dels Dinosauris que facilità la predominància ecològica de les plantes que les tenen. La coevolució d'estes amb els animals va provocar ecosistemes molt més rics i complexos, i finalment donà lloc a la revolució agrícola, que permetè la civilització humana. Encara estem en un període revolucionari de sostenibilitat. Vegem-ho tot en un recorregut interdisciplinar des de la mitologia clàssica!
 tags:
   - Terra
   - Consulta_Natura
