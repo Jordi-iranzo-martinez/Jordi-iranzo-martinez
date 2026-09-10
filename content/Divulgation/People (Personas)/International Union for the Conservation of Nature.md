@@ -4,7 +4,7 @@ tags:
 ---
 The [International union for the Conservation of Natur](https://iucn.org/)e (IUCN) is the world's largest and oldest global environmental network, founded in 1948. It brings together both sovereign states and government agencies alongside non-governmental organizations (NGOs) and thousands of scientific experts.
 
-The [IUCN Red List of Threatened Species](), established in 1964, it is the world’s most comprehensive inventory of the global conservation status of biological species (animals, plants, and fungi). It classifies species into strict scientific categories:
+The IUCN Red List of Threatened Species, established in 1964, it is the world’s most comprehensive inventory of the global conservation status of biological species (animals, plants, and fungi). It classifies species into strict scientific categories:
 
 - Extinct (EX)
 - Extinct in the Wild (EW)
