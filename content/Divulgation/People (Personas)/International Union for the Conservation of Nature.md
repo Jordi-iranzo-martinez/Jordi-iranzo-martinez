@@ -64,8 +64,6 @@ The [IUCN Red List of Ecosystem]([Red List of Ecosystems](http://www.iucnrle.org
 The [IUCN Academy](http://www.iucnacademy.org/) is the official educational arm providing professional training, certificates, and capacity-building programs in environmental law, nature-based solutions, and conservation governance.
 
 
-- 
-
  The [Integrated Biodiversity Assessment Tool](https://www.ibat-alliance.org/) (IBAT) is a high-level decision support platform used primarily by businesses, governments, and researchers. It integrates data from the Red List, World Database on Protected Areas, and Key Biodiversity Areas to help organizations map out risk assessments before starting infrastructure or development projects.
 
 The [Global Invasive Species Database](https://www.iucngisd.org/gisd/) (GISD) is a specialized database focused on tracking invasive alien species that threaten native biodiversity. It provides global evidence on species profiles, distribution, and eradication or management strategies.
@@ -78,9 +76,8 @@ The [IUCN Green List]([IUCN Green List](https://iucngreenlist.org/)) is a global
 
 The Bonn Challenge: A global effort aligned with IUCN to restore 350 million hectares of degraded and deforested lands.
 
-
-
 - 100 of the world's worst invasive alien species
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/142844202?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="What is IUCN (English) (1)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+

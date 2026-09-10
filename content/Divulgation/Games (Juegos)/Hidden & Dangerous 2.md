@@ -53,10 +53,6 @@ Esta orden cambió las reglas del juego para las patrullas de cuatro hombres del
 
 Esto forzó al SAS a llevar el lema "Who Dares Wins" (Quien arriesga, gana) al extremo: operaban bajo un pacto de silencio absoluto y preferían luchar hasta el último cartucho antes que dejarse atrapar vivos. Un caso histórico real de la aplicación de esta orden ocurrió durante la Operación Bulbasket (1944) en Francia, donde 31 hombres del SAS y un piloto estadounidense fueron capturados tras un sabotaje ferroviario y fusilados sumariamente en un bosque por el ejército alemán siguiendo las directrices directas del Kommandobefehl.
 
-
-
-
-
 David Stirling estructuró las patrullas en células estrictas de 4 hombres, cada soldado asumía un rol único e insustituible. Si perdías a un miembro, el escuadrón quedaba cojo de una habilidad vital para la supervivencia física de los demás:
 
 [[Hombres que fuman un cigarrillo]]
@@ -99,14 +95,11 @@ El Tirpitz fue finalmente hundido en noviembre de 1944 cerca de Tromsø por los 
 
 
 
-
 ### Operación Claymore (1941)
 
 La Operación Claymore (1941) fue una incursión real de los comandos británicos en las islas Lofoten (Noruega).
 
 Los soldados asaltaron los barcos de vigilancia alemanes y capturaron por sorpresa los rotores, manuales y piezas de la máquina Enigma, lo que permitió a los matemáticos de Bletchley Park romper los códigos secretos navales de Hitler.
-
-([[]])
 
 ### Operaciones de los Chindits (1943-1944)
 
