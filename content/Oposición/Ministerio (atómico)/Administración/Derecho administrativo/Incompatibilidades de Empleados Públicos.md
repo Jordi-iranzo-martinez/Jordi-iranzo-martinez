@@ -1,0 +1,13 @@
+
+El régimen de incompatibilidades regula las actividades que los empleados públicos no pueden simultanear con el ejercicio de su cargo o función pública.
+
+Han sido reguladas a través de la [Ley 53/1984](https://www.boe.es/buscar/act.php?id=BOE-A-1985-151), a fin de garantizar la imparcialidad de la actuación y su adecuación a los intereses generales:
+
+Con carácter general, el personal al servicio de las Administraciones Públicas no podrá compatibilizar su actividad con el desempeño de otro puesto o actividad en el sector público, ni el ejercicio de actividades privadas que puedan generar conflicto de interés.
+
+| Actividades | Caracteríticas                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Públicas    | - En general solo se permite un único puesto<br>- Excepciones: docencia, tribunales, y organismos internacionales                                                                                                                                                                                                                                                                                                                          |
+| Privadas    | - **Prohibidas**: relacionadas con el puesto, o de control o inspección.<br><br>- **Compatibles sin autorización**: patrimonio propio, creación artística, colaboraciones ocasionales...<br><br>- **Compatibles con autorización**: otras que no generen conflicto de interés, se realicen fuera del horario oficial, el límite retributivo no supere el 30% de las retribuciones básicas del puesto principal, y no dedicación exclusiva. |
+
+El incumplimiento del régimen de incompatibilidades puede dar lugar a sanción disciplinaria (falta muy grave con separación del servicio), reintegro de cantidades, pérdida del puesto, y responsabilidad penal, en su caso.

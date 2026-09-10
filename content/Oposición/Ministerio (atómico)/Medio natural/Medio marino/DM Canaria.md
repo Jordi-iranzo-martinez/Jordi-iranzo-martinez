@@ -1,0 +1,10 @@
+
+|                                                  |                                                                                                                                                                                |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Características                                  | - Aguas subtropicales<br>- Temperaturas suaves y estables<br>- Fondos volcánicos<br>- Archipiélago oceánico alejado del continente<br>- Influencia de la Corriente de Canarias |
+| Rasgos                                           | - Carácter subtropical (única en España)<br>- Fauna endémica<br>- Diversidad de cetáceos (la mayor del país)<br>- Aflorecimiento del noroeste africano                         |
+| Comunidades bentónicas                           | - Fondos de rodolitos<br>- Comunidades volcánicas con algas y esponjas<br>- Praderas de _Cymodocea nodosa_<br>- Gorgonias y corales de aguas profundas                         |
+| Comunidades pelágicas                            | - Grandes migradores (marlín, pez espada, tortugas)<br>- Calderón tropical<br>- Cachalote<br>- Zifios                                                                          |
+| Principales presiones                            |                                                                                                                                                                                |
+| Principales impactos                             |                                                                                                                                                                                |
+| Espacios naturales protegidos más significativos |                                                                                                                                                                                |

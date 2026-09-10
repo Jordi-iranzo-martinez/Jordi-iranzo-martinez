@@ -1,0 +1,79 @@
+Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#s1): artículos 15 al 29), influenciados por la Declaración Fundamental de los Derechos Humanos:
+
+15. **Vida e integridad**: para todos, sin tortura ni tratos inhumanos o degradantes, y abolición de la pena de muerte (salvo legislación militar en tiempos de guerra).
+
+16. **Libertad ideológica y de culto**: sin obligación de declarar al respecto, y con ninguna confesión de carácter estatal -sólo limitada por Ley para el mantenimiento del orden público- (los poderes públicos considerando las creencias de la sociedad española, y manteniendo cooperación con la Iglesia Católica y las demás confesiones). 
+
+17. **Libertad y seguridad personal**: por Ley, detenciones con garantías, informando inmediatamente de sus derechos y de las razones de su detención, no pudiendo ser obligado a declarar. 
+
+	Con asistencia de abogado (en las diligencias policiales y judiciales, por Ley), detención preventiva no superior al tiempo necesario para el esclarecimiento de los hechos (plazo máximo de 72 horas: posteriormente liberación o disposición judicial).
+
+18. **Honor, intimidad**: 
+	- Intimidad e inviolabilidad del domicilio –salvo consentimiento del titular, resolución judicial, o en caso de flagrante delito–
+	- Honor
+	- Secreto de las comunicaciones (postales, telegráficas, telefónicas…) –salvo resolución judicial–
+	- Limitación a tal efecto del uso de la informática, por Ley (QUE SIGNIFICA????)
+
+19. **Libertad de circulación y residencia**: en todo el territorio nacional, así como la entrada y salida del país –por Ley–, no limitada por motivos políticos o religiosos
+
+20. **Libertad de expresión y cátedra**: implica organización y control parlamentario de los medios de comunicación social públicos –por Ley–, respetando el pluralismo social y lingüístico de España, y a nivel personal ausencia de censura previa –estando el límite en el respeto de los derechos fundamentales y en la legislación, especialmente sobre honor, intimidad, propia imagen, y protección de la juventud y de la infancia–, con los siguientes derechos específicos:
+	- **Expresión y difusión libre** de pensamientos, ideas y opiniones, mediante la palabra, por escrito, o cualquier otro medio
+	- **Producción y creación** literaria, artística, científica y técnica
+	- **Libertad de cátedra**
+	- **Comunicación o recepción libre de información veraz** por cualquier medio de difusión, con regulación de la cláusula de conciencia y el secreto profesional por Ley
+
+21. **Reunión**: si es pacífica y sin armas no requiere de autorización previa (si bien las localizadas en zonas de tránsito público y las manifestaciones deberán ser comunicadas a la autoridad competente, la cual podrá prohibirlas por razones fundadas de alteración del orden público, con peligro para las personas o los bienes)
+
+22. **Asociación**: comprenderá un registro para su publicidad, siendo tan sólo disueltas o suspendidas por resolución judicial motivada, y estando prohibidas aquellas secretas, paramilitares, y delictivas –medios o fines–
+
+23. **Participación política**: directa o indirecta –a través de representantes electos periódicamente mediante sufragio universal libre–, así como para su acceso al Sector Público en condiciones de igualdad –según los requisitos de las Leyes–
+
+24. **Acceso a la justicia**: tutela efectiva por Jueces y Tribunales en el ejercicio de sus derechos e intereses legítimos –no indefensión–, así como los siguientes:
+	- Acceso a un Juez ordinario –por Ley–
+	- Defensa y asistencia del Letrado
+	- Conocimiento de la acusación en contra
+	- Proceso público con garantías y sin dilaciones indebidas
+	- Uso de la prueba en su defensa
+	- No declaración contra sí mismos ni confesión de culpabilidad
+	- Presunción de inocencia
+	- Excepciones de la obligación de declarar: en hechos delictivos por razón de parentesco o secreto profesional (regulados por Ley)
+
+25. **Garantías judiciales y penitenciario a reinserción**: principio de irretroactividad de las disposiciones no favorables (penal, administrativa…), con las penas privativas de libertad –por Tribunales, no Administración civil– y medidas de seguridad orientadas a la reeducación y reinserción social de los condenados, garantizando
+	- Derechos fundamentales –salvo pena en contra, en base a la Ley penitenciaria–, en todo caso derecho a trabajo remunerado –sin cabida de trabajos forzados–, beneficios de la Seguridad Social
+	- Acceso a la cultura
+	- Desarrollo integral de su persona
+
+26. **Prohibición de Tribunales de Honor**: en la Administración civil y en las organizaciones profesionales
+
+27. **Educación**: universal, mediante programación general, participación de los sectores afectados –según Ley– y creación de centros docentes –libertad de creación para las personas físicas y jurídicas–
+	- Pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y derechos y libertades fundamentales
+	- Enseñanza básica obligatoria y gratuita
+	- Libertad de creación de centros para las personas físicas y jurídicas
+	- Poderes públicos realizando tareas de inspección, homologación y –también según Ley– ayuda: garantizando la libertad de enseñanza, la formación religiosa y moral de los menores de acuerdo a las convicciones de los padres, y la autonomía de las Universidades
+
+28. **Sindicación y huelga**: 
+
+	- **Sindicación**: libre –creación, afiliación, federación…–, y universal –posible limitación o excepción por Ley para las Fuerzas o Institutos Armadas y otros Cuerpos con disciplina militar, así como para las peculiaridades de los funcionarios públicos–
+
+	- **Huelga**: regulando las garantías para el mantenimiento de los servicios esenciales, también por Ley
+
+29. **Petición**: 
+	- **General**: individual o colectiva, por escrito, en la forma y efectos de la Ley
+	- **Miembros de las Fuerzas o Institutos armados o Cuerpos con disciplina militar**: sólo individualmente (según legislación específica).
+
+##### Especial protección
+
+Están protegidos especialmente por el [Tribunal Constitucional](https://app.capacities.io/9cfc1e48-dcee-4f5a-8baf-de5249812a6d/02b1ac74-e879-4c66-a662-c61da68c0451), a través del recurso de amparo en un procedimiento basado en los principios de preferencia y sumariedad, para los siguientes:
+
+- **Disposiciones**
+- **Actos jurídicos**
+- **Omisiones**
+- **Vía de hecho**: de los poderes públicos (Estado, Comunidades Autónomas, sector público institucional...), y de sus funcionarios o agentes, .
+
+Las materias aplicables corresponden a los artículos 14 a 29, y el 30.2. 
+
+Están legitimados para ello los siguientes:
+
+- **Persona con interés legítimo**
+- **Defensor del Pueblo**
+- **Ministerio Fiscal
