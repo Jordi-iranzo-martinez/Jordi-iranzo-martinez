@@ -1,6 +1,6 @@
 Las Cortes Generales comprenden el Poder Legislativo en España. Representan al pueblo español porque los ciudadanos escogen a sus miembros en elecciones periódicas cada 4 años mediante sufragio universal, libre, directo, y secreto, de acuerdo con la Ley. Su naturaleza es inviolable.
 
-#### Composición
+### Composición
 
 Están formadas por el Congreso de los Diputados y el Senado, teniendo importancias muy distintas (bicameralismo asimétrico). 
 
@@ -67,7 +67,7 @@ El funcionamiento de las Cámaras puede ser en Pleno o en Comisiones.
 Las peticiones a las Cámaras podrán ser remitidas al Gobierno ("derecho de petición": artículo XXXXXXX).
 
 
-#### Atribuciones del Congreso de los Diputados y del Senado
+### Atribuciones del Congreso de los Diputados y del Senado
 
 
 Las funciones de cada una son las siguientes: 

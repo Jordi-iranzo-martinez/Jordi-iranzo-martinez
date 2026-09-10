@@ -1,3 +1,4 @@
+
 Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#s1): artículos 15 al 29), influenciados por la Declaración Fundamental de los Derechos Humanos:
 
 15. **Vida e integridad**: para todos, sin tortura ni tratos inhumanos o degradantes, y abolición de la pena de muerte (salvo legislación militar en tiempos de guerra).
@@ -61,7 +62,7 @@ Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](h
 	- **General**: individual o colectiva, por escrito, en la forma y efectos de la Ley
 	- **Miembros de las Fuerzas o Institutos armados o Cuerpos con disciplina militar**: sólo individualmente (según legislación específica).
 
-##### Especial protección
+### Especial protección
 
 Están protegidos especialmente por el [Tribunal Constitucional](https://app.capacities.io/9cfc1e48-dcee-4f5a-8baf-de5249812a6d/02b1ac74-e879-4c66-a662-c61da68c0451), a través del recurso de amparo en un procedimiento basado en los principios de preferencia y sumariedad, para los siguientes:
 

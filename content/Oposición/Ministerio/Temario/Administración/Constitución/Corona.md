@@ -16,7 +16,7 @@ El “Rey de España” es el Jefe del Estado, símbolo de la unidad de la Naci�
 
 - **Abdicaciones, renuncias, y dudas de sucesión**: resolución por Ley orgánica (como la [Ley de abdicación de Juan Carlos I](https://www.boe.es/buscar/act.php?id=BOE-A-2014-6476))
 
-#### Atribuciones y competencias
+### Atribuciones y competencias
 
 Las funciones del Rey son representativas y de protocolo, incluyendo las siguientes ([artículo 62](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#a62)): 
 
