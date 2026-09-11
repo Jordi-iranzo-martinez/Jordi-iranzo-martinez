@@ -1,3 +1,5 @@
+
+
 # Introducción
 
 El compostaje es el proceso por el cual la materia orgánica biodegradable se transforma en compost, una enmienda orgánica estable, inodora, que fertiliza el suelo. 
@@ -212,6 +214,11 @@ húmedo-seco).
 ![[Pasted image 20250821133330.png]]
 
 Tratamiento de residuos municipales
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I8c3xVyO-k8?si=a1I3cjpvVPKB3Vbv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

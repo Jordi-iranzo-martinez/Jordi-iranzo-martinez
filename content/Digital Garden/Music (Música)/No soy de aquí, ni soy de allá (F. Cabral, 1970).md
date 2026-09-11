@@ -13,7 +13,7 @@ El estribillo es una declaración de independencia absoluta frente a las fronter
 
 Para Cabral, definirse como alguien "sin porvenir" no era un acto de desesperanza, sino una oda al vivir exclusivamente en el momento presente, libre de las ansiedades del futuro o las cadenas del pasado.
 
-En 1996, la [[UNESCO]] declaró a Facundo Cabral "Mensajero Mundial de la Paz", reconociendo que canciones como esta ayudaban a unir a los pueblos por encima de las fronteras políticas.
+En 1996, la [[Web/content/Digital Garden/People (Personas)/UNESCO]] declaró a Facundo Cabral "Mensajero Mundial de la Paz", reconociendo que canciones como esta ayudaban a unir a los pueblos por encima de las fronteras políticas.
 
 En 2011 fue asesinado en un atentado en Guatemala dirigido contra el empresario que lo acompañaba.
 

@@ -16,7 +16,7 @@ Posteriormente me centré en legislación (nacional, internacional, de la Unión
 - **Calidad ambiental**
 - **Cambio climático**
 
-He obtenido más de 160 [[Web/content/Certificados|Certificados]] de diferentes instituciones: Naciones Unidas, Unión Europea, Google...
+He obtenido más de 160 [[Certificados]] de diferentes instituciones: Naciones Unidas, Unión Europea, Google...
 
 Hablo varios idiomas y tengo experiencia en el sector público privado.
 

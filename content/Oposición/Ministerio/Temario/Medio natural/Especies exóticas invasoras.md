@@ -1,7 +1,7 @@
 
 Las especies exóticas invasoras son aquellas que provienen de otras geografía (exóticas) y suponen una amenaza para la biodiversidad del lugar donde se asientan (invasoras).
 
-De acuerdo al informe del [[IPBES]], son la segunda causa de pérdida de la [[Biodiversidad]] mundial.
+De acuerdo al informe del [[Web/content/Digital Garden/People (Personas)/IPBES]], son la segunda causa de pérdida de la [[Web/content/Oposición/Ministerio/Temario/Medio natural/Biodiversidad]] mundial.
 
 Las causas de invasión son diversas (voluntarias e involuntarias): 
 

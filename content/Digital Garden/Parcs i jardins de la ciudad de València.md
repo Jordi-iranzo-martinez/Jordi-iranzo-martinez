@@ -6,7 +6,7 @@ Los **parques** y **jardines** bien gestionados ofrecen diferentes **beneficios*
 - **Aumento** de la **biodiversidad** y el **patrimonio**
 - **Aumento** del **bienestar**: recreación, paseo, ocio, deporte, paisaje…
 
-La ciutat de València té la major concentració de patrimoni arbori monumental de la Comunitat Valenciana, principalment en els [[Parcs i jardins de la ciudad de València]] i el [[Jardí Botànic de la Universitat de València]], entre les que destaquen les espècies de palmeres datilera (*Phoenix dactylifera*) -com la del [[El Palmeral d'Elx]]-, canaria (*P. canariensis*), y californiana (*Washingtonia* *filifera*).
+La ciutat de València té la major concentració de patrimoni arbori monumental de la Comunitat Valenciana, principalment en els [[Parcs i jardins de la ciudad de València]] i el [[Jardí Botànic UV]], entre les que destaquen les espècies de palmeres datilera (*Phoenix dactylifera*) -com la del [[El Palmeral d'Elx]]-, canaria (*P. canariensis*), y californiana (*Washingtonia* *filifera*).
 
 El [Observatorio Municipal del Árbol de Valencia](https://www.valencia.es/-/infociudad-observatorio-municipal-del-%C3%81rbol-de-valencia-omav) (OMAV), situado en los **Jardines** de **Viveros**, es el **organismo** encargado de la **catalogación**, **mantenimiento**, e **inspección** de dicho **patrimonio municipal**, así como labores de **divulgación**, **comunicación**, y **educación ambiental** del **autonómico** mediante **cursos** **formativos**, **itinerarios didácticos**, **documentación**…
 

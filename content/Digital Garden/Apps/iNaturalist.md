@@ -2,8 +2,7 @@
 tags:
   - Just_One_Planet
 ---
-
-**iNaturalist** is one of the world's most popular **citizen science initiatives and social networks for nature enthusiasts.
+iNaturalist is one of the world's most popular citizen science initiatives and social networks for nature enthusiasts.
 
 It was launched in 2008
 

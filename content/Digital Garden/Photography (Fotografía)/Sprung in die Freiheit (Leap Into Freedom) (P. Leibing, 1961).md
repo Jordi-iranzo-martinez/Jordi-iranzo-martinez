@@ -24,4 +24,4 @@ Even after the Berlin Wall fell in 1989 and Germany was reunited, Schumann strug
 
 He committed suicide in his orchard in Upper Bavaria on June 20, 1998.
 
-In May 2011, Peter Leibing's photograph was officially inducted into the [[UNESCO]] Memory of the World programme as part of the collection documenting the fall of the Berlin Wall, cementing its place as a priceless relic of 20th-century history.
+In May 2011, Peter Leibing's photograph was officially inducted into the [[Web/content/Digital Garden/People (Personas)/UNESCO]] Memory of the World programme as part of the collection documenting the fall of the Berlin Wall, cementing its place as a priceless relic of 20th-century history.
