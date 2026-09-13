@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Plan Estratégico Estatal para el Patrimonio Natural y la Biodiversidad a 2030](https://www.boe.es/buscar/act.php?id=BOE-A-2022-23751&p=20221230&tn=1#an) es la principal herramienta de planificación para promover la conservación, el uso sostenible y la restauración del patrimonio natural, los recursos territoriales y marinos, la biodiversidad y la geodiversidad en España. 
 

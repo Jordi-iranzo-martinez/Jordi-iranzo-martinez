@@ -1,4 +1,9 @@
-*La Corona aparece en el [título II](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#tii) (artículos 56 a 65):*
+---
+tags:
+  - Opo_Ministerio
+---
+
+La Corona aparece en el [título II](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#tii) (artículos 56 a 65):*
 
 El “Rey de España” es el Jefe del Estado, símbolo de la unidad de la Nación y de su permanencia, árbitro y moderador del normal funcionamiento de las instituciones, y mayor representante del Estado en las relaciones internacionales. Su persona es inviolable, no sujeta a responsabilidad.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio sobre la Conservación de las Especies Migratorias de Animales Silvestres](https://www.cms.int/sites/default/files/instrument/ConvTextSpaAug92.PDF) (CMS) (Bonn; 1979, 1983), de la Organización de las Naciones Unidas, es un acuerdo internacional. 
 

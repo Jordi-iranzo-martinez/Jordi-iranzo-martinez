@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La [Red Iberoamericana de Oficinas de Cambio Climático](https://www.lariocc.es/es.html) (RIOCC), creada en el 2004 a propuesta de España es un mecanismo innovador de cooperación entre las entidades que gestionan el cambio climático en España, Portugal e Iberoamérica. Constituye la iniciativa regional y de trabajo en red en la materia más relevante a escala internacional.
 
 Permite un espacio informal y técnico de intercambio de experiencias y una oportunidad para la identificación de sinergias, fortalezas y prioridades desde una perspectiva internacional cooperativa Sur-Sur, Norte-Sur y triangular.

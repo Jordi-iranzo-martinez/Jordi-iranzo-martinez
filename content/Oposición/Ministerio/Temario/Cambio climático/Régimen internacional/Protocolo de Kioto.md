@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Protocolo de Kioto](https://unfccc.int/resource/docs/convkp/kpspan.pdf) (COP 3) fue un tratado internacional para la eliminación de los gases de efecto invernadero *(los artículos del Protocolo de Kyoto de la Convención Marco sobre el Cambio Climático de las Naciones Unidas no tienen títulos, pero proporcionan encabezamientos temáticos indicativos)*:
 

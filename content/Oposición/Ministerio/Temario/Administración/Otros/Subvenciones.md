@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 ### Las subvenciones: procedimiento de concesión
 
 Una subvención es una ayuda económica de una Administración Pública otorgada sin contraprestación, sujeta al cumplimiento de determinados requisitos (objetivos, proyectos, actividades, comportamientos...), para el fomento de una actividad, una finalidad pública, o un interés social.

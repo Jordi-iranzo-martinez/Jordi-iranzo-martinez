@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 646/2020](https://www.boe.es/buscar/act.php?id=BOE-A-2020-7438) regula la eliminación de residuos mediante depósito en vertedero en España:
 

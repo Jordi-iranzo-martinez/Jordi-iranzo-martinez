@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las técnicas de muestreo biológico son metodologías científicas estandarizadas para recolección, estudio y seguimiento de flora y fauna que permiten evaluar el estado de poblaciones y especies mediante protocolos específicos de captura, marcaje y análisis de datos.
 

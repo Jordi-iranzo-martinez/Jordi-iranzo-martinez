@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 El [Plan Nacional de Aplicación del Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/participacion-publica/anexos/Plan%20Nacional%20de%20COP%20-%202025.pdf) de España (2005, actualizado en el 2012, 2019, y 2025), es un documento de gestión estatal, que incluye líneas de actuación, como medidas concretas, especificando organismos implicados, plazo de aplicación, e indicadores, de los siguientes bloques:
 
 | Partes                           | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |

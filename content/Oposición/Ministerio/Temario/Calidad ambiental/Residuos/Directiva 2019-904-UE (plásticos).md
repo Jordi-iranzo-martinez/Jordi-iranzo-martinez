@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2019/904](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32019L0904), tiene como principal objetivo prevenir y reducir el impacto de determinados productos de plástico de un solo uso ("Directiva SUP": *Single Use Plastics*) en el medio ambiente. Sus puntos principales son los siguientes:
 

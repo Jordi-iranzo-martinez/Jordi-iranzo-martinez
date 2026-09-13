@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 La adaptación al cambio climático es un proceso fundamental para reducir los daños actuales y futuros que el cambio climático provoca en los sistemas naturales y humanos, y para aumentar la resiliencia social, económica y ambiental. A nivel global, regional y nacional se están desarrollando estrategias y planes para implementar medidas concretas, coordinadas y evaluadas periódicamente.
 
 #### Contexto internacional

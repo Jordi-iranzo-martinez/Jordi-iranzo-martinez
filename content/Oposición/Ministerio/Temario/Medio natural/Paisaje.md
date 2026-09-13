@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El paisaje es cualquier parte del territorio tal como la percibe la población, resultado de la integración de los elementos naturales (relieve, clima, suelos, vegetación, fauna) y los antrópicos.
 

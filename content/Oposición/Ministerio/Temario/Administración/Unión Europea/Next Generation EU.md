@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 El Plan de recuperación para Europa (*Next Generation EU*) de la Comisión Europea (2020) surgió como respuesta excepcional a la crisis provocada por la pandemia de COVID-19.
 
 Su pieza central en el Mecanismo de Recuperación y Resiliencia (MRR), que pone a disposición de los Estados miembros 723.800 millones de euros en transferencias y préstamos.
@@ -15,6 +18,8 @@ El 37 % de los 627.500 millones de euros pertenecientes al Mecanismo de Recupera
 Este reparto convierte al NGEU en el mayor programa de inversión verde de la historia de la UE, entrelazado con el Pacto Verde Europeo (European Green Deal).
 
 La guerra de Ucrania impulsó una ampliación estratégica del NGEU con el plan *REPowerEU*, integrado en los planes nacionales de recuperación:
+
+[[Unión Europea]]
 
 #### Su impacto en el medio ambiente y lucha contra el cambio climático
 

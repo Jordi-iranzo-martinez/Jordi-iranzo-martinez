@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 712/2025](https://www.boe.es/buscar/act.php?id=BOE-A-2025-17186)
 

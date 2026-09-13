@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2000/60/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02000L0060-20141120), de 23 de octubre, que establece un marco comunitario de actuación en el ámbito de la política de aguas (Directiva marco del agua). Su objetivo central es alcanzar el buen estado de todas las masas de agua europeas (superficiales, subterráneas, de transición y costeras), coordinando la gestión a través de las demarcaciones hidrográficas.
 

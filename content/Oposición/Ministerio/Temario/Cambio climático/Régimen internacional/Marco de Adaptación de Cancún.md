@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Marco de Adaptación de Cancún (CAF por sus siglas en inglés) es una parte de los [Acuerdos de Cancún](https://unfccc.int/tools/cancun/index.html) (COP16, 2010), en el que estableció la base para la planificación e implementación de proyectos en países de desarrollo, a través de la financiación, el soporte técnico, y la atención a las pérdidas y daños.
 

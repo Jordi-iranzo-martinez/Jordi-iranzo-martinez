@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2014/89/UE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32014L0089) establece un marco para la ordenación del espacio marítimo (*Marine Spatial Planning*, MSP) en la Unión Europea: la planificación sectorial de las actividades (energía, transporte, pesca y acuicultura, gestión del medio ambiente, y otros como el turismo y la extracción de materias primas) para impulsar el desarrollo sostenible: de las economías ("economía azul"), sociedades, y espacios y recursos.
 

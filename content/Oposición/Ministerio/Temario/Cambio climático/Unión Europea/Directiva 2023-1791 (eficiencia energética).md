@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2023/1791](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02023L1791-20230920)(que deroga la Directiva 2012/27/UE) 
 

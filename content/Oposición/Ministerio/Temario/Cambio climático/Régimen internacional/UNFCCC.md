@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La [Convención Marco de Naciones Unidas sobre Cambio Climático](https://unfccc.int/resource/docs/convkp/convsp.pdf) (CMNUCC) (Río de Janeiro, 1992) constituye el primer gran acuerdo internacional para abordar el cambio climático de forma coordinada y multilateral. 
 
 #### Origen

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los planes de ordenación del espacio marítimo (POEM) son aquellos que fomentan el desarrollo sostenible de los Estados de la Unión Europea.
 

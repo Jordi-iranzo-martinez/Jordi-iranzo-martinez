@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 Las [Conferencias ministeriales para la protección de bosques en Europa](https://foresteurope.org/) (*Forest Europe*) incluye a 45 países europeos y a la Unión Europea, además de países observadores de otras regiones, y representa la única plataforma de cooperación internacional paneuropea en política forestal 
 
 Las [Conferencias ministeriales para la protección de bosques en Europa](https://foresteurope.org/) (*Forest Europe*) incluye a 45 países europeos y a la Unión Europea, además de países observadores de otras regiones, y representa la única plataforma de cooperación internacional paneuropea en política forestal 

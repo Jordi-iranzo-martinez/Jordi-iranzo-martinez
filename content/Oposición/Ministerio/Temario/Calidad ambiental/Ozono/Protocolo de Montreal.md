@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Protocolo de Montreal](https://ozone.unep.org/treaties/montreal-protocol/montreal-protocol-substances-deplete-ozone-layer) (1987) al [[Convenio de Viena (SAO)]], estableció medidas específicas para reducir y eliminar progresivamente la producción y consumo de sustancias agotadoras del ozono.
 

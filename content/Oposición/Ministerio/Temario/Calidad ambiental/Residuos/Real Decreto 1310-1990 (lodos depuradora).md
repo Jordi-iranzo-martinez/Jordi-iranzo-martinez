@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 1310/1990](https://www.boe.es/buscar/act.php?id=BOE-A-1990-26490), regula la utilización de lodos de depuración en el sector agrario, transponiendo la Directiva 86/278/CEE. 
 

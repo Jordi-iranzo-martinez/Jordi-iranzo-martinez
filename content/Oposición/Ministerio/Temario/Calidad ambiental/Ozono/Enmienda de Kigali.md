@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Enmienda de Kigali](https://ozone.unep.org/treaties/montreal-protocol/amendments/kigali-amendment-2016-amendment-montreal-protocol-agreed) (Kigali, 2016) modifica el Protocolo de Montreal 
 

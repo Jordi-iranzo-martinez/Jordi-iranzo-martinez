@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las especies exóticas invasoras son aquellas que provienen de otras geografía (exóticas) y suponen una amenaza para la biodiversidad del lugar donde se asientan (invasoras).
 

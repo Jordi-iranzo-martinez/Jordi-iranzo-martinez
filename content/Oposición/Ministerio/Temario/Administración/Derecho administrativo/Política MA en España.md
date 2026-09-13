@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 ### Política medioambiental en España
 
 La política medioambiental en España es un sistema competencial complejo de concurrencia entre Estado, CCAA y EELL basado en legislación básica estatal y desarrollo autonómico.

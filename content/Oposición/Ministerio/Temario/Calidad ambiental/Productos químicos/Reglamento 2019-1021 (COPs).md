@@ -1,5 +1,9 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-El [Reglamento (UE) 2019/1021](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02019R1021-20250804) regula la gestión de contaminantes orgánicos persistentes (COP) en la Unión Europea, adoptando las sustancias del Convenio de Estocolmo —ratificado por la Unión Europea en el 2004— y desarrollando procedimientos propios de gestión.
+El [Reglamento (UE) 2019/1021](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02019R1021-20250804) regula la gestión de contaminantes orgánicos persistentes (COP) en la Unión Europea, adoptando las sustancias del [[Web/content/Oposición/Ministerio/Temario/Calidad ambiental/Productos químicos/Convenio de Estocolmo|Convenio de Estocolmo]] —ratificado por la Unión Europea en el 2004— y desarrollando procedimientos propios de gestión.
 
 |                       |                                                                                                                                                                                                                                                                              |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

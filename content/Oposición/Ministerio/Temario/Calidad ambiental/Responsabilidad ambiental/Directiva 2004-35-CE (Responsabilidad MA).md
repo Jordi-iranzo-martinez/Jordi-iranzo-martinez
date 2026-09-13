@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2004/35/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02004L0035-20190626), sobre responsabilidad medioambiental con arreglo al principio de "quien contamina paga", establece un marco jurídico a nivel de la Unión Europea para prevenir y reparar el daño ambiental. 
 

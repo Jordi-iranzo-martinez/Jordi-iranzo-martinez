@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Estrategia de la Unión Europea sobre Biodiversidad para 2030](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52020DC0380) es un marco integral de compromisos y acciones para combatir las principales causas de pérdida de biodiversidad. Adoptada por la Comisión Europea (2020), es una pieza central del Pacto Verde Europeo (European Green Deal) que contiene más de 100 acciones y compromisos específicos en diversas áreas de política
 

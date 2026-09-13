@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Programa Copernicus](https://www.copernicus.eu/es), gestionado por la Comisión Europea y la [Agencia Espacial Europea](https://www.esa.int/) (ESA), es proyecto civil de observación terrestre más grande del mundo. Sus datos son abiertos y gratuitos.
 

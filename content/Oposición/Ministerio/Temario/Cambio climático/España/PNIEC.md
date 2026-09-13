@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Plan Nacional Integrado de Energía y Clima](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/pniec-2023-2030/PNIEC_2024_240924.pdf) (PNIEC) 2021-2030, aprobado por (actualizado en el 2023: [Real Decreto 986/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-19278)) es el primero de las herramientas de planificación estratégica nacional, de acuerdo a la normativa de la Unión Europea.
 

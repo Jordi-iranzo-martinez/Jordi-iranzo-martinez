@@ -1,7 +1,13 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El régimen jurídico de los empleados públicos es el conjunto de normas, principios y reglas que regulan una la situación de los trabajadores de la Administración y su sector público institucional. 
 
-En el [artículo 103.3 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a103), se expresa "La ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones".
+En la [[Web/content/Oposición/Ministerio/Temario/Administración/Constitución/Constitución Española de 1978|Constitución Española de 1978]] aparece ([artículo 103.3](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a103)):
+
+>"La ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones".
 
 Esto se realizó a través de normativas diversas:
 

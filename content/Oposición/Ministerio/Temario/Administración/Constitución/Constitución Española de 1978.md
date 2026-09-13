@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Constitución Española de 1978](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229) es la norma suprema del ordenamiento jurídico actual. Establece un Estado social y democrático de Derecho con monarquía parlamentaria, garantizando derechos fundamentales y descentralizando el poder en Comunidades Autónomas.
 

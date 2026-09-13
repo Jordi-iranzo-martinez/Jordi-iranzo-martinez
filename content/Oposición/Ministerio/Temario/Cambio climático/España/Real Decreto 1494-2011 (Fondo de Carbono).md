@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Fondo de Carbono de España](https://www.miteco.gob.es/es/cambio-climatico/temas/fondo-carbono.html), llamado "para una Economía Sostenible" (FES-CO2), se regula mediante el [Real Decreto 1151/2025](https://www.boe.es/buscar/act.php?id=BOE-A-2025-26026):
 

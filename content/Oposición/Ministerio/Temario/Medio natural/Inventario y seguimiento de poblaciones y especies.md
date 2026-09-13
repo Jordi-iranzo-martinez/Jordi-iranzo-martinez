@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El inventario y el seguimiento de poblaciones permite la toma de decisiones de conservación. 
 
 - **Inventario**: pretende responder el tipo y número de especies en un lugar y momento determinado (¿qé a?)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 ### Los contratos del sector público
 

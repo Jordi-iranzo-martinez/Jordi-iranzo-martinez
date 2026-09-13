@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Programa se vasa en la Curva de Transición Forestal, un modelo teórico en el que describe cómo cambia la cobertura forestal de un país o región a lo largo del tiempo conforme se desarrolla económicamente, basado en la teoría de que los países inicialmente explotan sus bosques para el desarrollo económico, pero una vez alcanzan cierto nivel de desarrollo, comienzan a valorar y restaurar sus bosques.
 

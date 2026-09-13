@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Acuerdo de París](https://unfccc.int/files/meetings/paris_nov_2015/application/pdf/paris_agreement_spanish_.pdf) (COP 21, 2015), es un tratado internacional de desarrollo del Convenio Marco (UNFCCC por sus siglas en inglés), para la adecuada mitigación, adaptación, y cooperación internacional en materia de cambio climático, con los siguientes objetivos principales:
 

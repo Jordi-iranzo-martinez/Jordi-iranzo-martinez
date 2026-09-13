@@ -1,15 +1,19 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La planificación forestal es un marco estratégico integral que ordena la gestión sostenible de los bosques españoles mediante diversos instrumentos al efecto, tales como proyectos de ordenación, planes dasocráticos, planes técnicos y figuras equivalentes.
 
 La gestión sostenible incluye la conservación activa a formas más resilientes del cambio climático, protección frente a las amenazas (abandono, incendios, enfermedades y plagas...) e integración de las dimensiones económicas y sociales de los municipios donde se desarrollan.
 
-La planificación forestal en España ([capítulo II del título III de la Ley de Montes](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109&tn=1#cii-3)) se basa en dos instrumentos: 
+La planificación forestal en España ([capítulo II del título III de la Ley de Montes](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109&tn=1#cii-3)) [[Web/content/Oposición/Ministerio/Temario/Medio natural/Ley 43-2003 (Montes)|Ley 43-2003 (Montes)]] se basa en dos instrumentos: 
 
 - **[Estrategia Forestal Española](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/politica-forestal/EFE%20Web.pdf)** (EFE): documento de referencia que contiene el diagnóstico de la situación de los montes y del sector forestal español, con previsiones de futuro, y directrices de la política forestal española
 
 - **[Plan Forestal Español](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/politica-forestal/PFE-Web.pdf)** (PFE): instrumento de planificación a largo plazo, que desarrolla el anterior
 
-Ambos se elaboran por el Ministerio de medio ambiente (oídos los Ministerios afectados en el caso de la Estrategia), con la participación de las Comunidades Autónomas, e informe previo favorable de la Conferencia Sectorial de Agricultura y Desarrollo Rural.
+Ambos se elaboran por el [[Ministerio de MA]] (oídos los Ministerios afectados en el caso de la Estrategia), con la participación de las [[Web/content/Oposición/Ministerio/Temario/Administración/Otros/Comunidades Autónomas|Comunidades Autónomas]], e informe previo favorable de la Conferencia Sectorial de Agricultura y Desarrollo Rural.
 
 *Además, existen los Planes de Ordenación de Recursos Forestales (PORF), de las Comunidades Autónomas, para cada una de sus demarcaciones forestales.*
 

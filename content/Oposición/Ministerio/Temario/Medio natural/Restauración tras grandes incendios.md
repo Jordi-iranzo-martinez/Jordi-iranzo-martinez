@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La restauración tras grandes incendios aparece parcialmente en la [Ley de Montes](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109) como trabajos de restauración forestal y medioambiental ([artículo 50 bis](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109&tn=1#a5-2)), centrados en la recuperación de la integridad del ecosistema afectado y el control de los procesos erosivos.
 
 - **Planificación** basada en una evaluación previa y zonificación de riesgos, para priorizar las intervenciones según la gravedad y características del área afectada

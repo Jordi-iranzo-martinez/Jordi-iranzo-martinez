@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 Los tratamientos culturales de las masas arboladas son prácticas o intervenciones técnicas que se aplican en un bosque o masa forestal para mejorar su salud, estructura, biodiversidad y resistencia a riesgos naturales como plagas, incendios o efectos del cambio climático. Se basa en los siguientes:
 
 - **Aclareos y podas**: se reducen densidades de árboles para disminuir la competencia por recursos, favoreciendo que crezcan árboles más vigorosos y mejorando la estabilidad estructural del bosque.

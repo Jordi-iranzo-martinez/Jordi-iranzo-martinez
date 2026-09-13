@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [paquete "*Fit for 55*"](https://www.consilium.europa.eu/es/policies/fit-for-55/) ("Objetivo 55") (2021) es un conjunto de propuestas legislativas para lograr mitigar las emisiones de gases de efecto invernadero en un 55% en el 2030 respecto a los niveles de 1990 (objetivo intermedio del Reglamento 2021/1119: Ley Europea del Clima), abarcando un total de 13 propuestas: 
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La [Directiva 1999/31/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:01999L0031-20240804) establece los requisitos técnicos y operativos para prevenir y reducir los efectos negativos del vertido de residuos en el medio ambiente(aguas, suelo, aire) y la salud humana, mediante la introducción de requisitos técnicos estrictos:
 
 | Elementos principales                                                                                                                                                                                     | Contenidos                                                                                                                                                                                                                                                                                                                                                     |

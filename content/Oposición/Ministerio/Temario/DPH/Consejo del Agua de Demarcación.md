@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Consejo del Agua de la demarcación ([artículo 35](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#a35)) es un órgano que fomenta la información, la consulta y la participación pública en materia de planificación hidrológica, en las demarcaciones hidrográficas con cuencas intercomunitarias, con las siguientes funciones: 
 

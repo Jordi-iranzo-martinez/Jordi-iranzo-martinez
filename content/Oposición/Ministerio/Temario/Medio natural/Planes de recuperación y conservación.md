@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los planes de recuperación y conservación de especies en peligro son respectivamente para las especies en peligro de extinción y vulnerables, y también deberán de realizarse 3 y 5 años tras la inclusión en el Catálogo correspondiente:
 

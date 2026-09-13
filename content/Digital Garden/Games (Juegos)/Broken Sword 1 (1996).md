@@ -2,12 +2,15 @@
 tags:
   - Just_One_Humankind
 ---
+The Order of the Poor Fellow-Soldiers of Christ and of the Temple of Solomon ("the Knights Templar") was founded in 1118 or 1119 by French knight Hugo de Payns during the First Crusade to protect Christian pilgrims in the Holy Land.
 
-La Orden de los Caballeros Templarios
+They grew into a powerful military and financial institution. They essentially created the world's first multinational banking system, inventing letters of credit.
 
-La Orden de los Pobres Caballeros de Cristo y del Templo de Salomón (más conocida como la Orden de los Caballeros Templarios) fue una de las instituciones militares y religiosas más poderosas de la Edad Media. Fundada hacia 1118 o 1119 por el caballero francés Hugo de Payns tras la Primera Cruzada, su misión inicial era proteger la vida de los peregrinos cristianos que viajaban a Tierra Santa.
+By 1307, King Philip IV "The Handsome" of France was deeply in debt to the Templars. To wipe out his debt, he allied with Pope Clement V and ordered a surprise mass arrest of the knights on Friday, October 13, 1307—the historical origin of the "Friday the 13th" superstition. They were falsely accused of heresy, sodomy, and worshipping an idol named Baphomet.
 
-Los templarios consiguieron algo inédito en la Iglesia Católica: fusionar los votos monásticos tradicionales (pobreza, castidad y obediencia) con el oficio de las armas. Eran monjes guerreros.
+Real-world legends suggest that the Templar fleet escaped French ports right before the arrests, carrying away their vast wealth and secret archives. The game uses this historical mystery to propose that a hidden "Neo-Templar" faction survived into the modern era, pulling strings from the shadows to reclaim world dominance.
+
+Templars were warrior monks.
 
 San Bernardo de Claraval: El famoso monje cisterciense fue su gran valedor. Él redactó su Regla Latina oficial en el Concilio de Troyes (1129) y escribió un tratado (Elogio de la nueva milicia) que justificaba que matar a un enemigo de la fe en el campo de batalla no era un pecado (homicidio), sino una victoria contra el mal (malicidio).
 
@@ -24,6 +27,6 @@ Poder Financiero: Gracias a este sistema y a las inmensas donaciones de tierras 
 
 
 
-Las Cruzadas. 
+Pope Clement V dissolved the Order in 1312.
 
-El juego te permite explicar la historia real de las cruzadas en Tierra Santa, el juicio por herejía que el rey Felipe IV de Francia orquestó en 1307 contra ellos, y cómo el Papa Clemente V disolvió la orden.
+In 1314, Jacques de Molay was burnt alive in the Notre Dame Cathedral. Before dying maldició the King and the Pope to comparecer before the God's tribunal in the term of one year. Both died a few months later.

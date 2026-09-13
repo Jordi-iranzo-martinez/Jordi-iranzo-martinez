@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El sector del transporte (1A3) es una subcategoría de la energía (1) ([[Energía y cambio climático]]).
 

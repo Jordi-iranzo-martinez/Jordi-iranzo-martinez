@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Estadística General de Incendios Forestales en España](https://www.miteco.gob.es/es/biodiversidad/temas/incendios-forestales/estadisticas-datos.html) (EGIF) es la base de datos nacional en la materia.
+
+[[Ministerio de MA]]
 
 Iniciada en 1968, constituye una de las series estadísticas más consolidadas del mundo. 
 

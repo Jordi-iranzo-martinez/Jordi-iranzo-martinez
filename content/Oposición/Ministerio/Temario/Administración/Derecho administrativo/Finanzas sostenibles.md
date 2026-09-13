@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las finanzas sostenibles son un enfoque del sistema financiero que integra criterios ambientales, sociales y de gobernanza (ESG) en las decisiones de inversión y financiación, buscando generar valor tanto económico como sostenible a largo plazo.
 

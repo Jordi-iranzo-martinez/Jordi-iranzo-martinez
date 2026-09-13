@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 41/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20050), transpone al ordenamiento jurídico español la Directiva. Su objetivo es lograr y mantener un buen estado ambiental del medio marino, procurando su conservación, protección y mejora, mediante una planificación coherente.
 

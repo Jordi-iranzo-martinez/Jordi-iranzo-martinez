@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Red Natura 2000 de áreas protegidas](https://www.eea.europa.eu/themes/biodiversity/natura-2000), de la Unión Europea, con más de 222.000 km² es el sistema de conservación *in situ* de la biodiversidad más grande del mundo ([acceder al visor](https://natura2000.eea.europa.eu/)). 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 
 La diversidad biológica ("biodiversidad") es la variedad en la que se manifiesta la vida. 

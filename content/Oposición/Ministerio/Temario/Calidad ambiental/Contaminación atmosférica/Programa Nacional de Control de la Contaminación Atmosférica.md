@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Programa Nacional de Control de la Contaminación Atmosférica](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/sgalsi/atm%C3%B3sfera-y-calidad-del-aire/emisiones/pol-med/actualizacion_pncca2023_240115.pdf) (PNCCA) (2023-2030) se ha realizado en cumplimiento de las disposiciones de la Directiva 2016/2284, de techos de emisión, por las que se desarrolla el Protocolo de Gotemburgo, transpuesta en España a través del Real Decreto 818/2018:
 

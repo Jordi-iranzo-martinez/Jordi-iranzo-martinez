@@ -38,3 +38,4 @@ Ofrezco los siguientes servicios:
 
 **Contacto**: jordi.im@proton.me (puedes dejarme tu teléfono e intentaré llamarte)
 ![[Pasted image 20260911224854.png]]
+![[Pasted image 20260912121908.png]]

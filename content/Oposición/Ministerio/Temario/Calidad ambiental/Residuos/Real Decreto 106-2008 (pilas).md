@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 106/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-2387) transpone la Directiva 2006/66/CE al ordenamiento jurídico español:
 

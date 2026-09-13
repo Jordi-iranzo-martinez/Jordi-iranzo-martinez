@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 1042/2017](https://www.boe.es/buscar/act.php?id=BOE-A-2017-15368), de 22 de diciembre, sobre la limitación de las emisiones a la atmósfera de determinados agentes contaminantes procedentes de las instalaciones de combustión medianas (de 1 a 50 MW)
 

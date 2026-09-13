@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 - **Participación** (artículo 2): cada Estado miembro determina qué público tiene derecho a participar (incluidas las ONGs que trabajen por la protección ambiental y cumplan los requisitos del Derecho nacional). Deben fijarse calendarios razonables que den tiempo suficiente para cada fase del proceso participativo.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Pacto Verde Europeo](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en) (*European Green Deal*) (2019), presentado por la Comisión Europea, es una estrategia formada por varias estrategias, normas y mecanismos para la descarbonización a largo plazo de la Unión Europea, con incidencia otros sectores de desarrollo sostenible (economía circular, biodiversidad, agricultura sostenible...), con los siguientes objetivos: 
 

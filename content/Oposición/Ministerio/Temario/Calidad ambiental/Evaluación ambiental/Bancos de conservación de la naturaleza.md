@@ -1,7 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-Los bancos de conservación de la naturaleza son un conjunto de títulos ambientales o créditos de conservación otorgados por el Ministerio de medio ambiente (y en su caso, las Comunidades Autónomas), que representan valores naturales creados o mejorados ([disposición adicional octava de la Ley 21/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913&p=20230614&tn=1#daoctava)), para compensar, reparar o restaurar las pérdidas netas de valores naturales.
+Los bancos de conservación de la naturaleza son un conjunto de títulos ambientales o créditos de conservación otorgados por el Ministerio de medio ambiente (y en su caso, las Comunidades Autónomas), que representan valores naturales creados o mejorados ([disposición adicional octava](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913&p=20230614&tn=1#daoctava) de la [[Ley 21-2013 (evaluación ambiental)]]), para compensar, reparar o restaurar las pérdidas netas de valores naturales.
 
-Se crean por resolución del Ministerio de medio ambiente (y en caso, de las Comunidades Autónomas), incluyendo los siguientes: 
+Se crean por resolución del [[Ministerio de Medio Ambiente]] (y en caso, de las [[Web/content/Oposición/Ministerio/Temario/Administración/Otros/Comunidades Autónomas|Comunidades Autónomas]]), incluyendo los siguientes: 
 
 - **Actuaciones** (descripción)
 - **Fincas**: identificación de las que se realizan (con su referencia catastral y, en su caso, el número de finca registral)
@@ -16,6 +20,8 @@ Se podrán transmitir en régimen de libre mercado, y constituir las medidas com
 - **Responsabilidad ambiental** ("reparación complementaria" y "reparación compensatoria"; a las aguas, las especies silvestres y hábitats, y la ribera del mar y de las rías)
 
 - **Patrimonio natural y biodiversidad** (sobre la Red Natura 2000).
+
+[[Medidas compensatorias]]
 
 Cada Administración otorgante propondrá su inscripción en un Registro público compartido único en todo el territorio nacional (dependiente del Ministerio).
 

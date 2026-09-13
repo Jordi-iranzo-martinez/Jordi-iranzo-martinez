@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio para la Protección de la Capa de Ozono](https://ozone.unep.org/treaties/vienna-convention/vienna-convention-protection-ozone-layer?q=treaties/vienna-convention/vienna-convention-protection-ozone-layer) (Viena; 1985, 1987) estableció un marco de trabajo para la cooperación entre países en actividades como la investigación, intercambio de información y la adopción de medidas preventivas respecto a sustancias que agotan la capa de ozono (SAO). 
 

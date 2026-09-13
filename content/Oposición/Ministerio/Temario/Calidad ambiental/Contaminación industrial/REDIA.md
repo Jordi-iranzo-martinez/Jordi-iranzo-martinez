@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Red de Inspección Ambiental de España](https://www.miteco.gob.es/en/calidad-y-evaluacion-ambiental/temas/sostenibilidad-industrial/inspeccion-ambiental/quienes-somos.html) (REDIA) es un instrumento supra-autonómico que agrupa a todos los responsables de las inspecciones ambientales de las distintas Administraciones Públicas del país: las 17 Comunidades Autónomas, y representantes del Ministerio de Medio Ambiente.
 

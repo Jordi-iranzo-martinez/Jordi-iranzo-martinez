@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Plan de Recuperación, Transformación y Resiliencia (PRTR) representa la estrategia española para la gestión de los fondos Next Generation EU.
 

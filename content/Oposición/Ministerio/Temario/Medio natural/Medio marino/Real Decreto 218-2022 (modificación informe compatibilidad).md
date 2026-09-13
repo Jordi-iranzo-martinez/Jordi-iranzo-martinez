@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 218/2022](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6050) modificó el Real Decreto 79/2019 a través de un artículo único, en cuanto a la solicitud y emisión del informe de compatibilidad (sus artículos 5 y 7, respectivamente), así como la lista indicativa de objetivos ambientales (Anexo II) -para adaptarlos al -, los criterios de compatibilidad (Anexo III), y las declaraciones responsables (Anexo IV): 
 

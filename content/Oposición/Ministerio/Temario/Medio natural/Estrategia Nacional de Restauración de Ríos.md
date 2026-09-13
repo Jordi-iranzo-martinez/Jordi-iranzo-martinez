@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Estrategia Nacional de Restauración de Ríos de España](https://www.miteco.gob.es/content/dam/miteco/es/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/estrategia-nacional-restauracion-rios/pdfs/ENRR-2022-2030.pdf) 2023-2030 (ENRR), implementada desde 2007, constituye el marco técnico y metodológico para la recuperación de los ecosistemas fluviales españoles. Se alinea con la Directiva Marco del Agua y los objetivos de desarrollo sostenible
 

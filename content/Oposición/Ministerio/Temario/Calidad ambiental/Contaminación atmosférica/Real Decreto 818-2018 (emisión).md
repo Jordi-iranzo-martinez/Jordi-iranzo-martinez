@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 En España se transpuso la [Directiva 2016/2284](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02016L2284-20240206) a través del [Real Decreto 818/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-9466), que incluye medidas para la reducción de las emisiones nacionales de determinados contaminantes atmosféricos.
 

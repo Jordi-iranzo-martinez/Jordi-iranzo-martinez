@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 22/1998](https://boe.es/buscar/act.php?id=BOE-A-1988-18762) es la norma que lo regula (modificada sustancialmente por la Ley 2/2013).
 

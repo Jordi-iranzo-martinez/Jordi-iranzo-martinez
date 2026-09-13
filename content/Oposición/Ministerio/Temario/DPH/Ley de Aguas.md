@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto Legislativo 1/2001](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276) aprueba el texto refundido de la Ley de Aguas en España. 
+
+*Transpone la [[DMA]]*
 
 | Títulos                                                        | Capítulos                                                                                                                                            |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

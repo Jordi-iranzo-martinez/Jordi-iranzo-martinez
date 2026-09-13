@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva Hábitats](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:01992L0043-20250714) (92/43/CEE), basada en el Convenio de Berna ([ver esquema de la norma](https://whimsical.com/directiva-92-43-cee-del-consejo-de-21-de-mayo-de-1992-relativa-a-UAFwEbYnyHScLK8xTB8w4y)), pretende conseguir un estado de conservación favorable de las especies, a través de zonas de especial conservación (ZEC): 
 

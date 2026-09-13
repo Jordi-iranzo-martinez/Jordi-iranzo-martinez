@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [restauración hidrológico-forestal](https://www.miteco.gob.es/es/biodiversidad/temas/desertificacion-restauracion/restauracion-hidrologico-forestal/index.html) se basa en el uso de la vegetación como elemento estabilizador del suelo para corregir desequilibrios hidrológicos en cabeceras de cuencas afectados por fenómenos de erosión y desertificación.
 

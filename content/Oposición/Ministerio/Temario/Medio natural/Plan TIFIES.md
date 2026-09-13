@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 El [Plan de Acción Español contra el Tráfico Ilegal y Furtivismo Internacional de Especies Silvestres](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/internacional-especies-madera/tifies/files-1/TIFIES/documentos/Plan_TIFIES_espanol_baja.pdf) (Plan TIFIES), aprobado por Acuerdo del Consejo de Ministros en 2018, como iniciativa estratégica nacional, con los siguientes puntos principales
 
 ([[Convenio CITES]] y [[Reglamento CITES]])

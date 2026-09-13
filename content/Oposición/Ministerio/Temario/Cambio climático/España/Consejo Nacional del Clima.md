@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Consejo Nacional del Clima](https://www.miteco.gob.es/es/cambio-climatico/temas/organismos-e-instituciones-implicados-en-la-lucha-contra-el-cambio-climatico-a-nivel-nacional/el-consejo-nacional-del-clima.html) (CNC) es un foro institucional de participación de las administraciones públicas y grupos de interés en las políticas de cambio climático de España. 
 
 *Fue creado en 1992 como Comisión Nacional del Clima ([Real Decreto 568/1992](https://www.boe.es/buscar/doc.php?id=BOE-A-1992-12921)), y modificado varias veces ([Real Decreto 177/1998](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-3735); [Real Decreto 1188/2001](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20482)), hasta su disposición actual ([Real Decreto 415/2014](https://www.boe.es/buscar/act.php?id=BOE-A-2014-7290)):* 

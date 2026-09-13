@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 975/2009](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9841), establece el marco para la gestión de residuos mineros y la rehabilitación de espacios afectados por actividades extractivas, incorporando la Directiva 2006/21/CE
 

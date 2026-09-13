@@ -1,7 +1,9 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-
-El [Reglamento 2017/852](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02017R0852-20240730) regula la gestión del mercurio en la Unión Europea, en desarrollo de las obligaciones contraídas en el Convenio de Minamata. 
-
+El [Reglamento 2017/852](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02017R0852-20240730) regula la gestión del mercurio en la Unión Europea, en desarrollo de las obligaciones contraídas en el [[Web/content/Oposición/Ministerio/Temario/Calidad ambiental/Productos químicos/Convenio de Minamata|Convenio de Minamata]]
 
 | Contenido principal                           | Descripción                                                                                                                                                                                                                                                                        |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

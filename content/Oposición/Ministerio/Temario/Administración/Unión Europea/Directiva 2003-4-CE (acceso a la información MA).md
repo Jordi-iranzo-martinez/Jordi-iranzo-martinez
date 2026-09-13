@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La Unión Europea ratificó el [[Convenio de Aarhus]] y lo amplió a través de la [Directiva 2003/4/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32003L0004) (acceso a la información medioambiental) y la [Directiva 2003/35/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02003L0035-20161231) (participación pública y acceso a la justicia):
+
+[[Directiva 2003-35-CE]]
 
 - **Acceso previa solicitud** (artículo 3): cualquier autoridad pública debe facilitar a quien lo solicite la información medioambiental en su poder (sin que el solicitante esté obligado a justificar un motivo). El plazo de respuesta es de un mes desde la solicitud (ampliable a dos meses cuando la petición sea voluminosa o compleja)
 

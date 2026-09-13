@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las [Estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad](https://www.miteco.gob.es/es/biodiversidad/publicaciones/pbl-fauna-flora-estrategia-list-arbol.html) son criterios orientadores o directrices generales para las Comunidades Autónomas, en caso de que se encuentren en más de una ellas, para que elaboren sus propios planes de conservación y recuperación.
 

@@ -2,8 +2,6 @@
 tags:
   - Memorias_Hispanas
 ---
-
-
 El Carnaval de Barranquilla es la fiesta folclórica y cultural más importante de Colombia y el segundo carnaval más multitudinario del mundo.
 
 Aunque los precarnavales encienden la ciudad desde mediados de enero con desfiles nocturnos como La Guacherna, los cuatro días principales paralizan la ciudad antes del Miércoles de Ceniza:

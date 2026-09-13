@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 #### Concepto
 
 La fin de la condición de residuo se refiere a sustancias, preparados u objetos que dejan de ser considerados como tal tras una operación de valorización (reciclado, regeneración...)

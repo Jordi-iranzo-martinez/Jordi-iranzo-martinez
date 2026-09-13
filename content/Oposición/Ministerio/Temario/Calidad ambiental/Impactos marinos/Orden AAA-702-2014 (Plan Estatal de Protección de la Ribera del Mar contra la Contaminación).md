@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Orden AAA/702/2014](https://www.boe.es/buscar/act.php?id=BOE-A-2014-4651), del Ministerio con competencia en medio ambiente, aprobó el [Plan Estatal de Protección de la Ribera del Mar contra la Contaminación](https://www.boe.es/buscar/act.php?id=BOE-A-2014-4651&p=20140502&tn=1#an), del subsistema costero ([ver esquema de la norma](https://whimsical.com/orden-aaa-702-2014-de-28-de-abril-por-la-que-se-aprueba-el-plan--4BrgsJJRxwk9UKV2N6Fy6n)).
 
@@ -18,13 +22,28 @@ La [Orden AAA/702/2014](https://www.boe.es/buscar/act.php?id=BOE-A-2014-4651), d
 
 *(1) El Comité Técnico asesor está formado por los titulares de los siguientes órganos:* 
 
-- **Ministerio de medio ambiente**: Subdirección General de Dominio Público Marítimo-Terrestre, Subdirección General para la Protección de la Costa, División para la Protección del Mar, Unidad de Apoyo (todas ellas de la Dirección General con competencia en medio marino); Dirección General de calidad ambiental; [Agencia Estatal de Meteorología](https://www.aemet.es/es/portada) (AEMET); y el [Instituto Español de Oceanografía](https://www.ieo.es/) (IEO).
+- **Ministerio de medio ambiente**: 
+	- Subdirección General de Dominio Público Marítimo-Terrestre
+	- Subdirección General para la Protección de la Costa
+	- División para la Protección del Mar, Unidad de Apoyo (todas ellas de la Dirección General con competencia en medio marino)
+	- Dirección General de calidad ambiental
+	- [Agencia Estatal de Meteorología](https://www.aemet.es/es/portada) (AEMET)
+	- [Instituto Español de Oceanografía](https://www.ieo.es/) (IEO)
 
-- **Ministerio de Interior**: Dirección General de Protección Civil y Emergencias, Dirección General de la Guardia Civil del Ministerio del Interior
+- **Ministerio de Interior**: 
+	- Dirección General de Protección Civil y Emergencias
+	- Dirección General de la Guardia Civil
 
-- **Ministerio de Fomento**: Dirección General de la Marina Mercante, [Sociedad de Salvamento y Seguridad Marítima](https://sede.transportes.gob.es/grupo-transportes/sociedad-salvamento-seguridad-maritima-sasemar) (SASEMAR), [Centro de Estudios y Experimentación de Obras Públicas](https://www.cedex.es/) (CEDEX), y [Puertos del Estado](https://www.puertos.es/). 
+- **Ministerio de Fomento**: 
+	- Dirección General de la Marina Mercante
+	- [Sociedad de Salvamento y Seguridad Marítima](https://sede.transportes.gob.es/grupo-transportes/sociedad-salvamento-seguridad-maritima-sasemar) (SASEMAR)
+	- [Centro de Estudios y Experimentación de Obras Públicas](https://www.cedex.es/) (CEDEX)
+	- [Puertos del Estado](https://www.puertos.es/). 
 
-- **Otros**: Armada Española, [Consejo Superior de Investigaciones Científicas](https://www.csic.es/es) (CSIC), [Instituto Nacional de Seguridad e Higiene en el Trabajo](https://www.insst.es/) (INSST).
+- **Otros**: 
+	- Armada Española
+	- [Consejo Superior de Investigaciones Científicas](https://www.csic.es/es) (CSIC)
+	- [Instituto Nacional de Seguridad e Higiene en el Trabajo](https://www.insst.es/) (INSST).
 
 
 El Protocolo de Actuación 

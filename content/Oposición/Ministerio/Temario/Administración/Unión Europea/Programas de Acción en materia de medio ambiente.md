@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 Los Programas de Acción en materia de Medio Ambiente (PAA) de la Unión Europea son instrumentos de planificación y gestión ambiental que establecen objetivos, estrategias y medidas concretas para abordar problemas ambientales específicos y promover el desarrollo sostenible.
 
 Normalmente cubren períodos de 7-10 años. Pueden ser sectoriales o integrales, y abordan aspectos ambientales de manera coordinada, basado en los tratados europeos. No son jurídicamente vinculantes, pero guían la legislación posterior. 

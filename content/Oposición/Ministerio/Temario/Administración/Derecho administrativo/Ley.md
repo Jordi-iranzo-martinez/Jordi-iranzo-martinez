@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La Ley es una de las normas jurídicas más importantes. Son las normas jurídicas aprobadas por el Poder Legislativo (en el caso español, el Congreso de los Diputados y el Senado).
 

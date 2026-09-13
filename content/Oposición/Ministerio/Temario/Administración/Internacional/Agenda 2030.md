@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La Agenda 2030 (2015) es un Plan de acción global de las Naciones Unidas en 2015 para alcanzar un futuro más sostenible en el año 2030, en cinco dimensiones ("cinco P"): 
 
 - **Personas** (***p**eople*)

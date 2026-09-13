@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El oleaje es el movimiento ondulatorio de la superficie marina generado principalmente por la acción del viento. 
 

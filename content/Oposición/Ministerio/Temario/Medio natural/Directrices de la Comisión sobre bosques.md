@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las Directrices de la Comisión sobre forestación y reforestación, selvicultura próxima a la naturaleza y bosques primarios y maduros, forman parte del Pacto Verde Europeo y la Estrategia de la UE sobre la biodiversidad de aquí a 2030:
 

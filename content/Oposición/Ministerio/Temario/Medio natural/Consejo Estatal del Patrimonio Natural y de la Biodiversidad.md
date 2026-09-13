@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-El [Consejo Estatal del Patrimonio Natural y de la Biodiversidad](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-la-biodiversidad/conservacion-de-la-biodiversidad-en-espana/cb_esp_cons_est_patrimon_natur_bio.html) es un órgano de participación pública ([artículo 8 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a8), [Real Decreto 948/2009](https://www.boe.es/buscar/act.php?id=BOE-A-2009-10221)):
+El [Consejo Estatal del Patrimonio Natural y de la Biodiversidad](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-la-biodiversidad/conservacion-de-la-biodiversidad-en-espana/cb_esp_cons_est_patrimon_natur_bio.html) es un órgano de participación pública 
+
+*Se creó mediante el [artículo 8](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a8) de la [[Ley 42-2007 (Patrimonio natural y biodiversidad)]]. Fue desarrollado por el [Real Decreto 948/2009](https://www.boe.es/buscar/act.php?id=BOE-A-2009-10221).*
 
 Tiene las siguientes funciones ([artículo 2](https://www.boe.es/buscar/act.php?id=BOE-A-2009-10221&p=20250312&tn=1#a2)) (todas referidas a ese ámbito de aplicación): 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las estrategias temáticas son instrumentos específicos de política ambiental de la UE que se desarrollaron principalmente durante el 6º Programa de Acción en materia de Medio Ambiente (2002-2012). 
 

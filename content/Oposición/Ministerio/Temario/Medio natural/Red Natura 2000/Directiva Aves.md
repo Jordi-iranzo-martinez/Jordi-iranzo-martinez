@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La [Directiva Aves](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02009L0147-20190626) (2009/147/CE) se centra específicamente en la protección de las aves silvestres y de sus hábitats a través de la designación de Zonas de Especial Protección para las Aves (ZEPAs) y regulaciones a la caza, a sus huevos, y a sus partes.
 
 - **Objetivo**: protección general de aves (incluidos huevos, nidos y hábitats)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Registro Estatal de Emisiones y Fuentes Contaminantes](https://prtr-es.miteco.gob.es/) (PRTR-España) es una base de datos pública y oficial que recopila información anual sobre las emisiones de contaminantes al aire, agua y suelo, así como sobre las transferencias de residuos de instalaciones industriales y otras fuentes en España. Está regulado por el [Real Decreto 508/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-8351) (que incorpora las disposiciones del Reglamento 166/2006)
 

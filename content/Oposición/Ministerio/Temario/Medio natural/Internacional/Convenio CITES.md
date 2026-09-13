@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+  - Opo_GVA
+---
 
 El [Convenio de Washington](https://cites.org/) es un tratado internacional para su conservación por comercio.
 

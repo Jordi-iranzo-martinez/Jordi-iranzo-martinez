@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La [Estrategia Española de Economía Circular](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/temas/economia-circular/espanacircular2030_def1_tcm30-509532_mod_tcm30-509532.pdf) ("España Circular 2030"), es el marco principal, basado en el [[Plan de Acción de Economía Circular de la Comisión Europea]]:
 
 | Partes                                               |                                                                                                                                                                                                                                                                                                                |

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 En España la normativa comprende fundamentalmente la [Ley 37/2003](https://www.boe.es/buscar/act.php?id=BOE-A-2003-20976):
 

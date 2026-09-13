@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Sistema Español de Inventario y Proyecciones de Emisiones a la Atmósfera](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-.html) (SEI) es un instrumento para aportar datos cuantitativos inventarios nacionales (emisiones y absorciones de gases de efecto invernadero y contaminantes atmosféricos), [proyecciones de emisiones y absorciones a la atmósfera]((https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/proyecciones-emisiones.html)** (a 2030), para el cumplimiento de objetivos futuros, y otros informes para el cumplimiento de la normativa internacional y comunitaria correspondiente.
 

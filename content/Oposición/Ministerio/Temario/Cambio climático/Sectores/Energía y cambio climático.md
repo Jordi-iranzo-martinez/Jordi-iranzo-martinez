@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 ### Energía y cambio climático en el contexto global
 

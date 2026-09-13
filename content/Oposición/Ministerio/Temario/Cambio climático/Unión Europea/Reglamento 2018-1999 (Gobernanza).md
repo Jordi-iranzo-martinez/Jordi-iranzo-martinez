@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Reglamento 2018/1999](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02018R1999-20231120) sobre la Gobernanza de la Unión de la Energía y de la Acción por el Clima establece un marco integrado de planificación, seguimiento y revisión de las políticas de energía y clima de la UE, para cumplir con los objetivos del Acuerdo de París, basado en la transparencia y la rendición de cuentas, y a través de los siguientes elementos
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La normativa europea aplicable al comercio de derechos de emisión (EU ETS) se basa en la [Directiva 2003/87/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02003L0087-20240301), que establece el régimen para el comercio de derechos de emisión de gases de efecto invernadero en la Unión Europea.
 

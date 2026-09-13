@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los sistemas de comercio de emisiones (ETS) son mecanismos para la ejecución de la compraventa de derechos de emisión, que es un mecanismo de flexibilidad del Protocolo de Kioto (firmado en el 1997, que entró en vigor en el 2005) para el cumplimiento por los países desarrollados de sus objetivos de reducción (Anexo I de la Convención Marco).
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 La contaminación atmosférica es la alteración de la composición natural de la troposfera (medio fluido que nos rodea) que provocan perjuicios a las personas -incluidos sus bienes- y al medio ambiente.
 
 Por ello, se aplica a la troposfera (capa baja), que es donde se desarrolla la vida.

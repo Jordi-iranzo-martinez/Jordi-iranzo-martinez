@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Listado de Especies Silvestres en Régimen de Protección Especial](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-proteccion-especial/ce-proteccion-listado.html) (LESRPE) ([artículo 56 de la Ley 42/2007)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a56), es el registro administrativo de ámbito estatal reúne a todas ellas (incluidas subespecies y poblaciones).
 

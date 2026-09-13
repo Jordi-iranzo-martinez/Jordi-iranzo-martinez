@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los trabajos de corrección de torrentes consisten en un conjunto de actuaciones técnicas e hidráulicas dirigidas a controlar y estabilizar la dinámica de los caudales y sedimentos que circulan por los cauces torrenciales.
 

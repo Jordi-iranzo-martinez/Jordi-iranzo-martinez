@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Reglamento 2015/757](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02015R0757-20250101) regula el seguimiento, notificación y verificación (SNV) de las emisiones de gases de efecto invernadero generadas por el transporte marítimo. *Fue un requisito para su incorporación al Sistema Europeo de Comercio de Emisiones (EU ETS) (realizado por la [Directiva 2023/959](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02023L0959-20230516))*:
 

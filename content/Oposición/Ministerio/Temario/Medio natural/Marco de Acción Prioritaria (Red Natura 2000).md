@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Marco de Acción Prioritaria (MAP) (artículo 8 de la [[Directiva Hábitats]]) es un instrumento de planificación estratégica plurianual para garantizar la financiación de las actividades de conservación de los hábitats y especies de interés comunitario en cada Estado Miembro en la [[Red Natura 2000]].
 

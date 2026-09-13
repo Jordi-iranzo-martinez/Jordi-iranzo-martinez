@@ -2,8 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-
-La Fiesta de los Patios de Córdoba es una de las tradiciones culturales más espectaculares de España, que transforma la ciudad de **Córdoba, Andalucía**, en una obra de arte floral viviente. 
+La Fiesta de los Patios de Córdoba es una de las tradiciones culturales más espectaculares de España, que transforma la ciudad de Córdoba (Andalucía), en una obra de arte floral viviente. 
 
 La tradición de estos oasis urbanos está ligada al intenso calor cordobés. Desde la época de los romanos y, más tarde, con la llegada de los musulmanes, las viviendas se construían con un patio interior comunitario estructurado con una fuente central, pozos y mucha vegetación para enfriar el aire de forma natural antes de que entrara a las habitaciones.
 

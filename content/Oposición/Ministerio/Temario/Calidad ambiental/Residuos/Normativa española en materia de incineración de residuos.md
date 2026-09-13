@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La normativa española en materia de incineración de residuos se basa en el [[Real Decreto 815-2013 (Reglamento de emisiones industriales)]], por el que se aprueba el [Reglamento de emisiones industriales](https://www.boe.es/buscar/act.php?id=BOE-A-2013-10949&p=20230125&tn=1#reglamento), en concreto en su capítulos IV y V:
 

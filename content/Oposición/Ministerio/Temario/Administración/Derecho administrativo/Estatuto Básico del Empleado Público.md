@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Un estatuto es una norma jurídica que regula el régimen jurídico de una determinada categoría de personas, instituciones o situaciones. 
 

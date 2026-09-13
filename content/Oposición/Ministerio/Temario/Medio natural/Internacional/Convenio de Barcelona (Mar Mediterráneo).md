@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+  - Opo_GVA
+---
 
 El [Convenio para la Protección del Medio Marino y de la Región Costera del Mediterráneo](https://wedocs.unep.org/bitstream/handle/20.500.11822/7096/BarcelonaConvention_Consolidated_eng.pdf) (Barcelona; 1976, 1978) es un acuerdo regional para la protección del mar Mediterráneo contra la contaminación.
 

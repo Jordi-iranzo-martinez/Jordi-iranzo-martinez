@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 La economía circular es aquella en la que los residuos suponen materias primas de otros procesos productivos.
 
 ![[Pasted image 20260425154917.png]]

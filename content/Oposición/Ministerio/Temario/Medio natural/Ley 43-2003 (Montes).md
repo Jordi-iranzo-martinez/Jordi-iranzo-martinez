@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 43/2003](https://boe.es/buscar/act.php?id=BOE-A-2003-21339) 
 

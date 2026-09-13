@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 El [Marco Global para la Gestión Racional de las Sustancias y Productos Químicos y Residuos](https://www.chemicalsframework.org/page/text-global-framework-chemicals) (2023), es un acuerdo voluntario no vinculante, que pretende sentar las bases para su gestión segura y sostenible durante todo su ciclo de vida, con las siguientes características principales:
 
 En la [Quinta Conferencia Internacional sobre Gestión de Productos Químicos](https://www.saicm.org/About/ICCM/ICCM5/tabid/8207/language/en-US/Default.aspx) (ICCM V) SAICM evolucionó 

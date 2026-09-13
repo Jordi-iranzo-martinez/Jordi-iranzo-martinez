@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Reglamento 2173/2005](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02005R2173-20250708) (FLEGT) establece un sistema de licencias "Aplicación de las leyes forestales, gobernanza y comercio" (FLEGT por sus siglas en inglés,) aplicable a las importaciones de productos de la madera dentro de la Unión Europea
 

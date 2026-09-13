@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [**Decisión 406/2009/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32009D0406)**: regulación inicial para el cumplimiento de los compromisos internacionales en el Segundo periodo del Protocolo de Kioto (2013-2020), realizado a través de la eficiencia energética ([artículo 4](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32009D0406#d1e478-136-1)) y los créditos de carbono ([artículo 5](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32009D0406#d1e499-136-1))
 

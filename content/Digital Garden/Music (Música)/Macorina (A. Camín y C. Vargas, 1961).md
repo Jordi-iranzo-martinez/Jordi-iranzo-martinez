@@ -12,7 +12,7 @@ El texto describe la sensualidad de los movimientos de la mujer por las calles d
 
 En 1961, Chavela Vargas tomó el poema de Camín, seleccionó los versos más potentes y los vistió con su inconfundible y desgarrado estilo acústico.
 
-El tema se convirtió en un escándalo ([[Sex]]). La Iglesia católica y los regímenes dictatoriales de la época en América Latina censuraron y prohibieron la canción en las radios, acusándola de inmoral y pecaminosa.
+El tema se convirtió en un escándalo ([[Sex life]]). La Iglesia católica y los regímenes dictatoriales de la época en América Latina censuraron y prohibieron la canción en las radios, acusándola de inmoral y pecaminosa.
 
 Chavela la convirtió en una declaración de libertad sexual: una defensa del placer, del deseo libre y del derecho a amar fuera de los cánones heterosexuales e institucionales de la época.
 

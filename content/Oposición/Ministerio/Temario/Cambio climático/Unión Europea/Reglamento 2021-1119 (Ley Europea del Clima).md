@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La Ley Europea del Clima ([Reglamento UE 2021/1119](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32021R1119)) constituye el marco legislativo que transforma los compromisos políticos del Pacto Verde Europeo en obligaciones jurídicamente vinculantes
 

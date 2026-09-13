@@ -1,4 +1,11 @@
-El control jurisdiccional de la actividad administrativa es el mecanismo mediante el cual los órganos judiciales revisan la legalidad de los actos, disposiciones y omisiones de la Administración Pública. Se realiza por la persona interesada mediante recurso contencioso-administrativo, una vez agotada la vía administrativa.
+---
+tags:
+  - Opo_Ministerio
+---
+
+El control jurisdiccional de la actividad administrativa ([[Acto administrativo]]) es el mecanismo mediante el cual los órganos judiciales revisan la legalidad de los actos, disposiciones y omisiones de la Administración Pública. Se realiza por la persona interesada mediante recurso contencioso-administrativo, una vez agotada la vía administrativa.
+
+[[Web/content/Oposición/Ministerio/Temario/Administración/Constitución/Poder Judicial (Constitución)|Poder Judicial (Constitución)]]
 
 Es la expresión del Estado de Derecho, basado en la separación de poderes, y el derecho a la separación tutela judicial efectiva ([artículo 24 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20260520&tn=1#a24)): ni siquiera el poder público está por encima de la Ley. 
 

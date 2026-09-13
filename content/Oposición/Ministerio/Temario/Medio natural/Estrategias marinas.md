@@ -1,7 +1,6 @@
 ---
 tags:
-  - Comunes
-  - Medio_natural
+  - Opo_Ministerio
 ---
 Las estrategias marinas son los instrumentos de planificación de cada demarcación marina y constituyen el marco general al que deberán ajustarse las diferentes políticas sectoriales y actuaciones administrativas con incidencia en el medio marino. Deben incluir los aspectos siguientes:
 

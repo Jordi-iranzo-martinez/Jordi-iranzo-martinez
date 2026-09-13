@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Programa Estatal de Prevención de Residuos](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/participacion-publica/anexos/sgresiduos/programas-estatales/Propuesta%20Programa%20Prevención%202026-2032%20.pdf) (2026-2032) es el documento marco en España, incluyendo una dimensión cuantitativa (en peso, volumen, y número de los residuos), y cualitativa, atendiendo al impacto ambiental y sobre la salud humana, y a la cantidad de sustancias peligrosas y elementos nocivos. 
 
 | Tipo         | Aspectos                                                               |

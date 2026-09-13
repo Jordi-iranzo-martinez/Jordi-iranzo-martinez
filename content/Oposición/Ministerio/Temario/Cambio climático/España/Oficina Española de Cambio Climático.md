@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Oficina Española de Cambio Climático](https://www.miteco.gob.es/es/ceneam/recursos/quien-es-quien/oficina_cc.html) (OECC) es un órgano técnico adscrito al Ministerio con competencia en medio ambiente, con rango de Dirección General, creado por la [Orden de 17 de julio de 2001](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13867), y regulado actualmente por el [Real Decreto 503/2024](https://www.boe.es/buscar/act.php?id=BOE-A-2024-10239), [artículo 7](https://www.boe.es/buscar/act.php?id=BOE-A-2024-10239&p=20240522&tn=1#a7)):
 

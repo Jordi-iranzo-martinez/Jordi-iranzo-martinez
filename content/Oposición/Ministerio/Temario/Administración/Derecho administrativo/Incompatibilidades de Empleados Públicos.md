@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El régimen de incompatibilidades regula las actividades que los empleados públicos no pueden simultanear con el ejercicio de su cargo o función pública.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 79/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-2557) regula el informe de compatibilidad con las [[Estrategias marinas]] para determinadas actuaciones, y los criterios para determinarlo, : 
 

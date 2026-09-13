@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Sistema Europeo de Comercio de Derechos de Emisión de la Unión Europea (EU ETS por sus siglas en inglés) es el mayor mercado de derechos de carbono del planeta, abarcando aproximadamente un 45% de las emisiones de gases de efecto invernadero de la Unión Europea. 
 

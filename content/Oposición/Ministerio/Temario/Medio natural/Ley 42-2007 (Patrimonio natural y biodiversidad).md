@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490) es la norma nacional principal para la conservación del patrimonio natural:
 

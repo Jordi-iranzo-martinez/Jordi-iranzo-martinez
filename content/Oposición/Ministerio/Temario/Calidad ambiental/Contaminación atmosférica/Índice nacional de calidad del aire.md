@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Índice de Calidad del Aire](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/visualizacion-datos-calidad-del-aire/ica.html) (ICA) es una herramienta de información pública a través de una representación cartográfica en tiempo real ([en la web](https://ica.miteco.es/), [Android](https://play.google.com/store/apps/details?id=es.gob.ica) e [iOS](https://apps.apple.com/es/app/ica-%C3%ADndice-de-calidad-del-aire/id6503063828)), que permite traducir las concentraciones medidas medias de cinco contaminantes atmosféricos en seis escalas de calidad del aire por colores. 
 
 *Su elaboración se realiza en por la [Orden TEC/351/2019](https://www.boe.es/buscar/act.php?id=BOE-A-2019-4494), en cumplimiento del [artículo 28.9 del Real Decreto 102/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-1645#a28), siguiendo el [Índice de Calidad del Aire Europeo](https://airindex.eea.europa.eu/AQI/index.html) (EAQI),*

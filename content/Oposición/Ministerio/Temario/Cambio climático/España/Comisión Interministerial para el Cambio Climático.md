@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Comisión Interministerial para el Cambio Climático](https://www.miteco.gob.es/es/cambio-climatico/temas/organismos-e-instituciones-implicados-en-la-lucha-contra-el-cambio-climatico-a-nivel-nacional/comision-interministerial-cambio-climatico-transicion-energetica.html) es un órgano colegiado del Gobierno para la cooperación y coordinación horizontal entre diferentes Ministerios en la supervisión de políticas y acciones climáticas a nivel nacional, regulado actualmente a través del [Real Decreto 958/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-10654): lograr el mejor tratamiento de las políticas públicas en esta materia, desde una perspectiva participativa y multidisciplinar, con el fin de impulsar actuaciones prioritarias
 

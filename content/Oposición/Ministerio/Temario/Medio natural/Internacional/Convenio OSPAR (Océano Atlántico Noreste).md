@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 Por su parte, la [Convención para la Protección del Medio Ambiente Marino del Atlántico del Nordeste](https://www.ospar.org/site/assets/files/1290/ospar_convention.pdf) (OSPAR) (Paris; 1992, 1998)
 
 |                         |                                                                                                                                                                                                                                          |

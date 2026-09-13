@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La Administración Pública del Agua en España es una materia regulada en la Ley de Aguas ([título II](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#tii)): 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 1695/2012](https://www.boe.es/buscar/act.php?id=BOE-A-2013-408) aprueba el Sistema Nacional de Respuesta ante la contaminación marina, establece un marco normativo que coordina la actuación de las distintas administraciones públicas ante incidentes de contaminación marina en España.
 

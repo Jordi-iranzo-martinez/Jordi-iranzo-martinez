@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El dominio público hidráulico comprende las aguas continentales, cauces, riberas y acuíferos del Estado, sujeto a régimen de inalienabilidad, imprescriptibilidad e inembargabilidad, con zonas de protección (servidumbre, policía y flujo preferente).
 
 En España está regulado fundamentalmente por [el Texto Refundido de la Ley de Aguas](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#texto), aprobado por el [Real Decreto Legislativo 1/2001](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276). 

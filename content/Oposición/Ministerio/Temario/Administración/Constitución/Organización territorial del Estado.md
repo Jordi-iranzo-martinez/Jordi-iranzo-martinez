@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 El Estado se organiza de manera descentralizada en municipios, provincias y Comunidades Autónomas, todas ellas con personalidad jurídica y autonomía para la gestión de sus respectivos intereses (artículo X de la Constitución)
 
 Esto no limita la solidaridad e igualdad territorial ni geográfica, manteniendo un equilibrio económico entre las diferentes partes del territorio, y manteniendo las libertades y derechos de los españoles en cualquier parte del Estado.
@@ -21,6 +24,8 @@ Las Comunidades Autónomas deben de contar con un Estatuto de Autonomía, aproba
 - Territorio
 - Instituciones propias
 - Competencias asumidas
+
+[[Web/content/Oposición/Ministerio/Temario/Administración/Otros/Comunidades Autónomas|Comunidades Autónomas]]
 
 ### Distribución competencial
 

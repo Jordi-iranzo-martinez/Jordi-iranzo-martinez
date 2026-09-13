@@ -1,5 +1,8 @@
-
-Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#s1): artículos 15 al 29), influenciados por la Declaración Fundamental de los Derechos Humanos:
+---
+tags:
+  - Opo_Ministerio
+---
+Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#s1): artículos 15 al 29), influenciados por la [Declaración Fundamental de los Derechos Humanos](https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/spn.pdf):
 
 15. **Vida e integridad**: para todos, sin tortura ni tratos inhumanos o degradantes, y abolición de la pena de muerte (salvo legislación militar en tiempos de guerra).
 
@@ -59,7 +62,9 @@ Los derechos fundamentales ([Sección 1ª del capítulo segundo del título I](h
 	- **Huelga**: regulando las garantías para el mantenimiento de los servicios esenciales, también por Ley
 
 29. **Petición**: 
+
 	- **General**: individual o colectiva, por escrito, en la forma y efectos de la Ley
+
 	- **Miembros de las Fuerzas o Institutos armados o Cuerpos con disciplina militar**: sólo individualmente (según legislación específica).
 
 ### Especial protección

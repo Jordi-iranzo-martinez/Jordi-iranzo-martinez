@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Estrategia de Descarbonización a Largo Plazo de España](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/_layouts/15/Borrador%20Estrategia%20de%20descarbonizaci%C3%B3n%20a%20Largo%20Plazo%202050-16822.PDF) (EDLP) aparece en el [artículo 5 de la Ley 7/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447&p=20251204&tn=1#a5), como "senda de reducción de emisiones de gases de efecto invernadero y de incremento de las absorciones por los sumideros del conjunto de la economía española hasta 2050", para alcanzar la neutralidad climática en el 2050, en cumplimiento de los objetivos del Acuerdo de París.
 

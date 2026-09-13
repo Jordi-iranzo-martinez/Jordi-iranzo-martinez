@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio de las Naciones Unidas sobre la Ley del Mar](https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf) (Montego Bay, 1982) (UNCLoS por sus siglas en inglés) es el marco jurídico internacional.
 

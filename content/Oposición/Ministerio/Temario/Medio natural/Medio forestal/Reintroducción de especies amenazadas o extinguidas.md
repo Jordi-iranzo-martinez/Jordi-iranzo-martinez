@@ -1,4 +1,9 @@
-La reintroducción de especies amenazadas o extinguidas se regulan principalmente a través del [artículo 55 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a55), y desarrollado posteriormente mediante el [artículo 13 del Real Decreto 139/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3582&p=20250512&tn=1#a13), con los siguientes puntos principales: 
+---
+tags:
+  - Opo_Ministerio
+---
+
+La reintroducción de especies amenazadas o extinguidas se regulan principalmente a través del [artículo 55 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#a55) ([[Ley 42-2007 (Patrimonio natural y biodiversidad)]]) y desarrollado posteriormente mediante el [artículo 13 del Real Decreto 139/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3582&p=20250512&tn=1#a13), con los siguientes puntos principales: 
 
 - **[Listado de especies extinguidas en todo el medio natural español](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-11522)**: No podrán autorizarse proyectos de reintroducción de especies no presentes en estado silvestre en el territorio español, que no estén incluidas en el citado listado
 

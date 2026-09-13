@@ -1,3 +1,5 @@
+
+
 10. ***El Catálogo Español de Especies Exóticas Invasoras (Real decreto 630/2013 y sus modificaciones de los arts. 5 y 7; la disposición transitoria 4; el anexo y las referencias indicadas, aprobadas mediante el Real Decreto 216/2019, de 29 de marzo): Disposiciones generales, Procedimientos de inclusión o exclusión de especies, información contenida en el registro y efectos de la inclusión de una especie en el catálogo. Medidas de prevención y de lucha contra las especies exóticas invasoras. Régimen de tenencia y control de especies exóticas invasoras en la Comunitat Valenciana (Decreto 213/2009, de 20 de noviembre, del Consell y modificaciones del mismo establecidas por la Orden 10/2014, de 26 de mayo, de la Conselleria de Infraestructuras, Territorio y Medio Ambiente).***
 
 

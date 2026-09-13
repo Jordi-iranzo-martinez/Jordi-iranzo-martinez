@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 Las Cortes Generales comprenden el Poder Legislativo en España. Representan al pueblo español porque los ciudadanos escogen a sus miembros en elecciones periódicas cada 4 años mediante sufragio universal, libre, directo, y secreto, de acuerdo con la Ley. Su naturaleza es inviolable.
 
 ### Composición

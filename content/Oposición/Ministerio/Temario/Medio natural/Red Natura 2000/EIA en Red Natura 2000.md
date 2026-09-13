@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-Aparece en el [artículo 6 de la Directiva Hábitats](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:01992L0043-20250714#art_6): cualquier plan o proyecto ajeno a la gestión de un lugar que pueda afectarlo se someterá a evaluación ambiental. Las autoridades nacionales competentes solo lo declararán tras asegurarse que no causará perjuicio a la integridad del lugar en cuestión. 
+Aparece en el [artículo 6 de la Directiva Hábitats](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:01992L0043-20250714#art_6) ([[Web/content/Oposición/Ministerio/Temario/Medio natural/Red Natura 2000/Directiva Hábitats|Directiva Hábitats]]):
+
+>Cualquier plan o proyecto ajeno a la gestión de un lugar que pueda afectarlo se someterá a evaluación ambiental. Las autoridades nacionales competentes solo lo declararán tras asegurarse que no causará perjuicio a la integridad del lugar en cuestión. 
 
 Si hubiera de realizarse por razones imperiosas de interés público de primer orden (incluidas razones sociales o económicas), el Estado miembro tomará cuantas medidas compensatorias para garantizar la protección de la coherencia global de la Red Natura 2000, e informará a la Comisión de aquellas adoptadas.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 105/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-2486), regula la producción y gestión de residuos generados en obras de construcción, rehabilitación, reparación, reforma o demolición
 
@@ -7,6 +11,7 @@ El [Real Decreto 105/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-2486)
 
 - **Separación en obra**: establece fracciones mínimas que deberán separarse como umbrales de producción (en toneladas): 
 
+Desarrolla la [[Ley 7-2022 - RAP]]
 
 | Residuos                   | Cantidad (T) |
 | -------------------------- | ------------ |

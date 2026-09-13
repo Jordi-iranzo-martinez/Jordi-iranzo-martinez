@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Programa Hombre y Biosfera](https://www.unesco.org/es/mab) (MaB por sus siglas en inglés) es una iniciativa intergubernamental de la UNESCO creada en 1971 para establecer una base de datos científica mundial basada en "laboratorios vivientes" que faciliten el desarrollo sostenible de las personas y su entorno. 
 

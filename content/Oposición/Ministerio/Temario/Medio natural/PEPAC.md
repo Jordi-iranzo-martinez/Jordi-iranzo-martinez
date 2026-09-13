@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Plan Estratégico de la PAC](https://www.mapa.gob.es/dam/mapa/contenido/reforma-de-la-pac/plan-estrategico-pac-post-2020/documentos/pepac-33.pdf) de España (PEPAC) (2023-2027) es el documento que incluye las intervenciones que se aplicarán para dar respuesta a las necesidades del sector agrario y agroindustrial español, y así alcanzar los objetivos de la Política Agraria Común y el Pacto Verde Europeo (fue aprobado por la Comisión Europea el 31 de agosto de 2022, siendo uno de los primeros Estados en tenerlo).
 

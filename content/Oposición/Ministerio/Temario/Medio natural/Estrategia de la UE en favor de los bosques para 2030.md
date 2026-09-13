@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Estrategia de la UE en favor de los bosques para 2030](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52021DC0572) (2021) de la Comisión Europea es una iniciativa del Pacto Verde Europeo, basada en la Estrategia de la UE sobre la Biodiversidad de aquí a 2030, que sustituye a la de 2013 y establece una visión y acciones concretas para aumentar la cantidad y calidad de los bosques comunitarios.
+
+
 
 - **Introducción**
 - **Socioeconomía**: prosperidad rural y bioeconomía forestal sostenible: 

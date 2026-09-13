@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La inspección ambiental es un instrumento fundamental de control y vigilancia para asegurar el cumplimiento de la normativa ambiental por parte de las instalaciones y actividades susceptibles de generar contaminación. 
 

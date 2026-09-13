@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Primer Plan Nacional de Adaptación al Cambio Climático](https://www.miteco.gob.es/content/dam/miteco/es/cambio-climatico/temas/impactos-vulnerabilidad-y-adaptacion/pna_v3_tcm7-12445_tcm30-70393.pdf) (PNACC 2006-2020), el instrumento fundacional de la política española de adaptación.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 
 En España se aplica mediante la [Ley 37/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)

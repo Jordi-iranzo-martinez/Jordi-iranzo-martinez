@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las demarcaciones marinas en España son subdivisiones del medio marino bajo soberanía o jurisdicción española, de acuerdo a características oceanográficas y ecológicas propias. De acuerdo al [artículo 6.2 de la Ley 41/2010](https://www.boe.es/buscar/act.php?id=BOE-A-2010-20050&p=20180903&tn=1#a6), son un total de cinco:
 
@@ -11,7 +15,9 @@ Las demarcaciones marinas en España son subdivisiones del medio marino bajo sob
 
 - **Canaria**: alrededor del archipiélago canario
 
+[[DM Noratlántica]], [[DM Sudatlántica]], [[DM Estrecho y Alborán]], [[DM Levantino-balear]], [[DM Canaria]]
 
 ![[Demarcaciones marinas en España.png]]
 
 *Demarcaciones marinas españolas. Fuente: [Ministerio de medio ambiente](https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/estrategias-marinas/eemm_eemmespana.html)*
+

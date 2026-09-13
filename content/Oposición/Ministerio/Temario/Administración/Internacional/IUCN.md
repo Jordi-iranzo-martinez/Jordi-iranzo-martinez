@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 La [Unión Internacional de Conservación de la Naturaleza](https://iucn.org/es) (IUCN por sus siglas en inglés), fundada en 1948 y formada por más de 1400 organizaciones de más de 170 países (incluyendo gobiernos, ONGs, científicos y expertos, y más de 15.000 expertos voluntarios), es la organización no gubernamental de conservación más antigua y grande del mundo. 
 
 Se encuentra en múltiples zonas y trabaja en temáticas diversas:

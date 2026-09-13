@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las causas de estos impactos incluyen infraestructuras, y diversas actividades.
 

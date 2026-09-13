@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La Contratación Pública Ecológica constituye la integración de criterios ambientales en los procesos de licitación pública.
 

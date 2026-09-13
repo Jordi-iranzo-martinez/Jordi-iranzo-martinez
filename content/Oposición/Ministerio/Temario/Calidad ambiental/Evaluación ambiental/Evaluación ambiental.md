@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La evaluación ambiental es el procedimiento de análisis de los impactos de una actividad previa a su ejecución, para decidir sobre la conveniencia de realización y elaborar las medidas para gestionarlos.
 

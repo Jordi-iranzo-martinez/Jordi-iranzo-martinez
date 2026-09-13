@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La reforma constitucional (título X) supone su modificación. 
 

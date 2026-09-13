@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-The British Special Forces (SAS) were born in 1941 in the North African desert founded by a Scottish officer David Stirling, camuflaged for the German espionage as "L Detachment, Special Air Service Brigade."
+The British Special Forces (SAS) were born in 1941 by Winston Churchill ([[The Roaring Lion (Y. Karsh, 1941)]]) in the North African desert founded by a Scottish officer David Stirling, camuflaged for the German espionage as "L Detachment, Special Air Service Brigade."
 
 After a first parachute drop resulted in an absolute disaster due to a desert storm, the SAS radically changed its strategy.
 

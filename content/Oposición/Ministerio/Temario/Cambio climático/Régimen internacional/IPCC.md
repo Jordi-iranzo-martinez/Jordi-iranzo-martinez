@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Panel Intergubernamental de Cambio Climático](https://www.ipcc.ch/) (IPCC por sus siglas en inglés) es el principal organismo internacional para la evaluación científica del cambio climático. Fue creado en 1988 por la [Organización Meteorológica Mundial](https://wmo.int/) (OMM, WMO por sus siglas en inglés) y el [Programa de las Naciones Unidas para el Medio Ambiente](https://www.unep.org/) (PNUMA, UNEP por sus siglas en inglés).
 

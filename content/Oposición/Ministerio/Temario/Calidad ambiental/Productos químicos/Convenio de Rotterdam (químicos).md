@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio de Rotterdam](https://www.pic.int/Portals/5/download.aspx?e=UNEP-FAO-RC-CONVTEXT-2019.Spanish.pdf) (Rotterdam; 1998, 2004) es un acuerdo internacional sobre el procedimiento de consentimiento fundamentado previo aplicable a ciertos plaguicidas y productos químicos peligrosos objeto de comercio internacional, para prevenir su contaminación por una gestión inadecuada.
 

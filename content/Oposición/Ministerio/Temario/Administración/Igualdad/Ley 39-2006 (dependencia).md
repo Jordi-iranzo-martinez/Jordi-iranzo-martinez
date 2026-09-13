@@ -1,6 +1,9 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-La [Ley 39/2006](https://boe.es/buscar/act.php?id=BOE-A-2006-21990), conocida como la Ley de Dependencia, representa un hito fundamental en el sistema de protección social español. Esta legislación establece un marco integral para atender a las personas en situación de dependencia y promover su autonomía personal ([ver esquema de la norma](https://whimsical.com/ley-39-2006-de-14-de-diciembre-de-promocion-de-la-autonomia-pers-Ta7WmavbvacjZhc5ci1WDV))
-
+La [Ley 39/2006](https://boe.es/buscar/act.php?id=BOE-A-2006-21990), conocida como la Ley de Dependencia, representa un hito fundamental en el sistema de protección social español. Esta legislación establece un marco integral para atender a las personas en situación de dependencia y promover su autonomía personal.
 
 | Títulos                                               | Contenido                                                                                                                                 |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 España es un país con una gran diversidad de paisajes debido a su extensión, su relieve variado, y su clima. El Atlas de los Paisajes de España establece una taxonomía de tres niveles:
 

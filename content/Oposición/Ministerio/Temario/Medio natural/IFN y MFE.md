@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Inventario Forestal Nacional](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional.html) (IFN) y el [Mapa Forestal de España](https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/biodiversidad/mfe.html) (MFE) son elementos de la Estadística Forestal Española. El primero busca , y el segundo representa la , incluyendo los diferentes ecosistemas.
 

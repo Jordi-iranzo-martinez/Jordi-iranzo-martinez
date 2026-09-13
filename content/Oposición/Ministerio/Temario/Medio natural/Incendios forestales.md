@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los incendios forestales son fuegos no controlados en zonas naturales, principalmente bosques, pero también montes y pastizales. 
 

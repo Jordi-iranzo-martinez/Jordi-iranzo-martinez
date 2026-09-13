@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 26/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475) incorpora la Directiva anterior al ordenamiento jurídico español: 
+
+*Desarrolla la [[Directiva 2004-35-CE (Responsabilidad MA)]].*
 
 | Capítulos                                   | Contenido                                                                                                                                                                                                    |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

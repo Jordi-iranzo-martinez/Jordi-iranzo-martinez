@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Comisión de Coordinación de Políticas de Cambio Climático](https://www.miteco.gob.es/es/cambio-climatico/temas/organismos-e-instituciones-implicados-en-la-lucha-contra-el-cambio-climatico-a-nivel-nacional/la-comision-de-coordinacion-de-politicas-de-cambio-climatico.html), creada por la Ley 1/2005 como órgano de coordinación entre la Administración General del Estado y las Comunidades Autónomas, especialmente para la aplicación del régimen de comercio de derechos de emisión ([artículo 3](https://www.boe.es/buscar/act.php?id=BOE-A-2005-3941&p=20201217&tn=1#a3)): 
 

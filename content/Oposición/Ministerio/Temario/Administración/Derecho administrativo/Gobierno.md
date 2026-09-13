@@ -1,17 +1,29 @@
-"El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las Leyes" (artículo 97 de la Constitución Española).
+---
+tags:
+  - Opo_Ministerio
+---
 
-Ley 50/1997
+De acuerdo al artículo 97 de la [[Web/content/Oposición/Ministerio/Temario/Administración/Constitución/Constitución Española de 1978|Constitución Española de 1978]]:
 
-|       |           |
-| ----- | --------- |
+>"El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las Leyes" 
+
+Esto fue desarrollado por la Ley 50/1997
+
+|     |     |
+| --- | --- |
 
 #### Composición
 
-Está compuesto por el Presidente, el Vicepresidente o Vicepresidentes, en su caso, y los Ministros.
+Está compuesto por:
+
+- Presidente
+- Vicepresidente
+- Vicepresidentes (en su caso)
+- Ministros
 
 #### Designación
 
-El Presidente es elegido a propuesta del Rey tras consulta a los Grupos políticos con representación parlamentaria en el Congreso, hasta obtener las mayorías requeridas, mediante el siguiente procedimiento:
+El Presidente es elegido a propuesta del Rey ([[Web/content/Oposición/Ministerio/Temario/Administración/Constitución/Corona|Corona]]) tras consulta a los Grupos políticos con representación parlamentaria en el [[Pruebas de edición/content/Exposiciones orales (atómico)/2. Cuerpo/Administración/España/Constitución/III/Congreso de los Diputados]], hasta obtener las mayorías requeridas, mediante el siguiente procedimiento:
 
 1. **Mayoría absoluta** del Congreso
 2. **Mayoría simple** del Congreso (después de 48 horas)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 7/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5809) es la norma básica sobre residuos y suelos contaminados en España: 
 

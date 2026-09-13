@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 ### La Unión Europea: antecedentes
 
@@ -8,7 +12,6 @@ Los antecedentes se remontan a la posguerra de la Segunda Guerra Mundial, cuando
 ### Objetivos y naturaleza jurídica
 
 Los objetivos aparecen en el [artículo 2 del título I del Tratado de Maastricht]([https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:11992M/TXT](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12002M/TXT)):
-
 - **Progreso económico y social**: económico y sostenible, a través de la creación de un espacio sin fronteras interiores, el fortalecimiento de la cohesión económica y social, y el establecimiento de una unión económica y monetaria.
 
 - **Identidad internacional**: afirmación general, en particular mediante la realización de una política exterior y de seguridad común que incluya, la definición de una política de defensa común

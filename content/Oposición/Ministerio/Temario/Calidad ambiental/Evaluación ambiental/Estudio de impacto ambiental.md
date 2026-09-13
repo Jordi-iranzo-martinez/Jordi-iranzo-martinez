@@ -1,5 +1,9 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-El Estudio de impacto ambiental es un documento elaborado por el promotor que acompaña al proyecto y analiza (identificación, descripción, cuantificación...) los posibles efectos significativos ambientales (incluidos debido a accidentes graves o catástrofes: incluyendo riesgo, vulnerabilidad...), las alternativas posibles, y las medidas para prevenirlos, corregirlos, y compensarlos ([artículo 5.3.c de la Ley 21/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913&p=20251106&tn=1#a5)).
+El Estudio de impacto ambiental es un documento elaborado por el promotor que acompaña al proyecto y analiza (identificación, descripción, cuantificación...) los posibles efectos significativos ambientales (incluidos debido a accidentes graves o catástrofes: incluyendo riesgo, vulnerabilidad...), las alternativas posibles, y las medidas para prevenirlos, corregirlos, y compensarlos ([artículo 5.3.c](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913&p=20251106&tn=1#a5) de la [[Ley 21-2013 (evaluación ambiental)]]).
 
 - ***Promotor** (artículo 5.3.a): cualquier persona (física o jurídica, pública o privada), que pretende realizar un proyecto.*
 

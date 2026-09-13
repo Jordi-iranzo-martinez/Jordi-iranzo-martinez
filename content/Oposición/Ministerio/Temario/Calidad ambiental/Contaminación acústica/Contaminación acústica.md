@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 ### Los efectos de la contaminación acústica sobre la salud y el medio ambiente
 
 La contaminación acústica se define como la presencia en el ambiente de ruidos o vibraciones que implican molestia, riesgo o daño para la salud humana, los bienes o el disfrute del medio ambiente.
@@ -30,6 +34,9 @@ Los efectos de la contaminación acústica sobre la salud y el medio ambiente in
 - **Animales domésticos y ganaderos**: estrés que afecta a la salud y el comportamiento, reduciendo su capacidad productiva y bienestar.
 
 En Europa, se estima que la contaminación acústica causa unas 12.000 muertes prematuras y contribuye a 48.000 casos de cardiopatía isquémica al año, además de afectar a millones de personas con molestias crónicas y trastornos del sueño.
+
+[[Ley 37-2003 (contaminación acústica)]]
+
 
 ### La prevención de la contaminación acústica
 

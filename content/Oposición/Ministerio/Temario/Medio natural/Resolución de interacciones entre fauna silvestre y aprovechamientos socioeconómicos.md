@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La resolución de conflictos entre fauna silvestre y actividades socioeconómicas es un desafío complejo que requiere enfoques multidisciplinarios y colaborativos.
 

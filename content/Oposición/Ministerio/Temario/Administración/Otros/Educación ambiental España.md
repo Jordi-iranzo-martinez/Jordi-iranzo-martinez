@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 La educación ambiental es (Congreso Internacional de Educación y Formación sobre Medio Ambiente. Moscú, 1987):
 
 >Un proceso permanente en el cual los individuos y las comunidades adquieren conciencia de su medio y aprenden los conocimientos, los valores, las destrezas, la experiencia y también la determinación que les capacite para actuar, individual y colectivamente, en la resolución de los problemas ambientales presentes y futuros".
@@ -8,8 +11,6 @@ En España ha incluido las siguientes etapas:
 1. **Inicios**: distintos en cada Comunidad Autónoma
 2. **Institucionalización** (años 80): 
 3. **Replanteamiento crítico** (años 90): 
-
-
 
 La educación ambiental en España se estructura en la [Ley Orgánica 2/2006](https://boe.es/buscar/act.php?id=BOE-A-2006-7899&p=20240608&tn=1):
 

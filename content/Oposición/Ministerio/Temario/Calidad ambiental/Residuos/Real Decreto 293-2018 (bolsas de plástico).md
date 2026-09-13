@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 293/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-6651), establece medidas para la reducción del consumo de bolsas de plástico y crea el Registro de Productores, alineándose con las directivas europeas sobre reducción de residuos plásticos.
 

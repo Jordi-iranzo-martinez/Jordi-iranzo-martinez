@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2008/56/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02008L0056-20170607), conocida como la Directiva marco sobre la estrategia marina (DMEM), establece un marco de acción comunitaria para la política del medio marino en la Unión Europea. Su objetivo principal es lograr un buen estado ambiental de las aguas marinas europeas a más tardar en 2020, mediante la elaboración y aplicación de estrategias marinas integradas.
 

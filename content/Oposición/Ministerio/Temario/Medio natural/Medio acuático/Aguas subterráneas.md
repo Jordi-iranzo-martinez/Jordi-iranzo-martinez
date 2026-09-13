@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las aguas subterráneas, por su parte, son aquellas que se encuentran en las rocas del suelo (horizontes minerales: R...). Representan aproximadamente el 20% de los recursos hídricos españoles y constituyen aproximadamente un tercio del agua total utilizada en el país. 
 

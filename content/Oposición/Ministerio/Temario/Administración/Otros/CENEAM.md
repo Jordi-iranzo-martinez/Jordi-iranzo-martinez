@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Centro Nacional de Educación Ambiental](https://www.miteco.gob.es/es/ceneam/quienes-somos.html) (CENEAM) (1987, Valsaín), es una institución pública española ubicada en la Sierra de Guadarrama, gestionado por el [Organismo Autónomo de Parques Nacionales](https://www.miteco.gob.es/es/parques-nacionales-oapn/quienes-somos.html) (OAPN). 
 

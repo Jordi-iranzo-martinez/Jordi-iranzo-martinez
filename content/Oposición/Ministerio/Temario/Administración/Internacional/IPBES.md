@@ -1,4 +1,12 @@
-La [Plataforma Intergubernamental científico-normativa sobre Biodiversidad y Servicios de los Ecosistemas](https://www.ipbes.net/es) (IPBES por sus siglas en inglés) fue establecida en 2012, negociada a través de reuniones de partes gubernamentales y otras interesadas bajo los auspicios del [Programa de Naciones Unidas para el Medio Ambiente](https://www.unep.org/) (UNEP por sus siglas en inglés). 
+---
+tags:
+  - Opo_Ministerio
+---
+
+La [Plataforma Intergubernamental científico-normativa sobre Biodiversidad y Servicios de los Ecosistemas](https://www.ipbes.net/es) (IPBES por sus siglas en inglés) fue establecida en 2012, negociada a través de reuniones de partes gubernamentales y otras interesadas bajo los auspicios del [[Programa de Naciones Unidas para el Medio Ambiente]]
+
+
+[Programa de Naciones Unidas para el Medio Ambiente](https://www.unep.org/) (UNEP por sus siglas en inglés). 
 
 La estructura organizativa incluye:
 

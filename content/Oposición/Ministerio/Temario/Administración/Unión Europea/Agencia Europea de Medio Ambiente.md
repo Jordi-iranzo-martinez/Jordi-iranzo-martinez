@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Agencia Europea del Medio Ambiente](https://www.eea.europa.eu/es) (EEA por sus siglas en inglés) es una agencia descentralizada de la Unión Europea  que proporciona información medioambiental para apoyar la toma de decisiones de las instituciones europeas, los gobiernos, y la ciudadanía. 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 150/2023](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5704) establece los Planes de Ordenación del Espacio Marítimo (POEM) para las cinco demarcaciones marinas españolas, representando un marco estratégico fundamental para la gestión sostenible de los espacios marítimos nacionales  ([ver esquema de la norma](https://whimsical.com/real-decreto-150-2023-de-28-de-febrero-por-el-que-se-aprueban-lo-4Lxfn1hq1WEH5ZQcjZQxXc))
 

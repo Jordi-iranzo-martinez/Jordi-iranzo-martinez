@@ -1,5 +1,12 @@
+---
+tags:
+  - Opo_Ministerio
+  - Opo_GVA
+---
 
 Posteriormente, se desarrolló a través del [Real Decreto 124/2017](https://www.boe.es/buscar/act.php?id=BOE-A-2017-2743) (que desarrolla el [capítulo II del título IV de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20201231&tn=1#cii-7)), con las siguientes consideraciones principales:
+
+*Desarrolla la [[Ley 42-2007 (Patrimonio natural y biodiversidad)]] y el [[Web/content/Oposición/Ministerio/Temario/Medio natural/Reglamento 511-2014 (Nagoya)|Reglamento 511-2014 (Nagoya)]]*
 
 | Capítulos                                                                                          | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

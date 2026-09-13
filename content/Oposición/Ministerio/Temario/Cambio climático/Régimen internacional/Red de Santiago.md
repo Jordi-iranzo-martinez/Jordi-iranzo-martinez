@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Red de Santiago sobre Pérdidas y Daños](https://www.santiago-network.org/) (SNLD) (COP25, 2019) se estableció bajo el Mecanismo Internacional de Varsovia (WIM) para la movilización de asistencia técnica (conocimiento, experiencia, apoyo en la implementación...) de organizaciones, organismos y expertos hacia los países en desarrollo particularmente vulnerables, para ayudarles a gestionar las pérdidas y daños (prevención, minimización, tratamiento...).
 

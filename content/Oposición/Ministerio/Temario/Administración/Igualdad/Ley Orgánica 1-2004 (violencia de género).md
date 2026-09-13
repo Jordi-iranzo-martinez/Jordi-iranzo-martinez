@@ -1,7 +1,7 @@
-
-#### La Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género
-
-
+---
+tags:
+  - Opo_Ministerio
+---
 La [Ley Orgánica 1/2004](https://boe.es/buscar/act.php?id=BOE-A-2004-21760)
 
 | Título                                             | Contenido                                                                                                                                                                                                             |

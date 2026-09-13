@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Reglamento 2024/1157](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02024R1157-20250109) establece un nuevo marco para regular estos traslados dentro de la Unión Europea ([ver esquema de la norma](https://whimsical.com/reglamento-ce-no-1013-2006-del-parlamento-europeo-y-del-consejo--CVt9Kg7CavzpNkTj1gwDSw)).
 

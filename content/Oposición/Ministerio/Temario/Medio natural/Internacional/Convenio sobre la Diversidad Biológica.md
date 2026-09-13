@@ -1,3 +1,9 @@
+---
+tags:
+  - Opo_Ministerio
+  - Opo_GVA
+---
+
 El [Convenio sobre la Diversidad Biológica](https://www.cbd.int/doc/legal/cbd-es.pdf) (CDB) es un tratado internacional adoptado en la [Cumbre de la Tierra](https://www.un.org/en/conferences/environment/rio1992) (Rio de Janeiro, 1992), que entró en vigor en 1993, para su conservación, junto con el de cambio climático y desertificación.
 
 #### Principales características

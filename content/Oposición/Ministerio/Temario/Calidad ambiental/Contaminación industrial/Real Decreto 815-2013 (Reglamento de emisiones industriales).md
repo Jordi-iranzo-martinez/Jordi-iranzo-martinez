@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 815/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-10949), aprueba el Reglamento de emisiones industriales y desarrolla de manera detallada la Ley. Su finalidad es concretar la regulación técnica de las emisiones industriales y asegurar el cumplimiento uniforme de la normativa europea, especialmente la Directiva 2010/75/UE sobre emisiones industriales, en el marco jurídico español ([ver esquema de la norma](https://whimsical.com/real-decreto-815-2013-de-18-de-octubre-por-el-que-se-aprueba-el--6bKcMrCHn6YcxLD4hQ3peH))
 

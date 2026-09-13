@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La calidad del aire es el estado atmosférico adecuado para el desarrollo de la vida y los ecosistemas. Es una cuestión de salud pública y sostenibilidad ambiental.
 

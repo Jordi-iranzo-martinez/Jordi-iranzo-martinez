@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La participación de agentes no gubernamentales está incluida en la Convención Marco, como observadores en el proceso internacional (actores que no son Partes de la Convención pero pueden asistir a las negociaciones y contribuir al proceso). Se distinguen dos grandes categorías:
 

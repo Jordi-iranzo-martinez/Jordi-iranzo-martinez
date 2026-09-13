@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Reglamento 2023/1115](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02023R1115-20241226) regula la deforestación (EU DR por sus siglas en inglés), 
 

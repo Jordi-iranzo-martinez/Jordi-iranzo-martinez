@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 ### El acto administrativo: concepto, clases, y elementos
 

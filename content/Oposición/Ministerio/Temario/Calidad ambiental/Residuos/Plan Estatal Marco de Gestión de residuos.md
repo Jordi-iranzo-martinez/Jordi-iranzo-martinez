@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Plan Estatal Marco de Gestión de Residuos](https://www.miteco.gob.es/content/dam/miteco/es/calidad-y-evaluacion-ambiental/participacion-publica/sgecocir/230705%20nuevo%20PEMAR_IP_Revisado.pdf) (2024-2035) constituye el instrumento estratégico fundamental para la política de residuos en España, impulsando las medidas necesarias para mejorar las deficiencias detectadas y promoviendo las actuaciones que proporcionan un mejor resultado ambiental y aseguran la consecución de los objetivos legales.
 

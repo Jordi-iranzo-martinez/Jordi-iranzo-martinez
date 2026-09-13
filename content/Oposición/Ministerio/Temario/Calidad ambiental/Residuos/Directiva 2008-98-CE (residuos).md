@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2008/98/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02008L0098-20240218) establece un marco jurídico comunitario para la gestión de los residuos ("Directiva Marco de Residuos") y el avance a una economía circular, con el objetivo de proteger el medio ambiente y la salud humana.
 

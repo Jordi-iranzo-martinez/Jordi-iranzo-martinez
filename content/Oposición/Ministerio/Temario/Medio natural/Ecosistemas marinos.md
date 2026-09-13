@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los ecosistemas marinos constituyen sistemas complejos y dinámicos que cubren aproximadamente el 71% de la superficie terrestre, desempeñando un papel fundamental en el funcionamiento del planeta.
 

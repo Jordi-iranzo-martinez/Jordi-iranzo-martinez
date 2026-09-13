@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 
 La lucha multilateral contra el cambio climático se refiere a 

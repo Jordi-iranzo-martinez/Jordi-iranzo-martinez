@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 30/2014](https://www.boe.es/buscar/act.php?id=BOE-A-2014-12588) es la que regula los Parques Nacionales en España.
 

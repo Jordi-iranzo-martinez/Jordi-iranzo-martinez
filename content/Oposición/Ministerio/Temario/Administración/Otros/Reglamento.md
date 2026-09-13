@@ -1,7 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 #### Concepto
 
-El Reglamento es una norma jurídica de carácter general dictada por los órganos de gobierno (estatal, autonómico, local). 
+El Reglamento es una norma jurídica de carácter general dictada por los órganos de [[Web/content/Oposición/Ministerio/Temario/Administración/Derecho administrativo/Gobierno|Gobierno]] (estatal, autonómico, local). 
 
 #### Clases
 

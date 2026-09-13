@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La huella de carbono de una persona u entidad (vivienda, organización, municipio, país...) es la totalidad de emisiones de gases de efecto invernadero que emite —de manera directa o indirecta—, contabilizadas en unidades equivalentes de dióxido de carbono equivalente (CO2-eq), según los potenciales de calentamiento global de cada gas:
 

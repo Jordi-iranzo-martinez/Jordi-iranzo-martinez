@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Ley 7/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-8447) pretende el cumplimiento de los compromisos del Acuerdo de París (descarbonización, modelo circular, eficiencia de recursos, adaptación al cambio climático, desarrollo sostenible, empleo e igualdad...)
 

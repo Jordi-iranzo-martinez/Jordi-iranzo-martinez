@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Mecanismo Internacional de Varsovia sobre Pérdidas y Daños](https://unfccc.int/topics/adaptation-and-resilience/workstreams/loss-and-damage/warsaw-international-mechanism) (WIM por sus siglas en inglés) (Varsovia, COP 19, 2013) es el principal instrumento para abordar las pérdidas y daños asociados a los impactos del cambio climático en los países más vulnerables, mediante la mejora del conocimiento y la comprensión de los riesgos, el fortalecimiento del diálogo, la coordinación y la coherencia, y la facilitación de acciones y apoyo de respuesta: 
 

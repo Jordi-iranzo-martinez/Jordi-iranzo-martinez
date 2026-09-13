@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Tratado BBNJ desarrolla el [[UNLoS (bases del Mar)]] para garantizar la conservación y el uso sostenible de la biodiversidad marina en las áreas situadas fuera de las jurisdicciones nacionales (Alta Mar, y "La Zona") -las cuales representan el 40% de la superficie del planeta, y casi el 95% de su volumen-:
 

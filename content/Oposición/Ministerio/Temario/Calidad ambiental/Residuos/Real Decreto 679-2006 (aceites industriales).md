@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 679/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-9832) regula la gestión de los aceites industriales usados
 

@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 El [Real Decreto 553/2020](https://www.boe.es/buscar/act.php?id=BOE-A-2020-6422) regula el traslado de residuos dentro del territorio del Estado español, principalmente entre comunidades autónomas, para su valorización o eliminación. 
 
 | Capítulos                                | Contenido                                                                                                                                                                                                   |

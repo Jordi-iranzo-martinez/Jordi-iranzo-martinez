@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Marco 2030 de Energía y Clima de la Unión Europea](https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2030-climate-targets_es) (2014) constituye la base de la política climática, estableciendo objetivos ambiciosos en sostenibilidad que lleven a la neutralidad climática en 2050, de acuerdo con las cinco dimensiones de la Unión de la Energía: 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 En el [[Convenio sobre la Diversidad Biológica]] (1992) (se define la conservación *ex situ* de la diversidad biológica como "fuera de sus hábitats naturales" ([artículo 2](https://www.cbd.int/doc/legal/cbd-es.pdf)), y se especifica como una forma de complemento a la "*in situ*", con las siguientes medidas por las Partes (artículo 9): 
 

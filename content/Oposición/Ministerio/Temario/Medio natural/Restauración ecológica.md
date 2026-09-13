@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La restauración ecológica es el conjunto de acciones dirigidas a recuperar la estructura, la funcionalidad y la dinámica de los ecosistemas que han sido degradados, dañados o destruidos
 

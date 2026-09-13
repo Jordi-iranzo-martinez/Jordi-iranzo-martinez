@@ -1,6 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
+Ley [Ley 27/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010) (información MA, participación, justicia)
 
 
-En España se transpusieron las [[Directiva 2003-4-CE (acceso a la información MA)]] y [[Directiva 2003-35-CE (participación MA)]] a través de la [Ley 27/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010):
+*Transpusieron las [[Directiva 2003-4-CE (acceso a la información MA)]] y [[Directiva 2003-35-CE (participación MA)]].
 
 | Títulos                                      | Contenidos                                                                                                                                                                     |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

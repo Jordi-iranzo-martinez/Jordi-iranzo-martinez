@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-Dominoes (known as Dominó in Spanish) is a globally celebrated tile-matching game. It belongs to the family of "edge-matching" games, where players alternate placing rectangular tiles end-to-end, ensuring that adjacent values match.
+Dominoes players alternate placing rectangular tiles end-to-end, ensuring that adjacent values match.
 
 The primary objective in a standard match is to be the first player to discard all your tiles, or to score points based on the tiles remaining in your opponents' hands.
 

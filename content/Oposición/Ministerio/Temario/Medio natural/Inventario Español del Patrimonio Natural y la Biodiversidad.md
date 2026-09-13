@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 
 Para su conocimiento y planificación se creó el [Inventario Español del Patrimonio Natural y la Biodiversidad](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-espanol-patrimonio-natural-biodiv.html) (IEPNyB), como un sistema del Ministerio que fundamente la elaboración y aplicación de políticas y acciones de conservación, gestión y uso sostenible, difunda sus valores, y contribuya con información para atender a los compromisos internacionales del Estado Español. 

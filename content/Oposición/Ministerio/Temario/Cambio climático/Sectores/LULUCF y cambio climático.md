@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El sector del uso del suelo, cambios del uso del suelo, y selvicultura (LULUCF por sus siglas en inglés) (3B), se incluye dentro del anterior (AFOLU), y tiene la característica de que puede ser tanto emisor como sumidero de gases de efecto invernadero.
 

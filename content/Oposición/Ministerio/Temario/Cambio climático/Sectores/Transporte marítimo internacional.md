@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Emisiones de dióxido de carbono en diferentes medios de transporte (escala logarítmica). Fuente: Introductory Course on Energy Efficient Ship Operation (Climate Change e-learning)
 

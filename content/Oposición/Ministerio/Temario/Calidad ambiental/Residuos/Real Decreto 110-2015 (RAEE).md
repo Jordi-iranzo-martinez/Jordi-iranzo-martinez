@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 110/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-1762) establece el marco normativo para la gestión de RAEE en España, 
 

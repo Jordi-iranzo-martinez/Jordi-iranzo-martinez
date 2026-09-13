@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los instrumentos se pueden agrupar en tres grandes categorías:
 

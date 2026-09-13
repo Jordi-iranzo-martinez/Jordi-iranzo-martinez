@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Agencia de Acción Climática Global](https://unfccc.int/climate-action) (GCAA por sus siglas en inglés) es el marco bajo el cual la Convención Marco promueve y reconoce el papel de los actores no estatales (ciudades, regiones, empresas, inversores, sociedad civil...) como complemento a los compromisos de las Partes.
 

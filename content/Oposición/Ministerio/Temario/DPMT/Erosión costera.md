@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 ### Concepto de playa en equilibrio y desequilibrio
 

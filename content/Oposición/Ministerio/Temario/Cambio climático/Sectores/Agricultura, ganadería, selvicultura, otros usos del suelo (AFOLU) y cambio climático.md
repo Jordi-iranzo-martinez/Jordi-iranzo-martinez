@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El sector de la agricultura, ganadería, silvicultura y otros usos del suelo (AFOLU, por sus siglas en inglés) juega un papel fundamental en el contexto del cambio climático global, ya que actúa simultáneamente como fuente de emisiones de gases de efecto invernadero y como sumidero de carbono.
 

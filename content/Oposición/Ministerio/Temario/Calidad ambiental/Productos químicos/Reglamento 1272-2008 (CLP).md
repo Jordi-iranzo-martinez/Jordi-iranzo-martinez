@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 El [Reglamento 1272/2008](https://publications.europa.eu/resource/cellar/e2325a32-040a-11f0-9503-01aa75ed71a1.0022.02/DOC_2) establece un marco legal europeo uniforme de clasificación, etiquetado y envasado (CLP por sus siglas en inglés) de sustancias químicas y mezclas peligrosas, de acuerdo al GHS de las Naciones Unidas (ver esquema de la norma)
 
 | Títulos                                                                    | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

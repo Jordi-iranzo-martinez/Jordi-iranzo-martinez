@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las medidas compensatorias son aquellas que se aplican de manera excepcional sobre hábitats o especies para equilibrar los impactos negativos residuales de planes o proyectos ([artículo 5.1.k de la Ley 21/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913&p=20230614&tn=1#a5), y [artículo 3.24 de la Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490&p=20180721&tn=1#a3).
 

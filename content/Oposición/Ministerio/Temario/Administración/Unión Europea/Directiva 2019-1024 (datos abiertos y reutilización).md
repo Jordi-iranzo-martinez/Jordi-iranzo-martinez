@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Directiva 2019/1024](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32019L1024) regula la reutilización de información 
 

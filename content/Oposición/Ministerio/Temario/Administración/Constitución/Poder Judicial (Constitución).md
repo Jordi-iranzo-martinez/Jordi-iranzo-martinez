@@ -1,7 +1,10 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 El poder judicial aparece regulado en el [título VI](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#tvi) de la [[Constitución Española de 1978]].
 
-La Justicia emana del Pueblo y se administra en nombre del Rey por Jueces y Magistrados independientes, inamovibles, responsables y sometidos a la Ley, pertenecientes a Juzgados y Tribunales basados en la unidad jurisdiccional –regulado por Ley en el ámbito militar y para el Estado de sitio–, estando prohibidos los Tribunales de excepción.
+>La Justicia emana del Pueblo y se administra en nombre del Rey por Jueces y Magistrados independientes, inamovibles, responsables y sometidos a la Ley, pertenecientes a Juzgados y Tribunales basados en la unidad jurisdiccional –regulado por Ley en el ámbito militar y para el Estado de sitio–, estando prohibidos los Tribunales de excepción.
 
 Es obligatorio colaborar en el proceso judicial y acatar las sentencias. La justicia será gratuita cuando lo disponga la Ley y cuando se acredite insuficiencia de recursos para litigar. Las actuaciones judiciales serán públicas, con procedimiento predominantemente oral –especialmente en materia criminal–, y sentencias motivadas en audiencia pública.
 
@@ -15,8 +18,8 @@ Los daños causados por error judicial o funcionamiento anormal de la Administra
 	- **20 miembros**: nombrados por el Rey durante 5 años, con la siguiente distribución: 
 		- 12 Jueces y Magistrados de todas las categorías judiciales
 		- 8 Abogados, juristas... de extraordinaria trayectoria y más de 15 años de experiencia
-			- 4 a propuesta del Congreso por mayoría de 3 quintos
-			- 4 a propuesta del Senado: también por mayoría de 3 quintos.
+			- 4 a propuesta del Congreso de los Diputados por mayoría de 3 quintos
+			- 4 a propuesta del [[Pruebas de edición/content/Exposiciones orales (atómico)/2. Cuerpo/Administración/España/Constitución/III/Senado]]: también por mayoría de 3 quintos.
 
 REVISAR ESTO
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Protocolo de Kiev sobre registros de emisiones y transferencias de contaminantes](https://unece.org/DAM/env/pp/treaty%20translations/PRTR_Prococol_ES.pdf) (PRTR por sus siglas en inglés: *Pollutant Release and Transfer Registers*) (2003) es un instrumento internacional adoptado en el marco del Convenio de Aarhus, cuyo objetivo principal es fomentar el acceso público a la información ambiental mediante el establecimiento de registros nacionales coherentes de emisiones y transferencias de contaminantes.
 
 *Sin embargo, el Protocolo está abierto a la firma y ratificación de cualquier Estado miembro de la ONU, no solo a quienes son parte del Convenio de Aarhus.*

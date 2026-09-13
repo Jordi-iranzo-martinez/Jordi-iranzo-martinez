@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Tribunal Constitucional](https://www.tribunalconstitucional.es/) es el órgano encargado de hacer prevalecer la Constitución ([título IX](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=20240217&tn=1#tix)). 
 

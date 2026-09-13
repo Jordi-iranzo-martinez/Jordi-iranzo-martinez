@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El Comité de Autoridades Competentes ([artículo 36 bis](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#a36bis)) es un órgano de participación pública en las demarcaciones hidrográficas con cuencas intercomunitarias, para las siguientes funciones: 
 

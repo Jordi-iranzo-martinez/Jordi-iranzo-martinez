@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Además, se ha realizado el [Plan Estratégico Español para la Conservación y el Uso racional de los Humedales ](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/planes-y-estrategias/planestrategicodehumedalespublicacionoficial_tcm30-548431.pdf) (2022), que establece el diagnóstico, y las medidas para lograr su buen estado en el 2030, con las siguientes consideraciones principales: 
 

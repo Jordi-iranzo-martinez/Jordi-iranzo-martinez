@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio sobre acceso a la información, participación del público en la toma de decisiones y acceso a la justicia en materia de medio ambiente](https://www.eia.es/wp-content/uploads/2018/05/Convenio-Aarhus.pdf) (Aarhus, 1998-2001) de la [Comisión Económica de las Naciones Unidas para Europa](https://unece.org/) (UNECE por sus siglas en inglés), regula tres principios básicos:
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura](https://www.unesco.org/es) (UNESCO por sus siglas en inglés) fue creada en 1945, al acabar la Segunda Guerra Mundial, para fomentar la paz a través de esos medios.
 

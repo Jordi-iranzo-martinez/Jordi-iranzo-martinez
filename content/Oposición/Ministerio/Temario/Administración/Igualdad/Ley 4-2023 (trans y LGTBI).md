@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 La [Ley 4/2023](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366), de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.
 
 | Títulos                            | Contenido                                                                                                                                                                                                                                                                                                                                                         |

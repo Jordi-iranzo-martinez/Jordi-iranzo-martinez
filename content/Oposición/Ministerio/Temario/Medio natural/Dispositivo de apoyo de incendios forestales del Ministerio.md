@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 De acuerdo a la [[Ley 43-2003 (Montes)]], la [[Administración]] General del Estado es competente ([[Ministerio de MA]]), entre otros, de  "desplegar medios estatales de apoyo a las Comunidades Autónomas para la cobertura de montes contra incendios" ([artículo 7.2.c](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109&tn=1#a7)): 
 

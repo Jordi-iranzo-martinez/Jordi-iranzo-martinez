@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Convenio sobre la contaminación atmosférica transfronteriza a larga distancia](https://unece.org/sites/default/files/2021-05/1979%20CLRTAP.e.pdf) (CLRAP) (Ginebra; 1979, 1983), de la [Comisión Económica de las Naciones Unidas para Europa](https://unece.org/) (UNECE por sus siglas en inglés) es un acuerdo internacional de cooperación para la reducción de determinados contaminantes atmosféricos.  
 
 *Nació como respuesta al problema de la lluvia ácida, que en los años 70 dañaba gravemente bosques, lagos y suelos en Europa y Norteamérica, con emisiones industriales que cruzaban fronteras nacionales. Fue el primer instrumento internacional jurídicamente vinculante en abordar la contaminación atmosférica a escala regional amplia.

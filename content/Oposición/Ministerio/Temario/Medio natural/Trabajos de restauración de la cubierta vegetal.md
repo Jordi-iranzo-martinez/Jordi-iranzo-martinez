@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los trabajos de restauración de la cubierta vegetal tienen como objetivo principal corregir el desequilibrio hidrológico originado por la degradación del suelo y la vegetación mediante la mejora, conservación y reimplantación de cubiertas arbóreas o de matorrales.
 

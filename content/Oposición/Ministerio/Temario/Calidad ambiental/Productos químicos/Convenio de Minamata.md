@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Convenio de Minamata](https://minamataconvention.org/sites/default/files/documents/information_document/Minamata-Convention-booklet-Oct2024-ES.pdf) (Minamata; 2013, 2017) es un tratado internacional negociado por el [Programa de Naciones Unidas para el Medio Ambiente](https://www.unep.org/) (UNEP por sus siglas en inglés), para gestionar la contaminación por las emisiones y liberaciones antropogénicas relacionadas con el mercurio (incluidas mezclas y aleaciones con concentración superior al 95%) y sus compuestos. 
 
 | ![[Logo del Convenio de Minamata II.png]] | ![[Partes del Convenio de Minamata.png]] |

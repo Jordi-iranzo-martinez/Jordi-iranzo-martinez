@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La sanidad forestal parece en la Ley 23/2003, como sanidad y genética forestal ([capítulo IV](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109&tn=1#civ-3)): 
 

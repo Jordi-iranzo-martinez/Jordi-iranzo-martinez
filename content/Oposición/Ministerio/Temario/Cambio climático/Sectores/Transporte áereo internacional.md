@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La aviación mundial genera entre el 2 y 3 % de las emisiones mundiales de CO2 y el impacto global de la aviación sobre el cambio climático es, como mínimo, dos veces superior al de su impacto derivado exclusivamente del CO2.
 

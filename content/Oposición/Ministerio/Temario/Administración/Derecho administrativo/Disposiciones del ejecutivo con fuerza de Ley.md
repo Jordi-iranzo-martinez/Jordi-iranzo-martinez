@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Las disposiciones del Ejecutivo ([[Gobierno]]) con fuerza de Ley ([[Ley]]) comprenden materias no reservadas a Ley Orgánica. 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto Legislativo 1/2016](https://www.boe.es/buscar/act.php?id=BOE-A-2016-12601) publica el texto refundido de la Ley de prevención y control integrados de la contaminación en España -que incorpora la Directiva 2010/75/UE, de emisiones industriales-: 
 

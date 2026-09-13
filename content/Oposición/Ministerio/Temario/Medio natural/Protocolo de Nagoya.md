@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El principio fue desarrollado mediante el [Protocolo de Nagoya](https://www.cbd.int/abs/text) (Nagoya, 2010, 2014), incluyendo los conocimientos tradicionales asociados.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio de Basilea sobre el Control de los Movimientos Transfronterizos de los Desechos Peligrosos y su Eliminación](https://www.basel.int/Portals/4/download.aspx?e=UNEP-CHW-IMPL-CONVTEXT-2019.Spanish.pdf) (Basilea; 1989, 1992) es un tratado internacional para el movimiento transfronterizo (TMB) -entre Estados- de estos productos, con el fin de que obtengan una gestión ambientalmente adecuada (ESM).
 

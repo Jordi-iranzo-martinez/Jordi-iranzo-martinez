@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio de las Naciones Unidas de Lucha contra la Desertificación](https://www.unccd.int/sites/default/files/2022-02/UNCCD_Convention_text_SPA.pdf) (UNCCD por sus siglas en inglés) (Rio de Janeiro; 1992, 1994) es un acuerdo internacional para corregir la degradación:
 

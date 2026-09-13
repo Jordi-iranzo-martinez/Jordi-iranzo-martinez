@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Otras fuentes del Derecho Administrativo incluyen las siguientes: 
 

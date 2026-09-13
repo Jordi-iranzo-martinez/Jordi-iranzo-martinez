@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Real Decreto 363/2017](https://www.boe.es/buscar/act.php?id=BOE-A-2017-3950), de 8 de abril, por el que se establece un marco para la ordenación del espacio marítimo
 

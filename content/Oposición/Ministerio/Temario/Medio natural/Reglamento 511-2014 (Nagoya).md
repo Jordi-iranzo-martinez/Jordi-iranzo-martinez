@@ -1,5 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
-La Unión Europea ratificó el Protocolo en el 2014 ([Decisión 2014/283/UE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32014D0283)), y lo desarrolló mediante el [Reglamento 511/2014](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32014R0511):
+La Unión Europea ratificó el [[Web/content/Oposición/Ministerio/Temario/Medio natural/Protocolo de Nagoya|Protocolo de Nagoya]] en el 2014 ([Decisión 2014/283/UE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32014D0283)), y lo desarrolló mediante el [Reglamento 511/2014](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32014R0511):
+
+
 
 | Capítulos                                   | Contenido                                                                                                                                                                                                                                                                             |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

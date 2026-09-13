@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Consejo Nacional del Agua](https://hispagua.cedex.es/instituciones/consejo_nacional_agua) ([capítulo II del título II](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#cii-2)) es el órgano superior de consulta y participación en materia de aguas, que incluye a la Administración, organismos de cuenca, y diversas asociaciones, cuya presidencia es el titular del Ministerio ([artículo 19](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#a19)), con materias sometidas a informe preceptivo si afectan a la planificación hidrológica, la ordenación del dominio público, o los usos hídricos, en concreto ([artículo 20](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#a20)): 
 

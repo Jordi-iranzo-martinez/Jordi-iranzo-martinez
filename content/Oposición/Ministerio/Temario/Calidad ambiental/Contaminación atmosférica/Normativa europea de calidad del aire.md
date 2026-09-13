@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La normativa europea en materia de calidad del aire se basan en la [Directiva 2004/107/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02008L0050-20150918) y en la [Directiva 2008/50/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02004L0107-20150918). Además, se ha desarrollado la [Directiva (UE) 2024/2881](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=OJ:L_202402881), que entrará en vigor el 12 de diciembre de 2026 unificando y sustituyendo a las anteriores:
 

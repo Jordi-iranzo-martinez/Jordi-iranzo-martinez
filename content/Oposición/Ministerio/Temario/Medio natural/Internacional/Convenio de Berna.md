@@ -1,3 +1,9 @@
+---
+tags:
+  - Opo_Ministerio
+  - Opo_GVA
+---
+
 El [Convenio relativo a la Conservación de la Vida Silvestre y del Medio Natural en Europa](https://rm.coe.int/1680078aff) (Berna; 1979, 1982) es un tratado del [Consejo de Europa](https://www.coe.int) que busca la protección integral de la fauna y flora silvestres del continente europeo y de sus hábitats naturales.
 
 - **Especies**: flora y fauna (migratoria y no migratoria)

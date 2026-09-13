@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 También existen técnicas de estudio en la naturaleza.
 
 - **Flora**: transectos lineales en muestreos en campo, donde se registran todas las especies interceptadas, o parcelas cuadradas o circulares (de 1 m² a varias hectáreas según el estrato vegetal).

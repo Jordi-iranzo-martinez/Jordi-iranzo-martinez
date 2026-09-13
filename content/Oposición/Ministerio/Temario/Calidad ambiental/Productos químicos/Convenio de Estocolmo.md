@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes](https://chm.pops.int/Portals/0/download.aspx?e=UNEP-POPS-COP-CONVTEXT-2023.Spanish.pdf) (Estocolmo; 2001, 2004), es un tratado internacional para gestión de estos compuestos (COPs): 
 

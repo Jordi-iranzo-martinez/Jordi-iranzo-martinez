@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Programa de Trabajo de Nairobi en adaptación y vulnerabilidad](https://unfccc.int/nwp) (NWP por sus siglas en inglés) es un marco internacional de la Convención (COP12, 2006) que proporciona información y capacitación a los países en vías de desarrollo en estas materias de cambio climático, para que puedan tomar mejores decisiones al respecto. 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Asamblea Ciudadana para el Clima](https://asambleaciudadanadelcambioclimatico.es/) es un modelo pionero de participación ciudadana en políticas climáticas en España, basado en la democracia deliberativa.
 

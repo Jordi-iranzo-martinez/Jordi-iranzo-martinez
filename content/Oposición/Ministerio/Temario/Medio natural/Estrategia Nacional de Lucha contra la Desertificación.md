@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Estrategia Nacional de Lucha contra la Desertificación](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/planes-y-estrategias/enld/anexo-i-enld.pdf) (ENLD) (2025)
 

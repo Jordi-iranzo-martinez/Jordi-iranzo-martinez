@@ -1,4 +1,11 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 El [Segundo Plan Nacional de Adaptación al Cambio Climático](https://www.miteco.gob.es/content/dam/miteco/es/cambio-climatico/temas/impactos-vulnerabilidad-y-adaptacion/pnacc-2021-2030_tcm30-512163.pdf) (PNACC II) (2021-2030) promueve la acción coordinada y coherente desde una perspectiva transversal (distintos campos), multilateral (distintos actores) y multinivel (distintas escalas territoriales), en 18 ámbitos de trabajo y 81 líneas de acción.
+
+*Sustituye al [[Web/content/Oposición/Ministerio/Temario/Cambio climático/España/PNACC I|PNACC I]]*
 
 | Título                                  | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

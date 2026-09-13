@@ -4,6 +4,8 @@
 
 Alan Kurdi’s family was fleeing the brutal violence of the civil war in Syria, specifically from the city of Kobane. Seeking safety in Europe, the family boarded a small, overcrowded inflatable rubber boat intended to travel from Turkey to the Greek island of Kos, which was a short distance away across the Aegean Sea.
 
+[[Bury Me, My Love (The Pixel Hunt, 2017)]]
+
 Just minutes after leaving the Turkish coast, the boat capsized in rough waters. Alan, his five-year-old brother Galib, and his mother Rehan all drowned. His father, Abdullah Kurdi, was the only immediate family member who survived the tragedy.
 
 Public pressure forced several European leaders to react. Most notably, German Chancellor Angela Merkel shifted policies to open Germany's borders, eventually welcoming over one million refugees.

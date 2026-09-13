@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Protocolo de Gotemburgo](https://unece.org/sites/default/files/2021-10/1999%20Multi.E.Amended.2005.pdf) (Gotemburgo, Suecia; 1999, 2005) adoptó un enfoque integrado multi-contaminante y multi-efecto, que limita los efectos ambientales (no solo las emisiones individuales), para reducir la acidificación, la eutrofización, y el ozono troposférico.
 

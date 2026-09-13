@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los gases fluorados son compuestos químicos artificiales que contienen flúor (F), utilizados en diferentes aplicaciones industriales. Muchos son sustancias que agotan la capa de ozono, pero también son gases de efecto invernadero de cientos a miles de veces más potentes que el dióxido de carbono.
 

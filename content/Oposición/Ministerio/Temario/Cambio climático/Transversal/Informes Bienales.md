@@ -1,3 +1,8 @@
+---
+tags:
+  - Opo_Ministerio
+---
+
 Los informes bienales son documentos de transparencia y monitoreo realizados cada 2 años para evaluar el progreso de las Partes.
 
 A partir de la COP16 (Cancún, 2010), se implementaron informes bienales (BRs) para los países desarrollados (Anexo I del Convenio), y bienales de actualización (BURs) para los países en vías de desarrollo (no del Anexo I).

@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 Los espacios marinos protegidos se incluyen en la Red Española de Áreas Marinas Protegidas (RAMPE). Los más significativos son los siguientes:
 

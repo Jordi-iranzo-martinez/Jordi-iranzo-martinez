@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La [Convención relativa a los Humedales de Importancia Internacional, especialmente como Hábitat de Aves Acuáticas](https://www.ramsar.org/sites/default/files/documents/library/current_convention_s.pdf) (Ramsar; 1971-1975) es un acuerdo internacional para su protección.
 

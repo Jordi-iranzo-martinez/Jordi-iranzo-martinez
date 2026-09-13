@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 ### El procedimiento administrativo: concepto, naturaleza y caracterización
 

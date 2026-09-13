@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 |                                                |                                                                                                                                                                                                 |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Características                                | - Aguas templadas atlánticas<br>- Fuerte influencia fluvial (Guadalquivir, Guadiana)<br>- Fondos predominantemente arenosos y fangosos<br>- Plataforma somera<br>- Extensas zonas intermareales |

@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Opo_Ministerio
+---
 
 El [Plan Director de la Cooperación Española para el Desarrollo Sostenible](https://www.cooperacionespanola.es/wp-content/uploads/2024/10/Plan-Director-de-la-Cooperacion-Espanola-2024-2027.pdf) (2024-2027) es ([ver esquema de la norma](https://whimsical.com/plan-director-de-la-cooperacion-espanola-para-el-desarrollo-sost-GDoYXpJZ9tmU4pAa7ciiSx))
 

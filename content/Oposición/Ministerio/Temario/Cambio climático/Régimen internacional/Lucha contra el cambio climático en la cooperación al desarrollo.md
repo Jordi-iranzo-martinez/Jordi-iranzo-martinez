@@ -1,3 +1,7 @@
+---
+tags:
+  - Opo_Ministerio
+---
 
 La cooperación internacional en materia climática incluye de manera directa dos objetivos de la Agenda 2030, y las medidas aplicadas varios otros, tanto en acciones de mitigación como de adaptación: 
 
