@@ -1,5 +1,5 @@
 ---
-title: Consultor ambiental y redactor
+title: Consultor ambiental
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 ---
 ![[jordi-iranzo-martinez.jpg]]
