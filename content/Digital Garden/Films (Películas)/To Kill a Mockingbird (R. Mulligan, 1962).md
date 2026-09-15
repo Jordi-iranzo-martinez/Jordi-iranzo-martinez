@@ -4,7 +4,9 @@ tags:
   - Just_One_Life
 ---
 
-To Kill a Mockingbird (R. Mulligan, 1962), basada en la novela homónima de Harper Lee, está ambientada en la década de 1930 en una localidad de Alabama. 
+*To Kill a Mockingbird (R. Mulligan, 1962) is based on the homonimous novel by Harper Lee*
+
+está ambientada en la década de 1930 en una localidad de Alabama. 
 
 El caso de los chicos de Scottsboro (1931) condenó a nueve adolescentes negros falsamente acusados de violar a dos mujeres blancas en un tren de Alabama, sin pruebas médicas ni físicas, y con una confesión de mentira de una de las supuestas víctimas.
 

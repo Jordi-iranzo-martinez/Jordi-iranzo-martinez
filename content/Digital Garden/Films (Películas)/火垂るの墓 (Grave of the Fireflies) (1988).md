@@ -7,6 +7,8 @@ Segunda Guerra Mundial (1939-1945). Seita y Setsuko son hijos de un oficial de l
 
 *La película es una adaptación directa de la novela corta homónima de 1967 escrita por el autor japonés Akiyuki Nosaka.*
 
+[[World War II in Color (2009)]]
+
 
 El bombardeo de Kobe en 1945 fue uno de los episodios más devastadores de la campaña de "tierra quemada" aérea ejecutada por los Estados Unidos contra el Imperio de Japón.
 

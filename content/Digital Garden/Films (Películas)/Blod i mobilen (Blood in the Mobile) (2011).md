@@ -4,7 +4,6 @@ tags:
   - Just_One_Planet
 ---
 
-Documental cuya principal denuncia es que "la construcción de teléfonos móviles financia la guerra y las mafias del Congo", y que sigue el rastro del mineral coltrán, usado en la fabricación de los móviles -y en otros productos de electrónica-, y cuyo principal productor mundial es la República Democrática del Congo, país enfrascado en una guerra civil. (FILMAFFINITY)
 
 
 Bisie era la mina ilegal de casiterita más grande del Congo, ubicada en mitad de la selva profunda de la provincia de Kivu del Norte. 

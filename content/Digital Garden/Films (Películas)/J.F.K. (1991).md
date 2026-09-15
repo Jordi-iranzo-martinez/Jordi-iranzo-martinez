@@ -3,7 +3,6 @@ tags:
   - Just_One_Humankind
 ---
 
-El fiscal de Nueva Orleans Jim Garrison (Costner) reabrió el caso del asesinato del presidente de los Estados Unidos John F. Kennedy y presentó cargos contra algunas personas. Después de entrevistar a numerosos testigos de Dallas y a personas relacionadas con los hechos, mantuvo la tesis de que el magnicidio fue fruto de una conspiración en la que podrían haber intervenido el FBI, la CIA y el propio vicepresidente Lindon B. Johnson. (FILMAFFINITY)
 
 
 John Fitzgerald Kennedy (1917-1963) was the 35th President of the United States of America (1961-1063)

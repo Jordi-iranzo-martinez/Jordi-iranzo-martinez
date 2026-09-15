@@ -3,7 +3,6 @@ tags:
   - Just_One_Humankind
 ---
 
-
 Julius Robert Oppenheimer was an american physicist 
 
 To "Manhattan Project": an investigation to build an atomic bomb.

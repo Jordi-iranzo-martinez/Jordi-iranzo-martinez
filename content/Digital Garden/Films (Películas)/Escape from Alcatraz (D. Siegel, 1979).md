@@ -7,8 +7,6 @@ Escape from Alcatraz (D. Siegel, 1979) muestra
 
 
 
-San Francisco, enero de 1960. Frank Lee Morris (Eastwood), un preso muy inteligente que se ha fugado de varias prisiones, es trasladado a Alcatraz, cárcel de máxima seguridad situada en una isla rocosa en medio de la Bahía de San Francisco. A pesar de que nadie ha conseguido nunca evadirse de allí, Frank y otros reclusos empiezan a preparar minuciosamente un plan de fuga. (FILMAFFINITY)
-
 La icónica escena donde colocan cabezas falsas en las almohadas para burlar los recuentos nocturnos de los guardias ocurrió fielmente. Los presos reales fabricaron las cabezas utilizando una mezcla de jabón, papel higiénico y polvo de yeso raspado de las paredes, pintándolas con materiales del taller de arte y adhiriéndoles cabello humano real recolectado clandestinamente del suelo de la barbería de la prisión.
 
 Los muros de hormigón que rodeaban las rejillas de ventilación de Alcatraz estaban profundamente erosionados debido a la humedad y la salinidad del mar. Los reclusos utilizaron cucharas y cortauñas afilados para raspar el cemento a diario, ocultando el daño construyendo rejillas falsas de cartón idénticas a las originales. Incluso fabricaron un taladro neumático primitivo utilizando el motor robado de una aspiradora.

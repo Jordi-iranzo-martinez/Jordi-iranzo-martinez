@@ -2,7 +2,6 @@
 tags:
   - Memorias_Hispanas
 ---
-
 Retrata el Puente de los Suspiros en el barrio limeño del Rímac, y a una mujer afroperuana real, Victoria Angulo, que Chabuca Granda conoció e idealizó como símbolo del Perú criollo/mestizo. Buen ángulo sobre representación racial e idealización femenina en la música patrimonial latinoamericana.
 
 Está dedicada a Victoria Angulo Castillo, una distinguida mujer afrodescendiente que era madrina de la primera cuadrilla de la hermandad del Señor de los Milagros.

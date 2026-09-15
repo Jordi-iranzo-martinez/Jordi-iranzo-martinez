@@ -3,8 +3,6 @@ tags:
   - Just_One_Humankind
 ---
 
-Biopic sobre el matemático británico
-
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist
 
 He was bornt in 1912 in London in 1912. Since youth he showed an exceptional talent for mathematics and logic. He studied in King's College (Cambridge University) and then in Princeton, where he obtain his doctorate in 

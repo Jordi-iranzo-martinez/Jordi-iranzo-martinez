@@ -6,7 +6,6 @@ tags:
 Hotel Rwanda (T. George, 2004) cuenta la historia del Hôtel des Mille Collines durante el genocidio de Rwanda (1994).
 
 
-
 La película narra los hechos del genocidio de Ruanda de 1994, donde en solo tres meses la etnia mayoritaria hutu asesinó a unas 800.000 personas de la minoría tutsi. La trama se enfoca en Paul Rusesabagina, el gerente de etnia hutu del lujoso hotel de cuatro estrellas Hôtel des Mille Collines en Kigali, quien arriesgó su vida utilizando sobornos, carisma y contactos para proteger dentro del establecimiento a 1.268 refugiados (tanto tutsis como hutus moderados), logrando que todos sobrevivieran.
 
 El Hôtel des Mille Collines fue un oasis en medio de la masacre generalizada. Ninguno de los más de 1.200 refugiados que se escondieron en su interior fue asesinado o herido.

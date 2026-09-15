@@ -2,9 +2,6 @@
 tags:
   - Just_One_Humankind
 ---
-
-
-
 El kabuki (歌舞伎) (del japonés *ka* "cantar", *bu* "bailar" y *ki* "habilidad" o "técnica") es una de las formas de teatro tradicional japonés más espectaculares, dramáticas y visualmente impactantes del mundo. 
 
 

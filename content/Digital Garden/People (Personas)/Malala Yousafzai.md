@@ -2,7 +2,6 @@
 tags:
   - Just_One_Planet
 ---
-
 Malala Yousafzai (1997-today) is a Pakistani education activist and the youngest Nobel Prize laureate in history. 
 
 Born in 1997 in the Swat Valley of northwest Pakistan, Malala was raised by her father, Ziauddin Yousafzai, a teacher and school owner who fiercely encouraged her to study and speak her mind.

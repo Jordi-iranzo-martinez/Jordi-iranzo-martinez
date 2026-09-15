@@ -1,4 +1,6 @@
 
+
+
 Bobby Fischer
 
 Boris Spassky

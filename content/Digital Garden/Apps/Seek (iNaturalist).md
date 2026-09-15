@@ -1,7 +1,5 @@
 
-
-
-
+Seek by iNaturalist is a fantastic, free mobile application designed to help you identify plants, animals, and fungi in your surroundings using your phone's camera. 
 
 
 

@@ -3,7 +3,7 @@ tags:
   - Just_One_Planet
 ---
 
-Miniserie de TV (4 episodios). Se caracteriza por su uso pionero de cámaras 3D para la filmación bajo el agua. También cuenta con las primeras imágenes conocidas de la iguana terrestre rosada Galápagos, una nueva especie de lagarto identificado en el 2009 y el encuentro con "Lonesome George", la última tortuga de la isla Pinta, filmado un par de semanas antes de la muerte del animal. (FILMAFFINITY)
+
 
 
 Tortuga Gigante de las Galápagos (Chelonoidis niger) son terrestres, y puede llegar a pesar un cuarto de tonelada y vivir más de 150 años.

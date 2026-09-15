@@ -1,7 +1,6 @@
 
 Ipanema é uma regiao costera perto e a o sude do Rio de Janeiro.
 
-
 Está inspirada en una chica real, , de 17 años, que los autores veían pasar cada día por un bar de Ipanema camino a la playa. Ella lo supo décadas después y hasta hubo litigios sobre derechos de imagen.
 
 

@@ -3,7 +3,6 @@ tags:
   - Just_One_Planet
 ---
 
-Miniserie de TV. 2 episodios. David Attenborough explora los orígenes de la vida en el planeta tierra. (FILMAFFINITY)
 
 La [fauna de Edíacara](https://youtu.be/8O40LHY6Ac0?si=ix5WDfOVtWxl4Z6q): Attenborough viaja a los yacimientos de las colinas de Edíacara en Australia y a los acantilados de Mistaken Point en Terranova (Canadá). Allí muestra los fósiles de criaturas extrañas como la Dickinsonia o la Charnia. Estos seres eran planos, no tenían ojos, boca, aparato digestivo ni extremidades, y vivían anclados al fondo del océano absorbiendo nutrientes directamente del agua.
 

@@ -3,7 +3,6 @@ tags:
   - Just_One_Humankind
 ---
 
-Año 1940, en plena 2ª Guerra Mundial. En las playas de Dunkerque, cientos de miles de soldados de las tropas británicas y francesas se encuentran rodeados por el avance del ejército alemán, que ha invadido Francia. Atrapados en la playa, con el mar cortándoles el paso, las tropas se enfrentan a una situación angustiosa que empeora a medida que el enemigo se acerca. (FILMAFFINITY)**
 
 Dunkirk the real evacuation of Allied troops from the beaches of Dunkirk, France, in 1940 — one of the most consequential episodes of the early Second World War.
 

@@ -6,6 +6,10 @@ Zulu (C. Endfield, 1964) detalla la Batalla de Rorke's Drift (1879) durante la G
 
 *Para las escenas masivas, se contrató a más de 700 ciudadanos zulúes reales de las tribus locales, y el papel del rey Cetshwayo fue interpretado por Mangosuthu Buthelezi, quien era el tataranieto real en la vida real del propio rey zulú de 1879.*
 
+
+The Zulus
+
+
 A finales de la década de 1870, los británicos querían unificar sus colonias en Sudáfrica bajo una federación blanca. El próspero e independiente Reino Zulú era visto como un obstáculo y una amenaza imaginaria.
 
 El Alto Comisionado británico, Sir Bartle Frere, comenzó una agresiva campaña de propaganda tachando a Cetshwayo de "monstruo sediento de sangre" para justificar una intervención.

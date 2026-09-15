@@ -28,7 +28,7 @@ Scientists and conservationists worldwide use this open-source database to track
 
 - Seek: To make nature exploration safer and more accessible for children and families, they launched **Seek**. Unlike the main app, Seek doesn't share geolocation data or upload photos to a public server, protecting user privacy. Instead, it uses the AI database offline to let users "scan" living organisms in real-time to earn badges and learn fun facts.
 
-[[Seek]]
+[[Seek (iNaturalist)]]
 
 
 

@@ -6,10 +6,6 @@ tags:
 Volver al mismo punto de partida...?
 
 
-
-George Taylor es un astronauta que forma parte de la tripulación de una nave espacial -en una misión de larga duración- que se estrella en un planeta desconocido en el que, a primera vista, no hay vida inteligente. Sin embargo, muy pronto se dará cuenta de que está gobernado por una raza de simios mentalmente muy desarrollados que esclavizan a unos seres humanos que carecen de la facultad de hablar. Cuando su líder, el doctor Zaius, descubre horrorizado que Taylor posee el don de la palabra, decide que hay que eliminarlo. (FILMAFFINITY)
-
-
 Explicar lo de 
 
 ¿Cómo de posible es caer en agua líquida?

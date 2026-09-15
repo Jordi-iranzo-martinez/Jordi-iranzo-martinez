@@ -3,12 +3,11 @@ tags:
   - Just_One_Humankind
 ---
 
+Irlanda, 1920
+
+The IRA
 
 
-
-
-
-Irlanda, 1920. Dos hermanos se alistan en la guerrilla para combatir contra las tropas británicas que intentan impedir la independencia de Irlanda. El amor por su país hace que Damien (Cillian Murphy) abandone su prometedora carrera de médico y se una a su hermano Teddy (Pádraic Delaney) en la lucha por la libertad. Tras sufrir varias derrotas y un escalofriante número de bajas, el Gobierno Británico decide pactar con los rebeldes. Pero el acuerdo alcanzado provoca divisiones dentro del IRA y desemboca en un nuevo y fratricida conflicto armado. (FILMAFFINITY)
 
 hermanos Hales (Tom y Sean Hales) del Condado de Cork. En la realidad, Tom Hales lideró la guerrilla del IRA contra los británicos, mientras que su hermano Sean apoyó el Tratado y fue asesinado por el bando antitratado durante la subsecuente Guerra Civil.
 
