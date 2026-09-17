@@ -29,7 +29,9 @@ España adoptó la clasificación internacional del Convenio de Ramsar. La clasi
 
 ### Características
 
-Los humedales españoles comprenden un conjunto de más de 2,000 humedales. La mayoría son continentales (92%), si bien los costeros abarcan el 86% de la superficie. Entre los humedales costeros más destacados están
+Los humedales españoles comprenden un conjunto de más de 2,000 humedales.
+
+La mayoría son continentales (92%), si bien los costeros abarcan el 86% de la superficie. Entre los humedales costeros más destacados están
 
 - **Marismas del Guadalquivir**
 - **Bahía de Cádiz**
@@ -69,9 +71,9 @@ Las principales medidas aplicadas para la conservación de los humedales españo
 La restauración busca devolver al humedal sus funciones naturales originales, y la recuperación se enfoca en mejorar las condiciones existentes sin necesariamente alcanzar el estado original.
 
 
-| Istreto                                                                                                                                                                                         | Pricipios  recoedacioes geerales                                                                                                                                                                                                                                                                                                                         |
+| Instrumento                                                                                                                                                                                     | Pricipios y recomedaciones generales                                                                                                                                                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Balance Mundial de Humedales (Rasar)                                                                                                                                                            | - Revertir la tendencia de pérdida y degradación en las regiones de mayor riesgo<br>- Responder al cambio climático<br>- Potenciar los servicios ecosistémicos<br>- Proteger la biodiversidad amenazada<br>- Aumentar la resiliencia de las comunidades (urbanas y rurales) frente a desastres naturales                                                 |
+| Balance Mundial de Humedales (Rasmar)                                                                                                                                                           | - Revertir la tendencia de pérdida y degradación en las regiones de mayor riesgo<br>- Responder al cambio climático<br>- Potenciar los servicios ecosistémicos<br>- Proteger la biodiversidad amenazada<br>- Aumentar la resiliencia de las comunidades (urbanas y rurales) frente a desastres naturales                                                 |
 | **[Estrategia Española de Humedales a 2030](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/planes-y-estrategias/planestrategicodehumedalespublicacionoficial_tcm30-548431.pdf)** | - Enfoque ecosistémico<br>- Acción en las causas (abordar, eliminar)<br>- Escala de cuenca<br>- idrología (natural, original)<br>- Largo plazo<br>- Conocimiento ecológico previo<br>- Especies originales e interacciones<br>- Aprendizaje continuo<br>- Ecosistemas de referencia (guía, no copia)<br>- Aprovechar beneficios<br>- Participación local |
 
 
