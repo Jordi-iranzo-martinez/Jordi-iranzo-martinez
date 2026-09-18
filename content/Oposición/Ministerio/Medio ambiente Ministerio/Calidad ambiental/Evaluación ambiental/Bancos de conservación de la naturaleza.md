@@ -2,10 +2,9 @@
 tags:
   - Opo_Ministerio
 ---
-
 Los bancos de conservación de la naturaleza son un conjunto de títulos ambientales o créditos de conservación otorgados por el Ministerio de medio ambiente (y en su caso, las Comunidades Autónomas), que representan valores naturales creados o mejorados ([disposición adicional octava](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12913&p=20230614&tn=1#daoctava) de la [[Ley 21-2013 (evaluación ambiental)]]), para compensar, reparar o restaurar las pérdidas netas de valores naturales.
 
-Se crean por resolución del [[Ministerio de Medio Ambiente]] (y en caso, de las [[Web/content/Oposición/Ministerio/Temario/Administración/Otros/Comunidades Autónomas|Comunidades Autónomas]]), incluyendo los siguientes: 
+Se crean por resolución del [[Ministerio de MA]] (y en caso, de las [[Comunidades Autónomas]]), incluyendo los siguientes: 
 
 - **Actuaciones** (descripción)
 - **Fincas**: identificación de las que se realizan (con su referencia catastral y, en su caso, el número de finca registral)
