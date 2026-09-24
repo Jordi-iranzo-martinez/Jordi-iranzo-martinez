@@ -24,7 +24,7 @@ Me gustaría contribuir a mejorar el medio ambiente.
 
 Ofrezco los siguientes servicios:
 
-- [[Consultoría Técnica]]: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
+- [[Consultoría]]: estudios de impacto ambiental, planes de gestión de residuos, auditorías de cumplimiento legal...
 
 - [[Gestoría]]: trámites de representación
 
