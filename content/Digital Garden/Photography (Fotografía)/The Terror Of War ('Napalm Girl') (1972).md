@@ -26,5 +26,5 @@ It was used extensively, during night bombings over Tokio (only one night caused
 Su uso contra población civil es hoy ampliamente considerado como una de las armas más crueles empleadas en conflictos del siglo XX, precisamente por el tipo de quemaduras y sufrimiento prolongado que causa.
 
 
-[[Apocalypse Now (F. Ford Coppola, 1979)]]
+[[Apocalypse Now]]
 

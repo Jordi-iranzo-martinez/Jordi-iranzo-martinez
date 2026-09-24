@@ -1,5 +1,5 @@
 
-A principios de la década de 1970, el mundo observaba con horror la crueldad de la Guerra de Vietnam ([[Apocalypse Now (F. Ford Coppola, 1979)]], [[The Terror Of War ('Napalm Girl') (1972)]]...). 
+A principios de la década de 1970, el mundo observaba con horror la crueldad de la Guerra de Vietnam ([[Apocalypse Now]], [[The Terror Of War ('Napalm Girl') (1972)]]...). 
 
 Víctor Jara, profundamente comprometido con las causas sociales y la izquierda política, compuso la canción como una muestra de solidaridad absoluta con el pueblo vietnamita, que estaba siendo bombardeado por el ejército estadounidense.
 

@@ -6,10 +6,9 @@ tags:
 
 Obsesionado con la búsqueda de una idea matemática original, el brillante estudiante 
 
-The film is about te life of John Forbes Nash, loosely based on the homonimous biography book by Sylvia Nasar.
+The film is about te life of John Forbes Nash
 
-
-
+*It i based on the homonimous biography book by Sylvia Nasar.*
 
 John Forbes Nash Jr. (1928–2015) was an American mathematician best known for his work in game theory, differential geometry, and partial differential equations.
 

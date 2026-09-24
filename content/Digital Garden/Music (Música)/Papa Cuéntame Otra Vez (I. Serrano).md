@@ -29,5 +29,5 @@ París
 
 Jean Paul Sartre 
 
-Bosnia ([[This War of Mine (2014)]]) y Vietnam ([[Apocalypse Now (F. Ford Coppola, 1979)]], [[The Terror Of War ('Napalm Girl') (1972)]], [[Massacre of Villagers in My Lai (1967)]])
+Bosnia ([[This War of Mine (2014)]]) y Vietnam ([[Apocalypse Now]], [[The Terror Of War ('Napalm Girl') (1972)]], [[Massacre of Villagers in My Lai (1967)]])
 

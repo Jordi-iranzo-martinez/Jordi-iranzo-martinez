@@ -20,7 +20,7 @@ Todos los cantantes son hombres de la localidad, incluidos los niños de escolan
 
 La partitura combina cantos monódicos de origen medieval con añadidos polifónicos del Renacimiento y del Barroco.
 
-Fue declarado Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad por la [[UNESCO]] en 2001.
+Fue declarado Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad por la [[Web/content/Digital Garden/People (Personas)/UNESCO]] en 2001.
 
 
 [[Pruebas de edición/El Palmeral d'Elx|El Palmeral d'Elx]]
