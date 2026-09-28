@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[photography_boston-marathon-1967.png]]
+![[Web/content/Soporte visual/photography_boston-marathon-1967.png]]
 
 
 The picture depicts [Kathrine Switzer](https://kathrineswitzer.com/) at Boston Marathon in 1967. She was a journalism student at Syracuse University, who had been training with the men's cross-country team.

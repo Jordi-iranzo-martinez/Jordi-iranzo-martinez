@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Pasted image 20260821004158.png]]
+![[Web/content/Soporte visual/Pasted image 20260821004158.png]]
 
 *El cuadro fue un encargo del Senado de España en 1878*.
 

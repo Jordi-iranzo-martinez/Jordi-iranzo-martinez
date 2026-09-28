@@ -388,4 +388,4 @@ Los romanos convencían a los líderes locales de que aliarse con Roma era un gr
 
 
 
-![[roman-roads.png]]
+![[Web/content/Soporte visual/roman-roads.png]]

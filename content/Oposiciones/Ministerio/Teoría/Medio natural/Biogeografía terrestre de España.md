@@ -24,7 +24,7 @@ En la Unión Europa estas comprenden un total de 11 tipos:
 - **Mediterránea**: influenciada por el Mar Mediterráneo
 - **Pannónica**: llanuras y cuencas del centro-este de Europa
 
-![[european-union_biogeographical-marine-regions.png]]
+![[Web/content/Soporte visual/european-union_biogeographical-marine-regions.png]]
 
 *Regiones biogeográficas continentales y marinas de la Unión Europea. Fuente: [Agencia Europea de Medio Ambiente](https://www.eea.europa.eu/en/analysis/maps-and-charts/biogeographical-and-marine-regions-in) (EEA)*
 
@@ -46,7 +46,7 @@ En el medio terrestre los gradientes altitudinales explican perfectamente los pi
 
 - **Nutrientes**: variable según la geomorfología. En laderas puede haber lavado de nutrientes hacia zonas bajas, pero en algunos casos la meteorización puede ser mayor en altitudes intermedias.
 
-![[Pasted image 20260620072235.png]]
+![[Web/content/Soporte visual/Pasted image 20260620072235.png]]
 
 
 

@@ -35,7 +35,7 @@ La cooperación internacional española en materia climática se articula a trav
 
 
 
-![[Pasted image 20260429184949.png]]
+![[Web/content/Soporte visual/Pasted image 20260429184949.png]]
 Esta cooperación se realiza fundamentalmente a países en vías de desarrollo, a través de financiación, transferencia de tecnología, intercambio de información, creación de capacidades (talleres, cursos...) y actuaciones conjuntas.
 
 La lucha contra el cambio climático en la cooperación al desarrollo

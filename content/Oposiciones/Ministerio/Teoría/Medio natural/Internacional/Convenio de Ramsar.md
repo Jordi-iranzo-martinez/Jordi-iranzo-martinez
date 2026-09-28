@@ -19,7 +19,7 @@ Entre sus principales características destacan las siguientes:
 
 	- **Humedales de Importancia Internacional**: cada País Parte del Convenio debe proponer al menos un humedal en su territorio como de importancia internacional a la Secretaría del Convenio -a través del [sistema online de reporte](https://reports.ramsar.org/) (ORS)-, en base a unos determinados [criterios de inclusión](https://www.ramsar.org/sites/default/files/documents/library/ramsarsites_criteria_sp.pdf?__cf_chl_rt_tk=t_6.68RtbYIqDRjpZSNzHdvT50qC70tr3sH5JjK9Lv0-1775235125-1.0.1.1-Q3780Hw4ovbiOOhjkQKMwZ3c7x9ldzb8ANXWh8CXlTE). 
 
-		![[Pasted image 20260701225632.png]]
+		![[Web/content/Soporte visual/Pasted image 20260701225632.png]]
 		*Humedales de importancia internacional incluidos en la Lista Ramsar*
 
 	- **Cooperación internacional**: en especial en humedales transfronterizos, capacitación, e intercambio de información
@@ -50,7 +50,7 @@ La estructura orgánica es la siguiente:
 	- [Wildfowl and Wetlands Trust](https://www.wwt.org.uk/) (WWT)
 	- [World Wide Fund for Nature](https://www.worldwildlife.org/) (WWF)
 
-![[ramsar_cycle.png]]
+![[Web/content/Soporte visual/ramsar_cycle.png]]
 
 #### Evolución
 
@@ -93,7 +93,7 @@ Respecto a su evolución, los principales hitos incluyen los siguientes:
 
 España se adhirió al Convenio en 1982. Es el tercer país del mundo por número de sitios incluidos en la Lista de Ramsar, con un total de 76 humedales y más de 300.000 hectáreas (ver ficha del país en el RSIS).
 
-![[ramsar_espana.png]]
+![[Web/content/Soporte visual/ramsar_espana.png]]
 
 
 Se aplica mediante
@@ -103,13 +103,13 @@ Se aplica mediante
 - **Inventario Español del Patrimonio Natural y la Biodiversidad** ([Real Decreto 556/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-8228))
 - **Ley de Aguas**
 
-![[espana_iezh.png]]
+![[Web/content/Soporte visual/espana_iezh.png]]
 
 
 
 Valencia es la única ciudad española y de las pocas del mundo en contar con la [acreditación de Ciudad Humedal](https://www.ramsar.org/es/nuestro-trabajo/actividades/la-acreditacion-de-ciudad-de-humedal) desde el 2022, por l'Albufera de Valencia.
 
-![[Ciudades Humedal del Convenio de Ramsar.png]]
+![[Web/content/Soporte visual/Ciudades Humedal del Convenio de Ramsar.png]]
 
 Se han realizado [Misiones Ramsar de Asesoramiento](https://www.ramsar.org/es/nuestro-trabajo/actividades/misiones-ramsar-de-asesoramiento) para el Delta del Ebro (2000), Doñana (2002, 2011, 2020), *l'Albufera* de Valencia (2006), y *S'Albufera de Mallorca* (2010). Doñana y Tablas de Daimiel se encuentran en el Registro de Montreux desde 1990. 
 

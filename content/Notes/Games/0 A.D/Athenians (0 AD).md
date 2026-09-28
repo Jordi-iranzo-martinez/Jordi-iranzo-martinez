@@ -10,7 +10,7 @@ Laureion mines in Attica gave Athenians a huge silver resource to make their coi
 
 Hoplites were the most part of Greek Army.
 
-![[f.png]]
+![[Web/content/Soporte visual/f.png]]
 
 ![[{C273BC3C-B129-4D2B-ABC5-419AD74E17B5}.png]]
 

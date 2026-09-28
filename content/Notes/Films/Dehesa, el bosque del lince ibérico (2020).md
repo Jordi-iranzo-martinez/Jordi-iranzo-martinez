@@ -20,7 +20,7 @@ La dehesa es
 Mucha en Extremadura y Andalucía, también en Portugal
 
 
-![[Pasted image 20250723123135.png]]
+![[Web/content/Soporte visual/Pasted image 20250723123135.png]]
 Las dehesas en España. Fuente: [Banco de Datos de la Naturaleza](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/34Dehesas_tcm30-138194.jpg) (BDN), a través del Mapa Forestal de España (MFE)
 
 

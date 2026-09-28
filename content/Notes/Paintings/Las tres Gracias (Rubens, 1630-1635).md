@@ -1,5 +1,5 @@
 
-![[Pasted image 20260824002434.png]]
+![[Web/content/Soporte visual/Pasted image 20260824002434.png]]
 
 En la mitología griega, las Gracias (o _Cárites_) eran las tres hijas de Zeus y la ninfa Eurínome. Sus nombres eran Aglae (la brillante), Eufrósine (el júbilo) y Talía (la floreciente).
 

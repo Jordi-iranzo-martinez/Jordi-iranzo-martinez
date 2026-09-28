@@ -3,5 +3,5 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[rendicion-bailen.png]]
+![[Web/content/Soporte visual/rendicion-bailen.png]]
 

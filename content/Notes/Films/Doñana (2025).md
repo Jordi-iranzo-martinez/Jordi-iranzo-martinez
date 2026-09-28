@@ -28,7 +28,7 @@ Se sitúa próxima a África, al sur de las provincias de Huelva y de Sevilla. E
 
 Su nombre se debe al palacio de Doña Ana Gómez de Mendoza y Silva, esposa del séptimo duque de Medina-Sidonia.
 
-![[Pasted image 20250213214226.png]]
+![[Web/content/Soporte visual/Pasted image 20250213214226.png]]
 "Romería del Rocío" (Hacia 1897) - Salvador Viniegra y Lasso de la Vega
 Fuente: Museo del Prado
 

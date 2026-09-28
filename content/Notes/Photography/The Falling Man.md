@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[photography_falling-man.png]]
+![[Web/content/Soporte visual/photography_falling-man.png]]
 
 
 11-S

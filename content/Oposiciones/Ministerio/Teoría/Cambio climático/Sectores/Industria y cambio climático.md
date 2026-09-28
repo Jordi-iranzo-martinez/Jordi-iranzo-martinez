@@ -147,7 +147,7 @@ Los principales gases fluorados se emplean en aires acondicionados, y como refri
 | **Aires acondicionados (gases fluorados)** | **2,27**                         | **0,9**                    |
 | Otros                                      |                                  |                            |
 
-| ![[Pasted image 20260620090252.png]] | ![[Pasted image 20260620090255.png]] |
+| ![[Web/content/Soporte visual/Pasted image 20260620090252.png]] | ![[Web/content/Soporte visual/Pasted image 20260620090255.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 
@@ -176,7 +176,7 @@ El sector del transporte es el que más contribuye al cambio climático en Espa�
 | Pesca                                                         | 0,65                             | 0,2                        |
 | Otros                                                         | 0,686                            | 0,3                        |
 
-| ![[Pasted image 20260620090503.png]] | ![[Pasted image 20260620090507.png]] |
+| ![[Web/content/Soporte visual/Pasted image 20260620090503.png]] | ![[Web/content/Soporte visual/Pasted image 20260620090507.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 
@@ -205,7 +205,7 @@ Se ha producido un descenso notable desde la entrada en vigor del Protocolo de K
 
 
 
-![[Pasted image 20260620090339.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090339.png]]
 
 
 
@@ -213,7 +213,7 @@ Se ha producido un descenso notable desde la entrada en vigor del Protocolo de K
 Destacan el uso de gases fluorados, principalmente hidrofluorocarbonos (HFC). Es el único sector donde se usa el hexafluoruro de azufre (SF6) (incluido en la enmienda de Doha).
 
 
-![[Pasted image 20260620090354.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090354.png]]
 
 
 #### Políticas y medidas puestas en marcha
@@ -227,5 +227,5 @@ Las políticas y medidas puestas en marcha con ámbitos distintos como la invest
 
 
 
-![[Pasted image 20260620090419.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090419.png]]
 

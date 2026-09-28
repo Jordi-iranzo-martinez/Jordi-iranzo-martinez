@@ -55,14 +55,14 @@ REVISAR INDICE
 
 | Tipología                            | Objetivos de calidad acústica                                 |
 | ------------------------------------ | ------------------------------------------------------------- |
-| Áreas urbanizadas                    | ![[Objetivos de calidad acústica en áreas urbanizadas.png]]   |
-| Ruido en interiores habitables       | ![[Objetivos de calidad acústica en espacios interiores.png]] |
-| Vibraciones en interiores habitables | ![[objetivos-calidad-acustica-vibraciones.png]]               |
+| Áreas urbanizadas                    | ![[Web/content/Soporte visual/Objetivos de calidad acústica en áreas urbanizadas.png]]   |
+| Ruido en interiores habitables       | ![[Web/content/Soporte visual/Objetivos de calidad acústica en espacios interiores.png]] |
+| Vibraciones en interiores habitables | ![[Web/content/Soporte visual/objetivos-calidad-acustica-vibraciones.png]]               |
 
 
 | Tipología                                                 | Valores límite de inmisión                                                                     |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Infraestructuras viarias, ferroviarias y aeroportuarias   | ![[Valores límite de emisión por infraestructuras viarias, ferroviarias y aeroportuarias.png]] |
-| Máximos de infraestructuras ferroviarias y aeroportuarias | ![[Valores límite de emisión por infraestructuras portuarias y actividades.png]]               |
-| Infraestructuras portuarias y a actividades               | ![[Pasted image 20260621174140.png]]                                                           |
-| Locales colindantes por actividades                       | ![[Valores límite de emisión por locales colindantes.png]]                                                           |
+| Infraestructuras viarias, ferroviarias y aeroportuarias   | ![[Web/content/Soporte visual/Valores límite de emisión por infraestructuras viarias, ferroviarias y aeroportuarias.png]] |
+| Máximos de infraestructuras ferroviarias y aeroportuarias | ![[Web/content/Soporte visual/Valores límite de emisión por infraestructuras portuarias y actividades.png]]               |
+| Infraestructuras portuarias y a actividades               | ![[Web/content/Soporte visual/Pasted image 20260621174140.png]]                                                           |
+| Locales colindantes por actividades                       | ![[Web/content/Soporte visual/Valores límite de emisión por locales colindantes.png]]                                                           |

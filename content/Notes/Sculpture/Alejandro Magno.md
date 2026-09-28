@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[alexander.png]]
+![[Web/content/Soporte visual/alexander.png]]
 
 Alejandro III de Macedonia "Magno" (356 a.C - 323 a.C) fue un rey macedonio 
 

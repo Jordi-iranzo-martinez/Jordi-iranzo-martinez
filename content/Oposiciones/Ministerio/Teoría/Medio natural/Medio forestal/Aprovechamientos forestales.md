@@ -38,5 +38,5 @@ Las principales industrias forestales en España se dividen en primera y segunda
 | Otras                              | - Instrumentos musicales<br>- Artesanía y ebanistería<br>- guetes de madera<br>- Artículos deportivos (bates, raquetas...) |
 | Papelera                           | - Papel y cartón<br>- Productos de papel tisú<br>- Papel prensa y editorial                                                |
 
-![[industrias-transformacion-madera.png]]
+![[Web/content/Soporte visual/industrias-transformacion-madera.png]]
 

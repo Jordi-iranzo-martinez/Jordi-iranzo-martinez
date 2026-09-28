@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[photography_last-jew-vinitza.png]]
+![[Web/content/Soporte visual/photography_last-jew-vinitza.png]]
 
 
 

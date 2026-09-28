@@ -1,5 +1,5 @@
 
-![[Pasted image 20260827174007.png]]
+![[Web/content/Soporte visual/Pasted image 20260827174007.png]]
 
  *Weighing Wax on Scale-Beams in the Narthex of the Church of St. John the Baptist at Opoki in Novgorod at the End of the 12th Century*
 

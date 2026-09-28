@@ -3,4 +3,4 @@ tags:
   - Just_One_Humankind
 ---
 
-![[photopgraphy_molotov-man.png]]
+![[Web/content/Soporte visual/photopgraphy_molotov-man.png]]

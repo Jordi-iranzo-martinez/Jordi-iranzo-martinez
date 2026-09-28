@@ -303,10 +303,10 @@ Agua de transición y costeras muy modificadas por la presencia de puertos
 
 - **Indicadores aplicables por tipo**
 
-![[Pasted image 20260705152306.png]]
+![[Web/content/Soporte visual/Pasted image 20260705152306.png]]
 
 
-![[{2859F72A-8628-4BC0-B3BC-C47D6295F00C}.png]]
+![[Web/content/Soporte visual/{2859F72A-8628-4BC0-B3BC-C47D6295F00C}.png]]
 
 
 Tipos de puertos:
@@ -321,8 +321,8 @@ Tipos de puertos:
 
 - **Puertos**: Máximo potencial ecológico y límites de cambio de clase de potencial.
 
-	![[{59F17B6E-CDDF-4E9B-BB18-9C7B68FC0AD7}.png]]
-	![[{A3C530CB-5192-452B-B371-6F28C35F5A7B}.png]]
+	![[Web/content/Soporte visual/{59F17B6E-CDDF-4E9B-BB18-9C7B68FC0AD7}.png]]
+	![[Web/content/Soporte visual/{A3C530CB-5192-452B-B371-6F28C35F5A7B}.png]]
 
 	*CR: Condición de referencia.*
 
@@ -559,8 +559,8 @@ Los parámetros obligatorios son los enterococos intestinales y la *Escherichia 
 
 | Masa de agua            | Parámetros y valores                            |
 | ----------------------- | ----------------------------------------------- |
-| Continental             | ![[parametros-calidad-aguas.png]] |
-| Costera y de transición | ![[espana_parametros-calidad-aguas.png]] |
+| Continental             | ![[Web/content/Soporte visual/parametros-calidad-aguas.png]] |
+| Costera y de transición | ![[Web/content/Soporte visual/espana_parametros-calidad-aguas.png]] |
 
 
 
@@ -639,12 +639,12 @@ El [Real Decreto 509/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-7159)
 
 - **Requisitos de vertido**: para aquellos procedentes de las instalaciones de tratamiento secundario (o proceso equivalente), 
 
-![[{BCA0689F-5D51-47A7-AB3E-86E434017940}.png]]
+![[Web/content/Soporte visual/{BCA0689F-5D51-47A7-AB3E-86E434017940}.png]]
 
 |                          |                                                 |
 | ------------------------ | ----------------------------------------------- |
-| Tratamiento secundario   | ![[Pasted image 20260701132121.png]]            |
-| Aguas residuales urbanas | ![[{26323EE2-1015-415A-8D2E-FA525DF5A06C}.png]] |
+| Tratamiento secundario   | ![[Web/content/Soporte visual/Pasted image 20260701132121.png]]            |
+| Aguas residuales urbanas | ![[Web/content/Soporte visual/{26323EE2-1015-415A-8D2E-FA525DF5A06C}.png]] |
 
 Requisitos de los vertidos procedentes de instalaciones de tratamiento de aguas residuales urbanas realizados en zonas sensibles cuyas aguas sean eutróficas o tengan tendencia a serlo en un futuro próximo. Según la situación local, se podrá aplicar uno o los dos parámetros. Se aplicarán el valor de concentración o el porcentaje de reducción.
 

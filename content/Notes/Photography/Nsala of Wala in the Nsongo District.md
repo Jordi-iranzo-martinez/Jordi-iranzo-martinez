@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Pasted image 20260822180908.png]]
+![[Web/content/Soporte visual/Pasted image 20260822180908.png]]
 
 
 

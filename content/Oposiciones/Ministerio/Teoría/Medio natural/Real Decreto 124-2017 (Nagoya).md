@@ -52,7 +52,7 @@ Esta autorización provisional quedará condicionada a la negociación posterior
 En caso de no obtener la autorización definitiva, el solicitante se comprometerá a restituir los beneficios netos obtenidos durante el periodo de autorización provisional.
 
 
-![[Pasted image 20260404175334.png]]
+![[Web/content/Soporte visual/Pasted image 20260404175334.png]]
 
 
 Se crea el Sistema estatal de información sobre acceso y utilización de los recursos genéticos y conocimientos tradicionales asociados en España para coordinar la información relativa de acceso a los recursos genéticos españoles como a la utilización en España de los recursos genéticos y conocimientos tradicionales asociados.

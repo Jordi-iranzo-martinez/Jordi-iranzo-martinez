@@ -13,7 +13,7 @@ En España está regulado fundamentalmente por [el Texto Refundido de la Ley de 
 
 
 
-![[Pasted image 20260403221524.png]]
+![[Web/content/Soporte visual/Pasted image 20260403221524.png]]
 
 El dominio público hidráulico (DPH) incluyen las aguas continentales (en el continente) y las provenientes de desalación marina ([artículo 2](https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276&p=20231228&tn=1#a2)). 
 
@@ -23,7 +23,7 @@ El dominio público hidráulico (DPH) incluyen las aguas continentales (en el co
 
 - **Aguas de desalación** **marina**: recursos hídricos no convencionales obtenidos por ósmosis inversa del agua del mar.
 
-![[Pasted image 20260418142315.png]]
+![[Web/content/Soporte visual/Pasted image 20260418142315.png]]
 *Fuente: https://laoropendolasostenible.blogspot.com/2015/07/que-es-el-dominio-publico-hidraulico.html*
 
 
@@ -65,7 +65,7 @@ La Ley ha sido desarrollada mediante numerosos reglamentos:
 
 
 
-![[Pasted image 20260619165824.png]]
+![[Web/content/Soporte visual/Pasted image 20260619165824.png]]
 
 *Dominio Público Hidráulico (DPH). Fuente: Ministerio de medio ambiente*
 
@@ -79,7 +79,7 @@ En los márgenes de los ríos aparecen las zonas de servidumbre y policía para 
 - **Policía** (100 m) ([artículo 9](https://boe.es/buscar/act.php?id=BOE-A-1986-10638&p=20241023&tn=1#a9)): control de usos y actividades para proteger el cauce.
 
 
-![[Pasted image 20260619165906.png]]
+![[Web/content/Soporte visual/Pasted image 20260619165906.png]]
 
 
 

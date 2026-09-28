@@ -20,5 +20,5 @@ Las principales obras y métodos empleados son:
 - **Limpieza y mantenimiento del cauce**: remoción de sedimentos y elementos para evitar desbordamientos y facilitar el flujo
 
 
-![[trabajos-correccion-torrentes.png]]
+![[Web/content/Soporte visual/trabajos-correccion-torrentes.png]]
 *Trabajos de corrección de torrentes. Fuente: ChatGPT*

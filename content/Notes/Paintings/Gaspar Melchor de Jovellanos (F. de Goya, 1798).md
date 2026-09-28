@@ -1,4 +1,4 @@
-![[goya_jovellanos.jpg]]
+![[Web/content/Soporte visual/goya_jovellanos.jpg]]
 
 Gaspar Melchor de Jovellanos (FECHAS) fue uno de los intelectuales y políticos más brillantes de la Ilustración española.
 

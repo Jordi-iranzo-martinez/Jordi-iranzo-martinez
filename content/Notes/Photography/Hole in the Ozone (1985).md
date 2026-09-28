@@ -5,4 +5,4 @@ tags:
 
 [[Mario Molina]]
 
-![[Pasted image 20260823193506.png]]
+![[Web/content/Soporte visual/Pasted image 20260823193506.png]]

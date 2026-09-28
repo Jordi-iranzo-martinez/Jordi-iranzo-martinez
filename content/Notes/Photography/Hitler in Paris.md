@@ -3,5 +3,5 @@ tags:
   - Just_One_Humankind
 ---
 
-![[photography_hitler-paris.png]]
+![[Web/content/Soporte visual/photography_hitler-paris.png]]
 

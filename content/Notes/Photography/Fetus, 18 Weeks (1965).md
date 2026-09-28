@@ -5,4 +5,4 @@ tags:
   - Just_One_Life
 ---
 
-![[photography_foetus.png]]
+![[Web/content/Soporte visual/photography_foetus.png]]

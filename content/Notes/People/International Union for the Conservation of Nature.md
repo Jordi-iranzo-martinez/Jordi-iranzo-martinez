@@ -27,9 +27,9 @@ The IUCN Red List of Threatened Species, established in 1964, it is the world’
 
 The [IUCN Red List of Ecosystem]([Red List of Ecosystems](http://www.iucnrle.org/)) (IUCNRLE) categories
 
-![[Pasted image 20250211203615.png]]
+![[Web/content/Soporte visual/Pasted image 20250211203615.png]]
 
-![[Pasted image 20250211204503.png]]
+![[Web/content/Soporte visual/Pasted image 20250211204503.png]]
 
 
 # The work of the IUCN

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[photography_man-on-moon.png]]
+![[Web/content/Soporte visual/photography_man-on-moon.png]]
 
 
 

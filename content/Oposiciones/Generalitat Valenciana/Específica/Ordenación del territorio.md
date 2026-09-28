@@ -1229,7 +1229,7 @@ La Ley de la Huerta de València define y establece las características de los 
 
 Se establece la siguiente relación de sectores y parámetros asociados
 
-![[{54BCC2F9-5D6B-4B51-B8A2-06377DFAB628}.png]]
+![[Web/content/Soporte visual/{54BCC2F9-5D6B-4B51-B8A2-06377DFAB628}.png]]
 
 *La tramitación de los planes que delimiten y ordenen los sectores de recuperación se efectuará de conformidad a lo establecido en el Título III del Libro I de la Ley 5/2014.*
 

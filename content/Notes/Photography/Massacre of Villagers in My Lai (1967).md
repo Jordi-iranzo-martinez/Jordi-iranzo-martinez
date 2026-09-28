@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Pasted image 20260823192326.png]]
+![[Web/content/Soporte visual/Pasted image 20260823192326.png]]
 
 The My Lai Massacre was a horrific war crime committed by U.S. Army soldiers on March 16, 1968 (rather than 1967), during the Vietnam War. It involved the mass murder of between 347 and 504 unarmed Vietnamese civilians—predominantly women, children, and elderly men—in the hamlets of Sơn Mỹ village, Quảng Ngãi province.
 

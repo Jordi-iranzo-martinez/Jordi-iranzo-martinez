@@ -20,13 +20,13 @@ El [Convenio de las Naciones Unidas de Lucha contra la Desertificación](https:/
 
 La desertificación es la pérdida de fertilidad del suelo: la capacidad de proporcionar los nutrientes y las características químicas, físicas y biológicas favorables para los organismos del suelo y el crecimiento de las plantas.
 
-![[world_desertification-vulnerability.png]]
+![[Web/content/Soporte visual/world_desertification-vulnerability.png]]
 
 Es éste el responsable de la producción de aproximadamente el 95% de los alimentos del planeta. Proporciona 18 elementos esenciales (C, H, Si, Ca, B, Fe, Na, Cl, Mo, Mg, P, Cu, O, K, N, S), de los cuales únicamente 3 provienen de la atmósfera a través la fotosíntesis (C, H, O).
 
 La desertificación es por lo tanto un problema ecológico que puede comportar riesgo a la seguridad alimentaria.
 
-![[Descripción esquemática de los caminos de desarrollo en las tierras secas.png]]
+![[Web/content/Soporte visual/Descripción esquemática de los caminos de desarrollo en las tierras secas.png]]
 
 *Descripción esquemática de los caminos de desarrollo en las tierras secas. Fuente: [Evaluación de los Ecosistemas del Milenio](http://www.millenniumassessment.org//documents/document.796.aspx.pdf)
 
@@ -72,7 +72,7 @@ Esto genera erosión (eólica o hídrica), deterioro de propiedades (físicas, q
 
 Las tierras donde se aplica se delimitan de acuerdo a la proporción entre la precipitación anual (P) y la evapotranspiración potencial (ETP), correspondiendo a un cociente de entre 0,05 y 0,65 (excluidas las regiones polares y subpolares).
 
-![[Categorías de tierras secas de acuerdo con la FAO.png]]
+![[Web/content/Soporte visual/Categorías de tierras secas de acuerdo con la FAO.png]]
 
 Comprenden casi la mitad de la superficie del planeta.
 
@@ -81,7 +81,7 @@ Comprenden casi la mitad de la superficie del planeta.
 
 La prioridad para África (Sahel...), porque la vulnerabilidad es mayor.
 
-![[sistema-tierras_secas-sahel.png]]
+![[Web/content/Soporte visual/sistema-tierras_secas-sahel.png]]
 
 *Fuente: [Evaluación de los Ecosistemas del Milenio](http://www.millenniumassessment.org//documents/document.796.aspx.pdf)*
 
@@ -110,7 +110,7 @@ Los [Programas de Acción Nacional](https://www.unccd.int/our-work/country-profi
 
 La ratificación es total
 
-![[unccd_parties.png]]
+![[Web/content/Soporte visual/unccd_parties.png]]
 
 
 Las causas incluyen erosión del suelo, sobreexplotación, cambio climático, incendios forestales, y actividades humanas (pastoreo, agricultura intensiva, deforestación...).

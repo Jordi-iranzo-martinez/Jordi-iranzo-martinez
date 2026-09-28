@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Pasted image 20260820234205.png]]
+![[Web/content/Soporte visual/Pasted image 20260820234205.png]]
 
 
 El 26 de junio de 1541 Francisco de Pizarro fue asesinado en su palacio de Lima por los "almagristas": partidarios de su gran rival Diego de Almagro, que había sido ejecutado.

@@ -1,4 +1,4 @@
-![[Pasted image 20260905140716.png]]
+![[Web/content/Soporte visual/Pasted image 20260905140716.png]]
 
 La respuesta representa un episodio de la Guerra del Pacífico, ocurrido en la mañana del 5 de junio de 1880, en Arica, entonces puerto peruano sitiado por las fuerzas chilenas y defendida por el anciano coronel Francisco Bolognesi.
 

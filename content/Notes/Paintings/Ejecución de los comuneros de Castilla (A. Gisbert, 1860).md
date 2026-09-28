@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Pasted image 20260821000211.png]]
+![[Web/content/Soporte visual/Pasted image 20260821000211.png]]
 
 El cuadro representa el cadalso de Villalar
 

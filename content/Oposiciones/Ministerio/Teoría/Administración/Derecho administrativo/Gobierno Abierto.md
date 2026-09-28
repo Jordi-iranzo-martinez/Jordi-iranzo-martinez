@@ -38,7 +38,7 @@ Aparece en la [siguiente plataforma](https://datos.gob.es/es/)
 así como el [Catálogo de Información Pública](https://datos.gob.es/es/catalogo)
 
 
-![[logotipo-datos-abiertos-espana.png]]
+![[Web/content/Soporte visual/logotipo-datos-abiertos-espana.png]]
 *Logotipo de datos abiertos en España. Fuente: https://datos.gob.es*
 
 
@@ -68,7 +68,7 @@ Consulte los [informes de progreso](https://www.dsca.gob.es/es/agenda-2030/docu
 
 ### Alianza para el Gobierno Abierto (OGP)
 
-![[logo-alianza-gobierno-abierto-ogp.png]]
+![[Web/content/Soporte visual/logo-alianza-gobierno-abierto-ogp.png]]
 
 
 La [Alianza para el Gobierno Abierto](https://www.opengovpartnership.org/ "Se abre en una nueva ventana") (Open Government Partnership, OGP), fundada en septiembre de 2011, es una organización multilateral integrada por reformadores de las Administraciones públicas y de la sociedad civil, cuyo objetivo es lograr que las Administraciones públicas actúen con transparencia, fomenten la colaboración y la participación ciudadana, rindan cuentas y sean inclusivas. Para conseguir este objetivo, la OGP ha establecido un sistema de **planes de acción** a través de los cuales cada uno de sus miembros adquiere compromisos concretos para avanzar en el Gobierno Abierto. La evaluación del cumplimento de estos compromisos la realiza el Mecanismo de Revisión Independiente (MRI) de la Alianza.
@@ -80,7 +80,7 @@ La [Alianza para el Gobierno Abierto](https://www.opengovpartnership.org/ "Se a
 ### Organización para la Cooperación y el Desarrollo Económicos (OCDE)
 
 
-![[logo-oecd.png]]
+![[Web/content/Soporte visual/logo-oecd.png]]
 
 La [OCDE](http://www.oecd.org/ "Se abre en una nueva ventana") trabaja con el funcionariado y representantes de la sociedad civil en la identificación de políticas innovadoras que avancen en el Gobierno Abierto. Su enfoque integral de apertura de las Administraciones públicas abarca áreas muy diversas: coordinación gubernamental, compromiso cívico y acceso a la información, transparencia presupuestaria, integridad y lucha contra la corrupción, uso de las TIC, redes sociales y datos abiertos, y desarrollo local.
 
@@ -93,7 +93,7 @@ En el seno de Comité de Gobernanza Pública de la OCDE, se ha creado un grupo d
 ### EL GOBIERNO ABIERTO EN ESPAÑA:
 
 
-![[logo-gobierno-abierto-espana.png]]
+![[Web/content/Soporte visual/logo-gobierno-abierto-espana.png]]
 
 Cada Administración pública tiene competencia exclusiva en materia de Gobierno Abierto, excepto en lo relativo a la transparencia, para la que la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno establece obligaciones comunes para todas las Administraciones públicas. Así, el **Estado, las Comunidades Autónomas y las Entidades Locales desarrollan sus propias políticas y cuentan con sus propios órganos** competentes en materia de Gobierno Abierto.
 

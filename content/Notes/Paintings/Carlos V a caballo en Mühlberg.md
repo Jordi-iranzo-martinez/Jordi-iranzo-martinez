@@ -3,5 +3,5 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[velazquez_carlos-v.png]]
+![[Web/content/Soporte visual/velazquez_carlos-v.png]]
 

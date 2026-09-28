@@ -39,7 +39,7 @@ Su estructura formal es la siguiente:
 | Parte VI. Estrategias y programas de seguimiento (comunes)                              | Actualización, incluyendo cambios de estructura                                                                                                                                      |
 | Parte VII. Programa de medidas (comunes)                                                |                                                                                                                                                                                      |
 
-![[espana_demarcaciones-marinas.png]]
+![[Web/content/Soporte visual/espana_demarcaciones-marinas.png]]
 
 *Demarcaciones marinas españolas. Fuente: [Ministerio de medio ambiente](https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/estrategias-marinas/eemm_eemmespana.html)*
 
@@ -91,7 +91,7 @@ Su estructura formal es la siguiente:
 
 El proceso de su elaboración es complejo, realizado en general por el Ministerio con ayuda del [Instituto Español de Oceanografía](https://www.ieo.es/) (IEO).:
 
-![[etapas-estrategias-marinas.png]]
+![[Web/content/Soporte visual/etapas-estrategias-marinas.png]]
 
 
 La implementación requiere una coordinación efectiva entre diferentes administraciones y sectores.
@@ -115,7 +115,7 @@ El buen estado ambiental (BEA) se determina de acuerdo a 11 [descriptores cualit
 11. **Contaminación energética** (incluido el ruido submarino): en niveles que no afectan de manera adversa al medio marino
 
 
-![[espana_descriptores-bea.png]]
+![[Web/content/Soporte visual/espana_descriptores-bea.png]]
 
 *Descriptores del buen estado ambiental*
 

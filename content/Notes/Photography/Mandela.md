@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[photography_nelson-mandela.png]]
+![[Web/content/Soporte visual/photography_nelson-mandela.png]]
 
 
 Nelson Mandela fue encarcelado durante 27 años por liderar la oposición armada contra el régimen del apartheid, el sistema de segregación racial legalizado que imponía la minoría blanca en Sudáfrica.

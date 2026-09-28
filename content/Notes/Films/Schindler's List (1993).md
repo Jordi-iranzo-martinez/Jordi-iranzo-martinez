@@ -9,7 +9,7 @@ Oskar Schindler (Liam Neeson), un empresario alemán de gran talento para las re
 
 Al comenzar la Segunda Guerra Mundial, Schindler era un hombre de negocios alemán, un bon vivant seductor, bebedor, jugador y miembro del Partido Nazi. Llegó a Cracovia (Polonia) en 1939 con un único objetivo en mente: hacerse rico aprovechando la guerra. Adquirió una fábrica confiscada a propietarios judíos (la fábrica de enamelware Emalia) y comenzó a emplear a judíos del gueto simplemente porque eran mano de obra extremadamente barata.
 
-![[oskar-schlinder.png]]
+![[Web/content/Soporte visual/oskar-schlinder.png]]
 
 A medida que la brutalidad del régimen nazi aumentaba y tras ser testigo directo del salvaje desalojo del gueto de Cracovia y del sadismo de Amon Göth en el campo de Płaszów, algo cambió radicalmente dentro de él. Schindler dejó de ver a sus trabajadores como números o herramientas de ganancia y empezó a verlos como seres humanos. 
 
@@ -46,5 +46,5 @@ Mientras Schindler intentaba proteger a los judíos empleándolos en su fábrica
 
 Tras el fin de la guerra, fue capturado, extraditado y juzgado en Cracovia por el Tribunal Supremo Nacional de Polonia. Fue declarado culpable de crímenes contra la humanidad y homicidio masivo. Fue ejecutado en la horca el 13 de septiembre de 1946 (a los 37 años), muy cerca del mismo terreno donde estuvo el campo de Płaszów. Sus últimas palabras antes de morir fueron "Heil Hitler".
 
-![[amon-goeth.png]]
+![[Web/content/Soporte visual/amon-goeth.png]]
 

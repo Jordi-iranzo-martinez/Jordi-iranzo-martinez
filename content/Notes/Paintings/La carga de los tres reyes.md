@@ -1,5 +1,5 @@
 
-![[ferrer-dalmau_carta-tres-reyes.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_carta-tres-reyes.png]]
 
 "La carga de los tres reyes," representa la icónica Batalla de Las Navas de Tolosa ([[Batalla de Las Navas de Tolosa (Van Halen, 1212)]])
 

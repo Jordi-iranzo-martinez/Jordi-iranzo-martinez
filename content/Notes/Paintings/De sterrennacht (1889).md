@@ -3,7 +3,7 @@ tags:
   - Just_One_Life
 ---
 
-![[starnight.png]]
+![[Web/content/Soporte visual/starnight.png]]
 
 Más allá del estado mental, el cuadro tiene un contenido simbólico bastante específico que Van Gogh explicó parcialmente en sus cartas:
 

@@ -36,6 +36,6 @@ Las técnicas de repoblación forestal comprenden un conjunto de métodos y proc
 | Maquinaria | - **Ahojado**: excavación de hoyos para plantar individualmente, usando maquinaria como retroexcavadoras convencionales o especializadas tipo "araña" para terrenos accidentados o pendientes pronunciadas.<br><br>- **Preparación del suelo**: maquinaria pesada (bulldozers) para acaballonado (hacer caballones o surcos), subsolado para romper capas compactadas, y formación de banquetas o microcuencas que retienen agua y evitan erosión.<br><br>- **Siembra manual o mecánica**: en zonas más pequeñas o delicadas, la siembra y plantación pueden ser manuales; en grandes superficies, maquinaria especializada para siembra directa o plantación mecanizada puede ser utilizada.<br><br>- **Desbroce y control de vegetación**: uso de motosierras, desbrozadoras o maquinaria especializada para eliminar maleza competidora.<br><br>- **Riegos de apoyo**: especialmente en zonas secas, pueden emplearse sistemas de riego complementarios, desde tuberías con emisores hasta recipientes enterrados que suministran agua gradualmente.                                                                       |
 
 
-![[Tratamientos culturales de las masas arboladas.png]]
+![[Web/content/Soporte visual/Tratamientos culturales de las masas arboladas.png]]
 
 

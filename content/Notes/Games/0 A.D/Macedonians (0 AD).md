@@ -35,7 +35,7 @@ Alexander the Great integrated them as auxiliar troups.
 They were very agiles as they use no heavy armour, but a light tunic and sometimes a cuero helmet or a small shield.
 
 
-![[Pasted image 20260820234851.png]]
+![[Web/content/Soporte visual/Pasted image 20260820234851.png]]
 
 
 Alexandre the Great (on horse on the left) attacking Darius III The Great (on the charriot, tending his arm)
@@ -89,7 +89,7 @@ The upfront files wore metal armours or anatomic short armors, and grebas, and t
 LORIGA?
 
 
-![[Pasted image 20260810185114.png]]
+![[Web/content/Soporte visual/Pasted image 20260810185114.png]]
 
 
 The helmet was from steel and the most common one was the frigian model, protecting also the cheeks. Then was popular the conic style from Celts.

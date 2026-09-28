@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=3n0h8bpJb_Q
 
 El [Mecanismo Tecnológico de la Convención Marco](https://unfccc.int/ttclear/) fue establecido en la COP16 de Cancún (2010) como el principal sistema para impulsar la innovación y transferencia de tecnología en países en desarrollo. Este mecanismo comenzó a funcionar operativamente en 2012, reconociendo que la acción climática efectiva requiere acelerar el desarrollo y despliegue de tecnologías climáticas.
 
-![[Picture1.png]]
+![[Web/content/Soporte visual/Picture1.png]]
 
 
 El mecanismo se estructura en torno a componentes complementarios:

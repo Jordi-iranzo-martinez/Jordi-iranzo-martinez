@@ -13,12 +13,12 @@ El [Plan Estatal Marco de Gestión de Residuos](https://www.miteco.gob.es/conten
 | Otras consideraciones   | - Traslado de residuos<br>- Depósito en vertedero<br>- Suelos contaminados                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Disposiciones del Plan  | - Seguimiento, evaluación y revisión<br>- Financiación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-![[Pasted image 20260620074056.png]]
+![[Web/content/Soporte visual/Pasted image 20260620074056.png]]
 
 
-![[Pasted image 20260426185741.png]]
+![[Web/content/Soporte visual/Pasted image 20260426185741.png]]
 
 
-| ![[Pasted image 20260611153410.png]]                                                                                     | ![[Pasted image 20260611153414.png]]                                                                                                    |
+| ![[Web/content/Soporte visual/Pasted image 20260611153410.png]]                                                                                     | ![[Web/content/Soporte visual/Pasted image 20260611153414.png]]                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | *Producción de residuos municipales. Fuente: [EUROSTAT](https://ec.europa.eu/eurostat/cache/visualisations/keyfigures/)* | *Reciclaje de residuos municipales (en porcentaje). Fuente: [EUROSTAT](https://ec.europa.eu/eurostat/cache/visualisations/keyfigures/)* |

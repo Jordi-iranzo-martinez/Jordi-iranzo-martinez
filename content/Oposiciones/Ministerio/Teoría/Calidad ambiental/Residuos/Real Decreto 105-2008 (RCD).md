@@ -32,5 +32,5 @@ Desarrolla la [[Ley 7-2022 - RAP]]
 
 PONER COMO TABLA
 
-![[residuos_tratamiento-rcd.png]]
+![[Web/content/Soporte visual/residuos_tratamiento-rcd.png]]
 

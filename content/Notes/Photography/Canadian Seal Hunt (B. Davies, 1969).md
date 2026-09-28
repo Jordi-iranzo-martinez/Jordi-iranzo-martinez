@@ -2,7 +2,7 @@
 tags:
   - Just_One_Planet
 ---
-![[photography_canada-seal-hunt.png]]
+![[Web/content/Soporte visual/photography_canada-seal-hunt.png]]
 
 The raw visual records of the commercial slaughter of newborn harp seal pups—known as "whitecoats"—shocked the global public and catalyzed the birth of global animal rights movements.
 

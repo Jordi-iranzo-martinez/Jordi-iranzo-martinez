@@ -1,2 +1,2 @@
 
-![[Pasted image 20260827173628.png]]
+![[Web/content/Soporte visual/Pasted image 20260827173628.png]]

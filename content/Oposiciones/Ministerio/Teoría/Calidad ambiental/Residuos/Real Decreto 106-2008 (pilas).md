@@ -32,9 +32,9 @@ El [Real Decreto 106/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-2387)
 La norma ha sido modificada en varias ocasiones, fundamentalmente por el [Real Decreto 710/2015](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-8340) y el [Real Decreto 27/2021](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-796).
 
 
-![[tipos-pilas.png]]
+![[Web/content/Soporte visual/tipos-pilas.png]]
 
 
-![[tipos-pilas-2.png]]
+![[Web/content/Soporte visual/tipos-pilas-2.png]]
 
 *Tipos de pilas y acumuladores. Fuente: Plan Estatal*

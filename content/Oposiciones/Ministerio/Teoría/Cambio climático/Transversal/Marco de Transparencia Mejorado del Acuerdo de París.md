@@ -15,7 +15,7 @@ El Marco de Transparencia Mejorado (ETF) entró en vigor el 31 de diciembre del 
 Las partes deben suministrar las Tablas Comunes de Reporte (CRTs) y los Formatos Comunes Tabulares (CTFs), como se acordó en la COP 26. 
 
 
-![[Mejorado del Acuerdo de París.png]]
+![[Web/content/Soporte visual/Mejorado del Acuerdo de París.png]]
 
 Los informes bienales de transparencia (BTR) cubren información sobre los Informes Nacionales de Inventario (NIRs), el progreso hacia las Contribuciones Determinadas a Nivel Nacional (NDCs), las políticas y medidas, los impactos y la adaptación, los niveles de transferencia y desarrollo de tecnología y financiera, el apoyo a la capacitación, y las necesidades e capacitación, y las áreas de mejora. 
 
@@ -35,13 +35,13 @@ Las Partes utilizan la ETF Reporting Tools application para preparar sus CTFs (s
 
 
 
-![[Pasted image 20260622095346.png]]
+![[Web/content/Soporte visual/Pasted image 20260622095346.png]]
 
 
 El proceso se realiza de manera más común, a través de los Informes Bienales de Transparencia (BTR), que remplazan a los anteriores Informes Bienales (BR) e Informes Bienales de Actualización (BURs), y que undedrgo un proceso de revisión común técnica de expertos (TER) que supersede los procesos de ICA e IAR, incluyendo una Consideración Facilitativa Multilateral de Progreso, que se centrará en los BTR. 
 
 
-![[unfccc_etf.png]]
+![[Web/content/Soporte visual/unfccc_etf.png]]
 Fuente: [Convención Marco](https://unfccc.int/biennial-transparency-reports)
 
 
@@ -91,7 +91,7 @@ Además, cada Parte participará en un examen facilitador y multilateral de los 
 
 1. **Examen técnico** (TER): 
 
-	![[Pasted image 20260622095458.png]]
+	![[Web/content/Soporte visual/Pasted image 20260622095458.png]]
 
 2. **Diálogo político** (FMCP): facilitador y multilateral, no punitivo. Sirve como diplomacia blanda, de presión internacional. 
 
@@ -100,7 +100,7 @@ El Mecanismo somete a todos los países al mismo mecanismo de revisión, aunque 
 
 
 
-![[Pasted image 20260622095423.png]]
+![[Web/content/Soporte visual/Pasted image 20260622095423.png]]
 
 *Evolución de los sistemas de Medida, Reporte y Verificación (MRV) de la Convención al Marco de Transparencia Mejorado (ETF) del Acuerdo de París. Fuente: [Mastering International Climate Negotiations: All You Need to Know](https://unccelearn.org/course/view.php?id=206&page=overview) (UN CC:e-Learn)*
 

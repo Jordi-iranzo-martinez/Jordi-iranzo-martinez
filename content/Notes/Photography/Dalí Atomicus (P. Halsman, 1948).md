@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[photography_dali-atomicus.png]]
+![[Web/content/Soporte visual/photography_dali-atomicus.png]]
 
 
 [[La persistencia de la memoria]]

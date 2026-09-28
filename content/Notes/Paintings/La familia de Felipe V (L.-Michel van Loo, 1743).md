@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[familia-felipe-v.png]]
+![[Web/content/Soporte visual/familia-felipe-v.png]]
 
 La obra es la plasmación visual definitiva de la llegada de la dinastía de los Borbones al trono español, concebida como una grandiosa pieza de propaganda dinástica y ostentación de riqueza.
 

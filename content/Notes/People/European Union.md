@@ -31,7 +31,7 @@ tags:
 
 The [European Environment Information Network](https://www.eionet.europa.eu/) (EIONET)
 
-![[Pasted image 20260826171411.png]]
+![[Web/content/Soporte visual/Pasted image 20260826171411.png]]
 
 
 

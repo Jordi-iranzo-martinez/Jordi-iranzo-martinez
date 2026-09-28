@@ -19,7 +19,7 @@ Los sectores difusos son una categoría de la Unión Europea para considerar a t
 
 - **Industria no sujeta al comercio de emisiones**: pequeñas; o dedicadas a la alimentación, textil y el cuero, química menor, construcción, muebles, madereras, impresión, de productos metálicos...
 
-![[Pasted image 20260403205741.png]]
+![[Web/content/Soporte visual/Pasted image 20260403205741.png]]
 *Sectores difusos. Fuente: ChatGPT*
 
 Representan un 55-60% de todas las emisiones de la Unión Europea. En la legislación europea se han regulado a través de de disposiciones diferentes: 

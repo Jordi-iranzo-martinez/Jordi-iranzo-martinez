@@ -1,2 +1,2 @@
 
-![[ferrer-dalmau_camino-espanol.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_camino-espanol.png]]

@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Pasted image 20260821002930.png]]
+![[Web/content/Soporte visual/Pasted image 20260821002930.png]]
 
 
 La escena no representa un día exacto en la historia, sino que sintetiza la asfixiante atmósfera de conflicto de la revolución industrial en Cataluña.

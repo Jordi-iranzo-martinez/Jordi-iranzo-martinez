@@ -163,7 +163,7 @@ Los ilergetes fueron los más leales a los cartagineses cuando fueron tratados c
 
 
 
-![[Pasted image 20260810192950.png]]
+![[Web/content/Soporte visual/Pasted image 20260810192950.png]]
 
 
 

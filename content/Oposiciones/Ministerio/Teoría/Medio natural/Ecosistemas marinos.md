@@ -5,7 +5,7 @@ tags:
 
 Los ecosistemas marinos constituyen sistemas complejos y dinámicos que cubren aproximadamente el 71% de la superficie terrestre, desempeñando un papel fundamental en el funcionamiento del planeta.
 
-![[ocean-zonification.png]]
+![[Web/content/Soporte visual/ocean-zonification.png]]
 
 *Zonación del medio marino. Fuente: [Brittannica](https://cdn.britannica.com/67/6567-050-1FC252B4/ocean-Zonation-pelagic-zone-waters-globe-continental.jpg)*
 
@@ -36,7 +36,7 @@ Los ecosistemas incluyen los siguientes:
 
 Además, en el infralitoral y circalitoral se incluyen cuevas y túneles, clasificados a su vez en semioscuros y oscuros, y praderas de fanerógamas marinas. El batial comprende a su vez cuevas, cimas rocosas, y cañones submarinos. Y finalmente estaría el piso abisal (rocoso y sedimentario), y la columna de agua (interfase tierra-aire).
 
-![[Esquema general EUNIS.png]]
+![[Web/content/Soporte visual/Esquema general EUNIS.png]]
 *Esquema general EUNIS. Los hábitats marinos se encuentra divididos en 8 subniveles diferenciados en función de variables abióticas: profundidad y la naturaleza del sustrato, si se encuentran cubiertos por agua de forma permanente o no permanente, la presencia de cobertura de hielo o las características de la columna de agua. Estas variables abióticas son de relevancia para la instalación de diferentes comunidades biológicas.*
 
 
@@ -66,7 +66,7 @@ Además, en el infralitoral y circalitoral se incluyen cuevas y túneles, clasif
 
 
 
-| Cañón de Avilés![[Cañón de Avilés.png]]<br> | Montaña submarina de "El Cachucho" <br>![[Montaña submarina de El Cachucho.png]] |
+| Cañón de Avilés![[Web/content/Soporte visual/Cañón de Avilés.png]]<br> | Montaña submarina de "El Cachucho" <br>![[Web/content/Soporte visual/Montaña submarina de El Cachucho.png]] |
 | ------------------------------------------- | ---------------------------------------------------------------------- |
 
 1. **Embrionaria**: formación de un rift continental, en el que se adelgaza y fractura la corteza (Gran Valle del Rift). 
@@ -82,7 +82,7 @@ Además, en el infralitoral y circalitoral se incluyen cuevas y túneles, clasif
 6. **Sutura**: colisión continental completa, y formación de orógenos (cordilleras de colisión) (Himalaya: colisión India-Asia)
 
 
-![[Pasted image 20260701233933.png]]
+![[Web/content/Soporte visual/Pasted image 20260701233933.png]]
 
 
 
@@ -101,6 +101,6 @@ Además, en el infralitoral y circalitoral se incluyen cuevas y túneles, clasif
 
 |                                                     |                                                                             |
 | --------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![[posidonia-oceanica.png]]                | ![[maerl.png]]                                        |
+| ![[posidonia-oceanica.png]]                | ![[Web/content/Soporte visual/maerl.png]]                                        |
 
 

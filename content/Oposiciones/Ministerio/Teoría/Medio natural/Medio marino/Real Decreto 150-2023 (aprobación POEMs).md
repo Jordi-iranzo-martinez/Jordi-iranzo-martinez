@@ -15,7 +15,7 @@ El [Real Decreto 150/2023](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5704)
  - [Plan de ordenación del espacio marítimo de la demarcación marina levantino-balear](https://www.miteco.gob.es/content/dam/miteco/es/costas/temas/proteccion-medio-marino/poemsud.zip)
  - [Plan de ordenación del espacio marítimo de la demarcación marina canaria](https://www.miteco.gob.es/content/dam/miteco/es/costas/temas/proteccion-medio-marino/poemcan.zip)
 
-![[espana_demarcaciones-marinas.png]]
+![[Web/content/Soporte visual/espana_demarcaciones-marinas.png]]
 
 *Demarcaciones marinas en España. Fuente: ¿?*
 
@@ -115,7 +115,7 @@ La metodología es iterativa en diez etapas básicas:
 ![[espana_proceso-poem.png]]
 
 
-![[Pasted image 20260728133716.png]]
+![[Web/content/Soporte visual/Pasted image 20260728133716.png]]
 
 
 
@@ -127,7 +127,7 @@ Finalmente se incluye una representación cartográfica:
 | ------------------ | -------------------------------------------- |
 | Noratlántica       | ![[espana_zonas-poem-noratlantica2.png]]     |
 | Sudatlántica       | ![[espana_zonas-poem-sudatlantica2.png]]     |
-| Estrecho y Alborán | ![[espana_zonas-poem-estrecho-alboran.png]]  |
+| Estrecho y Alborán | ![[Web/content/Soporte visual/espana_zonas-poem-estrecho-alboran.png]]  |
 | Levantino-balear   | ![[espana_zonas-poem-levantino-balear2.png]] |
 | Canaria            | ![[espana_zonas-poem-canarias.png]]          |
 

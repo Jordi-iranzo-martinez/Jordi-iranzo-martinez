@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[ferrer-dalmau_9.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_9.png]]
 
 
 Desastre de Annual.

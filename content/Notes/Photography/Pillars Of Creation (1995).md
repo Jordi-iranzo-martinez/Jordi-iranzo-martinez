@@ -4,7 +4,7 @@ tags:
 ---
 *"Pillars of Creation" is one of the most famous astronomical images ever taken, captured by the Hubble Space Telescope in 1995.*
 
-![[Pasted image 20260823183544.png]]
+![[Web/content/Soporte visual/Pasted image 20260823183544.png]]
 
 
 It shows towering, finger-like columns of interstellar gas and dust within the Eagle Nebula (Messier 16), located about 6,500–7,000 light-years from Earth in the constellation Serpens. The tallest of the three main pillars stretches roughly 4 light-years — nearly the distance from our Sun to the next nearest star.

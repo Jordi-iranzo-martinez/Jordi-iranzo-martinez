@@ -28,14 +28,14 @@ Ha sido desarrollado en España en base a la paja del arroz (*Oryza sativa*) y a
 
 Italia es un país de desarrollado situado en Europa del Sur, con acceso al centro del Mar Mediterráneo. En total, abarca algo más de 300.000 km2 de territorio, casi completamente de tipo continental: la denominada península italiana, y las islas meridionales de Córcega y Sicilia (figura 1).
 
-![[localizacion-italia.png]]
+![[Web/content/Soporte visual/localizacion-italia.png]]
 
 *Figura 1. Localización y ámbito de Italia en el Mediterráneo
 Fuente: Google Satellite, elaboración propia*
 
 La región es mayoritariamente escarpada y elevada, especialmente en la región centro y norte, aunque también presenta planicies y zonas bajas en el litoral. Su clima es predominantemente mediterráneo, si bien existe también el tipo de alta montaña en el extremo septentrional –Alpes– y el de tipo cálido y seco en el Sur (figura 2).
 
-![[italia-detalle-geografico.png]]
+![[Web/content/Soporte visual/italia-detalle-geografico.png]]
 
 *Figura 2. Italia, detalle geográfico*
 *Fuente: Google Satellite, elaboración propia*
@@ -50,7 +50,7 @@ La principal aplicación del suelo es agrícola (47,1%) y forestal (31,4 %) (CIA
 
 A nivel político interno, el país está dividido en 20 regiones administrativas (figura 3), 110 provincias y un total de 8.101 municipios.
 
-![[lcfeed_regiones-italia.png]]
+![[Web/content/Soporte visual/lcfeed_regiones-italia.png]]
 
 *Figura 3. Regiones de Italia*
 *Fuente: Google Satellite, elaboración propia*
@@ -100,19 +100,19 @@ En relación al arroz y a la naranja y al limón, los datos a nivel general son 
 |      Arroz      | **1.480.765** | 2.148  | 29.329        | 1.512.242 |
 | Naranja + Limón |      367      | 1.793  | **1.899.045** | 1.901.205 |
 
-![[lcfeed_arroz-citricos-italia-2018.png]]
+![[Web/content/Soporte visual/lcfeed_arroz-citricos-italia-2018.png]]
 
 *Figura 4. Representación gráfica de la distribución de la producción de arroz y cítricos según las diferentes zonas de Italia durante el 2018*
 *Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
 Esto implica una distribución opuesta de estos productos agrícolas: con el arroz de manera casi exclusiva la región septentrional (figura 5) y los cítricos en la región de mezzogiorno –sur peninsular e islas– (figura 6):
 
-![[lcfeed_distribvucion-arroz-italia.png]]
+![[Web/content/Soporte visual/lcfeed_distribvucion-arroz-italia.png]]
 
 *Distribución porcentual de la producción de arroz en las zonas de Italia. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
 
-![[lcfeed_distribucion-citricos-italia-pais.png]]
+![[Web/content/Soporte visual/lcfeed_distribucion-citricos-italia-pais.png]]
 
 *Figura 6. Distribución porcentual de la producción de naranja y limón en las diferentes zonas de Italia. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
@@ -139,11 +139,11 @@ Más en detalle, las principales áreas de producción de arroz en Italia son la
 | Friuli-Venezia Giulia | 81              |
 | Abruzzo               | 18,3            |
 
-![[representacion-grafica-arroz-regiones-italia-2018.png]]
+![[Web/content/Soporte visual/representacion-grafica-arroz-regiones-italia-2018.png]]
 
 *Figura 7. Representación gráfica total de arroz en las diferentes regiones productoras de Italia durante el 2018. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
-![[lcfeed_distribucion-arroz-italia-regiones.png]]
+![[Web/content/Soporte visual/lcfeed_distribucion-arroz-italia-regiones.png]]
 
 *Figura 8. Distribución porcentual de la producción de arroz en Italia según regiones productoras durante el 2018. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
@@ -152,7 +152,7 @@ Respecto a la distribución geográfica, aproximadamente la mitad de zonas no so
 
 Además, existen regiones muy escasa productividad en el centro peninsular y en la isla de Sicilia, regiones de producción limitada en el centro-norte peninsular y en la región Calabria, zona de producción moderada en la parte del nororiental y en Cerdeña, y finalmente zonas de muy elevada productividad en la parte norte-occidental (figura 9).
 
-![[tfg_produccion-arro-italia.png]]
+![[Web/content/Soporte visual/tfg_produccion-arro-italia.png]]
 
 *Figura 9. Cartografía de las regiones en Italia según producción de arroz en el 2018*
 *Fuente: elaboración propia*
@@ -175,17 +175,17 @@ Respecto a la naranja y al limón, las únicas regiones relevantes son las de Ca
 | Molise       | 54              |
 | Abruzzo      | 14,2            |
 
-![[representacion-grafica-naranja-limon-regiones-italia-2018.png]]
+![[Web/content/Soporte visual/representacion-grafica-naranja-limon-regiones-italia-2018.png]]
 
 *Figura 10. Representación gráfica total de naranja y limón en las diferentes regiones productoras de Italia durante el 2018. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
-![[lcfeed_distribucion-citricos-italia-regiones.png]]
+![[Web/content/Soporte visual/lcfeed_distribucion-citricos-italia-regiones.png]]
 
 *Figura 11. Distribución porcentual de la producción de naranja y limón en Italia según regiones productoras durante el 2018. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
 Según representación cartográfica, la mayoría de regiones no son productoras, localizadas en las regiones septentrionales, el centro-norte y sur y en la isla de Sicilia. Además, existen zonas de escasa producción en el centro peninsular y dos regiones de elevada producción: Cerdeña y Calabria, en el sur (figura 12):
 
-![[cartografia-regiones-italia-naranja-limon-2018.png]]
+![[Web/content/Soporte visual/cartografia-regiones-italia-naranja-limon-2018.png]]
 
 *Figura 12. Cartografía de las regiones en Italia según producción de naranja y limón en el 2018. Fuente: elaboración propia*
 
@@ -212,17 +212,17 @@ En Cerdeña, estos valores se concentran en las provincias de Oristano y Sud Sar
 | Carbonia-Iglesias | 0        | 0        |
 | Sud Sardegna      | 1.717,3  | 49.438   |
 
-![[produccion-arroz-naranja-limon-provincias-cerdeña-2018.png]]
+![[Web/content/Soporte visual/produccion-arroz-naranja-limon-provincias-cerdeña-2018.png]]
 *Figura 13. Producción de arroz y de naranja y limón en las diferentes provincias de Cerdeña durante el 2018. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
 
 Geográficamente, estas provincias corresponden a la región meridional, destacando especialmente Sud Sardegna (figuras 14 y 15).
 
-![[lcfeed_produccion-arroz-cerdena-2018.png]]
+![[Web/content/Soporte visual/lcfeed_produccion-arroz-cerdena-2018.png]]
 
 *Figura 14. Producción cualitativa de arroz en las diferentes regiones de Cerdeña en el 2018. Fuente: elaboración propia*
 
-![[lcfeed_produccion-citricos-cerdena-2018.png]]
+![[Web/content/Soporte visual/lcfeed_produccion-citricos-cerdena-2018.png]]
 *Figura 15. Producción cualitativa de naranja y limón en las diferentes provincias de Cerdeña en el 2018. Fuente: elaboración propia*
 
 
@@ -230,7 +230,7 @@ Destacan las zonas de San Gavino Monreale y Villacidro y Serramana, correspondie
 
 Además, se encuentra próximo a los frutales de los municipios de San Sperate, Monastir, Decimomannu, Assemini, y Cagliari, así como el núcleo industrial de *Consorzio Industriale Provincie Cagliari* (*Città Metropolitane di Cagliari*) (flecha roja)
 
-![[lcfeed_distribucion-arroz-frutales-cerdena.png]]
+![[Web/content/Soporte visual/lcfeed_distribucion-arroz-frutales-cerdena.png]]
 
 *Figura 16. Distribución de frutales y arrozales e industria en la región seleccionada de Cerdeña. Fuente: Sardegna Geoportale, elaboración propia*
 
@@ -250,13 +250,13 @@ En la región de Calabria, la producción de arroz es moderada y se concentra ex
 | Crotone           | 0       | 17.150          |
 | Vibo Valentia     | 0       | 21.546          |
 
-![[lcfeed_produccion-arroz-citricos-calabria-2018.png]]
+![[Web/content/Soporte visual/lcfeed_produccion-arroz-citricos-calabria-2018.png]]
 
 *Figura 17. Producción de arroz y de naranja y limón en las diferentes provincias de Calabria durante el 2018. Fuente: Istituto Nazionale di Statistica, elaboración propia*
 
 Las áreas elegidas se sitúan en la región nororiental, en concreto los municipios Cassano Allo Ionio y Corigliano Calabro por su producción de arroz, frutales, y zona industrial , así como las áreas municipales circundantes Terranova Da Sibari, Spezzano Albanese, Spezzano Albanese, Villapiana, Cerchiara Di Calabria, y Rossano, entre otras, caracterizadas por la producción de frutales (figura 18).
 
-![[lcfeed_distribucion-arroz-frutales-calabria.png]]
+![[Web/content/Soporte visual/lcfeed_distribucion-arroz-frutales-calabria.png]]
 
 *Figura 18. Distribución de frutales y arrozales e industria en la región seleccionada de Calabria. Fuente: Geoportale della Regione de Calabria, elaboración propia*
 
@@ -265,7 +265,7 @@ Las áreas elegidas se sitúan en la región nororiental, en concreto los munici
 
 En [*Istituto Nazionale di Statistica*](www.istat.it), el número de cabras en Italia no está representado. Food and Agriculture Organization ofrece valores a nivel nacional de 992.200 cabezas, de las cuales 763.800 son hembras (figura 19):
 
-![[cabras-hembra-totales-italia-2018-fao.png]]
+![[Web/content/Soporte visual/cabras-hembra-totales-italia-2018-fao.png]]
 
 *Figura 19. Número total de cabras hembra y cabras totales en Italia durante el 2018. Fuente: Food and Agriculture Organization, elaboración propia*
 

@@ -3,5 +3,5 @@ tags:
   - Just_One_Planet
 ---
 
-![[photography_hippopotamus.png]]
+![[Web/content/Soporte visual/photography_hippopotamus.png]]
 

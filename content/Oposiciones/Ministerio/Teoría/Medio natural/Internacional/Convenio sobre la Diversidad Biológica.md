@@ -10,7 +10,7 @@ El [Convenio sobre la Diversidad Biológica](https://www.cbd.int/doc/legal/cbd-e
 
 - **Ratificación**: universal, con la única excepción de los Estados Unidos de América
 
-	![[Pasted image 20260620054445.png]]
+	![[Web/content/Soporte visual/Pasted image 20260620054445.png]]
 
 - **Objetivos**: 
 	1. **Conservación** de la diversidad biológica
@@ -95,7 +95,7 @@ La evolución:
 - **Entrada en vigor del Protocolo Nagoya-Kuala Lumpur** (2023)
 
 
-![[cbd_evolution.png]]
+![[Web/content/Soporte visual/cbd_evolution.png]]
 
 *Evolución del Convenio de Diversidad Biológica*
 

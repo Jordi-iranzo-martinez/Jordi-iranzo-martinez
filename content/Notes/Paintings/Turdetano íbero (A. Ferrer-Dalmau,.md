@@ -1,5 +1,5 @@
 
-![[ferrer-dalmau_guerrero-turdetano.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_guerrero-turdetano.png]]
 
 
 

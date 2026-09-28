@@ -1,3 +1,3 @@
 
-![[conversion-recaredo.png]]
+![[Web/content/Soporte visual/conversion-recaredo.png]]
 

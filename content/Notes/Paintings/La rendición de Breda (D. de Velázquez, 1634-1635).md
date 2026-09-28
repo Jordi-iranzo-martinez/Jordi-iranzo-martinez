@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[velazquez_rendicion-breda.jpg]]
+![[Web/content/Soporte visual/velazquez_rendicion-breda.jpg]]
 
 
 La pintura conmemora un gran triunfo militar español ocurrido el 5 de junio de 1625 durante la Guerra de los Ochenta Años. Tras un durísimo y agotador asedio que se prolongó durante diez meses, la ciudad fortificada de Breda (en los Países Bajos), considerada una posición estratégica clave e inexpugnable, se rindió finalmente ante los tercios españoles capitaneados por el genial general genovés al servicio de la Corona española, Ambrosio Spínola.
@@ -49,7 +49,7 @@ La "gentileza" de Breda fue la excepción diplomática, pero la Corona española
 https://arrecaballo.es/edad-moderna/el-imperio-espanol/los-tercios-espanoles/
 
 
-![[Pasted image 20260820234809.png]]
+![[Web/content/Soporte visual/Pasted image 20260820234809.png]]
 
 
 

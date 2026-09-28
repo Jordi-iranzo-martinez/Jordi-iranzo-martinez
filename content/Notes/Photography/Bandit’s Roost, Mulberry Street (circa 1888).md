@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Pasted image 20260823184821.png]]
+![[Web/content/Soporte visual/Pasted image 20260823184821.png]]
 
 Taken in the heart of New York City’s notorious Mulberry Bend neighborhood.
 

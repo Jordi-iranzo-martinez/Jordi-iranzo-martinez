@@ -22,30 +22,30 @@ En ellos se sugieren cuatro niveles de protección de los espacios:
 La ordenanza no ha sido actualizada con dicha información, manteniéndose en la actualidad los espacios del 2007 del proyecto europeo.
 
 
-![[albufera_cartografia-contaminacion-luminica-1.png]]
+![[Web/content/Soporte visual/albufera_cartografia-contaminacion-luminica-1.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 1). Fuente: elaboración propia.*
 
 
 
-![[albufera_modificacion-ordenanza-2.png]]
+![[Web/content/Soporte visual/albufera_modificacion-ordenanza-2.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 2). Fuente: elaboración propia.*
 
 
 
-![[albufera_ordenanza-3.png]]
+![[Web/content/Soporte visual/albufera_ordenanza-3.png]]
 
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 3). Fuente: elaboración propia.*
 
 
-![[albufera_ordenanza-4.png]]
+![[Web/content/Soporte visual/albufera_ordenanza-4.png]]
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 4). Fuente: elaboración propia.*
 
 
-![[albufera_ordenanza-5.png]]
+![[Web/content/Soporte visual/albufera_ordenanza-5.png]]
 
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 5). Fuente: elaboración propia.*
 
 
-![[albufera_ordenanza-67.png]]
+![[Web/content/Soporte visual/albufera_ordenanza-67.png]]
 
 *Cartografía propuesta de la Ordenanza de protección de la contaminación lumínica en Parque Natural de l'Albufera dentro del término municipal de Valencia (plantilla 6). Fuente: elaboración propia.*

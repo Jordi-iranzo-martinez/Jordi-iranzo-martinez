@@ -64,6 +64,6 @@ El registro incorpora también datos de actividades adicionales no incluidas en 
 *Instalaciones en el Registro Estatal de Emisiones y Fuentes Contaminantes. Fuente: [Registro Estatal de Emisiones y Fuentes Contaminantes](https://prtr-es.es/informes/gis.aspx)*
 
 
-![[espana_evolucion-contaminacion-industrial.png]]
+![[Web/content/Soporte visual/espana_evolucion-contaminacion-industrial.png]]
 
 *Evolución de la contaminación industrial en España. Fuente: [Registro Estatal de Emisiones y Fuentes Contaminantes](https://prtr-es.es/informes/seriespollutant.aspx)

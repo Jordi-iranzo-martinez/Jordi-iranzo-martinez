@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
   - Just_One_Life
 ---
-![[Pasted image 20260906024052.png]]
+![[Web/content/Soporte visual/Pasted image 20260906024052.png]]
 
 The artwork captures a fleeting, tragic moment inspired by a medieval Danish ballad translated by Burton's friend, Whitley Stokes. It tells the story of Hellelil, a princess, and her bodyguard, the prince Hildebrand.
 

@@ -14,11 +14,11 @@ Esta extraordinaria diversidad se debe a la confluencia de elementos florístico
 - Proximidad a África
 - Separación relativa de Europa
 
-![[Pasted image 20260426155926.png]]
+![[Web/content/Soporte visual/Pasted image 20260426155926.png]]
 
-![[Pasted image 20260426155938.png]]
+![[Web/content/Soporte visual/Pasted image 20260426155938.png]]
 
-![[Pasted image 20260426155946.png]]
+![[Web/content/Soporte visual/Pasted image 20260426155946.png]]
 
 
 

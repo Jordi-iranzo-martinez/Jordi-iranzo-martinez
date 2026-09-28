@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[photopgraphy_al-capone.png]]
+![[Web/content/Soporte visual/photopgraphy_al-capone.png]]
 
 
 Al Capone mugshot was captured by the Miami Police Department in Florida.

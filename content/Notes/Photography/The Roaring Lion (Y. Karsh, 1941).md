@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[photography_wiston-churchill.png]]
+![[Web/content/Soporte visual/photography_wiston-churchill.png]]
 
 
 

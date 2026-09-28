@@ -13,7 +13,7 @@ El cambio climático es la alteración artificial del balance energético del pl
 
 Estos se denominan gases de efecto invernadero (GEI). Existen de diferentes tipos, cada uno con un potencial de calentamiento (GWP por sus siglas en inglés) y un tiempo de vida diferente. El más importante es el vapor de agua.
 
-![[efecto-invernadero-2.png]]
+![[Web/content/Soporte visual/efecto-invernadero-2.png]]
 
 
 De los antropogénicos, los principales incluyen el dióxido de carbono (CO2) y el metano (CH4). Pero los más potentes son los gases fluorados (con flúor: F), todos completamente artificiales.
@@ -85,7 +85,7 @@ Las emisiones se han ampliado.
 En el contexto español, 
 
 
-![[espana_evolucion-emisiones-CO2-eq.png]]
+![[Web/content/Soporte visual/espana_evolucion-emisiones-CO2-eq.png]]
 
 *Evolución de emisiones brutas de gases de efecto invernadero (GEI) en España. Fuente: [Inventario nacional interactivo de emisiones y absorciones a la atmósfera de gases de efecto invernadero](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/interact-inventario-nacional-gei.html)*
 
@@ -98,14 +98,14 @@ En el contexto español,
 
 En la actualidad, la mayor parte es derivada de la quema de combustibles fósiles en el sector energético y de la industria. 
 
-![[world_ghg-emissions.png]]
+![[Web/content/Soporte visual/world_ghg-emissions.png]]
 
 
 *Fuente: [EPA](https://www.epa.gov/ghgemissions/global-greenhouse-gas-overview#Sector)*
 
 El sector energético supone algo más de la tercera parte del total, y la industria casi una cuarte parte. El sector primario algo más de una quinta parte, el transporte un poco menos de un sexto, y los edificios no llegan al .
 
-![[world_ghg-evolution.png]]
+![[Web/content/Soporte visual/world_ghg-evolution.png]]
 
 
 *Fuente: [EPA](https://www.epa.gov/ghgemissions/global-greenhouse-gas-overview#Sector)*

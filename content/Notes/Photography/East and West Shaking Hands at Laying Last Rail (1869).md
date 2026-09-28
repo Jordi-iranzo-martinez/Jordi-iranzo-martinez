@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Pasted image 20260823190508.png]]
+![[Web/content/Soporte visual/Pasted image 20260823190508.png]]
 
 
 It stands as one of the most famous images of the 19th century, documenting the "Golden Spike" ceremony at Promontory Summit, Utah, which marked the official completion of the First Transcontinental Railroad in the United States.

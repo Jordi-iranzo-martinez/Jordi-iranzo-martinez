@@ -3,4 +3,4 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[anival-vencedor.jpg]]
+![[Web/content/Soporte visual/anival-vencedor.jpg]]

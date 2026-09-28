@@ -3,5 +3,5 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Pasted image 20260822175703.png]]
+![[Web/content/Soporte visual/Pasted image 20260822175703.png]]
 

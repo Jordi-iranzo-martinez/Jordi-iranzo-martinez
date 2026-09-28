@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[sorolla_defensa-monteleon.png]]
+![[Web/content/Soporte visual/sorolla_defensa-monteleon.png]]
 
 
 La mayor parte del ejército español tenía órdenes de permanecer acuartelado en el motín de Madrid ([[El dos de mayo en Madrid (F. de Goya, 1814)]]).

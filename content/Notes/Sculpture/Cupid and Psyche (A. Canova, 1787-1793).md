@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Pasted image 20260821011114.png]]
+![[Web/content/Soporte visual/Pasted image 20260821011114.png]]
 
 
 De acuerdo a El asno de oro de Apuleyo, Psique era una princesa mortal tan increíblemente hermosa que Venus, diosa del erotismo y la belleza envió a Cupido para que hiciera que se enamorase del hombre más feo del mundo. Cupido se clavó la fecha por error y se enamoró de ella.

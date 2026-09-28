@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[noche-triste.png]]
+![[Web/content/Soporte visual/noche-triste.png]]
 
 
 La Noche Triste es el nombre con el que se conoce históricamente a la mayor derrota militar de las tropas españolas de Hernán Cortés y sus aliados indígenas a manos del Imperio Mexica (azteca), ocurrida entre la noche del 30 de junio y la madrugada del 1 de julio de 1520 en los canales de la gran ciudad de Tenochtitlan (actual Ciudad de México).

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Pasted image 20260822142156.png]]
+![[Web/content/Soporte visual/Pasted image 20260822142156.png]]
 
 
 La peinture représente le port du Havre, la ville d'enfance de Monet, au point du jour. Au XIXe siècle, Le Havre était l'un des centres industriels et commerciaux maritimes les plus actifs de France. Loin de rechercher un paysage naturel idyllique ou classique, Monet a choisi de capturer la modernité de son époque. À l'arrière-plan, à travers la brume matutine, on distingue nettement les silhouettes des cheminées d'usines, des grues industrielles et des mâts des grands navires à vapeur.

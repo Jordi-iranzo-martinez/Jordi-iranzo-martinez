@@ -1,5 +1,5 @@
 
-![[ferrer-dalmau.png]]
+![[Web/content/Soporte visual/ferrer-dalmau.png]]
 
 La obra retrata al general malagueño Bernardo de Gálvez durante la decisiva Batalla de Pensacola (Florida) en mayo de 1781. En este enfrentamiento, las tropas del rey Carlos III de España derrotaron a los casacas rojas del Imperio británico, un hito clave que desestabilizó el frente sur de la Gran Bretaña y aceleró la victoria final de las Trece Colonias en la Guerra de Independencia de los Estados Unidos
 

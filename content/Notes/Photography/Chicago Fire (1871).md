@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[chicago-fire.png]]
+![[Web/content/Soporte visual/chicago-fire.png]]
 
 The fire burned for two days, ending on October 10, 1871, and ranks as one of the most famous and destructive disasters in American history.
 

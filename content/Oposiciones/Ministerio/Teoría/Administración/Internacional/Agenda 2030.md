@@ -52,7 +52,7 @@ Los objetivos son un total de 17:
 16. **Paz, justicia e instituciones sólidas**: promover sociedades pacíficas y garantizar el acceso a la justicia.
 17. **Alianzas para lograr los objetivos**: fortalecer los medios de implementación y la cooperación mundial.
 
-![[Pasted image 20260610200318.png]]
+![[Web/content/Soporte visual/Pasted image 20260610200318.png]]
 
 #### Inicadores
 

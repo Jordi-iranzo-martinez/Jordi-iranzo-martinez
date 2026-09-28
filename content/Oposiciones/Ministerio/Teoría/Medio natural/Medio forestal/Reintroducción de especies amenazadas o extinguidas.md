@@ -89,7 +89,7 @@ Las [Directrices técnicas para la coordinación de los traslados con fines de c
 
 La planificación incluye los siguientes: 
 
-| Esquema para translocaciones<br><br>![[espana_esquema-traslocaciones.png]] | Ciclo de translocación<br><br>![[espana_ciclo-translocacion.png]]<br> |
+| Esquema para translocaciones<br><br>![[espana_esquema-traslocaciones.png]] | Ciclo de translocación<br><br>![[Web/content/Soporte visual/espana_ciclo-translocacion.png]]<br> |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 
 

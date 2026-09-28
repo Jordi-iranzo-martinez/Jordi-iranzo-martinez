@@ -18,7 +18,7 @@ Los factores determinantes incluyen
 En España se regulan a través de la [Ley de Montes](https://boe.es/buscar/act.php?id=BOE-A-2003-21339) ([capítulo III del título IV](https://boe.es/buscar/act.php?id=BOE-A-2003-21339&p=20241109&tn=1#ciii-3)): 
 
 
-![[Pasted image 20260404174258.png]]
+![[Web/content/Soporte visual/Pasted image 20260404174258.png]]
 
 
 #### Distribución espacial, temporal y causalidad
@@ -39,7 +39,7 @@ Respecto a la causalidad, las principales son
   
 - aturales (5-10%): rayos, altas temperaturas...
 
-![[espana_causalidad-incendios-forestales.png]]
+![[Web/content/Soporte visual/espana_causalidad-incendios-forestales.png]]
 
 *Representación porcentual aproximada de las causas de los incendios forestales en España. Fuente: , elaboración propia.*
 

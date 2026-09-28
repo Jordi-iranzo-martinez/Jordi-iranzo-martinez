@@ -100,7 +100,7 @@ Supuso un 37,4% del total en el 2024.
 | ------ | ------- |
 | 45,1 % | -13,1 % |
 
-![[Pasted image 20260910132122.png]]
+![[Web/content/Soporte visual/Pasted image 20260910132122.png]]
 
 
 ![[espana_evolucion-gei-transporte.png]]
@@ -145,4 +145,4 @@ Supuso un 37,4% del total en el 2024.
 
 
 
-![[Pasted image 20260620090550.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090550.png]]

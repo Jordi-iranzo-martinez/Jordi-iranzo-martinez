@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[ferrer-dalmau_marcha-hernan-cortes-tenochtitlan.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_marcha-hernan-cortes-tenochtitlan.png]]
 
 
 La marcha hacia Tenochtitlán hace referencia a la expedición militar y diplomática que culminó el 8 de noviembre de 1519, cuando el conquistador extremeño Hernán Cortés y sus tropas llegaron a las puertas de la majestuosa capital del Imperio mexica.

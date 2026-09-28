@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Pasted image 20260821004423.png]]
+![[Web/content/Soporte visual/Pasted image 20260821004423.png]]
 
 
 Los Reyes Católicos firmaron el Edicto de Granada el 31 de marzo de 1492, por el cual se obligó a toda la población judía de las Coronas de Castilla y Aragón a convertirse al cristianismo o abandonar la península en un plazo máximo de cuatro meses.

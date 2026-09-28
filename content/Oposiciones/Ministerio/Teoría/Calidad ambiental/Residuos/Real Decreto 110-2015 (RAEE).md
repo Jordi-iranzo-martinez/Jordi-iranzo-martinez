@@ -108,7 +108,7 @@ Instrumentos de control y trazabilidad:
 
 
 
-![[Pasted image 20260426161426.png]]
+![[Web/content/Soporte visual/Pasted image 20260426161426.png]]
 *Esquema de la gestión de los RAEE. Fuente: Plan* 
 
 
@@ -123,7 +123,7 @@ Instrumentos de control y trazabilidad:
 	- **Garantías financieras de AEE domésticos** ([sección 4ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-1762&p=20220401&tn=1#s4-2)): 
 
 
-![[Pasted image 20260426191522.png]]
+![[Web/content/Soporte visual/Pasted image 20260426191522.png]]
 
 
 #### Vehículos al final de su vida útil
@@ -172,9 +172,9 @@ El [Real Decreto 265/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-5868)
 PONER COMO TABLA
 
 
-![[vfu-flujo-residuos.png]]
+![[Web/content/Soporte visual/vfu-flujo-residuos.png]]
 
 
 
-![[modelo-gestion-vfvu.png]]
+![[Web/content/Soporte visual/modelo-gestion-vfvu.png]]
 *Modelo de gestión de vehículos al final de su vida útil. Fuente:* 

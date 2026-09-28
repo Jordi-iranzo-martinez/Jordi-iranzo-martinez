@@ -1,4 +1,4 @@
-![[Pasted image 20260823195545.png]]
+![[Web/content/Soporte visual/Pasted image 20260823195545.png]]
 
 The photograph of the Boulevard du Temple taken by Louis Daguerre in 1838 is universally recognized as the first photograph ever to capture a human being.
 

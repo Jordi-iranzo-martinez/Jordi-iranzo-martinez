@@ -1,1 +1,1 @@
-![[ferrer-dalmau_8666.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_8666.png]]

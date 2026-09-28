@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[photography_burning-monk.png]]
+![[Web/content/Soporte visual/photography_burning-monk.png]]
 
 
 Thích Quảng Đức là một nhà sư Phật giáo Đại thừa người Việt Nam, sinh năm 1897 tại tỉnh Khánh Hòa, miền Trung Việt Nam, với tên khai sinh là Lâm Văn Túc. Ông xuất gia từ khi còn trẻ và dành nhiều thập kỷ tu hành, xây dựng và trùng tu nhiều ngôi chùa trên khắp Việt Nam.

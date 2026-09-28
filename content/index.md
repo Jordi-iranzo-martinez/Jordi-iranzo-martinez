@@ -2,8 +2,7 @@
 title: Consultor ambiental
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
 ---
-![[Jordi-iranzo-martinez/content/Soporte visual/jordi-iranzo-martinez.jpg]]
-
+![[Web/Soporte visual/jordi-iranzo-martinez.jpg]]
 
 ¡Hola!
 

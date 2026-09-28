@@ -25,10 +25,10 @@ Su objetivo es promover la valorización agrícola de estos residuos de manera c
 - **Registro Nacional de Lodos**: adscrito al Ministerio de alimentación, con un informe de síntesis cada cuatro años a la Comisión Europea, precisando cantidades utilizadas, criterios utilizados y dificultades encontradas. El Ministerio podrá suscribir convenios de colaboración con entidades territoriales para seguimiento.
 
 
-![[Pasted image 20260426192337.png]]
+![[Web/content/Soporte visual/Pasted image 20260426192337.png]]
 
 
-![[Pasted image 20260426192344.png]]
+![[Web/content/Soporte visual/Pasted image 20260426192344.png]]
 
 
 Esto se desarrolló a través de la [Orden AAA/1072/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-6414&p=20130614&tn=2):

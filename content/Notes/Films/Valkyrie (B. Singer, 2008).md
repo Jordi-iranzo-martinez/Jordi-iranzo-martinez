@@ -7,7 +7,7 @@ Valkyrie (B. Singer, 2008) narra el complot del 20 de julio de 1944 para asesina
 
 El Coronel Claus von Stauffenberg () 
 
-![[claus-von-stauffenberg.png]]
+![[Web/content/Soporte visual/claus-von-stauffenberg.png]]
 
 
 Perdió el ojo izquierdo, la mano derecha y dos dedos de la mano izquierda en Túnez. 

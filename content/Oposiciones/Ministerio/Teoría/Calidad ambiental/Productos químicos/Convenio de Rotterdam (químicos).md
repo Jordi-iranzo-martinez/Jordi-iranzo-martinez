@@ -8,7 +8,7 @@ El [Convenio de Rotterdam](https://www.pic.int/Portals/5/download.aspx?e=UNEP-FA
 - Plaguicidas
 - Productos químicos peligrosos
 
-![[rotterdam-convention_logo.png]]
+![[Web/content/Soporte visual/rotterdam-convention_logo.png]]
 
 *Logo del Convenio de Rotterdam. Fuente: [página web del Convenio de Rotterdam](https://pic.int/)*
 
@@ -69,7 +69,7 @@ Las principales obligaciones de las Partes:
 
 La ratificación es prácticamente universal, a excepción de Estados Unidos de América y de Angola.
 
-![[rotterdam-convention_parties.png]]
+![[Web/content/Soporte visual/rotterdam-convention_parties.png]]
 
 *Partes del Convenio de Rotterdam. Fuente: [Página web del Convenio de Rotterdam](https://www.pic.int/LosPa%c3%adses/Estadodelasratificaciones/Laspartesysignatarios/tabid/1953/language/es-CO/Default.aspx).**
 
@@ -94,7 +94,7 @@ y creó el [Reglamento 649/2012](https://eur-lex.europa.eu/legal-content/ES/TXT/
 
 
 
-![[Evolución del ozono atmosférico con la altitud.png]]
+![[Web/content/Soporte visual/Evolución del ozono atmosférico con la altitud.png]]
 
 
 ### Procedimiento PIC

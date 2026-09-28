@@ -1,5 +1,5 @@
 
-![[Pasted image 20260827172959.png]]
+![[Web/content/Soporte visual/Pasted image 20260827172959.png]]
 
 
 The painting documents the monumental diplomatic breakthrough signed on September 10, 1721 (August 30 under the old Russian calendar) in the Swedish town of Nystad (modern-day Uusikaupunki, Finland).

@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Pasted image 20260821010847.png]]
+![[Web/content/Soporte visual/Pasted image 20260821010847.png]]
 
 Le tableau illustre la fin tragique et digne du philosophe athénien Socrate en 399 av. J.-C., telle que son disciple Platon l'a racontée dans le dialogue du _Phédon_. Condamné injustement par les tribunaux d'Athènes pour "corruption de la jeunesse" et "impiété", Socrate refusa l'opportunité de fuir en exil que ses amis lui avaient préparée. Il choisit d'accepter sa sentence de mort pour démontrer son respect absolu des lois de la Cité, transformant son exécution en sa dernière grande leçon de philosophie.
 

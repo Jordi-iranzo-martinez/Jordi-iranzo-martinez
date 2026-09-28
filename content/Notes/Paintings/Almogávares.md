@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Pasted image 20260820233654.png]]
+![[Web/content/Soporte visual/Pasted image 20260820233654.png]]
 
 
 

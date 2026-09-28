@@ -31,7 +31,7 @@ La distribución general de medios de extinción comprenden tres periodos, segú
 
 Además, existe el [Programa Nacional de Preparación en Incendios Forestales](https://8cfe.congresoforestal.es/sites/default/files/actas/8CFE-283.pdf)
 
-![[Estructura organizativa del Sistema de Gestión de Emergencias en Incendios Forestales.png]]
+![[Web/content/Soporte visual/Estructura organizativa del Sistema de Gestión de Emergencias en Incendios Forestales.png]]
 
 *Estructura organizativa del Sistema de Gestión de Emergencias en Incendios Forestales. Fuente: [Estructura organizativa del Sistema de Gestión de Emergencias en Incendios Forestales](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/incendios-forestales/Estructura%20organizativa%20SGEIF_CLIF.pdf)*
 

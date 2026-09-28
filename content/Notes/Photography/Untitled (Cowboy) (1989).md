@@ -4,7 +4,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[photography_cowboy.png]]
+![[Web/content/Soporte visual/photography_cowboy.png]]
 
 
 Los dragones de cuera - los antecedentes de los vaqueros

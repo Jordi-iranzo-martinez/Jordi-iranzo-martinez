@@ -14,4 +14,4 @@ A partir de la COP16 (Cancún, 2010), se implementaron informes bienales (BRs) p
 
 Ambos informes se analizan por expertos. La revisión internacional (IAR) incluye un análisis multilateral (MA) del progreso en todos los sectores económicos, y la consulta (ICA) la facilitación de compartir puntos de vista (FSV) un grupo de trabajo, para exponer acciones y destacar necesidades.
 
-![[Pasted image 20260622095518.png]]
+![[Web/content/Soporte visual/Pasted image 20260622095518.png]]

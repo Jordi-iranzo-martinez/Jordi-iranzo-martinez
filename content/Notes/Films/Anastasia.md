@@ -4,7 +4,7 @@ tags:
 ---
 Anastasia (1901-19018) era gran Duquesa la hija del zar (del latín *Caesar*: "emperador") Nicolás II de todas las Rusias, y por lo tanto tenía el título de Gran Duquesa.
 
-![[Pasted image 20260831171752.png]]
+![[Web/content/Soporte visual/Pasted image 20260831171752.png]]
 
 
 Después de la revolución de octubre liderada por Lenin ([[Lenin (G.P. Goldstein, 1920)]]), la familia real es apresada.
@@ -13,10 +13,10 @@ Rasputín
 
 Grigori Rasputín fue uno de los personajes más enigmáticos, influyentes y controvertidos de la historia de Rusia. Lejos de ser el hechicero zombi e inmortal que retrata la película animada, fue un campesino, místico y curandero siberiano que logró infiltrarse en el círculo más íntimo de la familia real.
 
-![[Pasted image 20260831171914.png]]
+![[Web/content/Soporte visual/Pasted image 20260831171914.png]]
 
 
-![[Pasted image 20260831171038.png]]
+![[Web/content/Soporte visual/Pasted image 20260831171038.png]]
 
 *La familia Romanov en 1913. Anastasisa aparece al lado del zar abrazando a su hermano.*
 

@@ -2,4 +2,4 @@
 tags:
   - Memorias_Hispanas
 ---
-![[juana-loca.jpg]]
+![[Web/content/Soporte visual/juana-loca.jpg]]

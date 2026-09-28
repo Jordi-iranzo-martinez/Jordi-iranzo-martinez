@@ -5,7 +5,7 @@ tags:
 
 El [Reglamento 1221/2009](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02009R1221-20230712), relativo a la participación voluntaria de organizaciones en un sistema comunitario de gestión y auditoría medioambientales (EMAS) regula la tercera versión del [Esquema de Gestión Ecológica y Auditoría](https://green-forum.ec.europa.eu/green-business/emas_en?prefLang=es) (EMAS III por sus siglas en inglés) de la Unión Europea ([ver esquema de la norma](https://whimsical.com/reglamento-ce-n-1221-2009-del-parlamento-europeo-y-del-consejo-d-SuenR7p5nqDGFaLVx2aC7o))
 
-![[emas-logo.png]]
+![[Web/content/Soporte visual/emas-logo.png]]
 
 
 | Capítulos                                       | Contenido                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
@@ -97,7 +97,7 @@ El proceso se realiza a través de nueve pasos:
 9. **Registro**: por el Órgano Competente
 
 
-![[emas-steps.png]]
+![[Web/content/Soporte visual/emas-steps.png]]
 *Fuente: [Green Forum](https://green-forum.ec.europa.eu/system/files/2023-07/EMAS%20presentation%20for%20organisations_2022.pdf) (2023)*
 
 

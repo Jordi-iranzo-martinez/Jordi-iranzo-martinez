@@ -1,5 +1,5 @@
 
-![[Pasted image 20260827161609.png]]
+![[Web/content/Soporte visual/Pasted image 20260827161609.png]]
 
 
 La scène recrée les moments de tension vécus au Château de Fontainebleau au début du mois d'avril 1814. Après la désastreuse campagne de Russie et l'entrée des troupes alliées de la Sixième Coalition dans Paris, les propres maréchaux de Napoléon lui tournent le dos et le contraignent à signer sa première abdication inconditionnelle.

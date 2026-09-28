@@ -3,4 +3,4 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[auto-fe-domingo-guzman.jpg]]
+![[Web/content/Soporte visual/auto-fe-domingo-guzman.jpg]]

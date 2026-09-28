@@ -25,6 +25,6 @@ Algunas iniciativas destacadas incluyen las siguientes:
 
 La Agenda está relacionada con la [Acción por el empoderamiento climático](https://unfccc.int/topics/education-and-youth/big-picture/ACE) (ACE por sus siglas en inglés), que trata de facilitar la comprensión del fenómeno por la ciudadanía (individuos, instituciones, organizaciones...) para que se comprometan en procesos de participación pública. Se centran en seis elementos: educación climática, formación, sensibilización pública, participación pública, acceso a la información, y cooperación internacional en estos ámbitos.
 
-![[accion-empoderamiento-climatico.png]]
+![[Web/content/Soporte visual/accion-empoderamiento-climatico.png]]
 
 *Ámbitos de la Acción por el empoderamiento climático (ACE). Fuente: [Convenio Marco de Naciones Unidas contra el Cambio Climático](https://unfccc.int/topics/education-and-youth/big-picture/ACE) (UNFCCC)*

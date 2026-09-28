@@ -10,7 +10,7 @@ Crisis 1929
 
 "Cinderella Man" (2005) trata sobre la historia de James J. Braddock (1905-1974), campeón del boxeo apodado de esa forma, símbolo de la esperanza y resiliencia de la clase obrera estadounidense durante la Gran Depresión estadounidense (1929).
 
-![[cinderella-man.png]]
+![[Web/content/Soporte visual/cinderella-man.png]]
 
 
 Durante su peor racha económica en la Gran Depresión, Braddock sufrió lesiones crónicas en su mano derecha que nunca sanaron bien y se le rompía constantemente en los combates.

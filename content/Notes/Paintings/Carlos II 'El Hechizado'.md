@@ -3,5 +3,5 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[carlos-ii.png]]
+![[Web/content/Soporte visual/carlos-ii.png]]
 

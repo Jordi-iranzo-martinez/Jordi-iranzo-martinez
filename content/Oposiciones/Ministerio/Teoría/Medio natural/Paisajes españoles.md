@@ -66,6 +66,6 @@ Comprenden 30 tipologías básicas:
 30. [**Llanos canarios](https://atlasnacional.ign.es/wane/Tipolog%C3%ADa_de_paisajes#Llanos_canarios)**: llanuras de origen volcánico o sedimentario del archipiélago, dedicadas a agricultura subtropical y asentamientos urbanos.
 
 
-![[espana_conjuntos-paisaje2.png]]
+![[Web/content/Soporte visual/espana_conjuntos-paisaje2.png]]
 
 *Conjuntos paisajísticos de España. Fuente: Atlas Nacional de España*

@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[photography_pankhurst.png]]
+![[Web/content/Soporte visual/photography_pankhurst.png]]
 
 This refers to a famous photograph capturing the arrest of suffragette leader Emmeline Pankhurst outside Buckingham Palace on May 21, 1914.
 

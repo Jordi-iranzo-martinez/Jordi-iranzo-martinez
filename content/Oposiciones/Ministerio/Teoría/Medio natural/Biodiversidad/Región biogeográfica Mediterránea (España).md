@@ -13,16 +13,16 @@ tags:
 
 
 
-![[espana-encina.png]]
+![[Web/content/Soporte visual/espana-encina.png]]
 Distribución de los encinares en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/18EncinaresQuercusilex_tcm30-138155.jpg
 
 
-![[espana-alcornoque.png]]
+![[Web/content/Soporte visual/espana-alcornoque.png]]
 Distribución de alcornocales en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/19AlcornocalesQuercussuber_tcm30-138156.jpg
 
 
 
 
-![[espana_pino-carrasco.png]]
+![[Web/content/Soporte visual/espana_pino-carrasco.png]]
 Distribución de pinos carrascos en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/24PinarPinoCarrascoPinushalepensis_tcm30-138169.jpg
 

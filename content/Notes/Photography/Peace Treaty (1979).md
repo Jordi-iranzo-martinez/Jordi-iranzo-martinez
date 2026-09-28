@@ -4,4 +4,4 @@ tags:
 ---
 
 
-![[Pasted image 20260823193414.png]]
+![[Web/content/Soporte visual/Pasted image 20260823193414.png]]

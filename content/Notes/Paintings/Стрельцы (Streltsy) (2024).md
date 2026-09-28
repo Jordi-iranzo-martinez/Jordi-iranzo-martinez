@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Pasted image 20260827172624.png]]
+![[Web/content/Soporte visual/Pasted image 20260827172624.png]]
 
 The Streltsy (literally meaning _"shooters"_ or _"musketeers"_) were originally established in 1550 by Tsar Ivan the Terrible ([[ivan]])
 

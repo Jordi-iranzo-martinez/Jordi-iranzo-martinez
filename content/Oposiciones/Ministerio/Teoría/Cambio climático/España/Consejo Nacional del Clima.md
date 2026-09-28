@@ -35,6 +35,6 @@ La composición incluye la siguientes:
 	- Apoyo técnico y administrativo a los órganos que integran el Consejo Nacional del Clima
 	- Gestión ordinaria de las funciones que éste tiene encomendadas (de acuerdo con las directrices aprobadas por el Pleno)
 
-![[consejo-nacional-clima_componentes.png]]
+![[Web/content/Soporte visual/consejo-nacional-clima_componentes.png]]
 
 *Vocales del Consejo Nacional del Clima. Fuente: elaboración propia*

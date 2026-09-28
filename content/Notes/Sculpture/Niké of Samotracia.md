@@ -3,5 +3,5 @@ tags:
   - Just_One_Humankind
 ---
 
-![[nike.png]]
+![[Web/content/Soporte visual/nike.png]]
 

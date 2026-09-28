@@ -14,20 +14,20 @@ El sector de la agricultura, ganadería, silvicultura y otros usos del suelo (AF
 ### Contexto global
 
 
-![[Pasted image 20260703171026.png]]
+![[Web/content/Soporte visual/Pasted image 20260703171026.png]]
 
 
-![[Evolución mundial de los usos del suelo (del 10.000 a.C hasta la actualidad).png]]
+![[Web/content/Soporte visual/Evolución mundial de los usos del suelo (del 10.000 a.C hasta la actualidad).png]]
 
 
 De acuerdo al VI Informe del IPCC, representan el 22-25% de las emisiones mundiales.
 
-![[Pasted image 20260429182109.png]]
+![[Web/content/Soporte visual/Pasted image 20260429182109.png]]
 
-![[Pasted image 20260703170854.png]]
+![[Web/content/Soporte visual/Pasted image 20260703170854.png]]
 
 
-![[Pasted image 20260703170908.png]]
+![[Web/content/Soporte visual/Pasted image 20260703170908.png]]
 
 
 
@@ -46,7 +46,7 @@ La Guía Metodológica para los Inventarios Nacionales (2019) del IPCC, los sigu
 
 
 
-![[Pasted image 20260429182144.png]]
+![[Web/content/Soporte visual/Pasted image 20260429182144.png]]
 
 
 #### Impactos y riesgos del cambio climático en estos sectores
@@ -90,28 +90,28 @@ Las combustiones estacionarias asociadas al sector primario son poco importantes
 | Urea                                     | 0,45                             | 0,2                        |
 | Otros usos agrícolas                     | 0,089                            | ≈ 0                        |
 
-| ![[Pasted image 20260620090903.png]] | ![[Pasted image 20260620090906.png]] |
+| ![[Web/content/Soporte visual/Pasted image 20260620090903.png]] | ![[Web/content/Soporte visual/Pasted image 20260620090906.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 El sector del uso del suelo, cambios del uso del suelo, y selvicultura (LULUCF por sus siglas en inglés), se incluye dentro del anterior (AFOLU), tiene la característica de que puede ser tanto emisor como sumidero de gases de efecto invernadero. Es España ha contribuido en los últimos años en liberar decenas de miles de toneladas de dióxido de carbono equivalente de la atmósfera (similar a las emisiones de PONER REFERENCIA)
 
-![[Pasted image 20260620091044.png]]
+![[Web/content/Soporte visual/Pasted image 20260620091044.png]]
 
 Lo constituyen las tierras forestales, los humedales, los pastizales, pero también las tierras de cultivo, y los productos madereros, entre otros. El componente más importante en España como sumidero son los bosques.
 
-![[Pasted image 20260620091055.png]]
+![[Web/content/Soporte visual/Pasted image 20260620091055.png]]
 
 
 En la [Estrategia de Descarbonización a Largo Plazo](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/_layouts/15/Borrador%20Estrategia%20de%20descarbonizaci%C3%B3n%20a%20Largo%20Plazo%202050-16822.PDF) se favorecen los sumideros naturales a través de la creación de superficies arboladas y el fomento de la gestión forestal (que disminuirá el riesgo de incendios forestales), la restauración de humedales, el fomento de sistemas agroforestales y regeneración de dehesas (densificación, regeneración del estrato arbóreo), y mejora del carbono orgánico de suelos agrícolas y forestales.
 
-![[Pasted image 20260620091101.png]]
+![[Web/content/Soporte visual/Pasted image 20260620091101.png]]
 
 Fuente: [Estrategia de Descarbonización a Largo Plazo](https://www.miteco.gob.es/content/dam/miteco/es/energia/files-1/_layouts/15/Borrador%20Estrategia%20de%20descarbonizaci%C3%B3n%20a%20Largo%20Plazo%202050-16822.PDF)
 
 
 por el Reglamento LULUCF
 
-![[Pasted image 20260620091111.png]]
+![[Web/content/Soporte visual/Pasted image 20260620091111.png]]
 
 
 
@@ -120,7 +120,7 @@ por el Reglamento LULUCF
 Aumento del 0,8% respecto a 1990 (año base), y disminución del 0,5 % con relación al 2005 (pico máximo).
 
 
-![[Pasted image 20260620090922.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090922.png]]
 
 
 *Evolución de las emisiones de España en el sector agropecuario. Fuente: # [Inventario nacional interactivo de emisiones y absorciones a la atmósfera de gases de efecto invernadero](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/interact-inventario-nacional-gei.html).*
@@ -128,7 +128,7 @@ Aumento del 0,8% respecto a 1990 (año base), y disminución del 0,5 % con relac
 
 
 
-![[Pasted image 20260620090936.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090936.png]]
 
 
 
@@ -139,11 +139,11 @@ La evolución de las emisiones
 
 
 
-![[Pasted image 20260403204008.png]]
+![[Web/content/Soporte visual/Pasted image 20260403204008.png]]
 
 
 
-![[Pasted image 20260620090950.png]]
+![[Web/content/Soporte visual/Pasted image 20260620090950.png]]
 
 *Evolución de las emisiones (registrada y previstas a 2030) en el sector primario en España. Fuente: Inventario*
 
@@ -152,7 +152,7 @@ Esto se debe principalmente a actividades en la ganadería.
 
 | Cultivos                             | Ganadería                            |
 | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20260620091001.png]] | ![[Pasted image 20260620091005.png]] |
+| ![[Web/content/Soporte visual/Pasted image 20260620091001.png]] | ![[Web/content/Soporte visual/Pasted image 20260620091005.png]] |
 
 
 

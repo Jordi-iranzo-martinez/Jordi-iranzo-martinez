@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Pasted image 20260820233441.png]]
+![[Web/content/Soporte visual/Pasted image 20260820233441.png]]
 
 
 La escena se sitúa en el taller de Velázquez dentro del Real Alcázar de Madrid. Los personajes principales son:

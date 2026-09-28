@@ -50,7 +50,7 @@ El compostaje, la incineración de residuos (incluida la quema abierta y acciden
 | Aguas residuales industriales | 0,78                             | 0,3                        |
 | Otros                         | 0,33                             | 0,1                        |
 | **Total**                     | **17,3**                         | **6,5**                    |
-![[espana_sector-residuos-cambio-climatico.png]]
+![[Web/content/Soporte visual/espana_sector-residuos-cambio-climatico.png]]
 
 
 Ha aumentado un 30% respecto a 1990, y disminuido casi un 6% respecto al 2005.

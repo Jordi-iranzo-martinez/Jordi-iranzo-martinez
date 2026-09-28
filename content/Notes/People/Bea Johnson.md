@@ -96,7 +96,7 @@ She published the book "[Zero Waste Home: The Ultimate Guide to Simplifying Your
 
 
 
-![[Pasted image 20260718203634.png]]
+![[Web/content/Soporte visual/Pasted image 20260718203634.png]]
 
 
 

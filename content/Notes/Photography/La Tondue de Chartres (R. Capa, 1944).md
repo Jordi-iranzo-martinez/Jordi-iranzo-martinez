@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Pasted image 20260821013556.png]]
+![[Web/content/Soporte visual/Pasted image 20260821013556.png]]
 
 
 Le 16 août 1944, la ville de Chartres est enfin libérée de l'occupation nazie par les troupes américaines et les résistants locaux. C'est un moment de joie immense, mais aussi de chaos. Dans les jours qui suivent, une fureur populaire éclate contre ceux qui ont collaboré avec l'ennemi. C'est le début de ce que les historiens appellent l'épuration sauvage.

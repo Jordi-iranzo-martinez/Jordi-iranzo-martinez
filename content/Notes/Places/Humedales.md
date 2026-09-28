@@ -27,7 +27,7 @@ El **[Inventario Español de Zonas Húmedas](https://www.miteco.gob.es/es/biodiv
 ![[Pasted image 20260405100059.png]]
 
 
-![[ramsar_wetland-cities.png]]
+![[Web/content/Soporte visual/ramsar_wetland-cities.png]]
 
 
 - **[Acreditación de Ciudad Humedal](https://www.ramsar.org/es/nuestro-trabajo/actividades/la-acreditacion-de-ciudad-de-humedal)**: para Valencia, desde el 2022 por salvaguardar los humedales urbanos (la única ciudad española)
@@ -94,7 +94,7 @@ Entre los de interior (continentales), los de agua dulce son los más numerosos 
 
 España cuenta además con 76 humedales de importancia internacional, siendo el tercer país del mundo con mayor número de ellos, solo por detrás de Reino Unido (175) y México (144).
 
-![[ramsar_espana.png]]
+![[Web/content/Soporte visual/ramsar_espana.png]]
 
 ## Características
 
@@ -147,7 +147,7 @@ Inventario Español de Zonas Húmedas (IEZH) (2025). Fuente: Ministerio con comp
 
 Por ello también, los resultados de las investigaciones no 
 
-![[Pasted image 20250723092433.png]]
+![[Web/content/Soporte visual/Pasted image 20250723092433.png]]
 Estado de conservación de los humedales Españoles incluidos en el IEZH y en Catálogos Autonómicos (2023). Fuente: informe sobre zonas húmedas 
 
 

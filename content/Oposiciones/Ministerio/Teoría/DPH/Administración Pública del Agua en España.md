@@ -52,7 +52,7 @@ La demarcación hidrográfica, como principal unidad a efectos de la gestión de
 
 Constituyen las unidades de gestión del dominio público hidráulico. La competencia es del Estado si comprende más de una Comunidad Autónoma y autonómica en caso contrario (aparecen todas en el [visor del Instituto Geográfico Nacional](https://visor-hidrografia.ign.es/hidrografia/)).
 
-![[espana_demarcaciones-hidrograficas.png]]
+![[Web/content/Soporte visual/espana_demarcaciones-hidrograficas.png]]
 	*Demarcaciones hidrográficas en España. Fuente:* 
 
 La cuenca hidrográfica como unidad de gestión del recurso hídrico se considera indivisible. 
@@ -77,7 +77,7 @@ Otras incluyen
 - Cuencas internas de Cataluña
 - Guadalete y Barbate, Tinto, Odiel y Piedras, Mediterráneo andaluz, Islas Baleares, y las islas (La Palma, El Hierro, La Gomera, Tenerife, Gran Canaria, Fuerteventura, y Lanzarote)
 
-![[Pasted image 20260619170054.png]]
+![[Web/content/Soporte visual/Pasted image 20260619170054.png]]
 
 
 

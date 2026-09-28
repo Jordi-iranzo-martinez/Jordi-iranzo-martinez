@@ -32,7 +32,7 @@ Las ondas se pueden definir según los parámetros siguientes:
 *Otro parámetro habitual es la frecuencia (f), definida como los ciclos que completa la onda por segundo (medida en herzios), y en fórmula es la inversa del periodo (f=1/T).*
 
 
-![[Pasted image 20260404164324.png]]
+![[Web/content/Soporte visual/Pasted image 20260404164324.png]]
 
 
 #### Propagación hacia la costa
@@ -80,5 +80,5 @@ La corriente de retorno es la más importante. Transporta sedimentos hacia el of
 | De masa                           | - Arrastre de sedimentos finos hacia aguas más profundas (compensando el transporte superficial)                                                   |
 
 
-![[Pasted image 20260620055208.png]]
+![[Web/content/Soporte visual/Pasted image 20260620055208.png]]
 

@@ -4,5 +4,5 @@ tags:
 ---
 
 
-![[photopgraphy_rosa-parks.png]]
+![[Web/content/Soporte visual/photopgraphy_rosa-parks.png]]
 

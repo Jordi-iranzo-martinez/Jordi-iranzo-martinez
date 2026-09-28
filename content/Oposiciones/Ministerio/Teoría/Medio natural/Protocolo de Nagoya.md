@@ -31,6 +31,6 @@ Los beneficios pueden ser monetarios o no monetarios:
 | No monetarios | - Intercambio de resultados de investigación y desarrollo<br>- Programas de investigación y desarrollo científicos (biotecnología...)<br>- Desarrollo de productos<br>- Formación y capacitación<br>- Admisión a instalaciones *ex situ* de recursos genéticos y a bases de datos<br>- Transferencia de conocimientos y tecnología<br>- Capacitación en transferencia de tecnología<br>- Capacitación institucional<br>- Recursos humanos y materiales<br>- Capacitación sobre recursos genéticos                                                         |
 
 
-![[nagoya-protocol.png]]
+![[Web/content/Soporte visual/nagoya-protocol.png]]
 
 *Esquema conceptual del Protocolo de Nagoya. Fuente: [Convenio de Diversidad Biológica](https://www.cbd.int/abs/infokit/powerpoint/revised/all-slides-en.pdf)*

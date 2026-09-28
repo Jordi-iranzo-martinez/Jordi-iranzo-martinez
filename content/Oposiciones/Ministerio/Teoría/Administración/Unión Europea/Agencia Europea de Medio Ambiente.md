@@ -67,6 +67,6 @@ Actualmente está formado por 40 Estados, miembros y cooperadores, tanto de la U
 
 
 
-![[red-eionet.png]]
+![[Web/content/Soporte visual/red-eionet.png]]
 
 *Países de la Red EIONET. Fuente: [Portal EIONET](https://www.eionet.europa.eu/).* *(En realidad Suiza y Turquía no pertenece al Espacio Económico Europea)*

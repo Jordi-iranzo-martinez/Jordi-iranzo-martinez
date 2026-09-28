@@ -86,7 +86,7 @@ Las principales características son las siguientes
 	- Región IV: Golfo de Vizcaya y Aguas Ibéricas (Costa Ibérica)
 	- Región V: Atlántico Abierto
 
-	![[Pasted image 20260701232952.png]]
+	![[Web/content/Soporte visual/Pasted image 20260701232952.png]]
 
 Se basa en un sistema de 5 Anexos: 
 
@@ -109,7 +109,7 @@ La estructura organizativa cuenta con las Partes Contratantes, la Comisión OSPA
 
 - **Secretaría**
 
-![[ospar_structure.png]]
+![[Web/content/Soporte visual/ospar_structure.png]]
 
 *Estructura organizativa del Convenio OSPAR. Fuente: [Página web del Convenio OSPAR](https://www.ospar.org/organisation)*
 

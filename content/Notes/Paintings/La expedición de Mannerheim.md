@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[ferrer-dalmau_2222.png]]
+![[Web/content/Soporte visual/ferrer-dalmau_2222.png]]
 
 La expedición de Mannerheim (1906–1908) fue una extraordinaria travesía de espionaje militar y exploración científica que llevó al coronel finlandés, Carl Gustaf Emil Mannerheim, a recorrer cerca de 14.000 kilómetros a caballo a través de las regiones más remotas de Asia Central y el norte de China bajo el patrocinio de la inteligencia del Imperio ruso ([[Last photo of Tsar Nicholas II (1917)]]).
 

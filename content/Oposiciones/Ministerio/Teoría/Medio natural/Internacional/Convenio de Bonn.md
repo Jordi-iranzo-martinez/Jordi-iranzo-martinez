@@ -56,13 +56,13 @@ Sirven como una **radiografía oficial** de lo que hace cada Estado para cumplir
 	- Reducción de amenazas
 
 
-![[Pasted image 20260619070345.png]]
+![[Web/content/Soporte visual/Pasted image 20260619070345.png]]
 - **[Mecanismo de Revisión](https://www.cms.int/sites/default/files/document/cms_stc53_doc.16_review%20mechanism_s.pdf)** (2017): herramienta jurídica oficial (Resolución 12.9) para asegurar un cumplimiento a largo plazo a través del estudio de la implementación mediante un enfoque de apoyo, facilitador y no punitivo ([más información](https://www.cms.int/es/news/2018011-mecanismo-de-revisi%C3%B3n-de-la-cms-%E2%80%93-el-modelo-de-formato-para-comunicar-posibles)):
 	- Infracciones al Apéndice I
 	- Falta de legislación nacional
 	- Daño a hábitats críticos para asegurar la conservación de la fauna silvestre.
 
-![[Pasted image 20260619070356.png]]
+![[Web/content/Soporte visual/Pasted image 20260619070356.png]]
 
 
 - **Programa de Legislación Nacional** (NLP): herramienta oficial encargada de evaluar si las leyes internas de cada país protegen de verdad a los animales migratorios
@@ -79,7 +79,7 @@ Las especies protegidas aparecen en un sistema de dos apéndices, de acuerdo a s
 - **Apéndice II. Especies con un estado de conservación que podría ser muy beneficiado a través de la cooperación internacional**: acuerdos internacionales de cooperación
 	
 
-| ![[Pasted image 20260619070604.png]] | ![[bonn_structure2.png]]<br> |
+| ![[Pasted image 20260619070604.png]] | ![[Web/content/Soporte visual/bonn_structure2.png]]<br> |
 | ------------------------------------ | ---------------------------------------- |
 *Diagrama organizativo de la Secretaría del Programa de las Naciones Unidas para el Medio Ambienter (PNUMA) y el Convenio de Especies Migratorias (CMS). Fuente: [Página web del Convenio de Bonn](https://www.cms.int/sites/default/files/uploads/CMS_Secretariat_Organigramme_web_final_June2025_sp.pdf)
 
@@ -110,7 +110,7 @@ El [Plan Estratégico de Samarcanda para las especies migratorias](https://www.c
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Declaración de visión                          | Para 2032, las especies migratorias prosperarán y vivirán en hábitats totalmente restaurados y conectados                                                                                                                                                                                                                                                                   |
 | Objetivos y metas 2024-2032                    | 1. **Estado de conservación**<br>2. **Hábitats y áreas de distribución** (conectividad...)<br>3. **Amenazas** (eliminación o reducción)<br>4. **Conocimientos, capacitación, recursos**<br>5. **Gobernanza**: mejores conocimientos científico, información, y trabajo colaborativo<br>6. **Marco internacional**: de la Convención, y otras normativas internacionales<br> |
-| Teoría del cambio                              | ![[Pasted image 20260619070651.png]]                                                                                                                                                                                                                                                                                                                                        |
+| Teoría del cambio                              | ![[Web/content/Soporte visual/Pasted image 20260619070651.png]]                                                                                                                                                                                                                                                                                                                                        |
 | Relación con el Marco Mundial de Biodiversidad | En general con las metas **4**, **1**, 2, 3, 10, 5, 7, 8, 6, **21**, 20, 19, 5, **14**, 16, y 12 (en negrita las principales)                                                                                                                                                                                                                                               |
 
 | Objetivos                                                                                                                         | Metas (y fecha)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -122,14 +122,14 @@ El [Plan Estratégico de Samarcanda para las especies migratorias](https://www.c
 | 5. Gobernanza: mejores conocimientos científico, información, y trabajo colaborativo<br>                                          | - 5.1. Mecanismos nacionales de aplicación (2029)<br>- 5.2. Informes nacionales sobre las medidas (2029)<br>- 5.3. Mejores conocimientos científicos disponibles para el asesoramiento basado en pruebas y la toma de decisiones<br>- 5.4. Inclusión de las disposiciones en procesos de planificación y en políticas nacionales (2032)<br>- 5.5. Colaboración con otros gobiernos (2029)                                                                                                                                                                                                                                                                                                                                            |
 | 6. Marco internacional: de la Convención, y otras normativas internacionales                                                      | - 6.1. Aumento de la concienciación ambiental (2026)<br>- 6.2. Aumento de la concienciación sobre el Convenio (2026)<br>- 6.3. Aumento de las Partes de 133 a 160 (2032)<br>- 6.4. Inclusión de las disposiciones en otros instrumentos, políticas, iniciativas internacionales, y prioridades estratégicas (2032)                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-![[Pasted image 20260619070706.png]]
+![[Web/content/Soporte visual/Pasted image 20260619070706.png]]
 
 
 #### Acuerdos regionales
 
  Los acuerdos regionales son tratados independientes (2) jurídicamente vinculantes de cooperación internacional en un determinado territorio, para lograr el buen estado ecológico de las especies del Apéndice II de un determinado territorio.
 
-![[Pasted image 20260619070719.png]]
+![[Web/content/Soporte visual/Pasted image 20260619070719.png]]
 
 *(2) Los Estados pueden adherirse a ellos incluso si no son Partes del Convenio, como sucede por ejemplo con Rusia y China respecto de la grulla siberiana.* 
 

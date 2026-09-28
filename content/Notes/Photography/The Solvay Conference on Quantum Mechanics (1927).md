@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
   - Just_One_Planet
 ---
-![[Pasted image 20260823195320.png]]
+![[Web/content/Soporte visual/Pasted image 20260823195320.png]]
 
 
 The picture was taken outside the Institute of Physiology in Brussels, Belgium

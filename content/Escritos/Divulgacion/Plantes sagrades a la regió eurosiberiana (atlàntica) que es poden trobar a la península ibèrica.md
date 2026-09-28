@@ -26,7 +26,7 @@ Com a curiositat, el roure apareix també famosa cançò patriònica militar *He
 *Heart of oak are our ships, jolly tars are our men*
 (De cor de roure són els nostres vaixells, mariners alegres són els nostres homes)
 
-![[trafalgar.jpg]]
+![[Web/content/Soporte visual/trafalgar.jpg]]
 
 
 El roure era sagrat per Thor com a símbol de força, resistència i protecció - les mateixes qualitats que atribuïen al déu del tron. Els pobles germànics celebraven rituals sota roures dedicats a Thor, i aquesta tradició es va mantindre fins que el árbol fue cortado en base a creencias cristianas
@@ -56,7 +56,7 @@ Balder, hijo de Odín y Frigg, el un dios de la luz, la belleza, la paz y la sab
 
 Los dioses, al ver que Balder era invulnerable, comenzaron a jugar lanzándole piedras, lanzas y flechas, que rebotaban sin hacerle daño. Pero entonces intervieno Loki, el dios del engaño. Sabedor del detalle del jurgamento, hizo una flecha de muérdago y se la dio a Höðr (Hodr), el hermano ciego de Balder, diciéndole:  “Tú también deberías participar en el juego. Yo te guiaré la mano”. Entonces Höðr lanzó la flecha, y Balder cayó muerto. Su murte marca el inicio del Ragnarök: la destrucción del mundo de los dioses.
 
-![[eckersberg_baldr-dead.jpg]]
+![[Web/content/Soporte visual/eckersberg_baldr-dead.jpg]]
 *La mort de Balder* (1817), de Christoffer Wilhelm Eckersberg. Font: [Royal Danish Academy of Fine Arts](https://en.wikipedia.org/wiki/Royal_Danish_Academy_of_Fine_Arts), Copenhagen
 
 # El Fresno
@@ -80,7 +80,7 @@ Es troben principalment al nord i centre de la península ibèrica, en zones de 
 
 El fresno comú es concentra a Galícia, Astúries, Cantàbria, País Basc i Pirineus. El fresno de fulla estreta s'estén més cap al sud, arribant fins a Andalusia en zones montanyoses i riberenques.
 
-![[Pasted image 20250719102909.png]]
+![[Web/content/Soporte visual/Pasted image 20250719102909.png]]
 
 
 
@@ -161,7 +161,7 @@ Cristians, celtes,
 
 Com a curiositat, és la planta en la que els argentins fan el "mate" i per la qualitat de la seva fusta va ser usada per a construir el Palau Reial de Madrid a l'època de Felip V -el primer borbó- (segle XVIII)____. (O LAS PUERTAS SOLO?)
 
-![[palacio-real-madrid.jpg]]
+![[Web/content/Soporte visual/palacio-real-madrid.jpg]]
 
 
 

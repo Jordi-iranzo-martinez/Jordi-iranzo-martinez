@@ -13,10 +13,10 @@ tags:
 
 
 
-![[espana-frondosas-alpinas.png]]
+![[Web/content/Soporte visual/espana-frondosas-alpinas.png]]
 *Bosque mixto de frondosas en la región alpina. Fuente:* 
 
-![[espana_pino-negro.png]]
+![[Web/content/Soporte visual/espana_pino-negro.png]]
 
 Distribución del pino negro en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/22PinarPinoNegroPinusuncinata_tcm30-138167.jpg
 
@@ -24,7 +24,7 @@ Distribución del pino negro en España. Fuente: https://www.miteco.gob.es/conte
 
 
 
-![[espana_abetales.png]]
+![[Web/content/Soporte visual/espana_abetales.png]]
 
 Distribución de abetales en la región alpina. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/2AbetalesAA_tcm30-138160.jpg
 
