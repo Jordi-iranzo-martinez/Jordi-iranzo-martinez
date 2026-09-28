@@ -14,7 +14,7 @@ La obra se divide tradicionalmente en dos actos: La Vespra (14 de agosto) y La G
 
 La celebración es gratuita. Los días 11, 12 y 13 de agosto se realizan los ensayos generales, que sí requieren el pago de una entrada.
 
-Desde la cúpula de la iglesia (que simula el cielo) descienden aparatos de madera decorados de forma espectacular que bajan y suben a los ángeles. Los más famosos son "*[[La Magrana]]*" (una granada que se abre) y "*El Araceli*".
+Desde la cúpula de la iglesia (que simula el cielo) descienden aparatos de madera decorados de forma espectacular que bajan y suben a los ángeles. Los más famosos son "*[[Pruebas de edición/content/Div/La magrana]]*" (una granada que se abre) y "*El Araceli*".
 
 Todos los cantantes son hombres de la localidad, incluidos los niños de escolanía con voz de tiple que interpretan los papeles de la Virgen María y de los ángeles.
 

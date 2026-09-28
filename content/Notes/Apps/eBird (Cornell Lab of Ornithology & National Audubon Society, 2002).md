@@ -5,7 +5,6 @@ tags:
 [eBird](https://ebird.org) (Cornell Lab of Ornithology & National Audubon Society, 2002) is the world's largest citizen science project dedicated to ornithology and birdwatching. It operates as a massive global database where anyone—from backyard birdwatchers to professional ornithologists—can log the birds they see.
 
 
-
 In the context of wildlife conservation, eBird has completely transformed how scientists track and protect bird species.
 
 - **Real-Time Checklists:** Using a free mobile app, users log the bird species they observe or hear in the field. The app automatically tracks the exact location (via GPS), the time spent, and the number of individual birds.
