@@ -13,7 +13,7 @@ Crisis 1929
 ![[Web/content/Soporte visual/cinderella-man.png]]
 
 
-Durante su peor racha económica en la Gran Depresión, Braddock sufrió lesiones crónicas en su mano derecha que nunca sanaron bien y se le rompía constantemente en los combates.
+Duranraddock sufrió lesiones crónicas en su mano derecha que nunca sanaron bien y se le rompía constantemente en los combates.
 
 Trabajó como estibador en los muelles de Nueva York, cargando la mercancía en su brazo izquierdo, fortaleciéndolo, y dándole un jab y gancho demoledor.
 
