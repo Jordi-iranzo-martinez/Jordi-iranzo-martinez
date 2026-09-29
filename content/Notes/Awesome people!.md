@@ -1,0 +1,25 @@
+---
+tags:
+  - Just_One_Planet
+---
+
+- [[Ecosia]]
+- [[Malala Yousafzai]]
+- [[Selina Juul]]
+- [[The Ocean Clean Up]]
+- [[Greta Thumberg]]
+- [[European Union]]
+- [[Bea Johnson]]
+- [[Bernice Dapaah]]
+- [[Birdlife International]]
+- [[Cateura Recycled Orchestra]]
+- [[Masanobu Fukuoka]]
+- [[Yacouba Sawadogo]]
+- [[Ryan Hreljac]]
+- [[Wangari Maathai]]
+- [[William Kamkwamba]]
+- [[Michael E. Reynolds & the Earthships]]
+- [[International Union for the Conservation of Nature]]
+- [[Intergovernmental Panel on Climate Change (IPCC)]]
+- [[TED]]
+- [[United Nations]]
