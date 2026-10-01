@@ -1,5 +1,5 @@
 
-Formación complementaria acreditada mediante certificado: **162 certificaciones** de organismos como Naciones Unidas (UNITAR, PNUMA), la Unión Europea, universidades (Coursera) y administraciones públicas, agrupadas por área temática.
+Formación complementaria acreditada mediante certificado: **164 certificaciones** de organismos como Naciones Unidas (UNITAR, PNUMA), la Unión Europea, universidades (Coursera) y administraciones públicas, agrupadas por área temática.
 
 ## Cambio climático
 
@@ -183,3 +183,5 @@ Formación complementaria acreditada mediante certificado: **162 certificaciones
 - **[Resolución de conflictos](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ALevA5vFZzxRUaG6IKaxKTg/Productividad?dl=0&preview=Resoluci%C3%B3n+de+Conflictos.pdf&rlkey=nuyjqnxp5i18zb0haqr5synme)** — Ajuntament de València
 - **[Transformación digital para el empleo](https://www.dropbox.com/scl/fo/0m7bpreh315tgx6utrqm9/ALevA5vFZzxRUaG6IKaxKTg/Productividad?dl=0&preview=Transformaci%C3%B3n+digital+para+el+empleo.pdf&rlkey=nuyjqnxp5i18zb0haqr5synme)** — Google, Escuela de Organización Industrial
 - **[European Citizenship - Development, Scope and Challenges](https://www.coursera.org/account/accomplishments/verify/2DFDGRN2CD6V)** — University of Copenhagen, University of Warsaw, University of Milan, University of Heidelberg, Sorbonne University, Charles University and 4EU+Alliance
+- [**Prevención de riegos laborales en teletrabajo**](https://www.dropbox.com/home/Certificates/Productividad?quickview=id%3AFIhddM_Wao4AAAAAAAAPZQ#) — VAERSA
+- [**Prevención de riegos laborales : el golpe de calor](https://www.dropbox.com/home/Certificates/Productividad?quickview=id%3AFIhddM_Wao4AAAAAAAAPZA)** — VAERSA
