@@ -3,6 +3,7 @@ tags:
   - Consulta_Natura
 title: Low Carbon Feed'
 subtitle: El valor de los residuos agrícolas
+description: "Residuos agrícolas que dejan de serlo porque tienen un nuevo uso, un nuevo valor como alimento animal, que favorece la reducción de la contaminación y contribuye a mitigar el cambio climático. Un proyecto innovador, de sello valenciano, que aprovecha lo que antes simplemente se quemaba: la paja del arroz y los restos de poda de cítricos. Jordi Iranzo nos cuenta los detalles de Life Low Carbon Feed."
 ---
 *Publicado originalmente en [Revista Espores](https://espores.org/es/es-agricultura/low-carbon-feed-el-valor-de-los-residuos-agricolas/)*, del Jardín Botánico de la Universidad de Valencia.
 
