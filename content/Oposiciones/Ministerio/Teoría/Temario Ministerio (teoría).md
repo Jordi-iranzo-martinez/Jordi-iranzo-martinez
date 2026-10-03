@@ -210,7 +210,7 @@ r:
 - [[Ley 43-2003 (Montes)]]
 	- [[Normativa nacional en materia de conservación de recursos genéticos forestales]]
 
-- [[Incendios forestales]]
+- [[Web/content/Oposiciones/Ministerio/Teoría/Medio natural/Incendios forestales]]
 	- [[Estadística General de Incendios Forestales]]
 	- [[Dispositivo de apoyo de incendios forestales del Ministerio]]
 

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823183704.png]]
+![[Web/content/Soporte visual/Pasted image 20260823183704.png|354x535]]
 
 From 1967 to 1970, the eastern region of Nigeria broke away to form the short-lived Republic of Biafra. In response, the Nigerian government established a total land and sea blockade around the region. Cut off from the outside world, Biafra suffered an apocalyptic famine. Over one million civilians—predominantly children—died, largely from starvation and severe protein deficiency known as kwashiorkor.
 

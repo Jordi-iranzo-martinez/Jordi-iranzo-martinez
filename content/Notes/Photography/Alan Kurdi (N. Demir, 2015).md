@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/Pasted image 20260823194630.png]]
+![[Web/content/Soporte visual/Pasted image 20260823194630.png|629x488]]
 
 
 Alan Kurdi’s family was fleeing the brutal violence of the civil war in Syria, specifically from the city of Kobane. Seeking safety in Europe, the family boarded a small, overcrowded inflatable rubber boat intended to travel from Turkey to the Greek island of Kos, which was a short distance away across the Aegean Sea.

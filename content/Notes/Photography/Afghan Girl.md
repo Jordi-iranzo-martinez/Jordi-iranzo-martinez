@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Web/content/Soporte visual/photography_afgan-girl.png]]
+![[Web/content/Soporte visual/photography_afgan-girl.png|326x513]]
 
 The photograph was taken during the height of the Soviet-Afghan War. McCurry was touring makeshift schools along the border when he entered a tent functioning as a primary school classroom. There, he noticed a girl of roughly 12 years old with an incredibly intense, shell-shocked yet fierce gaze.
 

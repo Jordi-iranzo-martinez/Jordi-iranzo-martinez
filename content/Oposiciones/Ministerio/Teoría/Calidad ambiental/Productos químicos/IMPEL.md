@@ -30,3 +30,5 @@ En la actualidad, comprende 58 autoridades ambientales de 37 países, de la Uni�
 La participación española está coordinada por el Ministerio de medio ambiente.
 
 [[Inspección ambiental]]
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pkrlhcn_eR4?si=6pFOAcAVeIMZUq0-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

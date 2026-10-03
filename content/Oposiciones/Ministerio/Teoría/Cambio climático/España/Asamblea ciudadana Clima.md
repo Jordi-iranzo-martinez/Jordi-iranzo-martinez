@@ -19,3 +19,7 @@ La [Asamblea Ciudadana para el Clima](https://asambleaciudadanadelcambioclimatic
 - **Método de trabajo**
 	- **5 sesiones** (preferiblemente sábados y domingos)
 	- **3 Fases**: aprendizaje y conocimiento, discusión y debate, informe de recomendaciones.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rpnPiWHT5Gs?si=PnmO5EfsttMPQ-XS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

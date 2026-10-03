@@ -4,7 +4,7 @@ tags:
   - Just_One_Planet
 ---
 
-![[Web/content/Soporte visual/Pasted image 20260823190725.png]]
+![[Web/content/Soporte visual/Pasted image 20260823190725.png|575x442]]
 
 It captures an Oglala Sioux warrior and sub-chief named Red Hawk on horseback in the heart of South Dakota's Badlands.
 

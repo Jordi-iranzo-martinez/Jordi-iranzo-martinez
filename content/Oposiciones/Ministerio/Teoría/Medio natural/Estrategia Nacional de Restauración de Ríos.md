@@ -85,3 +85,7 @@ Uno de sus principales objetivos es restaurar y reconectar estructural y funcion
 
 
 Cuenta con un marco de inversión previsto de 2.500 millones de euros para el periodo 2022-2030 en lo referente a las actuaciones de la Administración General del Estado, correspondiendo también aportaciones a las Comunidades Autónomas y los Ayuntamientos. [Miteco](https://www.miteco.gob.es/content/dam/miteco/images/es/borrador-enrr_tcm30-547863.pdf)
+
+
+Vior de proyectos : https://grupotragsa.maps.arcgis.com/apps/dashboards/b658c0f183264357ad0bff7cea4b1ae3#
+
