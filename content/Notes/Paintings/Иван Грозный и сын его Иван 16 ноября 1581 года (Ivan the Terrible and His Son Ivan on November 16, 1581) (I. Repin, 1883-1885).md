@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260831204847.png]]
+![[Web/content/Visual/Pasted image 20260831204847.png]]
 
 
 The painting depicts the immediate aftermath of a fatal argument between Tsar Ivan IV (Ivan the Terrible) and his eldest son and heir, Tsarevich Ivan Ivanovich. Blinded by a sudden fit of rage, the Tsar struck his son in the temple with his heavy, iron-tipped staff.

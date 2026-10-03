@@ -68,7 +68,7 @@ Su composición es la siguiente:
 	- (1) **Entidades de custodia del territorio**
 
 
-![[Web/content/Soporte visual/consejo-estatal-patrimonio-natural-biodiversidad-vocales.png]]
+![[Web/content/Visual/consejo-estatal-patrimonio-natural-biodiversidad-vocales.png]]
 *Vocales del Consejo Estatal para el Patrimonio Natural y la Biodiversidad. Fuente: elaboración propia.*
 
 

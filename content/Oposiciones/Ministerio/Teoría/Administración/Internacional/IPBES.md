@@ -18,7 +18,7 @@ La estructura organizativa incluye:
 - **Observadores**
 - **Secretaría**
 
-| ![[Estructura IPBES.png]] | ![[Web/content/Soporte visual/ipbes_structure-2.png]] |
+| ![[Estructura IPBES.png]] | ![[Web/content/Visual/ipbes_structure-2.png]] |
 | ------------------------- | ------------------------------------ |
 
 Los programas de trabajo incluyen lo sigiente:

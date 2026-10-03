@@ -4,4 +4,4 @@ tags:
   - Just_One_Planet
 ---
 
-![[Web/content/Soporte visual/Pasted image 20260824002548.png]]
+![[Web/content/Visual/Pasted image 20260824002548.png]]

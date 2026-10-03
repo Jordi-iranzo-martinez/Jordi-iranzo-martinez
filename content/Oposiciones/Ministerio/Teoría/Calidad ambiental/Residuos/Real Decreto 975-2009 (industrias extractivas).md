@@ -48,6 +48,6 @@ Plan de restauración
 
 Clasificación y caracterización de los residuos de las industrias extractivas
 
-![[Web/content/Soporte visual/Pasted image 20260428174600.png]]
+![[Web/content/Visual/Pasted image 20260428174600.png]]
 
 

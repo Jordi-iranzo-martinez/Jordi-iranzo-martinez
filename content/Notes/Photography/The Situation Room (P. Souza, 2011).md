@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823184553.png]]
+![[Web/content/Visual/Pasted image 20260823184553.png]]
 
 It stands as one of the most defining images of 21st-century geopolitics, capturing President Barack Obama and his national security team anxiously monitoring the live progress of Operation Neptune Spear—the high-stakes U.S. military raid in Abbottabad, Pakistan, that resulted in the death of al-Qaeda leader Osama bin Laden.
 

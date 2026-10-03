@@ -50,9 +50,9 @@ Las categorías:
 - **Extremadamente desfavorable** (morado): emergencia grave de la salud pública general
 
 
-![[Web/content/Soporte visual/Pasted image 20260814224608.png]]
+![[Web/content/Visual/Pasted image 20260814224608.png]]
 
-![[Web/content/Soporte visual/Pasted image 20260730220147.png]]
+![[Web/content/Visual/Pasted image 20260730220147.png]]
 
 *Los valores de todos los contaminantes de la tabla están expresados en μg/m3
 
@@ -67,7 +67,7 @@ Las concentraciones que superen el valor del máximo mostrado en la categoría �
 | Muy desfavorable            | Reducción de actividades al aire libre (todas) (posponerlas o realizarlas en interiores)                                                         | Reducción de actividades al aire libre (todas) (posponerlas o realizarlas en interiores).<br><br>Seguimiento del plan de tratamiento médico                                                                                                                                   |
 | Extremadamente desfavorable | Reducción de actividades al aire libre (todas) (posponerlas o realizarlas en interiores)<br><br>Protección adecuada para trabajos al aire libre  | Evitar la estancia prolongada.<br><br>Seguimiento del plan de tratamiento médico<br><br>Servicio de urgencias si la salud empeora                                                                                                                                             |
 
-![[Web/content/Soporte visual/inca_leyenda.png]]
+![[Web/content/Visual/inca_leyenda.png]]
 
 
 El índice de calidad del aire accesible a través de la página web del Ministerio de Transición Ecológica y Reto Demográfico utiliza datos provisionales y no validados y muestra por defecto la situación de la última hora disponible. Los usuarios pueden seleccionar para su visualización cualquier hora específica del histórico almacenado en el visor (con un mínimo de 48 horas).
@@ -76,6 +76,6 @@ El índice se calcula para todas las estaciones de medida con datos de al menos 
 
 Los datos calculados por modelización irán seguidos de un asterisco.
 
-![[Web/content/Soporte visual/espana_indice-nacional-calidad-aire.png]]
+![[Web/content/Visual/espana_indice-nacional-calidad-aire.png]]
 
 

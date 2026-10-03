@@ -15,7 +15,7 @@ El [Marco de Acción Prioritaria para la financiación de la Red Natura 2000 en
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Introducción                                            | - General<br>- Estructura actual<br>- Introducción                                                                                                      |
 | Resumen de las necesidades de financiación prioritarias | - Horizontales y costes administrativos<br>- Necesarias en lugares Natura 2000<br>- Específicas de especies no relacionadas con ecosistemas específicos |
-| Situación actual                                        | - Estadísticas de la red Natura 2000 de España<br><br>![[Web/content/Soporte visual/Pasted image 20260619184456.png]]<br><br>- Mapa de la red Natura 2000 en España                |
+| Situación actual                                        | - Estadísticas de la red Natura 2000 de España<br><br>![[Web/content/Visual/Pasted image 20260619184456.png]]<br><br>- Mapa de la red Natura 2000 en España                |
 | Anexos                                                  |                                                                                                                                                         |
 
 | Categoría                                                      | Medidas                                                                                                                                |
@@ -27,10 +27,10 @@ El [Marco de Acción Prioritaria para la financiación de la Red Natura 2000 en
 
 El coste estimado del mantenimiento de la Red Natura 2000 en España es de unos 1400 millones de euros al año: 1.385 en la parte terrestre y 23 en el medio marino, incluyendo las siguientes medidas:
 
-![[Web/content/Soporte visual/Pasted image 20260619184510.png]]
+![[Web/content/Visual/Pasted image 20260619184510.png]]
 
 
-![[Web/content/Soporte visual/Pasted image 20260619184439.png]]
+![[Web/content/Visual/Pasted image 20260619184439.png]]
 *Coste relativo a las medidas del Marco de Acción Prioritaria de España 2021-2027, en millones de euros anuales. Fuente: [Marco de Acción Prioritaria para la financiación de la Red Natura 2000 en España](https://www.miteco.gob.es/es/biodiversidad/temas/espacios-protegidos/red-natura-2000/rn_cons_marco_accion_prioritaria.html), elaboración propia*
 
 

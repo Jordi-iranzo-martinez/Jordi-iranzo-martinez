@@ -42,7 +42,7 @@ Su incluye fue regulada en el [capítulo segundo del título tercero de la Const
 
 6. **Publicación**: en el Boletín Oficial del Estado (BOE) (principio constitucional de publicidad de las normas)
 
-![[Web/content/Soporte visual/diagrama_elaboracion-leyes.png]]
+![[Web/content/Visual/diagrama_elaboracion-leyes.png]]
 
 Además, existen las leyes básicas, que delimitan los contenidos mínimos en todo el territorio nacional (armonización).
 

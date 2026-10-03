@@ -1,4 +1,4 @@
 
-![[Web/content/Soporte visual/ferrer-dalmau_ultimo-combate-glorioso.png]]
+![[Web/content/Visual/ferrer-dalmau_ultimo-combate-glorioso.png]]
 
 

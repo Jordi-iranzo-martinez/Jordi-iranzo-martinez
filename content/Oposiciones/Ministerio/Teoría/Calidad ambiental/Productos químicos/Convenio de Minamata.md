@@ -5,7 +5,7 @@ tags:
 
 El [Convenio de Minamata](https://minamataconvention.org/sites/default/files/documents/information_document/Minamata-Convention-booklet-Oct2024-ES.pdf) (Minamata; 2013, 2017) es un tratado internacional negociado por el [Programa de Naciones Unidas para el Medio Ambiente](https://www.unep.org/) (UNEP por sus siglas en inglés), para gestionar la contaminación por las emisiones y liberaciones antropogénicas relacionadas con el mercurio (incluidas mezclas y aleaciones con concentración superior al 95%) y sus compuestos. 
 
-| ![[Logo del Convenio de Minamata II.png]] | ![[Web/content/Soporte visual/Partes del Convenio de Minamata.png]] |
+| ![[Logo del Convenio de Minamata II.png]] | ![[Web/content/Visual/Partes del Convenio de Minamata.png]] |
 | ----------------------------------------- | ------------------------------------ |
 
 
@@ -19,7 +19,7 @@ El [Convenio de Minamata](https://minamataconvention.org/sites/default/files/doc
 | Otros                 | Solución de controversias, enmiendas (al Convenio, a los anexos), derecho de voto, firma, ratificación, aceptación, aprobación o adhesión, entrada en vigor, reservas, denuncia, depositario, autentividad de los textos                                                                                                  |
 | Anexos                | - A. Productos con mercurio añadido<br>- B. Procesos de fabricación que usan mercurio o sus compuestos<br>- C. Extracciones de oro artesanal a pequeña escala<br>- D. Lista de fuentes puntuales de emisiones a la atmósfera (mercurio y sus compuestos)<br>- E. Procedimientos de arbitraje y conciliación               |
 
-![[Web/content/Soporte visual/Logo del Convenio de Minamata.png]]
+![[Web/content/Visual/Logo del Convenio de Minamata.png]]
 *Logo de la Convención de Minamata. Fuente: [Página web del Convenio de Minamata](https://minamataconvention.org).*
 
 *El Convenio tuvo lugar tras una contaminación por mercurio de la empresa [Chisso Corporation](https://www.chisso.co.jp), dedicada a la producción de productos químicos como acetaldehído, que vertió del 1932 al 1968 metilmercurio (CH₃Hg⁺) al mar de Shiranui, en la bahía de Minamata. Este se acumuló en los peces que consumió la población local, originándoles daños neurológicos graves (por ello el logo del Convenio es un pez).*

@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/piatti.png]]
+![[Web/content/Visual/piatti.png]]
 
 Marco Porcio Catón ("Catón el Joven") fue un líder político famoso por su rigidez moral, estoicismo y su defensa incorruptible de las viejas costumbres romanas frente al lujo y la decadencia.
 

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823185222.png]]
+![[Web/content/Visual/Pasted image 20260823185222.png]]
 
 In April 1992, the town of Bijeljina was targeted by the Serb Volunteer Guard, a notorious paramilitary unit popularly known as Arkan’s Tigers, led by Željko Ražnatović ("Arkan"). The unit entered the town to forcefully displace and eliminate the non-Serb population.
 

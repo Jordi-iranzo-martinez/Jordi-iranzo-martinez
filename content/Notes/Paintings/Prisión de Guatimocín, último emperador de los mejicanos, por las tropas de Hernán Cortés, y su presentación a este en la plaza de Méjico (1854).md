@@ -2,5 +2,5 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Web/content/Soporte visual/hernan-cortes-guatimocin.jpg]]
+![[Web/content/Visual/hernan-cortes-guatimocin.jpg]]
 

@@ -14,4 +14,4 @@ Desarrollo sostenible es (Informe Brundtland):
 - **Conferencia de las Naciones Unidas sobre Medio Ambiente y Desarrollo** (Rio de Janeiro, 1992): a través de la [Declaración de Río sobre el Medio Ambiente y el Desarrollo](https://www.un.org/spanish/esa/sustdev/documents/declaracionrio.htm) (principios ambientales), y la **Agenda 21** (plan de acción de las Naciones Unidas, no vinculante, en materia de desarrollo sostenible)
 - **Declaración del Milenio de las Naciones Unidas** (2000), que establece los objetivos del Milenio (a 2015):
 
-	![[Web/content/Soporte visual/millenium-goals.png]]
+	![[Web/content/Visual/millenium-goals.png]]

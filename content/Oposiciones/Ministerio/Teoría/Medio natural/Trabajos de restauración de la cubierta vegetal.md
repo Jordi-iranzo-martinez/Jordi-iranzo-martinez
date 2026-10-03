@@ -30,5 +30,5 @@ Las técnicas de restauración activa incluyen:
 
 *Métodos complementarios incluyen la bioingeniería, el uso de geotextiles y las mantas orgánicas para la estabilización de taludes.*
 
-![[Web/content/Soporte visual/trabajos-restauracion-cubierta-vegetal.png]]
+![[Web/content/Visual/trabajos-restauracion-cubierta-vegetal.png]]
 *Trabajos de restauración de la cubierta vegetal. Fuente: ChatGPT*

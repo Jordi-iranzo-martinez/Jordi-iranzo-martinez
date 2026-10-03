@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823200053.png]]
+![[Web/content/Visual/Pasted image 20260823200053.png]]
 
 For over four long years, Belgium had been almost entirely occupied by the German Empire. Antwerp, a vital strategic port city, had suffered heavy bombardment early in the war and had endured a grueling period of military rule, extreme food shortages, and harsh deprivations.
 

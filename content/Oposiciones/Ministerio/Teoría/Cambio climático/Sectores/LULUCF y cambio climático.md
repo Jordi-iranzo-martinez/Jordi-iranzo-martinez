@@ -30,22 +30,22 @@ Y es que las plantas actúan como sumideros de carbono al absorber el dióxido d
 
 6 **CO₂** + 6 H₂O + energía lumínica → **C₆H₁₂O₆** + 6 O₂
 
-![[Web/content/Soporte visual/trees-carbon.png]]
+![[Web/content/Visual/trees-carbon.png]]
 *Relación entre el carbono y la vegetación. Fuente: ¿?*
 
 
 Todo esto hace que sean muy importantes en el ciclo del carbono
 
-![[Web/content/Soporte visual/Pasted image 20260429185937.png]]
+![[Web/content/Visual/Pasted image 20260429185937.png]]
 
 *Ciclo del Carbono global. Fuente: [Laboratorio Ambiental Marino del Pacífico](https://www.pmel.noaa.gov/co2/story/Carbon+Cycle) (de la [Oficina Nacional de Administración Oceánica y Atmosférica](https://www.noaa.gov/))*  
 
 
 Por lo tanto, su conservación es útil para la mitigación. La categoría del sector LULUCF que más carbono tiene almacenado son los bosques, muchos de los cuales se encuentran en países en vías de desarrollo (bosques primarios...)
 
-![[Web/content/Soporte visual/Pasted image 20260429185957.png]]
+![[Web/content/Visual/Pasted image 20260429185957.png]]
 
-![[Web/content/Soporte visual/Pasted image 20260429185850.png]]
+![[Web/content/Visual/Pasted image 20260429185850.png]]
 
 *Emisiones de gases de efecto invernadero por el cambio de uso del suelo y la cadena de suministro de diferentes alimentos. Fuente: Our World in Data*
 

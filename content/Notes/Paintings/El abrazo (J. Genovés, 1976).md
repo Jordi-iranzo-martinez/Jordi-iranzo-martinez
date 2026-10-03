@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Web/content/Soporte visual/abrazo-transicion.png]]
+![[Web/content/Visual/abrazo-transicion.png]]
 
 Genovés pintó la obra en la clandestinidad a mediados de los años 70. En 1976, cedió la imagen a Amnistía Internacional para confeccionar un cartel impreso que exigiera la amnistía y libertad de los presos políticos del régimen.
 

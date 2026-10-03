@@ -12,28 +12,29 @@ What if you could contribute to reforesting the world easily while searching the
 
 _**Ecosia**_ is a Berlin-based search engine launched in 2009 that operates as a social business, dedicating approximately 80% of its profits from ad revenue to global reforestation. Often described as the "green alternative to Google," the company has funded the planting of over 200 million trees across biodiversity hotspots worldwide.
 
-
-![[attachments/ecosia-logo-green-search-engine.jpg]]
-Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
+![[Web/content/Visual/ecosia_logo.jpg]]
+*Ecosia logo. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
 The German company Ecosia GmbH was founded by economist Christian Kroll in 2009 during the UN climate talks in Copenhagen (COP 15). From the beginning, Kroll established two fundamental commitments: never sell Ecosia and never take profits out of it.
 
-![[attachments/christian-kroll-ecosia-ceo-founder.jpg]]
-Ecosia's CEO Christian Kroll. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
+![[Ecosia_Kristian-Kroll.webp|626x418]]
+*Ecosia's CEO Christian Kroll. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
 Their mission goes beyond planting trees: capturing carbon from the atmosphere, restoring ecosystems, protecting biodiversity, regenerating soil and combating desertification, while improving the lives of local communities.
 
 Initially they donated 80% of their revenue, but in 2018 they took a revolutionary step: they adopted a steward-ownership model and sold all shares to the non-profit [Purpose Foundation](https://purpose-economy.org). They now donate 100% of their profits.
 
-![[ecosia-team-employees.jpg]]
+![[Web/content/Soporte visual/ecosia_team.jpg]]
+
 Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
 _The Purpose Foundation promotes this innovative business model where control remains with people inside the company (stewards) and profits are reinvested in the company's purpose instead of enriching external shareholders. Renowned German companies like Bosch and Zeiss already operate under this model._
 
 Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-plant-trees/) span over 70 active initiatives across more than 35 countries, implemented by local organizations and people they finance.
 
-![[attachments/ecosia-tree-planting-kenya-africa.jpg]]
-Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
+![[Ecosia_Kenya-project.webp]]
+
+*Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
 But their commitment goes beyond trees. To address the climate crisis, they've built their own solar power plants, achieving 200% carbon negative status: they produce twice the energy they need!
 
@@ -52,8 +53,8 @@ On personal privacy, they anonymize searches within seven days. They don't creat
 
 There are already over 20 million people worldwide using Ecosia, which allowed them to donate more than 94 million euros in total. So they have planted more than 230 million trees worldwide —in an area superior to 150.000 hectares (over 240.000 football fields!)— and installed more than 20.000 solar panels.
 
-![[attachments/ecosia-forest-restoration-senegal.jpg]]
-Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)
+![[Web/content/Soporte visual/ecosia_senegal.jpg]]
+*Ecosia's supporting reforestation project in Senegal. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)*
 
 On the collective impact, more than two thirds have been to reforestation and regenerative agriculture projects (70%). The other part goes to solar renewable energy (15%), green innovation (10%) and climate activism (5%).
 
@@ -66,6 +67,3 @@ As the amount of its commissions Ecosia gets from the searches depends on how ma
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oNWJv0LR07M?si=Ke58ldwC91A3IkM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-[Ecosia's projects videos](https://www.youtube.com/watch?v=6dgJ7hYd2aU&list=PLVIr0a2TLf9vVMpbjDJIgh_JihPXC-rDf)

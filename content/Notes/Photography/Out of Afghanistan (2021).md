@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Web/content/Soporte visual/Pasted image 20260823193750.png]]
+![[Web/content/Visual/Pasted image 20260823193750.png]]
 
 Chris Donahue, the last American soldier to leave Afghanistan before the Fall of Kabul.
 

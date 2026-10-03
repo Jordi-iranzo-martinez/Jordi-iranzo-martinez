@@ -4,7 +4,7 @@ tags:
 ---
 La economía circular es aquella en la que los residuos suponen materias primas de otros procesos productivos.
 
-![[Web/content/Soporte visual/Pasted image 20260425154917.png]]
+![[Web/content/Visual/Pasted image 20260425154917.png]]
 
 
 ### Plan de Acción de Economía Circular de la Comisión Europea

@@ -4,7 +4,7 @@ tags:
 ---
 La Institución Libre de Enseñanza (ILE) fue uno de los movimientos intelectuales y pedagógicos más renovadores e influyentes de la historia de España.
 
-![[Web/content/Soporte visual/Pasted image 20260827175222.png]]
+![[Web/content/Visual/Pasted image 20260827175222.png]]
 
 Fundada en 1876 por un grupo de catedráticos universitarios liderados por Francisco Giner de los Ríos, nació como un proyecto educativo privado y laico, completamente independiente de cualquier dogmatismo religioso o político, con el objetivo de modernizar la sociedad española a través de la educación.
 

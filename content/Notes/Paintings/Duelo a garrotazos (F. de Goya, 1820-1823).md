@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Web/content/Soporte visual/goya_duelo-garrotazos.png]]
+![[Web/content/Visual/goya_duelo-garrotazos.png]]
 
 
 Los historiadores de arte la consideran el símbolo trágico de la guerra fratricida y las guerras civiles:

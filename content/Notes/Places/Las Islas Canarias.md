@@ -5,7 +5,7 @@ tags:
 
 Es el mayor representante de la región biogeográfica macaronésica, sólo presente en ellas y en las Azores. Es una región muy escasa, con el 0,2% del total
 
-![[Web/content/Soporte visual/europe_biogeographical-regions.png]]
+![[Web/content/Visual/europe_biogeographical-regions.png]]
 Regiones biogeográficas de Europa
 Fuente: European Environmental Agency (EEA)
 

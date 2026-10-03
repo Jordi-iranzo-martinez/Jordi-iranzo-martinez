@@ -6,7 +6,7 @@ tags:
 ---
 
 
-![[Web/content/Soporte visual/Man and Biosphere (MaB) sites by UNESCO.png]]
+![[Web/content/Visual/Man and Biosphere (MaB) sites by UNESCO.png]]
 
 
 # Conclusions

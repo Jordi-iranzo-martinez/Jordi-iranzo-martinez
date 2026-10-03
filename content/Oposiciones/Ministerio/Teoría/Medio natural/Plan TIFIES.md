@@ -29,7 +29,7 @@ Los objetivos y medidas comprenden los siguientes:
 | 3.3. Seguridad                                         | - Conocimientos y estrategia                                                                                                                                                                                                                       |
 | 3.4. Esfuerzos multilaterales                          | - Decisiones, resoluciones, y declaraciones políticas                                                                                                                                                                                              |
 
-| ![[Web/content/Soporte visual/espana_tifies-latinoamerica.png]] | ![[Web/content/Soporte visual/espana_tifies-africa.png]] |
+| ![[Web/content/Visual/espana_tifies-latinoamerica.png]] | ![[Web/content/Visual/espana_tifies-africa.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 El control de comercio de especies también es una medida de prevención de introducción de especies exóticas invasoras y puede disminuir la deforestación.

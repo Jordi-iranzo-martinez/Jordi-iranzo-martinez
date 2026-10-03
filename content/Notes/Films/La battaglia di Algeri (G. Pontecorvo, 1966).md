@@ -8,7 +8,7 @@ El Frente de Liberación Nacional (FLN) de Argelia
 
 Ali Ammar (1930–1957) nació en una familia extremadamente pobre y pasó su juventud siendo analfabeto, trabajando en el campo y cometiendo pequeños delitos de estafa y robo en Argel.
 
-![[Web/content/Soporte visual/ali-ammar.png]]
+![[Web/content/Visual/ali-ammar.png]]
 
 
 Mientras cumplía una condena de dos años en la prisión de Barberousse, presenció las ejecuciones en la guillotina de los presos políticos argelinos. Allí fue reclutado por militantes del FLN, quienes le explicaron el marco ideológico del colonialismo. Al salir, se convirtió en el ejecutor urbano más letal, fiel y temido de la resistencia.

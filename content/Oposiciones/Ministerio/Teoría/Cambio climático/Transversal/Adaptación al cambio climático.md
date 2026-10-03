@@ -27,7 +27,7 @@ Proceso en cuatro etapas:
 3. **Medidas**
 4. **Monitorización y evaluación** (M&E)
 
-![[Web/content/Soporte visual/Pasted image 20260620091714.png]]
+![[Web/content/Visual/Pasted image 20260620091714.png]]
 
 Además, existe el tratamiento de pérdidas y daños (_Loss and Damage_), para la gestión de los impactos producidos que no han podido evitarse mediante la mitigación ni superarse mediante la adaptación.
 
@@ -54,7 +54,7 @@ Entre las causas, existen los de eventos lentos y meteorológicos extremos:
 
 Tiene efectos diferenciales según la población. Los países más afectados son los menos desarrollados (LDCs), que a su vez son los que menos han contribuido al problema.
 
-![[Web/content/Soporte visual/unfccc_ldc.png]]
+![[Web/content/Visual/unfccc_ldc.png]]
 
 *Países Menos Desarrollados (LDCs). Fuente: [Conferencia de las Naciones Unidas sobre Comercio y Desarrollo](https://unctad.org/topic/least-developed-countries/list) (UNCTAD)
 

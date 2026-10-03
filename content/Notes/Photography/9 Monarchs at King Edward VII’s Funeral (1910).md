@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823200019.png]]
+![[Web/content/Visual/Pasted image 20260823200019.png]]
 
 
 The famous **"Nine Kings" photograph** was captured on **May 20, 1910**, in the White Drawing Room at [Windsor Castle](https://www.google.com/goto?url=CAESpQEB6zswFR8agwnjBdyWcW6e1rPL8ApnMinl4zdWtYJxAbidbJSKa2_spQqrnvx-_HKFO8NkuMW-i2rOOed7oyaybMkxLNYcWjd_g9msphyts6z0SnQq-VjC4-oGCRYzAh_J3bG_tRYuv12cQX0iT-RPt36OnUGLGH3Nc1nsGVVGlG1JR-9pr5ODdMS15SnEybdMRgRxczFsDkBddNWMVg3XiMSPSCA). It represents the largest and most iconic gathering of reigning European monarchs ever recorded in a single photograph, assembled for the state funeral of **King Edward VII** of the United Kingdom.

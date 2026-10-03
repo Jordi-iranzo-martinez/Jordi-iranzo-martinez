@@ -1,3 +1,3 @@
 
-![[Web/content/Soporte visual/Favila.jpg]]
+![[Web/content/Visual/Favila.jpg]]
 

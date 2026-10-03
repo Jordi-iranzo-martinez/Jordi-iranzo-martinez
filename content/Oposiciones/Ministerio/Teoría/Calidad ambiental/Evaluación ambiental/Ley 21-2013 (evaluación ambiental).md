@@ -98,7 +98,7 @@ El procedimiento ordinario está reservado para las actividades más agresivas (
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260619153052.png]]
+![[Web/content/Visual/Pasted image 20260619153052.png]]
 
 
 El procedimiento simplificado se reserva para actividades menos agresivas (Anexo II)

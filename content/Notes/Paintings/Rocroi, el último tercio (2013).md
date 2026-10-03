@@ -1,3 +1,3 @@
 
-![[Web/content/Soporte visual/ferrer-dalmau_rocroi-ultimo-tercio.png]]
+![[Web/content/Visual/ferrer-dalmau_rocroi-ultimo-tercio.png]]
 

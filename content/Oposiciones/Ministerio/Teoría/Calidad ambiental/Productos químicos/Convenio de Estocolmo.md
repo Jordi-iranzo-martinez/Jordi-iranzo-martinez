@@ -6,7 +6,7 @@ tags:
 El [Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes](https://chm.pops.int/Portals/0/download.aspx?e=UNEP-POPS-COP-CONVTEXT-2023.Spanish.pdf) (Estocolmo; 2001, 2004), es un tratado internacional para gestión de estos compuestos (COPs): 
 
 
-![[Web/content/Soporte visual/stockholm-convention-logo.png]]
+![[Web/content/Visual/stockholm-convention-logo.png]]
 
 *Logo del Convenio de Estocolmo. Fuente:* 
 
@@ -44,10 +44,10 @@ En sus inicios el Convenio identificó 12 productos químicos prioritarios:
 
 
 
-![[Web/content/Soporte visual/Partes del Convenio de Estocolmo.png]]
+![[Web/content/Visual/Partes del Convenio de Estocolmo.png]]
 
 *Partes del Convenio de Estocolmo. Fuente: Wikipedia, verificado en la [lista oficial del Convenio de Estocolmo](https://www.pops.int/Countries/StatusofRatifications/PartiesandSignatoires/tabid/4500/Default.aspx)
 
 
-![[Web/content/Soporte visual/Pasted image 20260428185332.png]]
+![[Web/content/Visual/Pasted image 20260428185332.png]]
 

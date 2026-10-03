@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/painting_unequal-marriage.png]]
+![[Web/content/Visual/painting_unequal-marriage.png]]
 
 
 The artwork directly confronts the bitter reality of arranged marriages in 19th-century Imperial Russia. It highlights the custom where impoverished families forced their young daughters into marriage with wealthy, elderly officials to secure money and social status.

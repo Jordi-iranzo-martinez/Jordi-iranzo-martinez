@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/photography_lenin-speech.png]]
+![[Web/content/Visual/photography_lenin-speech.png]]
 
 
 Vladimir Lenin is delivering a wartime rallying speech to Red Army troops who are about to depart for the Polish Front durint the Polish-Soviet War (1919–1921). Polish forces, led by Marshal Józef Piłsudski, had recently advanced into parts of Ukraine, and the Soviet government was mobilizing a massive military counter-offensive.

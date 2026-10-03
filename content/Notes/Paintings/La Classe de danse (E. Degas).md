@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260822142308.png]]
+![[Web/content/Visual/Pasted image 20260822142308.png]]
 
 Jules Perrot était un chorégraphe réel très respecté de l'époque. 
 

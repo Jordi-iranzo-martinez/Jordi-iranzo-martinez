@@ -8,7 +8,7 @@ tags:
 
 La región mediolitoral queda expuesta y sumergida continuamente por la acción de las mareas: los movimientos verticales periódicos por la atracción gravitatoria entre la Tierra con la Luna y el Sol (generalmente por la Luna por su mayor proximidad).
 
-![[Web/content/Soporte visual/formula-gravitacion-universal-newton.png]]
+![[Web/content/Visual/formula-gravitacion-universal-newton.png]]
 
 *Fórmula de la gravitación universal (Isaac Newton, 1689)*
 
@@ -30,7 +30,7 @@ La zona intermareal es el área del litoral que queda expuesta y sumergida conti
 | Sustratos sedimentarios supra y mediolitorales | - **Cantos**: <br><br>- **Arrecifes de *Sabellaria alveolata***:                                                                                                                                                                                                                                                                                                                                                                                           |          |
 
 
-![[Web/content/Soporte visual/formula_gravitacion-universal-newton.png]]
+![[Web/content/Visual/formula_gravitacion-universal-newton.png]]
 *Fórmula de la gravitación universal (Isaac Newton, 1689)*
 
 En la Tierra, son causadas principalmente por la Luna, porque, a pesar de ser menos masiva que el Sol, está mucho más cerca. 

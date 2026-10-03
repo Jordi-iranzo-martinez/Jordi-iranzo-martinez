@@ -12,14 +12,14 @@ El [Convenio relativo a la Conservación de la Vida Silvestre y del Medio Natura
 
 - **[Alcance geográfico](https://www.coe.int/en/web/conventions/full-list?module=signatures-by-treaty&treatynum=104)**: amplio, incluyendo todos los países del Consejo de Europa (superior a la Unión Europea, que también participa), y algunos países africanos (Marruecos, Túnez, Argelia y Senegal) por las especies migratorias.
 
-	![[Web/content/Soporte visual/bern-convention_parties2.png]]
+	![[Web/content/Visual/bern-convention_parties2.png]]
 
 
 - **Enfoque integral**: priorizar tanto especies como hábitats de manera conjunta
 
 - **[Red Esmeralda de Áreas de Espacios de Interés para la Conservación](https://www.coe.int/en/web/bern-convention/emerald-network)**: conexión ecológica de espacios protegidos en Europa ([ver visor de la Red Esmeralda](https://emerald.eea.europa.eu/)) (solo aparecen los no incluidos en la Unión Europea porque los de los Estados Miembros aparecen en la Red Natura 2000, que puede verse en el [visor de la Red Natura 2000](https://natura2000.eea.europa.eu/))
 
-	![[Web/content/Soporte visual/bern_emmerald-network2.png]]
+	![[Web/content/Visual/bern_emmerald-network2.png]]
 
 - [**Diploma Europeo de Áreas Protegidas**](https://www.coe.int/en/web/bern-convention/european-diploma-for-protected-areas)
 

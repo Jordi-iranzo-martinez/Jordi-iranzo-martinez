@@ -5,7 +5,7 @@ tags:
 
 Las actividades humanas en los mares de España son diversas y tienen un impacto significativo en el medio marino, afectando desde la biodiversidad hasta los hábitats y las economías locales.
 
-![[Web/content/Soporte visual/Pasted image 20260403220918.png]]
+![[Web/content/Visual/Pasted image 20260403220918.png]]
 *Actividades humanas en el medio marino. Fuente: ChatGPT*
 
 

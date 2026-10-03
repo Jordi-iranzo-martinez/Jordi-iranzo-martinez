@@ -162,7 +162,7 @@ Los principales conceptos y obligaciones derivados de la implementación de la D
 
 | Regiones ecológicas de ríos y lagos  | Regiones ecológicas de aguas de transición y costeras |
 | ------------------------------------ | ----------------------------------------------------- |
-| ![[Web/content/Soporte visual/Pasted image 20260619170501.png]] | ![[Web/content/Soporte visual/european-union_marine-areas.png]]                  |
+| ![[Web/content/Visual/Pasted image 20260619170501.png]] | ![[Web/content/Visual/european-union_marine-areas.png]]                  |
 
 
 

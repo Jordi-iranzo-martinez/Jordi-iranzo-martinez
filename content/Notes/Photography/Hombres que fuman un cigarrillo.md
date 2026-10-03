@@ -2,4 +2,4 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/photopgraphy_commandos.png]]
+![[Web/content/Visual/photopgraphy_commandos.png]]

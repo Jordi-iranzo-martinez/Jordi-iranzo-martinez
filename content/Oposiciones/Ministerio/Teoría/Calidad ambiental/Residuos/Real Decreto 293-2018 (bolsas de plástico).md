@@ -27,6 +27,6 @@ El [Real Decreto 293/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-6651)
 	La información será remitida al Ministerio de medio ambiente antes del 31 de marzo del año siguiente, para elaborar información para la Comisión Europea, y será publicada cada año.
 
 
-![[Web/content/Soporte visual/bolsas-plastico.png]]
+![[Web/content/Visual/bolsas-plastico.png]]
 
 *Información anual sobre las bolsas de plástico puestas en el mercado nacional que deben suministrar los fabricantes*. Fuente: 

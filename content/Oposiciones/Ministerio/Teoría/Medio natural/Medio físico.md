@@ -45,11 +45,11 @@ España presenta una gran diversidad climática según la clasificación de Köp
 - **Clima subtropical** (Cw): Canarias
 - **Clima de montaña** (ET): Altas cumbres
 
-![[Web/content/Soporte visual/Pasted image 20260404175714.png]]
-![[Web/content/Soporte visual/Pasted image 20260404175719.png]]
+![[Web/content/Visual/Pasted image 20260404175714.png]]
+![[Web/content/Visual/Pasted image 20260404175719.png]]
 
 
-![[Web/content/Soporte visual/Pasted image 20260413090304.png]]
+![[Web/content/Visual/Pasted image 20260413090304.png]]
 
 El ciclo del agua.
 
@@ -66,7 +66,7 @@ España es el país con mayor altitud promedio de Europa después de Suiza, cara
 - **Depresiones**: Ebro y Guadalquivir
 - **Costas**: Más de 8.000 km de litoral
 
-![[Web/content/Soporte visual/Pasted image 20260404175744.png]]
+![[Web/content/Visual/Pasted image 20260404175744.png]]
 
 #### Suelo
 
@@ -84,10 +84,10 @@ Entre las características fundamentales se incluye
 - **ateria orgánica**
 
 
-![[Web/content/Soporte visual/Pasted image 20260404175923.jpg]]
+![[Web/content/Visual/Pasted image 20260404175923.jpg]]
 *Mapa de suelos en España (2006). Fuente: [Atlas Nacional de España](https://atlasnacional.ign.es/wane/Suelos)**
 
-![[Web/content/Soporte visual/espana-litologia.png]]
+![[Web/content/Visual/espana-litologia.png]]
 *Mapa litológico de España (1978). Fuente: [Atlas Nacional de España](https://atlasnacional.ign.es/wane/Suelos)*
 
 
@@ -129,7 +129,7 @@ Se distinguen las siguientes:
 | Cordilleras alpinas exteriores a la meseta      | - Pirineos<br>- Cordilleras Béticas (Penibética y Subbética)<br>- Sistema Ibérico                                                      |
 | Zonas volcánicas                                | - Islas Canarias<br>- Campo de Calatrava (Ciudad Real)<br>- Cabo de Gata (Almería)<br>- Olot (Girona)                                  |
 
-![[Web/content/Soporte visual/Pasted image 20260404180037.png]]
+![[Web/content/Visual/Pasted image 20260404180037.png]]
 
 Unidades morfoestructurales de España. Fuente: ¿¿¿¿
 
@@ -172,5 +172,5 @@ Las grandes unidades naturales de España se pueden entender principalmente como
 | Depresiones o cuencas importantes   | - **Depresión del Ebro**: en el noreste; una cuenca triangular entre Pirineos, Sistema Ibérico y Cordillera Costero-Catalana, formada por sedimentación terciaria, con materiales horizontales (arcillas, yesos).<br>	<br>- **Depresión del Guadalquivir**: al sudoeste, triangular entre Sierra Morena y Cordilleras Bética. Era una antigua bahía marina colmatada por sedimentos, con materiales blandos muy fértiles (arcillas, margas).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Otras unidades naturales relevantes | - **Islas Baleares**: archipiélago en el Mediterráneo con geología completa, incluyendo la Sierra de Tramuntana en Mallorca, de origen alpino, y materiales calcáreos mesozocios. <br>	<br>- **Islas Canarias**: en la región Macaronesia, en el Atlántico nororiental, próximas a las costas africanas, de origen volcánico reciente y con vulcanismo activo actual.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-![[Web/content/Soporte visual/espana_relieve.png]]
+![[Web/content/Visual/espana_relieve.png]]
 *Principales unidades del relieve de España. Fuente:* 

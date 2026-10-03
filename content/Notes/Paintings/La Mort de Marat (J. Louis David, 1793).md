@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/marat.png]]
+![[Web/content/Visual/marat.png]]
 
 
 Le tableau représente les instants qui ont suivi le meurtre de Jean-Paul Marat, journaliste jacobin influent et ami proche du peintre. Le 13 juillet 1793, une jeune femme issue d'une faction rivale, Charlotte Corday, parvint à s'introduire chez lui sous prétexte de lui remettre une liste de traîtres et lui porta un coup de couteau fatal.

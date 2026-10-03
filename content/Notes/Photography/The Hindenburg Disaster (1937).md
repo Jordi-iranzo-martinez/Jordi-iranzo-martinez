@@ -4,7 +4,7 @@ tags:
 ---
 *Die Hindenburg-Katastrophe bezeichnet den Brand und Absturz des deutschen Luftschiffs LZ 129 Hindenburg am 6. Mai 1937 bei der Landung in Lakehurst, New Jersey, USA.*
 
-![[Web/content/Soporte visual/Pasted image 20260823183856.png]]
+![[Web/content/Visual/Pasted image 20260823183856.png]]
 
 
 Die Hindenburg war zu dieser Zeit das größte Luftfahrzeug der Welt und galt als Stolz der deutschen Zeppelin-Technologie. Sie hatte gerade eine transatlantische Reise von Frankfurt nach New Jersey absolviert. Beim Landeanflug fing das mit Wasserstoffgas gefüllte Luftschiff plötzlich Feuer und verbrannte innerhalb von nur etwa 30–34 Sekunden fast vollständig, während es zu Boden stürzte. Von den 97 Menschen an Bord kamen 35 ums Leben, sowie ein Mitglied der Bodencrew.

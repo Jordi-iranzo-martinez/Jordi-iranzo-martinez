@@ -30,7 +30,7 @@ El [Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Q
 
 | Etiquetado                           | Fichas de datos de seguridad (FDS)   |
 | ------------------------------------ | ------------------------------------ |
-| ![[Web/content/Soporte visual/Pasted image 20260611171127.png]] | ![[Web/content/Soporte visual/Pasted image 20260611171138.png]] |
+| ![[Web/content/Visual/Pasted image 20260611171127.png]] | ![[Web/content/Visual/Pasted image 20260611171138.png]] |
 
 - **Comunicación de peligros: Etiquetado** 
 	1. Objetivos, alcance y aplicación
@@ -52,7 +52,7 @@ El [Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Q
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260611171303.png]]
+![[Web/content/Visual/Pasted image 20260611171303.png]]
 
 
 
@@ -73,11 +73,11 @@ El [Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Q
 
 - **Etiquetado de peligros**
 
-	![[Web/content/Soporte visual/Pasted image 20260428190335.png]]
+	![[Web/content/Visual/Pasted image 20260428190335.png]]
 
 - **Fichas de datos**
 
-	![[Web/content/Soporte visual/Pasted image 20260428190354.png]]
+	![[Web/content/Visual/Pasted image 20260428190354.png]]
 
 
 - **Peligros físicos**
@@ -140,7 +140,7 @@ El [Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Q
 
 - **GHS09. Peligro para el medio ambiente**: pueden causar efectos adversos al medio ambiente acuático -agudo o crónico- y en la capa de ozono. Incluyen pesticidas, algunos metales pesados, hidrocarburos, clorofluorocarbonos (CFC)...
 
-![[Web/content/Soporte visual/Pasted image 20260428191136.png]]
+![[Web/content/Visual/Pasted image 20260428191136.png]]
 
 
 *Muchas sustancias pueden llevar múltiples pictogramas simultáneamente. Por ejemplo, la gasolina lleva GHS02 (inflamable), GHS07 (nocivo por inhalación) y GHS09 (peligro ambiental).*

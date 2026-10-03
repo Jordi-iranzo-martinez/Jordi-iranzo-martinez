@@ -220,7 +220,7 @@ Se crearán los consejos forestales de demarcación en las 12 demarcaciones fore
 11. Xàtiva
 12. Altea
 
-![[Web/content/Soporte visual/Pasted image 20260802113150.png]]
+![[Web/content/Visual/Pasted image 20260802113150.png]]
 
 *Todos ellos se coordinarán con los órganos consultivos forestales de la Conselleria de Medio Ambiente.* 
 

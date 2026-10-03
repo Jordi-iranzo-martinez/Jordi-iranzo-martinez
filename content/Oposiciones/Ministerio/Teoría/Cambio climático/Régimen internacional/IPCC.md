@@ -34,7 +34,7 @@ Los informes del IPCC son la base científica de las negociaciones internacional
 
 Miles de científicos de todo el mundo contribuyen como autores y revisores. 
 
-![[Web/content/Soporte visual/ipcc_structure.png]]
+![[Web/content/Visual/ipcc_structure.png]]
 
 
 Los candidatos son designados por los gobiernos de los países miembros en votaciones secretas (un país, un voto).  

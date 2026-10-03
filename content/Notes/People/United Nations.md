@@ -49,7 +49,7 @@ Charter of the United Nations
 - [United Nations High Commissioner for Refugees](https://www.unhcr.org/) (UNHCR)
 
 
-![[Web/content/Soporte visual/Number_of_parties_in_multilateral_environmental_agreements,_OWID.svg.png]]
+![[Web/content/Visual/Number_of_parties_in_multilateral_environmental_agreements,_OWID.svg.png]]
 
 
 
@@ -72,7 +72,7 @@ Las Naciones Unidas (ONU) constituye la organización internacional más importa
 - Promoción de derechos humanos (Consejo de Derechos Humanos, y tratados internacionales)
 - Derecho internacional: cooperación entre Estados y desarrollo de marcos legales internacionales
 
-![[Web/content/Soporte visual/number-of-parties-env-agreements.png]]
+![[Web/content/Visual/number-of-parties-env-agreements.png]]
 
 
 # The United Nations Environmental Programme

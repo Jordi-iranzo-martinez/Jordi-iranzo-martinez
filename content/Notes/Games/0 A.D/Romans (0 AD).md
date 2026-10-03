@@ -461,7 +461,7 @@ Legión romana Segunda Guerra Púnica. El triario lleva scutum, yelmo monteforti
 
 Cada manipulo estaba mandado por un _centurión prior_ que mandaba la derecha o la vanguardia, ayudado por un segundo _centurión elegid_o por el prior y que mandaba la izquierda o la retaguardia, cada uno estaba ayudado así mismo por un ayudante denominado _optio_, un _signifer_ que llevaba la enseña, un _cornicen_ y un _tesserario_ (encargado de la _tessera_ o contraseña para la seguridad).
 
-![[Web/content/Soporte visual/Pasted image 20260810183758.png]]
+![[Web/content/Visual/Pasted image 20260810183758.png]]
 
 
 El armamento sufrió importantes cambios, copiando lo que les interesaba de sus enemigos, de los galos copiaron el escudo alargado (_scutum_), las carrilleras del casco, y sobre todo la cota de malla. De los hispánicos copiaron la espada corta o _gladius hispana_, las armas arrojadizas como el _soliferrum_ y la falárica se deformaban al chocar con el objetivo, impidiendo volver a ser utilizada, con las que desarrollando la _pilum_, también copiaron el cuchillo pequeño al que llamaron _pugio_.
@@ -473,13 +473,13 @@ El mando de la legión correspondía a 6 tribunos militares organizados en parej
 
 Es muy posible que la legión formase inicialmente en las tres lineas (_triplex acies_) las centurias unas junto a las otras para que las distancias entre las centurias fuesen las correctas, a continuación las centurias de los prior se quedaría en su lugar, mientras que las segunda centuria retrocederían a retaguardia, las hastati quedarían a tresbolillo para permitir el repliegue de los vélites, mientras que las de los príncipes y triarios situarían una detrás de la otra una de tras de la otra , la anterior o situada más a vanguardia sería la prior.
 
-![[Web/content/Soporte visual/Pasted image 20260810183812.png]]
+![[Web/content/Visual/Pasted image 20260810183812.png]]
 
 
 El combate lo iniciaban los vélites contra la infantería ligera adversaria, cuando se les daba la orden, se replegaban por entre los huecos dejados por las centurias _priors_, estos una vez que hubiesen pasado, retrocedían hasta alcanzar a la centuria posterior cerrando la línea.
 
 Una vez cerrada la línea, cargaban contra el enemigo, mientras los vélites se dirigían a retaguardia, algunos eran empleados para replegar a los heridos y suministrar a los legionarios con agua y comida.
 
-![[Web/content/Soporte visual/Pasted image 20260810183827.png]]
+![[Web/content/Visual/Pasted image 20260810183827.png]]
 
 

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823190359.png]]
+![[Web/content/Visual/Pasted image 20260823190359.png]]
 
 Peter (often referred as "Gordon") was a enslavedd man who had escaped from a brutal cotton plantation in Mississippi owned by John and Bridget Lyons, where he had suffered a horrific whipping that left him near death.
 

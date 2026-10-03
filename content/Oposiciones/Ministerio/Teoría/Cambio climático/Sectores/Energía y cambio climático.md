@@ -12,7 +12,7 @@ El sector de la energía
 Fuente: 
 
 
-![[Web/content/Soporte visual/Pasted image 20260403202259.png]]
+![[Web/content/Visual/Pasted image 20260403202259.png]]
 
 
 Es el principal emisor de gases de efecto invernadero a nivel mundial, con aproximadamente tres cuartos del total.
@@ -35,9 +35,9 @@ La mayor parte de las emisiones de gases de efecto invernadero se deben a paíse
 
 <iframe src="https://ourworldindata.org/grapher/access-to-electricity-vs-gdp-per-capita?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
-![[Web/content/Soporte visual/Pasted image 20260703170706.png]]
+![[Web/content/Visual/Pasted image 20260703170706.png]]
 
-![[Web/content/Soporte visual/Pasted image 20260703170743.png]]
+![[Web/content/Visual/Pasted image 20260703170743.png]]
 
 
 
@@ -58,7 +58,7 @@ La mayor parte de las emisiones de gases de efecto invernadero se deben a paíse
 
 
 Esto es así porque tienen acceso a más uso de la energía.
-![[Web/content/Soporte visual/Pasted image 20260429181728.png]]
+![[Web/content/Visual/Pasted image 20260429181728.png]]
 
 
 #### Fuentes de emisión de gases de efecto invernadero
@@ -119,7 +119,7 @@ Además, son recursos locales: reducen la dependencia de importaciones de combus
 
 
 
-| ![[Web/content/Soporte visual/Pasted image 20260620085759.png]] | ![[Web/content/Soporte visual/Pasted image 20260611161407.png]] |
+| ![[Web/content/Visual/Pasted image 20260620085759.png]] | ![[Web/content/Visual/Pasted image 20260611161407.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 
@@ -141,14 +141,14 @@ Las principales son:
 | Combustión estacionaria en el sector agropecuario | 2,2                              | 0,8                        |
 | Total                                             |                                  |                            |
 
-| ![[Web/content/Soporte visual/Pasted image 20260620085902.png]] | ![[Web/content/Soporte visual/Pasted image 20260620085906.png]] |
+| ![[Web/content/Visual/Pasted image 20260620085902.png]] | ![[Web/content/Visual/Pasted image 20260620085906.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 
 | Sector concreto              | Evolución específica                                                                |
 | ---------------------------- | ----------------------------------------------------------------------------------- |
-| Generación eléctrica         | ![[{EEE527DF-EAD1-4571-A967-2121CEFE29D1}.png]]![[Web/content/Soporte visual/Pasted image 20260620085929.png]] |
-| Otras industrias energéticas | ![[Web/content/Soporte visual/Pasted image 20260620085938.png]]                                                |
+| Generación eléctrica         | ![[{EEE527DF-EAD1-4571-A967-2121CEFE29D1}.png]]![[Web/content/Visual/Pasted image 20260620085929.png]] |
+| Otras industrias energéticas | ![[Web/content/Visual/Pasted image 20260620085938.png]]                                                |
 
 #### Objetivos
 
@@ -178,19 +178,19 @@ Los objetivos incluyen los siguientes:
 #### Evolución de las emisiones
 
 
-![[Web/content/Soporte visual/Pasted image 20260620090005.png]]
+![[Web/content/Visual/Pasted image 20260620090005.png]]
 
 
 | 1990 | 2005 |
 | ---- | ---- |
 |      |      |
 
-![[Web/content/Soporte visual/Pasted image 20260620090032.png]]
+![[Web/content/Visual/Pasted image 20260620090032.png]]
 
 
 La evolución estimada a 2030
 
-![[Web/content/Soporte visual/Pasted image 20260620090043.png]]
+![[Web/content/Visual/Pasted image 20260620090043.png]]
 
 
 
@@ -235,6 +235,6 @@ Las políticas y medidas puestas en marcha en el ámbito del cambio climático
 |                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 
-![[Web/content/Soporte visual/Medidas energéticas en el sector de la energía en España.png]]
+![[Web/content/Visual/Medidas energéticas en el sector de la energía en España.png]]
 
 

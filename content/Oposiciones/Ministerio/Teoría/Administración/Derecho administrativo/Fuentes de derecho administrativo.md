@@ -26,5 +26,5 @@ Los niveles jerárquicos son los siguientes:
 
 Fueron representados mediante la pirámide de Kelsen (desarrollar algo más lo de Kelsen):
 
-![[Web/content/Soporte visual/piramide-kelsen.png]]
+![[Web/content/Visual/piramide-kelsen.png]]
 

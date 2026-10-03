@@ -43,10 +43,10 @@ El sector residencial representa un 5,3 % de las emisiones nacionales. Se debe a
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260620090603.png]]
+![[Web/content/Visual/Pasted image 20260620090603.png]]
 
 
-![[Web/content/Soporte visual/Pasted image 20260620090620.png]]
+![[Web/content/Visual/Pasted image 20260620090620.png]]
 
 
 

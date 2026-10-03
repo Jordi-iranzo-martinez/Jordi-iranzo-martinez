@@ -10,7 +10,7 @@ El [Convenio de Washington](https://cites.org/) es un tratado internacional para
 
 - **Ratificación**: mundial
 
-	![[Web/content/Soporte visual/Pasted image 20260626220410.png]]
+	![[Web/content/Visual/Pasted image 20260626220410.png]]
 	*Partes del Convenio CITES. Fuente: [Convenio CITES](https://cites.org)*
 
 - **Apéndices**: 
@@ -81,5 +81,5 @@ En la actualidad cuenta con 184 Partes, y más de 25 millones de registros en la
 - **Especies**: más de 40.000, la mayor parte de las cuales son plantas (34.000)
 - **Apéndices**: casi la totalidad se encuentra en el Apéndice II (35.000 a 37.000), con una pequeña parte en el Apéndice I (1.200-1.500 especies), siendo el Apéndice III marginal (200-300 especies).
 
-![[Web/content/Soporte visual/cites_apendices.png]]
+![[Web/content/Visual/cites_apendices.png]]
 *Distribución aproximada por apéndices de las especies reguladas en el Convenio de Washington. Fuente: elaboración propia.*

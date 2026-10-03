@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Web/content/Soporte visual/Pasted image 20260821113826.png]]
+![[Web/content/Visual/Pasted image 20260821113826.png]]
 
 
 Gonzalo Fernández de Córdoba (1453-1515) fue un noble cordobés al servicio de los Reyes Católicos. 

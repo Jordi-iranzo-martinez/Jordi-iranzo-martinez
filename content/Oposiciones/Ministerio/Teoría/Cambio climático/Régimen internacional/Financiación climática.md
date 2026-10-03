@@ -8,7 +8,7 @@ tags:
 <iframe src="https://ourworldindata.org/grapher/fossil-fuel-subsidies-per-capita?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
 
-![[Web/content/Soporte visual/Pasted image 20260703170146.png]]
+![[Web/content/Visual/Pasted image 20260703170146.png]]
 
 <iframe src="https://ourworldindata.org/grapher/carbon-price-vs-share-emissions?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
@@ -23,7 +23,7 @@ tags:
 
 La financiación y la transferencia de tecnología son dos de las principales formas de cooperación internacional en materia de cambio climático (mitigación, adaptación, pérdidas y daños).
 
-![[Web/content/Soporte visual/Pasted image 20260703170046.png]]
+![[Web/content/Visual/Pasted image 20260703170046.png]]
 
 
 La financiación climática se refiere a los recursos financieros dedicados a abordar el cambio climático, funcionando como una red financiera global diseñada para ayudar especialmente a los países en desarrollo a enfrentar el desafío climático. Sus principales objetivos incluyen:

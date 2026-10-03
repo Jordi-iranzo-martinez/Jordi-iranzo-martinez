@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/photography_berlin-wall.png]]
+![[Web/content/Visual/photography_berlin-wall.png]]
 
 On August 13, 1961, the East German government began sealing off the border to stop its citizens from fleeing to the West. In those first few days, the "wall" was not yet a massive concrete structure; it was merely a single coil of concertina barbed wire strung across city streets.
 

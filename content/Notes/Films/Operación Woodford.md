@@ -30,7 +30,7 @@ La operación fue un éxito y evitó un desastre ecológico de gran magnitud en 
 Todas ellas son especies muy sensibles a las molestias e impactos asociados a la presencia humana, y encuentran en estas islas el único punto de nidificación de la Comunidad Valenciana. [Generalitat Valenciana](https://parquesnaturales.gva.es/es/web/pn-illes-columbretes/fauna)
 
 
-[[Web/content/Soporte visual/espana_reservas-marinas.png]]
+[[Web/content/Visual/espana_reservas-marinas.png]]
 
 **Además:**
 

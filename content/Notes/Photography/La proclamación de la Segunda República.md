@@ -3,5 +3,5 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Web/content/Soporte visual/photopgraphy_segunda-republica.png]]
+![[Web/content/Visual/photopgraphy_segunda-republica.png]]
 

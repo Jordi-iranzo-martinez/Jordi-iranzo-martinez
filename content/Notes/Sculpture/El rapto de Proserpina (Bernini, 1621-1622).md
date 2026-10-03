@@ -3,7 +3,7 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Web/content/Soporte visual/Pasted image 20260821011457.png]]
+![[Web/content/Visual/Pasted image 20260821011457.png]]
 
 
 De acuerdo a "Las metamorfosis" de Ovidio, Plutón, el dios del inframundo y de los muertos se enamora de Proserpina, hija de Júpiter y de Ceres, la diosa de la agricultura y la tierra.

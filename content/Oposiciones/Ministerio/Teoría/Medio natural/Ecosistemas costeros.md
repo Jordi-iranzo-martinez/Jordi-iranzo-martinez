@@ -7,7 +7,7 @@ tags:
 
 Los ecosistemas costeros son sistemas naturales de transición entre medios terrestre y marino caracterizados por su alta productividad, biodiversidad y fragilidad, sometidos a la dinámica física litoral y regulados jurídicamente como dominio público marítimo-terrestre.
 
-![[Web/content/Soporte visual/Zonificación de la franja de playa respecto al rompiente del oleaje.png]]
+![[Web/content/Visual/Zonificación de la franja de playa respecto al rompiente del oleaje.png]]
 
 
 Se basan en los siguientes:
@@ -27,9 +27,9 @@ Se basan en los siguientes:
 
 - **Sistemas dunares**: Por la acción eólica, en la zona seca de la playa, con vegetación diferenciada en franjas
 
-	![[Web/content/Soporte visual/Pasted image 20260701233523.png|458]]
+	![[Web/content/Visual/Pasted image 20260701233523.png|458]]
 
-	![[Web/content/Soporte visual/Pasted image 20260701233457.png]]
+	![[Web/content/Visual/Pasted image 20260701233457.png]]
 
 
 #### Deltas
@@ -46,7 +46,7 @@ Se basan en los siguientes:
 
 - **Estuarios**: Cuerpo de agua costera semi-cerrada donde confluyen aguas fluviales y saladas, creando un gradientes de salinidad característico, generalmente en forma de embudo o cuña, y con elevada influencia de las mareas (del laetín *aestuarium*: "lugar de mareas")
 
-	![[Web/content/Soporte visual/Pasted image 20260701233516.png]]
+	![[Web/content/Visual/Pasted image 20260701233516.png]]
 
 
 #### Marismas
@@ -72,7 +72,7 @@ La distribución en el litoral español es básicamente acantilados en el Norte 
 
 Las rías son frecuentes en zonas de costas atlánticas, como las Rías Altas, las Rías Baixas, o la Ría de Vigo, todas ellas en Galicia.
 
-![[Web/content/Soporte visual/tipos-costas-espana.png]]
+![[Web/content/Visual/tipos-costas-espana.png]]
 
 ### Recuperación ambiental de ecosistemas costeros
 
@@ -105,6 +105,6 @@ Los elementos y características físicas que determinan la pertenencia al domin
 | Zona marítimo-terrestre | - **Marisma**: terreno muy llano y bajo que se inunda periódicamente como consecuencia del flujo y reflujo de las mareas o de la filtración del agua del mar.<br>- **Albufera**: cuerpos de aguas costeras que quedan físicamente separados del océano, en mayor o menor extensión por una franja de tierra.<br>- **Marjal**: terreno bajo cubierto por un manto de agua que da soporte a abundante vegetación.<br>- **Estero**: caños en una marisma. |
 | Playas                  | - **Berma**: parte casi horizontal de la playa, interior al escarpe o talud de fuerte pendiente causada por el oleaje.<br>- **Escarpe**: escalón vertical en la playa formado por la erosión de la berma.<br>- **Dunas**: depósitos sedimentarios de arena, generalmente transportada por el viento.                                                                                                                                                   |
 
-![[Web/content/Soporte visual/Partes del dominio público marítimo-terrestre.png]]
+![[Web/content/Visual/Partes del dominio público marítimo-terrestre.png]]
 
 *Partes del Dominio Público Marítimo-Terrestre (DPMT). Fuente: Ministerio de medio ambiente*

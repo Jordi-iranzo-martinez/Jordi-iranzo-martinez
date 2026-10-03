@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823191226.png]]
+![[Web/content/Visual/Pasted image 20260823191226.png]]
 
 [[To Kill a Mockingbird (R. Mulligan, 1962)]]
 

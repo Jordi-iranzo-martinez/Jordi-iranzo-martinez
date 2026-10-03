@@ -7,7 +7,7 @@ La [Enmienda de Kigali](https://ozone.unep.org/treaties/montreal-protocol/amendm
 
 - **Inclusió de los hidrofluorocarbonos** (HFC) como gases de eliminación progresiva: potentes gases de efecto invernadero, empleados fundamentalmente en sistemas de refrigeración, que aunque agotan la capa de ozono, fueron utilizados como sustitutos de éstos y son gases de efecto invernadero muy potentes.
 
-![[Web/content/Soporte visual/Partes de la Enmienda de Kigali.png]]
+![[Web/content/Visual/Partes de la Enmienda de Kigali.png]]
 
 
 

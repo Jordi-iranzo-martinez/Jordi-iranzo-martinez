@@ -9,13 +9,13 @@ El [Convenio de Basilea sobre el Control de los Movimientos Transfronterizos de 
 
 	- **Conferencia de las Partes** (COP): órgano de gobierno formado por todos los Estados que han ratificado el Tratado. Desde 2013 se reune cada dos años durante dos semanas
 
-		![[Web/content/Soporte visual/Pasted image 20260429194600.png]]
+		![[Web/content/Visual/Pasted image 20260429194600.png]]
 	
 	- **Secretaría**: compartida con el Convenio de Estocolmo y el Convenio de Rotterdam
 
 	- **Centros Regionales y de Coordinación para el Fortalecimiento de Capacidades y la Transferencia de Tecnología** (BCRCs)
 
-		![[Web/content/Soporte visual/Pasted image 20260429194555.png]]
+		![[Web/content/Visual/Pasted image 20260429194555.png]]
 
 
 	- **Grupo de Trabajo de Composición Abierta** (OEWG): órgano subsidiario para 
@@ -27,7 +27,7 @@ El [Convenio de Basilea sobre el Control de los Movimientos Transfronterizos de 
 
 Los movimientos transfronterizos de desechos peligrosos y otros desechos que no se realizan conforme a los requisitos específicos del Convenio se consideran ilegales, y deben ser condenados de acuerdo a la normativa nacional.
 
-![[Web/content/Soporte visual/global-illegal-waste-traffic.png]]
+![[Web/content/Visual/global-illegal-waste-traffic.png]]
 *Tráfico ilegal mundial de residuos. Fuente: Hisham H. Ashkar, 2015., en [UNEP-GRID](https://www.grida.no/resources/8061)*
 
 
@@ -49,29 +49,29 @@ DE DESECHOS PELIGROSOS Y SU ELIMINACIÓN
 
 |                                      |                                      |
 | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20260619092556.png]] | ![[Web/content/Soporte visual/Pasted image 20260619092600.png]] |
-| ![[Web/content/Soporte visual/Pasted image 20260619092606.png]] | ![[Web/content/Soporte visual/Pasted image 20260619092610.png]] |
+| ![[Pasted image 20260619092556.png]] | ![[Web/content/Visual/Pasted image 20260619092600.png]] |
+| ![[Web/content/Visual/Pasted image 20260619092606.png]] | ![[Web/content/Visual/Pasted image 20260619092610.png]] |
 
 
 1. **Notificación**: el exportador o generador informa a la autoridad competente (CA) del Estado de exportación, y elaboran un contrato con el gestor final (país importador) especificando las medidas de gestión, que deben de ser ambientalmente responsables. La autoridad competente mencionada lo revisa, y decide sobre su autorización o su rechazo. En caso positivo, comunica al país importador previo al traslado, a través de un documento que incluya información detallada, precisa y completa del residuo en cuestión, de las formas de gestión, y del transporte en sí, siguiendo el siguiente formato.
 
 
-	![[Web/content/Soporte visual/Pasted image 20260429194637.png]]
+	![[Web/content/Visual/Pasted image 20260429194637.png]]
 	
 
 
 2. **Consentimiento y emisión del documento de movimiento**: la autoridad responsable del país importador debe proporcionar su aceptación mediante un consentimiento escrito (con o sin condiciones), o expresar su denegación en un plazo de 60 días. También debe confirmar la existencia del contrato con el gestor final y el generador. Si el resultado es positivo, la autoridad competente del Estado de Importación puede realizar el Documento de Traslado, con el [formato siguiente](https://www.basel.int/Procedures/NotificationMovementDocuments/tabid/1327/Default.aspx).
 
-	![[Web/content/Soporte visual/Pasted image 20260429194658.png]]
+	![[Web/content/Visual/Pasted image 20260429194658.png]]
 
 
 3. **Movimiento transfronterizo**: siempre acompañado del Documento de Traslado.
 
-	![[Web/content/Soporte visual/Pasted image 20260429194714.png]]
+	![[Web/content/Visual/Pasted image 20260429194714.png]]
 
 4. **Confirmación de la eliminación**: de la autoridad competente del Estado de importación a la de exportación, sobre las condiciones del acuerdo; en caso de no recibirla, esta última debe informar sobre ello.
 
-	![[Web/content/Soporte visual/Pasted image 20260429194723.png]]
+	![[Web/content/Visual/Pasted image 20260429194723.png]]
 
 
 El tráfico de residuos peligrosos no de acuerdo al siguiente procedimiento se considera ilegal. 

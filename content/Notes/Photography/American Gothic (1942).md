@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/Pasted image 20260823185200.png|284x403]]
+![[Web/content/Visual/Pasted image 20260823185200.png|284x403]]
 
 The woman in the portrait is Ella Watson, who worked as a charwoman (janitor) in the very building where the Farm Security Administration (FSA) was headquartered. Parks, who had just arrived in Washington, D.C. on a fellowship, was deeply shocked by the intense, overt racism and segregation he experienced in the nation's capital.
 

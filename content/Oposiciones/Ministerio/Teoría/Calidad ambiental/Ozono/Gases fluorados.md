@@ -12,7 +12,7 @@ Los gases fluorados son compuestos químicos artificiales que contienen flúor (
 | **Hexafluoruro de azufre** (SF6)   | - Aislante eléctrico: industria de la energía,  equipos de distribución eléctrica e interruptores de alta tensión<br>- Pruebas de detección de fugas |
 | **Trifluoruro de nitrógeno** (NF3) | - Equipos antiguos de refrigeración (han sido sustituidos por los HFC)                                                                               |
 
-![[Web/content/Soporte visual/Potenciales de calentamiento global de los principales gases fluorados.png]]
+![[Web/content/Visual/Potenciales de calentamiento global de los principales gases fluorados.png]]
 *Potenciales de calentamiento global de los principales gases fluorados (en unidades de CO2-equivalente). Fuente: [Perplexity](https://www.perplexity.ai), elaboración propia.*
 
 
@@ -50,7 +50,7 @@ A escala nacional, se ha regulado mediante el [Real Decreto 115/2017](https://ww
 
 
 
-![[Web/content/Soporte visual/Evolución mundial y comunitaria del consumo de sustancias que agotan la capa de ozono (toneladas) (1986-2023).png]]
+![[Web/content/Visual/Evolución mundial y comunitaria del consumo de sustancias que agotan la capa de ozono (toneladas) (1986-2023).png]]
 
 Fuente: [EEA](https://www.eea.europa.eu/en/analysis/maps-and-charts/consumption-of-controlled-ozone-depleting-8-figures)
 

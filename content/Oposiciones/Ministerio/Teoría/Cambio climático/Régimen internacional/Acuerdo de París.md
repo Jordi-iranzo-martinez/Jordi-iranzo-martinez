@@ -150,7 +150,7 @@ Medidas de cooperación** (artículo 6): voluntaria, de las Partes, en la aplica
 
 - **Enfoques no de mercado** (6.8) (NMA): integrados, holísticos y equilibrados, de manera coordinada y eficaz, en temas diversos (mitigación, adaptación, financiación, transferencia de tecnología, capacitación...), favoreciendo la participación (pública y privada) y los acuerdos institucionales pertinentes; la cual se registrará en una plataforma como medio de transparencia pública ([NMA Platform](https://unfccc.int/process-and-meetings/the-paris-agreement/cooperative-implementation/Article-6-8/nma-platform/main/non-market-approaches))
 
-	![[Web/content/Soporte visual/Pasted image 20260403205356.png]]
+	![[Web/content/Visual/Pasted image 20260403205356.png]]
 
 
 

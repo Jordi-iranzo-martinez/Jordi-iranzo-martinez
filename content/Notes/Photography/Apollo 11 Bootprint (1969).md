@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/Pasted image 20260823192536.png]]
+![[Web/content/Visual/Pasted image 20260823192536.png]]
 
 The famous close-up photograph of the Apollo 11 bootprint was captured on July 20, 1969, by lunar module pilot Buzz Aldrin.
 

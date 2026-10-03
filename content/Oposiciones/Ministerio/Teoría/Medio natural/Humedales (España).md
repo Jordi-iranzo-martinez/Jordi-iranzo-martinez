@@ -50,7 +50,7 @@ En la Estrategia de Humedales a 2030, basada en el Inventario Español de Zonas 
 
 En términos de superficie, un 70% está bien conservado. 6 humedales han desaparecido (aproximadamente 620 hectáreas).
 
-![[Web/content/Soporte visual/Pasted image 20260403195400.png]]
+![[Web/content/Visual/Pasted image 20260403195400.png]]
 
 
 ### Medidas de conservación

@@ -66,11 +66,11 @@ Los Estados pueden someter sus disputas al TIDM, a la Corte Internacional de Jus
 
 Se ha complementado posteriormente con instrumentos posteriores, como el Acuerdo de 1995 sobre poblaciones de peces transzonales y altamente migratorias, y el Acuerdo BBNJ (2023) sobre biodiversidad marina en zonas fuera de jurisdicción nacional.
 
-![[Web/content/Soporte visual/unlos_partes-marinas2.png]]
+![[Web/content/Visual/unlos_partes-marinas2.png]]
 
 
-![[Web/content/Soporte visual/unlos_mar-abierto.png]]
+![[Web/content/Visual/unlos_mar-abierto.png]]
 
 
-![[Web/content/Soporte visual/unlos_partes-marinas.png]]
+![[Web/content/Visual/unlos_partes-marinas.png]]
 

@@ -46,7 +46,7 @@ Sus funciones ecológicas son capitales:
 - **Aporte de materia orgánica alóctona**: hojarasca, madera muerta, base de la red trófica fluvial
 - **Regulación microclimática y térmica** del cauce
 
-![[Web/content/Soporte visual/Pasted image 20260413092516.png]]
+![[Web/content/Visual/Pasted image 20260413092516.png]]
 
 
 Los ríos españoles se caracterizan por su diversidad geográfica y climática, abarcando desde torrentes mediterráneos hasta grandes ríos atlánticos. Esta diversidad se refleja en diferentes tipologías:
@@ -101,7 +101,7 @@ Los principales retos que afronta la revisión y actualización de esta ENRR pue
 10. Disminución de los servicios ecosistémicos aportados por los ríos asociados a las zonas de ocio, recreo, inspiración y bienestar; hecho que cobra una especial importancia en el ámbito urbano y que potencialmente puede incrementar los fenómenos de conflictividad social.
 
 
-![[Web/content/Soporte visual/Pasted image 20260426155305.png]]
+![[Web/content/Visual/Pasted image 20260426155305.png]]
 
 
 La DMA establece como objetivo lograr el Buen Estado Ecológico (BEE) para ríos naturales y el Buen Potencial Ecológico (BPE) para masas de agua muy modificadas (embalses, canales, ríos canalizados). 
@@ -118,9 +118,9 @@ El estado se evalúa mediante indicadores, que pueden ser de diferentes tipos:
 | Hidromorfológicos | - Régimen hidrológico<br>- Continuidad del río<br>- Condiciones morfológicas                                                                                           |
 
 
-![[Web/content/Soporte visual/Pasted image 20260426154901.png]]
-![[Web/content/Soporte visual/Pasted image 20260426154905.png]]
-![[Web/content/Soporte visual/Pasted image 20260426154909.png]]
+![[Web/content/Visual/Pasted image 20260426154901.png]]
+![[Web/content/Visual/Pasted image 20260426154905.png]]
+![[Web/content/Visual/Pasted image 20260426154909.png]]
 
 Las categorías son las siguientes:
 
@@ -145,7 +145,7 @@ Los corredores fluviales son franjas de territorio que incluyen el cauce del rí
 | Vertical     | Superficie hiporreica al acuífero  | - Intercambio hídrico<br>- Intercambio biogeoquímico |
 | Temporal     | Tiempo                             | - Dinámica estacional<br>- Dinámica geomorfológica   |
 
-![[Web/content/Soporte visual/Pasted image 20260413092453.png]]
+![[Web/content/Visual/Pasted image 20260413092453.png]]
 
 *Tipos de conectividad de los corredores fluviales. Fuente: [Confederación Hidrográfica del Segura](https://www.chsegura.es/es/cuenca/restauracion-de-rios/segurariverlink/un-paseico-por-el-rio-segura/infraestructuras-verdes.html).*
 
@@ -226,9 +226,9 @@ Además, existe una estructura horizontal, en la que la vegetación aparece en b
 - **Segunda banda**: 
 
 
-![[Web/content/Soporte visual/Pasted image 20260620073252.png]]
+![[Web/content/Visual/Pasted image 20260620073252.png]]
 
-![[Web/content/Soporte visual/Pasted image 20260620073257.png]]
+![[Web/content/Visual/Pasted image 20260620073257.png]]
 
 
 Además, los ríos son ecosistemas con una estructura ecológica determinada: 
@@ -251,7 +251,7 @@ Las riberas son ambientes muy dinámicos por el movimiento continuo de las aguas
 - **Sedimentación**: deposición de sedimentos, en zonas bajas por pérdida de la velocidad, en forma de barras en el cauce o en deltas, en las llanuras de inundación durante las crecidas.
 
 
-![[Web/content/Soporte visual/Pasted image 20260620073308.png]]
+![[Web/content/Visual/Pasted image 20260620073308.png]]
 
 - En **cabecera**, el bosque ripario cubre el cauce y los shredders dominan procesando la hojarasca que cae
 
@@ -307,7 +307,7 @@ Los principales elementos a valorar en la restauración fluvial son los siguient
 
 |     |                                      |
 | --- | ------------------------------------ |
-|     | ![[Web/content/Soporte visual/Pasted image 20260620073333.png]] |
+|     | ![[Web/content/Visual/Pasted image 20260620073333.png]] |
 
 
 ### Régimen de caudales ecológicos

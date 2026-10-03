@@ -4,7 +4,7 @@ tags:
 ---
 *"Chłopiec z warszawskiego getta" (znany też jako "Chłopiec z podniesionymi rękami") to jedno z najbardziej rozpoznawalnych i przejmujących zdjęć Holokaustu, pochodzące z 1943 roku.*
 
-![[Web/content/Soporte visual/Pasted image 20260823191836.png]]
+![[Web/content/Visual/Pasted image 20260823191836.png]]
 
 
 Fotografia pochodzi z tzw. Raportu Stroopa — oficjalnego niemieckiego dokumentu sporządzonego przez SS-Gruppenführera Jürgena Stroopa, dowódcę operacji likwidacji getta warszawskiego po powstaniu w getcie warszawskim w kwietniu-maju 1943 roku. Raport, zatytułowany "Żydowska dzielnica mieszkaniowa w Warszawie już nie istnieje!" ("Es gibt keinen jüdischen Wohnbezirk in Warschau mehr!"), zawierał dziesiątki zdjęć dokumentujących brutalne tłumienie powstania i deportację mieszkańców getta.

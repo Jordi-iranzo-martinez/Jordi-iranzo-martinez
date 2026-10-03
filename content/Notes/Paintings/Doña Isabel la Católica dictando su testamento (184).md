@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Web/content/Soporte visual/Isabel la Católica dictando su testamento.jpg]]
+![[Web/content/Visual/Isabel la Católica dictando su testamento.jpg]]
 
 
 Isabel I de Castilla tenía solo 53 años, pero estaba profundamente enferma, agotada y afectada por las tragedias familiares (las muertes de sus hijos Juan e Isabel, y de su nieto Miguel, sumadas a los primeros signos de inestabilidad mental de su hija Juana). Sabía que su fin estaba cerca y, fiel a su carácter previsor, dedicó sus últimas fuerzas a dejar el reino ordenado para evitar una guerra civil.

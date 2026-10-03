@@ -1,2 +1,2 @@
 
-![[Web/content/Soporte visual/Pasted image 20260827161513.png]]
+![[Web/content/Visual/Pasted image 20260827161513.png]]

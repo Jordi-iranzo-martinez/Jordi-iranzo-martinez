@@ -21,7 +21,7 @@ Las Reservas son designadas por los Gobiernos Nacionales y aprobadas por el Cons
 
 La Red Mundial de Reservas de la Biosfera comprende un total de 759, en 136 países, 25 de las cuales son lugares transfonterizos.
 
-![[Web/content/Soporte visual/world-network-biosphere-reserves.png]]
+![[Web/content/Visual/world-network-biosphere-reserves.png]]
 Red Mundial de Reservas de la Biosfera
 
 
@@ -29,7 +29,7 @@ Red Mundial de Reservas de la Biosfera
 
 España es el país con mayor número del mundo del mundo, con un total de 55 (una de cada 16 del planeta), que comprenden un 15% del territorio nacional. Se encuentran en todas las Comunidades Autónomas a excepción de Murcia. La primera reserva española fue Sierra de Grazalema (Andalucía, 1977), y la más reciente el Val d'Aran en 2024. Cuatro son transfronterizas: tres con Portugal y una con Marruecos.
 
-![[Web/content/Soporte visual/espana_reservas-biosfera.png]]
+![[Web/content/Visual/espana_reservas-biosfera.png]]
 
 *Reservas de la Biosfera en España. Fuente: Ministerio con competencia en medio ambiente*
 

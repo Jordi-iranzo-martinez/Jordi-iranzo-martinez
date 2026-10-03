@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/photography_laika.png]]
+![[Web/content/Visual/photography_laika.png]]
 
 
 Laika (from Russian _Лайка_: "Barker") was a stray dog from the streets of Moscow who became the first living creature to orbit the Earth, launched into outer space aboard the Soviet Sputnik 2 spacecraft on November 3, 1957.

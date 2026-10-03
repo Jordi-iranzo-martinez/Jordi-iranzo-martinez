@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/Pasted image 20260823185953.png]]
+![[Web/content/Visual/Pasted image 20260823185953.png]]
 
 It stands as one of the most famous, subversive, and definitive works from his exploration of the underground gay BDSM and leather subculture in New York City.
 

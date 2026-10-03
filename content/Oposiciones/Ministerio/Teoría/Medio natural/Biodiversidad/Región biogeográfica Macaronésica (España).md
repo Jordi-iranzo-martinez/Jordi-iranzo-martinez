@@ -13,20 +13,20 @@ tags:
 
 
 
-![[Web/content/Soporte visual/espana_pino-canario.png]]
+![[Web/content/Visual/espana_pino-canario.png]]
 
 *Distribución del pino canario en España. Fuente: Banco de Datos de la Naturaleza (BDN), Mapa Forestal Español (MFE)
 
 
 
-![[Web/content/Soporte visual/espana_dayal-brezal.png]]
+![[Web/content/Visual/espana_dayal-brezal.png]]
 	*Distribución del fayal-brezal en España. Fuente: Banco de Datos de la Naturaleza (BDN), Mapa Forestal Español (MFE)*
 
 
-![[Web/content/Soporte visual/espana_laurisilva.png]]Distribución de la laurisilva en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/36LaurisilvasMacaronesicas_tcm30-138179.jpg
+![[Web/content/Visual/espana_laurisilva.png]]Distribución de la laurisilva en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/36LaurisilvasMacaronesicas_tcm30-138179.jpg
 
 
-![[Web/content/Soporte visual/espana_palmera-canaria.png]]
+![[Web/content/Visual/espana_palmera-canaria.png]]
 Distribución de la palmera canaria. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/37PalmerasyMezclasPalmerasconOtrasEspecies_tcm30-138181.jpg
 
 

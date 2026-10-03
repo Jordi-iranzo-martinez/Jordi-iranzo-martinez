@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Web/content/Soporte visual/goya_familia-carlos-iv.jpg]]
+![[Web/content/Visual/goya_familia-carlos-iv.jpg]]
 
 Aunque formalmente el retrato es del rey Carlos IV, Goya situó a la reina María Luisa de Parma en el centro exacto de la escena. 
 

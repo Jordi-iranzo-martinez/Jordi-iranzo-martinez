@@ -17,7 +17,7 @@ El [Real Decreto 159/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-3717)
 
 | Conservación *in situ*               | Conservación *ex situ*                                                           |
 | ------------------------------------ | -------------------------------------------------------------------------------- |
-| ![[Web/content/Soporte visual/Pasted image 20260620064432.png]] | ![[Web/content/Soporte visual/Pasted image 20260620064435.png]]<br><br>![[Web/content/Soporte visual/Pasted image 20260620064446.png]] |
+| ![[Web/content/Visual/Pasted image 20260620064432.png]] | ![[Web/content/Visual/Pasted image 20260620064435.png]]<br><br>![[Web/content/Visual/Pasted image 20260620064446.png]] |
 
 [[Ley 43-2003 (Montes)]]
 

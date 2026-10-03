@@ -24,7 +24,7 @@ El [Protocolo de Montreal](https://ozone.unep.org/treaties/montreal-protocol/mon
 | HCFC Grupo III             | C-III | 1 año tras entrada en vigor  | 1 año tras entrada en vigor  |
 | HFC (gases invernadero)    | F     | Tras entrada en vigor        | Tras entrada en vigor        |
 
-![[Web/content/Soporte visual/vienna-convention_structure.png]]
+![[Web/content/Visual/vienna-convention_structure.png]]
 *Estructura del Convenio de Viena. Fuente: [Secretaría del Convenio de Viena](https://ozone.unep.org/institutions) (UNEP)*
 
 
@@ -42,11 +42,11 @@ El [Protocolo de Montreal](https://ozone.unep.org/treaties/montreal-protocol/mon
 
 | Anexo |                                                                                                                                                                      | Prohibición de importación y exportación           |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| A     | - Grupo I: CFCs principales<br>- Grupo II: Halones<br><br>![[Web/content/Soporte visual/ozone_anexo-A-montreal.png]]                                           | 1990, 1993                                         |
-| B     | - Grupo I: Otros CFCs<br>- Grupo II: Tetracloruro de carbono<br>- Grupo III: Metilcloroformo<br><br>![[Web/content/Soporte visual/ozono_gases-anexo-b-montreal.png]] | 1 año tras entrada en vigor                        |
-| C     | - Grupo I: HCFCs<br>- Grupo II: HBFCs<br>- Grupo III: Bromoclorometano<br><br>![[Web/content/Soporte visual/Gases regulados en el Anexo C del Protocolo de Montreal.png]]<br>                   | 2004 (I), y 1 año tras entrada en vigor (II y III) |
-| D     | ![[Web/content/Soporte visual/Gases regulados en el Anexo D del Protocolo de Montreal.png]]                                                                                                     |                                                    |
-| E     | - Bromuro de metilo<br><br>![[Web/content/Soporte visual/Gases regulados en el Anexo E del Protocolo de Monreal.png]]                                                                           | 1 año tras entrada en vigor                        |
+| A     | - Grupo I: CFCs principales<br>- Grupo II: Halones<br><br>![[Web/content/Visual/ozone_anexo-A-montreal.png]]                                           | 1990, 1993                                         |
+| B     | - Grupo I: Otros CFCs<br>- Grupo II: Tetracloruro de carbono<br>- Grupo III: Metilcloroformo<br><br>![[Web/content/Visual/ozono_gases-anexo-b-montreal.png]] | 1 año tras entrada en vigor                        |
+| C     | - Grupo I: HCFCs<br>- Grupo II: HBFCs<br>- Grupo III: Bromoclorometano<br><br>![[Web/content/Visual/Gases regulados en el Anexo C del Protocolo de Montreal.png]]<br>                   | 2004 (I), y 1 año tras entrada en vigor (II y III) |
+| D     | ![[Web/content/Visual/Gases regulados en el Anexo D del Protocolo de Montreal.png]]                                                                                                     |                                                    |
+| E     | - Bromuro de metilo<br><br>![[Web/content/Visual/Gases regulados en el Anexo E del Protocolo de Monreal.png]]                                                                           | 1 año tras entrada en vigor                        |
 | F     | - Hidrofluorocarbonos<br><br>![[Gases regulados en el Anexo F del Protocolo de Montreal.png]]                                                                                                    | Tras entrada en vigor                              |
 
 
@@ -65,7 +65,7 @@ El protocolo incorpora un mecanismo innovador de diferenciación entre países d
 | Kigali (2016)     | Adición de los hidrofluorocarbonos (HFC)                                                                                                                       | Anexo F                                                                   |
 
 
-| ![[Web/content/Soporte visual/Pasted image 20260620084736.png]] | ![[Web/content/Soporte visual/Partes del Protocolo de Montreal.png]] |
+| ![[Web/content/Visual/Pasted image 20260620084736.png]] | ![[Web/content/Visual/Partes del Protocolo de Montreal.png]] |
 | ------------------------------------ | ------------------------------------ |
 
 El Fondo Multilateral es parte del Mecanismo Financiero (también podrá incluir otros medios de cooperación multilateral, regional y bilateral), sometido a la autoridad y criterios de las Partes, que sufragará, a título de donación o en condiciones concesionarias (según proceda), todos los costos adicionales acordados; y realizará las funciones siguientes:

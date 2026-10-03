@@ -5,7 +5,7 @@ tags:
 ---
 El Carambolo, Camas, Sevilla.
 
-![[Web/content/Soporte visual/tesoro-carambolo.png]]
+![[Web/content/Visual/tesoro-carambolo.png]]
 
 El tesoro de Carambolo está formado por 16 placas rectangulares, 2 pectorales o colgantes, 1 collar y 2 brazaletes.
 

@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/photography_betty-grable.png]]
+![[Web/content/Visual/photography_betty-grable.png]]
 
 
 Betty Grable** (1916–1973) was an iconic American actress, dancer, and singer who reigned as the **definitive queen of the Hollywood musical during the 1940s**.

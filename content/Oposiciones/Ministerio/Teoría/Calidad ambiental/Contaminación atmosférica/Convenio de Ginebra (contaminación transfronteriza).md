@@ -9,7 +9,7 @@ El [Convenio sobre la contaminación atmosférica transfronteriza a larga distan
 
 Se le considera uno de los acuerdos ambientales multilaterales más exitosos, al haber contribuido a reducciones sustanciales de las emisiones de azufre y la lluvia ácida en Europa y Norteamérica. Sentó un precedente de cooperación internacional para problemas ambientales que ningún país puede resolver por sí solo.
 
-![[Web/content/Soporte visual/Partes del Convenio de Ginebra sobre Contaminación transfronteriza.png]]
+![[Web/content/Visual/Partes del Convenio de Ginebra sobre Contaminación transfronteriza.png]]
 
 *Partes del Convenio de Ginebra sobre Contaminación Transfronteriza. Fuente: Wikipedia*  (51 países parte actualmente)
 
@@ -33,7 +33,7 @@ Ha sido desarrollado a través de ocho Protocolos:
 	*Incluye tres componentes básicos: recolección de contaminantes atmosféricos -dióxido de azufre (SO₂), óxidos de nitrógeno (NOₓ), compuestos orgánicos volátiles (COVs), y otros-; medición de la calidad del aire y la precipitación (datos esenciales de contaminación), y modelización de la dispersión atmosférica (transporte y deposición de contaminantes).*
 
 
-![[Web/content/Soporte visual/Pasted image 20260820063213.png]]
+![[Web/content/Visual/Pasted image 20260820063213.png]]
 
 
 2. **[Protocolo de Helsinki](https://unece.org/environmental-policy/air/1985-helsinki-protocol-reduction-sulphur-emissions-or-their-transboundary)** (1985, 1987): reducción de al menos un 30% de las emisiones de azufre (SO2)
@@ -63,6 +63,6 @@ En la actualidad, cuenta con la siguiente estructura organizativa:
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260428191632.png]]
+![[Web/content/Visual/Pasted image 20260428191632.png]]
 
 *Estructura del Órgano ejecutivo (Conferencia de las Partes) del Convenio de Ginebra de Contaminación Transfronteriza a Larga Distancia (CLRAP). Fuente: [UNECE](https://unece.org/sites/default/files/2022-04/CLRTAP%20Structure%2025042022%20web.pdf)*

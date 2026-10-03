@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/pacto-horacios.png]]
+![[Web/content/Visual/pacto-horacios.png]]
 
 
 

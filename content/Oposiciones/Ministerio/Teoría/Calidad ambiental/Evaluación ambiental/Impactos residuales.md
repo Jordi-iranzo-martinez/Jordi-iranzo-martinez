@@ -21,6 +21,6 @@ Esto supone una jerarquía de mitigación, basada en la gestión de impactos a t
 
 para las que se aplicarán medidas adecuadas.
 
-![[Web/content/Soporte visual/jerarquia-mitigacion-impactos.png]]
+![[Web/content/Visual/jerarquia-mitigacion-impactos.png]]
 
 *Funcionamiento de la jerarquía de mitigación. Fuente: documento "[Bancos de Conservación de la Naturaleza](https://www.prioridadrednatura2000.es/sites/default/files/lifemap_bancos_de_conservacion.pdf)" (2014), realizado por [ECOACSA](https://ecoacsa.com) a través de un Proyecto LIFE.*

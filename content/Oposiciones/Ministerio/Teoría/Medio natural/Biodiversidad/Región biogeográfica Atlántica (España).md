@@ -13,11 +13,11 @@ tags:
 
 
 
-![[Web/content/Soporte visual/espana_robles.png]]
+![[Web/content/Visual/espana_robles.png]]
 Distribución de robledales en España (Quercus robur y/o Q. petraea). Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/4RobledalesQuercusRoburQPetraea_tcm30-138145.jpg
 
 
-![[Web/content/Soporte visual/espana_hayas.png]]
+![[Web/content/Visual/espana_hayas.png]]
 
 
 Distribución de hayedos en España. Fuente: https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/servicios/banco-datos-naturaleza/1Hayedos_tcm30-138144.jpg

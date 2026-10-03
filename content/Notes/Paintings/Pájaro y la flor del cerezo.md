@@ -3,4 +3,4 @@ tags:
   - Just_One_Planet
 ---
 
-![[Web/content/Soporte visual/hiroshige-pajaro-cerezo-flor.jpg]]
+![[Web/content/Visual/hiroshige-pajaro-cerezo-flor.jpg]]

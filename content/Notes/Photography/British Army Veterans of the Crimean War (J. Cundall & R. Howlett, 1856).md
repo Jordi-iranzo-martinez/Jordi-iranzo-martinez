@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823195517.png]]
+![[Web/content/Visual/Pasted image 20260823195517.png]]
 
 
 The project was directly commissioned by Queen Victoria, who took an active, personal interest in the welfare of the ordinary soldiers returning home from the brutal campaign against Russia.

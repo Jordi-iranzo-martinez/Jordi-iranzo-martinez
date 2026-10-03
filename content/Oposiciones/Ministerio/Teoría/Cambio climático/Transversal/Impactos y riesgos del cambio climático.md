@@ -11,7 +11,7 @@ tags:
 ##### Unión Europea
 
 
-![[Web/content/Soporte visual/Pasted image 20260429201139.png]]
+![[Web/content/Visual/Pasted image 20260429201139.png]]
 
 
 | Sector        | Riegos principales                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Impactos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -72,20 +72,20 @@ Europa es el continente que se calienta más rápidamente del mundo. Según la A
 
 |                                      |     |
 | ------------------------------------ | --- |
-| ![[Web/content/Soporte visual/Pasted image 20260620051000.png]] |     |
-| ![[Web/content/Soporte visual/Pasted image 20260620051009.png]] |     |
-| ![[Web/content/Soporte visual/Pasted image 20260620051020.png]] |     |
+| ![[Web/content/Visual/Pasted image 20260620051000.png]] |     |
+| ![[Web/content/Visual/Pasted image 20260620051009.png]] |     |
+| ![[Web/content/Visual/Pasted image 20260620051020.png]] |     |
 |                                      |     |
 
 
 - **Ambientales**: 
 	- **Aumento de temperaturas del continente**: el aumento de las temperaturas y el aumento del riesgo de desertificación Los impactos del cambio climático en Europa: — evaluación en distintas regiones europeas
 
-		![[Web/content/Soporte visual/Pasted image 20260429200435.png]]
+		![[Web/content/Visual/Pasted image 20260429200435.png]]
 
 	- **Aumento de las temperaturas de las aguas**: 
 
-		![[Web/content/Soporte visual/Pasted image 20260429200455.png]]
+		![[Web/content/Visual/Pasted image 20260429200455.png]]
 
 
 	- **Cambios en precipitaciones:** mayores precipitaciones anuales y riesgos de inundaciones, con patrones cambiantes que afectan diferentemente a las regiones
@@ -98,13 +98,13 @@ Europa es el continente que se calienta más rápidamente del mundo. Según la A
 
 	- **Aumento del nivel del mar**: por dilatación térmica del agua y derretimiento de los glaciares
 
-		![[Web/content/Soporte visual/Pasted image 20260429200506.png]]
+		![[Web/content/Visual/Pasted image 20260429200506.png]]
 
 
 - **Sanitarios**: 
 	- **Aumento de la mortalidad**: por olas de calor, incendios forestales, inundaciones, tormentas...
 
-		![[Web/content/Soporte visual/Pasted image 20260429200519.png]]
+		![[Web/content/Visual/Pasted image 20260429200519.png]]
 
 
 	- **Aumento de enfermedades infecciosas:** cambios en la distribución de enfermedades infecciosas sensibles al cambio climático se traduzcan en un aumento de los riesgos para la salud y el bienestar humanos

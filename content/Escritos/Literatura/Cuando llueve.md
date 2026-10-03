@@ -14,4 +14,4 @@ Aún arrecia. Abro la ventana y me asomo. La lluvia aumenta su sonido. Percibo e
 
 Sonrío a un animal que no comprende. Celebro seguir vivo. Escampa finalmente.
 
-![[Web/content/Soporte visual/gato-lluvia.jpg]]
+![[Web/content/Visual/gato-lluvia.jpg]]

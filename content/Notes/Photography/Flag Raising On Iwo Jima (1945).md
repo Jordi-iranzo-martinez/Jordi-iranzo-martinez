@@ -5,7 +5,7 @@ tags:
 
 *"Raising the Flag on Iwo Jima" is one of the most iconic and widely reproduced photographs in history, taken by Associated Press photographer Joe Rosenthal on February 23, 1945.*
 
-![[Web/content/Soporte visual/photography_flag-iwo-jima.png]]
+![[Web/content/Visual/photography_flag-iwo-jima.png]]
 
 
 The photo shows six U.S. Marines raising an American flag atop Mount Suribachi during the Battle of Iwo Jima, one of the bloodiest and most brutal engagements of the Pacific campaign in World War II. Capturing the strategic volcanic island was seen as critical since it could provide an airbase for fighter escorts and emergency landings for bombers striking Japan.

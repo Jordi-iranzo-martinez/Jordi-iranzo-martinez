@@ -4,7 +4,7 @@ tags:
 ---
 Santiago Ramón y Cajal (1852–1934), médico e histólogo aragonés, es el científico más importante de la historia de España, reconocido mundialmente como el padre de la neurociencia moderna.
 
-![[Web/content/Soporte visual/ramon-y-cajal.png]]
+![[Web/content/Visual/ramon-y-cajal.png]]
 
 
 Ganó el [Premio Nobel de Medicina](https://www.nobelprize.org/prizes/medicine/1906/summary/) en 1906 junto al italiano Camillo Golgi "en reconocimiento de su trabajo en la estructura del sistema nervioso".

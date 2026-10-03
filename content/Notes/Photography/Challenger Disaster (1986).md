@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/photography_challenger.png]]
+![[Web/content/Visual/photography_challenger.png]]
 
 The Challenger disaster was the catastrophic in-flight breakup of the Space Shuttle Challenger on January 28, 1986, just 73 seconds after launch, killing all seven crew members aboard.
 

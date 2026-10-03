@@ -4,4 +4,4 @@ tags:
   - Just_One_Life
 ---
 
-![[Web/content/Soporte visual/Pasted image 20260823200235.png]]
+![[Web/content/Visual/Pasted image 20260823200235.png]]

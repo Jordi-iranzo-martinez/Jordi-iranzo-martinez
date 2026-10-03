@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-![[Web/content/Soporte visual/Pasted image 20260820233732.png]]
+![[Web/content/Visual/Pasted image 20260820233732.png]]
 
 Las [Constitución de Cádiz](https://www.congreso.es/docu/constituciones/1812/ce1812.pdf) ("La Pepa") fue la primera del Imperio Español y la más democrática de todo el mundo en su momento, pues no limitaba el derecho a voto por estamento social o renta (sufragio censitario) sino que lo otorgaba a cualquier varón mayor de edad (sufragio universal masculino) sin importar su patrimonio.
 

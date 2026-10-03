@@ -17,7 +17,7 @@ La [Ley 26/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18475) incorpor
 | Normas aplicables                           | Iniciación, interesados, acceso a la información, medidas provisionales, resolución, ejecución forzosa, recuperación de costes, normativa aplicable...                                                       |
 | Anexos                                      | - I. Criterios<br>- II. Reparación del daño medioambiental<br>- III. Actividades<br>- IV. Convenios internacionales<br>- V. Convenios internacionales<br>- VI. Información y datos                           |
 
-![[Web/content/Soporte visual/Pasted image 20260418151918.png]]
+![[Web/content/Visual/Pasted image 20260418151918.png]]
 
 El desarrollo reglamentario se realiza mediante las siguientes normativas:
 
@@ -69,7 +69,7 @@ La obligación de prevenir, evitar y reparar depende del operador. Debe de preve
 
 - **Medidas de reparación primaria, complementaria y compensatoria**: 
 
-![[Web/content/Soporte visual/Pasted image 20260418151958.png]]
+![[Web/content/Visual/Pasted image 20260418151958.png]]
 
 Para ello, debe realizar un [análisis de riesgo medioambiental](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/responsabilidad-mediambiental/analisis-de-riesgos-sectoriales/analisis-riesgos-medioambientales.html), realizado por ellos mismos o por un tercero, según el esquema de la norma UNE 150.008 o equivalente:
 
@@ -79,7 +79,7 @@ Para ello, debe realizar un [análisis de riesgo medioambiental](https://www.mit
 4. **Selección de Escenarios Críticos**: aquellos que, ordenador de mayor a menor riesgo (no IDM), acumulen el 95% del riesgo total.
 5. **Determinación de la garantía**: selección del escenario crítico con mayor IDM
 
-![[Web/content/Soporte visual/Pasted image 20260418152016.png]]
+![[Web/content/Visual/Pasted image 20260418152016.png]]
 
 ### Garantías financieras y análisis de riesgos medioambientales
 

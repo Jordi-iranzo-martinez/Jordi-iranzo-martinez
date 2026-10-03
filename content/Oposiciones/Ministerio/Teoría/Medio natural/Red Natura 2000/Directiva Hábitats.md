@@ -65,7 +65,7 @@ Cada Estado miembro debe vigilar el estado de conservación de hábitats y espec
 - **General**: [Ley 42/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21490)
 - [Listado de Especies en Régimen de Protección Especial](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-proteccion-especial/ce-proteccion-listado.html) (LESPRE).  En total son 279 especies de fauna y flora, 118 hábitats (de 233), y 125 especies de aves. 
 
-![[Web/content/Soporte visual/espana_declaracion-sitios-red-natura-2000.png]]
+![[Web/content/Visual/espana_declaracion-sitios-red-natura-2000.png]]
 
 
 - **Informes sexenales**: España ha elaborado cuatro de evaluación de la Directiva Hábitats ([verlos todos](https://www.miteco.gob.es/es/biodiversidad/temas/espacios-protegidos/red-natura-2000/rn_cons_seguimiento_art17.html)) y dos de la Directiva Aves ([ídem](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-proteccion-especial/ce-proteccion-evaluacion.html)). Se realizan a través del Ministerio, con la información de las Comunidades Autónomas.

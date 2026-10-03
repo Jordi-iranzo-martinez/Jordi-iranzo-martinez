@@ -5,7 +5,7 @@ tags:
 
 La [**Decisión 406/2009/CE](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32009D0406)**: regulación inicial para el cumplimiento de los compromisos internacionales en el Segundo periodo del Protocolo de Kioto (2013-2020), realizado a través de la eficiencia energética ([artículo 4](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32009D0406#d1e478-136-1)) y los créditos de carbono ([artículo 5](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32009D0406#d1e499-136-1))
 
-![[Web/content/Soporte visual/Pasted image 20260403205821.png]]
+![[Web/content/Visual/Pasted image 20260403205821.png]]
 
 
 Esto fue sustituido por el **[Reglamento 2018/842](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02018R0842-20230516)** ("Reglamento de Reparto de Esfuerzos", ESR), que establece objetivos vinculantes para cada País Miembro para la disminución de emisiones de los sectores difusos, para llegar a un objetivo de reducción conjunto en toda la Unión Europea.
@@ -34,7 +34,7 @@ Esto fue sustituido por el **[Reglamento 2018/842](https://eur-lex.europa.eu/leg
 
 El objetivo fundamental es que la Unión Europea reduzca las emisiones en un 40% para el 2030 respecto a los niveles de 2005. Para ello, ha establecido obligaciones anuales específicas a los diferentes Estados miembros, a partir del 2021, según su Producto Interior Bruto (PIB).
 
-![[Web/content/Soporte visual/Pasted image 20260621232925.png]]
+![[Web/content/Visual/Pasted image 20260621232925.png]]
 
 | País         | **Objetivo original** | Objetivo revisado<br>(*Fit for 55*) |
 | ------------ | --------------------- | ----------------------------------- |
@@ -68,7 +68,7 @@ El objetivo fundamental es que la Unión Europea reduzca las emisiones en un 40%
 
 El cumplimiento ha sido desigual: 
 
-![[Web/content/Soporte visual/Pasted image 20260403210139.png]]
+![[Web/content/Visual/Pasted image 20260403210139.png]]
 *Progreso de los países de la Unión Europea hacia sus objetivos de Reparto de Esfuerzo (ESR), realizado en el 2024, comparado con el año base (2005). Fuente: [Agencia Europea de Medio Ambiente](https://www.eea.europa.eu/en/analysis/indicators/progress-towards-national-greenhouse-gas/national-progress-towards-greenhouse-gas) (EEA)*
 
 
@@ -111,7 +111,7 @@ Mediante las Decisiones 2013/162/UE, 2013/634/UE y 2017/1471/UE se determinaron
 
 
 
-![[Web/content/Soporte visual/{1CBE2947-F8B0-4671-B18C-7F1FB5B34EEB}.png]]
+![[Web/content/Visual/{1CBE2947-F8B0-4671-B18C-7F1FB5B34EEB}.png]]
 
 PONER COMO GRÁFICA
 
@@ -147,8 +147,8 @@ La Decisión de Ejecución (UE) 2026/895 de la Comisión de 24 de abril de 2026
 
 
 Fuente: elaboración propia
-![[Web/content/Soporte visual/Pasted image 20260703000234.png]]
-![[Web/content/Soporte visual/{68EA6C6F-3D98-41C7-9304-7E5309EB475A}.png]]
+![[Web/content/Visual/Pasted image 20260703000234.png]]
+![[Web/content/Visual/{68EA6C6F-3D98-41C7-9304-7E5309EB475A}.png]]
 
 PONER como gráfica
 

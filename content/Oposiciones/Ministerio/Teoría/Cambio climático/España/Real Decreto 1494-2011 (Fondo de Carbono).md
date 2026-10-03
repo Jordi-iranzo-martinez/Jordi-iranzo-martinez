@@ -87,7 +87,7 @@ El Consejo Rector está formado por los siguientes vocales (16):
 - (1) **Comunidades Autónomas**: a propuesta de la Comisión de Coordinación de Políticas de Cambio Climático
 
 
-![[Web/content/Soporte visual/Pasted image 20260625192717.png]]
+![[Web/content/Visual/Pasted image 20260625192717.png]]
 *Componentes del Consejo Rector del Fondo de Carbono. Fuente: elaboración propia*
 
 
@@ -123,6 +123,6 @@ Las funciones son:
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260625193529.png]]
+![[Web/content/Visual/Pasted image 20260625193529.png]]
 
 

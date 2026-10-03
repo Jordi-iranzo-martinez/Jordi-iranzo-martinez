@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/country-doctor.png]]
+![[Web/content/Visual/country-doctor.png]]
 
 Dr. Ernest Ceriani was a 32-year-old general practitioner working in the remote, rural town of Kremmling, Colorado.
 

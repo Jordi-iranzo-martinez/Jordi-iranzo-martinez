@@ -15,7 +15,7 @@ Estos pueblos se pueden dividir en los siguientes grupos:
 - **_De Arabia_**: los gasánidas y los lakhmidas o lájmidas.
 
 
-![[Web/content/Soporte visual/Pasted image 20260811110901.png]]
+![[Web/content/Visual/Pasted image 20260811110901.png]]
 
 
 A partir del siglo I comenzaron a cruzar las fronteras del Imperio Romano, en busca de tierras y botín. No perseguían con ello la destrucción del Imperio, ya que consideraban al Estado romano como una admirable organización política, en la que pretendían obtener un lugar.
@@ -414,5 +414,5 @@ En el videojuego **0 A.D.**, estos pueblos están representados a través de las
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260810193949.png]]
+![[Web/content/Visual/Pasted image 20260810193949.png]]
 

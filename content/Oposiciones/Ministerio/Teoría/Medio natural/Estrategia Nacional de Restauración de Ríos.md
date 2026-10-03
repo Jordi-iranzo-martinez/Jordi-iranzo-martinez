@@ -37,7 +37,7 @@ Las principales causas del deterioro de los ecosistemas fluviales están relacio
 | 6. Mejora del<br>conocimiento e innovación                                                                                            | - 6.1 Publicaciones, guías técnicas y manuales de buenas prácticas<br>- 6.2. Programas de investigación<br>- 6.3. Seguimiento de proyectos y lecciones aprendidas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 
-![[Web/content/Soporte visual/servicios-ecosistemicos-ecosistemas-fluviales.png]]
+![[Web/content/Visual/servicios-ecosistemicos-ecosistemas-fluviales.png]]
 
 
 incluye cuatro líneas de trabajo: 
@@ -51,7 +51,7 @@ incluye cuatro líneas de trabajo:
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260620073426.png]]
+![[Web/content/Visual/Pasted image 20260620073426.png]]
 
 
 Líneas de actuación:

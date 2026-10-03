@@ -79,7 +79,7 @@ En áreas protegidas incluyen las siguientes:
 | 2          | - 2.1. Metas y objetivos, escala de sistemas hasta local<br>- 2.2. Capacidad y apoyo a largo plazo (mantenimiento y monitoreo)<br>- 2.3. Capital natural y servicios ecosistémicos<br>- 2.4. Medios de vida sostenibles: zonas rurales y comunidades locales<br>- 2.5. Políticas y programas de desarrollo internacional (integración, coordinación)                         |
 | 3          | - 3.1: Colaboración social (comunidades rurales y locales, propietarios vecinos, empresas, científicos...) (planificación, implementación y evaluación)<br>- 3.2. Aprendizaje colectivo y capacitación<br>- 3.3. Comunicación eficaz<br>- 3.4. Oportunidades vivenciales (conexión y responsabilidad)                                                                        |
 
-![[Web/content/Soporte visual/espana_etapas-restauracion-ecologica.png]]
+![[Web/content/Visual/espana_etapas-restauracion-ecologica.png]]
 
 
 En el siguiente cuadro se resumen una serie de recomendaciones acerca del proceso idóneo para
@@ -101,7 +101,7 @@ Además, incluye recomendaciones por ámbitos:
 
 
 
-![[Web/content/Soporte visual/{84EA98DA-9042-4190-A793-C2023BC23682}.png]]
+![[Web/content/Visual/{84EA98DA-9042-4190-A793-C2023BC23682}.png]]
 *Importancia relativa y tendencias del impacto de los seis impulsores directos de cambio de los ecosistemas en España. Fuente: Evaluación de los Ecosistemas del Milenio*
 
 
@@ -117,7 +117,7 @@ La selección del ecosistema de referencia es probablemente la etapa más difíc
 
 El lugar y tiempo puede ser el mismo y/o diferente, respectivamente
 
-![[Web/content/Soporte visual/{6EF2443C-F8B1-4DF7-9DBF-82B2C8348903}.png]]
+![[Web/content/Visual/{6EF2443C-F8B1-4DF7-9DBF-82B2C8348903}.png]]
 
 
 

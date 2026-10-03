@@ -3,4 +3,4 @@ tags:
   - Just_One_Planet
 ---
 
-![[Web/content/Soporte visual/photography_milk-drop.png]]
+![[Web/content/Visual/photography_milk-drop.png]]

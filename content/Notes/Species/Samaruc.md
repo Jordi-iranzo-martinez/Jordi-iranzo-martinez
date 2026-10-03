@@ -55,7 +55,7 @@ Els Llocs d'Importància Comunitària (LIC) són espais que tenen espècies o h�
 
 En estos casos, no han sigut confirmats per la Comisió Europea. 
 
-![[Web/content/Soporte visual/samaruc-distribucio.png]]
+![[Web/content/Visual/samaruc-distribucio.png]]
 *Distribució del samaruc (Valencia hispanica) al món* 
 
 D'acord amb l'[Enciclopèdia virtual dels vertebrats espanyols](https://www.vertebradosibericos.org/peces/distribucion/valhisdi.html), del Museu Nacional de Ciències Naturals del CSIC, la distribució actual es basa en poblacions aïllades entre el sud de Catalunya i les marxals de Pego-Olica, moltes vegades per reintroduccions...

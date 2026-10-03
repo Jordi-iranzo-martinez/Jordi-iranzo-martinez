@@ -1,3 +1,3 @@
 
-![[Web/content/Soporte visual/Pasted image 20260820234048.png]]
+![[Web/content/Visual/Pasted image 20260820234048.png]]
 

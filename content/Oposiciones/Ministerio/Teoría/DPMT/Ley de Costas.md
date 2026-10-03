@@ -75,7 +75,7 @@ Las características físicas varían según el elemento son, *grosso modo*:
 | Zona económica          | - Fondo: comprende la plataforma continental y puede incluir llanuras abisales.<br>- Aguas más estables, frías y salinas al alejarse de la costa.                                                                                                                                    |
 | Plataforma continental  | - Fondo marino de pendiente muy suave (≈ 0,1°), con profundidades generalmente inferiores a 200 m.<br>- Cubierta de sedimentos continentales.<br>- Termina bruscamente en el talud continental, donde la pendiente se vuelve pronunciada y el fondo cae hacia las llanuras abisales. |
 
-![[Web/content/Soporte visual/Pasted image 20260619163947.png]]
+![[Web/content/Visual/Pasted image 20260619163947.png]]
 
 
 Y dentro de la zona marítimo-terrestre:

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Planet
 ---
-![[Web/content/Soporte visual/photography_dovina-elephants.png]]
+![[Web/content/Visual/photography_dovina-elephants.png]]
 
 
 Dovima was the highest-paid and most iconic supermodel of the 1950s. The brilliance of the image relies entirely on its extreme visual juxtapositions:

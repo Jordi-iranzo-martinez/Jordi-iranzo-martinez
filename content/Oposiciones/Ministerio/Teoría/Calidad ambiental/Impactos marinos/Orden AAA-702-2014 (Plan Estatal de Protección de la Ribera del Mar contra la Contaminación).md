@@ -145,7 +145,7 @@ Las propuestas de modificación del Plan Ribera que acuerde la comisión serán 
 En todo caso, la comisión llevará a cabo revisiones periódicas del Plan Ribera cada dos años, tramitándose las propuestas de modificación de igual forma que en el párrafo anterior.
 
 
-![[Web/content/Soporte visual/documento-plan-ribera-1.png]]
+![[Web/content/Visual/documento-plan-ribera-1.png]]
 ![[documento-plan-ribera-2.png]]
 
 Para el adecuado cumplimentado del POLREP Costa se deberán seguir las instrucciones y recomendaciones de «[Guía para la Evaluación de la Costa contaminada por Hidrocarburos](file:///C:/Users/Jorge/Downloads/85.%20Consolidated_guia_evaluacion_costa.pdf)» , del Centro Regional del Mediterráneo para la respuesta ante emergencias por contaminación marina accidental (REMPEC).

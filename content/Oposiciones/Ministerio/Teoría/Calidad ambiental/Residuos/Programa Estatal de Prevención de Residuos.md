@@ -11,7 +11,7 @@ El [Programa Estatal de Prevención de Residuos](https://www.miteco.gob.es/conte
 | Cualitativa  | - Impacto ambiental<br>- Impacto sobre la salud humana                 |
 
 
-![[Web/content/Soporte visual/Pasted image 20260426190412.png]]
+![[Web/content/Visual/Pasted image 20260426190412.png]]
 	*Tipos de prevención de residuos. Fuente: Plan Estatal de Prevención de Residuos*
 
 
@@ -65,7 +65,7 @@ Y después se establecieron las actuaciones concretas, que abarcan todas las lí
 
 
 
-![[Web/content/Soporte visual/Pasted image 20260426190511.png]]
-![[Web/content/Soporte visual/Pasted image 20260426190524.png]]
-![[Web/content/Soporte visual/Pasted image 20260426190529.png]]
+![[Web/content/Visual/Pasted image 20260426190511.png]]
+![[Web/content/Visual/Pasted image 20260426190524.png]]
+![[Web/content/Visual/Pasted image 20260426190529.png]]
 

@@ -4,7 +4,7 @@ tags:
   - Just_One_Planet
 ---
 
-![[Web/content/Soporte visual/photography_napalm-girl.png]]
+![[Web/content/Visual/photography_napalm-girl.png]]
 
 
 

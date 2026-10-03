@@ -86,7 +86,7 @@ En el 2018, el Consejo de Ministros declaró como Área Marina Protegida el Corr
 
 El área abarca una superficie marina similar al tamaño de Aragón, y discurre de Alicante a Gerona en paralelo el archipiélago balear
 
-![[Web/content/Soporte visual/Pasted image 20260826171857.png]]
+![[Web/content/Visual/Pasted image 20260826171857.png]]
 
 En esta franja de aguas de la demarcación marina levantino-balear se ha constatado la presencia de rorcual común (_Balaenoptera physalus_), que mantiene pautas migratorias, así como de otros cetáceos que no se rigen por pautas migratorias definidas, como son el delfín mular (_Tursiops truncatus_), el delfín listado (_Stenella coeruleoalba_), el delfín común (_Delphinus delphis)_, el calderón común (_Globicephala melas_), el calderón gris (_Grampus griseus_), el cachalote (_Physeter macrocephalus_) y el zifio de Cuvier (_Ziphius cavirostris_); así como de tortugas marinas como la tortuga boba (_Caretta caretta_), tiburones y aves marinas.
 
@@ -104,7 +104,7 @@ Espacio Móvil de Protección de Cetáceos (EMPC), como un cilindro con una circ
 - Zona de **permanencia restringida** (60-300 m)
 - Zona de **aproximación** (300-500 m)
 
-![[Web/content/Soporte visual/Pasted image 20260826171907.png]]
+![[Web/content/Visual/Pasted image 20260826171907.png]]
 
 Como el [Real Decreto 1727/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2008-516), de 21 de diciembre, por el que se establecen medidas de protección de los cetáceos.
 

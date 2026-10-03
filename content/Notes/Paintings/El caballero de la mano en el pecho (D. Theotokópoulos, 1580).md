@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/Pasted image 20260821002627.png]]
+![[Web/content/Visual/Pasted image 20260821002627.png]]
 
 Durante siglos, el cuadro fue considerado el arquetipo visual del hidalgo o caballero castellano del Siglo de Oro: un hombre serio, religioso, digno y sobrio. Sin embargo, la identidad real del retratado ha sido objeto de intensos debates entre los historiadores de arte:
 

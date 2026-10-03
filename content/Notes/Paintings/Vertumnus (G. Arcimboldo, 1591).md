@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/arcimboldo_vertumnus.jpg]]
+![[Web/content/Visual/arcimboldo_vertumnus.jpg]]
 
 Retrato de Rodolfo II en traje de Vertumno
 

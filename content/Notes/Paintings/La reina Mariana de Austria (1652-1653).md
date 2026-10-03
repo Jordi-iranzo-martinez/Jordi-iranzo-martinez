@@ -1,2 +1,2 @@
 
-![[Web/content/Soporte visual/La reina Mariana de Austria.jpg]]
+![[Web/content/Visual/La reina Mariana de Austria.jpg]]

@@ -80,7 +80,7 @@ Las categorías de productos actuales son:
 | Muebles                                  | - De madera                                                                                                                                           |
 
 
-![[Web/content/Soporte visual/Pasted image 20260403200821.png]]
+![[Web/content/Visual/Pasted image 20260403200821.png]]
 
 
 Los criterios ambientales que debe cumplir cada categoría de producto los fija la Comisión Europea, asesorada por el Comité de Etiquetado Ecológico de la Unión Europea (CEEUE) —donde se sientan los organismos competentes de cada país junto a representantes de la industria, las pymes, sindicatos, minoristas y organizaciones de consumidores y medioambientales—.

@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/photography_bloody-saturday.png]]
+![[Web/content/Visual/photography_bloody-saturday.png]]
 
 
 In August 1937, Japanese forces advanced heavily on Shanghai. On the afternoon of August 28, Japanese bombers launched a devastating air raid directly targeting the Shanghai South railway station, where thousands of terrified, displaced civilians—predominantly women and children—had gathered in desperate hopes of catching an evacuation train to safety.

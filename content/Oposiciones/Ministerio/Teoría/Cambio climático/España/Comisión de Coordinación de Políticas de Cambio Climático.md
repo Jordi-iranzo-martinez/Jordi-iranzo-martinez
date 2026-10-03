@@ -30,5 +30,5 @@ La composición contará con lo siguiente:
 - **Secretaría**: designada por la persona titular de la Oficina Española de Cambio Climático
 
 
-![[Web/content/Soporte visual/espana_coordinacion-cambio-climatico.png]]
+![[Web/content/Visual/espana_coordinacion-cambio-climatico.png]]
 *Composición de la Comisión de Coordinación de Políticas de Cambio Climático. Fuente: elaboración propia*

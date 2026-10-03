@@ -1,4 +1,4 @@
 
-![[Web/content/Soporte visual/ferrer-dalmau_7666.png]]
+![[Web/content/Visual/ferrer-dalmau_7666.png]]
 
 "La División Azul en el Frente del Voljov" retrata a los soldados españoles luchando en el frente oriental durante la Segunda Guerra Mundial. En medio de un paisaje nevado, los combatientes avanzan bajo un intenso fuego enemigo, con explosiones y humo llenando el aire. Los soldados, vestidos con uniformes de invierno, se enfrentan al brutal clima y al caos de la batalla. La escena captura la valentía y la dureza de estos hombres en un entorno implacable.

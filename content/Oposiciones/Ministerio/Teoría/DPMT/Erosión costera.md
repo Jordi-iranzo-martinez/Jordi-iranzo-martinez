@@ -24,7 +24,7 @@ Las escalas temporales se utilizan para el análisis de los procesos geomorfoló
 | **Geológica** (siglos-milenios) | - Evolución de la costa ligada a cambios en el nivel del mar (transgresiones/regresiones marinas).<br>- Formación de sistemas dunares fósiles, paleocostas, barreras costeras.<br>- Tendencia de fondo sobre la que operan los procesos actuales                                                       |
 
 
-![[Web/content/Soporte visual/escalas-temporales-playas.png]]
+![[Web/content/Visual/escalas-temporales-playas.png]]
 
 
 

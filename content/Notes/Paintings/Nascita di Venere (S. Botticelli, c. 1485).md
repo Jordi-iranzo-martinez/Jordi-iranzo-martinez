@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/Pasted image 20260827152534.png]]
+![[Web/content/Visual/Pasted image 20260827152534.png]]
 
 Al centro, Venere, dea greca dell'amore e della bellezza si erge nuda sopra una grande conchiglia che galleggia sul mare. La sua postura flessuosa evoca il modello statuario della _Venere pudica_ dell'antichità classica. Con un gesto di estrema grazia, tenta di coprire la sua nudità con le mani e con i lunghissimi capelli biondi mossi dal vento.
 

@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/ferrer-dalmau_7.png]]
+![[Web/content/Visual/ferrer-dalmau_7.png]]
 
 "Los Trece de la Fama" (también conocidos como los Trece de la Isla del Gallo) es el nombre histórico que recibe el célebre grupo de conquistadores españoles que en 1527 decidieron continuar con la expedición hacia el Perú junto a Francisco Pizarro, desobedeciendo las órdenes directas del gobernador de Panamá de abortar la misión.
 

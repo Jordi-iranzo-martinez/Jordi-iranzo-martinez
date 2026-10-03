@@ -49,6 +49,6 @@ Y respecto al régimen de responsabilidad ampliada ([capítulo II del título II
 - **Información**: reporte anual a las comunidades autónomas y al Ministerio, y publicación en las páginas web de los sistemas colectivos sobre la consecución de objetivos y las auditorías de sus cuentas.
 
 
-![[Web/content/Soporte visual/nfu-flujo-residuos.png]]
+![[Web/content/Visual/nfu-flujo-residuos.png]]
 
 *Principales flujos en el mercado del neumático de reposición y la gestión de su residuo. Fuente: [Ministerio con competencia en medio ambiente](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/prevencion-y-gestion-residuos/flujos/neumaticos/cual-es-su-ciclo-gestion.html)*

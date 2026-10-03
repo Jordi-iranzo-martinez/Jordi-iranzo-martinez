@@ -1,5 +1,5 @@
 
-![[Web/content/Soporte visual/photography_abraham-lincoln.png]]
+![[Web/content/Visual/photography_abraham-lincoln.png]]
 
 
 Abraham Lincoln was the 16th President of the United States, serving from 1861 to 1865.

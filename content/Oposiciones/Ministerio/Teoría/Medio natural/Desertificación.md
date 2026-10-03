@@ -57,7 +57,7 @@ La mayor parte del Estado tiene un clima predominantemente semiárido (excepto l
 
 | Índice de aridez                    | Riesgo de desertificación                    |
 | ----------------------------------- | -------------------------------------------- |
-| ![[Web/content/Soporte visual/espana_indice-aridez.png]] | ![[espana_riesgo-desertificacion2.png]] |
+| ![[Web/content/Visual/espana_indice-aridez.png]] | ![[espana_riesgo-desertificacion2.png]] |
 
 el [Atlas de la Desertificación en España](https://drive.google.com/uc?export=download&id=144zXWz8CA-1U-LgN7dc7hqfNnpKfzOTr)
 

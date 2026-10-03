@@ -6,7 +6,7 @@ tags:
 Emisiones de dióxido de carbono en diferentes medios de transporte (escala logarítmica). Fuente: Introductory Course on Energy Efficient Ship Operation (Climate Change e-learning)
 
 
-![[Web/content/Soporte visual/Pasted image 20260621231921.png]]
+![[Web/content/Visual/Pasted image 20260621231921.png]]
 
 Fuente: [Introductory Course on Energy Efficient Ship Operation](https://unccelearn.org/course/view.php?id=128&sectionid=1494) (UN CC:e-Learn)
 
@@ -38,7 +38,7 @@ PONER LA IMAGEN DE CONSUMO DE COMBUSTIBLE Y VELOCIDADd (LA GRÁFICA)
 
 De acuedo con el Cuarto Estudio de Gases de Efecto Invernadero de la Organización Marítima Internacional, el transporte marítimo internacional es responsable de aproximadamente el 2-3% de las emisiones globales de CO2. Aunque pueda parecer poco, es el equivalente a toda Alemania.
 
-![[Web/content/Soporte visual/Pasted image 20260621232056.png]]
+![[Web/content/Visual/Pasted image 20260621232056.png]]
 
 
 Marítimo transportando más del 80% del comercio mundial por volumen. Las características específicas del sector incluyen:
@@ -56,7 +56,7 @@ La IMO recoge y resume datos de la flota global por tipo de buque. Como el consu
 
 -  **Índice de Diseño de Eficiencia Energética** (EEDI): 
 
-	![[Web/content/Soporte visual/Pasted image 20260621232113.png]]
+	![[Web/content/Visual/Pasted image 20260621232113.png]]
 
 - **Plan de Gestión de la Eficiencia Energética del Buque** (SEEMP): específica de cada barco
 

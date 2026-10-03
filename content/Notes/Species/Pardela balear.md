@@ -7,7 +7,7 @@ La pardela balear (*Puffinus mauretanicus*) es un ave extraordinaria, endémica 
 
 ![[Pardela balear (Puffinus mauretanicus).png]]
 
-![[Web/content/Soporte visual/pardela-balear.jpg]]
+![[Web/content/Visual/pardela-balear.jpg]]
 
 Fuente: CRAM
 Es un ave endémica de las Islas Baleares, y permanece en el Mediterráneo occidental durante su periodo de reproducción; en las costas del levante español, y desde el Norte de África hasta el Mar de Liguria, al Sur de Francia. Tras acabarlo se desplaza al océano Atlántico, al oeste de España, Francia, el Mar del Norte, y todo Reino Unido e Irlanda. Es ocasional más al este de de, como Cerdeña, Sicilia, el Adriático, llegando sin embargo a Libia, Grecia, e incluso Egipto.

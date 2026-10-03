@@ -32,7 +32,7 @@ Para que una inversión sea adcuada respecto a esta taxonomía, debe de cumplir 
 
 1. **Favorecer sustancialmente alguno de los objetivos**: las mejores actividades de cada sector ("best in class"), que produzcan aumento de los impacto ambientales positivos o reducción de los negativos; o que los faciliten (fabricación de energías renovables, baterías...). Para el objetivo de mitigación del cambio climático, no deberán de impedir el uso de alternativas bajas en carbono, ni contribuir al locking de assets intensivos en carbono; y se incluye también la categoría de "actividades de transición", como aquellas sin alternativas bajas en carbono y cuyas presiones ambientales se pueden reducir enormemente (liderazgo en un proceso productivo, renovación de edificios...)
 
-	![[Web/content/Soporte visual/diagrama_finanzas-sostenibles.png]]
+	![[Web/content/Visual/diagrama_finanzas-sostenibles.png]]
 
 2. **No hacer daño significativo** (DNSH): no perjudicar en gran manera a ninguno de los restantes, por lo que añade un principio de co-dependencia (por ejemplo, una planta hidroeléctrica que dañe a la biodiversidad no sería elegible)
 

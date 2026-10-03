@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/Pasted image 20260823185035.png]]
+![[Web/content/Visual/Pasted image 20260823185035.png]]
 
 Consumism
 

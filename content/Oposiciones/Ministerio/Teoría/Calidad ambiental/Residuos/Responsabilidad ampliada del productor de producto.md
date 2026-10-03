@@ -5,7 +5,7 @@ tags:
 
 La [Responsabilidad Ampliada del Productor](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/prevencion-y-gestion-residuos/flujos/responsabilidad-ampliada.html) (RAP) es un régimen de gestión de residuos por el cual se les atribuye a los productores obligaciones respecto a su organización y financiación respecto a sus productos después de su consumo para favorecer su recuperación y la economía circular.
 
-![[Web/content/Soporte visual/Pasted image 20260426161503.png]]
+![[Web/content/Visual/Pasted image 20260426161503.png]]
 *Esquema de la economía circular. Fuente: ¿?*
 
 ### Regulación en la Ley 7/2022 de residuos y suelos contaminados para una economía circular

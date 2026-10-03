@@ -22,5 +22,5 @@ Se debe fomentar la regeneración natural cuando sea viable, y aplicar técnicas
 - **Reforestación o repoblación con especies adaptadas**: cuando la regeneración natural no es suficiente
 
 
-![[Web/content/Soporte visual/trabajos-restauracion-grandes-incendios.png]]
+![[Web/content/Visual/trabajos-restauracion-grandes-incendios.png]]
 *Trabajos de restauración tras grandes incendios. Fuente: ChatGPT*

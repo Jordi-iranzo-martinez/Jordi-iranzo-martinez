@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/coronacion-napoleon.png]]
+![[Web/content/Visual/coronacion-napoleon.png]]
 
 Jacques-Louis David fue el pintor oficial del imperio
 

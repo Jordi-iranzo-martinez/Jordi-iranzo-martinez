@@ -5,7 +5,7 @@ tags:
 
 El Programa se vasa en la Curva de Transición Forestal, un modelo teórico en el que describe cómo cambia la cobertura forestal de un país o región a lo largo del tiempo conforme se desarrolla económicamente, basado en la teoría de que los países inicialmente explotan sus bosques para el desarrollo económico, pero una vez alcanzan cierto nivel de desarrollo, comienzan a valorar y restaurar sus bosques.
 
-![[Web/content/Soporte visual/Pasted image 20260620092254.png]]
+![[Web/content/Visual/Pasted image 20260620092254.png]]
 
 
 Fuente: [ESTA](https://unccelearn.org/pluginfile.php/180296/mod_resource/content/4/Phase_II_Topic_5_National%20Strategies%20or%20Action%20Plans.pdf)
@@ -23,10 +23,10 @@ Para prevenir su degradación o pérdida por cambio de uso (urbanización, agric
 
 *El nombre deriva de "Reducción de las Emisiones derivadas de la Deforestación y Degradación de los bosques en los países en desarrollo" (REDD por sus siglas en inglés) "y la función de la conservación, la gestión sostenible de los bosques y el aumento de las reservas forestales de carbono en los países en desarrollo" (+).*
 
-| ![[Web/content/Soporte visual/redd+_1.png]] | ![[Web/content/Soporte visual/redd+_2.png]] |
+| ![[Web/content/Visual/redd+_1.png]] | ![[Web/content/Visual/redd+_2.png]] |
 | ------------------------------------ | ------------------------------------ |
 
-![[Web/content/Soporte visual/redd+_emisiones.png]]
+![[Web/content/Visual/redd+_emisiones.png]]
 *Relación entre las emisiones y el programa REDD+. Fuente: Programa REDD de las Naciones Unidas.*
 
 
@@ -47,7 +47,7 @@ En la actualidad comprenden más de 65, principalmente con grandes extensiones d
 - Zambia
 - Chile
 
-![[Web/content/Soporte visual/redd+_paises.png]]
+![[Web/content/Visual/redd+_paises.png]]
 
 *Países dentro del programa REDD+. Fuente: [REDD+](https://redd.unfccc.int/)*
 
@@ -64,4 +64,4 @@ El proceso de implementación de REDD + es cíclico e iterativo, basado en las f
 9. Información posterior en el Hub de UNFCC
 10. Revisión de aprendizajes
 
-![[Web/content/Soporte visual/redd+_etapas.png]]
+![[Web/content/Visual/redd+_etapas.png]]

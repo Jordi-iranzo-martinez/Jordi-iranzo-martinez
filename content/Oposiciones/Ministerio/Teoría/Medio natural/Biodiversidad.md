@@ -28,7 +28,7 @@ La biodiversidad proporciona numerosos servicios ecosistémicos, que fueron clas
 - **Soporte**: procesos fundamentales que permiten la existencia de los otros servicios (formación y conservación de suelos, ciclos de nutrientes, fotosíntesis, hábitats de especies...)
 
 
-![[Web/content/Soporte visual/ecosystem-services.png]]
+![[Web/content/Visual/ecosystem-services.png]]
 
 
 *Su empleo se consideran soluciones basadas en la naturaleza, y se han destacado en la prevención y corrección de fenómenos complejos, como el cambio climático (mitigación y adaptación), la contaminación atmosférica y acústica, la erosión y desertificación, la gestión de desastres naturales (inundaciones...), así como el eco-diseño y la economía circular, entre otros.*
@@ -68,7 +68,7 @@ La Unión Internacional de Conservación de la Naturaleza (IUCN por sus siglas e
 - **No evaluado** (NE)
 
 
-![[Web/content/Soporte visual/Categorías de amenaza de la IUCN.png]]
+![[Web/content/Visual/Categorías de amenaza de la IUCN.png]]
 *Categorías de la Lista Roja de la UICN. Fuente: Comité Español de IUCN*
 
 

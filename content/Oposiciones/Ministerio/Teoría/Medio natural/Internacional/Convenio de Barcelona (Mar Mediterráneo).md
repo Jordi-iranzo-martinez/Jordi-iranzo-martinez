@@ -57,7 +57,7 @@ En [los Anexos del Protocolo de Barcelona](https://wedocs.unep.org/rest/api/core
 - III. Lista de especies con explotación regulada
 
 
-![[Web/content/Soporte visual/barcelona_zepim.png]]
+![[Web/content/Visual/barcelona_zepim.png]]
 
 El [Convenio para la Protección del Medio Marino y de la Región Costera del Mediterráneo](https://wedocs.unep.org/bitstream/handle/20.500.11822/7096/BarcelonaConvention_Consolidated_eng.pdf) (Barcelona; 1976, 1978) es un acuerdo regional para la protección del mar Mediterráneo contra la contaminación. 
 
@@ -66,7 +66,7 @@ El Plan de Acción para el Mediterráneo se estableció en 1975 como acuerdo med
 #### Plan de Acción para el Mediterráneo
 
 
-![[Web/content/Soporte visual/Pasted image 20260820063600.png]]
+![[Web/content/Visual/Pasted image 20260820063600.png]]
 
 El Plan de Acción para el Mediterráneo (PAM) (1975), del Programa de Mares Regionales del Programa de las Naciones Unidas para el Medio Ambiente (UNEP por sus siglas en inglés)
 
@@ -163,7 +163,7 @@ La aplicación se realiza a la conservación de los hábitats y especies marinas
 
 Existen un total de 39 de acuerdo al [Centro de Actividad Regional de Áreas Especialmente Protegidas]( https://www.rac-spa.org/spami) (SPA/RAC). 
 
-![[Web/content/Soporte visual/Zonas de Especial Importancia para el Mediterráneo (ZEPIM).png]]
+![[Web/content/Visual/Zonas de Especial Importancia para el Mediterráneo (ZEPIM).png]]
 *Zonas de Especial Importancia en el Mediterráneo (ZEPIM) (SPAMIs por sus siglas en inglés). Fuente: [Centro de Actividad Regional de Áreas Especialmente Protegidas]( https://www.rac-spa.org/spami) (SPA/RAC)*
 
 
@@ -193,7 +193,7 @@ España es el país que más aporta a la Red de Zonas Especialmente Protegidas d
 - **Acantilados de Maro-Cerro-Gordo**
 - **Isla de Alborán**
 
-![[Web/content/Soporte visual/Pasted image 20260403220702.png]]
+![[Web/content/Visual/Pasted image 20260403220702.png]]
 
 *Zonas Especialmente Protegidas de Importancia para el Mar Mediterráneo (ZEPIM). Fuente: Ministerio con competencia en medio ambiente*
 

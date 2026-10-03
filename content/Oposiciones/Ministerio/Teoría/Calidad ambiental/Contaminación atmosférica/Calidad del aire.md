@@ -40,5 +40,5 @@ En España y en la Unión Europea se ha regulado a través de concentraciones l�
 
 De acuerdo a la [Organización Mundial de la Salud](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjCz_uU8ZSPAxV76wIHHX6_BUAQFnoECBYQAQ&url=https%3A%2F%2Fwww.who.int%2Fes&usg=AOvVaw15Lu2ldifRaXQCKX-8dL-_&opi=89978449) (WHO), la contaminación del aire provoca unas 7 millones de muertes prematuras anuales a nivel mundial, especialmente entre niños, personas mayores y enfermos crónicos, siendo la causa principal enfermedades cardiovasculares, pulmonares y cáncer de pulmón.
 
-![[Web/content/Soporte visual/air-pollution-deaths.png]]
+![[Web/content/Visual/air-pollution-deaths.png]]
 

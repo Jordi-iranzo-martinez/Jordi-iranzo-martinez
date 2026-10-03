@@ -1,4 +1,4 @@
-![[Web/content/Soporte visual/Los borrachos, o El triunfo de Baco(2).jpg]]
+![[Web/content/Visual/Los borrachos, o El triunfo de Baco(2).jpg]]
 
 Baco era el dios romano de . Aparece coronado con hojas de vid. 
 

@@ -13,7 +13,7 @@ Además, se ha realizado el [Plan Estratégico Español para la Conservación y 
 | Finalidad, principios orientadores, vigencia y estructura | - Finalidad (ecología, sostenibilidad...)<br>- Principios orientadores<br>- Vigencia (hasta el 2030)<br>- Estructura: 6 líneas de acción                                                                                         |
 | Líneas de actuación, objetivos y medidas                  | 1. Conocimiento<br>2. Protección, conservación y gestión<br>3. Mejora y restauración, y reducción de amenazas<br>4. Compromisos internacionales<br>5. Financiación<br>6. Gobernanza, participación, sector público y empresarial |
 | Seguimiento de ejecución y revisión                       | Informes de Seguimiento periódicos (alienados en la medida de lo posible con los informes trienales nacionales al Convenio)                                                                                                      |
-| Estimaciones presupuestarias                              | ![[Web/content/Soporte visual/{6981AC6E-9F2D-45A4-9E40-DA4C2C05BA5F}.png]]<br>![[Web/content/Soporte visual/{B30F4301-9893-4AD2-8843-F7586DDBC59A}.png]]                                                                                                                               |
+| Estimaciones presupuestarias                              | ![[Web/content/Visual/{6981AC6E-9F2D-45A4-9E40-DA4C2C05BA5F}.png]]<br>![[Web/content/Visual/{B30F4301-9893-4AD2-8843-F7586DDBC59A}.png]]                                                                                                                               |
 | Referencias consultadas y glosario                        | - Referencias: bibliográficas y sitios web, y de normativa<br>- Glosario (acrónimos y abreviaturas)                                                                                                                              |
 | Anexos                                                    | - Definiciones de humedal<br><br>- Evaluación del grado de aplicación del anterior Plan Estratégico de Humedales y recomendaciones de contenidos y prioridades para el nuevo plan                                                |
 
@@ -28,7 +28,7 @@ La finalidad abarca la calidad ecológica (hábitats, especies, servicios ecosis
 | Problemas identificados | - Cambios de usos del suelo <br>- Alteración de los regímenes hídricos<br>- Contaminación<br>- Alteraciones hidromorfológicas<br>- Especies exóticas invasoras<br>- Cambio climático<br>- Escasa integración sectorial<br>- Falta de conocimientos<br>- Insuficiente financiación                                                                                                                                             |
 
 
-![[Web/content/Soporte visual/Pasted image 20260626235145.png]]
+![[Web/content/Visual/Pasted image 20260626235145.png]]
 
 Las líneas de actuación incluyen objetivos generales y metas:
 

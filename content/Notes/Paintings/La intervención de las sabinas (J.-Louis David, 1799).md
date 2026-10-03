@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/intervencion-sabinas.png]]
+![[Web/content/Visual/intervencion-sabinas.png]]
 
 
 De acuerdo a la mitología Romana

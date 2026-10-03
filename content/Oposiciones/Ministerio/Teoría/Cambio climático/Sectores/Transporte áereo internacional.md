@@ -24,7 +24,7 @@ El transporte aéreo internacional representa aproximadamente el 2-3% de las emi
 
 <iframe src="https://ourworldindata.org/grapher/aviation-share-co2?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
-| ![[Web/content/Soporte visual/Pasted image 20260703161438.png]] |     |
+| ![[Web/content/Visual/Pasted image 20260703161438.png]] |     |
 | ------------------------------------ | --- |
 |                                      |     |
 

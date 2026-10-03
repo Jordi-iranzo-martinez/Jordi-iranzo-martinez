@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-![[Web/content/Soporte visual/der-krieg.png]]
+![[Web/content/Visual/der-krieg.png]]
 
 
 Dix created these masterpieces to purge his own recurring nightmares after surviving over three years as a machine-gunner on the front lines of the First World War.
