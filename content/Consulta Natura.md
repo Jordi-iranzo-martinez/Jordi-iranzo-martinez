@@ -40,4 +40,6 @@
 
 ### Lugares
 
-- [[albufera de ]]
+- [[Garajonay]]
+- [[Urdaibai]]
+- [[Cabañeros]]

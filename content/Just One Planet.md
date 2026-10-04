@@ -1,5 +1,10 @@
 
+### Concepts
 
+- [[Climate Change]]
+- [[Biodiversity]]
+- [[Water]]
+- [[Pollution, chemicals and Waste]]
 
 ### Awesome people!
 
@@ -34,5 +39,13 @@
 - [[United Nations Convention to Combat Desertification (1994, 1996)]]
 - [[Biodiversity Convention (1992)]]
 - [[Viena Convention (1985, 1988)]]
-- 
+- [[Stockholm Convention (2001, 2004)]]
+- [[Rotterdam Convention (1998, 2004)]]
+- [[Minamata Convention on Mercury (2013, 2017)]]
+- [[Basel Convention]]
+- [[Barcelona Convention on the Mediterranean]]
+- [[OSPAR Convention (1992, 1998)]]
+- [[BBNJ Treaty (2026)]]
+- [[UNLoS (bases del Mar)]]
+
 

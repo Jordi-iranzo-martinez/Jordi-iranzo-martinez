@@ -1,9 +1,10 @@
 ---
 title: Consultor ambiental
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
+"[":
 ---
+![[jordi-iranzo-martinez.png|283x377]]
 
-!![[index 1-1791034473914.webp]]
 
 ¡Hola!
 
@@ -35,5 +36,11 @@ Ofrezco los siguientes servicios:
 * [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
 
 - [[Escritos]]: divulgación sobre medio ambiente, humanismo, hispanismo, opinión... (consultar la barra lateral)
+	- [[Consulta Natura]]: medio ambiente en España
+	- [[Terra]]: medio ambiente en la Comunidad Valenciana
+	- [[Just One Planet]]: medio ambiente mundial
+	- [[Just One Humankind]]: humanismo
+	- [[Just One Life]]: filosofía, psicología y neurociencia
+	- [[Memorias Hispanas]]: hispanismo
 
 **Contacto**: jordi.im@proton.me
