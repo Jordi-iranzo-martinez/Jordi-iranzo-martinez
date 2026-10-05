@@ -34,7 +34,7 @@
 - [[Mammalia]]
 - [[Birds]]
 - [[Reptiles]]
-- [[Amphibians]]
+- [[Web/content/Notes/Taxonomy/oology/Amphibians]]
 - [[Fishes]]
 - [[Tunicata]]
 - [[Cephalochordata]]
