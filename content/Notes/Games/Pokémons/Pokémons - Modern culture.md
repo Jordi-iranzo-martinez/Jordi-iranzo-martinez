@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+title: Can you guess the Pokémons?
+subtitle: Modern culture
 ---
 
 - **Pantomima Francesa**: Mr. Mime

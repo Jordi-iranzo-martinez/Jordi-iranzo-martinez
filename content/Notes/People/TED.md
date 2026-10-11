@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Life
+title: Technology, Entertainment, Design
 author: Richard Saul Wurman
 year: "1984"
 ---

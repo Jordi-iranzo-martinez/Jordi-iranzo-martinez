@@ -11,7 +11,7 @@ The [Convention on International Trade in Endangered Species of Wild Fauna and F
 Drafted in 1973 and entering into force on July 1, 1975, the treaty currently regulates and tracks the cross-border movement of over 40,900 species (roughly 34,300 plants and 6,600 animals). It functions via a strict, multi-tiered licensing and permit system managed directly by the governments of its 184 member parties.
 
 
-b [[International Union for the Conservation of Nature]]
+b [[IUCN]]
 
 CITES does not ban all wildlife trade; instead, it categorizes species into three distinct legal lists based on their risk of extinction:
 

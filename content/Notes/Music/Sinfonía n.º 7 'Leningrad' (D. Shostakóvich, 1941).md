@@ -1,3 +1,9 @@
+---
+tags:
+  - Just_One_Humankind
+author: Дмитрий Дмитриевич Шостакович (D. Shostakóvich)
+year: "1941"
+---
 
 In June 1941, Nazi Germany invaded the Soviet Union. By September, they had completely surrounded Leningrad (now St. Petersburg), beginning a catastrophic 900-day siege.
 

@@ -6,6 +6,9 @@ year: "2008"
 ---
 [Fold.it](https://fold.it/) is a a 3D puzzle and simulation video game that allows anyone in the world to contribute directly to scientific and medical research, without needing a background in biochemistry.
 
+[[Life]]
+
+
 The game turns the complex biological problem of protein folding into a competitive, interactive puzzle.
 
 Proteins are the essential tools that keep our cells running. They start as long, linear chains of amino acids that must bend and twist into a very specific 3D shape to function properly.

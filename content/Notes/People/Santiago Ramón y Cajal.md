@@ -15,5 +15,5 @@ Dado que las tecnologías de la época no permitían fotografiar con nitidez el 
 
 Fue el primer presidente de la Junta para Ampliación de Estudios e Investigaciones Biológicas (JAE), liderando el mayor proyecto de modernización científica del país a principios del siglo XX. 
 
-Esa misma institución (la JAE) fue el germen directo que dio origen al CSIC (del cual dependen hoy el Instituto de Oceanografía o sus propios centros sucesores, como el Centro de Neurociencias Cajal) ([[Instituto Español de Oceanografía (IEO)]] e [[Instituto Geológico y Minero de España (IGME-CSIC)]]).
+Esa misma institución (la JAE) fue el germen directo que dio origen al CSIC (del cual dependen hoy el Instituto de Oceanografía o sus propios centros sucesores, como el Centro de Neurociencias Cajal) ([[IEO]] e [[IGME]]).
 

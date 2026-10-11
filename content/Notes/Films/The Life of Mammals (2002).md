@@ -4,7 +4,7 @@ tags:
 direction: David Attenborough
 ---
 
-[[Taxonomy/Zoology/Mammals]]
+[[Biodiversity/Taxonomy/Zoology/Mammals]]
 
 1. **A Winning Design**: 
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+title: Can you guess the Pokémons?
+subtitle: Plants & Fungi
 ---
 
 **Non-vascular plants:**

@@ -5,7 +5,7 @@ direction: Daniel Rasmussen
 year: "2024"
 ---
 
-[[Taxonomy/Zoology/Mammals]]
+[[Biodiversity/Taxonomy/Zoology/Mammals]]
 
 
 

@@ -1,2 +1,0 @@
-
-compuesta por Văn Cao antes de que Vietnam fuera un país independiente, en plena lucha contra la ocupación japonesa/francesa. El propio compositor fue perseguido después por el régimen comunista en los años 50 durante una purga cultural interna, pese a haber escrito el himno que ese mismo régimen seguía usando. Buen ángulo: un compositor caído en desgracia dentro del propio país cuyo himno escribió.

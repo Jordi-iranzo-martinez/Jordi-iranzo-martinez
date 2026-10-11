@@ -4,13 +4,13 @@ tags:
 ---
 El Comité Español de la Unión Internacional para la Conservación de la Naturaleza (CeUICN) es una asociación clave que funciona como la red ambiental más importante de España, integrando a más de 50 entidades entre administraciones públicas, ONGs medioambientales y centros científicos. 
 
-Establecido originalmente en 1988, este comité actúa como el nexo oficial en territorio nacional de la [[International Union for the Conservation of Nature]]. 
+Establecido originalmente en 1988, este comité actúa como el nexo oficial en territorio nacional de la [[IUCN]]. 
 
 
 UICN mundial (la mayor autoridad planetaria en biodiversidad). Su sede principal de coordinación se encuentra ubicada en Málaga.
 
 
-Forma parte de [[International Union for the Conservation of Nature]]
+Forma parte de [[IUCN]]
 
 **Contenido principal:**
 

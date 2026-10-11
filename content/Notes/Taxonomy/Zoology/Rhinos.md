@@ -1,3 +1,0 @@
-
-
-[[Taxonomy/Zoology/Mammals|Mammals]]
