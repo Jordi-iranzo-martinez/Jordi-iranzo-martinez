@@ -1,4 +1,8 @@
 
+El oso ibérico (*Ursus arctos pyrenaicus*) es el mamífero terrestre más grande de la fauna ibérica (ademá de una de las subepecie de oso pardo más pequeñas)
+
+La especie sobrevive dividida en dos poblaciones principales: la Cordillera Cantábrica (que alberga la inmensa mayoría con unos 370 osos) y los Pirineos (con una población en expansión de 108 ejemplares identificados)
+
 
 
 - LIFE Osos con Futuro

@@ -16,6 +16,9 @@ b [[IUCN]]
 CITES does not ban all wildlife trade; instead, it categorizes species into three distinct legal lists based on their risk of extinction:
 
 - **Appendix I (Near-Total Commercial Ban):** Includes species actively threatened with extinction that are heavily impacted by trade (e.g., **all great whales, sea turtles, tigers, and certain elephants**). International commercial trade of these specimens is strictly forbidden. It is only permitted under exceptional, non-commercial circumstances (such as scientific research) and requires both an import and export permit.
+	- [[Sea turtles]]
+	- [[Cetaceans]]
+	- [[Elephants]]
 
 - **Appendix II (Regulated & Traceable Trade):** Includes species that are not necessarily facing immediate extinction but could become threatened if their trade is not strictly monitored (e.g., **all stony corals, seahorses, and requiem sharks**). Commercial trade is fully legal but requires a valid **CITES Export Permit**, verifying that the export will not harm the wild population's survival. 
 

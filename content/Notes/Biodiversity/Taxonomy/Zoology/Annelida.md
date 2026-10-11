@@ -1,10 +1,9 @@
 
-Anellida
+Annelida (from latin *anellus* "little ring")
 
 
 
-
-### Anellida taonomy
+### Anellida taxonomy
 
 - **Polychaeta** (bristle Worms): Primarily marine annelids featuring fleshy, paddle-like appendages called parapodia on each segment, which bear numerous sharp chaetae. _Examples: Christmas tree worms, bobbit worms, and lugworms._
 

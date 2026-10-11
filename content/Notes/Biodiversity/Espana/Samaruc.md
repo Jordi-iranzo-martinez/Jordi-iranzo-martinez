@@ -3,12 +3,11 @@ tags:
   - Terra
 ---
 
-El **samaruc** (*Valencia hispanica*) es un peix petit, de fins a 8 cm de longitud, molt sensible als canvis ambientals, 
+El samaruc (*Valencia hispanica*) es un peix petit, de fins a 8 cm de longitud, molt sensible als canvis ambientals, 
 
-![[Samaruc (Valencia hispanica).png]]
-*Representación del samaruc (Valencia hispanica)*
-*Font: ChatGPT*
+[[Fishes]]
 
+[[Wetlands]]
 
 
 

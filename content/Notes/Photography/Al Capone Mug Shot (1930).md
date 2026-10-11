@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+year: "1930"
 ---
 
 ![[Web/content/Visual/photopgraphy_al-capone.png]]

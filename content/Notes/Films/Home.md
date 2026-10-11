@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+direction: Yann Arthus-Bertrand
+year: "2009"
 ---
 Yann Arthus-Bertrand
 

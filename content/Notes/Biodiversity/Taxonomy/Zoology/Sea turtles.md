@@ -3,6 +3,16 @@
 [[Reptiles]]
 
 
+- Cheloniidae
+	- Tortuga boba (_Caretta caretta_)
+	- Tortuga verde (_Chelonia mydas_)
+	- Tortuga carey (_Eretmochelys imbricata_)
+	- Tortuga lora o bastarda (Lepidochelys kempii)
+	- Tortuga olivácea (_Lepidochelys olivacea_)
+	- Tortuga plana (_Natator depressus_)
+
+- Dermochelyidae
+	- Tortuga laúd (_Dermochelys coriacea_)
 
 
 

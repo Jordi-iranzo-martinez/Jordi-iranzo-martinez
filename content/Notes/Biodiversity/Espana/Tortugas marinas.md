@@ -5,16 +5,6 @@ Las primeras aparecieron en el Jurásico, hace .
 
 Actualmente existen dos familias
 
-- Cheloniidae
-	- Tortuga boba (_Caretta caretta_)
-	- Tortuga verde (_Chelonia mydas_)
-	- Tortuga carey (_Eretmochelys imbricata_)
-	- Tortuga lora o bastarda (Lepidochelys kempii)
-	- Tortuga olivácea (_Lepidochelys olivacea_)
-	- Tortuga plana (_Natator depressus_)
-
-- Dermochelyidae
-	- Tortuga laúd (_Dermochelys coriacea_)
 
 
 
@@ -24,7 +14,7 @@ El [Protocolo Nacional de Actuación ante Varamientos de Tortugas Marinas](https
 
 En España aparecen las siguientes: 
 
-- [Tortuga boba (Caretta caretta)](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/biodiversidad-marina/Ficha_Caretta_caretta_tcm30-521296.pdf "Tortuga boba (Caretta caretta)")
+- [Tortuga boba](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/biodiversidad-marina/Ficha_Caretta_caretta_tcm30-521296.pdf "Tortuga boba (Caretta caretta)") (Caretta caretta)
 - [Tortuga carey (Eretmochelys imbricata)](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/biodiversidad-marina/Ficha_Erecmochelys%20imbricata_tcm30-521297.pdf "Tortuga carey (Eretmochelys imbricata)")
 - [Tortuga golfina (Lepidochelys kempii)](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/biodiversidad-marina/Ficha_Lepydochelys_kempii_tcm30-521298.pdf "Tortuga golfina (Lepidochelys kempii)")
 - [Tortuga laúd](https://www.miteco.gob.es/es/biodiversidad/temas/biodiversidad-marina/habitats-especies-marinos/inventario-espanol-habitats-especies-marinos/fichas-inventario-especies-marinas/_jcr_content/root/container/container-main/container-content/accordion/item_0/accordion/item_200/highlights_list/highlights_item232.coreimg.jpeg/1680515312072/tortugalaud-tcm30-521308.jpeg)

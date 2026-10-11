@@ -1,8 +1,10 @@
 
-Primates [[Biodiversity/Taxonomy/Zoology/Mammals|Mammals]]
+Primates [[Mammals]]
 
 
-### Primates taonomy
+
+
+### Primates taxonomy
 
 - Strepsirrhini (Wet-nosed Primates)
 	- **Lemuriformes** (Lemurs): Widespread and highly diverse primates endemic exclusively to the island of Madagascar. _Examples: Ring-tailed lemurs, aye-ayes, and mouse lemurs._

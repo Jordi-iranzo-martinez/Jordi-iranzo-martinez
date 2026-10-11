@@ -6,7 +6,7 @@ tags:
 Life
 
 
-### Life trait
+### Life traits
 
 - **Cellular tissue organization:** All living organisms are composed of **one or more cells**, which serve as the fundamental structural and functional units of life
 
@@ -20,7 +20,7 @@ Life
 
 - **Genetic self-reproduction:** Every living entity has the capacity to reproduce and pass genetic information (DNA or RNA) to offspring, ensuring the continuity of the species
 
-### Life element
+### Life elements
 
 About 98% of any living organism's mass is composed of just six elements:
 
@@ -43,4 +43,7 @@ About 98% of any living organism's mass is composed of just six elements:
 
 
 ### Life component
+
+- Mitochondrion
+- 
 

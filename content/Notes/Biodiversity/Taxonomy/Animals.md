@@ -40,7 +40,7 @@ https://paleozoo.com.au
 - [[Tardigrada (ater bear)]]
 - [[Pentastomida]]
 - [[POGN]]?
-- [[Anellida]]
+- [[Annelida]]
 - [[Mollusca]]
 - [[Phoronida]]
 - [[Ectoprocta]]

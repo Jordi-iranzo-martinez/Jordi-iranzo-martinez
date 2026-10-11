@@ -1,8 +1,8 @@
 
-Pentatida (from Greek )
+Pentastomida (from Greek *πέντε* "five" and *στόma* "mouth"), knon a tongue worms, [[Crustacea]]
 
 
-### Pentastomida taonomy 
+### Pentastomida taxonomy
 
 - Porocephalida: the largest order, characterized by a distinct division between the hook placement and the mouth. Their larvae primarily parasitize mammals or fish before reaching maturity in reptiles.
 

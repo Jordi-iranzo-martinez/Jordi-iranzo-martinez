@@ -2,26 +2,8 @@
 tags:
   - Consulta_Natura
 ---
+[[Cetaceans]]
 
-# Introducción
-
-Los cetáceos (del griego _kētos_: “gran animal marino”) son un orden de mamíferos grandes que se han adaptado a una vida completamente marina. Incluye generalmente a delfines, ballenas y marsopas.
-
-A nivel taxonómico, se han clasificado en dos subórdenes, los **odontocetos** (del griego _odóntos_: diente, y _kētos_), que son cazadores activos; y los **misticetos** (también del griego _mýstax_, bigote), que tragan continuamente agua y utilizan unas barbas en filas en el maxilar superior a cada lado de la boca, donde estarían los dientes, para atrapar las presas, generalmente diminutas.
-
-Las presas también varías. Los odontocetos consumen organismos **nectónicos** (del griego nektós: nadador), que incluyen peces, cefalópodos (pulpos, calamares), e incluso focas y leones marinos, según la especie. Y los misticetos lo hacen de organismos **plantónicos** (griego _planktós_: “errante” o “flotante”), fundamentalmente _krill_ (del noruego _krill_: “comida de ballena”), que son crustáceos similares a gambas diminutas.
-
-Casi todas las especies son odontocetas, a excepción de las ballenas de mayor tamaño.
-
-Todos los cetáceos emiten sonidos. Los misticetos los hacen de baja frecuencia porque se atenúan menos en el agua y así pueden comunicarse a largas distancias. En cambio, los odontocetos emiten explosiones de sonido de alta frecuencia llamados _clics_ para ecolocalización (detección por eco). Las ondas sonoras rebotan al chocar con un objeto y pueden detectarlas de nuevo por el animal. Así pueden construir un mapa mental de su entorno, incluso en aguas oscuras, lo que les permite evitar obstáculos, seguir rutas, y localizar presas.
-
-Como curiosidad, las barbas mencionadas de los misticetos no son pelos, pero están formadas por queratina, una proteína dura de la que está formado el pelo, las uñas, el cuerno de rinoceronte, o el caparazón de los insectos.
-
-En el agua, el cuerpo está sostenido por flotación, por lo que no hay límite tan estricto como en tierra para el peso o tamaño como lo es la gravedad. Además, la alimentación pasiva por el filtrado del agua es muy eficiente en términos energéticos.
-
-Muchos de ellos son migratorios, con áreas de alimentación y reproducción diferenciadas, o siguiendo a migraciones de sus presas, como por ejemplo el atún.
-
-# Los cetáceos en España
 
 España es el país con más biodiversidad de cetáceos de Europa y uno de los más importantes del mundo. En especial, en las Islas Canarias, se han La [Sociedad para el Estudio de los Cetáceos en el Archipiélago Canario](https://www.cetaceos.org/es/homepage-es/) (SECAC) los cifra en 31.
 

@@ -1,5 +1,5 @@
 
-Insects
+Insects, scientifically known as heapoda (from the Greek *ἕξ* "six" and *πούς* "foot") are 
 
 
 [[Artropoda]]
