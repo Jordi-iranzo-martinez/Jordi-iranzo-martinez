@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+year: "1914"
 ---
 
 ![[Web/content/Visual/photography_pankhurst.png]]

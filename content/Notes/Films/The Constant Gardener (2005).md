@@ -1,6 +1,9 @@
 ---
 tags:
   - Just_One_Humankind
+direction: Fernando Meirelles
+year: "2005"
 ---
+Based on the bestselling 2001 homonimous novel by John le Carré
 
 Justin Quayle (Fiennes) es un diplomático británico destinado en Kenya cuya mujer es asesinada junto a un hombre sospechoso de ser su amante, un activista defensor de los derechos humanos de la región. Quayle decide entonces investigar los asesinatos, y comienza a descubrir mucho más de lo que esperaba... (FILMAFFINITY)

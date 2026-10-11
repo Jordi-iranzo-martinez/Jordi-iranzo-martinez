@@ -4,7 +4,7 @@ tags:
 ---
 
 
-[[More Than Honey (2012)]]
+[[More Than Honey]]
 
 [[Bees]]
 

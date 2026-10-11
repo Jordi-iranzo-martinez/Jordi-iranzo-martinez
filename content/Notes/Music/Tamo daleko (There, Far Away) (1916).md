@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+year: "1916"
 ---
 The Great Retreat (1915–1916)
 

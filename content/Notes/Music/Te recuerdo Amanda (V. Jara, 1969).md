@@ -1,6 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
+author: Víctor Jara
+year: "1969"
 ---
 Víctor Jara se encontraba en Europa trabajando como director de teatro en una gira internacional. Sintiéndose profundamente solo en una habitación de hotel británica y extrañando su tierra, tomó la guitarra y comenzó a componer un homenaje a los trabajadores invisibles de su país.
 
@@ -14,4 +16,4 @@ Fue trasladado al Estadio Chile, reconvertido en centro de detención y tortura.
 
 El 16 de septiembre de 1973, Víctor Jara fue ametrallado. Su vida quedó destrozada en cuestión de minutos, transformando su canción más famosa en su propio epitafio y en un monumento a los derechos humanos.
 
-[[Eleanor Roosevelt holding the English-language version of the Universal Declaration of Human Rights (1949)]]
+[[Eleanor Roosevelt holding the English-language version of the Universal Declaration of Human Rights]]

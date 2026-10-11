@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Life
+direction: James L. Brooks
+year: "1997"
 ---
 
 

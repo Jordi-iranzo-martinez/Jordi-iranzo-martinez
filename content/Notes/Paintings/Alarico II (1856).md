@@ -1,6 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
+author: Carlos María Esquivel y Rivas
+year: "1856"
 ---
 
 ![[Web/content/Visual/Alarico II.jpg]]

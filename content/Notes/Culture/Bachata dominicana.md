@@ -5,7 +5,7 @@ tags:
 
 La bachata dominicana es un género musical y un baile lleno de ritmo, pasión y melancolía que nació en los sectores urbanos y rurales marginados de la República Dominicana a principios de la década de 1960.
 
-La bachata nació de la fusión del [[Boléro (1928)|Bolero (1928)]] con otros ritmos afroantillanos como el son cubano y el merengue. Al principio, las letras se enfocaban casi exclusivamente en el desamor, la traición, la pobreza y la nostalgia. Por esta razón, durante décadas se le conoció popularmente como "música de amargue". Durante la dictadura de Rafael Trujillo el género estuvo fuertemente reprimido y censurado, siendo relegado a bares y burdeles de mala fama.
+La bachata nació de la fusión del [[Boléro|Bolero (1928)]] con otros ritmos afroantillanos como el son cubano y el merengue. Al principio, las letras se enfocaban casi exclusivamente en el desamor, la traición, la pobreza y la nostalgia. Por esta razón, durante décadas se le conoció popularmente como "música de amargue". Durante la dictadura de Rafael Trujillo el género estuvo fuertemente reprimido y censurado, siendo relegado a bares y burdeles de mala fama.
 
 Cuenta con un conjunto muy específico de instrumentos:
 

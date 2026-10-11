@@ -2,6 +2,8 @@
 tags:
   - Just_One_Humankind
   - Just_One_Life
+author: Carl Orff
+year: "1937"
 ---
 
 "O Fortuna" est carmen medii aevi, pars celeberrima operis musici quod "Carmina Burana" appellatur, quod anno 1936 a compositore Germanico Carolo Orff compositum est.

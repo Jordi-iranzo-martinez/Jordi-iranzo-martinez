@@ -1,3 +1,7 @@
+---
+author: Diego Velázquez
+year: 1628-1629
+---
 ![[Web/content/Visual/Los borrachos, o El triunfo de Baco(2).jpg]]
 
 Baco era el dios romano de . Aparece coronado con hojas de vid. 

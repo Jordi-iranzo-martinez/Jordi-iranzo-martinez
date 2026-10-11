@@ -8,6 +8,6 @@ tags:
 [[Los Tercios españoles]]
 
 
-[[Rocroi, el último tercio (2013)]]
+[[Rocroi, el último tercio]]
 
 

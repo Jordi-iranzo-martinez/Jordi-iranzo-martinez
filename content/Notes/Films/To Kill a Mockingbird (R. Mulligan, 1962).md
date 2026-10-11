@@ -2,9 +2,15 @@
 tags:
   - Just_One_Humankind
   - Just_One_Life
+direction: Robert Mulligan
+year: "1962"
 ---
 
 *To Kill a Mockingbird (R. Mulligan, 1962) is based on the homonimous novel by Harper Lee*
+
+
+[[Birds]]
+
 
 está ambientada en la década de 1930 en una localidad de Alabama. 
 

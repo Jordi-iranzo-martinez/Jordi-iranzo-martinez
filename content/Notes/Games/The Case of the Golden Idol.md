@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Color Gray Games
+year: "2022"
 ---
 **siglo XVIII**
 

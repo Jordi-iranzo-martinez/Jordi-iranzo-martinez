@@ -8,7 +8,7 @@ tags:
 
 The Pleistocenon Superior
 
-[[Dawn of Man (Madruga Works, 2019)]]
+[[Dawn of Man]]
 
 
 

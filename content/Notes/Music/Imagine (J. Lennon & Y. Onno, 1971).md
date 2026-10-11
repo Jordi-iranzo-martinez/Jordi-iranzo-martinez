@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+year: "1971"
+author: John Lennon & Yoko Ono
 ---
 The lyrics directly challenge the three core structures that he believed caused all human wars: religion, nationalism, and private property.
 

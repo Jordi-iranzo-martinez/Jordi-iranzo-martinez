@@ -11,5 +11,5 @@ l barco francés _La Coubre_, que transportaba armas para el gobierno revolucion
 
 
 
-[[The Motorcycle Diaries (Diarios de motocicleta) (W. Salles, 2004)]]
+[[The Motorcycle Diaries (Diarios de motocicleta)]]
 

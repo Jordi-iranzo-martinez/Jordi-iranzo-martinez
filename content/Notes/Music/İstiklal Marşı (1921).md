@@ -7,7 +7,7 @@ Ersoy's poem was read aloud to the Parliament on March 12, 1921. The deputies we
 
 In 1930, as part of Atatürk's sweeping modernization and Westernization reforms, the government officially adopted a new composition by Zeki Üngör, the conductor of the Presidential Symphony Orchestra. It transformed the anthem into a fast-paced, Western-style, and majestic military march.
 
-[[Suzerain (2000)]]
+[[Suzerain]]
 
 
 

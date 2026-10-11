@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Don McLean
+year: "1971"
 ---
 La canción arranca recordando el 3 de febrero de 1959, el trágico día en que los pioneros del rock and roll Buddy Holly, Ritchie Valens y The Big Bopper fallecieron en un accidente aéreo en Iowa. McLean, que en ese entonces era un repartidor de periódicos de 13 años, utiliza este luto personal como el símbolo del fin de una era pura y feliz para su generación.
 

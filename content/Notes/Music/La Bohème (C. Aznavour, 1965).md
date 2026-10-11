@@ -1,3 +1,7 @@
+---
+author: Charles Aznavour
+year: "1965"
+---
 
 Les bohémiens désignaient à l'origine les personnes vivant au jour le jour, principalement des artistes, écrivains, musiciens et étudiants, qui adoptaient un mode de vie libre, anticonformiste et totalement détaché des règles de la société bourgeoise, en particulier au XIXe siècle à Paris.
 

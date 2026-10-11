@@ -1,7 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
-title: Alatriste (A. Díaz Yanes, 2006)
+direction: Agustín Díaz Yanes & Arturo Pérez-Reverte
+year: "2006"
 ---
 
 Alatriste (A. Díaz Yanes, 2006) está ambientada en el Imperio Español del s. XVIII.
@@ -19,7 +20,7 @@ Francisco de Quevedo: El genial poeta del Siglo de Oro, famoso tanto por sus ver
 
 Cientos de asesinos a sueldo y espadachines extranjeros operaban clandestinamente en la Villa y Corte madrileña de la época.
 
-El clímax final del largometraje es una de las reconstrucciones bélicas más fieles y sobrecogedoras del cine europeo. La Batalla de Rocroi ([[Rocroi, el último tercio (2013)]]) ocurrió de verdad el 19 de mayo de 1643 en el norte de Francia, en el marco de la Guerra de los Treinta Años.
+El clímax final del largometraje es una de las reconstrucciones bélicas más fieles y sobrecogedoras del cine europeo. La Batalla de Rocroi ([[Rocroi, el último tercio]]) ocurrió de verdad el 19 de mayo de 1643 en el norte de Francia, en el marco de la Guerra de los Treinta Años.
 
 Los Tercios Españoles fueron cercados por el ejército francés del duque de Enghien.
 

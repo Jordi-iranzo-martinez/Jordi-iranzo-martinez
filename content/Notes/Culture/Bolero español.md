@@ -13,4 +13,4 @@ El baile tradicional está acompañado por una guitarra y, de forma obligatoria,
 
 Su enorme popularidad dio origen a la **Escuela Bolera de Danza**. Esta técnica fusionó los bailes populares andaluces con el ballet clásico francés e italiano. Destaca por pasos de una gran complejidad técnica, saltos espectaculares (_vueltas de pecho_, _trenzados_) y un braceo muy barroco y elegante.
 
-El ritmo del bolero tradicional español fascinó tanto a Europa que compositores clásicos franceses lo inmortalizaron. El ejemplo más famoso de la historia es el arrollador [[Boléro (1928)]] de Maurice Ravel, cuyo patrón de tambor constante emula directamente el compás del bolero español.
+El ritmo del bolero tradicional español fascinó tanto a Europa que compositores clásicos franceses lo inmortalizaron. El ejemplo más famoso de la historia es el arrollador [[Boléro]] de Maurice Ravel, cuyo patrón de tambor constante emula directamente el compás del bolero español.

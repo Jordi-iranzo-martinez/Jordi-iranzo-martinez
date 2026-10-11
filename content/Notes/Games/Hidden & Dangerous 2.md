@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Illusion Softworks
+year: "2003"
 ---
 The British Special Forces (SAS) were born in 1941 by Winston Churchill ([[The Roaring Lion (Y. Karsh, 1941)]]) in the North African desert founded by a Scottish officer David Stirling, camuflaged for the German espionage as "L Detachment, Special Air Service Brigade."
 
@@ -61,7 +63,7 @@ David Stirling estructuró las patrullas en células estrictas de 4 hombres, cad
 
 Los alemanes instalaron estaciones meteorológicas secretas y fuertemente custodiadas en zonas árticas extremas como Groenlandia o el archipiélago de Svalbard, ya que predecir el clima del Atlántico Norte era vital para mover sus submarinos.
 
-[[Das Boot (1981)]]
+[[Das Boot]]
 
 
 

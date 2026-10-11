@@ -15,7 +15,7 @@ Companionship
 
 
 *The creature's design was inspired by the mythical forest gods in 
-[[もののけ姫 (Princess Mononoke) (H. Miyazaki, 1997)]]*.
+[[もののけ姫 (Princess Mononoke)]]*.
 
 Humanity is forcing environmental decaying ([[Sustainability]]).
 
@@ -38,7 +38,7 @@ Because of this geometric tilt, the Northern and Southern Hemispheres always exp
 - When it is June, the Northern Hemisphere is tilted toward the Sun (Summer), while the Southern Hemisphere is tilted away (Winter).
 - When it is December, the situation reverses completely.
 
-Wolf pups are almost bornt in the spring ([[De lobos y hombres (C. Gómez López, 2014)]], [[Lobo ibérico]]).
+Wolf pups are almost bornt in the spring ([[De lobos y hombres]], [[Lobo ibérico]]).
 
 
 Kids are weak and need protection. Teenagers are independent and stubborn, and mature people .

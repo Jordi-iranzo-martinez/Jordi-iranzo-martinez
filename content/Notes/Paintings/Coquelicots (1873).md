@@ -1,1 +1,0 @@
-![[Web/content/Visual/Pasted image 20260827152909.png]]

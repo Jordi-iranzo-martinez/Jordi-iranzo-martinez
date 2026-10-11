@@ -14,18 +14,18 @@ Mikado (universally known as Pick-up Sticks) is a classic game of physical dexte
 
 Every stick is marked with colored rings or stripes that indicate its point value and social "rank" in the game:
 
-- **🎴 The Mikado (Emperor):** 1 stick, decorated with a blue spiral or multiple blue rings. Worth **20 points**.
-- **📜 The Mandarin (High Scholar):** 5 sticks, with yellow/red/black rings. Worth **10 points each**.
-- **☯️ The Bonzen (Priest):** 5 sticks, with blue and yellow rings. Worth **5 points each**.
-- **⚔️ The Samurai (Warrior):** 15 sticks, with three rings. Worth **3 points each**.
-- **🌾 The Kuli (Worker/Servant):** 15 sticks, with two rings. Worth **2 points each**.
+- **The Mikado** (Emperor): 1 stick, decorated with a blue spiral or multiple blue rings. Worth 20 points.
+- **Mandarin** (High Scholar): 5 sticks, with yellow/red/black rings. Worth 10 points each.
+- **Bonzen** (Priest): 5 sticks, with blue and yellow rings. Worth 5 points each.
+- **Samurai** (Warrior): 15 sticks, with three rings. Worth 3 points each.
+- **Kuli** (Worker/Servant): 15 sticks, with two rings. Worth 2 points each.
 
 The game ends when all 41 sticks have been successfully cleared. Players add up the total point values of their collected sticks, and the highest score wins.
 
 While simple stick-gathering games dates back thousands of years to ancient Rome, Greece, and Native American cultures (where people played with reeds, straw, or small bones), the specific game of Mikado has a unique backstory:
 
-- **The European Parlor Game:** By the 18th and 19th centuries, the game was a highly popular parlor game across Europe, known by names like _Spillikins_ in Britain or _Maccacado_ in Germany. Elite sets were carved out of ivory or bone.
+By the 18th and 19th centuries, the game was a highly popular parlor game across Europe, known by names like _Spillikins_ in Britain or _Maccacado_ in Germany. Elite sets were carved out of ivory or bone.
 
-- **The Japanese Rebranding:** The name **"Mikado"** actually means **"Emperor of Japan"**. In the late 19th century, Europe experienced a massive pop-culture obsession with Japanese aesthetics (_Japonism_). To cash in on this trend, a German game manufacturer rebranded their stick sets using a fictionalized Japanese hierarchical theme (Emperor, Mandarin, Samurai).
+The name "Mikado" actually means "Emperor of Japan". In the late 19th century, Europe experienced *Japonism*: a massive pop-culture obsession with Japanese aesthetics. To cash in on this trend, a German game manufacturer rebranded their stick sets using a fictionalized Japanese hierarchical theme (Emperor, Mandarin, Samurai).
 
-- **Global Adoption:** European immigrants brought the game to North America, where it split into generalized toy brands labeled simply as _Pick-up Sticks_ or _Jackstraws_.
+European immigrants brought the game to North America, where it split into generalized toy brands labeled simply as _Pick-up Sticks_ or _Jackstraws_.

@@ -1,7 +1,7 @@
 
 Zombies  (which originally rooted in West African spiritual folklore) 
 
-Nigeria had emerged from a devastating internal conflict known as the Nigerian Civil War (or the Biafran War) (1967–1970) resulted in over two million of deaths ([[Albino Boy, Biafra (1969)]]).
+Nigeria had emerged from a devastating internal conflict known as the Nigerian Civil War (or the Biafran War) (1967–1970) resulted in over two million of deaths ([[Albino Boy, Biafra]]).
 
 The nation was controlled by military.
 

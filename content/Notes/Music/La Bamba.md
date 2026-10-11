@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-Es un son jarocho tradicional de finales del siglo XVII, del Estado de Veracruz (México)
+La Bamba es una canción tradicional mexicana de género son jarocho, originario de del Estado de Veracruz a finales del siglo XVII.
 
 La palabra "bamba" tiene un origen africano y se asocia con conceptos como "fiesta", "huateque" o "celebración", y con el verbo español "bambolear" (moverse o balancearse rítmicamente).
 

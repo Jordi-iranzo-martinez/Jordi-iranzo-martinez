@@ -1,6 +1,8 @@
 ---
 tags:
-  - COMPROBAR
+  - Just_One_Life
+direction: Germán Doin
+year: "2012"
 ---
 
 

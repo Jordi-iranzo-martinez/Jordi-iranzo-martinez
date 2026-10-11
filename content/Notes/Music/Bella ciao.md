@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+author: Anonymous (mondine)
 ---
 
 «Bella ciao» es el himno antifascista más famoso del mundo

@@ -4,7 +4,7 @@
 
 Alan Kurdi’s family was fleeing the brutal violence of the civil war in Syria, specifically from the city of Kobane. Seeking safety in Europe, the family boarded a small, overcrowded inflatable rubber boat intended to travel from Turkey to the Greek island of Kos, which was a short distance away across the Aegean Sea.
 
-[[Bury Me, My Love (The Pixel Hunt, 2017)]]
+[[Bury Me, My Love]]
 
 Just minutes after leaving the Turkish coast, the boat capsized in rough waters. Alan, his five-year-old brother Galib, and his mother Rehan all drowned. His father, Abdullah Kurdi, was the only immediate family member who survived the tragedy.
 
@@ -22,6 +22,6 @@ Abdullah moved to Erbil, Iraq (in the Kurdistan Region), where he established th
 - **School supplies and toys** to help restore a sense of normalcy to displaced families.
 - **Medical aid and food distribution** inside volunteer-run refugee centers.
 
-[[لاک‌پشت‌ها پرواز می‌کنند» به انگلیسی می‌شود (Turtles Can Fly (B. Ghobadi, 2004)]]
+[[لاک‌پشت‌ها پرواز می‌کنند» به انگلیسی می‌شود (Turtles Can Fly)]]
 
 Despite his charitable work, Abdullah has frequently expressed profound sorrow and frustration in interviews marking the anniversaries of the tragedy. He has stated that while the photograph of Alan briefly woke up the conscience of the world, very little has fundamentally changed. He remains vocal about the fact that the Syrian conflict continues, human smugglers are still active, and innocent children are still drowning in the Mediterranean Sea every year.

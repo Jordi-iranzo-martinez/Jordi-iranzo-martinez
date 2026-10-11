@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Christopher Nolan
+year: "2023"
 ---
 
 Julius Robert Oppenheimer was an american physicist 

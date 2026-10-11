@@ -47,5 +47,5 @@ Consolidó un sistema político cerrado basado en el Partido Comunista de Cuba (
 Los barbudos eran 
 
 
-[[Hasta Siempre Comandante Che Guevara (C. Puebla)]]
+[[Hasta Siempre Comandante]]
 

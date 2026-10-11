@@ -24,5 +24,5 @@ The federal government was already pivoting its strategy. Unable to convict him 
 
 ([[Escape from Alcatraz (D. Siegel, 1979)]])
 
-([[The Untouchables (B. De Palma, 1987)]])
+([[The Untouchables]])
 

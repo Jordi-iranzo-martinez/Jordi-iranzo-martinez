@@ -1,3 +1,9 @@
+---
+tags:
+  - Memorias_Hispanas
+author: Ismael Serrano
+year: "1997"
+---
 
 
 Gendarmes y fascistas, y estudiantes con flequillo,  
@@ -29,5 +35,5 @@ París
 
 Jean Paul Sartre 
 
-Bosnia ([[This War of Mine (2014)]]) y Vietnam ([[Apocalypse Now]], [[The Terror Of War ('Napalm Girl') (1972)]], [[Massacre of Villagers in My Lai (1967)]])
+Bosnia ([[This War of Mine]]) y Vietnam ([[Apocalypse Now]], [[The Terror Of War ('Napalm Girl')]], [[Massacre of Villagers in My Lai]])
 

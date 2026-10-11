@@ -1,10 +1,13 @@
 ---
 tags:
   - Just_One_Humankind
+year: "1918"
+author: Traditional
+lyrics: Abraham Zevi Idelsohn
 ---
+Hava Nagila ("Let's cheer up ourselves) is the most famous Jewish folk song in the world, universally recognized as an anthem of celebration, joy, and dance at weddings, Bar Mitzvahs, and festive gatherings.
 
-
-
+The Original Melody began in Ukraine as a *nigun*: a wordless, chanted religious melody used by 19th-century Hasidic Jews. 
 
 
 [[תּוֹרָה (Torá)]]

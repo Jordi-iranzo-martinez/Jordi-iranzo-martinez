@@ -1,0 +1,14 @@
+---
+tags:
+  - Just_One_Humankind
+direction: Rob Marshall
+year: "2005"
+---
+
+
+The firlm is an adaptation of the book by Arthur Golden. 
+
+Japan in 1929
+
+Geishas were
+

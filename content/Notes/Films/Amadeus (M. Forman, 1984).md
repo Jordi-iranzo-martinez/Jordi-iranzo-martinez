@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+direction: Miloš Forman
+year: "1984"
 ---
 
 ### José II 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+author: CIRAD & INRIA
+year: "2013"
 ---
 [Pla@ntNet](https://identify.plantnet.org) is a free citizen-science mobile application designed to help identify plants simply by photographing them with your smartphone or uploading images via the web. Developed by a consortium of French research institutes (including CIRAD, INRAE, INRIA, and IRD) alongside the Tela Botanica network, it functions as a global collaborative database used by scientists to monitor plant biodiversity.
 

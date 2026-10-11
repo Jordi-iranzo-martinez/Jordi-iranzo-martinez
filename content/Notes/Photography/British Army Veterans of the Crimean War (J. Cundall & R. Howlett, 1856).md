@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Joseph Cundall & Robert Howlett
+year: "1856"
 ---
 ![[Web/content/Visual/Pasted image 20260823195517.png]]
 

@@ -1,0 +1,36 @@
+
+
+on the [Crocodile Specialit Group by International Union for the Conservation of Nature](https://www.iucncsg.org/) (IUCNCSG)
+
+### Crocodilia taxonomy
+
+
+- **Alligatoridae**: alligators & caimans)
+	- **American Alligator** (*Alligator mississippiensis*)
+	- **Chinese Alligator** (*Alligator sinensis*)
+	- **Black Caiman** (*Melanosuchus niger*)
+	- **Broad-snouted Caiman** (*Caiman latirostris*)
+	- **Spectacled Caiman** (*Caiman crocodilus*)
+	- **Yacare Caiman**	(*Caiman yacare*)
+	- **Cuvier’s Dwarf Caiman** (*Paleosuchus palpebrosus*)
+	 - **Schneider’s Smooth-fronted Caiman** (*Paleosuchus trigonatus*)
+- **Crocodylidae** ("true" crocodiles)
+	- **West African Slender-snouted Crocodile** (*Mecistops cataphractus*)
+	- **Central African Slender-snouted Crocodile** (*Mecistops leptorhynchus*)
+	- **American Crocodile** (*Crocodylus acutus*)
+	- **Australian Freshwater Crocodile** (*Crocodylus johnstoni*)
+	- **Cuban Crocodile** (*Crocodylus rhombifer*)
+	- **Dwarf Crocodile** (*Osteolaemus tetraspis*)
+	- **Osborn's Dwarf Crocodile** (*Osteolaemus osborni*)
+	- **Morelet’s Crocodile**	(*Crocodylus moreletii*)
+	- **Mugger Crocodile** (*Crocodylus palustris*)
+	- **New Guinea Freshwater Crocodile** (*Crocodylus novaeguineae*)
+	- **Nile Crocodile** (*Crocodylus niloticus*)
+	- **West African Crocodile** (*Crocodylus suchus*)
+	- **Orinoco Crocodile** (*Crocodylus intermedius*)
+	- **Philippine Crocodile** (*Crocodylus mindorensis*)
+	- **Saltwater Crocodile** (*Crocodylus porosus*)
+	- **Siamese Crocodile** (*Crocodylus siamensis*)
+- **Gavialidae**: Gharial and Tomistoma)
+	- **Gharial** (*Gavialis gangeticus*)
+	- **Tomistoma** (*Tomistoma schlegelii*)

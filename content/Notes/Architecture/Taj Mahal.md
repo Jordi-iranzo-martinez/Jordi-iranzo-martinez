@@ -1,4 +1,11 @@
+---
+tags:
+  - Just_One_Humankind
+year: 1631-1648
+---
 
+
+Shah Jahan
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KZzgvng_5GE?si=x6-TQctzDkEUB2k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

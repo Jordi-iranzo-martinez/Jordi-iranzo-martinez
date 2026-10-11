@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: PSY
+year: "2012"
 ---
 
 

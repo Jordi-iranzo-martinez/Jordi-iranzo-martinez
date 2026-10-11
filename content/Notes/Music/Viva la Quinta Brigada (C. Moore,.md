@@ -2,6 +2,8 @@
 tags:
   - Just_One_Humankind
   - Memorias_Hispanas
+author: Christy Moore
+year: "1984"
 ---
 *C. Moore did a mistake with the name: the Irish People fought in the "Quince" o "Decimoquinta" Brigada (15), not in the "Quinta" (5)*
 

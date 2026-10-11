@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+direction: Stanley Kramer
+year: "1961"
 ---
 
 

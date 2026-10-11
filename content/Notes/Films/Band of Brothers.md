@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+direction: Steven Spielberg & Tom Hanks
+year: "2001"
 ---
 
 *Band of Brothers, based on the book by Stephen E. Ambrose, relate the life of Easy Company, an american batallion of the 506 parachuting regiment, who fight after the Normandy landing in the Second World War, according to the testimonies of its survivors.*

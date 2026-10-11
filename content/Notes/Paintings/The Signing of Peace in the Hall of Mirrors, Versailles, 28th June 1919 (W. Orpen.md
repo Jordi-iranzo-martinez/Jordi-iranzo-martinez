@@ -6,5 +6,5 @@
 [[Versailles Palace]]
 
 
-[[Hitler At A Nazi Party Rally (1934)]] which finishing conquering Paris ([[Hitler in Paris]])
+[[Hitler At A Nazi Party Rally]] which finishing conquering Paris ([[Hitler in Paris]])
 

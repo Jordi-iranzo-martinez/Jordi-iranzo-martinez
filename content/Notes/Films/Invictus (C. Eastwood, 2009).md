@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+direction: Clint Eastwood
+year: "2009"
 ---
 Invictus (C. Eastwood, 2009)
 

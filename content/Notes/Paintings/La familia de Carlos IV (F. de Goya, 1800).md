@@ -14,5 +14,5 @@ En el extremo izquierdo, vistiendo un traje azul brillante, destaca el joven Fer
 
 Justo detrás del príncipe Fernando aparece una joven que vuelve la cabeza hacia el fondo, ocultando su rostro por completo. Goya la pintó de esta manera porque representaba a la futura esposa del príncipe, que en el año 1800 aún no había sido elegida. Cuando finalmente se concretó el matrimonio con María Antonia de Nápoles en 1802, Goya decidió dejar el cuadro intacto en su estado original.
 
-*Goya se autorretrató dentro del lienzo a la izquierda, tal y como había el autor de [[Las Meninas (Velázquez, 1656)]].*
+*Goya se autorretrató dentro del lienzo a la izquierda, tal y como había el autor de [[Las Meninas]].*
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
+author: Antonio Gisbert
+year: "1888"
 ---
 ![[fusilamiento-torrijos.jpg]]
 

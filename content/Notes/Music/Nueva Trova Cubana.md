@@ -17,7 +17,7 @@ No fue un género rítmico estricto, sino una actitud ante la creación musical:
 
 El movimiento estuvo liderado por una generación de jóvenes músicos que se convirtieron en auténticos mitos de la música en español:
 
-- **Silvio Rodríguez:** Considerado el máximo exponente literario del movimiento. Canciones suyas como _"Ojalá"_, _"Unicornio"_, [[Playa Girón (S. Rodríguez, 1969)]], "Playa Girón"_ o _"La maza"_ [[La Maza (S. Rodríguez, 1979)]], son himnos universales de la canción de autor, caracterizadas por metáforas complejas y una técnica de guitarra brillante.
+- **Silvio Rodríguez:** Considerado el máximo exponente literario del movimiento. Canciones suyas como _"Ojalá"_, _"Unicornio"_, [[Playa Girón]], "Playa Girón"_ o _"La maza"_ [[La Maza]], son himnos universales de la canción de autor, caracterizadas por metáforas complejas y una técnica de guitarra brillante.
 
 - **Pablo Milanés:** Aportó la calidez de la música tradicional cubana, el _feeling_ y el son. Sus composiciones, como _"Yolanda"_, _"El breve espacio en que no estás"_ o _"Amo esta isla"_, equilibraban de forma perfecta el romanticismo profundo con el compromiso social.
 

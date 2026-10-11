@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+direction: Chris Wedge & Carlos Saldanha
+year: "2002"
 ---
 
 Which didn't exist was the squirrel-rat. But acorns, the fruit of *Quercus* species (oaks...) existed since 55 to 60 million years ago, much before the Ice Age period (actually shortly after the extinction of non-avian dinosaurs).

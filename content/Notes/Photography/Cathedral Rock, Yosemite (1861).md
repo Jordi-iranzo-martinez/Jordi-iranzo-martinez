@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Planet
+year: "1861"
 ---
 ![[Web/content/Visual/Pasted image 20260823190020.png]]
 

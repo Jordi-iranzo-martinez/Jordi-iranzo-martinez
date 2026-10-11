@@ -11,7 +11,7 @@ The UN operates under the mandate of its founding treaty, the **UN Charter**, wh
 
 - **Maintaining International Peace and Security:** Deploying peacekeeping missions, facilitating diplomacy, and preventing conflicts.
 
-- **Protecting Human Rights:** Guarding fundamental liberties globally, rooted heavily in milestones like the Universal Declaration of Human Rights (1948) ([[Eleanor Roosevelt holding the English-language version of the Universal Declaration of Human Rights (1949)]]).
+- **Protecting Human Rights:** Guarding fundamental liberties globally, rooted heavily in milestones like the Universal Declaration of Human Rights (1948) ([[Eleanor Roosevelt holding the English-language version of the Universal Declaration of Human Rights]]).
 
 - **Delivering Humanitarian Aid:** Providing emergency relief during natural disasters, famines, and armed conflicts through agencies like UNICEF and the World Food Programme (WFP).
 
@@ -83,19 +83,19 @@ The [United Nations Environmental Programme](https://www.unep.org/) (UNEP) is
 
 ### MEAs
 
-- [[Ramsar Convention (1971, 1975)]]
-- [[United Nations Framework Convention on Climate Change (UNFCCC) (1992, 1994)]]
+- [[Ramsar Convention]]
+- [[United Nations Framework Convention on Climate Change (UNFCCC)]]
 - [[CITES Convention]]
-- [[Convention on the Conservation of Migratory Species of Wild Animals (Bonn Convention) (1983)]]
+- [[Bonn Convention (1983)]]
 - [[Bern Convention (1979)]]
-- [[United Nations Convention to Combat Desertification (1994, 1996)]]
+- [[United Nations Convention to Combat Desertification]]
 - [[Biodiversity Convention (1992)]]
-- [[Viena Convention (1985, 1988)]]
-- [[Stockholm Convention (2001, 2004)]]
-- [[Rotterdam Convention (1998, 2004)]]
+- [[Viena Convention]]
+- [[Stockholm Convention]]
+- [[Rotterdam Convention]]
 - [[Minamata Convention on Mercury (2013, 2017)]]
 - [[Basel Convention]]
-- [[Barcelona Convention on the Mediterranean]]
-- [[OSPAR Convention (1992, 1998)]]
-- [[BBNJ Treaty (2026)]]
+- [[Barcelona Convention]]
+- [[OSPAR Convention]]
+- [[BBNJ Treaty]]
 - [[UNLoS (bases del Mar)]]

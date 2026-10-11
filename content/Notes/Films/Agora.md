@@ -1,12 +1,14 @@
 ---
 tags:
   - Just_One_Humankind
-title: Ágora (Alejandro Amenábar, 2009)
+title: Ágora
+direction: Alejandro Amenábar
+year: "2009"
 ---
 
 Ágora (Alejandro Amenábar, 2009) narra la vida de Hipatia de Alexandria (), matemática, filósofa y astrónoma de la Antigüedad.
 
-*La ciudad fue nombrada por Alejandro Magno ([[Macedonians (0 AD)]]) en el año 331 a.C., antes de sus campañas militares contra el imperio aqueménida ([[Persians (0 AD)]]). Tras su muerte (323 a.C) Egipto fue gobernado por Ptolomeo I ([[Ptolemies (0 AD)]]), uno de sus diádocos, quien la convirtió en la capital del reino y comenzó la construcción de la Gran Biblioteca de Alejandría y del Faro, transformándola en el epicentro científico del mediterráneo. El emperador romano Octavio la conquistó en el 30 a.C.*
+*La ciudad fue nombrada por Alejandro Magno ([[Macedonians (0 AD)]]) en el año 331 a.C., antes de sus campañas militares contra el imperio aqueménida ([[Persepoli]]). Tras su muerte (323 a.C) Egipto fue gobernado por Ptolomeo I ([[Ptolemies (0 AD)]]), uno de sus diádocos, quien la convirtió en la capital del reino y comenzó la construcción de la Gran Biblioteca de Alejandría y del Faro, transformándola en el epicentro científico del mediterráneo. El emperador romano Octavio la conquistó en el 30 a.C.*
 
 Hipatia (c. 360-415) nació en Alejandría (Egipto), cuando era una provincia del Imperio Romano.
 

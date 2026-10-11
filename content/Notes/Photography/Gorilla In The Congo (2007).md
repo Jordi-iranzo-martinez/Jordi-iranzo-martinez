@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+author: Brent Stirton
+year: "2007"
 ---
 *"Gorilla in the Congo" is a photograph by South African photojournalist Brent Stirton, taken in 2007 in Virunga National Park, Democratic Republic of Congo. It's included in TIME's list of the 100 most influential photographs ever taken.*
 

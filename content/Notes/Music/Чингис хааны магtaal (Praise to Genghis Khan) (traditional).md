@@ -6,7 +6,7 @@ Genghis Khan (c. 1162–1227), born "Temüjin", was the mongol military strategi
 
 In Mongolia he is revered as the father of the nation and a key architect of Eurasian modernity. His legacy completely transformed trade, diplomacy, and global communication in the medieval world.
 
-([[Mount & Blade 'Warband' (2010)]])
+([[Mount & Blade 'Warband']])
 
 Temüjin's early life was defined by extreme hardship and survival. Following the murder of his father (a tribal chieftain), his family was abandoned by their own clan to starve on the harsh steppes. Temüjin survived poverty, captivity, and constant intertribal warfare.
 

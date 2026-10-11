@@ -45,7 +45,7 @@ La salida de Irán el 27 de enero de 1980 fue un proceso completamente limpio, a
 
 El único contratiempo real fue un leve problema técnico en el motor del avión que retrasó el embarque una hora, pero ocurrió antes de que los pasajeros cruzaran el control de pasaportes.
 
-El especialista en disfraces de la CIA, Tony Mendez, se alió de verdad con el oscarizado maquillador de Hollywood John Chambers (famoso por [[World of Apes]]) para crear una productora fantasma llamada _Studio Six_.
+El especialista en disfraces de la CIA, Tony Mendez, se alió de verdad con el oscarizado maquillador de Hollywood John Chambers (famoso por [[Planet of the Apes]]) para crear una productora fantasma llamada _Studio Six_.
 
 Compraron los derechos de un guion de ciencia ficción real que nunca se había filmado, titulado originalmente _Lord of Light_ (basado en una novela de Roger Zelazny), y le cambiaron el nombre a _Argo_. Pagaron anuncios reales en revistas de la industria como _Variety_ y organizaron una rueda de prensa falsa en una discoteca de Los Ángeles con actores disfrazados de alienígenas para convencer a los espías iraníes en EE. UU. de que el proyecto era legítimo en caso de que investigaran la tapadera.
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+direction: Wolfgang Reitherman
+year: "1967"
 ---
 
 

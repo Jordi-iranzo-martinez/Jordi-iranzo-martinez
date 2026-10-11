@@ -8,7 +8,7 @@ tags:
 
 It captures an Oglala Sioux warrior and sub-chief named Red Hawk on horseback in the heart of South Dakota's Badlands.
 
-[[Dances with Wolves (1990)]]
+[[Dances with Wolves]]
 
 Red Hawk (born in 1854) was a prominent leader and a fierce warrior of the Oglala Lakota (Sioux) tribe. His life spanned a critical period of resistance against the encroachment of the United States:
 

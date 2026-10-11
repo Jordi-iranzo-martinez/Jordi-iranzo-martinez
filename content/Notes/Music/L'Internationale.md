@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Eugène Pottier
+year: "1871"
 ---
 
 « L'Internationale » est l'hymne le plus célèbre du mouvement socialiste et communiste international, chanté et traduit dans pratiquement toutes les langues du monde.

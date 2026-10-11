@@ -2,6 +2,8 @@
 tags:
   - Just_One_Humankind
   - Just_One_Life
+author: 孫武 (Sun Tzu)
+year: V BC
 ---
 
 War is inevitable. 

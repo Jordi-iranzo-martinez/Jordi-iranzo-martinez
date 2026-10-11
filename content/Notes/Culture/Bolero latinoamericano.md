@@ -38,6 +38,6 @@ Hay miles de boleros, pero estos tres forman parte del ADN cultural del mundo:
 
 Fue declarada Patrimonio Cultural Inmaterial de la Humanidad** por la UNESCO en el 2023.
 
-[[Boléro (1928)|Bolero (1928)]]
+[[Boléro|Bolero (1928)]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1meThxBS75E?si=kkQJI1-V-MYUNHmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

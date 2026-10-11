@@ -21,7 +21,7 @@ By late 1915, the Allies admitted defeat and proceed a stealthy evacuation in De
 
 Around 500.000 people died, spliting almost equally between both sides.lties split almost equally between both sides.
 
-For Turkey, it was a heroic defense of the homeland which laid the foundations for the Turkish War of Independence and the birth of the Republic of Turkey ([[Suzerain (2000)]]).
+For Turkey, it was a heroic defense of the homeland which laid the foundations for the Turkish War of Independence and the birth of the Republic of Turkey ([[Suzerain]]).
 
 For Australia and New Zealand (ANZACs) it fostedes a national identity separated from the British Empire. They honor their fallen soldiers on April 25th.
 

@@ -9,4 +9,4 @@ Sur la table, à droite de l'image, reposent son célèbre chapeau bicorne et le
 Curieusement, Delaroche n'a pas peint cette toile en 1814, mais en 1840. Cette année-là correspond à l'événement historique du Retour des cendres, au cours duquel les restes mortels de Napoléon furent rapatriés de l'île de Sainte-Hélène pour être enterrés en grande pompe aux Invalides, à Paris. En plein essor du Romantisme, le tableau est né pour rappeler la dimension tragique, humaine et intime de l'homme qui avait bouleversé la carte de l'Europe.
 
 
-en contraposición a [[Le Premier Consul franchissant les Alpes au col du Grand Saint-Bernard (J. Louis David, 1801-1805)]]
+en contraposición a [[Le Premier Consul franchissant les Alpes au col du Grand Saint-Bernard]]
