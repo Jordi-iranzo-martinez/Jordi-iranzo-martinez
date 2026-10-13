@@ -1,6 +1,7 @@
 ---
 tags:
   - Consulta_Natura
+title: Sociedad Española de Ornitología
 ---
 
 - [LIFE Guardianes de la Naturaleza](https://guardianes.seo.org)

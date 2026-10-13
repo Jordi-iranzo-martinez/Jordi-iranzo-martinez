@@ -1,3 +1,7 @@
+---
+title: Consulta Natura
+subtitle: Medio ambiente en España
+---
 
 ### Temáticas
 
@@ -16,15 +20,15 @@
 ### Organizaciones
 
 - [[ANSE]]
-- [[IUCN-España]]
-- [[Instituto Geológico y Minero de España (IGME-CSIC)]]
-- [[Instituto Español de Oceanografía (IEO)]]
-- [[Sociedad Española de Ornitología (SEO-Birdlife)]]
+- [[UICN-España]]
+- [[IGME]]
+- [[IEO]]
+- [[SEO-Birdlife]]
 - [[BIOagradables]]
 - [[CENEAM]]
 - [[Fundació Limne]]
 - [[Xaloc Mar]]
-- [[Connecta Natura]]
+
 
 
 

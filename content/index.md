@@ -31,11 +31,13 @@ Ofrezco los siguientes servicios:
 
 - **Educación**: asesoramiento gratuito de contenido escolar (primaria, secundaria y bachillerato)
 
-- **Oposiciones**: asesoramiento gratuito y publicación del temario de la oposición del Ministerio (especialidad de medio natural) y parte de la de Generalitat Valenciana (A1)
+- **[[Oposiciones]]**: asesoramiento gratuito y publicación del temario de la oposición del Ministerio (especialidad de medio natural) y parte de la de Generalitat Valenciana (A1)
 
 * [[Memlex]]: tarjetas de memoria de la literalidad de la norma en un formato de texto enriquecido.
 
-- [[Escritos]]: divulgación sobre medio ambiente, humanismo, hispanismo, opinión... (consultar la barra lateral)
+- [[Escritos]]
+
+- Notas (Jardín Digital)
 	- [[Consulta Natura]]: medio ambiente en España
 	- [[Terra]]: medio ambiente en la Comunidad Valenciana
 	- [[Just One Planet]]: medio ambiente mundial

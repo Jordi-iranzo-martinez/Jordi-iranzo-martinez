@@ -1,3 +1,7 @@
+---
+title: Just One Planet
+subtitle: Environmental science worldwide
+---
 
 ### Concepts
 

@@ -18,6 +18,6 @@
 *Todas ellas son gratuitas*
 
 - **Obsidian** : notas interconectadas
-- **RemNote** : tarjetas de memoria jerárquico (útil para normativa legal)
+- **RemNote** : tarjetas de memoria jerárquicas (útil para normativa legal)
 - **Claude AI** : análisis profundo de documentos (aplicación limitada en el tiempo en su versión gratuita)
 - **Google AI** (desde Chrome): búsqueda de información y esquemas rápidos

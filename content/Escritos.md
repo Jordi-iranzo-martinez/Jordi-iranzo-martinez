@@ -1,15 +1,10 @@
 
-Las temáticas son:
+- [[Amor callado]] (prosa poética)
 
-#Just_One_Planet : medio ambiente mundial (principalmente en inglés).
+- [[Exito y fracaso]] (ensayo)
 
-#Consulta_Natura : medio ambiente en España (en castellano)
+- [[Cuando llueve]] (prosa poética)
 
-#Terra : medio ambiente en la *Comunitat Valenciana* (muchos en valenciano)
+- [[Cloris i les flors]] (divulgación)
 
-#Memorias_Hispanas : hispanismo (en castellano)
-
-#Just_One_Humankind : humanismo (principalmente en inglés)
-
-Los escritos largos terminados aparecen como #Evergreen .
-
+- [[Helicon musophilos]] (mito etiológico)

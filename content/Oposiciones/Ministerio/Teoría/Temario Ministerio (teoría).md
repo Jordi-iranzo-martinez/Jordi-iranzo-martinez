@@ -7,7 +7,7 @@ r:
 ---
 
 
-### Adminitración
+### Administración
 
 #### Unión Europea
 

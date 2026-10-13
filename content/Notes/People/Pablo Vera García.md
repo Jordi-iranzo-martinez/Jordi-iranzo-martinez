@@ -3,7 +3,7 @@ tags:
   - Terra
 ---
 
-Ha trabajado durante muchos años como técnico especializado y director de proyectos para la delegación de la [[Sociedad Española de Ornitología (SEO-Birdlife)]] (SEO/BirdLife) en la Comunidad Valenciana.
+Ha trabajado durante muchos años como técnico especializado y director de proyectos para la delegación de la [[SEO-Birdlife]] (SEO/BirdLife) en la Comunidad Valenciana.
 
 Su ámbito principal de investigación y conservación es el **Parque Natural de L'Albufera de València**. Ha liderado proyectos cruciales de restauración ecológica en el parque, como el del _Tancat de la Pipa_ y el proyecto _Life Albufera_.
 
