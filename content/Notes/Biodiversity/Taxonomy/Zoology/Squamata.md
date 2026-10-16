@@ -1,5 +1,17 @@
 
-Squamata (From Latin *squama*: "scale") es el grupo más grande y diverso de reptiles vivos en el planeta, abarcando más del 95% de todas las especies de reptiles actuales. En inglés, se les conoce colectivamente bajo el nombre común de scaled reptiles o de forma directa como lizards, snakes, and amphisbaenians.*
+Squamata (From Latin *squama*: "scale") is the biggest and most diverse living reptiles on Earth, comprising more than the 95% of current species (over 11,900 living species) and the second-largest order of terrestrial vertebrates (only urpaed by perciform fish).
+
+### Squamata Key Characteristics
+
+- **Scaly Skin and Molting**: Their bodies are completely covered in horny scales or shields made of keratin. As they grow, they undergo a periodic skin-shedding process known as ecdysis.
+
+- **Movable Quadrate Bone**: They possess a unique skull modification where the quadrate bone is movable. This allows them to move their upper jaw relative to the braincase. This feature is exceptionally specialized in snakes, enabling them to swallow prey much larger than their own heads.
+
+- **Thermoregulation:** They are ectothermic (cold-blooded) animals. They rely entirely on external environmental heat sources to regulate their internal body temperature, primarily through behavioral adaptations like basking.
+
+- **Jacobson's Organ**: Squamates possess an advanced sense of smell thanks to the vomeronasal organ located in the roof of the mouth. Particles from the air are collected by their specialized, often forked tongues and delivered directly to this organ.
+
+- **Caudal Autotomy**: Many lizard species have the remarkable ability to voluntarily break off their own tails when threatened. This serves as a distraction for predators, and the tail can often be regenerated later.
 
 ### Squamata taxonomy
 
