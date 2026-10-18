@@ -1,12 +1,13 @@
 ---
 title: Consultor ambiental
 subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposiciones
-"[":
 ---
 ![[jordi-iranzo-martinez.png|283x377]]
 
 
 ¡Hola!
+
+![[Conultor ambiental.m4a]]
 
 Me llamo Jordi. Estudié Ciencias Ambientales en la Universidad de Valencia, especializado en la rama de ingeniería.
 
