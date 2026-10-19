@@ -149,7 +149,7 @@
 	- [[49'. Marco 2030 de Energía y Clima y desarrollo]]
 
 50. Principales instrumentos de lucha contra el cambio climático en España: Evolución. Ley 7/2021, de 20 de mayo, de cambio climático y transición energética. El Plan Nacional Integrado de Energía y Clima (PNIEC) 2021-2030. Plan Nacional de Adaptación al Cambio Climático 2021-2030.
-	- [[50'. Tecnologías de la información y políticas ambientales]]
+	- [[50'. Principales instrumentos de lucha contra CC en España]]
 
 51. Información geográfica, fuentes de observación remota (ortofotos, teledetección y LIDAR), toma de datos con GPS. Programa COPERNICUS. Aplicación a las políticas ambientales
 	- [[51'. Infraestructuras de datos espaciales]]
