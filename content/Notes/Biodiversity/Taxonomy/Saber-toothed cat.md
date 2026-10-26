@@ -1,0 +1,9 @@
+---
+tags:
+  - Just_One_Planet
+  - Blue_Sky_Studios
+---
+
+The Saber-toothed cat (*Smilodon fatalis*)
+
+[[Mammals]]

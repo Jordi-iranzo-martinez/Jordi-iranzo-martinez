@@ -1,52 +1,52 @@
 
 FALTA DESDE GENERACIÓN 7
 
-| Pokémon            | Insectos                       |
-| ------------------ | ------------------------------ |
-| Caterpie / Weedle  | Gusano                         |
-| Metapod / Kakuna   | Crisálidas                     |
-| Butterfly          | Mariposa                       |
-| Beedril            | Avispa                         |
-| Venomoth           | Polilla                        |
-| Scyther            | Mantis religiosa               |
-| Pinsir             | Ciervo volante (escarabajo)    |
-| Caterpie / Weedle  | Gusano                         |
-| Metapod / Kakuna   | Crisálidas                     |
-| Butterfly          | Mariposa                       |
-| Beedril            | Avispa                         |
-| Yanma              | Libélula                       |
-| Heracross          | Escarabajo rinoceronte japonés |
-| Ledyba             | Mariquita                      |
-| Rellor             | Escarabajo pelotero            |
-| Rabsca             | Escarabajo sagrado             |
-| Durant             | Hormiga                        |
-| Volcarona          | Mariposa Atlas                 |
-| Nymble             | Grillo topo pigmeo (Xya)       |
-| Frosmoth           | Polilla                        |
-| Volbeat, Ilumise   | Abejas                         |
-| Dustox             | Polilla                        |
-| Surskit            | Zapatero                       |
-| Wurmple            | Gusano de seda                 |
-| Masquerain         | Machaca (insecto)              |
-| Nincada            | Cigarra                        |
-| Trapinch, Vibrava  | Hormiga león                   |
-| Karrablast         | Eláteros                       |
-| Sewaddle           | Gusano de seda                 |
-| Leavanny           | Insecto hoja                   |
-| Shuckle            | Gusano en manzana              |
-| Mothim             | Polilla                        |
-| Combee             | Abejas                         |
-| Vespiqueem         | Abeja reina                    |
-| Applin             | Larva de polilla del manzano   |
-| Kricketune         | Grillo                         |
-| Grubbin            | Larva de escarabajo            |
-| Vikavolt           | Ciervo volante                 |
-| Cutiefly, Ribombee | Moscas                         |
-| Grubbin            | Larva de escarabajo            |
-| Cutiefly, Ribombee | Moscas                         |
-| Shedinga           | Exuvia                         |
-| Buzzwole           | Mosquito                       |
-| Snom               | Acraga                         |
+| Pokémon                  | Insectos                             |
+| ------------------------ | ------------------------------------ |
+| ***Caterpie / Weedle***  | ***Gusano***                         |
+| ***Metapod / Kakuna***   | ***Crisálidas***                     |
+| ***Butterfly***          | ***Mariposa***                       |
+| ***Beedril***            | ***Avispa***                         |
+| ***Venomoth***           | ***Polilla***                        |
+| ***Scyther***            | ***Mantis religiosa***               |
+| ***Pinsir***             | ***Ciervo volante (escarabajo)***    |
+| ***Caterpie / Weedle***  | ***Gusano***                         |
+| ***Metapod / Kakuna***   | ***Crisálidas***                     |
+| ***Butterfly***          | ***Mariposa***                       |
+| ***Beedril***            | ***Avispa***                         |
+| ***Yanma***              | ***Libélula***                       |
+| ***Heracross***          | ***Escarabajo rinoceronte japonés*** |
+| ***Ledyba***             | ***Mariquita***                      |
+| ***Rellor***             | ***Escarabajo pelotero***            |
+| ***Rabsca***             | ***Escarabajo sagrado***             |
+| ***Durant***             | ***Hormiga***                        |
+| ***Volcarona***          | ***Mariposa Atlas***                 |
+| ***Nymble***             | ***Grillo topo pigmeo (Xya)***       |
+| ***Frosmoth***           | ***Polilla***                        |
+| ***Volbeat, Ilumise***   | ***Abejas***                         |
+| ***Dustox***             | ***Polilla***                        |
+| ***Surskit***            | ***Zapatero***                       |
+| ***Wurmple***            | ***Gusano de seda***                 |
+| ***Masquerain***         | ***Machaca (insecto)***              |
+| ***Nincada***            | ***Cigarra***                        |
+| ***Trapinch, Vibrava***  | ***Hormiga león***                   |
+| ***Karrablast***         | ***Eláteros***                       |
+| ***Sewaddle***           | ***Gusano de seda***                 |
+| ***Leavanny***           | ***Insecto hoja***                   |
+| ***Shuckle***            | ***Gusano en manzana***              |
+| ***Mothim***             | ***Polilla***                        |
+| ***Combee***             | ***Abejas***                         |
+| ***Vespiqueem***         | ***Abeja reina***                    |
+| ***Applin***             | ***Larva de polilla del manzano***   |
+| ***Kricketune***         | ***Grillo***                         |
+| ***Grubbin***            | ***Larva de escarabajo***            |
+| ***Vikavolt***           | ***Ciervo volante***                 |
+| ***Cutiefly, Ribombee*** | ***Moscas***                         |
+| ***Grubbin***            | ***Larva de escarabajo***            |
+| ***Cutiefly, Ribombee*** | ***Moscas***                         |
+| ***Shedinga***           | ***Exuvia***                         |
+| ***Buzzwole***           | ***Mosquito***                       |
+| ***Snom***               | ***Acraga***                         |
 
 
 

@@ -1,6 +1,0 @@
-
-
-Octopu
-
-[[Mollusca]]
-
