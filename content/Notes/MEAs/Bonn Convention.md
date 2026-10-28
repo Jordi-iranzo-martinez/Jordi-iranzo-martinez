@@ -17,7 +17,7 @@ Te [Convention on the Conservation of Migratory Species of Wild Animals](https:/
 
 - **Agreement on the Conservation of Albatrosses and Petrels** (ACAP): [[Birds]]
 
-- **African-Eurasian Migratory Waterbirds Agreement** (AEWA): [[Birds]] related to [[Wetlands]]
+- **African-Eurasian Migratory Waterbirds Agreement** (AEWA): [[Birds]] related to [[Louisiana Bayous]]
 
 - **Agreement on the Conservation of Small Cetaceans of the Baltic, North East Atlantic, Irish and North Seas** (ASCOBANS): [[Cetaceans]]
 

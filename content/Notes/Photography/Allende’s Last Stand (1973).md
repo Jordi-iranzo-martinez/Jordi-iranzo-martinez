@@ -1,5 +1,5 @@
 
-![[Web/content/Visual/photography_allenda-ultima-foto.png]]
+![[Web/content/Visual/photography_allenda-ultima-foto.png|644x422]]
 
 [[Los mil días de Allende (2023)]]
 

@@ -37,11 +37,11 @@ https://paleozoo.com.au
 - [[Priapulids]]
 - [[Onychophora]]
 - [[Artropoda]]
-- [[Tardigrada (ater bear)]]
+- [[Tardigrads (ater bear)]]
 - [[Pentastomida]]
 - [[POGN]]?
 - [[Annelida]]
-- [[Mollusca]]
+- [[Mollusks]]
 - [[Phoronida]]
 - [[Ectoprocta]]
 - [[Brachiopoda]]

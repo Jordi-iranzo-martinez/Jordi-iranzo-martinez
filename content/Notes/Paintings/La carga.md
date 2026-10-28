@@ -1,11 +1,11 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Ramón Casas
+author: Ramón Casas y Carbó
 year: 1899-1902
 ---
 
-![[Web/content/Visual/Pasted image 20260821002930.png]]
+![[Web/content/Visual/Pasted image 20260821002930.png|579x367]]
 
 
 

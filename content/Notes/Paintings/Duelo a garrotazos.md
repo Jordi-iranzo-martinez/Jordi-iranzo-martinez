@@ -7,6 +7,8 @@ year: 1820-1823
 ![[Web/content/Visual/goya_duelo-garrotazos.png]]
 
 
+[[Francisco de Goya]] 
+
 Los historiadores de arte la consideran el símbolo trágico de la guerra fratricida y las guerras civiles:
 
 - El enfrentamiento ciego: Dos rivales que se destruyen mutuamente a golpes, en un combate sin reglas ni piedad, incapaces de dialogar o detenerse.

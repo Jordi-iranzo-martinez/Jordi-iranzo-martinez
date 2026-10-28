@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Doménikos Theotokópoulos (El Greco)
+author: Doménikos Theotokópoulos
 year: "1580"
 ---
 

@@ -4,7 +4,7 @@ tags:
 year: "1930"
 ---
 
-![[Web/content/Visual/photopgraphy_al-capone.png]]
+![[Web/content/Visual/photopgraphy_al-capone.png|559x334]]
 
 
 Al Capone mugshot was captured by the Miami Police Department in Florida.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+  - Just_One_Life
 author: Pieter Brueghel
 year: "1562"
 ---

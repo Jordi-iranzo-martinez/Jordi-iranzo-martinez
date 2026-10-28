@@ -11,7 +11,7 @@ Los ricos, los pobres, los poderosos y los marginados comparten el mismo espacio
 
 La música y el alcohol actúan como un anestésico general. Olvidados los problemas del trabajo, la política o la pobreza, todos se vuelven iguales en el desenfreno.
 
-[[El triunfo de Baco (D. Velázquez, 1628-1629)]]
+[[El triunfo de Baco]]
 
 Cuando amanece, la magia se rompe bruscamente.
 

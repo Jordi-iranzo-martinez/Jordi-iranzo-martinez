@@ -6,6 +6,11 @@ direction: John Musker & Ron Clements
 year: "2016"
 ---
 
+[[Polynesia]]
+
+
+The Fictional Island (Motunui): While Moana’s home island is made up, visually it is a perfect blend of the sharp, lush green mountains of Tahiti and the coral beaches of Samoa. In fact, the sacred mountain of Motunui is modeled directly after Mount Otemanu in Bora Bora.
+
 
 The domestic pig (_Sus scrofa domesticus_) is a highly intelligent mammal that was introduced to Pacific islands by Polynesian settlers. These omnivores quickly adapted to island life and became important sources of protein for island communities.
 

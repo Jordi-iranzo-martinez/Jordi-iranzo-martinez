@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Joaquín Sorolla
+author: Joaquín Sorolla y Bastida
 year: "1884"
 ---
 ![[Web/content/Visual/sorolla_defensa-monteleon.png]]

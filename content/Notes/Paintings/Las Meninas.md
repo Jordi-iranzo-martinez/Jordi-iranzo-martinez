@@ -1,8 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
+author: Diego Rodríguez de Silva y Velázquez
 year: "1656"
-author: Diego Velázquez
 ---
 ![[Web/content/Visual/Pasted image 20260820233441.png]]
 

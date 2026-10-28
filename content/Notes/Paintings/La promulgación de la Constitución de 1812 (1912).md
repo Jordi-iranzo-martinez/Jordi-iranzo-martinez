@@ -69,7 +69,7 @@ En 1820, el militar Rafael del Riego se sublevó en Cabezas de San Juan (Sevilla
 
 >"Marchemos francamente, y yo el primero, por la senda constitucional"
 
-Fernando VII pidió ayuda a las potencias absolutistas europeas (la Santa Alianza), que habían derrotado a Napoleón en 1815 ([[The Battle of Waterloo (1815)]]). En Francia nombraron como monarca absoluto a Luis XVIII de Borbón, hermano del rey guillotinado.
+Fernando VII pidió ayuda a las potencias absolutistas europeas (la Santa Alianza), que habían derrotado a Napoleón en 1815 ([[The Battle of Waterloo]]). En Francia nombraron como monarca absoluto a Luis XVIII de Borbón, hermano del rey guillotinado.
 
 España liberal era una amenaza para su forma de gobierno. Fernando VII les pidió ayuda y en 1823, un ejército francés de 100.000 soldados liderado por el Duque de Angulema invadió España sin apenas resistencia. Capturaron a los líderes liberales, ejecutaron a Rafael del Riego en Madrid, y restauraron el absolutismo. Los años síguientes fueron de feroz represión y se conocen como la "Década Ominosa" (1823-1833)
 

@@ -9,7 +9,7 @@ tags:
 
 
 
-When it reached Europe, the word _firzān_ got garbled into Latin as _fers_ or _fierge_, and around the 15th century Europeans reimagined the piece as the queen (probably influenced by the rise of powerful female monarchs: Isabella of Castile: [[Doña Isabel la Católica dictando su testamento (184)]]) and the general medieval fondness for royal court pairs (king a queen).
+When it reached Europe, the word _firzān_ got garbled into Latin as _fers_ or _fierge_, and around the 15th century Europeans reimagined the piece as the queen (probably influenced by the rise of powerful female monarchs: Isabella of Castile: [[Doña Isabel la Católica dictando su testamento]]) and the general medieval fondness for royal court pairs (king a queen).
 
 Its move went from the weakest piece on the board to the **strongest**, gliding freely in any direction. This is the change that earned the new ruleset the nickname _scacchi de la donna_ ("Mad Queen chess") when it emerged in Italy and Spain.
 

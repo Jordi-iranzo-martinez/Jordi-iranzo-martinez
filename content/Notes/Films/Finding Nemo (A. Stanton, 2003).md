@@ -9,6 +9,7 @@ El pez payaso (_Amphiprion ocellaris_)
 
 Viven en simbiosis con las anémonas de mar (_Heteractis magnifica_), cuyos tentáculos venenosos los protegen de los depredadores.
 
+[[Finding Nemo (A. Stanton, 2003)]]
 
 El pez cirujano azul (_Paracanthurus hepatus_) posee unas pequeñas "cuchillas" afiladas y venenosas en la base de su cola para defenderse.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Juan Genovés
+author: Juan Genovés Candel
 year: "1976"
 ---
 

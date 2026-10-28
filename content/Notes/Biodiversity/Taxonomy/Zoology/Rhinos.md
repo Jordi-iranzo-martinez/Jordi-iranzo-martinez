@@ -1,7 +1,6 @@
 
 
-[[Biodiversity/Taxonomy/Zoology/Mammals]]
-
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Mammals|Mammals]]
 
 
 Rhinos (family Rhinocerotidae) are massive megaherbivores easily recognized by their prominent horns and thick, armor-like ski They are among the largest remaining land mammals, but today, they face a severe survival crisis.

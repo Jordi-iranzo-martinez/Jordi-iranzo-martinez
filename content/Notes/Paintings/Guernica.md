@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Pablo Picasso
+author: Pablo Ruiz Picasso
 year: "1937"
 ---
 

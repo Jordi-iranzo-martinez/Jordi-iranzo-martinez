@@ -3,5 +3,5 @@ tags:
   - Memorias_Hispanas
 ---
 
-![[Web/content/Visual/Pasted image 20260901143154.png]]
+![[Web/content/Visual/Pasted image 20260901143154.png|361x516]]
 

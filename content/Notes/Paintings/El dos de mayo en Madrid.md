@@ -1,12 +1,13 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Francisco de Goya
+author: Francisco de Goya y Lucientes
 year: "1814"
 ---
 
 ![[Web/content/Visual/goya_mamelucos-2-mayo.png]]
 
+[[Francisco de Goya]]
 
 La pintura recrea el violento levantamiento popular del 2 de mayo de 1808 en la capital española contra las fuerzas de ocupación de Napoleón Bonaparte. Tras percatarse de que los soldados franceses pretendían llevarse al infante Francisco de Paula a Francia, el pueblo llano de Madrid, armado únicamente con navajas, puñales, tijeras y palos, salió en masa a las calles para enfrentarse al ejército más poderoso del mundo. Este sangriento choque fue el detonante inmediato de la Guerra de la Independencia Española.
 

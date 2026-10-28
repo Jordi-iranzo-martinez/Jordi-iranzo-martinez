@@ -9,6 +9,8 @@ subtitle: Environmental science worldwide
 - [[Biodiversity]]
 - [[Water]]
 - [[Pollution, chemicals and Waste]]
+- [[Web/content/Notes/Earth/Earth|Earth]]
+- 
 
 ### Awesome people!
 
@@ -28,9 +30,9 @@ subtitle: Environmental science worldwide
 - [[Wangari Maathai]]
 - [[William Kamkwamba]]
 - [[Michael E. Reynolds & the Earthships]]
-- [[International Union for the Conservation of Nature]]
-- [[Intergovernmental Panel on Climate Change (IPCC)]]
-- [[TED]]
+- [[International union for the Conservation of Nature|International union for the Conservation of Nature]] (IUCN)
+- [[Intergovernmental Panel on Climate Change|Intergovernmental Panel on Climate Change]] (IPCC)
+- [[Technology, Entertainment, Design]] (TED)
 - [[United Nations]]
 
 ### MEAs

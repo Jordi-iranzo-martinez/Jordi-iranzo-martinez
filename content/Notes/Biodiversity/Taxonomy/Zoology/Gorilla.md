@@ -1,6 +1,6 @@
 
 
-The gorilla 
+The gorilla (*Gorilla gorilla*)
 
 
 the largest living primates on Earth, native to the tropical forests of equatorial Africa.

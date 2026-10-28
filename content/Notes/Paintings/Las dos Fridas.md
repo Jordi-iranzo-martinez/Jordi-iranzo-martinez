@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Frida Kahlo
+author: Magdalena Frida Carmen Kahlo y Calderón
 year: "1939"
 ---
 
