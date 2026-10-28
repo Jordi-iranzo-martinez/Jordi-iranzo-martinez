@@ -1,8 +1,9 @@
 ---
 tags:
   - Just_One_Life
+author: James Clear
+year: "2018"
 ---
-"Atomic Habits" is a self-help book written by **James Clear**, published in 2018, which has become one of the best-selling and most influential books on habits and productivity in recent years.
 
 James Clear is an American writer specializing in habits, decision-making, and continuous improvement. Before writing the book, he had already built a large following through his newsletter and blog, where he explored these ideas.
 

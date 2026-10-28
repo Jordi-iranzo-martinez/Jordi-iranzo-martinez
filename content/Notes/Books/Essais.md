@@ -1,7 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
-author: Montagne
+author: Michel de Montaigne
 year: "1580"
 ---
 

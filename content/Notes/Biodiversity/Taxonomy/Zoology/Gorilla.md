@@ -18,7 +18,7 @@ They are highly intelligent, peaceful herbivores that share roughly **98% of the
 
 
 [[Gorillas in the Mist (Michael Apted, 1988)]]
-[[Gorilla In The Congo (2007)]]
+[[Gorilla In The Congo]]
 [[Gorilla selfie]]
 
 

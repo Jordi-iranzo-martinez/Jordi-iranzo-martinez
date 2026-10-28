@@ -5,6 +5,6 @@ tags:
 
 The Iran Revolution
 
-[[Firing Squad In Iran (Anonymous, 1979)]]
+[[Firing Squad In Iran]]
 
 

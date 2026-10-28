@@ -33,6 +33,8 @@ subtitle: Hispanismo
 - [[Los Tercios españoles]]
 
 
-### Perona
+### Personas
 
+- [[Pedro Páez]]
+- [[Cervantes]]
 - 

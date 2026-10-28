@@ -1,6 +1,10 @@
+
+
 ![[Web/content/Visual/Pasted image 20260821010640.png]]
 
 De acuerdo a la Eneida (Virgilio), Laocoonte era un sacerdote troyano que desconfió del caballo de madera de los griegos en las puertas de la ciudad. 
+
+[[Greeks]]
 
 Pronunció la célebre frase:
 

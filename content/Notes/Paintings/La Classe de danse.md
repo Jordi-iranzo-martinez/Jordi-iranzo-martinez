@@ -4,7 +4,7 @@ tags:
 author: Edgar Degas
 year: "1874"
 ---
-![[Web/content/Visual/Pasted image 20260822142308.png]]
+![[Web/content/Visual/Pasted image 20260822142308.png|478x548]]
 
 Jules Perrot était un chorégraphe réel très respecté de l'époque. 
 

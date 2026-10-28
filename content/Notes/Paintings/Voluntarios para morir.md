@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Augusto Ferrer-Dalmau
+author: Augusto Ferrer-Dalmau Nieto
 year: "2021"
 ---
 

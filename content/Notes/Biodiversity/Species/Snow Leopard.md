@@ -3,6 +3,7 @@ tags:
   - Just_One_Planet
   - Game_of_Thrones
   - DreamWorks
+  - Pokémon
 ---
 
 The Snow Leopard (*Panthera uncia*)

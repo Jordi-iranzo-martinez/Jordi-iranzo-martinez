@@ -44,6 +44,6 @@ subtitle: Medio ambiente en España
 
 ### Lugares
 
-- [[Garajonay]]
+- [[Web/content/Notes/Places/Garajonay]]
 - [[Urdaibai]]
 - [[Cabañeros]]

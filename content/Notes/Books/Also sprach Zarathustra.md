@@ -2,8 +2,12 @@
 tags:
   - Just_One_Humankind
   - Just_One_Life
+title: Also sprach Zarathustra
+subtitle: Ein Buch für Alle und Keinen
+author: Friedrich Nietzsche
+year: 1883 & 1885
 ---
-***Also sprach Zarathustra. Ein Buch für Alle und Keinen***
+
 
 Zarathustra zieht sich mit dreißig Jahren in die Einsamkeit der Berge zurück, findet dort zehn Jahre Weisheit – und steigt dann, wie die Sonne, wieder hinab zu den Menschen, um seine Lehre zu verkünden. Das Buch ist in vier Teile gegliedert, geschrieben in kurzen, aphoristischen Reden und Parabeln, oft mit Anklängen an Luthers Bibelsprache.
 

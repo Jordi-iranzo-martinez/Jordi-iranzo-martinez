@@ -3,15 +3,21 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Web/content/Visual/alexander.png]]
+![[Web/content/Visual/alexander.png|239x363]]
 
 Alejandro III de Macedonia "Magno" (356 a.C - 323 a.C) fue un rey macedonio 
+
+[[Macedonians]]
+
+[[Persians]]
 
 Su padre Filipo II de Macedonia contrató como tutor privado a Aristóteles, quien le enseñó geografía, medicina, ciencia, poesía y filosofía.
 
 Alejandro desarrolló una obsesión con la Ilíada de Homero y dormía siempre con una copia anotada por Aristóteles y una daga bajo su almohada. Se consideraba a sí mismo descendiente de Aquiles por parte de madre.
 
 Tras el asesinato de su padre en el 336 a.C., Alejandro ascendió al trono con solo 20 años. Tras consolidar su poder en Grecia, cruzó el Helesponto con un ejército de unos 40.000 hombres para enfrentarse al coloso de la época: el Imperio Persa del rey Darío III.
+
+[[Persepoli]]
 
 A través de batallas maestras que aún hoy se estudian en las academias militares, Alejandro destruyó el poder persa:
 

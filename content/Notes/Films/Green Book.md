@@ -81,7 +81,7 @@ Don Shirley era un músico muy influyente, amigo personal de Robert F. Kennedy (
 
 Shirley utilizó su derecho a una llamada telefónica para comunicarse con él. En las grabaciones de audio reales de Don Shirley, él mismo relató que el jefe de policía local (un hombre profundamente racista) reconoció de inmediato el distintivo acento de Boston de Robert Kennedy al teléfono y, muerto de miedo por las consecuencias políticas, no tuvo más remedio que dejarlos en libertad.
 
-El arresto ocurrió en el otoño de 1963 unos días antes del asesinato del presidente John F. Kennedy ([[JFK Assassination, Frame 313 (1963)]], [[J.F.K.]]), hermano de Robert.
+El arresto ocurrió en el otoño de 1963 unos días antes del asesinato del presidente John F. Kennedy ([[JFK Assassination, Frame 313]], [[J.F.K.]]), hermano de Robert.
 
 
 

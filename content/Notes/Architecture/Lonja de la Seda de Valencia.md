@@ -1,4 +1,7 @@
 ---
+tags:
+  - Terra
+  - Just_One_Humankind
 direction: Pere Compte
 year: 1482-1548
 ---

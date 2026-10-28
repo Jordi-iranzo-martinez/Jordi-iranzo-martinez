@@ -2,6 +2,7 @@
 tags:
   - Just_One_Planet
   - Just_One_Humankind
-author: An Essay on the Principle of Population
+title: An Essay on the Principle of Population
+author: Thomas Robert Malthus
 year: "1798"
 ---

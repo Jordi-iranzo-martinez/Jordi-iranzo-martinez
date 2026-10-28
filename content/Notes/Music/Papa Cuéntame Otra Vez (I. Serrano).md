@@ -23,7 +23,7 @@ de aquel guerrillero loco que mataron en Bolivia,
 y cuyo fusil ya nadie se atrevió a tomar de nuevo,  
 y como desde aquel día todo parece más feo.
 
-Che Guevara ([[Guerillero Heroico (A. D. Gutiérrez, 1960)]])
+Che Guevara ([[Guerillero Heroico]])
 
 Barricadas
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
+author: Bernal Díaz del Castillo
+year: "1568"
 ---
 
 

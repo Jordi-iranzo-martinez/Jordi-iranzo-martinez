@@ -1,7 +1,7 @@
 ---
 tags:
   - Just_One_Life
-author: Aldous Huxley
+author: Aldous Leonard Huxley
 year: "1931"
 ---
 

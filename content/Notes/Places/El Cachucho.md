@@ -1,8 +1,14 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 
+
+[Real Decreto 686/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-13264)
 
 
 - Área Marina Protegida
 - Zona Especial de Conservación
-- itio de la REd Opar
+- Sitio de la Red OSPAR
 

@@ -5,7 +5,7 @@ author: Carlos Puebla
 year: "1965"
 ---
 
-[[Guerillero Heroico (A. D. Gutiérrez, 1960)]]
+[[Guerillero Heroico]]
 
 Fue compuesta dos años antes, el 3 de octubre de 1965.
  

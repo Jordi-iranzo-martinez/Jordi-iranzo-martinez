@@ -1,7 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
-author: Paco Ibáñez
+author: Paco Ibáñez Gorostidi
 year: "1969"
 ---
 La canción es una musicalización del poema "Galope" de Rafael Alberti (generación del 27), durante la Guerra Civil Española (publicado en su libro "El poeta en la calle", 1936).

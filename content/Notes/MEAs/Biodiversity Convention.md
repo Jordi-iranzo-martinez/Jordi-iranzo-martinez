@@ -22,6 +22,34 @@ The convention serves as an umbrella framework that has birthed major internatio
 
 - **The Kunming-Montreal Global Biodiversity Framework (GBF):** Adopted globally to guide conservation efforts through 2030, this landmark pact establishes the famous **"30x30 target"**—a binding commitment by world governments to **protect at least 30% of the planet's land, inland waters, and oceans** by the end of the decade.
 
+
+
+
+### The Ecosystem Approach
+
+like [Ecosystem Approach](https://www.cbd.int/ecosystem/) as a framework to manage well any ecosystem. 
+
+It contains 12 principles:
+
+1. The society determines the objectives
+2. Descentralization to the lowest appropriate level (more efficiency, effectiveness, equity...)
+3. Consideration of the management activities effects
+4. Economic context (recognition of potencial gains).
+5. Conservation of the structure and the functioning
+6. Limitation of the surroundings
+7. Appropriate space and time scales
+8. Objectives on long-term
+9. Change is inevitable
+10. Balance between conservation and use of biodiversity
+11. Consideration of all information (scientifical, local, innovative...)
+12. Involve all society sector
+
+
+### The Kunming-Montreal Global Biodiversity Framework
+
+The Kunming-Montreal Global Biodiversity Framework
+
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bFp6r8-Pd30?si=GwtFKbQReg9-tCYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 

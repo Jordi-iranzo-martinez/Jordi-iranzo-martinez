@@ -7,6 +7,8 @@ tags:
 
 - **Griegos (Zeus, Poseidón, Hades):** La facción más equilibrada y clásica. Consiguen favor poniendo a sus aldeanos a rezar directamente en los templos. Tienen héroes únicos muy poderosos (como Hércules o Aquiles) para combatir a las bestias míticas.
 
+[[Greeks]]
+
 
 El minotauro 
 

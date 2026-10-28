@@ -5,4 +5,4 @@ author: Anonymous
 year: "1911"
 ---
 
-![[Web/content/Visual/Pasted image 20260823200215.png]]
+![[Web/content/Visual/Pasted image 20260823200215.png|397x531]]

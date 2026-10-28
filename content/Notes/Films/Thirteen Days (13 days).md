@@ -14,5 +14,5 @@ The URSS
 
 John F. Kennedy 
 
-[[JFK Assassination, Frame 313 (1963)]]
+[[JFK Assassination, Frame 313]]
 

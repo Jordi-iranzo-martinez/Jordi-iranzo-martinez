@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 
 Se encuentra en la provincia de Almería, al pie de la Sierra de Cabo de Gata y se extiende frente a una franja costera de más de 45 Km entre Carboneras al Norte y la punta de Cabo de Gata al Sur.  

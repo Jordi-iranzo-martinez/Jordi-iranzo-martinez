@@ -8,6 +8,7 @@ Se trata de una impresionante estatua de Jesucristo con los brazos abiertos que 
 
 Inaugurado en 1931, este gigante de estilo Art Déco es el símbolo indiscutible de Brasil y fue elegido en 2007 como una de las Nuevas Siete Maravillas del Mundo Moderno.
 
+[[Christianism]]
 
 - **Dimensiones:** Mide **30 metros de altura** (más un pedestal de 8 metros que alberga una capilla en su interior). La envergadura de sus brazos extendidos es de **28 metros** de extremo a extremo, y pesa alrededor de **1.145 toneladas**.
 

@@ -43,3 +43,10 @@ year: "2003"
 - **Pueblo:** Famous for their fortified mud-brick structures (_pueblos_) that act as heavily armed bunkers.
 
 - **Haida** _(Added in Fight Back)_: Pacific Northwest tribe famous for being the only native faction with heavy **war canoes** to fight European ships.
+
+
+[[Incs]]
+
+[[Mayas]]
+
+[[Aztecs]]

@@ -5,7 +5,7 @@ tags:
 
 
 
-La Nueva Trova Cubana es un movimiento musical y cultural que emergió en Cuba a finales de la década de 1960, consolidándose oficialmente en 1972. Nació directamente ligada al contexto social y político de la Revolución cubana ([[Y en eso llegó Fidel (C. Puebla, 1959)]]), combinando la herencia de la trova tradicional cubana (música de guitarra y poesía de contenido romántico) con una fuerte carga de canción protesta, contenido político, existencialismo y poesía vanguardista.
+La Nueva Trova Cubana es un movimiento musical y cultural que emergió en Cuba a finales de la década de 1960, consolidándose oficialmente en 1972. Nació directamente ligada al contexto social y político de la Revolución cubana ([[Y en eso llegó Fidel]]), combinando la herencia de la trova tradicional cubana (música de guitarra y poesía de contenido romántico) con una fuerte carga de canción protesta, contenido político, existencialismo y poesía vanguardista.
 
 No fue un género rítmico estricto, sino una actitud ante la creación musical:
 

@@ -5,6 +5,8 @@ tags:
   - Just_One_Life
 title: Sex Code
 subtitle: El manual práctico de los maestros de la seducción
+author: Mario Luna
+year: "2007"
 ---
 
 

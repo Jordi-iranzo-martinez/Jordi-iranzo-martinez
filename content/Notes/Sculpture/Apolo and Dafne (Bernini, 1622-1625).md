@@ -18,3 +18,4 @@ La ninfa en un árbol de laurel comienza ante sus ojos. El dinamismo y los detal
 
 El árbol de laurel se convirtió en el símbolo sagrado de Apolo. Como ya no podía tenerla como esposa, el dios juró que sus hojas adornarían siempre su cabello, sus liras y sus arcos. De ahí nació la tradición clásica en Grecia y Roma de coronar con laurel a los grandes poetas, generales victoriosos y atletas olímpicos.
 
+[[Greeks]]

@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+author: Joseph Conrad
+year: "1899"
 ---
 Está ambientada en el Congo Belga, bajo el régimen personal de Leopoldo II.
 

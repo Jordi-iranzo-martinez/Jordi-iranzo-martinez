@@ -9,7 +9,7 @@ Hace más de 20 millones de años, durante la era geológica del Terciario, la l
 
 Con la llegada de las drásticas glaciaciones del Cuaternario y la progresiva desertificación del norte de África, estas selvas subtropicales prehistóricas desaparecieron por completo del continente. El único lugar del planeta donde encontraron un refugio biológico idóneo fue en las islas volcánicas de la Macaronesia, registrando en el Parque Nacional de Garajonay (La Gomera) su muestra mejor conservada, más antigua y monumental.
 
-
+[[Garajonay]]
 
 
 Detalla la biodiversidad microscópica y oculta que florece entre los helechos gigantes y los troncos cubiertos de musgo y líquenes. El film resalta insectos icónicos como el gorgojo de la magarza gomero, cuyo nombre científico rinde homenaje explícito al propio parque nacional debido a la estrecha simbiosis evolutiva que mantiene con la flora autóctona.

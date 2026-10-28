@@ -6,4 +6,4 @@ year: "1968"
 ---
 
 
-![[Web/content/Visual/Pasted image 20260830190511.png]]
+![[Web/content/Visual/Pasted image 20260830190511.png|605x401]]

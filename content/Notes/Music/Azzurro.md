@@ -1,0 +1,11 @@
+---
+tags:
+  - Just_One_Humankind
+author: Paolo Conte & Vito Pallavicini
+year: "1968"
+---
+
+habla de un domingo aburrido en una ciudad vacía porque todos se han ido de vacaciones — retrato irónico del "boom" económico italiano, cuando la gente empezó a poder permitirse veranear. Buen ángulo sobre cómo cambia la sociedad italiana de posguerra a través del ocio.
+
+
+

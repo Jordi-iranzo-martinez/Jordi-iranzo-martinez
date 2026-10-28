@@ -34,7 +34,7 @@ ue Alberto quien ideó originalmente el viaje por Sudamérica al cumplir 30 año
 
 La separación de caminos: Al finalizar el viaje en Venezuela en 1952, Alberto decidió quedarse trabajando en un hospital local especializado en la lepra. Ernesto regresó a Buenos Aires para terminar sus estudios, iniciando el camino que lo llevaría a México, a Fidel Castro y a la guerrilla.
 
-Tras el triunfo de la Revolución en 1959 ([[Y en eso llegó Fidel (C. Puebla, 1959)]]), el propio Che Guevara invitó a su viejo amigo a mudarse a la isla. Alberto aceptó y se trasladó a Cuba en 1961 junto a su familia.
+Tras el triunfo de la Revolución en 1959 ([[Y en eso llegó Fidel]]), el propio Che Guevara invitó a su viejo amigo a mudarse a la isla. Alberto aceptó y se trasladó a Cuba en 1961 junto a su familia.
 
 Granado fue clave en el desarrollo científico de la isla, fundando la Facultad de Medicina de la Universidad de Santiago de Cuba y el Centro Nacional de Sanidad Agropecuaria (CENSA).
 

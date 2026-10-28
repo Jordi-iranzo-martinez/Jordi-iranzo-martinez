@@ -5,7 +5,7 @@ direction: Brian De Palma
 year: "1987"
 ---
 
-The Untouchables (B. De Palma, 1987) se ambienta en las actuaciones del agente federal Eliot Ness y su equipo contra el gángster Al Capone ([[Al Capone Mug Shot (1930)]]) en el Chicago de los años 30 durante la "Ley Seca" en la que se prohibió el alcohol, y por lo tanto se comerciaba de contrabando.
+The Untouchables (B. De Palma, 1987) se ambienta en las actuaciones del agente federal Eliot Ness y su equipo contra el gángster Al Capone ([[Al Capone Mug Shot]]) en el Chicago de los años 30 durante la "Ley Seca" en la que se prohibió el alcohol, y por lo tanto se comerciaba de contrabando.
 
 El nombre deriva de la integridad de los agentes, habiendo rechazado intentos masivos de soborno de la mafia. Eran un total de 9 a 11 agentes.
 

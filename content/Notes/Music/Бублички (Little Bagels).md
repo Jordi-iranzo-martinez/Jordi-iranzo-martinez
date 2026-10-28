@@ -1,8 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
-year: c. 1926
 author: Яков Ядов (Yakov Yadov) & Григорий Ягльфельд (Grigory Yaglfeld)
+year: c. 1926
 ---
 The song is written from the perspective of a young, starving girl standing on a freezing street corner on a stormy night, desperately begging passersby to buy her hot bublichki ("Buy my hot bagels, have pity on a poor girl...").
 

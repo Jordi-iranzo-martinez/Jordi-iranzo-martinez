@@ -9,7 +9,7 @@ La estancia en la isla: Tras viajar por varios países europeos, Neruda se estab
 
 Neruda murió apenas 12 días después del violento golpe de Estado de Augusto Pinochet que derrocó al presidente socialista Salvador Allende. Neruda, un comunista icónico con una inmensa influencia mundial, tenía preparado un avión para exiliarse a México al día siguiente de su muerte, desde donde planeaba liderar la oposición internacional contra la dictadura de Pinochet.
 
-[[Allende’s Last Stand (1973)]], [[Los mil días de Allende (2023)]]
+[[Allende’s Last Stand]], [[Los mil días de Allende (2023)]]
 
 En 2011, su exchófer Manuel Araya denunció públicamente que, mientras Neruda estaba ingresado en la Clínica Santa María, un misterioso médico entró a su habitación y le inyectó una sustancia extraña en el abdomen. Pocas horas después de esa inyección, el poeta empeoró drásticamente y falleció.
 

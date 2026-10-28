@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 
 Toda la cuenca mediterránea es un punto vulnerable de cambio climático, incluidas sus zonas continentales, de manera no homogénea, lo que se amplía al ser un mar semi-cerrado con mayores periodos de insolación, lo que a su vez generan periodos de precipitaciones torrenciales en otoño. 

@@ -1,8 +1,8 @@
 ---
 tags:
   - Memorias_Hispanas
+direction: Luis Eduardo Aute Gutiérrez
 year: "1974"
-direction: Luis Eduardo Aute
 ---
 
 La canción es reconocida unánimemente como el himno oficial de protesta contra la pena de muerte y las últimas ejecuciones de la dictadura franquista en España.
