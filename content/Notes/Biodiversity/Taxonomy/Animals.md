@@ -37,7 +37,7 @@ https://paleozoo.com.au
 - [[Priapulids]]
 - [[Onychophora]]
 - [[Artropoda]]
-- [[Tardigrads (ater bear)]]
+- [[Tardigrads]]
 - [[Pentastomida]]
 - [[POGN]]?
 - [[Annelida]]

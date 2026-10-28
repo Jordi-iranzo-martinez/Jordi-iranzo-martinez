@@ -6,6 +6,8 @@ tags:
 ---
 El Misterio de Elche (_La Festa_ en valenciano) es un drama sacro-lírico que recrea la muerte, asunción y coronación de la Virgen María. Se celebra cada año a mediados de agosto en la Basílica de Santa María de Elche (Alicante, España).
 
+[[Christianism]]
+
 Se cree que comenzó en la segunda mitad del siglo XV.
 
 Aunque el Concilio de Trento vetó el teatro en las Iglesias, el Papa Urbano VIII otorgó una bula especial de excepción en 1632.

@@ -2,6 +2,8 @@
 tags:
   - Consulta_Natura
 ---
+[Islas Canarias](https://www.google.es/maps/place/Canarias/@28.444464,-15.8532715,708939m/data=!3m1!1e3!4m6!3m5!1s0xc41aa86ef755363:0x10340f3be4bc8c0!8m2!3d28.2915637!4d-16.6291304!16zL20vMDFxdHQ?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D)
+
 
 Es el mayor representante de la región biogeográfica macaronésica, sólo presente en ellas y en las Azores. Es una región muy escasa, con el 0,2% del total
 

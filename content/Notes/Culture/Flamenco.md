@@ -6,6 +6,12 @@ tags:
 
 El flamenco es el arte más universal de España y la máxima expresión cultural de Andalucía. Es una manifestación artística profundamente emocional que fusiona el cante, el toque y el baile.
 
+[[Gitanos]]
+
+[[Árabes]]
+
+[[Judíos]]
+
 Nació del mestizaje cultural de la baja Andalucía a finales del siglo XVIII, reuniendo influencias de la música gitana, árabe, judía y el folclore andaluz.
 
 Es un arte que se alimenta del sufrimiento, la alegría, la persecución y la pasión de los pueblos que lo moldearon.

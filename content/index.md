@@ -7,7 +7,7 @@ subtitle: Estudios técnicos · Gestión administrativa · Divulgación · Oposi
 
 ¡Hola!
 
-![[Conultor ambiental.m4a]]
+![[Consultor ambiental.m4a]]
 
 Me llamo Jordi. Estudié Ciencias Ambientales en la Universidad de Valencia, especializado en la rama de ingeniería.
 

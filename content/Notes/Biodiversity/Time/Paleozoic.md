@@ -15,3 +15,6 @@ Paleozoic
 - **Carboniferous** (358–298 million years ago): Famous for vast, swampy forests that formed Earth's modern coal deposits, as well as giant insects and the evolution of amniotic eggs.
 
 - **Permian** (298–252 million years ago): The continents merged into the supercontinent Pangaea, ending with the "Great Dying," the most severe mass extinction in Earth's history.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RDQa0okkpf0?si=D41PDZ1E-KfL-s0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

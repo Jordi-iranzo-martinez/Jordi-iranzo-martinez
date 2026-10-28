@@ -6,7 +6,7 @@ tags:
 
 La [fauna de Edíacara](https://youtu.be/8O40LHY6Ac0?si=ix5WDfOVtWxl4Z6q): Attenborough viaja a los yacimientos de las colinas de Edíacara en Australia y a los acantilados de Mistaken Point en Terranova (Canadá). Allí muestra los fósiles de criaturas extrañas como la Dickinsonia o la Charnia. Estos seres eran planos, no tenían ojos, boca, aparato digestivo ni extremidades, y vivían anclados al fondo del océano absorbiendo nutrientes directamente del agua.
 
-[[Life]], [[Time]]
+[[Web/content/Notes/Concepts/Life]], [[Time]]
 
 la Explosión Cámbrica (hace unos 541 millones de años). Las reglas del juego cambiaron para siempre debido al nacimiento de innovaciones científicas y biológicas que hoy nos parecen rutinarias:
 

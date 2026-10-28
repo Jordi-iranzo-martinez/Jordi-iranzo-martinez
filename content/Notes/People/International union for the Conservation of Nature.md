@@ -5,6 +5,12 @@ title: International Union for the Conservation of Nature
 ---
 The [International union for the Conservation of Nature](https://iucn.org/)e (IUCN) is the world's largest and oldest global environmental network, founded in 1948. It brings together both sovereign states and government agencies alongside non-governmental organizations (NGOs) and thousands of scientific experts.
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0uf5e9vsXWo?si=AK4t_Mz2AIdcxnfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
 The IUCN Red List of Threatened Species, established in 1964, it is the world’s most comprehensive inventory of the global conservation status of biological species (animals, plants, and fungi). It classifies species into strict scientific categories:
 
 - Extinct (EX)
@@ -18,11 +24,19 @@ The IUCN Red List of Threatened Species, established in 1964, it is the world’
 
 [Red List of Ecosystems](http://www.iucnrle.org/)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w7GQZsGmW5Y?si=U-S3T-AC_fMV7SPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 - [IUCN Libraries](https://www.iucn.org/our-work/science-led-approach/iucn-libraries)
 - [IUCN Regional conservation flora](https://www.iucn.org/our-union/iucn-world-conservation-congress/regional-conservation-fora)
 - [IUCN World Conservation Congress](https://www.iucn.org/our-union/iucn-world-conservation-congress) 
 
+
+
+**IUCN Global Standard for Marine Protected Areas**
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g2cAVcgHjic?si=jOOJYvMrNjGQ3aQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -36,13 +50,26 @@ The [IUCN Red List of Ecosystem]([Red List of Ecosystems](http://www.iucnrle.org
 # The work of the IUCN
 
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7GAax3xakJs?si=Oa5m68cLYEfOdGWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Metodología de evaluación de oportunidades de restauración (ROAM)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9C9oW8TjMIQ?si=gukwCf66Ur4flEJG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+**The IUCN Green List of Protected and Conserved Areas**
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W12vSdv7gPM?si=fwWjF9w6OyCMIoDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 | IUCN Working Themes                                                                                                                                                                                                                | IUCN Working Regions                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | - [[Artículos/Biodiversity]]<br>- Business finance and economy<br>- [[Artículos/Climate Change]]<br>- Freshwater and [[Web/content/Notes/Concepts/Water]] security<br>- Governance law and rights<br>- Nature-based solutions<br>- [[The Ocean]]s and [[Coasts]]<br>- Protected areas | - Asia<br>- Easter and Southern Afria<br>- Eastern Europe and Central Asia<br>- Europe<br>- Mediterranean<br>- Mexico, central America and the Caribbean<br>- North America<br>- Oceania<br>- West and Central Africa<br>- West Asia |
-
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0uf5e9vsXWo?si=AK4t_Mz2AIdcxnfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

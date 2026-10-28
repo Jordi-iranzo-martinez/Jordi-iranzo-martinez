@@ -13,7 +13,7 @@ Gracias a su capacidad única para formar hasta cuatro enlaces estables con otro
 
 Hace 400 millones de años, los primeros bosques prehistóricos absorbieron la energía solar mediante la fotosíntesis, capturando el carbono. Al morir y quedar sepultados bajo capas de sedimento durante eras geológicas, esos árboles se transformaron en rocas negras concentradas: el carbón. El documental define al carbón de forma poética y real como "luz solar ancestral enterrada"
 
-[[Life]], [[Time]]
+[[Web/content/Notes/Concepts/Life]], [[Time]]
 
 Acompañado por climatólogas reputadas como Katharine Hayhoe, el film detalla cómo los seres humanos, al perforar la corteza terrestre y quemar de golpe esas inmensas reservas de carbono enterrado en forma de combustibles fósiles (carbón, petróleo y gas), hemos roto el delicado equilibrio de la atmósfera planetaria.
 

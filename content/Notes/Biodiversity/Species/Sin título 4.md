@@ -1,0 +1,2 @@
+
+Sperm whale (*Physeter macrocephalus*), historically known in Spanish as cachalote, is the largest of all toothed whales and the largest apex toothed predator on Earth. Famous for its massive block-shaped head, it is an evolutionary marvel designed to hunt in the pitch-black depths of the deep ocean.

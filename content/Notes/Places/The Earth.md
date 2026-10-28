@@ -10,9 +10,9 @@
 
 - **Geosphere**: rock
 
-- **Edaphosphere**: [[Soil]]
+- **Edaphosphere**: [[Web/content/Notes/Biodiversity/Ecosytems/Soil]]
 
-- **Biosphere**: by [[Life]]
+- **Biosphere**: by [[Web/content/Notes/Concepts/Life]]
 
 - **Anthropocene**: by [[Humans]] technology
 

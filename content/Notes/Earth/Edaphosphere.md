@@ -1,4 +1,4 @@
 
 
-[[Web/content/Notes/Ecosytems/Soil|Soil]]
+[[Web/content/Notes/Biodiversity/Ecosytems/Soil|Soil]]
 

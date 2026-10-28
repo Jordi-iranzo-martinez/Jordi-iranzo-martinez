@@ -30,7 +30,7 @@ subtitle: Environmental science worldwide
 - [[Wangari Maathai]]
 - [[William Kamkwamba]]
 - [[Michael E. Reynolds & the Earthships]]
-- [[International union for the Conservation of Nature|International union for the Conservation of Nature]] (IUCN)
+- [[International Union for the Conservation of Nature|International union for the Conservation of Nature]] (IUCN)
 - [[Intergovernmental Panel on Climate Change|Intergovernmental Panel on Climate Change]] (IPCC)
 - [[Technology, Entertainment, Design]] (TED)
 - [[United Nations]]

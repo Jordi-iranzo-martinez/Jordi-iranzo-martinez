@@ -4,5 +4,5 @@ tags:
   - Star_Wars
 ---
 
-The Indian purple frog 
+The Indian purple frog (*Nasikabatrachus sahyadrensis*)
 

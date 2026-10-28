@@ -3,7 +3,7 @@ tags:
   - Just_One_Life
 ---
 
-Ikigai (生き甲斐) (from japanese iki "life" and gai "value, benefit, or merit")
+生き甲斐 (Ikigai) (from japanese iki "life" and gai "value, benefit, or merit")
 
 Describe la conjunción de aquello que da sentido, felicidad y plenitud a la existencia diaria.
 
