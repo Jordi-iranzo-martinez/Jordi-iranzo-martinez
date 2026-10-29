@@ -6,4 +6,4 @@ tags:
 
 The Argentine ant (*Linepithema humile*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

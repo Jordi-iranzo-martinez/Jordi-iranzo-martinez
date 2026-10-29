@@ -32,7 +32,7 @@ The work of the United Nations is divided among six principal bodies, five of wh
 - **The Trusteeship Council:** Originally created to supervise trust territories moving toward independence, it suspended operations in 1994 when the last territory achieved self-governance.
 
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JO75ihuFW0Y?si=5-ds0vaxzFMjFnTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

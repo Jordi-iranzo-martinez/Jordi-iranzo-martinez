@@ -5,7 +5,7 @@ tags:
 ---
 
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 Bees are winged insects closely related to wasps and ants, famous for their role in pollination and, in the case of the best-known species (the western honey bee), for producing honey. They belong to the superfamily Apoidea within the order Hymenoptera.
 
@@ -30,5 +30,5 @@ Bees are winged insects closely related to wasps and ants, famous for their role
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f6mJ7e5YmnE?si=nLVH9sDgFEb_cwzP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

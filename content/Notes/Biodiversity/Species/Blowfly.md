@@ -6,4 +6,4 @@ tags:
 
 Blowflie (*Lucilia sericata*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

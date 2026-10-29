@@ -6,6 +6,6 @@ tags:
 
 The Codling Moth Larvae (_Cydia pomonella_)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 

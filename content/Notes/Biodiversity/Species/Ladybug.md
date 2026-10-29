@@ -4,5 +4,5 @@ tags:
   - Pokémon
 ---
 
-The ladybug belongs to the beetle family Coccinellidae ([[Insects]])
+The ladybug belongs to the beetle family Coccinellidae ([[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]])
 

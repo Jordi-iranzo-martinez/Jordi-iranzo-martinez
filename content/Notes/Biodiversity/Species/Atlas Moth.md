@@ -7,4 +7,4 @@ tags:
 
 The Atlas Moth (*Attacus atlas*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

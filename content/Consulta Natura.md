@@ -38,7 +38,7 @@ subtitle: Medio ambiente en España
 - [[Pablo Vera García]]
 - [[Félix Rodríguez de la Fuente]]
 - [[Joaquín Araújo]]
-- [[Pruebas de edición/content/Div/Espores/Eva Pastor Serra|Eva Pastor Serra]]
+- [[Eva Pastor Serra|Eva Pastor Serra]]
 
 
 

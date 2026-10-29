@@ -6,8 +6,11 @@ tags:
 Boyan Slat (27 July 1994) is a Dutch inventor and entrepreneur who founded the NGO [The Ocean CleanUp](https://theoceancleanup.com/) to clean plastic waste in the ocean.
 
 
-![[Web/content/Visual/boyan-slat.png]]
+![[Web/content/Visual/boyan-slat.png|328x244]]
 
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QpDxE8BhPSM?si=BI4iNjnsgDOgVMMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The Ocean Cleanup is a world-renowned non-profit engineering organization founded in 2013 by Dutch inventor Boyan Slat when he was just 18 years old. The foundation designs advanced, large-scale technologies to rid the world's aquatic ecosystems of plastic pollution.
 

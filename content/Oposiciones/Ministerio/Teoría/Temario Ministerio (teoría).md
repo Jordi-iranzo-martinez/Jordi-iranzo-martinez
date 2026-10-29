@@ -321,7 +321,7 @@ r:
 
 #### Internacional
 
-- [[IPCC]]
+- [[Web/content/Oposiciones/Ministerio/Teoría/Cambio climático/Régimen internacional/IPCC]]
 - [[UNFCCC]]
 	- [[Protocolo de Kioto]]
 		- [[Enmienda de Doha]]

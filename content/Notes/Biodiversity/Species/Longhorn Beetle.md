@@ -6,5 +6,5 @@ tags:
 
 Longhorn beetles (family Cerambycidae).
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

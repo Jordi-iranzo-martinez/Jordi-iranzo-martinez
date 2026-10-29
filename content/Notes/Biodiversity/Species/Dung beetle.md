@@ -6,7 +6,7 @@ tags:
 
 The Dung beetle 
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 
 

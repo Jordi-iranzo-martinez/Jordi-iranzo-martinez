@@ -6,5 +6,5 @@ tags:
 
 Meganeura (*Meganeura* spp.)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

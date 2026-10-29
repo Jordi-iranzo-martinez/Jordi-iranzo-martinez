@@ -14,7 +14,7 @@ subtitle: Environmental science worldwide
 
 ### Awesome people!
 
-- [[Ecosia]]
+- [[Web/content/Notes/People/Ecosia]]
 - [[Malala Yousafzai]]
 - [[Selina Juul]]
 - [[The Ocean Clean Up]]
@@ -23,7 +23,7 @@ subtitle: Environmental science worldwide
 - [[Bea Johnson]]
 - [[Bernice Dapaah]]
 - [[Birdlife International]]
-- [[Cateura Recycled Orchestra]]
+- [[Recycled Orchestra of Cateura]]
 - [[Masanobu Fukuoka]]
 - [[Yacouba Sawadogo]]
 - [[Ryan Hreljac]]

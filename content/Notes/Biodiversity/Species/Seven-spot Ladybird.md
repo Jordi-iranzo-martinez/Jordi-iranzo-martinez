@@ -6,4 +6,4 @@ tags:
 
 The Seven-spot Ladybird (*Coccinella septempunctata*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

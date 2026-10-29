@@ -8,6 +8,9 @@ The
 
 The Covenant of Mayors for Climate & Energy is the largest global movement of local governments voluntarily committed to climate and energy action.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7vfA1tB9-bs?si=6nhYhSi9itaq5irF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Launched in 2008 by the European Commission ([[European Union]]), the initiative empowers towns, cities, and regions to meet and exceed official European Union and global climate targets through localized strategies.
 
 Signatory cities align their local policies under a shared vision of achieving climate neutrality by 2050. They focus on three main areas:

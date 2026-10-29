@@ -7,4 +7,4 @@ tags:
 
 Japanese Luna Moth (*Actias aliena*) 
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

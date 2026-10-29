@@ -6,6 +6,6 @@ tags:
 
 Jewel Caterpillars (genus *Acraga*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 

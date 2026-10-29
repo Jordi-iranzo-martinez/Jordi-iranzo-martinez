@@ -6,4 +6,4 @@ tags:
 
 The Jewel Wasp (Ampulex compressa)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

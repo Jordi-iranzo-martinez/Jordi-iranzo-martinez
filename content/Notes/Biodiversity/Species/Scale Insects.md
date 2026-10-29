@@ -7,5 +7,5 @@ tags:
 
 Scale Insects (_Coccidae_)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

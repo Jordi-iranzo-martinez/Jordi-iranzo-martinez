@@ -2,13 +2,13 @@
 tags:
   - Just_One_Planet
   - Just_One_Life
+title: Favio Chávez & The Recycled Orchestra of Cateura
+subtitle: From waste to music
 ---
 
 
 
-
-**Favio Chávez & The Cateura Recycled Orchestra**
-**From waste to music**
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YxUuKthY1dQ?si=AAkZ4f8Sn6Am9x9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The Recycled Orchestra of Cateura is a Paraguayan youth orchestra whose members play musical instruments made entirely from materials recovered from a landfill.
@@ -37,6 +37,13 @@ Today, the music school associated with the project < cite index="34-1">gives fr
 
 
 [The Recycled Orchestra of Cateura](https://www.recycledorchestracateura.com/) is an educational project by music teacher Favio Chávez  in Cateura (Paraguay) on upcycling waste material into music instruments for poor people. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-MjTNwXKzMc?si=Ey493aU217fOUwwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=L1KPLj6adj8
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L1KPLj6adj8?si=hKNRFwzsVR5qgXUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdVmq7sLTsQ?si=Cf_w2lurLz_TjeTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

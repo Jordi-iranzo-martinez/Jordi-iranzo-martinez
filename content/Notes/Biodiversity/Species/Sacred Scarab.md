@@ -6,7 +6,7 @@ tags:
 
 The Sacred Scarab (*Scarabaeus sacer*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 Ancient Egyptian Symbolism
 

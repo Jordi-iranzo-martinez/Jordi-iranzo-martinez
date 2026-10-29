@@ -4,7 +4,7 @@ tags:
   - Pokémon
 ---
 
-Ant are [[Insects]]
+Ant are [[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 family Formicidae.
 

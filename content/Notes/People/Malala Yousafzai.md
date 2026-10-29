@@ -14,6 +14,8 @@ Malala Yousafzai is a Pakistani human rights activist, defender of girls' educat
 [Malala Fund](https://malala.org/) is
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VxfV3dOTjlk?si=9hpnk01c9kFUkoGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 She received the [Nobel Peace Prize](https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/) in 2014, at the age of 17, making she the youngest person in history to receive it.
 
 Because of her growing platform, she became a target. On October 9, 2012, when she was 15 years old, a masked Taliban gunman boarded her school bus, asked "Who is Malala?", and shot her at point-blank range on the left side of her head
@@ -38,6 +40,13 @@ Over the years, Malala has matured into an influential global leader, expanding 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c2DHzlkUI6s?si=00OoWlbMCap0pwwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qu3aQMxkrc4?si=9MMFw6Pd590Fsmon" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The Book *[I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban](https://www.goodreads.com/book/show/17851885-i-am-malala)*

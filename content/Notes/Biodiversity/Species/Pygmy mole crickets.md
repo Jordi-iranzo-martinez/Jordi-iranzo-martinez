@@ -1,5 +1,5 @@
 
 The pygmy mole crickets (genu *Xya*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

@@ -5,8 +5,8 @@ subtitle: Medio ambiente en la Comunidad Valenciana
 
 ### Temàtiques
 
-- [[Pruebas de edición/content/Div/Espores/Microrreserves de flora|Microrreserves de flora]]
-- [[Pruebas de edición/content/Div/Patrimoni arbrat monumental de la Comunitat Valenciana|Patrimoni arbrat monumental de la Comunitat Valenciana]]
+- [[Pruebas de edición/content/Div/Espores/Conceptes/Microrreserves de flora|Microrreserves de flora]]
+- [[Patrimoni arbrat monumental de la Comunitat Valenciana 1|Patrimoni arbrat monumental de la Comunitat Valenciana 1]]
 
 ### Llocs
 
@@ -16,9 +16,14 @@ subtitle: Medio ambiente en la Comunidad Valenciana
 - [[L'Horta de València]]
 
 
-### Perone
+### Persones
 
 - [[Connecta Natura]]
 - [[Xaloc Mar]]
 - [[Acció Ecologista-AGRÓ]]
 - [[Fundació Limne]]
+
+
+### Revista Espores
+
+- [[Cloris i les flors]]

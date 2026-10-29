@@ -6,4 +6,4 @@ tags:
 
 The Inland Floodwater Mosquito (*Aedes vexans*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

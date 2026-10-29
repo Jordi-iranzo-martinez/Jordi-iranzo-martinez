@@ -6,7 +6,7 @@ tags:
 
 The cicada
 
-[[Insects]] (family Cicadidae)
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]] (family Cicadidae)
 
 Nymphs (Cicadidae)
 

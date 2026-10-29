@@ -6,5 +6,5 @@ tags:
 
 *Papilio polyxenes*
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

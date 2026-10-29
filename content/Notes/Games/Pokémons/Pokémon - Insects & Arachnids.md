@@ -4,7 +4,7 @@ tags:
 title: Can you guess the Pokémons?
 subtitle: Insects & Arachnids
 ---
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 [[Arachnids]]
 

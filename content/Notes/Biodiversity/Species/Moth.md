@@ -4,7 +4,7 @@ tags:
   - Pokémon
 ---
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 
 imilar to [[Butterfly]] but on the night
 

@@ -6,4 +6,4 @@ tags:
 
 The machaca (*Fulgora laternaria*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

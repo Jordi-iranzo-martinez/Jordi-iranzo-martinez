@@ -14,6 +14,6 @@ Artropoda
 
 - **[[Crustacea]]** (Crustaceans): Primarily aquatic arthropods characterized by two pairs of antennae, biramous (branched) appendages, and heavily calcified exoskeletons. _Examples: Crabs, lobsters, shrimps, barnacles, and woodlice.
 
-- **[[Insects]]** (Hexapoda): The most diverse terrestrial lineage, defined by a body divided into three tagmata (head, thorax, abdomen), one pair of antennae, and exactly six jointed legs attached to the thorax. _Examples: Ants, beetles, butterflies, and flies._
+- **[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]** (Hexapoda): The most diverse terrestrial lineage, defined by a body divided into three tagmata (head, thorax, abdomen), one pair of antennae, and exactly six jointed legs attached to the thorax. _Examples: Ants, beetles, butterflies, and flies._
 
 

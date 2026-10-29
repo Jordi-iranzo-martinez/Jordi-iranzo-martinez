@@ -6,6 +6,9 @@ tags:
 ---
 Selina Juul (1980-today) is a prominent Russian-Danish environmental activist and graphic designer universally known for being the driving force behind Denmark's massive food waste reduction.
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KlFNp88T2cA?si=SaV--V0G-3PKbC5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Born in Moscow, she immigrated to Denmark at age 13. Growing up in the Soviet Union during a time of severe shortages and food rationing instilled in her a deep respect for food. When she arrived in Denmark, she was completely shocked by the abundance and the sheer volume of perfectly good groceries being thrown in the trash, which inspired her life's mission.
 
 In 2008, she founded [*Stop Spild Af Mad](https://stopspildafmad.org/)* (Stop Wasting Food), a grassroots non-profit consumer movement. Rather than using political finger-pointing, Juul adopted a positive, bottom-up approach focusing on practical solutions for consumers and producers alike.
@@ -18,6 +21,9 @@ As an internationally renowned expert, Juul has actively collaborated with the D
 - **The Royal Connection:** In 2020, she co-authored a family-focused leftovers cookbook alongside **Her Royal Highness Princess Marie of Denmark**, which won a prestigious Gourmand World Cookbook Award.
 
 - **The Vatican:** Her global authority is so widely respected that she even contributed a specialized chapter to the Vatican's official book on food loss reduction.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B6mi-ZFCprs?si=U5Uf6shENqkj-MTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Her movement recently celebrated its 18th anniversary, standing firm as Denmark’s largest consumer campaign. Juul continues to push boundaries in circular economy public debate:
@@ -45,3 +51,6 @@ Denmark is now a world leader in food waste prevention.
 
 
 
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yJ6NYmT0lVY?si=47Wqs1iOzOvniKhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

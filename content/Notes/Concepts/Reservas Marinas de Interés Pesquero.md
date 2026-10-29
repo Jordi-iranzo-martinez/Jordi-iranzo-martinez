@@ -3,8 +3,7 @@ tags:
   - Consulta_Natura
 ---
 
-
-
+Las [reservas marinas](https://www.mapa.gob.es/es/pesca/temas/proteccion-recursos-pesqueros/reservas-marinas-de-espana/) tienen por objetivo una explotación pesquera sostenible. En España comprenden cabos, islas, y puntos específicos. Son exclusivas del Mediterráneo y de las Islas Canarias.
 
 Actualmente, la Red de Reservas Marinas de Interés Pesquero cuenta con 12 reservas que abarcan más de 105.000 hectáreas, de las que más de 10.000 son de máxima protección.
 

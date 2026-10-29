@@ -45,9 +45,7 @@ Forêt Bangr-Raaga de Gourga
 
 Surrounding communities have adopted his methods. 
 
-The documentary *[The Man Who Stopped the Desert](http://www.1080films.co.uk/Yacoubamovie/)* (2010), directed by Mark Dodd. 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/20850064?h=0c57592c50" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 Ganó el 
 
 He received in 2018 [_The Right Livelihood Award_](https://rightlivelihood.org/the-change-makers/find-a-laureate/yacouba-sawadogo/) "for turning barren land into forest and demonstrating how farmers can regenerate their soil with innovative use of indigenous and local knowledge". 
@@ -59,5 +57,10 @@ In his late 70s, Sawadogo continued working his land and teaching others.
 Sawadogo died in 2023. His legacy remains. You can see it here. 
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wezxNnkcsW8?si=ac7TZfXquSOM8Hfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Co6Csi11v6c?si=Xo5ggUOIUuWqZqqu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 

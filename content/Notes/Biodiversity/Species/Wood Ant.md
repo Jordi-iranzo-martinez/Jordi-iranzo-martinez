@@ -6,4 +6,4 @@ tags:
 
 The Wood Ant (*Formica rufa*)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

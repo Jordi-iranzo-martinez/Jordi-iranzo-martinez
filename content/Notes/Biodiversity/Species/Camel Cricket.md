@@ -6,4 +6,4 @@ tags:
 
 The Camel Cricket (family Rhaphidophoridae)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]

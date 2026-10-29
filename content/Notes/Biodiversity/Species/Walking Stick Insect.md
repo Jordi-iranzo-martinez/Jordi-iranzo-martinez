@@ -7,5 +7,5 @@ tags:
 
 The Walking Stick Insect (order Phasmatodea)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
 

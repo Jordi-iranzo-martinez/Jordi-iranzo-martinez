@@ -6,4 +6,4 @@ tags:
 
 The Water Striders (family Gerridae)
 
-[[Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
