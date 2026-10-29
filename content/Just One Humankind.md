@@ -10,7 +10,7 @@ subtitle: Humanism
 - [[Persians]]
 - [[Macedonians]]
 - [[Kushites]]
-- [[Egypcians]]
+- [[Egypt]]
 - [[Iberians]]
 - [[Celts]]
 - [[Mesopotamics]]

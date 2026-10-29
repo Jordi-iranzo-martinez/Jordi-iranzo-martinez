@@ -10,6 +10,7 @@ España cuenta con al menos 2.000 humedales. La mayor parte son continentales (9
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Lvzy7ICcCU?si=EXs2IS-bP3jFfTVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+
 Entre los de interior (continentales), los de agua dulce son los más numerosos (46%), aunque únicamente representan el 2% de la superficie húmeda total.
 
 
@@ -35,9 +36,14 @@ El **[Inventario Español de Zonas Húmedas](https://www.miteco.gob.es/es/biodiv
 
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aYM7XtL1hwk?si=cW9qfeQC_jKRwp8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 España es un país con un gran patrimonio natural de humedales, tanto por la riqueza de tipos ecológicos de ambientes acuáticos que existen como por la diversidad de especies que albergan y de usos que sostienen, que han conformado a lo largo del tiempo una valiosa cultura asociada a estos aprovechamientos.
 
 Garantizar la conservación y uso racional de nuestros humedales (incluyendo la restauración o rehabilitación de aquellos que hayan sido destruidos o degradados), integrar la conservación y el uso racional de los humedales en las políticas sectoriales y contribuir al cumplimiento de los compromisos del Estado Español en relación con los convenios, directivas, políticas y acuerdos europeos e internacionales relacionados con los humedales, constituyen elementos clave de actividad.
+
 
 
 Ver el caso de España: 

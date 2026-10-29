@@ -1,3 +1,7 @@
+---
+tags:
+  - Consulta_Natura
+---
 
 El lobo ibérico (*Canis lupus signatus*)
 
@@ -6,6 +10,9 @@ El lobo ibérico (*Canis lupus signatus*)
 Meter lo del Convenio de Berna
 
 Casi la totalidad de los ejemplares se concentran en Castilla y León, Galicia, Asturias y Cantabria. 
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AtzT737T0LE?si=jou5Nwqxtk64ALlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Las poblaciones del norte (Galicia, Asturias, Castilla y León, Cantabria) son las más abundantes, mientras que en el sur (Sierra Morena, Sierra de Gata y San Pedro) están prácticamente extinguidas.

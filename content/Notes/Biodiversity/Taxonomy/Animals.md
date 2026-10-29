@@ -28,7 +28,7 @@ https://paleozoo.com.au
 - [[Gastroticha]]
 - [[Nematoda]]
 - [[Entoprocta]]
-- [[Rotiphera]]
+- [[Rotifers]]
 - [[Kinorryncha]]
 - [[Acantocephala]]
 - [[Nematomorpha]]

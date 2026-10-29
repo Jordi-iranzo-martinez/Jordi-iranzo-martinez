@@ -1,4 +1,6 @@
 ---
+tags:
+  - Memorias_Hispanas
 author: José Juan de Dios Mateo Osbaldo Botaro Lepiani Toledo
 year: "1894"
 ---

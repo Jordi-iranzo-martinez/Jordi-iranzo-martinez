@@ -20,3 +20,6 @@ Earthrise is often credited as one of the most influential environmental images 
 The image is widely credited with helping galvanize the modern environmental movement, arriving shortly before the first Earth Day in 1970 and the founding of the U.S. Environmental Protection Agency. It's also frequently cited alongside the later "Blue Marble" photo (taken during Apollo 17 in 1972) as one of the defining images of Earth from space.
 
 Apollo 8's flight came at a tense moment in the Space Race and in American history — 1968 had been marked by political assassinations, war, and social unrest. The mission's Christmas Eve broadcast, during which the crew read from the Book of Genesis while orbiting the Moon, was watched by a huge global audience and is remembered as one of the most-watched television broadcasts of its time.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BsShNeDvccc?si=NFycWnVyL4imCi6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ They are adapted to survive in some of the harshest, coldest environments on Ear
 
 [[High Mountains]]
 
-[[Himalayan]]
+[[Himalayas]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ysIlp6H4_m8?si=tEbFeehxOw0EsAcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+direction: Ridley Scott
+year: "1979"
 ---
 
 Returning back home, MADRE, the central computer Nostromo's nave de carga has discovered life signals of in an inhospit planet. 

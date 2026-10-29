@@ -47,3 +47,6 @@ Zapata remains one of the most enduring symbols in Mexican political culture, in
 
 
 The EZLN went public on January 1, 1994; the same day the North American Free Trade Agreement (NAFTA), between Mexico, the US, and Canada took effect. They chose that date as a symbolic protest, believing NAFTA would badly hurt indigenous and peasant farmers while favoring large commercial interests.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ek2K5cLQ8E8?si=e7fIaaXyjqVFd1AS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

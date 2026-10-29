@@ -15,6 +15,3 @@ Rhinos
 
 - **Dicerorhinus**: Includes the Critically Endangered **Sumatran Rhinoceros** (_Dicerorhinus sumatrensis_), the smallest living rhino and the only one covered in long, shaggy hair.
 
-
-
-
