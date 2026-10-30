@@ -7,7 +7,7 @@ year: "1888"
 ![[fusilamiento-torrijos.jpg]]
 
 
-El general Torrijos era uno de los grandes defensores de la Constitución de 1812 ([[La promulgación de la Constitución de 1812 (1912)]]).
+El general Torrijos era uno de los grandes defensores de la Constitución de 1812 ([[La promulgación de la Constitución de 1812]]).
 
 Exiliado en Inglaterra, planeó el regreso a España para derrocar el absolutismo de Fernando VII y restaurar las libertades civiles.
 

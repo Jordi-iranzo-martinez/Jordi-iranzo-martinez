@@ -8,7 +8,7 @@ year: "1820"
 
 
 
-[[La promulgación de la Constitución de 1812 (1912)]]
+[[La promulgación de la Constitución de 1812]]
 
 
 

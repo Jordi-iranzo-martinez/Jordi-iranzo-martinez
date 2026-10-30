@@ -6,4 +6,5 @@ tags:
 
 Migratory locust (*Locusta migratoria*)
 
-[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects]]
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects|Insects]]
+

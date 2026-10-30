@@ -6,6 +6,7 @@ year: "1939"
 ---
 ![[photography_anne-frank.png]]
 
+[[Hollocaust]]
 
 Anne Frank (1929–1945) war ein jüdisches Mädchen deutscher Herkunft, das durch die postume Veröffentlichung ihres Tagebuchs zu einem der weltweit bekanntesten Symbole für die Gräuel des Holocausts wurde. Ihr Werk gilt als eines der bewegendsten Dokumente der Verfolgung und des Überlebenswillens während der nationalsozialistischen Diktatur.
 

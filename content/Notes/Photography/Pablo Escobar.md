@@ -3,10 +3,10 @@ tags:
   - Memorias_Hispanas
 ---
 
-[[Pablo Escobar]]
+[[Web/content/Notes/Photography/Pablo Escobar]]
 
 
-![Pablo Escolar]([[Pablo Escobar]])
+![Pablo Escolar]([[Web/content/Notes/Photography/Pablo Escobar]])
 
 
 

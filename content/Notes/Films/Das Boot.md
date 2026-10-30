@@ -4,6 +4,9 @@ tags:
 direction: Wolfgang Petersen
 year: "1981"
 ---
+[Das Boot](www.imdb.com/title/tt0082096)
+
+
 basada en la novela de Lothar-Günther Buchheim
 
 

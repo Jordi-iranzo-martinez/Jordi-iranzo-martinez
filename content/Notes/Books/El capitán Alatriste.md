@@ -5,7 +5,7 @@ tags:
 
 
 
-[[Los Tercios españoles]]
+[[Tercios españoles]]
 
 
 [[Rocroi, el último tercio]]

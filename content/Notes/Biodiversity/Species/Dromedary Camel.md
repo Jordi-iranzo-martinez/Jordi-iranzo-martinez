@@ -7,3 +7,5 @@ tags:
 The Dromedary Camel (Camelus dromedarius)
 
 [[Mammals]]
+
+[[Desert]]

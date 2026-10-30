@@ -30,11 +30,11 @@ subtitle: Hispanismo
 ### Efeméride
 
 - [[La Expedición de la Vacuna]]
-- [[Los Tercios españoles]]
+- [[Tercios españoles]]
 
 
 ### Personas
 
 - [[Pedro Páez]]
-- [[Cervantes]]
+- [[Miguel de Cervantes Saavedra]]
 - 

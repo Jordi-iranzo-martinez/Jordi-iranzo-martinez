@@ -10,10 +10,10 @@ subtitle: Medio ambiente en la Comunidad Valenciana
 
 ### Llocs
 
-- [[L'Albufera de Valencia]]
+- [[Albufera de Valencia]]
 - [[Oliveres mil·lenàries Sènia]]
 - [[Pruebas de edición/content/Div/Espores/El Palmeral d'Elx|El Palmeral d'Elx]]
-- [[L'Horta de València]]
+- [[Horta de València]]
 
 
 ### Persones

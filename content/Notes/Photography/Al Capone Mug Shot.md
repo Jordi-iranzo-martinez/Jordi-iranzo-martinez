@@ -23,7 +23,7 @@ While Capone easily walked away from this specific arrest in Miami by posting a 
 
 The federal government was already pivoting its strategy. Unable to convict him for bootlegging or murder, federal prosecutors successfully indicted him for income tax evasion in 1931. This landmark conviction ultimately stripped him of his power and sent him to the federal penitentiary in Atlanta, and later, to the maximum-security island of Alcatraz.
 
-([[Escape from Alcatraz (D. Siegel, 1979)]])
+([[Escape from Alcatraz]])
 
 ([[The Untouchables]])
 

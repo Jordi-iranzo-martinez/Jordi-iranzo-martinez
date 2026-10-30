@@ -6,6 +6,7 @@ tags:
 ---
 Selina Juul (1980-today) is a prominent Russian-Danish environmental activist and graphic designer universally known for being the driving force behind Denmark's massive food waste reduction.
 
+[[Food waste]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KlFNp88T2cA?si=SaV--V0G-3PKbC5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

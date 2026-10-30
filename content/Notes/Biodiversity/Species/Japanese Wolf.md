@@ -8,3 +8,7 @@ The Japanese Wolf (*Canis lupus hodophilax*)
 
 [[Mammals]]
 
+[[Carnivores]]
+
+
+

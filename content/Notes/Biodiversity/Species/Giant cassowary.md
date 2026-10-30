@@ -1,7 +1,7 @@
 
 The Giant cassowary (*Casuarius casuarius*)
 
-[[Asutralia]]
+[[Australia]]
 
 
 

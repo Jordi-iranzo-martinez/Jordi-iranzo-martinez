@@ -1,6 +1,17 @@
 
 El **[Urogallo cantábrico](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/tetraourogalluscantabricus_tcm30-483585.pdf)** (*Tetrao urogallus cantabricus*)
 
+El urogallo cantábrico (*Tetrao urogallus cantabricus*)
+
+bosques 
+
+un gran gallo que habita los bosques boreales, fundamentalmente de coníferas, en todo el paleártico occidental. En España tiene dos poblaciones en lugares muy concretos, la cantábrica, con unos 200 individuos en un área de distribución muy reducida, y la pirenaica, con unos 800 o 1000, pero también en declive poblacional. 
+
+Declive poblacional por cambio climático, pérdida de hábitats, disponibilidad de alimentos, 
+
+caza abusiva hasta hace unos 40 años. 
+
+
 El [[Urogallo cantábrico]] (_Tetrao urogallus cantabricus_) es una subespecie de ave mítica vinculada a los bosques caducifolios de la cordillera Cantábrica. La fragmentación de sus cantaderos, el exceso de depredación sobre sus nidos, el cambio climático y las bajas tasas de reproducción han provocado que su censo sea **críticamente bajo**, con una pérdida casi total de ejemplares en amplias comarcas de su área histórica.
 
 El **urogallo cantábrico (_Tetrao urogallus cantabricus_)** es un ave galliforme, una de las subespecies más míticas, esquivas y amenazadas de la avifauna española. A diferencia de sus parientes del norte de Europa, que habitan en densos e infinitos bosques de coníferas (taiga), esta población singular **se ha adaptado exclusivamente a vivir en los bosques caducifolios** (hayedos, robledales y abedulares) de la cordillera Cantábrica.

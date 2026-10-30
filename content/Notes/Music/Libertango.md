@@ -6,6 +6,9 @@ year: "1974"
 ---
 En la década de 1950 y 1960, Piazzolla fue duramente criticado, e incluso amenazado de muerte en Buenos Aires, por los tangueros tradicionales (los "ortodoxos"), quienes estigmatizaban su música afirmando que "eso no era tango".
 
+[[Tango]]
+
+
 Al titular su obra Libertango, Piazzolla declaró su total independencia creativa frente a las estructuras rígidas del tango clásico de salón. Demostró que el género podía evolucionar incorporando elementos del jazz americano y de la música clásica contemporánea (influencia de su maestra en París, Nadia Boulanger).
 
 A diferencia de los tangos tradicionales, Libertango no está pensado para el baile de pista común. Está construido sobre una base rítmica obsesiva y enérgica de 8 tiempos (estructura 3+3+2):

@@ -4,7 +4,9 @@ tags:
 year: "1914"
 ---
 
-![[Web/content/Visual/photography_pankhurst.png|500x677]]
+[[Feminism]]
+
+![[Web/content/Visual/photography_pankhurst.png|442x598]]
 
 This refers to a famous photograph capturing the arrest of suffragette leader Emmeline Pankhurst outside Buckingham Palace on May 21, 1914.
 

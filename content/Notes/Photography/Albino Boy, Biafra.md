@@ -6,6 +6,9 @@ year: "1969"
 ---
 ![[Web/content/Visual/Pasted image 20260823183704.png|340x514]]
 
+
+Biafra
+
 From 1967 to 1970, the eastern region of Nigeria broke away to form the short-lived Republic of Biafra. In response, the Nigerian government established a total land and sea blockade around the region. Cut off from the outside world, Biafra suffered an apocalyptic famine. Over one million civilians—predominantly children—died, largely from starvation and severe protein deficiency known as kwashiorkor.
 
 Don McCullin uncovered the child in a makeshift, squalid camp housing roughly 900 dying war orphans. The photograph depicts a severely emaciated 9-year-old albino boy standing on skeletal, spindly legs. His ribs are completely visible, his abdomen is distended from malnutrition, and he is clutching an empty tin of corned beef.

@@ -15,5 +15,5 @@ La acción se sitúa en los alrededores de la Puerta del Sol. El pueblo madrile�
 
 Goya pintó este lienzo (junto con el de los fusilamientos) en 1814, seis años después de los hechos, justo cuando la guerra había terminado y el rey Fernando VII regresaba de su exilio para reclamar el trono absoluto. Goya propuso al gobierno de la regencia pintar estos cuadros para "perpetuar por medio del pincel las más notables y heroicas acciones o escenas de nuestra gloriosa insurrección". Aunque inicialmente se pensó que era un encargo real, investigaciones modernas sugieren que fue una iniciativa propia de Goya para limpiar su reputación política tras haber mantenido cierta ambigüedad bajo el reinado del hermano de Napoleón, José Bonaparte.
 
-[[La promulgación de la Constitución de 1812 (1912)]]
+[[La promulgación de la Constitución de 1812]]
 

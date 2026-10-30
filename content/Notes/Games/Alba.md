@@ -18,5 +18,5 @@ Puedes fotografiar **flamencos comunes** en las marismas, garzas reales, **marti
 **El animal legendario**: El hilo conductor y gran secreto de la reserva es el esquivo y majestuoso **lince ibérico**, una especie protegida que Alba intentará avistar y salvar a lo largo de su aventura.
 
 
-[[Valencia]] y en especial [[L'Albufera de Valencia]]
+[[Valencia]] y en especial [[Albufera de Valencia]]
 

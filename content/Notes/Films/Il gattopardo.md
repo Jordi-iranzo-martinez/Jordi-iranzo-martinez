@@ -6,6 +6,8 @@ year: "1963"
 ---
 Il gattopardo (L. Visconti, 1963) está ambientada en Sicilia durante la década de 1860, en la época del *Risorgimento* (movimiento liberal de unificación italiana) (1815-1871)
 
+[Sicily](https://www.google.com/maps/place/Sicily,+Italy/@37.1524895,13.7893259,642625m/data=!3m2!1e3!4b1!4m6!3m5!1s0x13106268d05359b3:0x10b042967b67d50!8m2!3d37.3979297!4d14.6587821!16zL20vMDZ3OTI?entry=ttu&g_ep=EgoyMDI2MTAyNy4wIKXMDSoASAFQAw%3D%3D)
+
 *El título hace referencia directa al escudo de armas y blasón heráldico de la familia de los los Corbera: un gatopardo (un felino salvaje mediano, similar al serval o al leopardo, nativo de África y que históricamente simbolizaba la agilidad y la fiereza noble), que funciona como metáfora de la vieja aristocracia siciliana.*
 
 Antes de la unificación, la península italiana estaba dividida en siete estados controlados directa o indirectamente por potencias absolutistas:

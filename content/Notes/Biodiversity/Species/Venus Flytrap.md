@@ -8,6 +8,8 @@ The Venus Flytrap (Dionaea muscipula)
 
 [[Plants]]
 
+[[Web/content/Notes/Biodiversity/Taxonomy/Zoology/Insects|Insects]] such a [[Ants]], [[Beetles]], [[Field crickets]]... but alo [[Flie]], [[Mosquito]], [[Wasps]], and even [[Arachnids]] like spiders
+
 
 
 

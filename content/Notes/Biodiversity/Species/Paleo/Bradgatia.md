@@ -2,6 +2,12 @@
 tags:
   - Just_One_Planet
 ---
+[[Ediacaran period (635 - 542 Mya)]]
+
+Bradgatia is an extinct, bush-like organism that lived during the late Ediacaran period, roughly 575 to 565 million years ago. It is one of the earliest examples of large, complex multicellular life on Earth.
+
+
+Because it exhibits a unique, repetitive branching structure, it is classified as a rangeomorph—a group of puzzling Precambrian organisms whose exact place in the tree of life remains heavily debated among paleontologists.
 
 
 

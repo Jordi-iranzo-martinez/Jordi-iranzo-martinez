@@ -11,7 +11,11 @@ La superficie total protegida alcanza las 12.200 ha, junto con las aguas protegi
 En los fondos se alternan superficies rocosas y arenosas. Alberga las praderas más meridionales de Posidonia oceanica.  
   
 El fin de la reserva marina es la protección, regeneración y el desarrollo de los recursos de interés pesquero para el mantenimiento de las pesquerías sostenibles que permitan a los pescadores artesanales de la zona preservar su modo de vida tradicional.  
-  
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4CdcbGojmkA?si=RwXEmidC7hFmz6XR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ![gata.jpg [201010261945155792]](https://www.mapa.gob.es/dam/mapa/contenido/pesca/temas--nuevo/proteccion-de-los-recursos-pesqueros/reservas-marinas-y-especies-protegidas/reservas-marinas-de-espana/cabo-de-gata-nijar/caracteristicas/gata.jpg "gata.jpg [201010261945155792]")
 

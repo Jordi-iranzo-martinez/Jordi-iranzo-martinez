@@ -2,6 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
+[[Afghanistan]]
 
 ![[Web/content/Visual/photography_afgan-girl.png|326x513]]
 

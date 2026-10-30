@@ -2,6 +2,10 @@
 tags:
   - Just_One_Planet
 ---
+A Bug's Life
+
+[[Web/content/Notes/Food/Insects|Insects]]
+
 
 Insects are 
 

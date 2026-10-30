@@ -28,4 +28,4 @@ El Motín de Aranjuez ocurrió entre el 17 y el 19 de marzo de 1808.
 Este levantamiento popular, respaldado secretamente por los partidarios del príncipe Fernando, tuvo consecuencias fulminantes para la historia de España: provocó la caída inmediata de Manuel Godoy, obligó al rey Carlos IV a abdicar el trono en favor de su hijo (quien se convirtió en Fernando VII) y dejó el país debilitado justo antes de la invasión de las tropas de Napoleón Bonaparte.
 
 
-[[La promulgación de la Constitución de 1812 (1912)]]
+[[La promulgación de la Constitución de 1812]]

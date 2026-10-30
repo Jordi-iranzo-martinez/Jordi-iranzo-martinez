@@ -5,7 +5,7 @@ author: Pablo Ruiz Picasso
 year: "1937"
 ---
 
-
+[Guernica](https://www.google.es/maps/place/48300+Guernica+y+Luno,+Vizcaya/@43.3039391,-2.7668324,18873m/data=!3m1!1e3!4m6!3m5!1s0xd4e3a1487f21903:0x4264dd7f12474086!8m2!3d43.311373!4d-2.6808403!16zL20vMDM5X24?entry=ttu&g_ep=EgoyMDI2MTAyNy4wIKXMDSoASAFQAw%3D%3D)
 
 La pintura fue una reacción inmediata y visceral al bombardeo de Guernica (País Vasco) el 26 de abril de 1937, durante la Guerra Civil Española. 
 

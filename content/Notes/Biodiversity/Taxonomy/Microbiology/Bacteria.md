@@ -49,7 +49,7 @@ Bacteria is a massive domain of single-celled, prokaryotic microorganisms that l
 	
 	- **[[Gram-positive bacteria]]** (Low-GC / Firmicutes): Thick-walled bacteria capable of forming highly resilient endospores (e.g., _Bacillus_ and _Clostridium_).
 	
-	- **[[Proteobacteria]]** (Gram-Negative Bacteria): The largest, most metabolically diverse phylum of bacteria, whose ancestral lines formed the evolutionary origin of the **Mitochondrion** organelle.
+	- **[[Pseudomonadota]]** (Gram-Negative Bacteria): The largest, most metabolically diverse phylum of bacteria, whose ancestral lines formed the evolutionary origin of the **Mitochondrion** organelle.
 
 
 
@@ -65,7 +65,7 @@ Bacteria is a massive domain of single-celled, prokaryotic microorganisms that l
 - [[Cyanobacteria]]
 - [[Gram positive bacteria]]
 - [[Chloroplast]]
-- [[Proteobacteria]]
+- [[Pseudomonadota]]
 - [[Mitochondrion]]
 - [[Deferribacter]]
 - [[Cytophaga]]
@@ -76,4 +76,4 @@ Bacteria is a massive domain of single-celled, prokaryotic microorganisms that l
 - [[Actinobacteria]]
 - [[Gram-positive bacteria]]
 - [[Nitrospira]]
-- [[Proteobacteria]]
+- [[Pseudomonadota]]

@@ -2,7 +2,7 @@
 tags:
   - Consulta_Natura
 ---
-[Islas Baleares](Islas Baleares)
+[Islas Baleares](https://www.google.es/maps/place/Balearic+Islands/@39.3587759,2.7356328,311701m/data=!3m2!1e3!4b1!4m6!3m5!1s0x1297bbfff404864b:0xd5896ba9c72db2c4!8m2!3d39.3587759!4d2.7356328!16zL20vMGR2a3g?entry=ttu&g_ep=EgoyMDI2MTAyNy4wIKXMDSoASAFQAw%3D%3D)
 
 
 

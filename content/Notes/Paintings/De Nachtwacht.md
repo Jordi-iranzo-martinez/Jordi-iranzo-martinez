@@ -8,5 +8,5 @@ year: "1642"
 
 
 
-[[Los Tercios españoles]]
+[[Tercios españoles]]
 
