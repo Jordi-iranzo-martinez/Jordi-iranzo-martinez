@@ -1,0 +1,4 @@
+
+[Great Mosque of Djenne](https://www.google.com/maps/place/Great+Mosque+of+Djenne/@13.905169,-4.5554155,764m/data=!3m2!1e3!4b1!4m6!3m5!1s0xe384870ed97208b:0x929503daad9aba1e!8m2!3d13.905169!4d-4.5554155!16zL20vMDM0OGRo?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
+
+el mayor edificio de adobe/barro cocido del mundo, en pleno Sahel, sobre una antigua ruta comercial transahariana por la que efectivamente pasaban caravanas tuareg. Un dato curioso: cada año la comunidad entera participa en un festival para "replastecer" la mezquita con barro fresco, porque el material se erosiona con las lluvias y necesita mantenimiento constante — es casi un evento colectivo tan importante como el propio edificio.

@@ -1,4 +1,0 @@
----
-tags:
-  - Consulta_Natura
----

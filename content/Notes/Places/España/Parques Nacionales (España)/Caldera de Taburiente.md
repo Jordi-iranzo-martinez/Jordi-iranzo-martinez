@@ -4,6 +4,10 @@ tags:
 year: "1954"
 ---
 
+[Caldera de Taburiente](https://www.google.es/maps/place/Caldera+de+Taburiente/@28.7222908,-17.9173109,13z/data=!3m1!4b1!4m6!3m5!1s0xc6bf033f7c54ea7:0x14ada213a1479fa6!8m2!3d28.7222222!4d-17.8761111!16s%2Fg%2F122dl2nn?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
+
+Caldera volcánica rodeada de cumbres elevadas en un parque nacional exuberante y escarpado, con cascadas y arroyos.
+
 
 
 

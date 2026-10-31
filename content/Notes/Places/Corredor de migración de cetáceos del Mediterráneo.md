@@ -3,6 +3,11 @@ tags:
   - Consulta_Natura
 ---
 
+Corredor de migración de cetáceos del Mediterráneo
+
+[[Mar Mediterráneo]]
+
+
 el [Real Decreto 699/2018](https://boe.es/buscar/act.php?id=BOE-A-2018-9034) y posteriormente se incluyó de forma oficial en la lista internacional de
 
 «Proyecto Mediterráneo para la identificación de las Áreas de Especies de lnterés para la Conservación de los Cetáceos en el Mediterráneo Español» (2004) por Convenio entre el Ministerio de Medio Ambiente y las Universidades de Valencia (UV), Barcelona (UB) y la Autónoma de Madrid (UAM)

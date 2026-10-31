@@ -4,7 +4,7 @@ Anaconda
 
 [[Reptiles]]
 
-[[The Amazon]]
+[[Amazon]]
 
 
 

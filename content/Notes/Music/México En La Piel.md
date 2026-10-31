@@ -2,6 +2,9 @@
 tags:
   - Memorias_Hispanas
 ---
+
+[[México]]
+
 Sonora es un estado del noroeste de México famoso por su desierto —uno de los más biodiversos del mundo—, su extensa costa en el Golfo de California y su rica cultura ganadera.
 
 Cozumel es una paradisíaca isla caribeña ubicada en el estado de Quintana Roo, un referente mundial para el buceo debido a sus impresionantes arrecifes de coral.

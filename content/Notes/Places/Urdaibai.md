@@ -2,6 +2,8 @@
 tags:
   - Consulta_Natura
 ---
+[Urdaibai](https://www.google.es/maps/place/Reserva+de+la+Bi%C3%B3sfera+de+Urdaibai/@43.3933517,-2.6929561,1284m/data=!3m1!1e3!4m6!3m5!1s0xd4e3bb24dc6a72b:0x55c49fa2605430d4!8m2!3d43.3942058!4d-2.6881313!16s%2Fm%2F02682yt?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
+
 
 [Urdaibai](https://www.urdaibai.eus/es/) es una Reserva de la Biosfera de la UNESCO desde 1984, protegida mediante la Ley 5/1989 de Protección y Ordenación de la Reserva de la Biosfera de Urdaibai, que establece un régimen jurídico especial para los actos que se pretendan desarrollar en este espacio.
 

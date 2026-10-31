@@ -2,7 +2,7 @@
 tags:
   - Consulta_Natura
 ---
-Sierra de Guadarrama
+[Sierra de Guadarrama](https://www.google.es/maps/place/Sierra+de+Guadarrama/@40.8509587,-3.9911709,13z/data=!3m1!4b1!4m6!3m5!1s0xd4169008eeba5c3:0x8c4271d57cb751d4!8m2!3d40.8509017!4d-3.9499712!16zL20vMGN0bmRw?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
 
 [[Parque Nacional]]
 

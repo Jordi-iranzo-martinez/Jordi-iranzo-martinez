@@ -2,6 +2,8 @@
 tags:
   - Just_One_Planet
 ---
+Tanah Papua
+
 Tanah Papua (Land of Papua) is the traditional, cultural, and geographic term used to refer to the western half of the island of New Guinea, which is administered under the sovereignty of Indonesia. It stands out in the region due to its predominantly Melanesian population, vast untouched rainforests, and immense ecological diversity.
 
 Biogeographically, the region lies east of the Wallace Line, meaning its fauna and flora are closely linked to Australia rather than Asia:

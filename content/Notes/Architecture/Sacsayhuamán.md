@@ -3,7 +3,7 @@ tags:
   - Memorias_Hispanas
 ---
 
-Sacsayhuamán es un complejo arqueológico inca situado en las afueras de Cusco, Perú, en las alturas que dominan la ciudad
+[Sacsayhuamán](https://www.google.es/maps/place/Saqsaywaman/@-13.509856,-71.9816878,766m/data=!3m2!1e3!4b1!4m6!3m5!1s0x916dd66e7c08a8fd:0x9e3cb8b1e4c3803c!8m2!3d-13.509856!4d-71.9816878!16zL20vMDRmMjln?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D) es un complejo arqueológico inca situado en las afueras de Cusco, Perú, en las alturas que dominan la ciudad
 
 Es famoso sobre todo por sus enormes muros ciclópeos en zigzag, construidos con piedras megalíticas de varias toneladas —algunas superan las 100 toneladas— talladas y encajadas con una precisión extraordinaria, sin usar mortero. Las piedras encajan tan perfectamente que ni siquiera cabe una hoja de papel entre ellas.
 

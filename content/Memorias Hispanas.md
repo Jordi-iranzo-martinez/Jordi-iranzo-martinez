@@ -7,7 +7,7 @@ subtitle: Hispanismo
 
 - [[Aztecas]]
 - [[Incas]]
-- [[Mayas]]
+- [[Maya]]
 - [[Árabes]]
 - [[Romanos]]
 - [[Íberos]]

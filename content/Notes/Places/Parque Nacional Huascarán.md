@@ -2,6 +2,7 @@
 tags:
   - Just_One_Planet
 ---
+[Parque Nacional Huascarán](https://www.google.es/maps/place/Parque+Nacional+Huascar%C3%A1n/@-9.2802029,-77.4356693,198930m/data=!3m2!1e3!4b1!4m6!3m5!1s0x91af292782e2bebf:0x9660bb062c5ffa72!8m2!3d-8.9909145!4d-77.7166397!16zL20vMDVjYjV4?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
 
 El parque debe su nombre al Nevado Huascarán, que alcanza una altitud astronómica de 6.768 metros, lo que lo convierte en la montaña más alta de Perú y en el punto más alto de toda la zona tropical del planeta.
 

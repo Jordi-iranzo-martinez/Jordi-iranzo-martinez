@@ -1,3 +1,10 @@
+---
+tags:
+  - Just_One_Planet
+---
+
+Baroque Churches of the Philippines
+
 
 [[Christianism]]
 

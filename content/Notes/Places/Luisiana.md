@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-
+[Louisiana](https://www.google.com/maps/place/Louisiana,+USA/@30.9373736,-91.40087,691564m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8620a454b2118265:0xc955f73281e54703!8m2!3d30.5190775!4d-91.5208624!16zL20vMDRseTE?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
 
 Cuando pensamos en Luisiana hoy en día, nos viene a la mente el estado actual de EE. UU., pero en el siglo XVIII **"La Luisiana" era un territorio gigantesco que ocupaba casi un tercio de lo que hoy son los Estados Unidos**. Abarcaba desde el río Misisipi hasta las Montañas Rocosas, incluyendo lo que hoy son más de 10 estados actuales (como Arkansas, Misuri, Iowa, Nebraska, parte de Texas, etc.).
 

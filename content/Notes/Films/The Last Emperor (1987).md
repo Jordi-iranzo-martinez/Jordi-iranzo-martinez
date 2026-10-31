@@ -9,6 +9,10 @@ China
 
 Pu Yi
 
-The Forbidden City
+[[The Forgotten City]]
+
+chenge in [[China]]
+
+
 
 

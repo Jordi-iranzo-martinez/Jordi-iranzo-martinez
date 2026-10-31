@@ -4,7 +4,7 @@ Amazon pygmy gecko (*Chatogekko amazonicus*)
 
 [[Reptiles]]
 
-[[The Amazon]]
+[[Amazon]]
 
 
 

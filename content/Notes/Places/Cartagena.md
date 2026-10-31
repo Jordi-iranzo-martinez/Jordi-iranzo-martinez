@@ -2,6 +2,8 @@
 tags:
   - Consulta_Natura
 ---
+[Cartagena](https://www.google.es/maps/place/Cartagena,+Murcia/@37.6174117,-0.9885074,4989m/data=!3m2!1e3!4b1!4m6!3m5!1s0xd634222a43ab56d:0x47d790cefef6f9ff!8m2!3d37.6253022!4d-0.9972219!16zL20vMGc3X2M?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
+
 
 de [[Carthago Nova]]
 

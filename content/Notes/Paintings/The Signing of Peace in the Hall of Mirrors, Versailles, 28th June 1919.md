@@ -8,7 +8,7 @@ author: W. Orpen
 
 
 
-[[Versailles Palace]]
+[[Château de Versailles]]
 
 
 [[Hitler At A Nazi Party Rally]] which finishing conquering Paris ([[Hitler in Paris]])

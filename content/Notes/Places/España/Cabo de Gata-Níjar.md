@@ -2,6 +2,8 @@
 tags:
   - Consulta_Natura
 ---
+[Parque Natural del Cabo de Gata-Níjar](https://www.google.es/maps/place/Parque+Natural+del+Cabo+de+Gata-N%C3%ADjar/@36.7420525,-2.1387549,15z/data=!3m1!4b1!4m6!3m5!1s0xd7a8d6eac00da71:0x804122782017fd50!8m2!3d36.7420357!4d-2.1284552!16s%2Fm%2F026p5k1?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
+
 
 
 Se encuentra en la provincia de Almería, al pie de la Sierra de Cabo de Gata y se extiende frente a una franja costera de más de 45 Km entre Carboneras al Norte y la punta de Cabo de Gata al Sur.  

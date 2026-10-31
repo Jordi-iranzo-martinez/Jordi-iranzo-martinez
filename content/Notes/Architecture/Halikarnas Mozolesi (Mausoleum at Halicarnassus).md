@@ -1,0 +1,6 @@
+
+
+[Mausoleum at Halicarnassus](https://www.google.com/maps/place/Mausoleum+at+Halicarnassus/@37.0378874,27.4219277,629m/data=!3m1!1e3!4m10!1m2!2m1!1sHalikarnas+Mozolesi!3m6!1s0x14be6c4712970997:0x5ea4619a942df9d1!8m2!3d37.0378874!4d27.4241164!15sChNIYWxpa2FybmFzIE1vem9sZXNpWhUiE2hhbGlrYXJuYXMgbW96b2xlc2mSAQ1oaXN0b3JpY19zaXRlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ3NVJGb3dVazVhYm1oS1lXMWtlRTVHU25CV2F6RkNWMFZPV2xwR1JSQULgAQD6AQQIABAy!16zL20vMGo0d2g?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
+
+
+

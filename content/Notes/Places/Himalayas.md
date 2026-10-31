@@ -2,7 +2,7 @@
 tags:
   - Just_One_Planet
 ---
-
+[Himalayas](https://www.google.com/maps/place/Himalayas/@30.3858705,85.5921763,2782089m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3995b9ebef1235bd:0x3ae1297b70640201!8m2!3d28.5983159!4d83.9310039!16zL20vMDlnbHc?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)
 
 [[High Mountains]]
 

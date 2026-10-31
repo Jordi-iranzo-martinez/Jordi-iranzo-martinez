@@ -47,6 +47,6 @@ year: "2003"
 
 [[Incs]]
 
-[[Mayas]]
+[[Maya]]
 
 [[Aztecs]]
