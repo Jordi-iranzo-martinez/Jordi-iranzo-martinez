@@ -1,0 +1,10 @@
+
+Toniná
+
+Por más de veinte años Toniná, el antiguo reino de Popo, sostuvo constantes guerras contra [[Palenque]] aliada de Copán en la búsqueda del poder y control de las aguas del río Usumacinta. Alrededor del año 688 d.C. Yuhkno´m Wahywal, señor de Toniná, fue capturado y probablemente asesinado por el primogénito de Pakal, gobernante de Palenque. Veinte años más tarde un nuevo gobernante del Popo, K´inich Baak Nal Chaahk, incursiona en Palenque, captura a su gobernante y cobra venganza. Estas guerras dieron como resultado un sinnúmero de prisioneros para ambas ciudades, principalmente gente de la élite gobernante. Esta revancha militar fue tan significativa, que en Toniná los prisioneros fueron representados en piedra en el Juego de Pelota de la Gran Plaza y en el Templo de los Cautivos.
+ 
+La imponente Toniná, o Casa de Piedra, se forjó no sólo a través de su carácter guerrero sino mediante la arquitectura de su Acrópolis principal que es, en definitiva, un sueño en vertical, levantado en 75 metros de altura y 320 metros de fachada, que le confieren ser el edificio más alto en Mesoamerica. Construida en una montaña, las siete plataformas de la Acrópolis, constituyen un enorme laberinto de templos, palacios y habitaciones.
+ 
+Viajando desde el inframundo hasta la punta misma del cielo, acompañemos a Juan Villloro que, tras su encuentro con el arqueólogo Juan Yadeun, develan de esta majestuosa y enigmática ciudad maya, puerta de entrada a la Selva Lacandona.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l5hJkcHeICQ?si=rQbbblHZA4ETPUAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -44,6 +44,6 @@ Ofrezco los siguientes servicios:
 	- [[Just One Planet]]: medio ambiente mundial
 	- [[Just One Humankind]]: humanismo
 	- [[Just One Life]]: filosofía, psicología y neurociencia
-	- [[Memorias Hispanas]]: hispanismo
+	- [[Mestizaje]]: hispanismo
 
 **Contacto**: jordi.im@proton.me

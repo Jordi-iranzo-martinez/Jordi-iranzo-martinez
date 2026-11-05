@@ -70,7 +70,7 @@ r:
 		- [[Comunidades Autónomas]]
 		- [[Plan de Recuperación, Transformación y Resiliencia]]
 		- [[Ley 27-2006 (información MA, participación, justicia)]]
-		- [[CENEAM]]
+		- [[Web/content/Oposiciones/Ministerio/Teoría/Administración/Otros/CENEAM]]
 	- Internacional
 		- [[Programa de Naciones Unidas para el Medio Ambiente]]
 		- [[Convenio de Aarhus]]

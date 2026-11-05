@@ -1,4 +1,0 @@
----
-tags:
-  - Memorias_Hispanas
----

@@ -1,3 +1,0 @@
-
-Stag Beetles (family Lucanidae)
-

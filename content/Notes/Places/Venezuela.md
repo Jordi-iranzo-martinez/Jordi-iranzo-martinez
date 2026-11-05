@@ -1,2 +1,0 @@
-
-[Venezuela](https://www.google.es/maps/place/Venezuela/@6.6571134,-66.6146705,1601674m/data=!3m2!1e3!4b1!4m6!3m5!1s0x8c2853cb36cbd801:0xdca0f2587cd54dd3!8m2!3d6.42375!4d-66.58973!16zL20vMDd5bGo?entry=ttu&g_ep=EgoyMDI2MTAyOC4wIKXMDSoASAFQAw%3D%3D)

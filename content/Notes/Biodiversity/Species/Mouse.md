@@ -1,2 +1,0 @@
-
-The mouse (*Mus musculus*)

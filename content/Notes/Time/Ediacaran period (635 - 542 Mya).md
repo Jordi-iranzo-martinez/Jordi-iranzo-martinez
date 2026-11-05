@@ -1,5 +1,0 @@
-
-
-_**Dickinsonia costata**_
-
-

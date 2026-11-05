@@ -1,5 +1,0 @@
-
-Diplocaulus (*Diplocaulus* spp.)
-
-[[Amphibians]]
-
