@@ -5,4 +5,4 @@ author: Cindy Sherman
 year: "1978"
 ---
 
-![[Web/content/Visual/Pasted image 20260823185943.png]]
+![[Web/content/Visual/Pasted image 20260823185943.png|541x427]]

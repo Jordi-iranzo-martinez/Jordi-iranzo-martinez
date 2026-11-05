@@ -6,4 +6,4 @@ author: Edward S. Curtis
 year: "1904"
 ---
 
-![[Web/content/Visual/Pasted image 20260823184937.png]]
+![[Web/content/Visual/Pasted image 20260823184937.png|508x382]]

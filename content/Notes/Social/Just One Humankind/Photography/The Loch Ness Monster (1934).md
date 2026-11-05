@@ -3,7 +3,7 @@ tags:
   - Just_One_Planet
   - Just_One_Humankind
 ---
-![[Web/content/Visual/photography_ness-lake-monster.png]]
+![[Web/content/Visual/photography_ness-lake-monster.png|509x377]]
 
 The "monster" was actually a cheap toy submarine bought from a local Woolworths store.
 

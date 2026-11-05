@@ -8,3 +8,4 @@ Dalai Lama
 
 Potala Palace
 
+[[Buddhism]]

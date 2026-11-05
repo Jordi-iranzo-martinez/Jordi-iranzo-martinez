@@ -4,7 +4,7 @@ tags:
 author: R. Avedon
 year: "1955"
 ---
-![[Web/content/Visual/photography_dovina-elephants.png]]
+![[Web/content/Visual/photography_dovina-elephants.png|377x533]]
 
 
 Dovima was the highest-paid and most iconic supermodel of the 1950s. The brilliance of the image relies entirely on its extreme visual juxtapositions:

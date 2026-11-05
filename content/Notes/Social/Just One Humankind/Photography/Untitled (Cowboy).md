@@ -6,7 +6,7 @@ author: Richard Prince
 year: "1989"
 ---
 
-![[Web/content/Visual/photography_cowboy.png]]
+![[Web/content/Visual/photography_cowboy.png|531x345]]
 
 
 Los dragones de cuera - los antecedentes de los vaqueros

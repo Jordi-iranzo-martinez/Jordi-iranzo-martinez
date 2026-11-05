@@ -4,5 +4,5 @@ tags:
 year: "1936"
 ---
 
-![[Web/content/Visual/Pasted image 20260821014426.png]]
+![[Web/content/Visual/Pasted image 20260821014426.png|335x436]]
 

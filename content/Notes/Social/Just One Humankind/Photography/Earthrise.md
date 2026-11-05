@@ -6,7 +6,7 @@ author: William Anders
 year: "1968"
 ---
 
-![[Web/content/Visual/earthrise.png]]
+![[Web/content/Visual/earthrise.png|403x403]]
 
 
 "Earthrise" is one of the most famous photographs ever taken — a color image of Earth rising above the lunar horizon, taken during the Apollo 8 mission on December 24, 1968.

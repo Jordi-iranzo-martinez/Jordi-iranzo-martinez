@@ -4,7 +4,7 @@ tags:
 year: c. 1969
 author: NASA
 ---
-![[Web/content/Visual/Pasted image 20260823195422.png]]
+![[Web/content/Visual/Pasted image 20260823195422.png|316x393]]
 
 In Nazi Germany, von Braun served as the technical director of the Peenemünde Army Research Center. He engineered the V-2 rocket, the world's first long-range guided ballistic missile. The weapons were built using slave labor from the Mittelbau-Dora concentration camp, where thousands of prisoners perished under brutal conditions.
 

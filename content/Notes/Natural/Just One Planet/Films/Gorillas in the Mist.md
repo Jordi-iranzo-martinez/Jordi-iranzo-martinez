@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Planet
+direction: Michael Apted
+year: "1988"
 ---
 Gorillas in the Mist (titulada en España Gorilas en la niebla) es una aclamada película dramática y biográfica de 1988 dirigida por Michael Apted y protagonizada por Sigourney Weaver. El filme, que estuvo nominado a 5 premios Óscar, narra la impactante y trágica historia real de la naturalista y zoóloga estadounidense Dian Fossey y su lucha inquebrantable por salvar a los gorilas de montaña en Ruanda.
 

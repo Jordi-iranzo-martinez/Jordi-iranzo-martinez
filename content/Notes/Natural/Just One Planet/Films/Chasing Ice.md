@@ -21,7 +21,7 @@ Al recuperar los discos duros de las cámaras tras años de resistir las torment
 
 
 
-[[Web/content/Notes/Social/Just One Humankind/Films/Climate Change]]
+[[Web/content/Notes/Natural/Just One Planet/Films/Climate Change]]
 
 
 

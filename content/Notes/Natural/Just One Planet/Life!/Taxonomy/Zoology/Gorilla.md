@@ -17,7 +17,7 @@ They are highly intelligent, peaceful herbivores that share roughly **98% of the
 [[Primates|Primates]]
 
 
-[[Gorillas in the Mist (Michael Apted, 1988)]]
+[[Gorillas in the Mist]]
 [[Gorilla In The Congo]]
 [[Gorilla selfie]]
 

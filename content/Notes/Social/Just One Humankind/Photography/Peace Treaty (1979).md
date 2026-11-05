@@ -4,4 +4,4 @@ tags:
 ---
 
 
-![[Web/content/Visual/Pasted image 20260823193414.png]]
+![[Web/content/Visual/Pasted image 20260823193414.png|404x412]]
