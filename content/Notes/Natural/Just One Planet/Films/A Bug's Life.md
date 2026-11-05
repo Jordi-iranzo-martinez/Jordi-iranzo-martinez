@@ -4,7 +4,7 @@ tags:
 ---
 A Bug's Life
 
-[[Web/content/Notes/Other/Just One Life/Food/Insects|Insects]]
+[[Web/content/Notes/Personal/Just One Life/Food/Insects|Insects]]
 
 
 Insects are 

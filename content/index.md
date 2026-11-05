@@ -39,11 +39,13 @@ Ofrezco los siguientes servicios:
 - [[Escritos]]
 
 - Notas (Jardín Digital)
-	- [[Consulta Natura]]: medio ambiente en España
-	- [[Terra]]: medio ambiente en la Comunidad Valenciana
-	- [[Just One Planet]]: medio ambiente mundial
-	- [[Just One Humankind]]: humanismo
-	- [[Just One Life]]: filosofía, psicología y neurociencia
-	- [[Mestizaje]]: hispanismo
+	- **Consulta Natura**: medio ambiente en España
+	- **Terra**: medio ambiente en la Comunidad Valenciana
+	- **Just One Planet**: medio ambiente mundial
+	- **Just One Humankind**: humanismo
+	- **Just One Life**: filosofía, psicología y neurociencia
+	- **Memorias Hispanas**: hispanismo
 
 **Contacto**: jordi.im@proton.me
+
+
