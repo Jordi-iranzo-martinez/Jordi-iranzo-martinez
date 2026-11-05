@@ -4,4 +4,4 @@ tags:
 year: "2013"
 ---
 
-![[Web/content/Visual/Pasted image 20260823190102.png]]
+![[Web/content/Visual/Pasted image 20260823190102.png|399x392]]

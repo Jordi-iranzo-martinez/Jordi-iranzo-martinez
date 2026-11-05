@@ -5,7 +5,7 @@ author: Caspar David Friedrich
 year: "1818"
 ---
 
-![[Web/content/Visual/Pasted image 20260823234738.png]]
+![[Web/content/Visual/Pasted image 20260823234738.png|416x525]]
 
 
 

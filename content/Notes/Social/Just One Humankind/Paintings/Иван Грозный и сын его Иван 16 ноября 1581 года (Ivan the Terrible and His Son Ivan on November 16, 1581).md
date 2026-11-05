@@ -4,7 +4,7 @@ tags:
 author: Илья Ефимович Репин (Ilya Yefimovich Repin)
 year: 1883-1885
 ---
-![[Web/content/Visual/Pasted image 20260831204847.png]]
+![[Web/content/Visual/Pasted image 20260831204847.png|544x427]]
 
 
 [[Russian]]

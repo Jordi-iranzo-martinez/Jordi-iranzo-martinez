@@ -5,4 +5,4 @@ author: Harold "Doc" Edgerton
 year: "1957"
 ---
 
-![[Web/content/Visual/photography_milk-drop.png]]
+![[Web/content/Visual/photography_milk-drop.png|303x395]]

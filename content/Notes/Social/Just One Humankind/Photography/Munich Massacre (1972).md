@@ -3,4 +3,4 @@ tags:
   - Just_One_Humankind
 ---
 
-![[Web/content/Visual/Pasted image 20260823185311.png]]
+![[Web/content/Visual/Pasted image 20260823185311.png|557x399]]

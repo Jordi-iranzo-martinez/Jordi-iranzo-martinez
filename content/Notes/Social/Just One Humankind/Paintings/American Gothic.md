@@ -4,4 +4,4 @@ tags:
 year: "1930"
 ---
 
-![[Web/content/Visual/Pasted image 20260823234039.png|510x615]]
+![[Web/content/Visual/Pasted image 20260823234039.png|325x392]]

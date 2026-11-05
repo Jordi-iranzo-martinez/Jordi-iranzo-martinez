@@ -6,5 +6,5 @@ author: Charles Levy
 year: "1945"
 ---
 
-![[Web/content/Visual/Pasted image 20260823183518.png]]
+![[Web/content/Visual/Pasted image 20260823183518.png|333x454]]
 

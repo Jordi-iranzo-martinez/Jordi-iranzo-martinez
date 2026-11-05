@@ -4,7 +4,7 @@ tags:
 author: Jacques-Louis David
 year: "1793"
 ---
-![[Web/content/Visual/marat.png]]
+![[Web/content/Visual/marat.png|381x490]]
 
 
 Le tableau représente les instants qui ont suivi le meurtre de Jean-Paul Marat, journaliste jacobin influent et ami proche du peintre. Le 13 juillet 1793, une jeune femme issue d'une faction rivale, Charlotte Corday, parvint à s'introduire chez lui sous prétexte de lui remettre une liste de traîtres et lui porta un coup de couteau fatal.

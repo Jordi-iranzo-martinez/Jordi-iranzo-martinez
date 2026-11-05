@@ -5,7 +5,7 @@ author: Jacques-Louis David
 year: 1801-1805
 ---
 
-![[Web/content/Visual/napoleon-alpes.png]]
+![[Web/content/Visual/napoleon-alpes.png|381x465]]
 
 La peinture commémore un exploit militaire survenu en mai 1800. À la tête de l'Armée de réserve, le Premier Consul Napoléon Bonaparte franchit le col du Grand-Saint-Bernard dans les Alpes pour surprendre l'armée autrichienne en Italie, une campagne qui culminera avec la victoire décisive de la bataille de Marengo.
 

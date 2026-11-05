@@ -4,4 +4,6 @@ tags:
   - Just_One_Life
 ---
 
-![[Web/content/Visual/Pasted image 20260823200235.png]]
+![[Web/content/Visual/Pasted image 20260823200235.png|466x639]]
+
+[[Gardening]]

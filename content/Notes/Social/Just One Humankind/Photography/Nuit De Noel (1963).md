@@ -5,7 +5,7 @@ title: Nuit de Noel (1963)
 author: Malick Sidibé
 ---
 
-![[Web/content/Visual/Pasted image 20260823184610.png]]
+![[Web/content/Visual/Pasted image 20260823184610.png|408x415]]
 
 À la fin du XIXe siècle, le territoire actuel du Mali devient une colonie française sous le nom de Soudan Français.
 
