@@ -1,0 +1,4 @@
+---
+tags:
+  - Smart_Digest
+---

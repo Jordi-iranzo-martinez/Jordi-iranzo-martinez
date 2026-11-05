@@ -1,0 +1,7 @@
+---
+tags:
+  - Just_One_Humankind
+  - Smart_Digest
+author: Πλούταρχος
+year: 100-120 AD
+---
