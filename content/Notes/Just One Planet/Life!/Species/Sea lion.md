@@ -5,4 +5,5 @@ tags:
 ---
 Sea lion (family Ottaridae)
 
-[[Mammals|Mammals]]
+[[Mammalia]]
+

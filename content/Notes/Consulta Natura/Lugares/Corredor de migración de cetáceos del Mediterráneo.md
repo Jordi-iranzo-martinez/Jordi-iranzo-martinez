@@ -5,7 +5,7 @@ tags:
 
 Corredor de migración de cetáceos del Mediterráneo
 
-[[Mar Mediterráneo]]
+[[Web/content/Notes/Consulta Natura/Lugares/Mar Mediterráneo]]
 
 
 el [Real Decreto 699/2018](https://boe.es/buscar/act.php?id=BOE-A-2018-9034) y posteriormente se incluyó de forma oficial en la lista internacional de

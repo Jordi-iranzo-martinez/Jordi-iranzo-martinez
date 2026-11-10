@@ -4,7 +4,7 @@ tags:
 ---
 La canción fue compuesta en un pequeño hotel de la Costa Brava (en Calella de Palafrugell, Girona) durante el invierno de 1970.
 
-[[Mar Mediterráneo]]
+[[Web/content/Notes/Consulta Natura/Lugares/Mar Mediterráneo]]
 
 
 Serrat se había encerrado en el Monasterio de Montserrat junto a otros intelectuales para protestar contra el Proceso de Burgos (los juicios sumarísimos del franquismo), lo que provocó que el régimen censurara sus canciones y prohibiera sus apariciones en televisión.
