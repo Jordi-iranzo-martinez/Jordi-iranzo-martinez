@@ -25,7 +25,7 @@ Ultra-Minimal Wardrobe: Johnson personally maintains an incredibly tiny 15-piece
 She creates her own zero-waste cosmetics, using bulk organic cocoa powder as cheek blush/bronzer and a simple four-ingredient recipe for homemade mascara.
 
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y583QTbetsQ?si=a3kNiNtOrS-MRao5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The Trash Jar: Since 2008, Johnson and her family have famously practiced a waste-free lifestyle, reducing their household garbage to fit into a single small glass jar (about a pint or quart) per year.

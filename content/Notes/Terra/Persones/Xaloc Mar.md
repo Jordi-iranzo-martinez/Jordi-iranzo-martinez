@@ -22,11 +22,11 @@ Es, sin duda, su labor más célebre. Debido al cambio climático, las tortugas 
 
 🏖️ 2. Limpieza de playas y transformación de residuos
 
-A lo largo de sus más de 15 años de historia, han retirado decenas de toneladas de plásticos, redes fantasmas y basura acumulada en el litoral valenciano. Sin embargo, van más allá de la simple recogida: colaboran en proyectos de economía circular para **transformar esos plásticos recuperados del mar en nuevos productos de valor**. [[1](https://www.google.com/goto?url=CAESTQHrOzAVgBxyhx-HPqqdpTZhzcz0SjmpUlDabyav9px6TxXau2MGlu4sgXQKT5UBHldAZI5VhwZwN6e3xxMl8c-BRTsKUN-md4P8n6vC), [2](https://www.google.com/goto?url=CAESXQHrOzAVN5MJo_ctfXmXqDM_kjP6ApK2_iDHiLTn70WqjzpxGo0W4bBaq_SNJ9wjCfHHhBiTWEknkivepkq44Sn8jwKUavWNsrNrJcQ6q3vnHg3N9C07-zFAwPEh9g)]
+A lo largo de sus más de 15 años de historia, han retirado decenas de toneladas de plásticos, redes fantasmas y basura acumulada en el litoral valenciano. Sin embargo, van más allá de la simple recogida: colaboran en proyectos de economía circular para transformar esos plásticos recuperados del mar en nuevos productos de valor. 
 
 🌱 3. Restauración de dunas y biodiversidad terrestre
 
-La ONG no solo mira al agua; también protege la primera línea de defensa de la costa: los ecosistemas dunares. Realizan jornadas de **restauración de la flora dunar** eliminando especies invasoras y replantando vegetación autóctona. Asimismo, gestionan proyectos específicos como el cercado de reintroducción de la **tortuga mediterránea** en el Parque Natural de L'Albufera. [[1](https://www.google.com/goto?url=CAESYwHrOzAVmnjF5HEeGsiiUOQDyq5ZnHxyQBVIBR7TwERjAQLdhY0lV5j-zkj73rj6Hxa2I-WphIgDp54KQuF1t4VDgDijy1IKN5T_Hj322N4-Tevspy6FL0i7UYcXGN0R1Qih6Q), [2](https://www.google.com/goto?url=CAESXQHrOzAVN5MJo_ctfXmXqDM_kjP6ApK2_iDHiLTn70WqjzpxGo0W4bBaq_SNJ9wjCfHHhBiTWEknkivepkq44Sn8jwKUavWNsrNrJcQ6q3vnHg3N9C07-zFAwPEh9g)]
+La ONG no solo mira al agua; también protege la primera línea de defensa de la costa: los ecosistemas dunares. Realizan jornadas de restauración de la flora dunar eliminando especies invasoras y replantando vegetación autóctona. Asimismo, gestionan proyectos específicos como el cercado de reintroducción de la tortuga mediterránea en el Parque Natural de L'Albufera.
 
 
 [CURSO BIOLOGÍA Y CONSERVACIÓN DE MEGAVERTEBRADOS DEL MEDITERRÁNEO](https://youtube.com/playlist?list=PLbF3QIFq_wyodtA__eQVHvmtlFrzBuJ56&si=SsnEyT8n87nbm-KB)

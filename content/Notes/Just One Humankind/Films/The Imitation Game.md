@@ -1,6 +1,7 @@
 ---
 tags:
   - Just_One_Humankind
+year: "2014"
 ---
 
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist

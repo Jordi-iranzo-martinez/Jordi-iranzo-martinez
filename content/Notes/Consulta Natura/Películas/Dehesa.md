@@ -5,8 +5,7 @@ title: Dehesa
 subtitle: El bosque del lince ibérico
 year: "2020"
 ---
-
-Documental que nos traslada a la gran desconocida de la Península Ibérica, la Dehesa. Un bosque único en el mundo donde descubriremos sensaciones muy diversas. Encinas, alcornoques y quejigos dan lugar a un campo de batalla donde se retan los grandes herbívoros, donde cazan los elegantes y sigilosos linces ibéricos y las formidables águilas, donde las flores esconden depredadores con camuflajes sorprendentes. Pero también puede ser un lugar amable que recibe cada año a miles de viajeros de larga distancia, que tienen en estos parajes sus cuarteles de invierno. Buscan un clima más cálido y el alimento más preciado, el oro de la Dehesa, las bellotas. La moneda de cambio que estos árboles utilizan con los animales para preservar su existencia.
+La dehesa e bosque único en el mundo donde descubriremos sensaciones muy diversas. Encinas, alcornoques y quejigos dan lugar a un campo de batalla donde se retan los grandes herbívoros, donde cazan los elegantes y sigilosos linces ibéricos y las formidables águilas, donde las flores esconden depredadores con camuflajes sorprendentes. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ke4SJkGx6tY?si=IwqMEnSFgzbLSOxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

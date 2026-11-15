@@ -1,5 +1,15 @@
 
+The Mesozoic Era (from Greek *mesos* "middle" and *zōon* "animal", meaning "Middle Life") is a major geological era spanning from 251.9 to 66.0 million years ago (Ma), widely known as the "Age of Reptiles" and the "Age of Conifers."
 
+Sitting between the [[Paleozoic]] and [[Cenozoic]] eras, it witnessed the breakup of the supercontinent Pangaea, the dominance of dinosaurs, and the emergence of the first birds, mammals, and flowering plants.
+
+*[[Dinosaurs]], [[Birds]], [[Mammals]], and flowering [[Plants]]*
+
+At the start of the Mesozoic, Earth's landmasses were fused into the single supercontinent Pangaea, surrounded by the Panthalassa Ocean. Tectonic rifting gradually opened the Atlantic and Indian oceans, increasing coastline length and moderating continental interiors.
+
+
+
+Global temperatures were substantially warmer than today, with elevated atmospheric CO₂ levels and no permanent polar ice caps for most of the era, allowing lush forests to grow even at high latitudes.
 
 
 ### Mesozoic Period

@@ -6,7 +6,9 @@ year: "2024"
 
 ![[Web/content/Visual/Pasted image 20260827172624.png]]
 
-The Streltsy (literally meaning _"shooters"_ or _"musketeers"_) were originally established in 1550 by Tsar Ivan the Terrible ([[ivan]])
+The Streltsy (literally meaning _"shooters"_ or _"musketeers"_) were originally established in 1550 by Tsar Ivan the Terrible.
+
+[[Russian]]
 
 As a permanent military caste paid directly by the state in cash and land, they replaced the unreliable feudal levies. They served as the elite shock troops of the tsars through the 16th and 17th centuries. However, due to their immense political power, they launched bloody rebellions against the Westernizing reforms of Peter the Great, leading to their violent dissolution in the early 1700s.
 

@@ -4,10 +4,7 @@ tags:
 direction: James L. Brooks
 year: "1997"
 ---
-
-
-
-
+As Good as It Gets
 
 Obsessive-Compulsive Disorder (OCD) is an anxiety-related mental issue marked by two main components: obsessions and compulsions. 
 

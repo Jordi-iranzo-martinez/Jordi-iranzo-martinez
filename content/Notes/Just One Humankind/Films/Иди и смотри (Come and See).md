@@ -7,6 +7,8 @@ year: "1985"
 Idi i smotri (Come and See) (E. Klímov, 1985) está ambientada en Bielorrusia de 1943, durante la Segunda Guerra Mundial (1939-1945).
 
 
+
+
 El título proviene del Apocalipsis en la [[βιβλία (Biblia)]] (Libro de las Revelaciones):
 
 >Cuando abrió el cuarto sello, oí la voz del cuarto ser viviente, que decía: Ven y mira. Y miré, y he aquí un caballo amarillo, y el que lo montaba tenía por nombre Muerte

@@ -20,7 +20,7 @@ La seguridad interna y el contraterrorismo dentro de Reino Unido corre a cargo d
 
 La Operación Ruthless (Operación Despiadada) fue un plan de infiltración real de la Segunda Guerra Mundial diseñado personalmente por el propio Ian Fleming en septiembre de 1940, cuando trabajaba como teniente comandante en la División de Inteligencia Naval británica.
 
-El objetivo del plan era robar los libros de códigos navales de la máquina de cifrado Enigma que la Alemania nazi utilizaba para dirigir sus submarinos U-Boot, ya que los criptógrafos de Bletchley Park (como Alan Turing) ([[The Imitation Game (2014)]]) estaban teniendo inmensas dificultades para descifrarlos en ese momento del conflicto.
+El objetivo del plan era robar los libros de códigos navales de la máquina de cifrado Enigma que la Alemania nazi utilizaba para dirigir sus submarinos U-Boot, ya que los criptógrafos de Bletchley Park (como Alan Turing) ([[The Imitation Game]]) estaban teniendo inmensas dificultades para descifrarlos en ese momento del conflicto.
 
 El plan de Fleming consistía en lo siguiente:
 

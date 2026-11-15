@@ -1,6 +1,8 @@
 ---
 tags:
   - Just_One_Humankind
+direction: Jim Sheridan
+year: "1993"
 ---
 
 In the Name of the Father (J. Sheridan, 1993) está ambientada en Belfast en la década de 1970, durante la época más sangrienta de _The Troubles_ (el conflicto armado de Irlanda del Norte).

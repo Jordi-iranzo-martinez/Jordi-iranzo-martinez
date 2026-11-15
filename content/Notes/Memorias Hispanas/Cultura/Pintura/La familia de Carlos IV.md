@@ -4,7 +4,7 @@ tags:
 author: Francisco de Goya y Lucientes
 year: "1800"
 ---
-![[Web/content/Visual/goya_familia-carlos-iv.jpg]]
+![[Web/content/Visual/goya_familia-carlos-iv.jpg|476x396]]
 
 Aunque formalmente el retrato es del rey Carlos IV, Goya situó a la reina María Luisa de Parma en el centro exacto de la escena. 
 

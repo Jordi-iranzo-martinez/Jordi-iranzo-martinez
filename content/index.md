@@ -20,7 +20,7 @@ Posteriormente me centré en legislación (nacional, internacional, de la Unión
 
 He obtenido más de 160 [[Certificados]] de diferentes instituciones: Naciones Unidas, Unión Europea, Google...
 
-Hablo varios idiomas y tengo experiencia en el sector público privado.
+Hablo varios idiomas y tengo experiencia en el sector público y privado.
 
 Me gustaría contribuir a mejorar el medio ambiente.
 

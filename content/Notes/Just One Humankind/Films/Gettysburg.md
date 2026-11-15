@@ -1,3 +1,7 @@
+---
+direction: Ronald F. Maxwell
+year: "1993"
+---
 
 
 The film is based on the Pulitzer-award novel "The Killer Angels".

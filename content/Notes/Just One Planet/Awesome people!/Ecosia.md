@@ -10,6 +10,9 @@ What if you could contribute to reforesting the world easily while searching the
 
 [Ecosia](https://www.ecosia.org/) is a search engine and a [browser](https://www.ecosia.org/browser) that donates all the revenue from its usage to finance tree-planting programmes all around the world. 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oNWJv0LR07M?si=kjRwEmMFH0qOjbN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 _**Ecosia**_ is a Berlin-based search engine launched in 2009 that operates as a social business, dedicating approximately 80% of its profits from ad revenue to global reforestation. Often described as the "green alternative to Google," the company has funded the planting of over 200 million trees across biodiversity hotspots worldwide.
 
 ![[Web/content/Visual/ecosia_logo.jpg]]
@@ -24,7 +27,9 @@ Their mission goes beyond planting trees: capturing carbon from the atmosphere, 
 
 Initially they donated 80% of their revenue, but in 2018 they took a revolutionary step: they adopted a steward-ownership model and sold all shares to the non-profit [Purpose Foundation](https://purpose-economy.org). They now donate 100% of their profits.
 
-![[Web/content/Soporte visual/ecosia_team.jpg]]
+
+![[ecosia_team.jpg]]
+
 
 Ecosia's team. Source: [Ecosia.org](https://www.ecosia.org/imprint#press) 
 
@@ -36,12 +41,19 @@ Their [reforestation projects](https://blog.ecosia.org/tag/where-does-ecosia-pla
 
 *Ecosia's supporting reforestation project in Kenya. Source: [Ecosia.org](https://www.ecosia.org/imprint#press)* 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6dgJ7hYd2aU?si=g2oxfXqG5MDm_Q4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=4KJg3zo119xYBqU_&amp;list=PLVIr0a2TLf9vGaCN2pJBp4cNHFJxHvf3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 But their commitment goes beyond trees. To address the climate crisis, they've built their own solar power plants, achieving 200% carbon negative status: they produce twice the energy they need!
 
 Besides, they have partnered with several companies and organizations, in both deforestation and climate change problems. 
 
 On the deforestation issue, they have invested in companies like [Planet-A-Foods](https://planet-a-foods.com/), which sells a deforestation-free chocolate, and [Juicy Marbles](https://juicymarbles.com/), that develops a plant-based filet mignon. Perhaps the most important contribution is the 2020 partnership with [TreeCard](https://www.treecard.org/). This independent wooden debit card company dedicates 80% of its interchange fees to reforestation. It means approximately one tree for every $60 spent.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uhhRoKSJszw?si=pex8a6BGa_74Egy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 On climate change, they make climate investments, supporting renewable solar companies like [Enviria](https://enviria.energy/), [Ecoligo](https://ecoligo.com/), [Naturstrom AG](https://www.naturstrom.de/), [Zolar](https://www.zolar.de/)... and also organic and/or regenerative agriculture projects, like [Ostmost](https://www.ostmost.berlin/) and [Wildfarmed](https://www.wildfarmed.co.uk/) , which also helps sequester CO2!
 
@@ -65,5 +77,3 @@ As the amount of its commissions Ecosia gets from the searches depends on how ma
 [Start planting trees with Ecosia today](https://www.ecosia.org/browser?referrer=friends-gst6k3) - it's completely free and takes just 2 minutes to set up.
 
 *You can find more information on [Ecosia Blog](https://blog.ecosia.org/) and [Ecosia help center](https://ecosia.helpscoutdocs.com/).
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oNWJv0LR07M?si=Ke58ldwC91A3IkM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

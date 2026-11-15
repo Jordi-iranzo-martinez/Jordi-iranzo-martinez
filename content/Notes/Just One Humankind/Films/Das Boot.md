@@ -43,7 +43,7 @@ The Kriegsmarine (German war marine) used the machine Enigma to code all their c
 
 U-boots used a more complex variant: the Naval Enigma of 4 rotors (M4): harder to break than the 3-rotors used by the Army and the Air Force.
 
-The capture of some Enigma machine and code books in German U-booats (U-110, 1941; U-559, 1942) led Allies to crucial material to decode. In Bletchley Park (England) a team of cryptoanalists leaded by Alan Turin worked in Ultra Project to try to decode them (filmed in [[The Imitation Game (2014)]])
+The capture of some Enigma machine and code books in German U-booats (U-110, 1941; U-559, 1942) led Allies to crucial material to decode. In Bletchley Park (England) a team of cryptoanalists leaded by Alan Turin worked in Ultra Project to try to decode them (filmed in [[The Imitation Game]])
 
 
 - Descifrar las comunicaciones de los U-boots permitió a los Aliados desviar convoyes, evitar emboscadas y, junto con otras mejoras tecnológicas, contribuyó decisivamente a ganar la **Batalla del Atlántico**.
