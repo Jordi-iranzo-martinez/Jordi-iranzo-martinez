@@ -6,6 +6,6 @@ tags:
 
 The Snipe Eel (family Nemichthyidae)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 Abyss

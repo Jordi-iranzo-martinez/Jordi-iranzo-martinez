@@ -6,4 +6,4 @@ tags:
 
 The Brown Trout (*Salmo trutta*) 
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

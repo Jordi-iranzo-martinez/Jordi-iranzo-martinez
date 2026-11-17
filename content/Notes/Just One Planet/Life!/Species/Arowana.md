@@ -6,4 +6,4 @@ tags:
 
 The Arowana (*Scleropages formosus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

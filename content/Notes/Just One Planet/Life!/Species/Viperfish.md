@@ -6,7 +6,7 @@ tags:
 
 The Viperfish (*Chauliodus* spp.)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 POKEMON?
 

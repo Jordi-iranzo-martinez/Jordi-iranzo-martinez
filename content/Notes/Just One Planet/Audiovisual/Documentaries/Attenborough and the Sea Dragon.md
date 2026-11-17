@@ -4,5 +4,8 @@ tags:
 direction: Sally Thomson
 year: "2018"
 ---
+Attenborough and the Sea Dragon is about an [[Ichthyosaurs]] fossil on the Britain's famous [[Jurassic]] Coast in Dorset.
 
-En la Costa Jurásica de Gran Bretaña se ha descubierto un fósil de 200 millones de años: los huesos de un ictiosaurio, conocido como dragón del mar, que dominó los océanos mientras los dinosaurios hacían lo propio en tierra firme. David Attenborough se une a un grupo de científicos para revelar la historia de este extraordinario animal.
+The program follows a team of paleontologists and fossil preparators as they excavate, CT-scan, and forensically investigate the remarkably preserved 200-million-year-old skeleton of an ichthyosaur—an extinct, dolphin-like marine reptile nicknamed a "sea dragon."
+
+[[Ichthyosaurs]]

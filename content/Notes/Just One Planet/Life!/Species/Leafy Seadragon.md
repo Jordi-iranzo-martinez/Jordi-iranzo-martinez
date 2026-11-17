@@ -6,6 +6,6 @@ tags:
 
 The Leafy Seadragon (*Phycodurus eques*) 
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 

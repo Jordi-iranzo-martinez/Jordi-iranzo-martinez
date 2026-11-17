@@ -5,7 +5,7 @@ direction: Luis Oliveros
 year: "2011"
 ---
 
-Budapest, 1944. Adolf Eichman dirige la deportación masiva de judíos húngaros al campo de exterminio de Auschwitz. Ángel Sanz-Briz, un diplomático de la embajada española en Budapest, utilizó todos los medios a su alcance para salvar el mayor número de vidas posible. Para ello, emitió miles de visados y pasaportes que garantizaban la inmunidad de sus portadores, llegando a burlar en ocasiones a las autoridades alemanas y a sus colaboradores húngaros. Su actividad cesó cuando, en diciembre de 1944, le ordenaron regresar a España. Había logrado salvar a casi 5.000 judíos (más de cuatro veces los de Schlinder: [[Schindler's List (1993)]]). Desde entonces, se le conoce como "El Ángel de Budapest".
+Budapest, 1944. Adolf Eichman dirige la deportación masiva de judíos húngaros al campo de exterminio de Auschwitz. Ángel Sanz-Briz, un diplomático de la embajada española en Budapest, utilizó todos los medios a su alcance para salvar el mayor número de vidas posible. Para ello, emitió miles de visados y pasaportes que garantizaban la inmunidad de sus portadores, llegando a burlar en ocasiones a las autoridades alemanas y a sus colaboradores húngaros. Su actividad cesó cuando, en diciembre de 1944, le ordenaron regresar a España. Había logrado salvar a casi 5.000 judíos (más de cuatro veces los de Schlinder: [[Schindler's List]]). Desde entonces, se le conoce como "El Ángel de Budapest".
 
 
 ### Ángel Sanz-Briz

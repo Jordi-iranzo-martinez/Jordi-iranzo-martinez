@@ -7,4 +7,4 @@ tags:
 
 The Koi Carp (*Cyprinus rubrofuscus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

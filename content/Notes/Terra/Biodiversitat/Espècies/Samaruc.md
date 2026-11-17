@@ -5,7 +5,7 @@ tags:
 
 El samaruc (*Valencia hispanica*) es un peix petit, de fins a 8 cm de longitud, molt sensible als canvis ambientals, 
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 [[Louisiana Bayous]]
 

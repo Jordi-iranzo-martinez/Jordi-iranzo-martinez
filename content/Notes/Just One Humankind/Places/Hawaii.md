@@ -10,3 +10,7 @@ tags:
 
 The Island of [Kauai](https://www.google.com/maps/place/Kauai/@22.0518381,-159.5401414,11z/data=!3m1!4b1!4m6!3m5!1s0x7c0704bb259eb047:0xf6321af5a12d378a!8m2!3d22.0964396!4d-159.5261238!16zL20vMGpic24?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D)
 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=jJ9hQvAx8BJy7Y2m&amp;list=PLZgfkrzWv97rA6dVZauN2IKsVSo0hip6j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

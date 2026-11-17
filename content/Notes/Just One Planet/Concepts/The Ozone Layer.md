@@ -35,6 +35,8 @@ The ozone layer is a thin, protective shield of gas located in the Earth's strat
 
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CaLOiGEDPJQ?si=aB1Ql94LySOG-lLt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ![[Web/content/Visual/Pasted image 20250615213734.png]]
 
 

@@ -9,6 +9,7 @@ Chandragupta Maurya alineaba ejércitos con **miles de elefantes de guerra**
 
 El símbolo que luego usó Hitler
 
+[[Indian Elephant]]
 
 kammakara (Indian labourer)
 

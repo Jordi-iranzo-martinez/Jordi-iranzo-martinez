@@ -6,4 +6,4 @@ tags:
 
 The Pacific Regal Blue Tang (*Paracanthurus hepatus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

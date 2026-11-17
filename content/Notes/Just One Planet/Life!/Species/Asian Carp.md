@@ -6,4 +6,4 @@ tags:
 
 The Asian Carp (family Cyprinidae)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

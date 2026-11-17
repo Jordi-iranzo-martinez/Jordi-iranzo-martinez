@@ -6,4 +6,4 @@ tags:
 
 The Largemouth Bass (Micropterus salmoides)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

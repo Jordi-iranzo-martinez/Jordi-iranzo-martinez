@@ -7,7 +7,7 @@ year: "2009"
 Invictus (C. Eastwood, 2009)
 
 
-[[Mandela]]
+[[NelsonMandela]]
 
 
 

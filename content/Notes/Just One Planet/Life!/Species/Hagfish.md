@@ -1,7 +1,7 @@
 
 Hagfish
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 
 

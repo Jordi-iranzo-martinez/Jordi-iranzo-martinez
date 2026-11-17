@@ -8,7 +8,7 @@ tags:
 ### Plants taxonomy
 
 - [[Bryophyta]]
-- [[Pteridóphyta]]
+- [[Pteridophyta]]
 - [[Gimnosperms]]
 - [[Angiosperms]] (Magnoliophyta)
 

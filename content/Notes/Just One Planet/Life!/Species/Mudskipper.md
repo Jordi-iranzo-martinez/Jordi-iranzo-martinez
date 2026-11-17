@@ -4,7 +4,7 @@ The mudskipper (subfamily Oxudercinae) is an amphibious fish that can spend up t
 Found in tropical, subtropical, and temperate regions across the Indo-Pacific and Atlantic coasts of [[Web/content/Notes/Just One Planet/Audiovisual/Documentaries/Africa]], it is globally famous for its ability to walk, skip, and climb on land.
 
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 [[Coast Ecosystem]]
 

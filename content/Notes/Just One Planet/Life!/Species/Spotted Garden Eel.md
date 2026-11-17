@@ -6,5 +6,5 @@ tags:
 
 The Spotted Garden Eel (*Heteroconger hassi*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 

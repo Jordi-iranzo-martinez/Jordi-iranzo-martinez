@@ -1,7 +1,7 @@
 
 *Aristostomias scintillans*
 
-[[Deep Ocean]] [[Fishes]]
+[[Deep Ocean]] [[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 
 

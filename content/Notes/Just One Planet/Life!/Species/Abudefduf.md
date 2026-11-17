@@ -6,4 +6,4 @@ tags:
 
 The Abudefduf (*Abudefduf saxatilis*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

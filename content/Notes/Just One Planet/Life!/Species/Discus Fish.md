@@ -8,5 +8,5 @@ The discus fish (genus Symphysodon) is unanimously considered the "King of the A
 
 
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 

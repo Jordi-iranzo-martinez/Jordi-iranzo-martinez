@@ -6,4 +6,4 @@ tags:
 
 The Weedy Seadragon (*Phyllopteryx taeniolatus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

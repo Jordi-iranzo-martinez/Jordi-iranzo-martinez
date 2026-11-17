@@ -5,7 +5,7 @@ tags:
 
 Chimaeras
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 Pointy-nosed blue ratfish (*Hydrolagus trolli*)
 

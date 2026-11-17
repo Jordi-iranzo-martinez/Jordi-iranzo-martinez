@@ -6,4 +6,4 @@ tags:
 
 The Wels Catfish (Silurus glanis)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

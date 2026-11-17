@@ -4,8 +4,7 @@ tags:
 author: Abel Meeropol
 year: "1939"
 ---
-
-The song was not written by an African American jazz musician, but by a Jewish schoolteacher from the Bronx named Abel Meeropol (writing under the pseudonym _Lewis Allan_), who saw the photograph [[Lynching of Thomas Shipp and Abram Smith (L. Beitler, 1930)]] and thought about the poem Bitter Fruit.
+The Jewish schoolteacher from the Bronx Abel Meeropol (writing under the pseudonym _Lewis Allan_), who saw the photograph [[Lynching of Thomas Shipp and Abram Smith]] and thought about the poem Bitter Fruit.
 
 The track is a lyrical masterpiece due to its brutal contrast between the idyllic imagery of pastoral Southern nature and the terror of racial violence. The entire song hinges on a devastating metaphor: the bodies of lynched Black Americans hanging from trees are the "strange fruit" of the South.
 

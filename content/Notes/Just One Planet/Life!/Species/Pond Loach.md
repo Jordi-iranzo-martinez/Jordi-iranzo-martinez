@@ -6,5 +6,5 @@ tags:
 
 The Pond Loach (*Misgurnus anguillicaudatus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 

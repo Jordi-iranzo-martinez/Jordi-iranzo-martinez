@@ -6,4 +6,4 @@ tags:
 
 The Moorish Idol (*Zanclus cornutus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

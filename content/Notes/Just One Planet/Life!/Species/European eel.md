@@ -2,7 +2,7 @@
 
 La anguila europea (*Anguila anguila*) es un pez viscoso y alargado que realiza uno de los viajes más fascinantes del mundo animal: un desplazamiento de 5.000-8.000 Km desde los ríos y humedales de Europa hasta el centro occidental del Océano Atlántico.
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 
 

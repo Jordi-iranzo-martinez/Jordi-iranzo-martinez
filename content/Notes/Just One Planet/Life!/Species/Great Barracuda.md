@@ -6,4 +6,4 @@ tags:
 
 The Great Barracuda (*Sphyraena barracuda*) i
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

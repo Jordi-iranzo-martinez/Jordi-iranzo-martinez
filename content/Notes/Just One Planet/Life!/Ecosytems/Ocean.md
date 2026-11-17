@@ -5,10 +5,18 @@ tags:
 
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p4pWafuvdrY?si=-mWChKjggLAqUnWG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/088FIx4Iiw4?si=JeaZrM8LA0rFvofJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/sylvia_earle_my_wish_protect_our_oceans" width="1024px" height="576px" title="My wish: Protect our oceans" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen webkitallowfullscreen mozallowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
 
 
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=EN25tSu4eG50hAav&amp;list=PLZgfkrzWv97pXlpVIBAVul3cqO0jr3os_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 https://nautiluslive.org/

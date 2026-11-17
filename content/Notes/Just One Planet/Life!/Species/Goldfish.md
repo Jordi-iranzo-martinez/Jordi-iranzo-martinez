@@ -6,4 +6,4 @@ tags:
 
 The goldfish (*Carassius auratus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

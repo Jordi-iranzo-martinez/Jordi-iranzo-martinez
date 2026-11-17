@@ -6,4 +6,4 @@ tags:
 
 The Flounder ()
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

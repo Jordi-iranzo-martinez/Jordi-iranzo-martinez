@@ -6,4 +6,4 @@ tags:
 
 The Kissing Gourami (*Helostoma temminckii*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

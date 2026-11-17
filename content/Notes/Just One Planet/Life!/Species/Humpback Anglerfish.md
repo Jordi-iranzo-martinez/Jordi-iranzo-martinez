@@ -6,4 +6,4 @@ tags:
 
 The Humpback Anglerfish (*Melanocetus johnsonii*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

@@ -6,7 +6,7 @@ tags:
 
 Piranhas (family Serrasalmidae)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 
 

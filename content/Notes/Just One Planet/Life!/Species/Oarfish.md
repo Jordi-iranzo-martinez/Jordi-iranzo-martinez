@@ -6,7 +6,7 @@ tags:
 
 The Oarfish (*Regalecus glesne*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 
 

@@ -22,3 +22,16 @@ tags:
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T1uctvvypPE?si=1nQ2KntJ0Qo366lI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C6cX0wQP5NA?si=H33TMWrFrTkvnHmy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VjTXa7K1N_w?si=MdbGczILqHirXAUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QYnijHL4UA8?si=tpx4_nqwABYtB9U5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

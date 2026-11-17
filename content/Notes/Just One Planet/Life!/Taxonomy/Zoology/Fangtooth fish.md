@@ -10,7 +10,7 @@ It holds the terrifying distinction of having the largest teeth of any marine an
 
 
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 [[Deep Ocean]]
 

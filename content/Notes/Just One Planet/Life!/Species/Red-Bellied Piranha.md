@@ -6,5 +6,5 @@ tags:
 
 The Red-Bellied Piranha (Pygocentrus nattereri)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 

@@ -6,4 +6,4 @@ tags:
 
 The Pink Skunk Clownfish (*Amphiprion akallopisos*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

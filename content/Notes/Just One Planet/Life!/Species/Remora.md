@@ -1,4 +1,4 @@
 
 The Remora (family Echeneidae)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

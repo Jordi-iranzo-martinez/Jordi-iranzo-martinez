@@ -6,4 +6,4 @@ tags:
 
 The Channel Catfish (*Ictalurus punctatus*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]

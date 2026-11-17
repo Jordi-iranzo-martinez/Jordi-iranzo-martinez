@@ -2,7 +2,7 @@
 tags:
   - Just_One_Humankind
 ---
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 
 
@@ -21,3 +21,12 @@ tags:
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nic4JKD88Kg?si=Eo3IjpkRJ-0KVXYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+All hark pecie
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=gr_jFKY-Vy5Jlhaq&amp;list=PLZgfkrzWv97q8IVXGn9lS7VQJzD5PcbMD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

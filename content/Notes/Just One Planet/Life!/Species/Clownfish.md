@@ -6,7 +6,7 @@ tags:
 
 The Clownfish (*Amphiprion ocellaris*)
 
-[[Fishes]]
+[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
 
 [[Pacific Ocean]]
 
