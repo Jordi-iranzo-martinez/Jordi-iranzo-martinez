@@ -9,9 +9,7 @@ Ankylosaurus (Ankylosaurus magniventris) is an extinct genus of heavily armored 
 
 As the largest and best-known member of the ankylosaurid family, it is famous for its tank-like bony armor and massive tail club.
 
-[[Reptiles]]
-
-[[Dinosaurs]]
+*[[Reptiles]], [[Dinosaurs]]*
 
 _Ankylosaurus_ was a low-slung, wide-bodied quadrupedal herbivore. It measured 6 to 8 meters (20 to 26 feet) long, stood roughly **1.7 meters (5.6 feet) tall** at the hips, and weighed between 4.5 and 8 metric tons.
 

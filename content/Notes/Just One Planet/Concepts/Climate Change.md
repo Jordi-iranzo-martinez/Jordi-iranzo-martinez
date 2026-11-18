@@ -2,7 +2,7 @@
 title: The Climate
 subtitle: A world energy distortion
 ---
-Climate change refers to long-term shifts in global temperatures and weather patterns, primarily driven by human activities since the 1800s. The burning of fossil fuels (like coal, oil, and gas) releases greenhouse gases that trap heat in the Earth's atmosphere, raising global average temperatures by approximately 1.2°C to 1.3°C above pre-industrial levels as of 2026.
+*Climate* change refers to long-term shifts in global temperatures and weather patterns, primarily driven by human activities since the 1800s. The burning of fossil fuels (like coal, oil, and gas) releases greenhouse gases that trap heat in the Earth's atmosphere, raising global average temperatures by approximately 1.2°C to 1.3°C above pre-industrial levels as of 2026.
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G4H1N_yXBiA?si=h-aUGA4xHotUfS12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

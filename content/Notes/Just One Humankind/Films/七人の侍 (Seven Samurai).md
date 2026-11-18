@@ -1,9 +1,9 @@
 ---
 tags:
   - Just_One_Humankind
+direction: 黒澤 明 (Akira Kurosawa)
+year: "1954"
 ---
-
- 
 七人の侍 (Seven Samurai) (A. Kurosawa, 1954) está ambientada en 1587, durante el Japón feudal del periodo Sengoku (estados en guerra de Japón).
 
 

@@ -3,12 +3,11 @@ tags:
   - Just_One_Planet
   - Harry_Potter
 ---
-
 The Great Grey Owl (*Strix nebulosa*) is the world's largest species of owl by length, native to the dense boreal forests of the Northern Hemisphere.
 
 Often called the "Phantom of the North," it is famous for its massive round facial disc, piercing yellow eyes, and extraordinary ability to hunt rodents hidden deep beneath winter snow.
 
-[[Birds]]
+*[[Birds]]*
 
 Adults measure 60 to 84 cm (24 to 33 inches) in length with a wingspan averaging 140 to 152 cm (4.5 to 5 feet). Despite this imposing frame, it weighs only about 0.8 to 1.7 kg (1.8 to 3.7 lbs)—less than a great horned owl or snowy owl—because almost all of its bulk consists of thick, fluffy feathers and a long tail.
 

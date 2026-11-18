@@ -1,15 +1,44 @@
 
+Soil is the loose, biologically active upper layer of Earth's crust that supports plant life and terrestrial ecosystems. Far more than simple "dirt," it is a dynamic mixture of weathered rock minerals, decaying organic matter, water, air, and billions of living microorganisms.
 
-Soil is
+Main Components of Healthy Soil
+
+- **Mineral Particles** (45%). Derived from broken-down bedrock over thousands of years, these come in three main sizes: sand (largest, provides drainage), silt (medium, holds moisture and nutrients), and clay (smallest, retains water and minerals tightly).
+
+- **Water and Air** (50%). Roughly half of healthy soil consists of tiny pore spaces filled with water and gases, which allow plant roots and soil organisms to breathe and absorb nutrients.
+
+- **Organic Matter** (5%). Known as humus when fully decomposed, this dark, spongy material comes from dead plants, animals, and microbes, acting like a sponge to hold moisture and slowly release nutrients.
+
+If you dig down into the ground, soil is organized into distinct horizontal layers called horizons:
+
+- **O Horizon** (Organic). The surface layer made of fallen leaves, twigs, and decomposing plant material.
+
+- **A Horizon** (Topsoil). The dark, nutrient-rich upper layer where most plant roots, earthworms, and microorganisms live.
+
+- **B Horizon** (Subsoil). A denser, lighter-colored layer rich in clay and minerals leached down from the topsoil above.
+
+- **C Horizon** (Parent Material). Partially weathered rock fragments that serve as the geological base from which the upper soil formed.
+
+Why Soil Is Essential
+
+- **Food and Plant Growth**. It anchors roots and supplies the water and essential nutrients (such as nitrogen, phosphorus, and potassium) needed for nearly all terrestrial agriculture and forests.
+
+	[[Food]], [[Plants]]
+
+- **Water Filtration**. As rainwater filters through soil layers, pollutants and sediments are trapped, purifying groundwater reserves.
+
+- **Carbon Storage**. Healthy soils store more carbon than Earth's atmosphere and all terrestrial plant life combined, making soil conservation vital for regulating the global climate. 
+
+	*[[Carbon cycle]], [[Web/content/Notes/Just One Planet/Concepts/Climate Change|Climate Change]]*
+
+- **[[Biodiversity]] Hub.** A single teaspoon of healthy topsoil can contain more microorganisms (bacteria, fungi, protozoa, and nematodes) than there are humans on Earth.
+
+- **Pollution**
+
+	[[Pollution, chemicals and Waste]]
 
 
-
-
-
-
-
-
-### Soil Taxonomy
+**Soil Taxonomy**
 
 by the [[FAO]] and the [International Union of Soil Sciences](https://www.iuss.org/) (IUSS) 
 

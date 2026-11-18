@@ -3,7 +3,24 @@ tags:
   - Consulta_Natura
 ---
 
-La **[Nacra común](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/pinnanobilis_tcm30-483584.pdf)** (*Pinna nobilis*)
+La [nacra común](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/conservacion-de-especies/pinnanobilis_tcm30-483584.pdf) (*Pinna nobilis*) es el molusco bivalvo endémico más grande del mar Mediterráneo y uno de los mayores del mundo. Puede alcanzar hasta 120 centímetros de longitud y superar los 40 o 50 años de vida, aunque hoy se encuentra en peligro crítico de extinción.
+
+Presenta dos valvas triangulares, finas y frágiles en forma de cuña, de color pardo o terroso y con escamas en su superficie externa.
+
+Vive enterrada verticalmente hasta un tercio de su tamaño en el sedimento. Se sujeta mediante un haz de filamentos sedosos muy resistentes llamado biso.
+
+Actúa como un potente organismo filtrador de fitoplancton y materia orgánica en suspensión. Un ejemplar adulto filtra miles de litros de agua al día, mejorando su transparencia y ofreciendo refugio sobre su concha a decenas de invertebrados y algas.
+
+Habita en fondos blandos de aguas poco profundas (desde la superficie hasta unos 40 metros), asociada principalmente a praderas de fanerógamas marinas como _Posidonia oceanica_ y _Cymodocea nodosa_.
+
+Tras desaparecer casi por completo en aguas abiertas, sus principales poblaciones supervivientes en España se concentran en ambientes lagunares o semicerrados como el Delta del Ebro y el Mar Menor.
+
+Desde otoño de 2016, un evento de mortalidad masiva provocado principalmente por el protozoo parásito _Haplosporidium pinnae_ ha acabado con cerca del 100 % de las poblaciones en el Mediterráneo abierto.
+
+La especie también sufre por el fondeo incontrolado de embarcaciones, la pesca de arrastre, la contaminación costera y la extracción ilegal de sus conchas.
+
+En España figura catalogada En Peligro de Extinción y declarada en situación crítica. Existen proyectos científicos y planes de recuperación activos (como [LIFE Pinnacare](https://www.google.com/goto?url=CAES9wEBxCJF19tgoQQsXqxGK0lFuZxXi9cmDMSLlp9Eb1mZVryEbBQYO81LK0XaeftykTfqX2CqUAyZaLMbeZoLrZ8E5p3IMCcpSiEKKgnJiwexzWtXI585TsBAtEiy_O0CiBrkq5zbISDSmlUuddHkZtNCHPbSclld0N1AfO2z7w6eQxpfGIi5XRSlSYkku2cGdOiEg43XRCyxyLbj_aLNbYj7wNttvi1ICgCtWlxnBynVX3xcqGozYdnhGWkxh5nORUhnBAf8LY1sJ20IOENrcmkJiQQ5gRujstQgDZ9fmKTOgJNTt0oWJktAIdL3_D_fpB_xNW3SW8zU) y el seguimiento de [Observadores del Mar](https://www.google.com/goto?url=CAESagHEIkXXYuW6pbRtuFCQfSTjgnKPwFX5AVPBQbY90xeiJMCjda9yw6s04BgN70Nw_GSJwArpSiZ_UKfRC6NnDeMLV-DLdAE5td6qCR4XYUbpf_AVRf1eHt_JGft92YAaBLKE8xO272DyHmE)) enfocados en proteger los santuarios naturales y lograr su reproducción en cautividad.
+
 
 Este bivalvo gigante, exclusivo del mar Mediterráneo, sufrió una mortalidad masiva y catastrófica que rozó el 99% de sus ejemplares debido a la fulminante propagación de un parásito protozoo (_Haplosporidium pinnae_). Prácticamente todas sus poblaciones costeras ibéricas fueron erradicadas en pocos años.
 

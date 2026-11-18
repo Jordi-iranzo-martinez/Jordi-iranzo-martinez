@@ -2,12 +2,36 @@
 tags:
   - Consulta_Natura
 ---
+La educación ambiental es un proceso de aprendizaje permanente que busca sensibilizar, formar y capacitar a las personas para que comprendan las relaciones entre los seres humanos y la naturaleza, promoviendo hábitos y decisiones responsables que protejan el entorno y aseguren un desarrollo sostenible.
 
-La educación ambiental es una corriente de pensamiento orientada al desarrollo sostenible de individuos y grupos sociales. Valores, comportamientos...
+Objetivos principales
+
+- **Conciencia y sensibilidad**. Ayudar a las personas y grupos sociales a adquirir mayor sensibilidad y conciencia sobre el medio ambiente y sus problemas asociados.
+
+- **Conocimiento y comprensión**. Facilitar una comprensión básica del funcionamiento de los ecosistemas, la biodiversidad y el impacto de las actividades humanas (como el cambio climático o la contaminación).
+
+- **Actitudes y valores**. Fomentar valores sociales, empatía por la naturaleza y una motivación real para participar activamente en su protección y mejora.
+
+- **Aptitudes y participación**. Desarrollar habilidades prácticas para identificar y resolver problemas ambientales, impulsando la participación ciudadana en proyectos ecológicos y políticas públicas.
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hYOy6grpqoY?si=jNpj-turF6RAabAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Ámbitos de aplicación
 
+- **Educación formal**. Se integra en los currículos escolares, institutos y universidades mediante asignaturas específicas, proyectos transversales y huertos escolares.
+
+- **Educación no formal**. Se desarrolla fuera del sistema educativo reglado a través de talleres en centros de interpretación de la naturaleza, campamentos, actividades de voluntariado y programas municipales.
+
+- **Educación informal**. Ocurre en la vida cotidiana mediante campañas de sensibilización, documentales, museos de ciencias, redes sociales y el ejemplo dentro del entorno familiar.
+
+Beneficios clave
+
+- **Fomenta el pensamiento crítico**. Permite analizar el impacto real de nuestros patrones de consumo y producción antes de tomar decisiones.
+
+- **Impulsa la acción local**. Conecta problemas globales (como la pérdida de biodiversidad) con soluciones cercanas, como el reciclaje, el ahorro energético o el cuidado de espacios naturales locales.
+
+- **Construye resiliencia**. Prepara a las comunidades para adaptarse a los retos ambientales actuales y futuros de forma colaborativa.
 
   - [Catálogo de especies marinas y su estado de conservación](https://cram.org/catalogo-de-especies/)
 

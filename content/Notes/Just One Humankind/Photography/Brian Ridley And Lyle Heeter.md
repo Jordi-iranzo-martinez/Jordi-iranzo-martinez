@@ -1,3 +1,6 @@
+---
+year: "1979"
+---
 
 ![[Web/content/Visual/Pasted image 20260823185953.png|491x493]]
 

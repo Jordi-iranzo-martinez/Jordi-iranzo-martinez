@@ -1,11 +1,13 @@
 
 Diatoms are a massive group of single-celled, photosynthetic microalgae belonging to the phylum Bacillariophyta.
 
-[[Algae]]
+*[[Algae]]*
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vpo7PJyFQlM?si=OGF4MGueBMgKwT3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 They are found in almost every aquatic environment on Earth, from open oceans and freshwater lakes to damp soils and wet stone walls.
 
-[[Wetlands]]
+*[[Wetlands]]*
 
 They are globally unique because they construct a magnificent, microscopic outer skeleton made entirely of pure glass (silica).
 

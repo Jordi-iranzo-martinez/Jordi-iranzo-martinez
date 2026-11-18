@@ -14,7 +14,8 @@ Despite looking like towering underwater plants, kelp are actually protists (str
 
 - **Fastest-Growing Marine Organism.** Under ideal conditions with cold, nutrient-rich upwelling water and abundant sunlight, giant kelp (_Macrocystis pyrifera_) can grow up to 60 cm (2 feet) in a single day, reaching towering heights of 45 meters (150 feet) or more.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F3kyMtv-iIA?si=KxHfIF-81CdN7Loe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1j_9rrUvQ-Q?si=O3M_cfTxtM3nbBYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Kelp forests thrive in temperate and polar coastal waters (such as the [[Pacific]] coast of [[North America]] and [[South America]], [[South Africa]], southern [[Australia]], and northern [[Europe]]), providing food and shelter for thousands of marine species—including sea otters, seals, sea lions, rockfish, abalone, crabs, and migrating whales.
 
@@ -24,4 +25,4 @@ Kelp forests are famously vulnerable to overgrazing by sea urchins. When keyston
 
 *[[Echinodermata]]*
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F3kyMtv-iIA?si=KxHfIF-81CdN7Loe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

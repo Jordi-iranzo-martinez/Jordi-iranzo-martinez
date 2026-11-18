@@ -11,7 +11,7 @@ tags:
 
 [[Acció Ecologista-AGRÓ]] i [[SEO-Birdlife]]
 
-[[Arroç]] a l'[[Albufera de Valencia]]
+[[Arròs]] a l'[[Albufera de Valencia]]
 
 [[Humedales]]
 

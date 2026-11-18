@@ -5,11 +5,11 @@ tags:
 
 Los humedales son ecosistemas que contienen agua.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lJMQXEQg7so?si=8jukHWLLL6IZJDgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 España cuenta con al menos 2.000 humedales. La mayor parte son continentales (92%), pero en general son pequeños, suponiendo alrededor de un 14% del total. Por el contrario, las zonas húmedas costeras son escasas en número, pero grandes en superficie.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Lvzy7ICcCU?si=EXs2IS-bP3jFfTVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 
 Entre los de interior (continentales), los de agua dulce son los más numerosos (46%), aunque únicamente representan el 2% de la superficie húmeda total.
 

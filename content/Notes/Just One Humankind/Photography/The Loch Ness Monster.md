@@ -2,6 +2,7 @@
 tags:
   - Just_One_Planet
   - Just_One_Humankind
+year: "1934"
 ---
 ![[Web/content/Visual/photography_ness-lake-monster.png|509x377]]
 

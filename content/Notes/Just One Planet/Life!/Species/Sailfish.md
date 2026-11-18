@@ -1,9 +1,7 @@
 
-The sailfish (*Istiophorus platypterus*)
+The sailfish (*Istiophorus platypterus*) is a large, fast-swimming ocean predator easily recognized by its massive dorsal fin and spear-like bill. It belongs to the billfish family (Istiophoridae), making it a close relative of marlins and swordfish.
 
-[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
-
-[[Ocean]]
+*[[Web/content/Notes/Just One Planet/Life!/Taxonomy/Zoology/Fishes|Fishes]], [[Ocean]]*
 
 
 

@@ -3,6 +3,8 @@ Bryophyta (commonly known as mosses) is a division of small, non-vascular land p
 
 With over 12,000 known species, they are among the earliest lineages of plants to colonize land and play a crucial role in regulating moisture and preventing soil erosion across global ecosystems.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ihj3UfSxRqA?si=wkyo8xPyGWy5rTLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Because they lack specialized water-conducting tubes, mosses absorb water and nutrients directly through their thin, leaf-like surfaces. This restricts them to a small, low-growing size—typically 1 to 10 cm (0.4 to 4 inches) tall—and keeps them largely dependent on damp, shaded environments.
 
 Mosses anchor themselves to soil, rocks, or tree bark using hair-like filaments called rhizoids. Unlike true roots, rhizoids serve purely for attachment rather than absorbing water or nutrients from deep underground.

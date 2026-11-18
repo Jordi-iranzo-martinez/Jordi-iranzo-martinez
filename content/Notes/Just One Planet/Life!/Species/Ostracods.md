@@ -3,6 +3,8 @@ Ostracods (class Ostracoda, commonly known as seed shrimp) are a large, ancient 
 
 *[[Crustacea]]*
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9wLcTs3TWr4?si=if7ENFGEJ2X26bks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Typically measuring around 1 millimeter in length—though ranging from 0.2 mm to the deep-sea giant Gigantocypris at over 30 mm—they inhabit nearly every aquatic environment on Earth, including oceans, freshwater lakes, ponds, temporary puddles, and even damp forest litter.
 
 - **Bivalve carapace.** Their entire unsegmented body is protected inside two calcified or chitinous valves connected by a dorsal hinge. When threatened, an adductor muscle snaps the shell tightly shut, making them look like tiny seeds or miniature clams.

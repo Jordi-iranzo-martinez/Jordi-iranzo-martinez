@@ -11,7 +11,7 @@ The Last Samurai (E. Zwick, 2003)
 Saigō Takamori (1828–1877), considerado el verdadero último samurái de la historia.
 
 
-La película narra la Rebelión de Satsuma (1877). Takamori, que inicialmente había ayudado al Emperador Meiji a recuperar el poder, se levantó en armas contra el propio gobierno imperial al ver cómo las reformas modernas despojaban a la casta samurái de sus derechos ancestrales (([[七人の侍 (Seven Samurai) (A. Kurosawa, 1954)]])
+La película narra la Rebelión de Satsuma (1877). Takamori, que inicialmente había ayudado al Emperador Meiji a recuperar el poder, se levantó en armas contra el propio gobierno imperial al ver cómo las reformas modernas despojaban a la casta samurái de sus derechos ancestrales (([[七人の侍 (Seven Samurai)]])
 
 Saigō Takamori y sus rebeldes estaban fuertemente armados con fusiles Enfield, cañones modernos y vestían uniformes de corte occidental. Solo recurrieron a las espadas y a las cargas suicidas al final de la rebelión, cuando se quedaron completamente sin munición ni pólvora en el asedio final de la batalla de Shiroyama.
 
@@ -25,4 +25,4 @@ Su levantamiento en 1877 fue una protesta material porque el nuevo gobierno secu
 
 El Emperador Meiji fue un líder de una personalidad feroz y un estratega astuto. Fue el motor intelectual y político de la Restauración Meiji, la transformación más rápida y radical de la historia de un país.
 
-En apenas 30 años, sacó a Japón del aislamiento feudal de la Edad Media ([[七人の侍 (Seven Samurai) (A. Kurosawa, 1954)]]) y lo convirtió en una superpotencia industrial, científica y militar capaz de derrotar a imperios occidentales a principios del siglo XX.
+En apenas 30 años, sacó a Japón del aislamiento feudal de la Edad Media ([[七人の侍 (Seven Samurai)]]) y lo convirtió en una superpotencia industrial, científica y militar capaz de derrotar a imperios occidentales a principios del siglo XX.
