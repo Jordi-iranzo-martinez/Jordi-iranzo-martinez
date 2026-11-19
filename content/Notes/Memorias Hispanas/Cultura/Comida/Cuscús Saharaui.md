@@ -26,3 +26,5 @@ Preparación tradicional
 El cuscús saharaui es un símbolo de hospitalidad y celebración familiar. Se sirve en una gran fuente redonda colectiva (*gasaa*) colocando una montaña de sémola en la base, la carne en el centro y regando todo con el caldo caliente.
 
 Tradicionalmente se come sentado en el suelo sobre alfombras, compartiendo todos de la misma fuente y utilizando únicamente la mano derecha (formando pequeñas bolitas con los dedos) o una cuchara, acompañado después por el ritual de los tres tés saharauis con hierbabuena.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5SJw52LJQEM?si=QyvS207rQ9NPdY57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,10 +7,10 @@ La reforma constitucional (título X) supone su modificación.
 
 Están autorizados para iniciarla los siguientes órganos:
 
-- **Congreso de los Diputados**
-- **Senado**
-- **Gobierno**
-- **Asambleas legislativas de las Comunidades Autónomas**
+- **[[Congreso de los Diputados]]**
+- **[[Senado]]**
+- **[[Gobierno]]**
+- **Asambleas legislativas de las [[Comunidades Autónomas]]**
 
 Para ello, existen dos procedimientos, según las partes que se pretenden revisar: 
 
