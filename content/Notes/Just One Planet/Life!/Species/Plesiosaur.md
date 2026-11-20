@@ -21,6 +21,8 @@ All plesiosaurs shared a distinct body plan unlike any living marine animal toda
 
 - **Smooth skin**. Fossilized soft tissue reveals they had smooth, scaleless skin on their bodies (similar to leatherback sea turtles) paired with small scales on the edges of their flippers to improve hydrodynamics.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b80H0GS3sbQ?si=lYOq-dE2RUpxfvZn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Plesiosaurs evolved into two classic evolutionary forms:
 
 - **Long-necked plesiosauromorphs** (e.g., *Plesiosaurus*, *Elasmosaurus*). These had tiny heads, conical interlocking teeth, and extraordinarily long necks—with *Elasmosaurus* possessing up to 72 neck vertebrae (compared to just seven in humans and giraffes). They likely used their long necks to sneak their small heads into schools of fish and squid without alerting prey.
