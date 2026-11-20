@@ -29,4 +29,5 @@ Es fundamental dejar reposar el guiso fuera del fuego durante al menos una hora 
 
 Se sirve muy caliente, habitualmente presentando en el plato las fabes con su caldo espeso acompañadas de una ración del compango troceado (o sirviendo las carnes en una fuente aparte en el centro de la mesa), junto con buen pan de hogaza y sidra natural asturiana escanciada o un vino tinto con cuerpo.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7ifPER6cCpE?si=NnBe4pkJrWBFrBfG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U6-DlyxeXto?si=2KbPcXMELOo2ad-v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

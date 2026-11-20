@@ -1,5 +1,5 @@
 
-El marmitako (en euskera, literalmente «de la marmita») es un guiso tradicional de pescado originario de la gastronomía del **País Vasco** y de toda la cornisa cantábrica.
+El marmitako (en euskera, literalmente «de la marmita») es un guiso tradicional de pescado originario de la gastronomía del [[País Vasco]] y de toda la cornisa cantábrica.
 
 Se elabora a base de bonito del norte (_Thunnus alalunga_) cortado en dados y cocinado con patatas, cebolla, pimiento verde, pimiento choricero y tomate en un caldo de pescado.
 
@@ -15,11 +15,13 @@ Ingredientes y secreto de elaboración
 
 - **El sofrito y el pimiento choricero.** Lleva un fondo de cebolla, ajo, pimiento verde, tomate maduro y la pulpa hidratada de pimiento choricero, que le otorga su color rojizo característico y su sabor profundo y ligeramente dulce.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X8FSXh-ywDM?si=x86hf0JgaYgyglpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VB6s5pWrmdE?si=WudLZc3UU7fGzzOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Receta de Karlos Arguiñano: https://www.youtube.com/watch?v=X8FSXh-ywDM
+
 
 Variantes actuales
 
-- **Marmitako de salmón o atún.** Muy habituales cuando no es temporada de bonito fresco en verano.
+- **Marmitako de salmón o atún**. Muy habituales cuando no es temporada de bonito fresco en verano.
 
-- **Marmitako de chipirones o verdel.** Versiones marineras alternativas que mantienen la misma base de patata y pimiento choricero.
+- **Marmitako de chipirones o verdel**. Versiones marineras alternativas que mantienen la misma base de patata y pimiento choricero.
 

@@ -1,5 +1,7 @@
 
-El cuscús saharaui es el plato más emblemático y tradicional de la gastronomía del Sáhara Occidental y de la cultura nomádica hassanía.
+El cuscús saharaui es el plato más emblemático y tradicional de la gastronomía del [[Sáhara Occidental]] y de la cultura nomádica hassanía.
+
+*[[Web/content/Notes/Memorias Hispanas/Pueblos y civilizaciones/Saharauis|Saharauis]]*
 
 A diferencia del cuscús del norte de África (como el marroquí o el argelino), que suele llevar una gran variedad de verduras y especias dulces, la versión saharaui es mucho más sobria, contundente y centrada en la carne, adaptada históricamente a la escasez de agua y cultivos frescos en el desierto.
 

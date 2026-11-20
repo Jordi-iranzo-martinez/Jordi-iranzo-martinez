@@ -15,12 +15,6 @@ Antes de la llegada del tomate y el pimiento desde América tras el siglo XV, lo
 
 La incorporación del tomate rojo y el pimiento dio lugar al gazpacho actual a partir de los siglos XVIII y XIX, pasando de ser un alimento humilde de jornaleros a un icono internacional de la dieta mediterránea.
 
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/COjwToArWhc?si=hZwI5PuCApfX30zy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M5m0kCRU3TU?si=7uiZ5vuez4NbB_5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -1,5 +1,5 @@
 
-Las **torrijas** son uno de los dulces más tradicionales y emblemáticos de la gastronomía española, especialmente vinculadas a la época de Cuaresma y [[Semana Santa]]. 
+Las torrijas son uno de los dulces más tradicionales y emblemáticos de la gastronomía española, especialmente vinculadas a la época de Cuaresma y [[Semana Santa]]. 
 
 *([[España]])*
 

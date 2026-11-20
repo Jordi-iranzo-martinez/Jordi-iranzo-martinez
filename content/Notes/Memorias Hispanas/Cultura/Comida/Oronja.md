@@ -1,7 +1,7 @@
 
 La oronja (Amanita caesarea), conocida también como amanita de los césares, huevo de rey, ou de reig (en catalán) o gorringo (en euskera), es considerada la seta comestible más apreciada y lujosa de la gastronomía mediterránea. 
 
-*[[[Fungi]]*
+*[[Fungi]]*
 
 Recibe su nombre porque era el manjar predilecto de los emperadores romanos, quienes la llamaban *boletus* o *cibus deorum* ("alimento de los dioses").
 
