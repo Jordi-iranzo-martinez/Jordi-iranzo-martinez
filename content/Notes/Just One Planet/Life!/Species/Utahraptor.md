@@ -20,7 +20,8 @@ Although direct feather impressions have not yet been found with _Utahraptor_ fo
 
 Equipped with serrated, blade-like teeth and powerful grasping hands, Utahraptor was the dominant predator of the Cedar Mountain Formation ecosystem. It likely preyed on armored ankylosaurs (Gastonia), iguanodonts (Hippodraco), and young sauropods.
 
-*In 2001, paleontologists discovered a massive 9-ton sandstone block in Utah containing the articulated skeletons of at least a dozen Utahraptor individuals of varying ages—ranging from juveniles to a large adult—alongside an herbivorous iguanodont. This "predator trap" suggests they either hunted cooperatively in social groups or gathered to scavenge a trapped herbivore before getting stuck in quicksand themselves.*
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ka1jcfmtOWg?si=p053GkSS6jLeKhrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+In 2001, paleontologists discovered a massive 9-ton sandstone block in Utah containing the articulated skeletons of at least a dozen Utahraptor individuals of varying ages—ranging from juveniles to a large adult—alongside an herbivorous iguanodont. 
+
+This "predator trap" suggests they either hunted cooperatively in social groups or gathered to scavenge a trapped herbivore before getting stuck in quicksand themselves.

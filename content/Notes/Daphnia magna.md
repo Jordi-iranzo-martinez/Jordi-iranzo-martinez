@@ -1,7 +1,0 @@
-
-Daphnia magna
-
-*[[Crustacea]]*
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A4TRXFGV8Bg?si=E5fI5UENHw6q1WjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-

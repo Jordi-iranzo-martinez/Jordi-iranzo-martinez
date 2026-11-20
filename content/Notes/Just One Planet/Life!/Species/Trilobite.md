@@ -8,8 +8,11 @@ Trilobite (from three lobes)
 Trilobites are an extinct class of marine arthropods that dominated the planet's oceans throughout the [[Paleozoic]] Era, from the early [[Cambrian]] to the late [[Permian]] period (approximately 521 to 252 million years ago).
 
 From top to bottom, their segments are organized into three primary specialized parts:
+
 - **Cephalon**: The head shield, which housed the stomach, primitive brain, and sensory organs.
+
 - **Thorax**: A flexible, articulated midsection made of multiple jointed segments. This allowed most species to roll into a tight, defensive ball (enrollment) to protect their vulnerable, soft bellies from predators, much like modern pill bugs.
+
 - **Pygidium**: The tail shield, formed by the fusion of the final rear segments.
 
 Trilobites were among the first animals on Earth to evolve complex, compound eyes. Remarkably, their lenses were not made of soft organic tissue, but rather of pure, crystalline calcite (mineral glass), giving them incredible visual clarity underwater.

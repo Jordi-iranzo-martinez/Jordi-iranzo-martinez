@@ -3,10 +3,30 @@ tags:
   - Just_One_Planet
 ---
 
+The Covenant of Mayors for Climate and Energy is the world's largest movement of local and regional governments voluntarily committing to combat climate change and accelerate the sustainable energy transition.
 
-The 
+Launched by the European Commission in 2008 to support the European Union's climate targets, it merged in 2016 with the Compact of Mayors to form the Global Covenant of Mayors for Climate and Energy (GCoM), bringing together over 14,000 cities across roughly 150 countries.
 
-The Covenant of Mayors for Climate & Energy is the largest global movement of local governments voluntarily committed to climate and energy action.
+Core Pillars and Commitments
+
+Under the [EU Covenant of Mayors](https://www.google.com/goto?url=CAESYwHEIkXX5vjqt82GIIXqiwRgfaGPkxYHTqLxVMQNyMgbxHkkazKIUY2WK2DUm7ky7s0xQ50tdo-OP_YhoTJz01bU2_JgBeX6GLdpJNDZKoK8Z5NpSFcURkz62o_TY4eSKulX1g) framework, signatory municipalities commit to three core areas of action:
+
+- **Climate change mitigation**. Cutting greenhouse gas emissions by at least 55% by 2030 (in line with EU targets) and achieving climate neutrality by 2050.
+
+- **Climate adaptation**. Increasing urban resilience against the unavoidable impacts of climate change, such as heatwaves, droughts, and flooding.
+
+- **Energy poverty**. Ensuring universal access to secure, sustainable, and affordable energy for all residents.
+
+To translate political pledges into concrete action, each participating municipality follows a standardized roadmap:
+
+- **Baseline assessment**. The city compiles a Baseline Emission Inventory (BEI) alongside a Climate Risk and Vulnerability Assessment.
+- **Action Plan** (SECAP). Within two years of signing on, the municipality must submit a Sustainable Energy and Climate Action Plan (SECAP) outlining specific policies and projects across key sectors such as buildings, transport, public lighting, and renewable energy.
+
+- **Biennial monitoring**. Signatories submit progress reports every two years to track implementation and measure actual emissions reductions.
+
+Local authorities receive technical assistance and access to EU funding through Covenant Coordinators (such as regional governments and provincial councils) and Supporters.
+
+According to the [Global Covenant of Mayors](https://www.google.com/goto?url=CAESZAHEIkXXBer9D8SpePOqGqM2wleSLMJ_zIhoDc6iy5UTf68za9q1_OjvhUQOTwmjTzdKhIsalDbMTz9znXszAFXf-BwHMEF03aJuo_dykO40e2IKNEJyysDOsfGFjgcu1j-vOi0), the collective targets of participating cities have the potential to cut global emissions by up to 4.8 gigatons of CO₂ equivalent annually by 2050.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7vfA1tB9-bs?si=6nhYhSi9itaq5irF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

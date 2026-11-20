@@ -11,8 +11,6 @@ The toco toucan (*Ramphastos toco*) is the largest and best-known species in the
 *[[Birds]]*
 
 Instantly recognizable by its glossy black plumage, bright white throat, and enormous yellow-orange bill tipped with a black spot, it is an iconic symbol of tropical wildlife.
-
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LhmdVCgVqLM?si=LDAb2OAMvb7TuJ9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Adults measure roughly 55 to 65 cm (22 to 26 inches) in total length and weigh around 500 to 860 grams (1.1 to 1.9 lbs). Their body is jet-black with a vivid white throat bib, blue skin ringing the eyes, white uppertail coverts, and bright red feathers beneath the tail.

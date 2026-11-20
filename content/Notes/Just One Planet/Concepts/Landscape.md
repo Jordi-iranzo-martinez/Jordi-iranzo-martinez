@@ -8,6 +8,9 @@ Geographically and environmentally, landscapes are broadly categorized into thre
 - Transitory & Perceptual Elements
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uetUPdZB-tQ?si=AMBwx8uh2Puydnol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 1. Natural Landscapes
 
 These are areas untouched or minimally impacted by human activity, where natural forces shape the environment.

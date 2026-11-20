@@ -8,7 +8,6 @@ tags:
 
 Discovered primarily in South [[Australia]] and [[Russia]]'s White Sea region, it is one of the most important fossils in paleontology because it represents one of the earliest confirmed bilaterian animals—organisms with a distinct front and back, top and bottom, and mirror-image left and right sides.
 
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M3Z_CslSMWk?si=-YDJQDNkV4erZ-gW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Kimberella had an oval, flattened body measuring up to 15 cm (6 inches) long and 5 to 7 cm wide.
