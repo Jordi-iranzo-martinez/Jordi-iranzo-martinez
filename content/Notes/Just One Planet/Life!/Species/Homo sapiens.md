@@ -1,7 +1,7 @@
 
 *Homo sapiens* (from Latin homo meaning "man" and sapiens meaning "wise") is the only surviving species of the genus Homo and the species to which all modern humans belong.
 
-Emerging in [[Africa]] roughly 300,000 years ago, *Homo sapiens* is distinguished by a highly developed brain, complex symbolic language, and an unmatched capacity for culture, technology, and large-scale social cooperation.
+Emerging in [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]] roughly 300,000 years ago, *Homo sapiens* is distinguished by a highly developed brain, complex symbolic language, and an unmatched capacity for culture, technology, and large-scale social cooperation.
 
 The oldest known *Homo sapiens* fossils come from Jebel Irhoud in Morocco, dated to approximately 315,000 years ago, alongside key early remains in [[Ethiopia]] (Omo Kibish and Herto) dating between 195,000 and 230,000 years ago.
 

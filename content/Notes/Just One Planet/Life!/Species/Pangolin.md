@@ -12,9 +12,11 @@ A pangolin (order Pholidota, family Manidae) is the only mammal in the world who
 Often nicknamed "scaly anteaters" (though they are actually more closely related to carnivores such as dogs, cats, and bears than to true anteaters), pangolins inhabit tropical forests, savannas, and grasslands across sub-Saharan Africa and South and Southeast Asia.
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gz4HXyxcess?si=BN9E6-dIeuNIVWyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [[Mammalia]]
 
-[[Web/content/Notes/Just One Planet/Wonderful Places/Africa|Africa]]
+[[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]]
 
 From head to tail tip, a pangolin's body is shingled with overlapping plates made of keratin—the exact same protein found in human fingernails and rhinoceros horns—which make up roughly 20% of its body weight.
 
@@ -38,7 +40,7 @@ There are eight recognized living species (with genetic research also proposing 
 	- Sunda pangolin (*Manis javanica*)
 	- Philippine pangolin (*Manis culionensis*).
 
-[[Web/content/Notes/Just One Planet/Wonderful Places/Africa|Africa]], [[Asia]], [[India]], [[China]], [[Philippines]]
+[[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]], [[Asia]], [[India]], [[China]], [[Philippines]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QY1qqZiaTU8?si=-Os5REyvZRp0I0rL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -51,3 +53,5 @@ Although curling into a ball protects pangolins from wild predators, it makes th
 Millions of pangolins have been poached over recent decades, driven primarily by illicit demand for their scales in traditional Asian medicine (despite having zero proven medicinal properties) and for their meat, which is considered a luxury delicacy in parts of Asia and a source of bushmeat in Africa.
 
 A single adult pangolin consumes up to 70 million ants and termites per year, acting as a vital natural pest controller and soil aerator in forest and grassland ecosystems.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7oFalhPrdUs?si=Eg_21sTijvOsSeTS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

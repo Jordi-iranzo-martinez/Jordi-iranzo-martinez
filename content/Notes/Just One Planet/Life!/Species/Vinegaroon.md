@@ -21,7 +21,7 @@ When startled or attacked by predators like birds, lizards, or small mammals, a 
 
 While the spray causes severe irritation to a predator's eyes and mucous membranes—and gives off a strong, unmistakable smell of vinegar—it is harmless to humans unless it gets directly into the eyes or an open cut.
 
-Around 120 species exist worldwide, thriving primarily in tropical and subtropical regions of [[Asia]], [[North America]], [[South America]], and parts of [[Africa]].
+Around 120 species exist worldwide, thriving primarily in tropical and subtropical regions of [[Asia]], [[North America]], [[South America]], and parts of [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]].
 
 *The giant vinegaroon (Mastigoproctus giganteus), native to the southern [[United States of America]] and [[Mexico]], can reach up to 8.5 cm (3.3 inches) in body length (excluding the tail).*
 

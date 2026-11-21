@@ -5,7 +5,7 @@ The Okapi (*Okapia johnstoni*)
 
 República Democrática del Congo, en el centro de África
 
-[[Web/content/Notes/Just One Planet/Wonderful Places/Africa|Africa]]
+[[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]]
 
 
 

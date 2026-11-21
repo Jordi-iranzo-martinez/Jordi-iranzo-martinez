@@ -4,7 +4,7 @@ tags:
   - Pokémon
 ---
 
-The African wild dog (*Lycaon pictus*), also known as the painted wolf or Cape hunting dog, is a wild canine native to sub-Saharan [[Africa]].
+The African wild dog (*Lycaon pictus*), also known as the painted wolf or Cape hunting dog, is a wild canine native to sub-Saharan [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]].
 
 *Its Latin name, literally means "painted wolf."*
 
@@ -36,6 +36,6 @@ Rather than relying on stealth or ambush, they hunt in broad daylight (typically
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/82kQTkWnKwg?si=Kf4nl5KWq4zD8jqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Listed as Endangered on the [[International Union for the Conservation of Nature]] Red List, fewer than 6,600 adults remain in the wild today, restricted mostly to fragmented populations in southern and eastern [[Africa]] (such as Botswana, Zimbabwe, [[Namibia]], Zambia, Tanzania, and [[South Africa)]].
+Listed as Endangered on the [[International Union for the Conservation of Nature]] Red List, fewer than 6,600 adults remain in the wild today, restricted mostly to fragmented populations in southern and eastern [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]] (such as Botswana, Zimbabwe, [[Namib Desert]], Zambia, Tanzania, and [[South Africa)]].
 
 Because packs require massive, uninterrupted territories to roam, they are heavily threatened by habitat fragmentation, human-wildlife conflict with livestock farmers, road accidents, and infectious diseases like rabies and canine distemper spread by domestic dogs.

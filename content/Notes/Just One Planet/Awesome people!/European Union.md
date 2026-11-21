@@ -23,6 +23,9 @@ with the motto "_In varietate concordia_" (United in diversity) and the anthem b
 As a curiosity, in many international treaties it says "political and economical organizations". By the date, in the whole history, it only applies to the European Union.
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lK00v_tzkCI?si=r0rDdAsZDG4Irggl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Europe day shall be celebrated on 9 May throughout the Union.
 
@@ -30,6 +33,13 @@ Europe day shall be celebrated on 9 May throughout the Union.
 
 
 ### The Treaties on the European Union
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lK00v_tzkCI?si=r0rDdAsZDG4Irggl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/URLP6a6a_wA?si=rLqhttcQUWsRTwv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -108,6 +118,11 @@ The [European Pollutant Release and Transfer Register](https://prtr.unece.org/) 
 - **Regulations**: 
 - **Decisions**: 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9KVzKZsXFsU?si=7iIRrt0I93YdPH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2mTrdQWaIUM?si=WUKJCjmOvJObiBp-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # Natural Environment

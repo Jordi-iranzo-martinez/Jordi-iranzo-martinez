@@ -7,7 +7,7 @@ The Dittany (*Dictamnus albus*) is an aromatic, long-lived herbaceous perennial 
 
 *[[Plants]]*
 
-Native to warm, open woodlands and rocky calcareous slopes across southern and central [[Europe]] (including northern and eastern Spain), North [[Africa]], and temperate Asia, it is famous for producing volatile essential oils that can briefly ignite in midair without harming the plant.
+Native to warm, open woodlands and rocky calcareous slopes across southern and central [[Europe]] (including northern and eastern Spain), North [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]], and temperate Asia, it is famous for producing volatile essential oils that can briefly ignite in midair without harming the plant.
 
 Growing 60 to 100 cm (2 to 3.5 feet) tall, it forms a sturdy clump of glossy, compound dark-green leaves that resemble ash tree leaflets (inspiring its old name _fraxinella_, "little ash"). When crushed, the leaves release a strong, pleasant lemon-cinnamon fragrance due to their citrus-family oil glands.
 

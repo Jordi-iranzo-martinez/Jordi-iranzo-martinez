@@ -10,18 +10,17 @@ Without using any heavy machinery or industrial technology, he achieved the hist
 
 In the late 1970s and early 1980s, a devastating drought swept across the Yatenga province of Burkina Faso. The soil turned hard as cement, crops failed entirely, and thousands of families abandoned their homes for cities.
 
+Sawadogo chose to stay and revive an ancient, forgotten traditional farming technique called Zaï, but he introduced a couple of game-changing innovations:
 
-Sawadogo chose to stay and revive an ancient, forgotten traditional farming technique called **Zaï**, but he introduced a couple of game-changing innovations:
+- **Deeper Pits**: He dug larger and deeper planting pits into the hard, sun-baked earth during the dry season to capture maximum rainfall.
 
-- **Deeper Pits:** He dug larger and deeper planting pits into the hard, sun-baked earth during the dry season to capture maximum rainfall.
+- **Compost and Manure**: He filled each pit with organic material to nourish the dry soil before the rains arrived.
 
-- **Compost and Manure:** He filled each pit with organic material to nourish the dry soil before the rains arrived.
-
-- **The Termite Ally:** The manure attracted termites. These insects dug vast networks of underground tunnels that broke up the crust of the soil, allowing rainwater to penetrate deep into the ground rather than running off or evaporating.
+- **The Termite Ally**: The manure attracted termites. These insects dug vast networks of underground tunnels that broke up the crust of the soil, allowing rainwater to penetrate deep into the ground rather than running off or evaporating.
 
 Against all odds, his millet and sorghum crops thrived. Furthermore, tree seeds embedded in the soil began to sprout spontaneously inside the pits. Rather than clearing them out, Sawadogo protected these trees, realizing that their roots retained groundwater and kept the topsoil moist. Thanks to his efforts, the regional water table rose by an impressive 5 meters (16 feet).
 
-Four decades after picking at the barren earth hole by hole, he managed to grow a dense, thriving ecosystem featuring **over 60 species of trees and shrubs** that now shelters wildlife and provides medicinal plants for his entire community.
+Four decades after picking at the barren earth hole by hole, he managed to grow a dense, thriving ecosystem featuring over 60 species of trees and shrubs that now shelters wildlife and provides medicinal plants for his entire community.
 
 In the beginning, his neighbors mocked his work, called him insane, and even burned down part of his growing forest because they felt it went against local traditions.
 

@@ -18,5 +18,5 @@ After pupating in the sand, the wormlion emerges as a delicate, mosquito- or was
 
 Fewer than 80 species are known worldwide across roughly 11 genera (such as _Vermileo_ and _Lampromyia_). 
 
-They are primarily found in arid and [[Mediterranean]] climates—including the Iberian Peninsula, southern [[Europe]], North and Southern [[Africa]], western [[North America]], and parts of [[Asia]] (where a giant new Himalayan species was described in 2026)
+They are primarily found in arid and [[Mediterranean]] climates—including the Iberian Peninsula, southern [[Europe]], North and Southern [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]], western [[North America]], and parts of [[Asia]] (where a giant new Himalayan species was described in 2026)
 

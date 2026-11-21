@@ -21,7 +21,7 @@ Unlike earlier mosasaurs that swam like eels, Mosasaurus had a streamlined, barr
 
 Its massive skull featured a flexible lower jaw that could widen to swallow large prey, along with a second row of pterygoid teeth on the roof of its mouth to grip slippery victims and prevent them from escaping.
 
-Mosasaurus inhabited the shallow, warm epicontinental seas of [[North America]] (the Western Interior Seaway), [[Europe]], [[Africa]], and [[Antarctica]]. Because it breathed air like a whale, it hunted primarily near the ocean's surface.
+Mosasaurus inhabited the shallow, warm epicontinental seas of [[North America]] (the Western Interior Seaway), [[Europe]], [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]], and [[Antarctica]]. Because it breathed air like a whale, it hunted primarily near the ocean's surface.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2Y3gNcQiu_U?si=tDVh8kixEzUhTrP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>ç
 

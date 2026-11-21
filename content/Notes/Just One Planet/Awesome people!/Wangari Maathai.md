@@ -10,7 +10,7 @@ Wangarĩ Muta Maathai (1940–2011) was a Kenyan environmentalist, biologist, wo
 
 Born in rural Nyeri, Kenya, Maathai broke numerous academic and gender barriers early in her career: 
 
-- **Higher education**. After studying biology in the United States at Mount St. Scholastica College (B.S., 1964) and the University of Pittsburgh (M.S., 1966), she earned a Ph.D. in veterinary anatomy from the University of Nairobi in 1971—becoming the first woman in East and Central [[Africa]] to earn a doctorate.
+- **Higher education**. After studying biology in the United States at Mount St. Scholastica College (B.S., 1964) and the University of Pittsburgh (M.S., 1966), she earned a Ph.D. in veterinary anatomy from the University of Nairobi in 1971—becoming the first woman in East and Central [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]] to earn a doctorate.
 
 - **University leadership**. She went on to become the first female department chair (1976) and first female associate professor in Kenya at the University of Nairobi.
 

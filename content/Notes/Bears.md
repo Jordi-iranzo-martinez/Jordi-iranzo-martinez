@@ -3,6 +3,8 @@ Bears are large, heavy-bodied carnivoran mammals belonging to the family Ursidae
 
 *[[Carnivores]]*
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yMDOin3yWhU?si=iWAwgqATxmnu80YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The 8 Living Bear Species
 
 - [[Brown Bear]] (*Ursus arctos*). The most widely distributed bear species, native to North America (including **grizzly** and **Kodiak** bears), Europe (such as the Cantabrian brown bear in Spain), and northern Asia.

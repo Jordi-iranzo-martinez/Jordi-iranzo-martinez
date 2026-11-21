@@ -3,7 +3,7 @@ tags:
   - Just_One_Planet
   - Disney
 ---
-The mandrill (*Mandrillus sphinx*) is the world's largest monkey and one of the most colorful mammals on Earth. Native to the tropical rainforests of west-central [[Africa]], it is an Old World monkey closely related to baboons and drills (not an ape, as it possesses a short tail). Adult males are famous for their vivid red-and-blue grooved snouts, golden beards, and brightly colored hindquarters.
+The mandrill (*Mandrillus sphinx*) is the world's largest monkey and one of the most colorful mammals on Earth. Native to the tropical rainforests of west-central [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]], it is an Old World monkey closely related to baboons and drills (not an ape, as it possesses a short tail). Adult males are famous for their vivid red-and-blue grooved snouts, golden beards, and brightly colored hindquarters.
 
 *[[Primates]]*
 

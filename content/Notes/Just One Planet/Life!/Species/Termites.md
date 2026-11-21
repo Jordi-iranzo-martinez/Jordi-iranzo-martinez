@@ -19,6 +19,7 @@ Termites eat dead wood, leaf litter, roots, paper, and cardboard. To break down 
 
 In natural ecosystems, termites play a vital role by decomposing dead wood and returning essential nutrients to the soil. Their underground tunneling also aerates the ground and improves water drainage.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hRGb9Pq64cU?si=wDx2XPXA64EP0XRZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DYPQ1Tjp0ew?si=NRSq94IVjSxx2cah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Subterranean Termites build their nests underground and travel up into buildings through protective mud tubes to maintain moisture. They cause the most severe structural damage to homes.

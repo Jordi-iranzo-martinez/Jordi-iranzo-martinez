@@ -23,7 +23,7 @@ Though closely related to manatees—and distantly related to elephants—dugong
 
 - **Marine lifestyle**. While manatees frequently move between freshwater rivers and coastal estuaries, dugongs spend their entire lives in saltwater.
 
-Dugongs inhabit shallow, sheltered bays, mangrove channels, and coastal waters spanning roughly 40 countries from East [[Africa]] and the [[Red Sea]] to northern [[Australia]] and the western Pacific.
+Dugongs inhabit shallow, sheltered bays, mangrove channels, and coastal waters spanning roughly 40 countries from East [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]] and the [[Red Sea]] to northern [[Australia]] and the western Pacific.
 
 Dugongs graze almost exclusively on underwater meadows of seagrass (preferring fast-growing, nutrient-rich genera like _Halophila_ and _Halodule_), consuming 30 to 40 kg of vegetation daily.
 

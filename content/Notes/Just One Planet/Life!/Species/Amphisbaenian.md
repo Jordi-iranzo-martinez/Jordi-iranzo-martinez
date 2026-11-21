@@ -21,5 +21,5 @@ Their blunt tails look very similar to their heads, which confuses predators. Th
 
 They are carnivorous predators that hunt subterranean invertebrates such as ants, termites, beetles, and earthworms, though larger species can also eat small vertebrates.
 
-Amphisbaenians are found primarily in tropical and subtropical regions of [[South America]], [[Africa]], the [[Caribbean]], and the [[Mediterranean]] (including the Iberian Peninsula), with a few species in [[North America]].
+Amphisbaenians are found primarily in tropical and subtropical regions of [[South America]], [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]], the [[Caribbean]], and the [[Mediterranean]] (including the Iberian Peninsula), with a few species in [[North America]].
 

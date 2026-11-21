@@ -18,8 +18,9 @@ While over 100 fossil species are known from the Devonian through the Cretaceous
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4jl_txxYQEA?si=e_bK4CClF6-3RgH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 Unlike modern ray-finned fish, coelacanths have paired pectoral and pelvic fins supported by internal bones and muscles that move in an alternating, tetrapod-like gait, plus an extra epicaudal lobe on their three-lobed tail.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z_ThemgWNiE?si=rnYhhcIXxz1aACIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 They possess a unique hinged joint in the skull that allows the upper jaw to lift upward while feeding, and a thick, oil-filled hollow notochord instead of a solid bony vertebral column (their name derives from Greek koilos "hollow" and akantha "spine").
 
@@ -34,3 +35,5 @@ With an estimated global population of fewer than 500–1,000 individuals, the W
 [[IUCN]]
 
 [[CITES Convention]]
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9v5mrrpcnHg?si=Xvgrx-UQB9rLjSke" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

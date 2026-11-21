@@ -7,7 +7,7 @@ tags:
 
 The Barn Owl (*Tyto alba*) is one of the most widely distributed birds in the world, found on every continent except Antarctica. Easily recognized by its stark white, heart-shaped facial disc, dark eyes, and ghostly silent flight, it is a specialized nocturnal rodent hunter that frequently nests near farms and rural buildings.
 
-*[[Birds]], [[Europe]], [[Asia]], [[North America]], [[South America]], [[Web/content/Notes/Just One Planet/Wonderful Places/Africa|Africa]], [[Oceania]]
+*[[Birds]], [[Europe]], [[Asia]], [[North America]], [[South America]], [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]], [[Oceania]]
 
 The barn owl has a distinct heart-shaped white face framed by a golden-brown border and deep black eyes.
 

@@ -1,5 +1,5 @@
 
-The grey-necked rockfowl (*Picathartes oreas*), also known as the grey-necked picathartes, is an elusive, medium-sized passerine bird native to the closed-canopy rainforests of Central [[Africa]]. 
+The grey-necked rockfowl (*Picathartes oreas*), also known as the grey-necked picathartes, is an elusive, medium-sized passerine bird native to the closed-canopy rainforests of Central [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]]. 
 
 *[[Birds]]*
 

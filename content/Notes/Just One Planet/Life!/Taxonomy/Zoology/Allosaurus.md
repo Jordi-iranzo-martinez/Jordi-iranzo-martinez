@@ -5,7 +5,7 @@ tags:
   - Paleo
 ---
 
-Allosaurus (*Allosaurus fragilis*) is an extinct genus of large carnivorous theropod dinosaur that lived during the Late [[Jurassic]] period, roughly 155 to 145 million years ago. As the most common apex predator of [[North America]]'s famous Morrison Formation, it was the "lion of the Jurassic"—a fast, agile hunter built to take down massive herbivorous dinosaurs.
+Allosaurus (*Allosaurus fragilis*) is an extinct genus of large carnivorous theropod dinosaur that lived during the Late [[Web/content/Notes/Jurassic]] period, roughly 155 to 145 million years ago. As the most common apex predator of [[North America]]'s famous Morrison Formation, it was the "lion of the Jurassic"—a fast, agile hunter built to take down massive herbivorous dinosaurs.
 
 [[Reptiles]]
 

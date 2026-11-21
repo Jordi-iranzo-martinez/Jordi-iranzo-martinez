@@ -7,6 +7,9 @@ tags:
 
 The polar bear (*Ursus maritimus*) is a hypercarnivorous bear native to the [[Arctic]] Circle and the largest extant land carnivore on Earth (rivaled in size only by the Kodiak brown bear). 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1zRGzlWqce4?si=BowdY7a-roZIN6Lx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Classified scientifically as a marine mammal because it spends most of its life on Arctic sea ice, it is uniquely adapted to survive in some of the coldest environments on the planet.
 
 

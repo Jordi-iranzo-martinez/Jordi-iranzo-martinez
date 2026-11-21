@@ -3,8 +3,10 @@ tags:
   - Just_One_Planet
   - Pokémon
 ---
-
 The Coconut crab (*Birgus latro*) is the largest land-living arthropod in the world, famous for its staggering size, bone-crushing claw strength, and ability to climb tall [[Coconut Palm Tree]].
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VWqXSFgvKkY?si=TXjVU2T9eMKCp_M7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 They can weigh up to 4.1 kg (9 lbs) and grow to a massive leg-span of up to 1 meter (3.3 feet) from tip to tip. They can live for more than 40 to 60 years.
 
@@ -16,5 +18,4 @@ Their left claw is massively enlarged and can exert a crushing force of up to 3,
 
 They feed on fallen tropical fruits, nuts, seeds, and carrion. However, they are also active, efficient hunters, stalking and killing large birds (like nesting boobies), rats, other crabs, and small mammals while they sleep.
 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VWqXSFgvKkY?si=TXjVU2T9eMKCp_M7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U0Nfu7iR7lc?si=UB6V8QHx4IGLNYFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

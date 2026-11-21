@@ -5,7 +5,7 @@ tags:
   - Paleo
 ---
 
-Plesiosaurs (order Plesiosauria) were a diverse group of large, carnivorous marine reptiles that dominated the world's oceans throughout the [[Jurassic]] and [[Cretaceous]] periods, from roughly 203 to 66 million years ago. 
+Plesiosaurs (order Plesiosauria) were a diverse group of large, carnivorous marine reptiles that dominated the world's oceans throughout the [[Web/content/Notes/Jurassic]] and [[Cretaceous]] periods, from roughly 203 to 66 million years ago. 
 
 *[[Reptiles]]*
 

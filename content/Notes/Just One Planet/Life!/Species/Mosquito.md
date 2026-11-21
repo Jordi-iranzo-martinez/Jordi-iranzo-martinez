@@ -12,14 +12,18 @@ The word "mosquito" originates from Spanish and Portuguese for "little fly." Whi
 Four-Stage Life Cycle
 
 - **Egg**. Females lay 100 to 200 eggs at a time either directly on stagnant water (often glued together in floating "rafts") or on damp soil/containers that will flood later.
+
 - **Larva** ("wriggler"). Aquatic larvae hatch in water and feed on microorganisms and organic debris, breathing through a siphon tube at the water's surface.
+
 - **Pupa** ("tumbler"). A non-feeding, comma-shaped aquatic stage during which the insect transforms into an adult over a few days.
+
 - **Adult**. Emerging onto the water's surface, the adult dries its wings and flies away. The entire cycle from egg to adult can take as little as 7 to 10 days in warm weather.
 
-Female mosquitoes possess a specialized, needle-like mouthpart (proboscis) made of six tiny stylets that pierce skin, locate a blood vessel, and inject saliva containing anticoagulants and mild painkillers. The itchy red bump after a bite is an allergic immune reaction to that saliva.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/izk2C8ILEe8?si=ogFPXe0vq3LUtruw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Female adult mosquitoes possess a specialized, needle-like mouthpart (proboscis) made of six tiny stylets that pierce skin, locate a blood vessel, and inject saliva containing anticoagulants and mild painkillers. The itchy red bump after a bite is an allergic immune reaction to that saliva.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rD8SmacBUcU?si=_5jJA0cOycEza8Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 Mosquitoes locate hosts from meters away by detecting exhaled carbon dioxide (CO₂), followed by body heat, sweat compounds (such as lactic acid), and visual contrast as they get closer.
 

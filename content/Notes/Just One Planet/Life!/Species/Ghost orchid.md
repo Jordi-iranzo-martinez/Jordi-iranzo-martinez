@@ -1,5 +1,5 @@
 
-The ghost orchid (*Dendrophylax lindenii*) is an exceptionally rare, endangered, and ephemeral perennial orchid. It is native entirely to the saturated, humid hardwood hammocks and deep cypress swamps of southern [[Web/content/Notes/Just One Planet/Wonderful Places/Florida]], [[Cuba]], and the Bahamas.
+The ghost orchid (*Dendrophylax lindenii*) is an exceptionally rare, endangered, and ephemeral perennial orchid. It is native entirely to the saturated, humid hardwood hammocks and deep cypress swamps of southern [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Florida]], [[Cuba]], and the Bahamas.
 
 It is widely celebrated in the botanical world as one of the most enigmatic, phantom-like flowers on Earth due to its unique evolutionary biology:
 

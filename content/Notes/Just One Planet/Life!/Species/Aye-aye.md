@@ -4,7 +4,7 @@ tags:
   - Pokémon
 ---
 
-The Aye-aye (*Daubentonia madagascariensis*) is the world's largest nocturnal primate and one of [[Madagascar]]'s most unusual endemic animals.
+The Aye-aye (*Daubentonia madagascariensis*) is the world's largest nocturnal primate and one of [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Madagascar]]'s most unusual endemic animals.
 
 A specialized type of lemur, it is famous for its rodent-like continuously growing teeth, bat-like ears, and an extraordinarily long, skeletal middle finger used to tap on trees and extract hidden insects.
 

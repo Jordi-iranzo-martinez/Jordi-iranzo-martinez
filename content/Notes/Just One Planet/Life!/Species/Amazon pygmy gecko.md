@@ -1,9 +1,7 @@
 
-Amazon pygmy gecko (*Chatogekko amazonicus*) is one of the smallest lizards in the world, growing to a maximum total length of just 24 to 30 millimeters (about 1 inch).
+The Amazon pygmy gecko (commonly referring to *Chatogekko amazonicus*, also known as the Brazilian pygmy gecko, or the closely related Pseudogonatodes guianensis) is one of the smallest reptiles in the world, growing to a maximum total length of just 24 to 30 millimeters (about 1 inch).
 
-The Amazon pygmy gecko (commonly referring to *Chatogekko amazonicus*, also known as the Brazilian pygmy gecko, or the closely related Pseudogonatodes guianensis) is one of the smallest reptiles in the world.
-
-[[Reptiles]]
+*[[Reptiles]]*
 
 Native to the leaf litter of the [[Amazon]] rainforest, it is famous for its microscopic size and water-repellent skin that allows it to float and walk on water.
 

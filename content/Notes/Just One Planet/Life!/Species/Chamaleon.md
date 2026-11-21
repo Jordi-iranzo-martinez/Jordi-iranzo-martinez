@@ -6,7 +6,7 @@ tags:
 ---
 Chameleons (family Chamaeleonidae) are a distinctive and highly specialized clade of Old World lizards renowned for their ability to change skin color, independently rotating eyes, and ballistic tongues. 
 
-With more than 200 described species, they are native primarily to mainland [Africa] and [[Madagascar]] (which hosts nearly half of all known species), as well as parts of southern [Europe] (including southern [[Spain]]), the [[Middle East]], and southern [[Asia]]. 
+With more than 200 described species, they are native primarily to mainland [Africa] and [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Madagascar]] (which hosts nearly half of all known species), as well as parts of southern [Europe] (including southern [[Spain]]), the [[Middle East]], and southern [[Asia]]. 
 
 *[[Reptiles]]*
 

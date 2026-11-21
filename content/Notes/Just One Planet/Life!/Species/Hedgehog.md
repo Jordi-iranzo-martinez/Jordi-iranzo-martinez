@@ -8,7 +8,7 @@ Hedgehogs (subfamily Erinaceinae) are small, nocturnal, spiny mammal belonging t
 
 *[[Mammalia]]*
 
-Native to parts of [[Europe]], [[Asia]], and [[Africa]]—and introduced to New Zealand—there are 17 recognized species of hedgehogs, best known for their protective coat of sharp spines and their ability to curl into a tight, defensive ball.
+Native to parts of [[Europe]], [[Asia]], and [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]]—and introduced to New Zealand—there are 17 recognized species of hedgehogs, best known for their protective coat of sharp spines and their ability to curl into a tight, defensive ball.
 
 An adult hedgehog is covered in 5,000 to 7,000 hollow, stiff hairs made of keratin. Unlike porcupine quills, hedgehog spines are not barbed, do not detach easily, and are not venomous.
 

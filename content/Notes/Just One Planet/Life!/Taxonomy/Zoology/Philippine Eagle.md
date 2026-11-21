@@ -5,6 +5,9 @@ The Philippine Eagle (*Pithecophaga jefferyi*), also known as the monkey-eating 
 
 [[Birds]]
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-JP-zoBLyWE?si=QJfyaH93JBU2-7li" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Females are significantly larger than males, measuring between 86 to 102 centimeters (34 to 40 inches) in length and boasting a wingspan of up to 2 meters (6.5 feet).
 
 Unlike eagles of open plains, its wings are relatively short and broad, paired with a long tail. This aerodynamic design grants the eagle incredible maneuverability to weave through the dense canopy of tropical rainforests at high speeds.

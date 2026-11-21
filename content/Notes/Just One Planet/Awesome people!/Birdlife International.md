@@ -4,12 +4,26 @@ tags:
 year: "1922"
 ---
 
-[BirdLife International](https://www.birdlife.org/) is the largest international Partnership for nature conservation. 
+[BirdLife International](https://www.birdlife.org/) is the world’s largest global partnership of conservation organizations dedicated to protecting birds, their habitats, and global biodiversity
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OzvashiOwzY?si=R25AODabhpxkE--U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 como la [Seabird Tracking Database](https://www.seabirdtracking.org/). 
 
 [[Birds]]
 
+Headquartered in Cambridge, United Kingdom, it brings together around 125 independent national partner organizations across more than 120 countries, mobilizing millions of members and volunteers worldwide.
+
+Founded in 1922 by ornithologists T. Gilbert Pearson and Jean Théodore Delacour as the International Committee for Bird Protection (later the International Council for Bird Preservation), it adopted the name BirdLife International in 1994.
+
+It serves as the official Red List Authority for birds for the International Union for Conservation of Nature (IUCN), assessing the extinction risk of every bird species on Earth.
+
+The partnership identifies, monitors, and works to protect over 13,000 Important Bird and Biodiversity Areas (IBAs) as well as major migratory flyways across land and sea.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rkaLM3SY_cw?si=cEr-CnCSsQdfpnFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EVnK6bBbvWw?si=NYAVV-q9bHiHFHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [Hatch](https://birdlife-hatch.org/), a member-lead community space supporting conservation professionals across the globe.

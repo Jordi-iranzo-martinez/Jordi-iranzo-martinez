@@ -2,7 +2,7 @@
 tags:
   - Paleo
 ---
-Sarcosuchus ("flesh crocodile") is an extinct genus of giant crocodylomorph that lived during the Early [[Cretaceous]] period (around 112 million years ago) in what is now [[Africa]] and [[South America]]. Popularly nicknamed "SuperCroc," it was one of the largest semi-aquatic reptiles ever to exist.
+Sarcosuchus ("flesh crocodile") is an extinct genus of giant crocodylomorph that lived during the Early [[Cretaceous]] period (around 112 million years ago) in what is now [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]] and [[South America]]. Popularly nicknamed "SuperCroc," it was one of the largest semi-aquatic reptiles ever to exist.
 
 The best-known species, *Sarcosuchus* imperator, grew to roughly 9 to 9.5 meters (30 to 31 feet) in length (with older estimates reaching up to 11–12 meters) and weighed between 2.5 and 4 metric tons, nearly twice as long as the largest modern saltwater crocodiles.
 

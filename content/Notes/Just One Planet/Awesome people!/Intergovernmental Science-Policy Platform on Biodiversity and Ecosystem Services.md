@@ -27,6 +27,8 @@ According to the IPBES Secretariat, the organization focuses on four main pillar
 
 4. **Knowledge generation**. Catalyzing research to fill critical gaps in ecological and socioeconomic understanding.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-jju7gD2XYE?si=TZS6kD-UvsXLaNSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 IPBES reports have shaped global environmental policy and corporate sustainability standards:]
 
 - **Global Assessment Report on Biodiversity and Ecosystem Services** (2019). The first comprehensive global synthesis since 2005, warning that roughly 1 million animal and plant species face extinction within decades due to human activity. (A Second Global Assessment is scheduled for completion in 2028).

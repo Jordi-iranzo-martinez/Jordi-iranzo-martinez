@@ -1,9 +1,9 @@
 
-The African fish eagle (Icthyophaga vocifer, formerly Haliaeetus vocifer) is a large, iconic bird of prey native to sub-Saharan [[Africa]]. 
+The African fish eagle (Icthyophaga vocifer, formerly Haliaeetus vocifer) is a large, iconic bird of prey native to sub-Saharan [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]]. 
 
 Famous for its striking white-and-chestnut plumage and ringing, evocative call—often described as "the voice of Africa"—it serves as the national bird of Malawi, Namibia, Zambia, and Zimbabwe.
 
-*[[Web/content/Notes/Just One Planet/Wonderful Places/Africa|Africa]], [[Birds]], [[Wetlands]]*
+*[[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]], [[Birds]], [[Wetlands]]*
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2BqV2Adr3hI?si=Yt6jeFXpV08RtBXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

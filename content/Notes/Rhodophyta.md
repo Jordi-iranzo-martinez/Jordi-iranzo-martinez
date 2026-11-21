@@ -19,7 +19,7 @@ Red algae are foundational to coastal marine ecosystems and hold high economic v
 
 Species in the genera _Porphyra_ and _Pyropia_ are extensively farmed in East Asia to produce nori for sushi, while _Palmaria palmata_ (dulse) and _Chondrus crispus_ (Irish moss) are harvested in Europe and North America.
 
-*[[Sushi]]*
+*[[Web/content/Notes/Just One Life/Food/Sushi]]*
 
 They are the sole commercial source of agar-agar (an essential culture medium in microbiology and food gelling agent) and carrageenan (widely used as a thickener and stabilizer in dairy products, cosmetics, and pharmaceuticals).
 

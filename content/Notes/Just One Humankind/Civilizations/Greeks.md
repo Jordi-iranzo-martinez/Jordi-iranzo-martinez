@@ -1,4 +1,15 @@
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6bDrYTXQLu8?si=Xr2VftJgPsjWQOKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gFRxmi4uCGo?si=aT6JJ7AEqBYPgJ5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
 Grecia había sido invadida sucesivamente por pueblos a caballo que se establecieron en su territorio, en el 1200 AC. Los dorios se establecieron en lo que sería Esparta, los jonios que derrotaron a los dorios en el istmo de Corinto y se establecieron en el Ática y la isla Eubea, los tracios que se establecieron en el norte.
 
 Estos pueblos abandonaron la caballería por un lado porque el terreno no proporcionaba buenos pastos para la cría de caballos, salvo en la zona de Macedonia; por otro lado eran poco eficaces, ya que el terreno pedregoso de la Grecia peninsular era de igual modo impracticable tanto para los carros ligeros como para los caballos no herrados.

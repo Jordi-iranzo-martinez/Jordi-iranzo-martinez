@@ -6,6 +6,14 @@ tags:
 Life
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/URUJD5NEXC8?si=nGtRBskAAkLwZ2hB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=xV5PQBmZnqc-JTq9&amp;list=PLI1XjFOSo4gNK8pYPIvd5xj19APG4glZD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rKS-vvhMV6E?si=_2xDFP56MAD4UXJz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### Life traits
 
 - **Cellular tissue organization:** All living organisms are composed of **one or more cells**, which serve as the fundamental structural and functional units of life

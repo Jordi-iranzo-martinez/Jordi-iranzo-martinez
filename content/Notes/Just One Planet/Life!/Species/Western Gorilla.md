@@ -7,7 +7,7 @@ tags:
 
 The western gorilla (*Gorilla gorilla gorilla*) is the most populous and widespread of the two living gorilla species (alongside the eastern gorilla, Gorilla beringei).
 
-Inhabiting the dense tropical forests and swamps of Central and West [[Africa]], it is listed as Critically Endangered on the IUCN Red List.
+Inhabiting the dense tropical forests and swamps of Central and West [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa]], it is listed as Critically Endangered on the IUCN Red List.
 
 *[[Primates]]*
 

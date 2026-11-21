@@ -2,7 +2,7 @@
 tags:
   - Paleo
 ---
-"Predator X" is the famous media nickname given to *Pliosaurus funkei*, a colossal, short-necked marine reptile (pliosaur) that ruled the oceans during the Late [[Jurassic]] period, roughly 150 million years ago. 
+"Predator X" is the famous media nickname given to *Pliosaurus funkei*, a colossal, short-necked marine reptile (pliosaur) that ruled the oceans during the Late [[Web/content/Notes/Jurassic]] period, roughly 150 million years ago. 
 
 Unearthed on the [[Arctic]] archipelago of Svalbard, Norway, between 2006 and 2008, it was publicized upon its 2009 announcement as one of the largest and most powerful marine apex predators ever discovered.
 

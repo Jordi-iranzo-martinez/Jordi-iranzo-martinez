@@ -37,6 +37,8 @@ As apex predators, great white sharks (Carcharodon carcharias) play a vital role
 
 Juvenile great whites feed mainly on fish, squid, and rays. As they mature, their diet shifts toward energy-rich marine mammals, including seals, sea lions, dolphins, and whale carcasses.
 
+
+
 Hunting primarily from below, a great white will surge upward at speeds reaching 56 km/h (35 mph) to strike unsuspecting prey near the surface, sometimes launching its entire body completely out of the water in a dramatic leap known as breaching.
 
 
@@ -46,3 +48,7 @@ Hunting primarily from below, a great white will surge upward at speeds reaching
 *Despite being responsible for more recorded unprovoked shark bite incidents than any other species, great whites do not actively hunt humans. Most incidents are cases of mistaken identity or exploratory "test bites" in murky water, and fatalities are exceptionally rare.*
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zQukzrJs0s4?si=n3iV4R9ICC7e8kjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QJJgggzgC7I?si=LqHcNyNqrm340i6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

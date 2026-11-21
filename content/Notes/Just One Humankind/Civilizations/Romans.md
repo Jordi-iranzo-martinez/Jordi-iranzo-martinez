@@ -3,6 +3,18 @@ tags:
   - 0_AD
   - Total_War
 ---
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GXoEpNjgKzg?si=xh87hJ6ZCVUWnadE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z1aFWtBXHII?si=WiQ9h-VQAcfGo_Xu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kkgjiCKHvoY?si=nR6UyXdf44cPvluY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/46ZXl-V4qwY?si=tJ3_K_nGrIyNwFCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 - **Hastati**: Los más jóvenes y menos experimentados. Iban en primera línea.
 - **Principes**: Hombres maduros y bien equipados. Formaban la segunda línea.

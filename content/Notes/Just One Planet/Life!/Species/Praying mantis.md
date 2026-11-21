@@ -29,6 +29,8 @@ They feed exclusively on live prey—primarily moths, flies, crickets, beetles, 
 
 Female mantises are typically larger than males and sometimes eat their mates during or after copulation. While this behavior is well-documented—especially in captivity or when females are hungry—it occurs in roughly 13–28% of wild encounters rather than every time, providing the female with a vital protein boost for egg production.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/__RqOzOzWjY?si=s_BUUPPL-fiPA1Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 In autumn, females lay dozens to hundreds of eggs inside a frothy liquid that hardens into a protective, weatherproof styrofoam-like casing called an _ootheca_, from which tiny nymphs hatch the following spring.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mDpvHOsXC8g?si=nmG8A_Z9WqS8_luy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

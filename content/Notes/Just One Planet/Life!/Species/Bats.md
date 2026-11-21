@@ -11,7 +11,7 @@ Bats (order Chiroptera) are the only mammals capable of true, sustained flight.
 
 Making up roughly 20% of all classified mammal species worldwide—with over 1,400 known species—they are found on every continent except Antarctica and play indispensable roles in global ecosystems.
 
-*[[Europe]], [[Asia]], [[Web/content/Notes/Just One Planet/Wonderful Places/Africa|Africa]], [[North America]], [[South America]], [[Oceania]]*
+*[[Europe]], [[Asia]], [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]], [[North America]], [[South America]], [[Oceania]]*
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ElKgzNuX6h0?si=e1FYr4_0rbwrNUIa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -38,6 +38,8 @@ Diverse Diets and Ecological Importance
 - **Carnivores and Vampire Bats**. A handful of specialized species eat frogs, fish, or small birds, while only three species (all native to the Americas) are vampire bats that feed exclusively on blood—mostly from livestock and birds—using heat sensors in their noses and anticoagulants in their saliva.
 
 Despite their small size and fast metabolism, bats live extraordinarily long lives compared to other small mammals, with several species regularly exceeding 30 to 40 years in the wild.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ivjmjj67G6c?si=ypeYUwWOmP1SiBU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bat populations face serious pressures from habitat loss, wind turbine collisions, roost disturbance during winter hibernation, and white-nose syndrome—a devastating fungal disease that has killed millions of hibernating bats in North America.
 

@@ -7,7 +7,9 @@ co:
 [[Ocean]] cloe to the [[Coast Ecosystem]]]
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Bn2xkIJhte4?si=YcN41kJdFb0Vkkmy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZiULxLLP32s?si=u4pVCtaUJuIV54BO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/APudWhsfcms?si=7nTzfG3M_oJR-io9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 (reproduction lit)
 
@@ -21,6 +23,8 @@ co:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=TNZXrkfazKa0dEEU&amp;list=PLlOe1Mr8YbsplJ78UNTNndcNJ7iqiY0Jd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/kristen_marhaver_how_we_re_growing_baby_corals_to_rebuild_reefs" width="1024px" height="576px" title="Cómo criamos bebés de coral para reconstruir los arrecifes" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen webkitallowfullscreen mozallowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oSP8uoWHZGg?si=l8oWlJNHtfPW9VY-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -4,8 +4,7 @@ tags:
   - Jurassic_Park
   - Paleo
 ---
-
-Ankylosaurus (Ankylosaurus magniventris) is an extinct genus of heavily armored thyreophoran dinosaur that lived at the very end of the Late [[Cretaceous]] period, roughly 68 to 66 million years ago, in western [[North America]]. 
+Ankylosaurus (*Ankylosaurus magniventris*) is an extinct genus of heavily armored thyreophoran dinosaur that lived at the very end of the Late [[Cretaceous]] period, roughly 68 to 66 million years ago, in western [[North America]]. 
 
 As the largest and best-known member of the ankylosaurid family, it is famous for its tank-like bony armor and massive tail club.
 
