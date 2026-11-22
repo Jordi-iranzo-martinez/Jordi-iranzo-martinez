@@ -5,7 +5,7 @@ tags:
 ---
 The Ceratosaurus (*Ceratosaurus nasicornis*)
 
-Ceratosaurus (from Greek keras "horn" and sauros "lizard," meaning "horned lizard") is a genus of medium-to-large carnivorous theropod dinosaur that lived during the Late [[Web/content/Notes/Jurassic]] Period (approximately 153 to 148 million years ago).
+Ceratosaurus (from Greek keras "horn" and sauros "lizard," meaning "horned lizard") is a genus of medium-to-large carnivorous theropod dinosaur that lived during the Late [[Jurassic 1]] Period (approximately 153 to 148 million years ago).
 
 It is instantly recognizable by its prominent nasal horn, deep skull, and row of bony armor plates running down its back.
 

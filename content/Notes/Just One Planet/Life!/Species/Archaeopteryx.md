@@ -4,7 +4,7 @@ tags:
   - Pokémon
   - Paleo
 ---
-*Archaeopteryx* (meaning "ancient wing" or "ancient feather") is an extinct genus of raven-sized, feathered theropod dinosaurs that lived during the Late [[Web/content/Notes/Jurassic]] period, about 150 million years ago, and is famous as the iconic evolutionary link between non-avian dinosaurs and modern birds.
+*Archaeopteryx* (meaning "ancient wing" or "ancient feather") is an extinct genus of raven-sized, feathered theropod dinosaurs that lived during the Late [[Jurassic 1]] period, about 150 million years ago, and is famous as the iconic evolutionary link between non-avian dinosaurs and modern birds.
 
 *[[Birds]], [[Dinosaurs]]*
 
