@@ -45,7 +45,7 @@ year: "2003"
 - **Haida** _(Added in Fight Back)_: Pacific Northwest tribe famous for being the only native faction with heavy **war canoes** to fight European ships.
 
 
-[[Incs]]
+[[Web/content/Notes/Just One Humankind/Civilizations/Incas]]
 
 [[Maya]]
 

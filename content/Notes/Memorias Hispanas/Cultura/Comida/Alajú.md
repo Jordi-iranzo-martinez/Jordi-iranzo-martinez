@@ -1,5 +1,9 @@
+---
+tags:
+  - Plant-based
+---
 
-El alajú es un dulce tradicional español de origen árabe, muy típico de Cuenca, Guadalajara y varias zonas de la Comunidad Valenciana (como el interior de Valencia y Castellón). 
+El alajú es un dulce tradicional español de origen árabe, muy típico de Cuenca, Guadalajara y varias zonas de la [[Comunidad Valenciana]] (como el interior de Valencia y Castellón). 
 
 *[[Árabes]]*
 

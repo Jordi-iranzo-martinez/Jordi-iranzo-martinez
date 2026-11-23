@@ -1,6 +1,9 @@
 ---
 tags:
   - 0_AD
+  - Mount_and_Blade
+  - American_Conquest
+  - Age_of_Empires_II
 ---
 
 En el 1300 AC, celtas, germanos, itálicos y helenos, pueblos que compartían semejanzas físicas y culturales entre ellos, emigraron hacia el oeste de Europa, pero al mezclarse con los nativos, dieron lugar a diferenciaciones importantes.

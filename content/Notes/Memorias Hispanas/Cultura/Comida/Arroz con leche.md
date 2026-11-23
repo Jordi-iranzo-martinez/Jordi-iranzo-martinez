@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El arroz con leche es uno de los postres de cuchara más tradicionales, populares y reconfortantes de la gastronomía de [[España]] (con especial arraigo en [[Asturias]]) y de toda Hispanoamérica.
 

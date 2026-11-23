@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El zorongollo es la ensalada veraniega más tradicional y emblemática de [[Extremadura]] (especialmente popular en la comarca de La Vera, el Valle del Jerte y Cáceres).
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - 0_AD
+  - Total_War
 ---
 
 The Iberians were a mosaic of tribes and city-states (Turdetani, Edetani, Ilergetes, Contestani, etc.), often at war with each other, which made them vulnerable to outside powers picking off allies one by one.

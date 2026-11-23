@@ -1,3 +1,7 @@
+---
+tags:
+  - Alba
+---
 
 El lince ibérico (*Lynx pardinus*) es un felino carnívoro endémico de la península ibérica y uno de los mayores éxitos mundiales de conservación de fauna amenazada. Tras rozar la extinción a principios del siglo XXI con menos de 100 ejemplares en libertad, su población ha superado los 2.660 individuos repartidos entre España y Portugal.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El tejate (conocido en la época prehispánica como «la bebida de los dioses», del náhuatl texatl, «agua harinosa») es una bebida tradicional refrescante y ceremonial de origen zapoteca y mixteco, emblemática de los Valles Centrales de Oaxaca, en el sur de [[México]] (especialmente de San Andrés Huayápam).
 

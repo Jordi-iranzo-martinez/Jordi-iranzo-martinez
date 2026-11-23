@@ -1,5 +1,5 @@
 
-People refers to a plurality of [[Human Beings]] considered collectively as a group, community, tribe, or nation. While the biological term Homo sapiens focuses on evolutionary mechanics, the concept of "people" centers on the social, cultural, political, and emotional frameworks that bind human populations together.
+People refers to a plurality of [[Human beings]] considered collectively as a group, community, tribe, or nation. While the biological term Homo sapiens focuses on evolutionary mechanics, the concept of "people" centers on the social, cultural, political, and emotional frameworks that bind human populations together.
 
 
 

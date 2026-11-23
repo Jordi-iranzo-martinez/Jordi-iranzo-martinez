@@ -10,7 +10,7 @@ year: 1787-1793
 
 De acuerdo a El asno de oro de Apuleyo, Psique era una princesa mortal tan increíblemente hermosa que Venus, diosa del erotismo y la belleza envió a Cupido para que hiciera que se enamorase del hombre más feo del mundo. Cupido se clavó la fecha por error y se enamoró de ella.
 
-[[Greeks]]
+[[Ancient Greeks]]
 
 Tras una serie de trágicas pruebas impuestas por Venus para separar a los amantes, Psique cae en un sueño mágico y mortal profundo tras abrir una caja prohibida del inframundo. La escultura de Canova inmortaliza el momento exacto en el que Cupido desciende del cielo, abraza a su amada y la despierta de la muerte con un beso.
 

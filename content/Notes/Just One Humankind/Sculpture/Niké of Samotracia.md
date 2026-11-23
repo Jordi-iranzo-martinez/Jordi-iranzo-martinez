@@ -6,4 +6,4 @@ tags:
 ![[Web/content/Visual/nike.png|276x368]]
 
 
-[[Greeks]]
+[[Ancient Greeks]]

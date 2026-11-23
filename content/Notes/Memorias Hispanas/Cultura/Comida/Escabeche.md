@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El escabeche es una técnica tradicional de conservación y cocinado muy arraigada en la gastronomía española (así como en Portugal y gran parte de Latinoamérica), que consiste en sumergir alimentos previamente cocinados en una salsa o caldo elaborado a base de vinagre, aceite de oliva, vino blanco (en ocasiones), laurel, pimienta en grano y pimentón o azafrán.
 

@@ -14,7 +14,7 @@ Es el símbolo de la primavera. Tienen un comportamiento migratorio extremo:
 Una golondrina europea puede viajar más de 10,000 kilómetros hasta Sudáfrica en travesías llenas de peligros.
 
 
-[[Europe]], [[Asia]] and [[North America]]. [[Web/content/Notes/Just One Planet/Life!/Wonderful Places/Africa|Africa]], [[South America]] and the south of [[Asia]].
+[[Europe]], [[Asia]] and [[North America]]. [[Web/content/Notes/Just One Planet/Biodiversity/Wonderful places/Africa|Africa]], [[South America]] and the south of [[Asia]].
 
 [[South Africa]]
 

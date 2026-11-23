@@ -1,6 +1,12 @@
 ---
 tags:
   - 0_AD
+  - Age_of_Empires_II
+  - Europa_Barbarorum
+  - Mount_and_Blade
+  - American_Conquest
+  - Assassins_Creed
+  - Broken_Sword
 ---
 
 

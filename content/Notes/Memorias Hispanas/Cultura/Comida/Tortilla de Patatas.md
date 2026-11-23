@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La tortilla de patatas (o tortilla española) es el plato más icónico y universal de la gastronomía de [[España]]. 
 

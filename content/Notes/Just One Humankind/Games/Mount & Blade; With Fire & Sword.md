@@ -64,7 +64,7 @@ The Streltsy (Marksmen): Russia possesses an incredibly unique ranged roster, in
 
 #### The Zaporozhian Host
 
-The Zaporozhian Host represent a fiercely independent, democratic society of warrior-frontiersmen known as cossacks ([[Cossacks]]).
+The Zaporozhian Host represent a fiercely independent, democratic society of warrior-frontiersmen known as cossacks ([[Web/content/Notes/Just One Humankind/Games/Cossacks]]).
 
 Located in the southern steppes (modern-day Ukraine), they are a highly unique faction that relies on mobile warfare, unconventional tactics, and a fierce hatred of Polish feudal rule.
 

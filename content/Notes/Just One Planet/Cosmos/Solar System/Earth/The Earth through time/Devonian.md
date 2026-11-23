@@ -1,5 +1,5 @@
 
-The Devonian (spanning from 419.2 to 358.9 million years ago during the Paleozoic Era) is famously known among scientists as the "Age of [[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]" because marine ecosystems experienced an unprecedented explosion of fish diversity and jawed predators.
+The Devonian (spanning from 419.2 to 358.9 million years ago during the Paleozoic Era) is famously known among scientists as the "Age of [[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes]]" because marine ecosystems experienced an unprecedented explosion of fish diversity and jawed predators.
 
 The Devonian oceans witnessed a massive diversification of jawed fish, which rapidly replaced the primitive, jawless filter-feeders of earlier eras:
 
@@ -18,7 +18,7 @@ Placoderms (Armored Fish): These were the undisputed rulers of the Devonian seas
 - **Lobe-Finned Fish**: A specialized group of bony fish developed muscular, lobed fins with internal bone structures. These fins eventually evolved into limbs, leading directly to the first land-walking vertebrates (tetrapods) like _**Tiktaalik**_ and _Ichthyostega_.
 
 
-[[Just One Planet/Life!/Taxonomy/Zoology/Fishes]]
+[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes]]
 
 - Dunkleosteus (*Dunkleosteus terrelli*)
 - Gogo fish (*Mcnamaraspis kaprios*)

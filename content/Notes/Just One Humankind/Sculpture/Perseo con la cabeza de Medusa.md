@@ -6,4 +6,4 @@ tags:
 ![[perseo-medusa.png]]
 
 
-[[Greeks]]
+[[Ancient Greeks]]

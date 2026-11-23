@@ -4,4 +4,4 @@
 
 ![[12_Eneas_Anquises.jpg]]
 
-[[Greeks]]
+[[Ancient Greeks]]

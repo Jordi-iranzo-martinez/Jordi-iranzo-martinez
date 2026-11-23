@@ -15,7 +15,7 @@ Ingredientes principales (Tortitas de ahuautle en salsa)
 - **Tortitas**: Huevos frescos (claras montadas a punto de nieve y yemas), una pizca de harina o pan molido (opcional para dar firmeza) y aceite para freír.
 - **Salsa y guarnición**: Tomate verde (tomatillo) o jitomate rojo, chile serrano o guajillo, cebolla, ajo, ramas de epazote fresco y nopales cocidos cortados en tiras.
 
-*[[Web/content/Notes/Just One Planet/Life!/Taxonomy/Zoology/Insects|Insects]]*
+*[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]]*
 
 Elaboración (Tortitas de ahuautle tradicionales)
 

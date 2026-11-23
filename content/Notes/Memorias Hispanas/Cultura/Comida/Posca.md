@@ -1,9 +1,11 @@
+---
+tags:
+  - Plant-based
+---
 
 La posca era la bebida refrescante y reconstituyente cotidiana por excelencia de la Antigua Roma, consumida habitualmente por las legiones romanas en marcha, los campesinos y las clases populares (y célebre en los Evangelios por ser la bebida que ofrecieron con una esponja a Jesús en la cruz).
 
 *[[Romanos]]*
-
-La posca era la bebida refrescante y reconstituyente cotidiana por excelencia de la Antigua Roma, consumida habitualmente por las legiones romanas en marcha, los campesinos y las clases populares (y célebre en los Evangelios por ser la bebida que ofrecieron con una esponja a Jesús en la cruz).
 
 Ingredientes (para 1 litro / 4 vasos)
 

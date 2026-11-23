@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La tarta de Santiago es el postre más emblemático de la gastronomía de [[Galicia]] ([[España]]) y cuenta con el sello europeo de Indicación Geográfica Protegida (IGP). 
 

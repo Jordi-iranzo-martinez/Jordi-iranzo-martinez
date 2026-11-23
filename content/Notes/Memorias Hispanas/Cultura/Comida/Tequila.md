@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El tequila es el destilado más famoso e icónico de [[México]], obtenido a partir de la fermentación y destilación del corazón (piña) del agave azul (*Agave tequilana* Weber variedad azul). 
 

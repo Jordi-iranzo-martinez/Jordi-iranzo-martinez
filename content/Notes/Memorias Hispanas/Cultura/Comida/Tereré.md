@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El tereré es la bebida nacional por excelencia de [[Paraguay]] (reconocida como Patrimonio Cultural Inmaterial de la Humanidad por la [[UNESCO]]) y sumamente popular también en el noreste de [[Argentina]] (Misiones, Corrientes, Formosa, Chaco) y en el sur y centro-oeste de [[Brasil]] (tereré o terere).
 

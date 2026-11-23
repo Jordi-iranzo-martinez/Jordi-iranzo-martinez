@@ -1,5 +1,9 @@
+---
+tags:
+  - Plant-based
+---
 
-Las puches (también llamadas gachas dulces o poleá en Andalucía) son un postre tradicional español muy humilde y reconfortante, típico de la noche de Todos los Santos (1 de noviembre) en regiones como La Mancha, [[Aragón]], [[Madrid]] y [[Andalucía]]. 
+Las puches (también llamadas gachas dulces o poleá en Andalucía) son un postre tradicional español muy humilde y reconfortante, típico de la noche de Todos los Santos (1 de noviembre) en regiones como [[Castilla-La Mancha]], [[Aragón]], [[Madrid]] y [[Andalucía]]. 
 
 Consisten en unas gachas cremosas elaboradas a base de harina de trigo tostada, aceite de oliva aromatizado con matalahúva (anís), leche (o agua), azúcar o miel y picatostes de pan frito.
 

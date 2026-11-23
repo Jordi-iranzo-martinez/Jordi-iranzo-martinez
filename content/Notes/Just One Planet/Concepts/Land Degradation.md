@@ -1,5 +1,7 @@
 
-Land degradation is the temporary or permanent decline in the productive capacity of land due to human activities and environmental changes. It is one of the world's most pressing environmental challenges, currently affecting over 3.2 billion people globally and threatening food security, biodiversity, and climate stability.
+Land degradation is the temporary or permanent decline in the productive capacity of land due to human activities and environmental changes.
+
+It is one of the world's most pressing environmental challenges, currently affecting over 3.2 billion people globally and threatening food security, biodiversity, and climate stability.
 
 It can happen anywhere in the world (e.g., tropical rainforests, fertile valleys, wetlands, or mountain regions).
 

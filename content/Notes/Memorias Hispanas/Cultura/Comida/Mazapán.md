@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El mazapán es uno de los dulces más antiguos y emblemáticos de la repostería española —de origen andalusí y arraigado históricamente en [[Toledo]], así como en la [[Comunidad Valenciana]] (donde es protagonista de la Mocadorà de Sant Donís con sus características frutas y verduras de mazapán) y en toda [[España]] durante la [[Navidad]]—.
 

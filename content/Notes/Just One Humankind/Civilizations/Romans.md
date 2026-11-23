@@ -2,6 +2,10 @@
 tags:
   - 0_AD
   - Total_War
+  - Age_of_Empires_II
+  - Europa_Barbarorum
+  - Mount_and_Blade
+  - Sierra
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GXoEpNjgKzg?si=xh87hJ6ZCVUWnadE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

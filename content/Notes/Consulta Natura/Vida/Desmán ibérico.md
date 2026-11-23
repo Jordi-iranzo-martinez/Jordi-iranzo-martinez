@@ -15,7 +15,7 @@ Habita en ríos y arroyos de montaña de aguas permanentes, limpias, frías y mu
 
 Es un insectívoro muy voraz (necesita ingerir diariamente casi su propio peso en alimento). Bucea de noche para capturar larvas bentónicas de insectos acuáticos como tricópteros, plecópteros y efemerópteros.
 
-*[[Web/content/Notes/Just One Planet/Life!/Taxonomy/Zoology/Insects|Insects]]*
+*[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]]*
 
 España alberga al 70% de la población mundial. El territorio español ha constituido siempre el núcleo principal de supervivencia mundial del desmán.
 

@@ -1,5 +1,9 @@
+---
+tags:
+  - Plant-based
+---
 
-Las almojábanas son un dulce tradicional de origen hispanomusulmán muy arraigado en la Comunidad Valenciana, la Región de Murcia, Aragón y Castilla-La Mancha ([[España]]) (además de contar con versiones muy populares en países latinoamericanos como Colombia, Puerto Rico y Panamá). 
+Las almojábanas son un dulce tradicional de origen hispanomusulmán muy arraigado en la [[Comunidad Valenciana]], la [[Región de Murcia]], [[Aragón]] y [[Castilla-La Mancha]] ([[España]]) (además de contar con versiones muy populares en países latinoamericanos como Colombia, Puerto Rico y Panamá). 
 
 Consisten en buñuelos, roscos o panecillos esponjosos elaborados originalmente con masa de queso o masa escaldada, horneados y bañados en miel o azúcar.
 

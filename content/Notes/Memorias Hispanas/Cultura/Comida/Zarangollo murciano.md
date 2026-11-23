@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El zarangollo murciano es el plato de huerta más emblemático y popular de la [[Región de Murcia]]. 
 

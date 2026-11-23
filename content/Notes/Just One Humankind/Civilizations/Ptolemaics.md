@@ -1,6 +1,9 @@
 ---
 tags:
   - 0_AD
+  - Europa_Barbarorum
+  - Sierra
+  - Assassins_Creed
 ---
 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El gazpacho andaluz es una sopa fría tradicional de la gastronomía española elaborada a base de hortalizas crudas trituradas, aceite de oliva virgen extra, vinagre y sal.
 

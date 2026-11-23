@@ -1,5 +1,11 @@
+---
+tags:
+  - Plant-based
+---
 
 El salmorejo (especialmente el salmorejo cordobés) es la crema fría más emblemática de la gastronomía de [[Andalucía]]. 
+
+*[[Córdoba]]*
 
 Se elabora únicamente con cinco ingredientes puros: tomates maduros, pan asentado de telera cordobesa (o pan candeal), aceite de oliva virgen extra, ajo y sal.
 

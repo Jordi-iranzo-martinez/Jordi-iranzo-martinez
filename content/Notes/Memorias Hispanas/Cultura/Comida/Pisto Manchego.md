@@ -1,5 +1,9 @@
+---
+tags:
+  - Plant-based
+---
 
-El pisto manchego es uno de los platos más tradicionales y representativos de la gastronomía de Castilla-La Mancha y del centro de España. 
+El pisto manchego es uno de los platos más tradicionales y representativos de la gastronomía de [[Castilla-La Mancha]] y del centro de España. 
 
 Consiste en una fritada o guiso lento de verduras de la huerta cortadas en dados pequeños y pochadas en abundante aceite de oliva virgen extra con tomate maduro, originado por los campesinos manchegos para aprovechar las hortalizas de verano.
 

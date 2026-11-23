@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La sopa boba es uno de los platos históricos más humildes y emblemáticos de la gastronomía española (documentado desde el Siglo de Oro en obras literarias como [[El Buscón]] de [[Quevedo]]). 
 

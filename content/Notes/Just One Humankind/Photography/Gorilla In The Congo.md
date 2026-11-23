@@ -9,7 +9,7 @@ year: "2007"
 ![[Web/content/Visual/photography_gorilla.png]]
 
 
-[[Gorilla]]
+[[Gorillas]]
 
 [[Congo Basin]]
 

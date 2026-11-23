@@ -26,18 +26,22 @@ Preparación paso a paso
     - Precalienta el horno a 160 °C (calor arriba y abajo, sin ventilador) y mete una fuente honda con agua caliente para preparar el baño María.
     - Pon en un cazo pequeño los 100 g de azúcar, las 2 cucharadas de agua y las gotas de limón a fuego medio sin remover con cuchara (solo moviendo el cazo por el mango) hasta lograr un caramelo de color ámbar dorado.
     - Viértelo inmediatamente en el molde elegido y gíralo con cuidado para cubrir bien el fondo. Déjalo enfriar hasta que endurezca.
+
 2. **Preparar el almíbar a punto de hebra**:
     - Pon en un cazo limpio los 350 g de azúcar, los 250 ml de agua y la piel de limón (si la usas).
     - Calienta a fuego medio removiendo al principio hasta que el azúcar se disuelva. Cuando rompa a hervir, deja cocer sin remover durante 6-8 minutos hasta alcanzar un almíbar a punto de hebra floja (al tomar una gota entre los dedos índice y pulgar ya templada y separarlos, se forma un hilo fino que se corta rápido).
     - Retira del fuego, saca la piel de limón y deja que el almíbar temple durante 10-15 minutos (es fundamental que no esté hirviendo al mezclarlo con las yemas para no cuajarlas).
+
 3. **Integrar las yemas sin espumar** (el secreto de su textura lisa):
     - Pon las 12 yemas (y el huevo entero, si lo usas) en un bol amplio y bátelas suavemente con unas varillas manuales solo para romperlas, sin incorporar aire ni hacer espuma (si entra aire quedarán agujeritos en lugar de una textura compacta y brillante).
     - Vierte el almíbar templado en un hilo fino y continuo sobre las yemas sin dejar de remover suavemente con las varillas hasta integrar por completo.
     - Pasa la mezcla por un colador fino (o chino) hacia una jarra para eliminar cualquier impureza o resto de clara/espuma.
+
 4. **Hornear al baño María suave**:
     - Vierte la mezcla colada con cuidado dentro del molde caramelizado y tápalos herméticamente con papel de aluminio (esto evita que entre vapor de agua o se forme costra dura en la superficie).
     - Coloca el molde dentro de la fuente con agua caliente en el horno (el agua debe cubrir al menos la mitad de la altura del molde, procurando que nunca hierva a borbotones).
     - Hornea a 160 °C durante 35-45 minutos (si usas flaneras individuales bastará con 25-30 minutos), hasta que al pinchar el centro con un palillo salga limpio y el conjunto esté firme al tacto.
+
 5. **Enfriar y desmoldar**:
     - Saca el molde del baño María con cuidado, retira el papel de aluminio y deja que temple a temperatura ambiente.
     - Refrigera en la nevera durante al menos 6 horas (idealmente de un día para otro) para que coja toda su firmeza y brillo.

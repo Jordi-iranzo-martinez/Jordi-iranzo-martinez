@@ -15,7 +15,7 @@ Without insects, terrestrial food webs and ecosystems would completely collapse:
 
 [[Pollination]]: Insects—especially bees, butterflies, and beetles—are the primary pollinators of the world's flowering plants. They are responsible for pollinating roughly **75% of global crop species**, making them vital for human nutrition and food security.
 
-Decomposition and [[Web/content/Notes/Just One Planet/Concepts/Soil]] Health: Many insects act as nature's recycling crew. Beetles and ants break down dead organic matter and animal waste, accelerating the formation of nutrient-rich humus and **compost** to enrich the **soil**.
+Decomposition and [[Soil 1]] Health: Many insects act as nature's recycling crew. Beetles and ants break down dead organic matter and animal waste, accelerating the formation of nutrient-rich humus and **compost** to enrich the **soil**.
 
 The Foundation of the [[Food]] Chain: Insects are a primary source of nutrients for countless animals. For instance, the larvae of many insects serve as the main food source for developing tadpoles and adults in amphibian ponds.
 

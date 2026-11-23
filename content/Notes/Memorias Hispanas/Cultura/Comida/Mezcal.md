@@ -1,5 +1,11 @@
+---
+tags:
+  - Plant-based
+---
 
-El mezcal es una bebida alcohólica destilada tradicional de [[México]], obtenida a partir de la fermentación y destilación del corazón (piña) de diversas especies de agave (maguey). Es famoso por su elaboración artesanal y su característico perfil de sabor complejo, terroso y ahumado.
+El mezcal es una bebida alcohólica destilada tradicional de [[México]], obtenida a partir de la fermentación y destilación del corazón (piña) de diversas especies de agave (maguey).
+
+Es famoso por su elaboración artesanal y su característico perfil de sabor complejo, terroso y ahumado.
 
 *Su nombre proviene del náhuatl mexcalli, compuesto por metl (maguey) e ixcalli (cocido), que significa "maguey cocido". Aunque los pueblos mesoamericanos ya cocían y fermentaban el agave desde tiempos prehispánicos, la destilación se introdujo durante la época colonial dando origen al mezcal actual.*
 

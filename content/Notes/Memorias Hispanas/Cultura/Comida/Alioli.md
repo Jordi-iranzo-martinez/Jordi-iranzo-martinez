@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El alioli (del catalán _all i oli_, literalmente "ajo y aceite") es una salsa emulsionada tradicional de la gastronomía mediterránea, especialmente arraigada en Cataluña, la Comunidad Valenciana, Baleares y Murcia ([[España]]). 
 

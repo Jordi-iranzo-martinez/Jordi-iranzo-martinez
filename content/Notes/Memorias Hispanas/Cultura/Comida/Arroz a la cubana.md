@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El arroz a la cubana es uno de los platos caseros más populares, sencillos y reconfortantes de la gastronomía cotidiana de [[España]]. 
 

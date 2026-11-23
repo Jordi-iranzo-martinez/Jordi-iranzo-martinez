@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La sala cattabia (escrita a veces _sala catabia_) es una receta fría y refrescante de la Antigua Roma, recogida en el famoso recetario _De re coquinaria_ (siglo I d. C.) atribuido a Marco Gavio Apicio. 
 

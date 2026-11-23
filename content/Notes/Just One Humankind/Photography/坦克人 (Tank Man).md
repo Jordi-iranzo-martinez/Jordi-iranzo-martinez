@@ -9,7 +9,7 @@ year: "1989"
 
 [[China]]
 
-[[Chinese]]
+[[Ancient Chinese]]
 
 "Tank Man" is the moniker given to an unidentified individual who stood before a column of military tanks on Chang'an Avenue in Beijing on June 5, 1989. Taking place a day after the government crackdown in Tiananmen Square, this act of defiance became a global symbol of peaceful resistance.
 

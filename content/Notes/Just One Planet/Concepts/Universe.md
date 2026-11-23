@@ -1,6 +1,13 @@
 
 Universe
 
+[StarTalk Radio Show](https://startalkmedia.com/), a podcast chaired by astronomist Neil deGrasse Tyson
+
+like the education playlist [Journeys Through Geologic Time](https://youtube.com/playlist?list=PLi6K9w_UbfFSFIpEU9VMavTM5MIbOAiW5&feature=shared)
+
+[National Aeronautics and Space Administration](https://www.nasa.gov/) (NASA)
+
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HdPzOWlLrbE?si=SFdzTGMkGA4TZfTz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oz-Y1Xzx5iQ?si=C1wR3DdeK3xzE5S_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

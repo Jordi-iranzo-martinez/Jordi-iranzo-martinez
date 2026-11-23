@@ -6,7 +6,7 @@ year: "2013"
 
 Using custom-built macroscopic 3D camera rigs, the series shrinks viewers down to bug-size to explore the hidden, alien-like lives of terrestrial arthropods—insects, spiders, and scorpions—which account for over 80% of all known animal species on Earth.
 
-*[[Arachnids]] and [[Just One Planet/Life!/Taxonomy/Zoology/Insects|Insects]]*
+*[[Arachnids]] and [[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]]*
 
 The original 2013 series consists of six 22-to-25-minute thematic episodes, accompanied by a behind-the-scenes special:
 

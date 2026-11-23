@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La fabada asturiana es el plato de cuchara más emblemático y representativo de la gastronomía del Principado de [[Asturias]]. 
 

@@ -6,7 +6,7 @@ year: "1943"
 ---
 Le Chant des Partisans (en español: "El canto de los partisanos") es el himno oficial de la Resistencia francesa durante la ocupación nazi en la Segunda Guerra Mundial.
 
-La melodía fue compuesta por Anna Marly en 1941, refugiada rusa en Londres, inspirado en el ritmo de las marchas cosacas ([[Cossacks]]).
+La melodía fue compuesta por Anna Marly en 1941, refugiada rusa en Londres, inspirado en el ritmo de las marchas cosacas ([[Web/content/Notes/Just One Humankind/Games/Cossacks]]).
 
 En mayo de 1943, los escritores franceses Maurice Druon y su tío Joseph Kessel, pertenecían a las fuerzas de la Francia Libre lideradas por el general Charles de Gaulle,  escribieron la letra en francés en un hotel de Londres. Ambos. 
 

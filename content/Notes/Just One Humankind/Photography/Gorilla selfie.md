@@ -5,5 +5,5 @@ tags:
 
 
 
-[[Gorilla]]
+[[Gorillas]]
 

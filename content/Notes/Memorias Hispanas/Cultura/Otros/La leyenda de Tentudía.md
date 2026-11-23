@@ -21,5 +21,4 @@ En el interior del monasterio, justo a la derecha del altar mayor (donde reposa 
 
 El espíritu de la leyenda sigue muy presente. Cada año, en el mes de agosto, los vecinos de la cercana localidad de Calera de León se visten de época y realizan una colorida recreación teatral de la Batalla de Tentudía para conmemorar este hito cultural de su historia.
 
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g6VDnkV-zBU?si=o2JEy-jsYQ5xyUDp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

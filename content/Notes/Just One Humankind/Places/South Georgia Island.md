@@ -3,7 +3,7 @@
 
 Located roughly 1,400 kilometers (870 miles) east-southeast of the Falkland Islands, it is world-famous for its dramatic glaciers, extraordinarily dense wildlife colonies, and central role in Antarctic exploration history.
 
-[[Penguin]], [[Antarctica]]
+[[Penguins]], [[Antarctica]]
 
 Stretching about 170 kilometers (106 miles) long, the island is dominated by steep, snow-capped mountains—rising to 2,934 meters (9,626 feet) at Mount Paget—along with massive glaciers and deep fjords.
 
@@ -15,7 +15,7 @@ There are no permanent residents; the island is home only to visiting scientists
 
 Because its surrounding waters are rich in krill, South Georgia hosts one of the greatest concentrations of wildlife on Earth, including hundreds of thousands of king penguins, millions of macaroni penguins, and wandering albatrosses.
 
-*[[Penguin]], [[Albatross]]*
+*[[Penguins]], [[Albatross]]*
 
 Its beaches are packed with millions of Antarctic fur seals and massive southern elephant seals, while surrounding waters have seen a remarkable recovery of humpback, blue, and fin whales.
 

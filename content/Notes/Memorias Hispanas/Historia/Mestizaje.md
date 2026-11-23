@@ -6,7 +6,7 @@ subtitle: Hispanismo
 ### Civilizaciones
 
 - [[Aztecas]]
-- [[Incas]]
+- [[Pruebas de edición/content/Div/Notas/Memorias Hispanas/Incas]]
 - [[Maya]]
 - [[Árabes]]
 - [[Romanos]]

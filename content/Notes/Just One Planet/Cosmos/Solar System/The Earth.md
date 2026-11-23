@@ -12,7 +12,7 @@
 
 - **Geosphere**: rock
 
-- **Edaphosphere**: [[Web/content/Notes/Just One Planet/Life!/Ecosytems/Soil]]
+- **Edaphosphere**: [[Soil]]
 
 - **Biosphere**: by [[Web/content/Notes/Just One Planet/Concepts/Life]]
 

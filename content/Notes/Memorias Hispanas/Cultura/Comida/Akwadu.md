@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 El akwadu es uno de los postres más tradicionales, sencillos y populares de [[Guinea Ecuatorial]] (especialmente en la isla de Bioko y entre la cultura bubi y fernandina). 
 

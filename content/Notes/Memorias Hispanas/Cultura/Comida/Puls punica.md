@@ -1,5 +1,11 @@
+---
+tags:
+  - Plant-based
+---
 
-El puls punica (o _puls carthaginiensis_, conocida como gachas cartaginesas o púnicas) es una receta dulce y muy nutritiva de la Antigua Roma de origen cartaginés, recogida por el escritor y estadista romano Catón el Viejo en su tratado _De agri cultura_ (siglo II a. C.). Es considerada una de las antecesoras directas del arroz con leche, el manjar blanco o las gachas dulces.
+El puls punica (o _puls carthaginiensis_, conocida como gachas cartaginesas o púnicas) es una receta dulce y muy nutritiva de la Antigua Roma de origen cartaginés, recogida por el escritor y estadista romano Catón el Viejo en su tratado _De agri cultura_ (siglo II a. C.).
+
+Es considerada una de las antecesoras directas del arroz con leche, el manjar blanco o las gachas dulces.
 
 *[[Cartagineses]], [[Romanos]]*
 

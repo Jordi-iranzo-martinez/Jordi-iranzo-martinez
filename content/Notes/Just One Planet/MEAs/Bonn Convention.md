@@ -25,7 +25,7 @@ Te [Convention on the Conservation of Migratory Species of Wild Animals](https:/
 
 - **Agreement on the Conservation of Populations of European Bats** (EUROBATS): [[Chiroptera]]
 
-- **Agreement on the Conservation of Gorillas and their Habitats** ([[Gorilla]] Agreement): 
+- **Agreement on the Conservation of Gorillas and their Habitats** ([[Gorillas]] Agreement): 
 
 - **Agreement on the Conservation of Seals in the Wadden Sea** (Wadden Sea Seals)
 

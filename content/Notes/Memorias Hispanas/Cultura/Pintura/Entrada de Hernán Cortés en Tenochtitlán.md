@@ -5,7 +5,7 @@ author: Augusto Ferrer-Dalmau Nieto
 ---
 ![[Web/content/Visual/ferrer-dalmau_entrada-tenochtitlan.png|662x412]]
 
-[[Hernán Cortés]]
+[[Web/content/Notes/Memorias Hispanas/Personas/Hernán Cortés]]
 
 Hernán Cortés llegó a Tenochtitlán, la capital del Imperio azteca, el 8 de noviembre de 1519, acompañado por unos 400 españoles y miles de guerreros nativos enemigos de los aztecas, principalmente de la Confederación de Tlaxcala.
 

@@ -1,0 +1,6 @@
+---
+tags:
+  - Animal_Crossing
+---
+
+

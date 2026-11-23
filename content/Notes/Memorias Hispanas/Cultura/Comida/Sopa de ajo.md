@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La sopa de ajo (conocida también como sopa castellana) es uno de los platos de cuchara más tradicionales y reconfortantes de la gastronomía española, especialmente arraigada en Castilla y León, Castilla-La Mancha y Madrid ([[España]]). 
 

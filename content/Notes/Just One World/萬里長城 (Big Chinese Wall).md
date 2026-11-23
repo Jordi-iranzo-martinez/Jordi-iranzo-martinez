@@ -4,6 +4,6 @@ tags:
 ---
 
 
-[[Chinese]]
+[[Ancient Chinese]]
 
 

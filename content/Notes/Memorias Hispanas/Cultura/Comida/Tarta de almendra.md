@@ -1,3 +1,7 @@
+---
+tags:
+  - Plant-based
+---
 
 La tarta de almendra (cuyo máximo exponente en España es la tradicional [[Tarta de Santiago]], con variantes hermanas también muy arraigadas en toda la Comunidad Valenciana como la coca d'ametlla o tarta de almendra valenciana) es uno de los bizcochos más jugosos, aromáticos y sencillos de la repostería española.
 

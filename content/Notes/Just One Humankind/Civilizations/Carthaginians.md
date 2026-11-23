@@ -2,6 +2,8 @@
 tags:
   - 0_AD
   - Total_War
+  - Europa_Barbarorum
+  - Age_of_Empires_II
 ---
 
 El gran patriarca de la guerra! Te refieres a **Amílcar Barca** (275 a.C. – 228 a.C.), el legendario general cartaginés y **padre del famosísimo Aníbal Barca** (el hombre que cruzó los Alpes con elefantes para atacar a Roma).
