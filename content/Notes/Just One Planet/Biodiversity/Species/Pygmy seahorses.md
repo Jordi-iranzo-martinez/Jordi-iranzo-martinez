@@ -17,7 +17,7 @@ Unlike larger seahorses, pygmy seahorses have evolved specialized anatomical tra
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q3CtGoqz3ww?si=wkKngQkh7Pmt_XO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Most of the eight recognized species live in the [[Coral Triangle]] of Southeast [[Asia]] (Indonesia, the Philippines, Malaysia, and Papua [[New Guinea]]), though species also occur in [[Japan]], [[Australia]], and [[South Africa]]:
+Most of the eight recognized species live in the [[Coral Triangle]] of Southeast [[Asia]] (Indonesia, the Philippines, Malaysia, and Papua [[New Guinea]]), though species also occur in [[Web/content/Notes/Just One Humankind/Just One World/Japan]], [[Australia]], and [[South Africa]]:
 
 - **Obligate coral dwellers**. _Hippocampus bargibanti_ and Denise's pygmy seahorse (_H. denise_) live exclusively on specific gorgonian sea fans at depths of 10 to 50 meters.
 

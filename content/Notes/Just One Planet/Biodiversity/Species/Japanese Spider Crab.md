@@ -3,7 +3,7 @@ The Japanese spider crab (*Macrocheira kaempferi*) is a deep-sea marine crab nat
 
 Known in Japanese as taka-ashi-gani (literally "tall-legged crab"), it is considered a "living fossil" because it is the sole surviving member of the ancient genus Macrocheira.
 
-*[[Crustacea]], [[Deep Ocean]], [[Web/content/Notes/Just One World/Japan|Japan]]
+*[[Crustacea]], [[Deep Ocean]], [[Web/content/Notes/Just One Humankind/Just One World/Japan|Japan]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IzL_T0mivzI?si=HwiOyLZNhcHFNtvj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

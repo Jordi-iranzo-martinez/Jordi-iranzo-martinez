@@ -1,7 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Jurassic_Park
+  - Paleo
+  - Prehistoric_Kingdom
 ---
 
 The Velociraptor (*Velociraptor mongoliensis*)

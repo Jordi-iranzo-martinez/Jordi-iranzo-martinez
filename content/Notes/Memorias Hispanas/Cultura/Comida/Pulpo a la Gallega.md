@@ -10,7 +10,7 @@ Su éxito radica en realzar el sabor puro del cefalópodo con apenas cuatro ingr
 Ingredientes principales
 
 - **Pulpo**. Se utiliza pulpo común (_Octopus vulgaris_), preferiblemente de buen tamaño (entre 2 y 3 kilos) para que las rodajas tengan buen grosor y jugosidad.
-	[[Octopuses]]
+	[[Octopus]]
 
 - **Aliño**. Lleva exclusivamente aceite de oliva virgen extra (en Galicia se emplea tradicionalmente aceite de oliva suave o de variedades gallegas como la brava), pimentón (una mezcla de pimentón dulce y pimentón picante al gusto, habitualmente de La Vera) y sal gorda o en escamas.
 

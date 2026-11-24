@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Beyond_Blue
 ---
 
 The Great Barracuda (*Sphyraena barracuda*) i

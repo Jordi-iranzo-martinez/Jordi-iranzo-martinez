@@ -28,7 +28,7 @@ Major Branches of Buddhism
 
 - **Theravada** ("School of the Elders"). The oldest surviving tradition, rooted in early Pali scriptures and focused on personal liberation through meditation and monastic discipline. It predominates in Thailand, Sri Lanka, Myanmar, Laos, and Cambodia.
 
-- **Mahayana** ("Great Vehicle"). Emphasizes universal compassion and the ideal of the _bodhisattva_—an enlightened being who delays final nirvana to help all other beings achieve liberation. It includes Zen and Pure Land traditions and predominates in [[China]], [[Japan]], [[Korea]], and Vietnam.
+- **Mahayana** ("Great Vehicle"). Emphasizes universal compassion and the ideal of the _bodhisattva_—an enlightened being who delays final nirvana to help all other beings achieve liberation. It includes Zen and Pure Land traditions and predominates in [[China]], [[Web/content/Notes/Just One Humankind/Just One World/Japan]], [[Korea]], and Vietnam.
 
 - **Vajrayana** ("Diamond Vehicle" or Tibetan Buddhism). Developed in [[Tibet]] and the Himalayas, it uses specialized rituals, mantras, mandalas, and visualization practices to accelerate enlightenment. It is practiced primarily in Tibet, Bhutan, and Mongolia.
 

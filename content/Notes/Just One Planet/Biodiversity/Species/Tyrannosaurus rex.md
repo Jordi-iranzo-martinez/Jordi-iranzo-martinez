@@ -1,10 +1,10 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - The_Land_Before_Time
   - Jurassic_Park
   - Paleo
+  - Prehistoric_Kingdom
 ---
 
 Tyrannosaurus rex (*Tyrannosaurus rex*) meaning 

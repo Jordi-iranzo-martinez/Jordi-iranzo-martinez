@@ -1,7 +1,7 @@
 
 福岡 正信 (Masanobu Fukuoka) (1913–2008) was a Japanese farmer, microbiologist, and philosopher celebrated as the pioneer of natural farming (shizen nōhō), often called "do-nothing" farming. 
 
-Through decades of experimentation on his family farm on [Shikoku Island](https://www.google.com/maps/search/Shikoku%2C+Japan) ([[Web/content/Notes/Just One World/Japan|Japan]]), he demonstrated that crops could achieve yields equal to modern industrial agriculture without plowing, chemical fertilizers, pesticides, or weeding.
+Through decades of experimentation on his family farm on [Shikoku Island](https://www.google.com/maps/search/Shikoku%2C+Japan) ([[Web/content/Notes/Just One Humankind/Just One World/Japan|Japan]]), he demonstrated that crops could achieve yields equal to modern industrial agriculture without plowing, chemical fertilizers, pesticides, or weeding.
 
 ![[Web/content/Visual/masanobu-fukuoka.jpg|424x407]]
 

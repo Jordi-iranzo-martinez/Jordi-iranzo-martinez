@@ -1,10 +1,10 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Beyond_Blue
 ---
 
-The white-spotted pufferfish (*Torquigener albomaculosus*) is a small marine fish native to the waters off [[Japan]]'s Ryukyu Islands, famous for creating intricate geometric sand circles on the seafloor.
+The white-spotted pufferfish (*Torquigener albomaculosus*) is a small marine fish native to the waters off [[Web/content/Notes/Just One Humankind/Just One World/Japan]]'s Ryukyu Islands, famous for creating intricate geometric sand circles on the seafloor.
 
 *[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes|Fishes]]*
 

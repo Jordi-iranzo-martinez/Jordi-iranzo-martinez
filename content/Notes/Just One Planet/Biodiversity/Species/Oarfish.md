@@ -25,4 +25,4 @@ Because they occasionally surface when sick, injured, or dying, ancient sailors 
 
 In Japanese folklore, the oarfish is known as ryugu no tsukai ("Messenger from the Sea God's Palace"). Legend holds that when oarfish wash ashore, an earthquake or tsunami is imminent, though scientific studies have found no reliable link between oarfish strandings and seismic activity.
 
-[[Web/content/Notes/Just One World/Japan|Japan]]
+[[Web/content/Notes/Just One Humankind/Just One World/Japan|Japan]]

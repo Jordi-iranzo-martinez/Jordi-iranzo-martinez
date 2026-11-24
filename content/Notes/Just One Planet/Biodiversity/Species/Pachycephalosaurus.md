@@ -1,9 +1,9 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - Jurassic_Park
   - Paleo
+  - Prehistoric_Kingdom
 ---
 
 Pachycephalosaurus (*Pachycephalosaurus wyomingensis*)

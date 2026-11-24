@@ -15,7 +15,7 @@ Its hindwings taper into long, graceful tails that twist slightly in flight. Lik
 
 Adult males possess large, broad, bipectinate (feather-like) antennae packed with sensitive chemoreceptors capable of detecting female pheromones from miles away.
 
-It inhabits deciduous and mixed forests across [[Japan]] (where it is known as _Ō-mizuao_), the Korean Peninsula, eastern [[China]], and the Russian Far East ([[Russia]])
+It inhabits deciduous and mixed forests across [[Web/content/Notes/Just One Humankind/Just One World/Japan]] (where it is known as _Ō-mizuao_), the Korean Peninsula, eastern [[China]], and the Russian Far East ([[Russia]])
 
 The plump, bright-green larvae feed voraciously on the leaves of a wide variety of broadleaf trees, including maple, alder, birch, willow, oak, cherry, and walnut.
 

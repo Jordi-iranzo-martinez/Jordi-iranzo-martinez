@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Beyond_Blue
 ---
 
 The Ocean Sunfish (*Mola mola*)

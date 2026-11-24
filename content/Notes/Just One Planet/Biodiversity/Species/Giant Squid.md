@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Game_of_Thrones
+  - Beyond_Blue
 ---
 
 The Giant Squid (*Architeuthis dux*)

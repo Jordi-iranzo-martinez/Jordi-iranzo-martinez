@@ -1,11 +1,12 @@
 ---
 tags:
-  - Just_One_Planet
   - The_Land_Before_Time
   - Jurassic_Park
+  - Paleo
+  - Prehistoric_Kingdom
 ---
 
-Stegosaurus (*Stegosaurus stenops*)
+Triceratops (*Triceratops horridus*)
 
 [[Reptiles]]
 

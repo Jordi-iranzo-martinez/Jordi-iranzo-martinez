@@ -1,6 +1,5 @@
 ---
 tags:
-  - Just_One_Planet
   - Pixar
   - Beyond_Blue
 ---

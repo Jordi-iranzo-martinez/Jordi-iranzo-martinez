@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Jurassic_Park
   - Paleo
+  - Prehistoric_Kingdom
 ---
 
 Spinosaurus (*Spinosaurus aegyptiacus*)

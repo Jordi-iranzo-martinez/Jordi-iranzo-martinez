@@ -1,6 +1,5 @@
 ---
 tags:
-  - Just_One_Planet
   - Jurassic_Park
   - Paleo
 ---
@@ -21,7 +20,7 @@ Its jaws held dozens of backward-curving, finely serrated teeth that continually
 
 Biomechanical studies show _Allosaurus_ had a relatively weak bite force compared to _T. rex_, but an extraordinarily wide jaw gape (able to open its mouth nearly 80 to 90 degrees) and powerful neck muscles. Paleontologists hypothesize it used its upper jaw like a hatchet or slasher—slamming its open mouth downward into large prey to tear out chunks of flesh and cause massive blood loss.
 
-*Allosaurus* hunted large herbivorous dinosaurs of its ecosystem, including armored [[Stegosaurus]], ornithopods like [[Camptosaurus]], and juvenile or weakened giant sauropods such as [[Diplodocus]], [[Apatosaurus]], and [[Camarasaurus]].
+*Allosaurus* hunted large herbivorous dinosaurs of its ecosystem, including armored [[Stegosaurus stenops]], ornithopods like [[Camptosaurus]], and juvenile or weakened giant sauropods such as [[Diplodocus]], [[Apatosaurus]], and [[Camarasaurus]].
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LPjN9FEptus?si=VGC2vK-9mxZaesrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

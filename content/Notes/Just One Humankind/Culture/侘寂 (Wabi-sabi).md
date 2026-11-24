@@ -4,7 +4,7 @@ tags:
 ---
 Wabi-sabi (侘寂) is a traditional Japanese aesthetic philosophy and worldview centered on the acceptance and appreciation of imperfection, impermanence, and incompleteness. Rooted in Zen [[Buddhism]] and the Japanese tea ceremony (chanoyu), it finds quiet beauty in things that are modest, weathered, asymmetrical, and naturally aged rather than polished, uniform, or permanent.
 
-*[[Web/content/Notes/Just One World/Japan|Japan]]*
+*[[Web/content/Notes/Just One Humankind/Just One World/Japan|Japan]]*
 
 Origins and Meaning of the Two Concepts
 

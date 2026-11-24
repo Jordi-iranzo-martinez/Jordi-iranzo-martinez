@@ -1,5 +1,5 @@
 
-雅楽 (Gagaku), literally meaning "elegant music," is the oldest classical music and dance tradition in [[Japan]]. Developed at the imperial court during the Nara and Heian periods (8th to 12th centuries), it is preserved as one of the world's oldest continuous performing arts and 
+雅楽 (Gagaku), literally meaning "elegant music," is the oldest classical music and dance tradition in [[Web/content/Notes/Just One Humankind/Just One World/Japan]]. Developed at the imperial court during the Nara and Heian periods (8th to 12th centuries), it is preserved as one of the world's oldest continuous performing arts and 
 
 The _gagaku_ repertoire blends indigenous Japanese traditions with continental musical influences introduced from China and the Korean Peninsula via the Silk Road:
 

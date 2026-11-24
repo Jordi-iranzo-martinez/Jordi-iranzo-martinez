@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Jurassic_Park
   - Paleo
+  - Prehistoric_Kingdom
 ---
 Ankylosaurus (*Ankylosaurus magniventris*) is an extinct genus of heavily armored thyreophoran dinosaur that lived at the very end of the Late [[Cretaceous]] period, roughly 68 to 66 million years ago, in western [[North America]]. 
 
