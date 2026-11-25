@@ -10,7 +10,7 @@ Las oposiciones son
 	- [[Temario Ministerio (orales)]] (A1)
 
 - Generalitat Valenciana
-	- [[Temario GVA]] (A1)
+	- [[Temario técnico de medio ambiente GVA]] (A1)
 
 - Administrativos del Estado
 	- Temario Administrativos del Estado (C1)

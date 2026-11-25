@@ -1,6 +1,7 @@
 ---
 tags:
   - Memorias_Hispanas
+year: "2010"
 ---
 La Guerra del Agua de Cochabamba fue un conflicto social ocurrido en Bolivia entre enero y abril de 2000, uno de los episodios más estudiados de resistencia popular contra la privatización de servicios básicos en América Latina.
 
