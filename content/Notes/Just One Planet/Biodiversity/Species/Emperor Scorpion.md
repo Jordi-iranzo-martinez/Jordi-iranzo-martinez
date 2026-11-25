@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Fallout
+  - Bug_and_Seek
 ---
 
 The Emperor Scorpion (*Pandinus imperator*)

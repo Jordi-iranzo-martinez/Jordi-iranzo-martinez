@@ -1,6 +1,6 @@
 ---
 tags:
-  - Memorias_Hispanas
+  - Blasphemous
 author: Diego Rodríguez de Silva y Velázquez
 year: "1656"
 ---

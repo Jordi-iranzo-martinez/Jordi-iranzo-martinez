@@ -1,7 +1,7 @@
 ---
 tags:
   - Living_Fossil
-  - ABZÛ
+  - Megaquarium
 ---
 
 Nautilus

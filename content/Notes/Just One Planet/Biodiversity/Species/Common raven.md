@@ -4,6 +4,8 @@ tags:
   - Pokémon
   - Harry_Potter
   - Game_of_Thrones
+  - Red_Redemption
+  - WolfQuest
 ---
 
 The Common Raven (*Corvus corax*)

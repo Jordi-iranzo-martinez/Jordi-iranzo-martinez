@@ -1,5 +1,5 @@
 
-Las hojuelas con miel (conocidas también como orejuelas, orejas de carnaval, hojuelas de Semana Santa o pestiños finos según la región de [[España]]: [[Castilla-La Mancha]], [[Castilla y León]], [[Aragón]], [[Extremadura]] y [[Andalucía]]) son uno de los dulces de sartén más antiguos y tradicionales de la repostería española, protagonizando las fiestas de invierno, el [[Carnaval]] y la [[Semana Santa]].
+Las hojuelas con miel (conocidas también como orejuelas, orejas de carnaval, hojuelas de Semana Santa o pestiños finos según la región de [[España]]: [[Castilla-La Mancha]], [[Castilla y León]], [[Aragón]], [[Extremadura]] y [[Andalucía]]) son uno de los dulces de sartén más antiguos y tradicionales de la repostería española, protagonizando las fiestas de invierno, el [[Carnaval]] y la [[Web/content/Notes/Memorias Hispanas/Cultura/Otros/Semana Santa]].
 
 Consisten en láminas muy finas y crujientes de masa elaboradas con harina, huevo, aceite de oliva aromatizado, vino blanco o licor de anís, fritas en aceite caliente hasta que se llenan de burbujas y ampollas doradas, y bañadas finalmente en un almíbar ligero de miel caliente (o espolvoreadas con azúcar y canela).
 

@@ -10,5 +10,5 @@ The Roman Senate, terrified by the growing strength of the slave army, sends its
 
 [[Gladiator]]
 
-[[Colosseum]]
+[[Web/content/Notes/Just One Humankind/Just One World/Colosseum]]
 

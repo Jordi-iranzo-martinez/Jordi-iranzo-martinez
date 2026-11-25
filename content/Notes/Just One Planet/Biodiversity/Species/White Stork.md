@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Wingspan
 ---
 
 The White Stork (*Ciconia ciconia*)

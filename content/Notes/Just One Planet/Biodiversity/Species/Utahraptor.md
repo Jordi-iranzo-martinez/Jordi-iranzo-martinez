@@ -1,6 +1,7 @@
 ---
 tags:
   - Paleo
+  - Prehistoric_Kingdom
 ---
 *Utahraptor* (Utahraptor ostrommaysi) is an extinct genus of giant theropod dinosaur belonging to the dromaeosaurid ("raptor") family. 
 

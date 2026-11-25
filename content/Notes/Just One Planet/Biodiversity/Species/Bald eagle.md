@@ -1,7 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Disney
+  - Red_Redemption
+  - WolfQuest
 ---
 
 The Bald eagle (*Haliaeetus leucocephalus*) is a large sea eagle native to [[North America]], ranging from [[Alaska]] and [[Canada]] across the contiguous [[United States of America]] to northern [[Mexico]].

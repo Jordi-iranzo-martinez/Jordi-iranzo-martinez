@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Alba
 ---
 
 The Feral Pigeon (*Columba livia*)

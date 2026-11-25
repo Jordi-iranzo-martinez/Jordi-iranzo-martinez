@@ -11,7 +11,7 @@ lion, leopard, African elephant, black rhinoceros, and Cape buffalo
 
 - [[Lion]]
 - [[Leopard]]
-- [[African Savannah Elephant]]
+- [[African BushElephant]]
 - Black [[Rhinoceros]]
 - [[Cape buffalo]]
 

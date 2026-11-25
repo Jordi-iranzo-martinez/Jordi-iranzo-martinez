@@ -9,7 +9,7 @@ Famous for its striking white-and-chestnut plumage and ringing, evocative callâ€
 
 Closely related to North America's bald eagle, the African fish eagle shares a similar appearance with several distinct features:
 
-*[[Bald eagle]]*
+*[[Bald Eagle]]*
 
 Adults have a snow-white head, chest, and tail contrasting sharply with a rich chestnut-brown belly and shoulders, and black flight feathers. Juveniles have mottled brown-and-white plumage until reaching maturity at around four to five years of age.
 

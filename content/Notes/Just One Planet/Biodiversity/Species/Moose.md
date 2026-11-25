@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Disney
+  - WolfQuest
 ---
 
 The Moose (*Alces alces*)

@@ -1,3 +1,7 @@
+---
+tags:
+  - Bug_and_Seek
+---
 
 The bumblebee (genus Bombus) is a large, hairy, and highly social insect belonging to the apid bee family (Apidae) ([[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]])
 

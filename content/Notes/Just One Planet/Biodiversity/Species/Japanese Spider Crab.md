@@ -1,3 +1,7 @@
+---
+tags:
+  - Megaquarium
+---
 
 The Japanese spider crab (*Macrocheira kaempferi*) is a deep-sea marine crab native to the waters around Japan, famous for having the largest leg span of any known arthropod. 
 

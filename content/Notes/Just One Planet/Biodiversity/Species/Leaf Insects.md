@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Bug_and_Seek
 ---
 
 Leaf insects (family Phylliidae, also known as walking leaves) are herbivorous insects in the order Phasmatodea famous for evolving flat, leaf-shaped bodies that provide near-perfect camouflage. Native to the tropical rainforests of South and Southeast Asia, Australia, and Melanesia, over 100 known species spend their lives blending into tree canopies.

@@ -4,6 +4,7 @@ tags:
   - Pokémon
   - Disney
   - Animal_Crossing
+  - Red_Redemption
 ---
 
 Domestic sheep (*Ovis aries*)

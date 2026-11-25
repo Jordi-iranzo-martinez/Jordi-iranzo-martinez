@@ -1,9 +1,10 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - Disney
   - Animal_Crossing
+  - Alba
+  - WolfQuest
 ---
 
 The Red fox (*Vulpes vulpes*)

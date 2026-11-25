@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Red_Redemption
 ---
 
 The Red swamp crayfish (Procambarus clarkii) i 

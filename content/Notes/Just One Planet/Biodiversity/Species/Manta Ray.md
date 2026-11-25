@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Megaquarium
 ---
 
 The manya rays (genus *Manta*) are the world's largest rays and among the most intelligent, graceful creatures in the ocean. Closely related to sharks, these gentle filter-feeding giants glide effortlessly through tropical and subtropical waters using massive, wing-like pectoral fins.

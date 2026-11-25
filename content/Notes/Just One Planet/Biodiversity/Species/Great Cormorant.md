@@ -1,6 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
+  - Alba
+  - Wingspan
 ---
 
 The Great Cormorant (*Phalacrocorax carbo*)

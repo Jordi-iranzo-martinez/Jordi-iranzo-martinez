@@ -5,7 +5,7 @@ The Greenland shark (*Somniosus microcephalus*)
 
 [[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes]]
 
-[[Greenland]]
+[[Web/content/Notes/Just One Humankind/Places/Greenland]]
 
 
 

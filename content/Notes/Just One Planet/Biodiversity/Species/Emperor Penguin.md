@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - Pixar
+  - Megaquarium
 ---
 
 The emperor penguin (*Aptenodytes forsteri*) is the tallest and heaviest of all living penguin species and is endemic to [[Antarctica]]. 

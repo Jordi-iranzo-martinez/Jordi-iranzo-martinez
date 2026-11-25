@@ -1,9 +1,10 @@
 ---
 tags:
-  - Just_One_Planet
   - Harry_Potter
   - Lord_of_the_Rings
   - Planet_of_the_Apes
+  - Red_Redemption
+  - WolfQuest
 ---
 
 The Golden Eagle (*Aquila chrysaetos*) is one of the largest, fastest, and most widely distributed birds of prey on the planet.

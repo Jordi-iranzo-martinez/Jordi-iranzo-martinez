@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - Paleo
+  - Megaquarium
 ---
 
 The Atlantic horseshoe crab (*Limulus polyphemus*)

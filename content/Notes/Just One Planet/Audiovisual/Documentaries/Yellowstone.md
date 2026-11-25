@@ -1,6 +1,4 @@
 ---
-tags:
-  - Just_One_Planet
 title: Yellowstone
 subtitle: Wildest Winter to Blazing Summer
 year: "2017"

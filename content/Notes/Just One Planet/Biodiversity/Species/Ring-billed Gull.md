@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Fallout
+  - Red_Redemption
 ---
 
 The Ring-billed Gull (*Larus delawarensis*)

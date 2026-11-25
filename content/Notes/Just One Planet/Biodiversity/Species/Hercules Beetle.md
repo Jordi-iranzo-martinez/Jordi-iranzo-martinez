@@ -1,6 +1,6 @@
 ---
 tags:
-  - Just_One_Planet
+  - Bug_and_Seek
 ---
 The Hercules Beetle (*Dynastes hercules*) is one of the largest flying insects in the world and a member of the rhinoceros beetle family (Scarabaeidae) ([[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]]).
 

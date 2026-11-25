@@ -46,6 +46,6 @@ Preparación paso a paso
 
 El potaje de vigilia se sirve muy caliente en platos hondos o cazuelas individuales de barro, asegurándose de repartir bien las lascas de bacalao y las hojas de espinaca, y coronando cada plato con cuartos o rodajas de huevo duro por encima. 
 
-*(En muchas casas se acompaña de torrijas de postre para completar el menú de [[Semana Santa]]).*
+*(En muchas casas se acompaña de torrijas de postre para completar el menú de [[Web/content/Notes/Memorias Hispanas/Cultura/Otros/Semana Santa]]).*
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iNEUr-GFrfk?si=7mkYZDVr9MzxJRwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

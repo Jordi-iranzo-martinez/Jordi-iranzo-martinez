@@ -3,7 +3,7 @@ tags:
   - Just_One_Planet
   - Pokémon
 ---
-The Coconut crab (*Birgus latro*) is the largest land-living arthropod in the world, famous for its staggering size, bone-crushing claw strength, and ability to climb tall [[Coconut Palm Tree]].
+The Coconut crab (*Birgus latro*) is the largest land-living arthropod in the world, famous for its staggering size, bone-crushing claw strength, and ability to climb tall [[Coconut Tree]].
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VWqXSFgvKkY?si=TXjVU2T9eMKCp_M7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

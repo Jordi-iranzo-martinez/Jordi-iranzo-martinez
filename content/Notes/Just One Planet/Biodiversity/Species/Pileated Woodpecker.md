@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Red_Redemption
 ---
 
 The Pileated Woodpecker (family Picidae)

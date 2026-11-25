@@ -8,6 +8,7 @@ tags:
   - DreamWorks
   - Star_Wars
   - Animal_Crossing
+  - Red_Redemption
 ---
 
 The Arican Lion (*Panthera leo*)

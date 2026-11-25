@@ -2,6 +2,7 @@
 tags:
   - Pixar
   - Beyond_Blue
+  - Megaquarium
 ---
 The whale shark (*Rhincodon typus*) is a slow-moving, filter-feeding carpet shark and the largest known extant fish species on Earth. Despite its massive size and name, it is a docile pelagic shark rather than a whale, feeding primarily on plankton and small nekton across tropical and warm-temperate oceans.
 

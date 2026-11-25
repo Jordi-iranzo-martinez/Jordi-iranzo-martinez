@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Disney
   - Fallout
+  - Red_Redemption
 ---
 The white-tailed deer (*Odocoileus virginianus*), commonly known as the whitetail or Virginia deer, is a medium-sized deer native to [[North America]], Central America, and northern [[South America]].
 

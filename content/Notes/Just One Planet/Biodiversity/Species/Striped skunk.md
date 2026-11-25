@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Disney
   - DreamWorks
+  - Red_Redemption
 ---
 
 The Striped skunk (*Mephitis mephitis*)

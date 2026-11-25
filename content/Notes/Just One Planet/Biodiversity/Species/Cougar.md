@@ -1,8 +1,9 @@
 ---
 tags:
-  - Just_One_Planet
   - Game_of_Thrones
   - Pokémon
+  - Red_Redemption
+  - WolfQuest
 ---
 
 The cougar (*Puma concolor*), also widely known as the mountain lion, puma, or panther, is a large, adaptable wild cat native to the Americas ([[North America]] and [[South America]])

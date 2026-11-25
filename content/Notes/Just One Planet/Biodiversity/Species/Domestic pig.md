@@ -3,6 +3,7 @@ tags:
   - Pokémon
   - Gibhli
   - Animal_Crossing
+  - Red_Redemption
 ---
 The pig (*Sus scrofa domesticus*) is an omnivorous, even-toed ungulate mammal belonging to the family Suidae. Domesticated from the Eurasian wild boar (*Sus scrofa*) roughly 9,000 to 10,000 years ago, pigs are among the most widespread, intelligent, and economically significant domestic animals in the world.
 

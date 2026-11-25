@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Star_Wars
+  - Ancestors
 ---
 
 The Baobab Tree (*Adansonia digitata*)

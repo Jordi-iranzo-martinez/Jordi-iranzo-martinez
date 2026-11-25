@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - DreamWorks
   - Pokémon
+  - Megaquarium
 ---
 
 The polar bear (*Ursus maritimus*) is a hypercarnivorous bear native to the [[Arctic]] Circle and the largest extant land carnivore on Earth (rivaled in size only by the Kodiak brown bear). 
@@ -21,7 +21,7 @@ Beneath its seemingly white coat, a polar bear actually has jet-black skin that 
 
 Polar bears have a 10-centimeter (4 in) layer of blubber, small ears and tails to minimize heat loss, broad paws up to 30 centimeters (12 in) wide lined with tiny bumps (_papillae_) for traction on ice, and partial webbing between their toes. Capable swimmers, they can paddle continuously for dozens of miles at speeds up to 10 km/h (6 mph).
 
-Polar bears inhabit the Arctic sea ice, islands, and coastlines of [[Canada]], [[Greenland]] (Denmark), [[Norway]] (Svalbard), [[Russia]], and the United States ([[Alaska]]). Their primary prey consists of ringed seals and bearded seals, which they hunt by waiting patiently at seal breathing holes (_aglus_) in the ice or stalking seals resting on ice floes.
+Polar bears inhabit the Arctic sea ice, islands, and coastlines of [[Canada]], [[Web/content/Notes/Just One Humankind/Places/Greenland]] (Denmark), [[Norway]] (Svalbard), [[Russia]], and the United States ([[Alaska]]). Their primary prey consists of ringed seals and bearded seals, which they hunt by waiting patiently at seal breathing holes (_aglus_) in the ice or stalking seals resting on ice floes.
 
 Although polar bears share their Arctic habitat with walruses, healthy adult walruses are massive and armed with lethal tusks, making them dangerous targets; polar bears generally only hunt walrus calves, injured individuals, or scavenge carcasses, and occasionally trigger fatal stampedes when approaching crowded coastal walrus haul-outs.
 

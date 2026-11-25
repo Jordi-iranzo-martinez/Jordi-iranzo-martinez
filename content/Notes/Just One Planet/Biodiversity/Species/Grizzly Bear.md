@@ -6,6 +6,8 @@ tags:
   - Lord_of_the_Rings
   - Disney
   - Planet_Zoo
+  - Red_Redemption
+  - WolfQuest
 ---
 
 The grizzly bear (*Ursus arctos horribilis*), also known as the North American brown bear or silvertip bear, is a large subspecies of brown bear inhabiting western and northern [[North America]]. 

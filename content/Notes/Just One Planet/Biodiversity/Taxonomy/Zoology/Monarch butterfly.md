@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pixar
+  - Bug_and_Seek
 ---
 
 The Monarch butterfly (*Danaus plexippus*)

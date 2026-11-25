@@ -1,8 +1,9 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - Planet_Zoo
+  - Red_Redemption
+  - WolfQuest
 ---
 
 The American bison (*Bison bison*) —commonly called the American buffalo—is the largest land mammal in [[North America]] and a keystone species of the continent's grasslands

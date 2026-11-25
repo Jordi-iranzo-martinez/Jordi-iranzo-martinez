@@ -2,6 +2,7 @@
 tags:
   - Pokémon
   - Beyond_Blue
+  - Megaquarium
 ---
 
 The Ocean Sunfish (*Mola mola*)

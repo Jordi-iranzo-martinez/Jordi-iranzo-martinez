@@ -1,7 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Alba
+  - Red_Redemption
 ---
 
 The Donkey (Equus asinus) 

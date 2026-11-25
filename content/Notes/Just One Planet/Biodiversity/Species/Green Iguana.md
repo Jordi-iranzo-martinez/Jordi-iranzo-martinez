@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Star_Wars
   - Planet_Zoo
+  - Red_Redemption
 ---
 
 The Green Iguana (*Iguana iguana*) also known as the American iguana, is a large, arboreal, and mostly herbivorous species of lizard

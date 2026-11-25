@@ -3,6 +3,7 @@ tags:
   - Just_One_Planet
   - Pokémon
   - Harry_Potter
+  - Alba
 ---
 
 The Barn Owl (*Tyto alba*) is one of the most widely distributed birds in the world, found on every continent except Antarctica. Easily recognized by its stark white, heart-shaped facial disc, dark eyes, and ghostly silent flight, it is a specialized nocturnal rodent hunter that frequently nests near farms and rural buildings.

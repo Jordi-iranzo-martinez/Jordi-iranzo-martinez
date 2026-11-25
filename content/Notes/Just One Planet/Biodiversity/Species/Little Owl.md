@@ -1,7 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Wingspan
+  - Alba
 ---
 
 The Little Owl (*Athene noctua*)

@@ -2,6 +2,7 @@
 tags:
   - Just_One_Planet
   - Pokémon
+  - Bug_and_Seek
 ---
 
 
