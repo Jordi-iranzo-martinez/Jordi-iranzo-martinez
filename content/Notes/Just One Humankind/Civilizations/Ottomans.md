@@ -1,6 +1,7 @@
 ---
 tags:
   - Age_of_Empires_II
+  - Mount_and_Blade
 ---
 
 The Ottoman Empire was one of the most powerful, longest-lasting, and largest empires in world history, spanning over 600 years from its founding in 1299 until its official dissolution in 1922.

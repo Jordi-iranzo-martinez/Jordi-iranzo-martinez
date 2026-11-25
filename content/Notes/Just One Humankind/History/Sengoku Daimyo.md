@@ -6,4 +6,4 @@ tags:
 
 
 
-[[Ancient Japanese]]
+[[Japanese]]

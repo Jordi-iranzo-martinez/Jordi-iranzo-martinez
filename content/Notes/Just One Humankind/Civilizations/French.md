@@ -4,4 +4,5 @@ tags:
   - American_Conquest
   - Broken_Sword
   - Age_of_Empires_II
+  - Civilization
 ---

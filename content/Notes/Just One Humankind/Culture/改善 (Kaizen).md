@@ -4,7 +4,7 @@ tags:
 ---
 改善 (Kaizen) (del japonés *kai* "cambio" y *zen* "bueno" o "mejor") es una filosofía japonesa de gestión y desarrollo personal que propugna la mejora constante.
 
-[[Ancient Japanese]]
+[[Japanese]]
 
 
 Su principio fundamental es que pequeños cambios constantes y diarios aplicados a un proceso generan resultados masivos y duraderos a largo plazo, superando la necesidad de transformaciones radicales o bruscas.
