@@ -1,8 +1,8 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - Animal_Crossing
+  - Dawn_of_Man
 ---
 
 Cow (*Bos taurus*)

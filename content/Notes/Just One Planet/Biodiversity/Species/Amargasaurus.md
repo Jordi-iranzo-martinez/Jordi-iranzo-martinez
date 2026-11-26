@@ -3,7 +3,7 @@ tags:
   - Paleo
 ---
 
-*Amargasaurus cazaui* is a genus of herbivorous sauropod dinosaur that lived during the Early [[Cretaceous]] period (about 130 to 122 million years ago) in what is now [[Web/content/Notes/Just One Humankind/Places/Patagonia]] ([[Argentina]]).
+*Amargasaurus cazaui* is a genus of herbivorous sauropod dinosaur that lived during the Early [[Cretaceous]] period (about 130 to 122 million years ago) in what is now [[Web/content/Notes/Just One World/Places/Patagonia]] ([[Argentina]]).
 
 *[[Reptiles]], [[Dinosaurs]]*
 

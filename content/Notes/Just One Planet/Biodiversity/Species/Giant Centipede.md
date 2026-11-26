@@ -1,5 +1,11 @@
+---
+tags:
+  - Green_Hell
+---
 
-The Amazonian giant centipede (Scolopendra gigantea), also known as the Peruvian giant yellow-leg centipede, is the largest centipede species in the world. Native to the tropical rainforests and dry forests of northern [[South America]] (such as [[Venezuela]], [[Colombia]], [[Perú]]) and [[Caribbean]] islands like Trinidad and Aruba, this terrifying invertebrate is an aggressive apex ambush predator known for its staggering size and potent venom.
+The Amazonian giant centipede (*Scolopendra gigantea*), also known as the Peruvian giant yellow-leg centipede, is the largest centipede species in the world. 
+
+Native to the tropical rainforests and dry forests of northern [[South America]] (such as [[Venezuela]], [[Colombia]], [[Perú]]) and [[Caribbean]] islands like Trinidad and Aruba, this terrifying invertebrate is an aggressive apex ambush predator known for its staggering size and potent venom.
 
 Adults routinely reach lengths of 26 to 30 centimeters (10 to 12 inches), with exceptional specimens pushing past 35 centimeters (14 inches)—making them as long as a human forearm.
 

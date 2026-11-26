@@ -18,7 +18,7 @@ Around the 12th century, somewhere in southern France or Spain, an unknown inven
 
 Spain played a massive role in cementing the game's legacy.
 
-In 1547, in [[Valencia]], a Spaniard named Antonio de Torquemada published the very first book in the world about Damas.
+In 1547, in [[Web/content/Notes/Memorias Hispanas/Lugares/Valencia]], a Spaniard named Antonio de Torquemada published the very first book in the world about Damas.
 
 Historians note that the rise of the game's popularity closely matched the rise of the ultra-powerful Queen (Dama) in Spanish chess under Queen Isabella of Castile. It is during this era that the concept of a promoted piece becoming a powerful "Flying King" (or _Dama_) became a core mechanic in the Spanish variant.
 

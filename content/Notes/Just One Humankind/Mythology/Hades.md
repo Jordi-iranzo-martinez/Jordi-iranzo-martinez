@@ -1,4 +1,9 @@
 ---
 tags:
   - Age_of_Mythology
+  - God_of_War
+  - Disney
+  - Hades
+  - Marvel
+  - Final_Fantasy
 ---

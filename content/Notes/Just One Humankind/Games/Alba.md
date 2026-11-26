@@ -16,5 +16,5 @@ Puedes fotografiar **flamencos comunes** en las marismas, garzas reales, **marti
 - [[Delfín]]
 - [[Lince ibérico]]
 
-[[Valencia]] y en especial [[Albufera de Valencia]]
+[[Web/content/Notes/Memorias Hispanas/Lugares/Valencia]] y en especial [[Albufera de Valencia]]
 

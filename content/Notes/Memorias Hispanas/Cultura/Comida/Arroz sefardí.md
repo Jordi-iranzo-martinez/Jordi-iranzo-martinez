@@ -5,7 +5,7 @@ El arroz sefardí es una preparación tradicional de la cocina judía sefardí �
 
 Se caracteriza por ser un arroz suelto y muy aromático cocinado con fideos finos previamente tostados, frutos secos (piñones, almendras), pasas, especias cálidas (canela, comino, pimienta de Jamaica) y a menudo acompañado o guisado con pollo o cordero, respetando siempre las normas dietéticas judías (_kashrut_, sin cerdo ni marisco y sin mezclar carne con lácteos).
 
-En la cocina española actual —especialmente en comunidades con fuerte legado sefardí como [[Toledo]], [[Córdoba]] o [[Valencia]]— se mantiene vivo como un plato festivo que combina sabores dulces y salados.
+En la cocina española actual —especialmente en comunidades con fuerte legado sefardí como [[Toledo]], [[Córdoba]] o [[Web/content/Notes/Memorias Hispanas/Lugares/Valencia]]— se mantiene vivo como un plato festivo que combina sabores dulces y salados.
 
 Receta tradicional de arroz sefardí (con fideos tostados, frutos secos y pollo)
 

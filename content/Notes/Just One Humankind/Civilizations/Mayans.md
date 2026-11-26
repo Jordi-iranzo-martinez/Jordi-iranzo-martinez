@@ -4,6 +4,8 @@ tags:
   - American_Conquest
   - Assassins_Creed
   - Broken_Sword
+  - Marvel
+  - Pokémon
 ---
 
 

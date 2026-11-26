@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Green_Hell
 ---
 
 The discus fish (genus *Symphysodon*) are a group of brightly colored, laterally compressed freshwater cichlids native to the [[Amazon]] River basin in [[South America]], belonging to the cichlid family (Cichlidae).

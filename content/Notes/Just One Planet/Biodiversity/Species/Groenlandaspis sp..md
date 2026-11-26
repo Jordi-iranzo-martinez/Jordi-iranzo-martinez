@@ -10,7 +10,7 @@ Its most defining feature was its heavy armor plating, particularly a distinct t
 
 Its fossilized armor plates have been unearthed in:
 
-- [[Web/content/Notes/Just One Humankind/Places/Greenland]]
+- [[Web/content/Notes/Just One World/Places/Greenland]]
 - [[North America]] (Pennsylvania)
 - [[Europe]]
 - [[Australia]]

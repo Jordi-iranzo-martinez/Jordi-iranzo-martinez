@@ -6,7 +6,7 @@ Andalucía
 
 [[Córdoba]]
 
-[[Granada]]
+[[Web/content/Notes/Memorias Hispanas/Lugares/Granada]]
 
 [[Sevilla]]
 

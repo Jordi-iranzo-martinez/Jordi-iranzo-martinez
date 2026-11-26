@@ -1,3 +1,7 @@
+---
+tags:
+  - Pokémon
+---
 
 Sumo 
 

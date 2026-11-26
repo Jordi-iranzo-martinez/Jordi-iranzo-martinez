@@ -8,7 +8,7 @@ Consiste en manitas de cerdo cocidas a fuego lento hasta quedar muy tiernas y ba
 
 San Antonio Abad (San Antón) es el patrón de los animales y de los carniceros, y en la iconografía tradicional siempre aparece acompañado de un cerdo. Su festividad en pleno invierno coincide históricamente con la época de las matanzas y con el rifado tradicional del "gorrino de San Antón" en muchos pueblos españoles.
 
-En localidades como [[Sagunto]] (Valencia), este plato da nombre a las tradicionales _Jornadas de la Uña_, donde las manitas de cerdo se preparan guisadas en _sobreúsa_ (una salsa tradicional valenciana) o en versiones renovadas. En [[Granada]], las manitas también son parte fundamental de la _pringá_ de la famosa Olla de San Antón o se guisan aparte en salsa.
+En localidades como [[Sagunto]] (Valencia), este plato da nombre a las tradicionales _Jornadas de la Uña_, donde las manitas de cerdo se preparan guisadas en _sobreúsa_ (una salsa tradicional valenciana) o en versiones renovadas. En [[Web/content/Notes/Memorias Hispanas/Lugares/Granada]], las manitas también son parte fundamental de la _pringá_ de la famosa Olla de San Antón o se guisan aparte en salsa.
 
 Ingredientes principales
 

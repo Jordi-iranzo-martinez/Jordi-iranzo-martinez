@@ -1,6 +1,6 @@
 ---
 tags:
-  - Memorias_Hispanas
+  - Pokémon
 ---
 
 

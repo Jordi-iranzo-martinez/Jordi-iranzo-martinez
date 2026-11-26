@@ -1,9 +1,10 @@
 ---
 tags:
-  - Just_One_Planet
   - Disney
+  - Green_Hell
 ---
 
 The House mouse (*Mus musculus*)
 
-[[Mammals]]
+
+[[Mammalia]]

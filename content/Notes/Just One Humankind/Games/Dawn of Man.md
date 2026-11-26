@@ -10,7 +10,7 @@ The Paleolithic (meaning "Old Stone Age")
 
 Humans live as small nomadic bands. In real history and the game, your survival relies entirely on hunting megafauna and gathering wild berries, flint, and sticks. [1](https://www.google.com/goto?url=CAESiAEB6zswFTmXhPfrOJ5_BmAb2lNlXDjt_9fuhGklbK88b8h2rthb8c3jmMDYfUUW-yToWeU-5LNF742jiyvc7_xIJN05ID2Rzy3aIlagUVq-cHzpst4NmRclvIn3Bu1brrmsr01skZ5X1QYCwjPUCp1xFrxct1TOJZ6q1o2bzgEzXyBJWAWZf2lI), [2](https://www.google.com/goto?url=CAESZwHrOzAVi9-bOTrVBiToz6hx-CFyCmmtIz0DPO7NpBnPXS3IUdLSX2PeKPlSL9InxC6d_HvqJ-84JITxSPkptBUoKi8ESy0nx04tOzZaTq-VlHLA8Lc6MzTpS_nJE7wRpEBbcL1geiM)
 
-Megafauna like the wooly rhino, the wooly mammouth, the cave lion, the cave bear, and the megaloceros ([[Ice Age]]).
+Megafauna like the wooly rhino, the wooly mammouth, the cave lion, the cave bear, and the megaloceros ([[Web/content/Notes/Just One Planet/Audiovisual/Films/Ice Age]]).
 
 The Mesolithic ("Middle Stone") Recreates the post-glacial period where tools became more refined (using bone and advanced flint tools) and leather processing allowed for better clothing.
 

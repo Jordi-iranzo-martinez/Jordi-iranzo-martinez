@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Star_Wars
+  - Dawn_of_Man
 ---
 
 The muskox (*Ovibos moschatus*)

@@ -1,5 +1,5 @@
 
-A feijoada à portuguesa é um dos pratos de tacho mais tradicionais e emblemáticos da gastronomia de [[Portugal]]. 
+A feijoada à portuguesa é um dos pratos de tacho mais tradicionais e emblemáticos da gastronomia de [[Web/content/Notes/Memorias Hispanas/Lugares/Portugal]]. 
 
 Ao contrário da famosa feijoada brasileira (feita quase sempre com feijão preto), a versão portuguesa prepara-se com feijão branco ou encarnado, acompanhado por uma grande variedade de carnes e enchidos de porco, legumes e especiarias.
 

@@ -11,7 +11,7 @@ year: "1938"
 
 A principios del siglo XIII, la Rus de Kiev era un mosaico de principados feudales independientes y rivales entre sí.
 
-En este contexto, huestes de la Horda de Oro mongola ([[Mulan]]) asolaron Rusia entre 1237 y 1240. Destruyeron Kiev, quemaron ciudades y sometieron a casi todos los principados a pagar tributos masivos bajo amenaza de exterminio.  las invasiones de los mongoles (Horda ded Oro).
+En este contexto, huestes de la Horda de Oro mongola ([[Web/content/Notes/Just One Humankind/Films/Mulan]]) asolaron Rusia entre 1237 y 1240. Destruyeron Kiev, quemaron ciudades y sometieron a casi todos los principados a pagar tributos masivos bajo amenaza de exterminio.  las invasiones de los mongoles (Horda ded Oro).
 
 Los católicos aprovecharon para invadir por el oeste. El Papa Gregorio IX emitió una bula instando a realizar las Cruzadas del Norte para forzar a los cristianos ortodoxos a la autoridad de la Iglesia de Roma.
 

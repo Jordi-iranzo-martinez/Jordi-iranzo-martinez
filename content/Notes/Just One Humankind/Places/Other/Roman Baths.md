@@ -1,4 +1,0 @@
----
-tags:
-  - Assassins_Creed
----

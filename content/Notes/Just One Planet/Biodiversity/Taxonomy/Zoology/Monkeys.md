@@ -2,6 +2,7 @@
 tags:
   - Pokémon
   - Animal_Crossing
+  - Green_Hell
 ---
 
 Monkeys (infraorder Simiiformes)

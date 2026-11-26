@@ -1,5 +1,5 @@
 
-El pollo mozárabe es una receta tradicional de inspiración medieval hispanomusulmana y cristiana, muy arraigada en la gastronomía de [[Andalucía]] (especialmente en [[Córdoba]] y [[Granada]]) y en la zona de [[Toledo]].
+El pollo mozárabe es una receta tradicional de inspiración medieval hispanomusulmana y cristiana, muy arraigada en la gastronomía de [[Andalucía]] (especialmente en [[Córdoba]] y [[Web/content/Notes/Memorias Hispanas/Lugares/Granada]]) y en la zona de [[Toledo]].
 
 Refleja el mestizaje culinario de los mozárabes (cristianos que vivían en territorio de [[Al-Ándalus]]), combinando pollo guisado a fuego lento con una salsa espesa y aterciopelada de almendras fritas, pan tostado, pasas, ciruelas secas o dátiles, vino blanco o dulce, azafrán y especias cálidas como canela y comino.
 

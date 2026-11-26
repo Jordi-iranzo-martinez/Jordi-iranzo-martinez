@@ -5,6 +5,6 @@ tags:
 
 [[Buddhism]]
 
-in Kioto ([[Web/content/Notes/Just One Humankind/Places/Japan|Japan]])
+in Kioto ([[Web/content/Notes/Just One World/Places/Japan|Japan]])
 
 

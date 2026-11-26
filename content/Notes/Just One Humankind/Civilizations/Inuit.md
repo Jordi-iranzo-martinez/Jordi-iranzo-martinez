@@ -1,5 +1,5 @@
 
-The Inuit are a group of culturally and linguistically related Indigenous peoples inhabiting the [[Arctic]] and subarctic regions of [[Web/content/Notes/Just One Humankind/Places/Greenland]], [[Canada]] (Nunavut, Nunavik, Nunatsiavut, and the Inuvialuit Settlement Region), and [[Alaska]] (where they are known as Iñupiat).
+The Inuit are a group of culturally and linguistically related Indigenous peoples inhabiting the [[Arctic]] and subarctic regions of [[Web/content/Notes/Just One World/Places/Greenland]], [[Canada]] (Nunavut, Nunavik, Nunatsiavut, and the Inuvialuit Settlement Region), and [[Alaska]] (where they are known as Iñupiat).
 
 *The word literally means "the people" in Inuktitut, while the singular form for one person is Inuk.*
 

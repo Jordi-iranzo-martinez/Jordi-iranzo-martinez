@@ -1,9 +1,9 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
   - DreamWorks
   - Animal_Crossing
+  - Dawn_of_Man
 ---
 
 Goats

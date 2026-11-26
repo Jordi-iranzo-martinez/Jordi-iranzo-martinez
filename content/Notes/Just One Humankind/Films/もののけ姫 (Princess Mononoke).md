@@ -20,7 +20,7 @@ Miyazaki estudió profundamente los archivos históricos del período Muromachi 
 
 - **Los Emishi (La tribu de Ashitaka):** Eran un **pueblo indígena real** que habitaba originalmente el noreste de Japón (Honshu). Como revisamos en las notas sobre los samuráis, los Emishi resistieron durante siglos la conquista del emperador con sus arcos y caballos, hasta que fueron diezmados o asimilados en el siglo X. En la película, la aldea de Ashitaka se presenta como un reducto secreto que sobrevivió escondido en las montañas manteniendo sus costumbres ancestrales.
 
-[[七人の侍 (Seven Samurai)]]
+[[Seven Samurai]]
 
 
 Al igual que en _Los siete samuráis_, las armas marcan el fin de una era. Lady Eboshi utiliza **cañones de mano de pólvora (_ishibiya_)** modificados.

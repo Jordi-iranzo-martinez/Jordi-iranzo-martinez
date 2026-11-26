@@ -4,4 +4,5 @@ tags:
   - Mount_and_Blade
   - Assassins_Creed
   - Civilization
+  - Game_of_Thrones
 ---

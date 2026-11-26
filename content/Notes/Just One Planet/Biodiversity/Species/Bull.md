@@ -1,7 +1,7 @@
 ---
 tags:
-  - Pokémon
   - Red_Redemption
+  - Dawn_of_Man
 ---
 
 The Bull (*Bos taurus*)

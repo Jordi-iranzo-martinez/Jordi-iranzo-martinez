@@ -26,7 +26,7 @@ Core Principles
 
 Examples in Japanese Culture and Design
 
-- **_[[Kintsugi]]_** (金継ぎ). The traditional art of repairing broken pottery with lacquer dusted with powdered gold, silver, or platinum—treating fractures as an integral part of the object's history rather than something to disguise.
+- **_[[Pruebas de edición/content/Expresión/Microcuentos/Kintsugi]]_** (金継ぎ). The traditional art of repairing broken pottery with lacquer dusted with powdered gold, silver, or platinum—treating fractures as an integral part of the object's history rather than something to disguise.
 
 - **Japanese rock gardens** (_Karesansui_). Minimalist arrangements of uncarved boulders, raked gravel, and moss that celebrate raw textures and seasonal change.
 

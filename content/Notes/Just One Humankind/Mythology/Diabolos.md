@@ -1,0 +1,4 @@
+---
+tags:
+  - Final_Fantasy
+---

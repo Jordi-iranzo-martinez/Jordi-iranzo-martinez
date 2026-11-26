@@ -6,6 +6,7 @@ tags:
   - Planet_of_the_Apes
   - Star_Wars
   - Animal_Crossing
+  - Dawn_of_Man
 ---
 
 The Horse (*Equus caballus*) 

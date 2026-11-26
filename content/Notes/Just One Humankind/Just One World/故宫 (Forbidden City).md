@@ -1,5 +1,0 @@
-
-Forbidden City ([[China]])
-
-
-

@@ -14,7 +14,7 @@ They thrive in wet, acidic soils composed mostly of peat moss and sand. These so
 
 
 
-[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]] such a [[Ants]], [[Beetles]], [[Field crickets]]... but alo [[Flie]], [[Mosquito]], [[Wasps]], and even [[Arachnids]] like spiders
+[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects|Insects]] such a [[Ants]], [[Beetles]], [[Field crickets]]... but alo [[Flie]], [[Web/content/Notes/Just One Planet/Biodiversity/Species/Mosquito]], [[Wasps]], and even [[Arachnids]] like spiders
 
 
 

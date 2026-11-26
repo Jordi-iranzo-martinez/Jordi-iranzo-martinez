@@ -11,7 +11,7 @@ The sole living species in the family Odobenidae, it is instantly recognizable b
 
 Subspecies and Range
 
-- **Atlantic walrus** (*Odobenus rosmarus rosmarus*). Inhabits coastal areas from the Canadian [[Arctic]] and [[Web/content/Notes/Just One Humankind/Places/Greenland]] to Svalbard and the western Russian Arctic.
+- **Atlantic walrus** (*Odobenus rosmarus rosmarus*). Inhabits coastal areas from the Canadian [[Arctic]] and [[Web/content/Notes/Just One World/Places/Greenland]] to Svalbard and the western Russian Arctic.
 	*[[Canada]], [[Russia]]*
 
 - **Pacific walrus** (*Odobenus rosmarus divergens*). Larger and more numerous than the Atlantic subspecies, migrating seasonally between the Bering and Chukchi seas off [[Alaska]] and eastern [[Siberia]]. _(A third population in the Laptev Sea is generally classified as a westernmost branch of the Pacific walrus)._

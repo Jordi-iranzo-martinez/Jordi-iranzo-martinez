@@ -3,6 +3,7 @@ tags:
   - 0_AD
   - Age_of_Empires_II
   - Civilization
+  - Game_of_Thrones
 ---
 
 El ejército persa (_spada_) estaba mandado por un _spadapatis_. Se basaba en las levas de cada satrapía del imperio. Las tropas se organizaban en las siguientes unidades:

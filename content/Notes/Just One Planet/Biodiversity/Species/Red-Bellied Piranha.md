@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Green_Hell
 ---
 
 The Red-Bellied Piranha (Pygocentrus nattereri)

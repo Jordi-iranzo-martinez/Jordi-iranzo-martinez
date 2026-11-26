@@ -1,7 +1,7 @@
 ---
 tags:
-  - Just_One_Planet
   - Pokémon
+  - Green_Hell
 ---
 
 [[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Insects]]

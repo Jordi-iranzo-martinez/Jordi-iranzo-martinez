@@ -1,6 +1,5 @@
 ---
 tags:
-  - Animal_Crossing
 ---
 [Bird Migration Atlas](https://migrationatlas.org/)
 

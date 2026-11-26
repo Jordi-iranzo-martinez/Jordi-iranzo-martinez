@@ -19,7 +19,7 @@ There are three distinct species of peafowl in the world:
 
 - **Green Peafowl** (*Pavo muticus*). Native to Southeast [[Asia]], both males and females of this species have vibrant green and bronze plumage, and they are currently classified as endangered.
 
-- **Congo Peafowl** (*Afropavo congensis*). Native to the [[Congo Basin]] in Africa, this smaller species lacks the long, eye-spotted train seen in its Asian relatives.
+- **Congo Peafowl** (*Afropavo congensis*). Native to the [[Congo river Basin]] in Africa, this smaller species lacks the long, eye-spotted train seen in its Asian relatives.
 
 During mating season, peacocks fan out their feathers into a wide arch and vibrate them, producing a low-frequency rattling sound to attract peahens.
 

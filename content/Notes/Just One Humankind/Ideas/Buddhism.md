@@ -1,3 +1,7 @@
+---
+tags:
+  - Pokémon
+---
 
 Buddhism is a major non-theistic religion, philosophy, and spiritual tradition that originated in ancient northern India between the 6th and 5th centuries BCE. 
 

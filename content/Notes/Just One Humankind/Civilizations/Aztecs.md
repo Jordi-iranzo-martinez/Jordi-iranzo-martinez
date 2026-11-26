@@ -4,4 +4,5 @@ tags:
   - American_Conquest
   - Broken_Sword
   - Civilization
+  - Pokémon
 ---

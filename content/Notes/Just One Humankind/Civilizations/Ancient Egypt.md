@@ -3,6 +3,8 @@ tags:
   - Sierra
   - Age_of_Empires_II
   - Civilization
+  - Game_of_Thrones
+  - Pokémon
 ---
 
 

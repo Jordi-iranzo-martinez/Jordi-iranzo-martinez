@@ -2,7 +2,7 @@
 tags:
   - Memorias_Hispanas
 ---
-La olla de San Antón es el potaje tradicional de invierno más emblemático de la gastronomía de [[Granada]] ([[España]]) (especialmente en la capital, la Vega y la Alpujarra).
+La olla de San Antón es el potaje tradicional de invierno más emblemático de la gastronomía de [[Web/content/Notes/Memorias Hispanas/Lugares/Granada]] ([[España]]) (especialmente en la capital, la Vega y la Alpujarra).
 
 Consiste en un guiso contundente y muy meloso elaborado a fuego lento con habas secas, judías blancas, arroz y abundantes productos de la matanza del cerdo.
 

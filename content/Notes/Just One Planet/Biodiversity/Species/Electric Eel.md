@@ -2,6 +2,7 @@
 tags:
   - Pokémon
   - Megaquarium
+  - Green_Hell
 ---
 
 The Electric Eel (genus *Electrophorus*) is a South American freshwater fish famous for its ability to generate powerful electric shocks—up to 860 volts—to stun prey and defend against predators. 

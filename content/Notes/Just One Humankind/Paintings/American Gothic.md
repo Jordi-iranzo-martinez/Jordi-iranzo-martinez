@@ -1,6 +1,6 @@
 ---
 tags:
-  - Just_One_Humankind
+  - Pokémon
 year: "1930"
 ---
 

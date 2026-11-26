@@ -1,5 +1,5 @@
 
-El remojón de San Antón (también conocido como remojón granadino o remojón andaluz) es una ensalada tradicional de invierno muy emblemática de la gastronomía de [[Granada]] (especialmente en el Valle de Lecrín y la Alpujarra) y de [[Jaén]] ([[España]]).
+El remojón de San Antón (también conocido como remojón granadino o remojón andaluz) es una ensalada tradicional de invierno muy emblemática de la gastronomía de [[Web/content/Notes/Memorias Hispanas/Lugares/Granada]] (especialmente en el Valle de Lecrín y la Alpujarra) y de [[Jaén]] ([[España]]).
 
 Combina el sabor dulce y ácido de la naranja fresca con el toque salado del bacalao desalado, el aceite de oliva virgen extra, aceitunas y huevo duro.
 

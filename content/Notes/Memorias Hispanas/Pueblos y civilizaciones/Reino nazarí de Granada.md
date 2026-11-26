@@ -1,6 +1,6 @@
 
 
-[[Granada]]
+[[Web/content/Notes/Memorias Hispanas/Lugares/Granada]]
 
 
 [[La rendición de Granada]]

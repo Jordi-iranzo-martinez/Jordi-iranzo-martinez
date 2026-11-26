@@ -2,8 +2,11 @@
 tags:
   - Paleo
   - Prehistoric_Kingdom
+  - Dawn_of_Man
 ---
 *Elasmotherium sibiricum* (popularly known as the "Siberian unicorn") was an extinct genus of giant rhinoceroses that inhabited the Eurasian steppes from the Late Pliocene to the Late Pleistocene, disappearing around 39,000 years ago.
+
+[[Cenozoic]]
 
 Its best-known species, _Elasmotherium sibiricum_, overlapped in time and range with early modern humans ([[Homo sapiens]]) and [[Homo neanderthalensis]].
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Green_Hell
+---
 
 Juaguar are mammal from the cla [[Carnivores]])
 

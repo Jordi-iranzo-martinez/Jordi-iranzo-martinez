@@ -1,4 +1,0 @@
----
-tags:
-  - Total_War
----
