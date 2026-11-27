@@ -25,5 +25,5 @@ Beyond being a major London attraction, Kew is a powerhouse for international bo
 
  Across the grounds and arboretum, visitors can explore over 50,000 living plants and 14,000 trees.
 
-It was designated a [[UNESCO]] World Heritage Site in 2003
+It was designated a [[Web/content/Notes/Just One Humankind/People/UNESCO]] World Heritage Site in 2003
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h1P52BxzyFo?si=3D67fEDULjbut2q_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

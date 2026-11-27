@@ -25,7 +25,7 @@ Pieces follow a progressive rhythmic structure that begins at a very slow, elast
 
 Today, _gagaku_ is maintained primarily by the Music Department of the Imperial Household Agency in Tokyo, as well as at major Shinto shrines (such as Ise, Kasuga, and Itsukushima) and Buddhist temples for state ceremonies and seasonal festivals.
 
-It is inscribed on the [[UNESCO]] Representative List of the Intangible Cultural Heritage of Humanity.
+It is inscribed on the [[Web/content/Notes/Just One Humankind/People/UNESCO]] Representative List of the Intangible Cultural Heritage of Humanity.
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5OA8HFUNfIk?si=sNMAc8qyJ6QCOF_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

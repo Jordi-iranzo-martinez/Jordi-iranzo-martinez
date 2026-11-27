@@ -13,7 +13,7 @@ A live orchestra of flutes and percussion instruments (such as drums and gourds)
 
 Originally performed at funerals, harvests, and village celebrations, Zaouli serves both as a form of entertainment and as a symbol of social cohesion and cultural identity for the Guro communities.
 
-It was inscribed on the [[UNESCO]] Representative List of the Intangible Cultural Heritage of Humanity in 2017.
+It was inscribed on the [[Web/content/Notes/Just One Humankind/People/UNESCO]] Representative List of the Intangible Cultural Heritage of Humanity in 2017.
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b48CRIII54c?si=WQG2OPf6EXagteMb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

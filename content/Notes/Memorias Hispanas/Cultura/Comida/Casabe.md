@@ -1,5 +1,5 @@
 
-El casabe es el pan ancestral más antiguo de América, originario de los pueblos indígenas taínos y caribes y elemento fundamental en la gastronomía de [[Venezuela]], [[República Dominicana]], [[Cuba]], [[Puerto Rico]] y el Caribe colombiano ([[Colombia]]) (declarado Patrimonio Cultural Inmaterial de la Humanidad por la [[UNESCO]]).
+El casabe es el pan ancestral más antiguo de América, originario de los pueblos indígenas taínos y caribes y elemento fundamental en la gastronomía de [[Venezuela]], [[República Dominicana]], [[Cuba]], [[Puerto Rico]] y el Caribe colombiano ([[Colombia]]) (declarado Patrimonio Cultural Inmaterial de la Humanidad por la [[Web/content/Notes/Just One Humankind/People/UNESCO]]).
 
 Consiste en una torta plana, fina, circular y muy crujiente elaborada únicamente con harina o pulpa rallada de yuca (mandioca) amarga o dulce, prensada para extraer su jugo tóxico (en el caso de la yuca brava) y cocida en seco sobre una plancha caliente o budare sin levadura ni grasas, lo que le permite conservarse durante meses sin estropearse.
 

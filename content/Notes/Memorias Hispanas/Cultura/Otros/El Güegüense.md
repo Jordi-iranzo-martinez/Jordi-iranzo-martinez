@@ -26,6 +26,6 @@ Los actores lucen trajes barrocos muy coloridos, sombreros adornados con flores 
 
 Todo el espectáculo transcurre al son de 14 sones tradicionales interpretados con violín, guitarra y tambor.
 
-Fue proclamada por la [[UNESCO]] Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad en 2005 e inscrita en la Lista Representativa en 2008.
+Fue proclamada por la [[Web/content/Notes/Just One Humankind/People/UNESCO]] Obra Maestra del Patrimonio Oral e Inmaterial de la Humanidad en 2005 e inscrita en la Lista Representativa en 2008.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4UtXF9uRB-s?si=mrm6fHzKb1VvTZNu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

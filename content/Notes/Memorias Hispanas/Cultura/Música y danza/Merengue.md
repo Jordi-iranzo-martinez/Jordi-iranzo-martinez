@@ -17,6 +17,6 @@ La pareja baila en posición cerrada dando un paso por cada tiempo musical (izqu
 
 Al tener una pisada más sencilla que la salsa, el baile se centra en la conexión del torso, el movimiento de cadera y las combinaciones de giros con los brazos (vueltas).
 
-Fue inscrito en la lista de Patrimonio Cultural Inmaterial de la Humanidad de la [[UNESCO]] en 2016.
+Fue inscrito en la lista de Patrimonio Cultural Inmaterial de la Humanidad de la [[Web/content/Notes/Just One Humankind/People/UNESCO]] en 2016.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fautemcgU48?si=SshSLT-lY-Dl4Ssp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

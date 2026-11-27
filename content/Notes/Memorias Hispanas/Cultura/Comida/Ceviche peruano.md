@@ -1,5 +1,5 @@
 
-El ceviche peruano (declarado Patrimonio Cultural Inmaterial de la Humanidad por la [[UNESCO]]) es el plato bandera de la gastronomía de [[Perú]]. 
+El ceviche peruano (declarado Patrimonio Cultural Inmaterial de la Humanidad por la [[Web/content/Notes/Just One Humankind/People/UNESCO]]) es el plato bandera de la gastronomía de [[Perú]]. 
 
 Ingredientes (4 raciones)
 

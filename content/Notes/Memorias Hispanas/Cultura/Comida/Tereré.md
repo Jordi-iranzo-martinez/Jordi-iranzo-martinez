@@ -3,7 +3,7 @@ tags:
   - Plant-based
 ---
 
-El tereré es la bebida nacional por excelencia de [[Paraguay]] (reconocida como Patrimonio Cultural Inmaterial de la Humanidad por la [[UNESCO]]) y sumamente popular también en el noreste de [[Argentina]] (Misiones, Corrientes, Formosa, Chaco) y en el sur y centro-oeste de [[Brasil]] (tereré o terere).
+El tereré es la bebida nacional por excelencia de [[Paraguay]] (reconocida como Patrimonio Cultural Inmaterial de la Humanidad por la [[Web/content/Notes/Just One Humankind/People/UNESCO]]) y sumamente popular también en el noreste de [[Argentina]] (Misiones, Corrientes, Formosa, Chaco) y en el sur y centro-oeste de [[Brasil]] (tereré o terere).
 
 Es el "hermano frío" del mate: consiste en una infusión de yerba mate preparada con agua helada y abundante hielo, aromatizada tradicionalmente en Paraguay con hierbas medicinales y refrescantes machacadas (pohã ñana) o, en su versión moderna/argentina, con zumo de cítricos (limón, naranja, pomelo). Se sirve en una guampa (recipiente tradicional hecho de asta de toro, madera de palo santo o acero) y se bebe mediante una bombilla metálica.
 

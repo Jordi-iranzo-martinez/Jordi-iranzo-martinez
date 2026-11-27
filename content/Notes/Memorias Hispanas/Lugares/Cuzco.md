@@ -24,7 +24,7 @@ Se encuentra a 3.399 metros sobre el nivel del mar, por lo que los viajeros suel
 
 Tiene dos estaciones bien marcadas: la época seca (de abril a octubre, con días soleados y noches frías, ideal para el turismo) y la época de lluvias (de noviembre a marzo).
 
-En 1983 fue declarada Patrimonio de la Humanidad por la [[UNESCO]].
+En 1983 fue declarada Patrimonio de la Humanidad por la [[Web/content/Notes/Just One Humankind/People/UNESCO]].
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H9Dd3hZVqMU?si=QlXV3Hz_1r_0Fc_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

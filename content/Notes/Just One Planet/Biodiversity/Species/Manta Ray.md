@@ -6,7 +6,7 @@ tags:
 
 The manya rays (genus *Manta*) are the world's largest rays and among the most intelligent, graceful creatures in the ocean. Closely related to sharks, these gentle filter-feeding giants glide effortlessly through tropical and subtropical waters using massive, wing-like pectoral fins.
 
-*[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes|Fishes]]*
+[[Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes|Fishes]]
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QbYyLI6njW8?si=ZyNUxw2O3EkfFisY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -23,10 +23,6 @@ Unlike stingrays, manta rays do not have a venomous barb on their whip-like tail
 Manta rays eat vast quantities of microscopic zooplankton, fish larvae, and tiny crustaceans. As they swim forward with their mouths wide open, specialized comb-like structures called gill rakers strain plankton out of the water before it exits through their five pairs of gill slits. They often perform graceful underwater barrel rolls or chain-feed in large groups to maximize their catch.
 
 [[Plankton]]
-
-[[Web/content/Notes/Just One Planet/Biodiversity/Taxonomy/Zoology/Fishes|Fishes]]
-
-
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QbYyLI6njW8?si=ZyNUxw2O3EkfFisY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

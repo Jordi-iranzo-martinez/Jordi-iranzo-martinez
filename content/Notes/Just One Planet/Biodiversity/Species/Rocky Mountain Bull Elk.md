@@ -1,4 +1,0 @@
----
-tags:
-  - Red_Redemption
----

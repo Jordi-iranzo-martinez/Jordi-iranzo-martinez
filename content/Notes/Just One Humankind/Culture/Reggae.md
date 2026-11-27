@@ -17,7 +17,7 @@ Shaped heavily by Rastafari philosophy, reggae lyrics frequently address social 
 
 Reggae spawned dub (pioneered by producers Lee "Scratch" Perry and King Tubby, who treated the mixing console as an instrument using echo and reverb), lovers rock, and dancehall, directly influencing the birth of hip-hop, jungle, and reggaeton.
 
-In 2018, [[UNESCO]] inscribed reggae on its Intangible Cultural Heritage of Humanity list.
+In 2018, [[Web/content/Notes/Just One Humankind/People/UNESCO]] inscribed reggae on its Intangible Cultural Heritage of Humanity list.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/olYYISLYLiU?si=-eNc4BaeTx8Hl_wH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

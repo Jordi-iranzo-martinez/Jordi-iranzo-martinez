@@ -28,4 +28,4 @@ The Three Main Pits
 2. A smaller, specialized unit containing cavalry, archers, chariots, and infantry arranged in a complex military formation.
 3. The smallest pit, believed to represent the army's command headquarters, containing high-ranking officers and a war chariot.
 
-The Mausoleum of the First Qin Emperor and its Terracotta Army were designated a [[UNESCO]] World Heritage Site in 1987.
+The Mausoleum of the First Qin Emperor and its Terracotta Army were designated a [[Web/content/Notes/Just One Humankind/People/UNESCO]] World Heritage Site in 1987.
